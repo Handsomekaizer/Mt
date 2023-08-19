@@ -3,143 +3,45 @@
               xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
               xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
       <url>
-        <loc>https://majordigest.com/tech/2023/08/17/oakland-tech-block-square-black-culture-market-real-estate-food-store/</loc>
+        <loc>https://majordigest.com/tech/2023/08/17/opinion-hollywood-strikes-shows-why-it-is-time-to-break-up-netflix-and-other-streamers/</loc>
         <news:news>
           <news:publication>
             <news:name>Major Digest</news:name>
             <news:language>en</news:language>
           </news:publication>
-          <news:publication_date>2023-08-17T18:00:09.000Z</news:publication_date>
-          <news:title>Tech firm Block and a Black cultural group open downtown Oakland market</news:title>
+          <news:publication_date>2023-08-17T11:30:25.000Z</news:publication_date>
+          <news:title>Opinion: Strikes show need to break up Netflix and other streamers</news:title>
         </news:news>
         <image:image>
-          <image:loc>https://majordigest.com/tech/2023/08/17/oakland-tech-block-square-black-culture-market-real-estate-food-store/oakland-tech-block-square-black-culture-market-real-estate-food-store.webp</image:loc>
+          <image:loc>https://majordigest.com/tech/2023/08/17/opinion-hollywood-strikes-shows-why-it-is-time-to-break-up-netflix-and-other-streamers/opinion-hollywood-strikes-shows-why-it-is-time-to-break-up-netflix-and-other-streamers.webp</image:loc>
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/tech/2023/08/18/gms-cruise-robotaxi-collides-with-firetruck-injuring-passenger/</loc>
+        <loc>https://majordigest.com/tech/2023/08/16/ai-is-launching-911-call-centers-into-future-video-calls-triaging-redundant-reports/</loc>
         <news:news>
           <news:publication>
             <news:name>Major Digest</news:name>
             <news:language>en</news:language>
           </news:publication>
-          <news:publication_date>2023-08-18T17:53:54.000Z</news:publication_date>
-          <news:title>GM&#8217;s Cruise robotaxi collides with San Francisco firetruck, injuring passenger</news:title>
+          <news:publication_date>2023-08-16T06:00:00.000Z</news:publication_date>
+          <news:title>AI is launching 911 call centers into the future with video calls, triaging redundant reports</news:title>
         </news:news>
         <image:image>
-          <image:loc>https://majordigest.com/tech/2023/08/18/gms-cruise-robotaxi-collides-with-firetruck-injuring-passenger/gms-cruise-robotaxi-collides-with-firetruck-injuring-passenger.webp</image:loc>
+          <image:loc>https://majordigest.com/tech/2023/08/16/ai-is-launching-911-call-centers-into-future-video-calls-triaging-redundant-reports/ai-is-launching-911-call-centers-into-future-video-calls-triaging-redundant-reports.webp</image:loc>
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/tech/2023/08/17/twitter-doj-spat-over-trump-data-raised-questions-on-musks-role/</loc>
+        <loc>https://majordigest.com/tech/2023/08/15/dont-tricked-scammers-false-promises-slashing-cable-bill-half/</loc>
         <news:news>
           <news:publication>
             <news:name>Major Digest</news:name>
             <news:language>en</news:language>
           </news:publication>
-          <news:publication_date>2023-08-17T14:35:59.000Z</news:publication_date>
-          <news:title>Twitter-DOJ spat over Donald Trump data raised questions on Elon Musk&#8217;s role</news:title>
+          <news:publication_date>2023-08-15T18:26:21.000Z</news:publication_date>
+          <news:title>Don't be tricked by scammers' false promises of slashing your cable bill in half</news:title>
         </news:news>
         <image:image>
-          <image:loc>https://majordigest.com/tech/2023/08/17/twitter-doj-spat-over-trump-data-raised-questions-on-musks-role/twitter-doj-spat-over-trump-data-raised-questions-on-musks-role.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/tech/2023/08/18/chatgpt-wary-universities-scramble-to-prepare-for-new-school-year/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-18T17:35:20.000Z</news:publication_date>
-          <news:title>ChatGPT-wary universities scramble to prepare for new school year</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/tech/2023/08/18/chatgpt-wary-universities-scramble-to-prepare-for-new-school-year/chatgpt-wary-universities-scramble-to-prepare-for-new-school-year.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/tech/2023/08/16/fox-news-ai-newsletter-influencers-admission-cheating-boyfriend/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-16T16:40:43.000Z</news:publication_date>
-          <news:title>Fox News AI Newsletter: Influencer's admission about 'cheating' boyfriend</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/tech/2023/08/16/fox-news-ai-newsletter-influencers-admission-cheating-boyfriend/fox-news-ai-newsletter-influencers-admission-cheating-boyfriend.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/tech/2023/08/09/end-call-button-will-be-moved-in-latest-iphone-software-update/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-09T17:32:59.000Z</news:publication_date>
-          <news:title>&#8216;End Call&#8217; button will be moved in latest iPhone software update</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/tech/2023/08/09/end-call-button-will-be-moved-in-latest-iphone-software-update/end-call-button-will-be-moved-in-latest-iphone-software-update.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/tech/2023/08/16/best-back-to-school-laptops-under-1000/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-16T08:00:00.000Z</news:publication_date>
-          <news:title>Best back to school laptops under $1,000</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/tech/2023/08/16/best-back-to-school-laptops-under-1000/best-back-to-school-laptops-under-1000.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/tech/2023/08/18/tesla-didnt-fix-autopilot-after-fatal-crash-engineers-say/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-18T14:57:54.000Z</news:publication_date>
-          <news:title>Tesla didn&#8217;t fix autopilot after grisly fatal crash, engineers say</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/tech/2023/08/18/tesla-didnt-fix-autopilot-after-fatal-crash-engineers-say/tesla-didnt-fix-autopilot-after-fatal-crash-engineers-say.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/tech/2023/08/17/how-stay-connected-your-phone-traveling-abroad/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-17T18:54:14.000Z</news:publication_date>
-          <news:title>How to stay connected on your phone while traveling abroad</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/tech/2023/08/17/how-stay-connected-your-phone-traveling-abroad/how-stay-connected-your-phone-traveling-abroad.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/tech/2023/08/16/how-stay-incognito-conceal-your-number-calling-someone/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-16T15:34:48.000Z</news:publication_date>
-          <news:title>How to stay incognito and conceal your number when calling someone</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/tech/2023/08/16/how-stay-incognito-conceal-your-number-calling-someone/how-stay-incognito-conceal-your-number-calling-someone.webp</image:loc>
+          <image:loc>https://majordigest.com/tech/2023/08/15/dont-tricked-scammers-false-promises-slashing-cable-bill-half/dont-tricked-scammers-false-promises-slashing-cable-bill-half.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -157,16 +59,58 @@
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/tech/2023/08/16/ai-is-launching-911-call-centers-into-future-video-calls-triaging-redundant-reports/</loc>
+        <loc>https://majordigest.com/tech/2023/08/17/twitter-doj-spat-over-trump-data-raised-questions-on-musks-role/</loc>
         <news:news>
           <news:publication>
             <news:name>Major Digest</news:name>
             <news:language>en</news:language>
           </news:publication>
-          <news:publication_date>2023-08-16T06:00:00.000Z</news:publication_date>
-          <news:title>AI is launching 911 call centers into the future with video calls, triaging redundant reports</news:title>
+          <news:publication_date>2023-08-17T14:35:59.000Z</news:publication_date>
+          <news:title>Twitter-DOJ spat over Donald Trump data raised questions on Elon Musk&#8217;s role</news:title>
         </news:news>
         <image:image>
-          <image:loc>https://majordigest.com/tech/2023/08/16/ai-is-launching-911-call-centers-into-future-video-calls-triaging-redundant-reports/ai-is-launching-911-call-centers-into-future-video-calls-triaging-redundant-reports.webp</image:loc>
+          <image:loc>https://majordigest.com/tech/2023/08/17/twitter-doj-spat-over-trump-data-raised-questions-on-musks-role/twitter-doj-spat-over-trump-data-raised-questions-on-musks-role.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/tech/2023/08/11/ap-2-robotaxi-services-seeking-to-bypass-safety-concerns-and-expand-in-san-francisco-face-pivotal-vote/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-11T02:32:30.000Z</news:publication_date>
+          <news:title>California regulators approve expansion of driverless robotaxi car service</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/tech/2023/08/11/ap-2-robotaxi-services-seeking-to-bypass-safety-concerns-and-expand-in-san-francisco-face-pivotal-vote/ap-2-robotaxi-services-seeking-to-bypass-safety-concerns-and-expand-in-san-francisco-face-pivotal-vote.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/tech/2023/08/18/chatgpt-wary-universities-scramble-to-prepare-for-new-school-year/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-18T17:35:20.000Z</news:publication_date>
+          <news:title>ChatGPT-wary universities scramble to prepare for new school year</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/tech/2023/08/18/chatgpt-wary-universities-scramble-to-prepare-for-new-school-year/chatgpt-wary-universities-scramble-to-prepare-for-new-school-year.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/tech/2023/08/17/blue-shield-california-ditches-cvs-for-amazon-and-mark-cubans-drug-company/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-17T17:55:18.000Z</news:publication_date>
+          <news:title>Blue Shield California ditches CVS for Amazon and Mark Cuban&#8217;s drug company</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/tech/2023/08/17/blue-shield-california-ditches-cvs-for-amazon-and-mark-cubans-drug-company/blue-shield-california-ditches-cvs-for-amazon-and-mark-cubans-drug-company.webp</image:loc>
         </image:image>
       </url></urlset>
