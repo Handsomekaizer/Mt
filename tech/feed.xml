@@ -7,7 +7,7 @@
         <title>Major Digest - Reliable and Comprehensive News Sources: tech</title>
         <description>Get the latest news online at Major Digest, the top online news resource for the most reliable news sources. Stay informed about the world around you!</description>
         <link>https://majordigest.com/?utm_medium=RSS</link>
-        <lastBuildDate>Sat, 19 Aug 2023 18:24:47 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 19 Aug 2023 19:14:02 GMT</lastBuildDate>
         <generator>https://majordigest.com/?v=1.1.4</generator>
         <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/" />
         <atom:link rel="self" href="https://majordigest.com/tech/feed.xml" type="application/rss+xml" />
@@ -18,17 +18,6 @@
           <url>https://majordigest.com/assets/icons/logo-512x512.png</url>
           <link>https://majordigest.com/?utm_medium=RSS</link>
         </image>
-      <item>
-        <title>Parking scam uses fake QR codes to steal your cash</title>
-        <description><![CDATA[Beware of a new scam that involves fake QR codes placed near parking lots. According to the BBB, there are multiple reports of scam artists taking advantage of this convenient way of paying for parking.]]></description>
-        <guid>https://majordigest.com/tech/2023/08/01/scammers-use-fake-parking-qr-codes-to-steal-your-cash/</guid>
-        <link>https://majordigest.com/tech/2023/08/01/scammers-use-fake-parking-qr-codes-to-steal-your-cash/</link>
-        <pubDate>Tue, 01 Aug 2023 13:08:09 +0000</pubDate>
-        <category>tech</category>
-        <media:content medium="image" url="https://majordigest.com/tech/2023/08/01/scammers-use-fake-parking-qr-codes-to-steal-your-cash/scammers-use-fake-parking-qr-codes-to-steal-your-cash.webp"/>
-        <media:thumbnail url="https://majordigest.com/tech/2023/08/01/scammers-use-fake-parking-qr-codes-to-steal-your-cash/scammers-use-fake-parking-qr-codes-to-steal-your-cash.webp"/>
-        <dc:creator>Rich DeMuro, KTLA 5</dc:creator>
-      </item>
       <item>
         <title>Tech firm Block and a Black cultural group open downtown Oakland market</title>
         <description><![CDATA[Tech company Block has teamed up with Black Cultural Zone to open a downtown Oakland retail and dining hub.]]></description>
@@ -41,6 +30,17 @@
         <dc:creator>George Avalos, The Mercury News</dc:creator>
       </item>
       <item>
+        <title>Uber launches new safety feature in Los Angeles</title>
+        <description><![CDATA[The popular ride-hailing service Uber has launched a new in-app safety feature in Los Angeles that gives riders and drivers the option to record audio during a trip. The safety feature was launched in Latin America in 2019 and is currently available in about 150 cities in the U.S.]]></description>
+        <guid>https://majordigest.com/tech/2023/08/09/uber-launches-new-safety-feature-in-los-angeles/</guid>
+        <link>https://majordigest.com/tech/2023/08/09/uber-launches-new-safety-feature-in-los-angeles/</link>
+        <pubDate>Wed, 09 Aug 2023 23:21:19 +0000</pubDate>
+        <category>tech</category>
+        <media:content medium="image" url="https://majordigest.com/tech/2023/08/09/uber-launches-new-safety-feature-in-los-angeles/uber-launches-new-safety-feature-in-los-angeles.webp"/>
+        <media:thumbnail url="https://majordigest.com/tech/2023/08/09/uber-launches-new-safety-feature-in-los-angeles/uber-launches-new-safety-feature-in-los-angeles.webp"/>
+        <dc:creator>Travis Schlepp, KTLA 5</dc:creator>
+      </item>
+      <item>
         <title>Real or fake? AI product reviews are making it impossible to know the difference</title>
         <description><![CDATA[Artificial intelligence is making it harder to identify fake reviews on travel or retail sites. Kurt &quot;The CyberGuy&quot; Knutsson explains.]]></description>
         <guid>https://majordigest.com/tech/2023/08/18/real-fake-ai-product-reviews-are-making-it-impossible-know-difference/</guid>
@@ -49,28 +49,6 @@
         <category>tech</category>
         <media:content medium="image" url="https://majordigest.com/tech/2023/08/18/real-fake-ai-product-reviews-are-making-it-impossible-know-difference/real-fake-ai-product-reviews-are-making-it-impossible-know-difference.webp"/>
         <media:thumbnail url="https://majordigest.com/tech/2023/08/18/real-fake-ai-product-reviews-are-making-it-impossible-know-difference/real-fake-ai-product-reviews-are-making-it-impossible-know-difference.webp"/>
-        <dc:creator>Fox News</dc:creator>
-      </item>
-      <item>
-        <title>Use this website to delete your old accounts fast</title>
-        <description><![CDATA[Apps are great for doing things on our phones and tablets, but sometimes websites can still be useful for certain tasks. Here are some handy websites to bookmark for converting files, editing photos quickly, and more.]]></description>
-        <guid>https://majordigest.com/tech/2023/08/07/use-this-website-to-delete-your-old-accounts-fast/</guid>
-        <link>https://majordigest.com/tech/2023/08/07/use-this-website-to-delete-your-old-accounts-fast/</link>
-        <pubDate>Mon, 07 Aug 2023 08:00:00 +0000</pubDate>
-        <category>tech</category>
-        <media:content medium="image" url="https://majordigest.com/tech/2023/08/07/use-this-website-to-delete-your-old-accounts-fast/use-this-website-to-delete-your-old-accounts-fast.webp"/>
-        <media:thumbnail url="https://majordigest.com/tech/2023/08/07/use-this-website-to-delete-your-old-accounts-fast/use-this-website-to-delete-your-old-accounts-fast.webp"/>
-        <dc:creator>Rich DeMuro, KTLA 5</dc:creator>
-      </item>
-      <item>
-        <title>How to silence Amazon Alexa's 'by the way' suggestions</title>
-        <description><![CDATA[Tired of hearing your Alexa device&apos;s suggestions? Kurt &quot;The CyberGuy&quot; Knutsson shares steps on how to silence Amazon&apos;s virtual assistant.]]></description>
-        <guid>https://majordigest.com/tech/2023/08/17/how-silence-amazon-alexa-by-the-way-suggestions/</guid>
-        <link>https://majordigest.com/tech/2023/08/17/how-silence-amazon-alexa-by-the-way-suggestions/</link>
-        <pubDate>Thu, 17 Aug 2023 12:39:03 EDT</pubDate>
-        <category>tech</category>
-        <media:content medium="image" url="https://majordigest.com/tech/2023/08/17/how-silence-amazon-alexa-by-the-way-suggestions/how-silence-amazon-alexa-by-the-way-suggestions.webp"/>
-        <media:thumbnail url="https://majordigest.com/tech/2023/08/17/how-silence-amazon-alexa-by-the-way-suggestions/how-silence-amazon-alexa-by-the-way-suggestions.webp"/>
         <dc:creator>Fox News</dc:creator>
       </item>
       <item>
@@ -85,37 +63,37 @@
         <dc:creator>Cnn.Com Wire Service, The Mercury News</dc:creator>
       </item>
       <item>
-        <title>Samsung's foldable phones are in stores today</title>
-        <description><![CDATA[After a few generations of refining, Samsung has created what might be the first mainstream foldable phone with the new Galaxy Z Flip 5.]]></description>
-        <guid>https://majordigest.com/tech/2023/08/11/samsung-galaxy-z-flip-5-foldable-phone-review-richontech/</guid>
-        <link>https://majordigest.com/tech/2023/08/11/samsung-galaxy-z-flip-5-foldable-phone-review-richontech/</link>
-        <pubDate>Fri, 11 Aug 2023 12:02:38 +0000</pubDate>
+        <title>&#8216;End Call&#8217; button will be moved in latest iPhone software update</title>
+        <description><![CDATA[One of the changes coming as part of Apple's upcoming iPhone software update may require you to retrain your thumbs.]]></description>
+        <guid>https://majordigest.com/tech/2023/08/09/end-call-button-will-be-moved-in-latest-iphone-software-update/</guid>
+        <link>https://majordigest.com/tech/2023/08/09/end-call-button-will-be-moved-in-latest-iphone-software-update/</link>
+        <pubDate>Wed, 09 Aug 2023 17:32:59 +0000</pubDate>
         <category>tech</category>
-        <media:content medium="image" url="https://majordigest.com/tech/2023/08/11/samsung-galaxy-z-flip-5-foldable-phone-review-richontech/samsung-galaxy-z-flip-5-foldable-phone-review-richontech.webp"/>
-        <media:thumbnail url="https://majordigest.com/tech/2023/08/11/samsung-galaxy-z-flip-5-foldable-phone-review-richontech/samsung-galaxy-z-flip-5-foldable-phone-review-richontech.webp"/>
-        <dc:creator>Rich DeMuro, KTLA 5</dc:creator>
+        <media:content medium="image" url="https://majordigest.com/tech/2023/08/09/end-call-button-will-be-moved-in-latest-iphone-software-update/end-call-button-will-be-moved-in-latest-iphone-software-update.webp"/>
+        <media:thumbnail url="https://majordigest.com/tech/2023/08/09/end-call-button-will-be-moved-in-latest-iphone-software-update/end-call-button-will-be-moved-in-latest-iphone-software-update.webp"/>
+        <dc:creator>Alex Baker, KTLA 5</dc:creator>
       </item>
       <item>
-        <title>Best back to school laptops under $1,000</title>
-        <description><![CDATA[It's back to school season, which means you might be looking for a new laptop. While tablets are great, laptops offer more power and productivity for getting work done.]]></description>
-        <guid>https://majordigest.com/tech/2023/08/16/best-back-to-school-laptops-under-1000/</guid>
-        <link>https://majordigest.com/tech/2023/08/16/best-back-to-school-laptops-under-1000/</link>
-        <pubDate>Wed, 16 Aug 2023 08:00:00 +0000</pubDate>
+        <title>Google security check: 60 seconds to kick out snoops and hackers</title>
+        <description><![CDATA[Most of us rely on Google&apos;s suite of products and software in our daily lives, including sensitive personal or financial data. Here&apos;s how to do a Google checkup.]]></description>
+        <guid>https://majordigest.com/tech/2023/08/18/google-security-check-60-seconds-kick-snoops-hackers/</guid>
+        <link>https://majordigest.com/tech/2023/08/18/google-security-check-60-seconds-kick-snoops-hackers/</link>
+        <pubDate>Fri, 18 Aug 2023 17:02:05 EDT</pubDate>
         <category>tech</category>
-        <media:content medium="image" url="https://majordigest.com/tech/2023/08/16/best-back-to-school-laptops-under-1000/best-back-to-school-laptops-under-1000.webp"/>
-        <media:thumbnail url="https://majordigest.com/tech/2023/08/16/best-back-to-school-laptops-under-1000/best-back-to-school-laptops-under-1000.webp"/>
-        <dc:creator>Rich DeMuro, KTLA 5</dc:creator>
-      </item>
-      <item>
-        <title>Six privacy and security questions and answers to clear up once and for all</title>
-        <description><![CDATA[Kurt &quot;The CyberGuy&quot; Knutsson debunks six myths regarding your privacy and security while using technology and gives six tips on how to protect your information.]]></description>
-        <guid>https://majordigest.com/tech/2023/08/19/6-privacy-security-question-answers-clear-up-once-for-all/</guid>
-        <link>https://majordigest.com/tech/2023/08/19/6-privacy-security-question-answers-clear-up-once-for-all/</link>
-        <pubDate>Sat, 19 Aug 2023 09:55:32 EDT</pubDate>
-        <category>tech</category>
-        <media:content medium="image" url="https://majordigest.com/tech/2023/08/19/6-privacy-security-question-answers-clear-up-once-for-all/6-privacy-security-question-answers-clear-up-once-for-all.webp"/>
-        <media:thumbnail url="https://majordigest.com/tech/2023/08/19/6-privacy-security-question-answers-clear-up-once-for-all/6-privacy-security-question-answers-clear-up-once-for-all.webp"/>
+        <media:content medium="image" url="https://majordigest.com/tech/2023/08/18/google-security-check-60-seconds-kick-snoops-hackers/google-security-check-60-seconds-kick-snoops-hackers.webp"/>
+        <media:thumbnail url="https://majordigest.com/tech/2023/08/18/google-security-check-60-seconds-kick-snoops-hackers/google-security-check-60-seconds-kick-snoops-hackers.webp"/>
         <dc:creator>Fox News</dc:creator>
+      </item>
+      <item>
+        <title>Use this website to delete your old accounts fast</title>
+        <description><![CDATA[Apps are great for doing things on our phones and tablets, but sometimes websites can still be useful for certain tasks. Here are some handy websites to bookmark for converting files, editing photos quickly, and more.]]></description>
+        <guid>https://majordigest.com/tech/2023/08/07/use-this-website-to-delete-your-old-accounts-fast/</guid>
+        <link>https://majordigest.com/tech/2023/08/07/use-this-website-to-delete-your-old-accounts-fast/</link>
+        <pubDate>Mon, 07 Aug 2023 08:00:00 +0000</pubDate>
+        <category>tech</category>
+        <media:content medium="image" url="https://majordigest.com/tech/2023/08/07/use-this-website-to-delete-your-old-accounts-fast/use-this-website-to-delete-your-old-accounts-fast.webp"/>
+        <media:thumbnail url="https://majordigest.com/tech/2023/08/07/use-this-website-to-delete-your-old-accounts-fast/use-this-website-to-delete-your-old-accounts-fast.webp"/>
+        <dc:creator>Rich DeMuro, KTLA 5</dc:creator>
       </item>
       <item>
         <title>Do this before you toss, donate or sell your printer</title>
@@ -127,4 +105,15 @@
         <media:content medium="image" url="https://majordigest.com/tech/2023/08/16/do-this-before-you-toss-donate-sell-your-printer/do-this-before-you-toss-donate-sell-your-printer.webp"/>
         <media:thumbnail url="https://majordigest.com/tech/2023/08/16/do-this-before-you-toss-donate-sell-your-printer/do-this-before-you-toss-donate-sell-your-printer.webp"/>
         <dc:creator>Fox News</dc:creator>
+      </item>
+      <item>
+        <title>Pack these must-have gadgets in your travel bag</title>
+        <description><![CDATA[When you're traveling, the goal is usually to pack light. Having the right gadgets can make all the difference. Here are a few I've been testing lately that might be perfect for your next trip.]]></description>
+        <guid>https://majordigest.com/tech/2023/08/09/pack-these-handy-travel-gadgets-for-your-next-trip/</guid>
+        <link>https://majordigest.com/tech/2023/08/09/pack-these-handy-travel-gadgets-for-your-next-trip/</link>
+        <pubDate>Wed, 09 Aug 2023 12:08:22 +0000</pubDate>
+        <category>tech</category>
+        <media:content medium="image" url="https://majordigest.com/tech/2023/08/09/pack-these-handy-travel-gadgets-for-your-next-trip/pack-these-handy-travel-gadgets-for-your-next-trip.webp"/>
+        <media:thumbnail url="https://majordigest.com/tech/2023/08/09/pack-these-handy-travel-gadgets-for-your-next-trip/pack-these-handy-travel-gadgets-for-your-next-trip.webp"/>
+        <dc:creator>Rich DeMuro, KTLA 5</dc:creator>
       </item></channel></rss>

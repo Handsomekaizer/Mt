@@ -3,20 +3,6 @@
               xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
               xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
       <url>
-        <loc>https://majordigest.com/tech/2023/08/01/scammers-use-fake-parking-qr-codes-to-steal-your-cash/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-01T13:08:09.000Z</news:publication_date>
-          <news:title>Parking scam uses fake QR codes to steal your cash</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/tech/2023/08/01/scammers-use-fake-parking-qr-codes-to-steal-your-cash/scammers-use-fake-parking-qr-codes-to-steal-your-cash.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
         <loc>https://majordigest.com/tech/2023/08/17/oakland-tech-block-square-black-culture-market-real-estate-food-store/</loc>
         <news:news>
           <news:publication>
@@ -28,6 +14,20 @@
         </news:news>
         <image:image>
           <image:loc>https://majordigest.com/tech/2023/08/17/oakland-tech-block-square-black-culture-market-real-estate-food-store/oakland-tech-block-square-black-culture-market-real-estate-food-store.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/tech/2023/08/09/uber-launches-new-safety-feature-in-los-angeles/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-09T23:21:19.000Z</news:publication_date>
+          <news:title>Uber launches new safety feature in Los Angeles</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/tech/2023/08/09/uber-launches-new-safety-feature-in-los-angeles/uber-launches-new-safety-feature-in-los-angeles.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -45,34 +45,6 @@
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/tech/2023/08/07/use-this-website-to-delete-your-old-accounts-fast/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-07T08:00:00.000Z</news:publication_date>
-          <news:title>Use this website to delete your old accounts fast</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/tech/2023/08/07/use-this-website-to-delete-your-old-accounts-fast/use-this-website-to-delete-your-old-accounts-fast.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/tech/2023/08/17/how-silence-amazon-alexa-by-the-way-suggestions/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-17T16:39:03.000Z</news:publication_date>
-          <news:title>How to silence Amazon Alexa's 'by the way' suggestions</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/tech/2023/08/17/how-silence-amazon-alexa-by-the-way-suggestions/how-silence-amazon-alexa-by-the-way-suggestions.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
         <loc>https://majordigest.com/tech/2023/08/17/blue-shield-california-ditches-cvs-for-amazon-and-mark-cubans-drug-company/</loc>
         <news:news>
           <news:publication>
@@ -87,45 +59,45 @@
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/tech/2023/08/11/samsung-galaxy-z-flip-5-foldable-phone-review-richontech/</loc>
+        <loc>https://majordigest.com/tech/2023/08/09/end-call-button-will-be-moved-in-latest-iphone-software-update/</loc>
         <news:news>
           <news:publication>
             <news:name>Major Digest</news:name>
             <news:language>en</news:language>
           </news:publication>
-          <news:publication_date>2023-08-11T12:02:38.000Z</news:publication_date>
-          <news:title>Samsung's foldable phones are in stores today</news:title>
+          <news:publication_date>2023-08-09T17:32:59.000Z</news:publication_date>
+          <news:title>&#8216;End Call&#8217; button will be moved in latest iPhone software update</news:title>
         </news:news>
         <image:image>
-          <image:loc>https://majordigest.com/tech/2023/08/11/samsung-galaxy-z-flip-5-foldable-phone-review-richontech/samsung-galaxy-z-flip-5-foldable-phone-review-richontech.webp</image:loc>
+          <image:loc>https://majordigest.com/tech/2023/08/09/end-call-button-will-be-moved-in-latest-iphone-software-update/end-call-button-will-be-moved-in-latest-iphone-software-update.webp</image:loc>
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/tech/2023/08/16/best-back-to-school-laptops-under-1000/</loc>
+        <loc>https://majordigest.com/tech/2023/08/18/google-security-check-60-seconds-kick-snoops-hackers/</loc>
         <news:news>
           <news:publication>
             <news:name>Major Digest</news:name>
             <news:language>en</news:language>
           </news:publication>
-          <news:publication_date>2023-08-16T08:00:00.000Z</news:publication_date>
-          <news:title>Best back to school laptops under $1,000</news:title>
+          <news:publication_date>2023-08-18T21:02:05.000Z</news:publication_date>
+          <news:title>Google security check: 60 seconds to kick out snoops and hackers</news:title>
         </news:news>
         <image:image>
-          <image:loc>https://majordigest.com/tech/2023/08/16/best-back-to-school-laptops-under-1000/best-back-to-school-laptops-under-1000.webp</image:loc>
+          <image:loc>https://majordigest.com/tech/2023/08/18/google-security-check-60-seconds-kick-snoops-hackers/google-security-check-60-seconds-kick-snoops-hackers.webp</image:loc>
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/tech/2023/08/19/6-privacy-security-question-answers-clear-up-once-for-all/</loc>
+        <loc>https://majordigest.com/tech/2023/08/07/use-this-website-to-delete-your-old-accounts-fast/</loc>
         <news:news>
           <news:publication>
             <news:name>Major Digest</news:name>
             <news:language>en</news:language>
           </news:publication>
-          <news:publication_date>2023-08-19T13:55:32.000Z</news:publication_date>
-          <news:title>Six privacy and security questions and answers to clear up once and for all</news:title>
+          <news:publication_date>2023-08-07T08:00:00.000Z</news:publication_date>
+          <news:title>Use this website to delete your old accounts fast</news:title>
         </news:news>
         <image:image>
-          <image:loc>https://majordigest.com/tech/2023/08/19/6-privacy-security-question-answers-clear-up-once-for-all/6-privacy-security-question-answers-clear-up-once-for-all.webp</image:loc>
+          <image:loc>https://majordigest.com/tech/2023/08/07/use-this-website-to-delete-your-old-accounts-fast/use-this-website-to-delete-your-old-accounts-fast.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -140,5 +112,19 @@
         </news:news>
         <image:image>
           <image:loc>https://majordigest.com/tech/2023/08/16/do-this-before-you-toss-donate-sell-your-printer/do-this-before-you-toss-donate-sell-your-printer.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/tech/2023/08/09/pack-these-handy-travel-gadgets-for-your-next-trip/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-09T12:08:22.000Z</news:publication_date>
+          <news:title>Pack these must-have gadgets in your travel bag</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/tech/2023/08/09/pack-these-handy-travel-gadgets-for-your-next-trip/pack-these-handy-travel-gadgets-for-your-next-trip.webp</image:loc>
         </image:image>
       </url></urlset>

@@ -3,34 +3,6 @@
               xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
               xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
       <url>
-        <loc>https://majordigest.com/us/2023/08/19/tennessee-hiking-couple-found-safe-alaska-search-rescue/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-19T17:11:02.000Z</news:publication_date>
-          <news:title>Tennessee hiking couple found safe in Alaska after search and rescue</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/us/2023/08/19/tennessee-hiking-couple-found-safe-alaska-search-rescue/tennessee-hiking-couple-found-safe-alaska-search-rescue.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/us/2023/08/19/crisis-kensington-philadelphia-area-safe-haven-hell-earth/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-19T11:00:37.000Z</news:publication_date>
-          <news:title>CRISIS IN KENSINGTON: This Philadelphia area went from a safe haven to 'hell on earth'</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/us/2023/08/19/crisis-kensington-philadelphia-area-safe-haven-hell-earth/crisis-kensington-philadelphia-area-safe-haven-hell-earth.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
         <loc>https://majordigest.com/us/2023/08/19/ex-wife-slain-microsoft-exec-surprising-legal-move-arrest/</loc>
         <news:news>
           <news:publication>
@@ -42,6 +14,34 @@
         </news:news>
         <image:image>
           <image:loc>https://majordigest.com/us/2023/08/19/ex-wife-slain-microsoft-exec-surprising-legal-move-arrest/ex-wife-slain-microsoft-exec-surprising-legal-move-arrest.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/us/2023/08/19/marine-killed-live-fire-training-accident-camp-pendleton-identified/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-19T19:05:59.000Z</news:publication_date>
+          <news:title>Marine killed in live-fire training accident at Camp Pendleton identified</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/us/2023/08/19/marine-killed-live-fire-training-accident-camp-pendleton-identified/marine-killed-live-fire-training-accident-camp-pendleton-identified.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/us/2023/08/19/louisiana-police-capture-suspect-murder-assault-11-year-old-texas-girl/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-19T17:19:33.000Z</news:publication_date>
+          <news:title>Louisiana police capture suspect in murder, assault of 11-year-old Texas girl</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/us/2023/08/19/louisiana-police-capture-suspect-murder-assault-11-year-old-texas-girl/louisiana-police-capture-suspect-murder-assault-11-year-old-texas-girl.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -59,17 +59,31 @@
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/us/2023/08/19/beverly-hills-police-cryptic-update-missing-musician-co-wrote-katy-perry-song/</loc>
+        <loc>https://majordigest.com/us/2023/08/19/florida-officials-report-5-deaths-flesh-eating-bacteria-tampa-bay-january/</loc>
         <news:news>
           <news:publication>
             <news:name>Major Digest</news:name>
             <news:language>en</news:language>
           </news:publication>
-          <news:publication_date>2023-08-19T15:37:00.000Z</news:publication_date>
-          <news:title>Beverly Hills police give cryptic update on missing musician who co-wrote Katy Perry song</news:title>
+          <news:publication_date>2023-08-19T13:31:54.000Z</news:publication_date>
+          <news:title>Florida officials report five deaths from 'flesh-eating' bacteria in Tampa Bay since January</news:title>
         </news:news>
         <image:image>
-          <image:loc>https://majordigest.com/us/2023/08/19/beverly-hills-police-cryptic-update-missing-musician-co-wrote-katy-perry-song/beverly-hills-police-cryptic-update-missing-musician-co-wrote-katy-perry-song.webp</image:loc>
+          <image:loc>https://majordigest.com/us/2023/08/19/florida-officials-report-5-deaths-flesh-eating-bacteria-tampa-bay-january/florida-officials-report-5-deaths-flesh-eating-bacteria-tampa-bay-january.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/us/2023/08/19/tennessee-hiking-couple-found-safe-alaska-search-rescue/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-19T17:11:02.000Z</news:publication_date>
+          <news:title>Tennessee hiking couple found safe in Alaska after search and rescue</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/us/2023/08/19/tennessee-hiking-couple-found-safe-alaska-search-rescue/tennessee-hiking-couple-found-safe-alaska-search-rescue.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -87,16 +101,16 @@
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/us/2023/08/19/texas-tattoo-shop-boss-fires-employee-kills-him-argument-final-paycheck-police-say/</loc>
+        <loc>https://majordigest.com/us/2023/08/19/beverly-hills-police-cryptic-update-missing-musician-co-wrote-katy-perry-song/</loc>
         <news:news>
           <news:publication>
             <news:name>Major Digest</news:name>
             <news:language>en</news:language>
           </news:publication>
-          <news:publication_date>2023-08-19T12:00:14.000Z</news:publication_date>
-          <news:title>Texas tattoo shop boss fires employee, then kills him in argument over final paycheck, police say</news:title>
+          <news:publication_date>2023-08-19T15:37:00.000Z</news:publication_date>
+          <news:title>Beverly Hills police give cryptic update on missing musician who co-wrote Katy Perry song</news:title>
         </news:news>
         <image:image>
-          <image:loc>https://majordigest.com/us/2023/08/19/texas-tattoo-shop-boss-fires-employee-kills-him-argument-final-paycheck-police-say/texas-tattoo-shop-boss-fires-employee-kills-him-argument-final-paycheck-police-say.webp</image:loc>
+          <image:loc>https://majordigest.com/us/2023/08/19/beverly-hills-police-cryptic-update-missing-musician-co-wrote-katy-perry-song/beverly-hills-police-cryptic-update-missing-musician-co-wrote-katy-perry-song.webp</image:loc>
         </image:image>
       </url></urlset>

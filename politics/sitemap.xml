@@ -3,45 +3,31 @@
               xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
               xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
       <url>
-        <loc>https://majordigest.com/politics/2023/08/18/raimondo-china-economic-downturn/</loc>
+        <loc>https://majordigest.com/politics/2023/08/19/whats-next-one-time-red-state-turned-southwestern-battleground/</loc>
         <news:news>
           <news:publication>
             <news:name>Major Digest</news:name>
             <news:language>en</news:language>
           </news:publication>
-          <news:publication_date>2023-08-18T20:58:54.000Z</news:publication_date>
-          <news:title>China&#8217;s economy is in trouble. Beijing hopes Raimondo can lend a hand.</news:title>
+          <news:publication_date>2023-08-19T12:00:09.000Z</news:publication_date>
+          <news:title>What&#8217;s next for the one-time red state turned southwestern battleground?</news:title>
         </news:news>
         <image:image>
-          <image:loc>https://majordigest.com/politics/2023/08/18/raimondo-china-economic-downturn/raimondo-china-economic-downturn.webp</image:loc>
+          <image:loc>https://majordigest.com/politics/2023/08/19/whats-next-one-time-red-state-turned-southwestern-battleground/whats-next-one-time-red-state-turned-southwestern-battleground.webp</image:loc>
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/politics/2023/08/18/trump-indictment-gop-georgia/</loc>
+        <loc>https://majordigest.com/politics/2023/08/18/gun-industry-cries-foul-hundreds-gun-dealers-lose-licenses-biden-administration-crackdown/</loc>
         <news:news>
           <news:publication>
             <news:name>Major Digest</news:name>
             <news:language>en</news:language>
           </news:publication>
-          <news:publication_date>2023-08-18T22:20:26.000Z</news:publication_date>
-          <news:title>In Georgia, Trump indictment casts shadow over Republican 2024 hopefuls</news:title>
+          <news:publication_date>2023-08-18T22:00:46.000Z</news:publication_date>
+          <news:title>Gun industry cries foul after hundreds of gun dealers lose licenses amid Biden administration crackdown</news:title>
         </news:news>
         <image:image>
-          <image:loc>https://majordigest.com/politics/2023/08/18/trump-indictment-gop-georgia/trump-indictment-gop-georgia.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/politics/2023/08/19/house-republicans-biden-ukraine/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-19T11:00:00.000Z</news:publication_date>
-          <news:title>House Republicans are standing between Biden and his war to save Ukraine</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/politics/2023/08/19/house-republicans-biden-ukraine/house-republicans-biden-ukraine.webp</image:loc>
+          <image:loc>https://majordigest.com/politics/2023/08/18/gun-industry-cries-foul-hundreds-gun-dealers-lose-licenses-biden-administration-crackdown/gun-industry-cries-foul-hundreds-gun-dealers-lose-licenses-biden-administration-crackdown.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -59,6 +45,90 @@
         </image:image>
       </url>
       <url>
+        <loc>https://majordigest.com/politics/2023/08/18/james-buckley-conservative-former-us-senator-new-york-dead-100/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-18T23:06:34.000Z</news:publication_date>
+          <news:title>James Buckley, conservative former US senator from New York, dead at 100</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/politics/2023/08/18/james-buckley-conservative-former-us-senator-new-york-dead-100/james-buckley-conservative-former-us-senator-new-york-dead-100.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/politics/2023/08/19/2024-debates-matter/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-19T11:00:00.000Z</news:publication_date>
+          <news:title>Why Trump might regret passing on the first debate</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/politics/2023/08/19/2024-debates-matter/2024-debates-matter.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/politics/2023/08/18/trump-indictment-gop-georgia/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-18T22:20:26.000Z</news:publication_date>
+          <news:title>In Georgia, Trump indictment casts shadow over Republican 2024 hopefuls</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/politics/2023/08/18/trump-indictment-gop-georgia/trump-indictment-gop-georgia.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/politics/2023/08/19/former-attorney-general-alberto-gonzales-trump-serve-time-found-guilty-jan-6-case/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-19T12:17:53.000Z</news:publication_date>
+          <news:title>Former Attorney General Alberto Gonzales says Trump 'should serve time' if found guilty in Jan. 6 case</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/politics/2023/08/19/former-attorney-general-alberto-gonzales-trump-serve-time-found-guilty-jan-6-case/former-attorney-general-alberto-gonzales-trump-serve-time-found-guilty-jan-6-case.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/politics/2023/08/19/desantis-offers-assist-california-hurricane-hilary-any-way-we-can/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-19T17:28:38.000Z</news:publication_date>
+          <news:title>DeSantis offers to assist California with Hurricane Hilary 'in any way we can'</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/politics/2023/08/19/desantis-offers-assist-california-hurricane-hilary-any-way-we-can/desantis-offers-assist-california-hurricane-hilary-any-way-we-can.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/politics/2023/08/18/raimondo-china-economic-downturn/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-18T20:58:54.000Z</news:publication_date>
+          <news:title>China&#8217;s economy is in trouble. Beijing hopes Raimondo can lend a hand.</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/politics/2023/08/18/raimondo-china-economic-downturn/raimondo-china-economic-downturn.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
         <loc>https://majordigest.com/politics/2023/08/19/desantis-meets-kemp-trump-case-impeachment-calls-fani-willis/</loc>
         <news:news>
           <news:publication>
@@ -73,16 +143,16 @@
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/politics/2023/08/19/california-gop-proposal-distance-state-party-national-messaging-abortion-same-sex-marriage/</loc>
+        <loc>https://majordigest.com/politics/2023/08/18/house-democrat-voting-down-biden-student-loan-handout/</loc>
         <news:news>
           <news:publication>
             <news:name>Major Digest</news:name>
             <news:language>en</news:language>
           </news:publication>
-          <news:publication_date>2023-08-19T15:43:14.000Z</news:publication_date>
-          <news:title>California GOP proposal would distance state party from national messaging on abortion, same-sex marriage</news:title>
+          <news:publication_date>2023-08-18T20:42:06.000Z</news:publication_date>
+          <news:title>House Dem shreds 'radical leftist elites,' defends voting down Biden student loan handout</news:title>
         </news:news>
         <image:image>
-          <image:loc>https://majordigest.com/politics/2023/08/19/california-gop-proposal-distance-state-party-national-messaging-abortion-same-sex-marriage/california-gop-proposal-distance-state-party-national-messaging-abortion-same-sex-marriage.webp</image:loc>
+          <image:loc>https://majordigest.com/politics/2023/08/18/house-democrat-voting-down-biden-student-loan-handout/house-democrat-voting-down-biden-student-loan-handout.webp</image:loc>
         </image:image>
       </url></urlset>
