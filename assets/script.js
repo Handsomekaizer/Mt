@@ -43,10 +43,12 @@
 
       if (date) {
         var uri = "https://web.archive.org/web/";
+        // https://majordigest.com/assets/images/category/YYYY/MM/DD/
+        var assets = "https://majordigest.com/assets/images/";
         var prefix = uri + date.replace(/\D+/g, "") + "im_/";
         document.querySelectorAll(".card .image img").forEach(function (img) {
           img.onerror = onerror;
-          if (!img.src.startsWith(uri)) {
+          if (img.src.startsWith(assets)) {
             img.src = prefix + img.src;
           } else if (img.complete && img.naturalHeight === 0) {
             onerror({ target: img });
