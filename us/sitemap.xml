@@ -3,6 +3,34 @@
               xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
               xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
       <url>
+        <loc>https://majordigest.com/us/2023/08/19/texas-teen-dead-boat-crashes-crowded-lake-austin/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-19T00:40:06.000Z</news:publication_date>
+          <news:title>Texas teen dead after boat crashes on crowded Lake Austin</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/us/2023/08/19/texas-teen-dead-boat-crashes-crowded-lake-austin/texas-teen-dead-boat-crashes-crowded-lake-austin.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/us/2023/08/19/pilots-drug-use-contributed-to-deadly-new-mexico-hot-air-balloon-crash-ntsb/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-19T00:43:43.000Z</news:publication_date>
+          <news:title>Pilot's drug use contributed to deadly New Mexico hot-air balloon crash: NTSB</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/us/2023/08/19/pilots-drug-use-contributed-to-deadly-new-mexico-hot-air-balloon-crash-ntsb/pilots-drug-use-contributed-to-deadly-new-mexico-hot-air-balloon-crash-ntsb.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
         <loc>https://majordigest.com/us/2023/08/19/california-woman-find-whole-man-occupying-crawlspace-underneath-her-house-for-months/</loc>
         <news:news>
           <news:publication>
@@ -14,34 +42,6 @@
         </news:news>
         <image:image>
           <image:loc>https://majordigest.com/us/2023/08/19/california-woman-find-whole-man-occupying-crawlspace-underneath-her-house-for-months/california-woman-find-whole-man-occupying-crawlspace-underneath-her-house-for-months.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/us/2023/08/19/georgia-authorities-rescue-8-month-old-baby-van-after-mom-calls-911-video-shows/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-19T01:03:40.000Z</news:publication_date>
-          <news:title>Georgia authorities rescue 8-month-old baby from van after mom calls 911, video shows</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/us/2023/08/19/georgia-authorities-rescue-8-month-old-baby-van-after-mom-calls-911-video-shows/georgia-authorities-rescue-8-month-old-baby-van-after-mom-calls-911-video-shows.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/us/2023/08/19/georgia-police-drain-lake-father-arrested-lying-toddlers-disappearance/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-19T02:04:41.000Z</news:publication_date>
-          <news:title>Georgia police drain lake after father arrested for lying about toddler&#8217;s disappearance</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/us/2023/08/19/georgia-police-drain-lake-father-arrested-lying-toddlers-disappearance/georgia-police-drain-lake-father-arrested-lying-toddlers-disappearance.webp</image:loc>
         </image:image>
       </url>
       <url>

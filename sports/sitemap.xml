@@ -3,48 +3,6 @@
               xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
               xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
       <url>
-        <loc>https://majordigest.com/sports/2023/08/18/the-sf-giants-dont-hit-the-ball-hard-does-that-matter/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-18T14:15:43.000Z</news:publication_date>
-          <news:title>The SF Giants don&#8217;t hit the ball hard. Does that matter?</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/sports/2023/08/18/the-sf-giants-dont-hit-the-ball-hard-does-that-matter/the-sf-giants-dont-hit-the-ball-hard-does-that-matter.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/sports/2023/08/19/former-espn-broadcaster-sage-steele-blasts-companys-hypocrisy-days-leaving/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-19T00:19:36.000Z</news:publication_date>
-          <news:title>Former ESPN broadcaster Sage Steele blasts company's 'hypocrisy' days after leaving</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/sports/2023/08/19/former-espn-broadcaster-sage-steele-blasts-companys-hypocrisy-days-leaving/former-espn-broadcaster-sage-steele-blasts-companys-hypocrisy-days-leaving.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/sports/2023/08/19/patrick-mahomes-wife-brittany-recalls-very-scary-emergency-room-trip-with-son/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-19T02:13:53.000Z</news:publication_date>
-          <news:title>Patrick Mahomes' wife Brittany recalls 'very scary' emergency room trip with son</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/sports/2023/08/19/patrick-mahomes-wife-brittany-recalls-very-scary-emergency-room-trip-with-son/patrick-mahomes-wife-brittany-recalls-very-scary-emergency-room-trip-with-son.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
         <loc>https://majordigest.com/sports/2023/08/19/lions-waive-injured-denzel-mims-month-after-trade-jets-ending-hopes-nfl-career-revitalization/</loc>
         <news:news>
           <news:publication>
@@ -59,31 +17,45 @@
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/sports/2023/08/18/dolphins-tua-tagovailoa-offers-positive-review-sound-freedom-encourages-media-watch/</loc>
+        <loc>https://majordigest.com/sports/2023/08/18/mailbag-kliavkoffs-current-role-and-final-grade-options-for-the-pac-4-schools-the-knight-view-and-a-few-words-on-our-coverage/</loc>
         <news:news>
           <news:publication>
             <news:name>Major Digest</news:name>
             <news:language>en</news:language>
           </news:publication>
-          <news:publication_date>2023-08-18T21:54:43.000Z</news:publication_date>
-          <news:title>Dolphins' Tua Tagovailoa offers positive review of 'Sound of Freedom,' encourages media to watch</news:title>
+          <news:publication_date>2023-08-18T17:48:23.000Z</news:publication_date>
+          <news:title>Mailbag: Kliavkoff&#8217;s current role and final grade, options for the &#8216;Pac-4&#8217; schools, the Knight view and a few words on our coverage</news:title>
         </news:news>
         <image:image>
-          <image:loc>https://majordigest.com/sports/2023/08/18/dolphins-tua-tagovailoa-offers-positive-review-sound-freedom-encourages-media-watch/dolphins-tua-tagovailoa-offers-positive-review-sound-freedom-encourages-media-watch.webp</image:loc>
+          <image:loc>https://majordigest.com/sports/2023/08/18/mailbag-kliavkoffs-current-role-and-final-grade-options-for-the-pac-4-schools-the-knight-view-and-a-few-words-on-our-coverage/mailbag-kliavkoffs-current-role-and-final-grade-options-for-the-pac-4-schools-the-knight-view-and-a-few-words-on-our-coverage.webp</image:loc>
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/sports/2023/08/19/mlb-reschedules-three-games-california-anticipation-of-hurricane-hillary-impact/</loc>
+        <loc>https://majordigest.com/sports/2023/08/18/kurtenbach-four-things-we-need-to-see-in-the-49ers-second-preseason-game/</loc>
         <news:news>
           <news:publication>
             <news:name>Major Digest</news:name>
             <news:language>en</news:language>
           </news:publication>
-          <news:publication_date>2023-08-19T03:30:13.000Z</news:publication_date>
-          <news:title>MLB reschedules three games in California in anticipation of Hurricane Hillary impact</news:title>
+          <news:publication_date>2023-08-18T15:00:17.000Z</news:publication_date>
+          <news:title>Kurtenbach: Four things 49ers need to show me in their second preseason game</news:title>
         </news:news>
         <image:image>
-          <image:loc>https://majordigest.com/sports/2023/08/19/mlb-reschedules-three-games-california-anticipation-of-hurricane-hillary-impact/mlb-reschedules-three-games-california-anticipation-of-hurricane-hillary-impact.webp</image:loc>
+          <image:loc>https://majordigest.com/sports/2023/08/18/kurtenbach-four-things-we-need-to-see-in-the-49ers-second-preseason-game/kurtenbach-four-things-we-need-to-see-in-the-49ers-second-preseason-game.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/sports/2023/08/18/this-san-diego-high-school-has-never-fielded-a-football-team-its-first-one-will-be-made-up-of-all-girls/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-18T17:57:26.000Z</news:publication_date>
+          <news:title>This San Diego high school has never fielded a football team. Its first one will be made up of all girls</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/sports/2023/08/18/this-san-diego-high-school-has-never-fielded-a-football-team-its-first-one-will-be-made-up-of-all-girls/this-san-diego-high-school-has-never-fielded-a-football-team-its-first-one-will-be-made-up-of-all-girls.webp</image:loc>
         </image:image>
       </url>
       <url>
