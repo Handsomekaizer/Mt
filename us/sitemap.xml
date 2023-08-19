@@ -3,31 +3,59 @@
               xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
               xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
       <url>
-        <loc>https://majordigest.com/us/2023/08/19/maryland-daycare-worker-caught-camera-abusing-7-year-old/</loc>
+        <loc>https://majordigest.com/us/2023/08/19/georgia-police-drain-lake-father-arrested-lying-toddlers-disappearance/</loc>
         <news:news>
           <news:publication>
             <news:name>Major Digest</news:name>
             <news:language>en</news:language>
           </news:publication>
-          <news:publication_date>2023-08-19T03:07:33.000Z</news:publication_date>
-          <news:title>Maryland daycare worker caught on camera abusing 7-year-old</news:title>
+          <news:publication_date>2023-08-19T02:04:41.000Z</news:publication_date>
+          <news:title>Georgia police drain lake after father arrested for lying about toddler&#8217;s disappearance</news:title>
         </news:news>
         <image:image>
-          <image:loc>https://majordigest.com/us/2023/08/19/maryland-daycare-worker-caught-camera-abusing-7-year-old/maryland-daycare-worker-caught-camera-abusing-7-year-old.webp</image:loc>
+          <image:loc>https://majordigest.com/us/2023/08/19/georgia-police-drain-lake-father-arrested-lying-toddlers-disappearance/georgia-police-drain-lake-father-arrested-lying-toddlers-disappearance.webp</image:loc>
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/us/2023/08/19/california-woman-find-whole-man-occupying-crawlspace-underneath-her-house-for-months/</loc>
+        <loc>https://majordigest.com/us/2023/08/19/pilots-drug-use-contributed-to-deadly-new-mexico-hot-air-balloon-crash-ntsb/</loc>
         <news:news>
           <news:publication>
             <news:name>Major Digest</news:name>
             <news:language>en</news:language>
           </news:publication>
-          <news:publication_date>2023-08-19T01:16:51.000Z</news:publication_date>
-          <news:title>California woman finds 'whole a--' man occupying crawlspace underneath her house &#8216;for months'</news:title>
+          <news:publication_date>2023-08-19T00:43:43.000Z</news:publication_date>
+          <news:title>Pilot's drug use contributed to deadly New Mexico hot-air balloon crash: NTSB</news:title>
         </news:news>
         <image:image>
-          <image:loc>https://majordigest.com/us/2023/08/19/california-woman-find-whole-man-occupying-crawlspace-underneath-her-house-for-months/california-woman-find-whole-man-occupying-crawlspace-underneath-her-house-for-months.webp</image:loc>
+          <image:loc>https://majordigest.com/us/2023/08/19/pilots-drug-use-contributed-to-deadly-new-mexico-hot-air-balloon-crash-ntsb/pilots-drug-use-contributed-to-deadly-new-mexico-hot-air-balloon-crash-ntsb.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/us/2023/08/18/family-missing-tennessee-woman-say-travel-companion-can-live-grid-has-friends-all-over-world/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-18T22:50:32.000Z</news:publication_date>
+          <news:title>Family of missing Tennessee woman says travel companion can live off the grid, has friends around the world</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/us/2023/08/18/family-missing-tennessee-woman-say-travel-companion-can-live-grid-has-friends-all-over-world/family-missing-tennessee-woman-say-travel-companion-can-live-grid-has-friends-all-over-world.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/us/2023/08/19/idaho-student-murders-defense-grills-experts-on-knife-sheath-dna-match/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-19T01:58:10.000Z</news:publication_date>
+          <news:title>Idaho student murders: Defense grills experts on knife sheath DNA match</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/us/2023/08/19/idaho-student-murders-defense-grills-experts-on-knife-sheath-dna-match/idaho-student-murders-defense-grills-experts-on-knife-sheath-dna-match.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -45,30 +73,16 @@
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/us/2023/08/19/georgia-police-drain-lake-father-arrested-lying-toddlers-disappearance/</loc>
+        <loc>https://majordigest.com/us/2023/08/19/maryland-daycare-worker-caught-camera-abusing-7-year-old/</loc>
         <news:news>
           <news:publication>
             <news:name>Major Digest</news:name>
             <news:language>en</news:language>
           </news:publication>
-          <news:publication_date>2023-08-19T02:04:41.000Z</news:publication_date>
-          <news:title>Georgia police drain lake after father arrested for lying about toddler&#8217;s disappearance</news:title>
+          <news:publication_date>2023-08-19T03:07:33.000Z</news:publication_date>
+          <news:title>Maryland daycare worker caught on camera abusing 7-year-old</news:title>
         </news:news>
         <image:image>
-          <image:loc>https://majordigest.com/us/2023/08/19/georgia-police-drain-lake-father-arrested-lying-toddlers-disappearance/georgia-police-drain-lake-father-arrested-lying-toddlers-disappearance.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/us/2023/08/19/idaho-student-murders-defense-grills-experts-on-knife-sheath-dna-match/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-19T01:58:10.000Z</news:publication_date>
-          <news:title>Idaho student murders: Defense grills experts on knife sheath DNA match</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/us/2023/08/19/idaho-student-murders-defense-grills-experts-on-knife-sheath-dna-match/idaho-student-murders-defense-grills-experts-on-knife-sheath-dna-match.webp</image:loc>
+          <image:loc>https://majordigest.com/us/2023/08/19/maryland-daycare-worker-caught-camera-abusing-7-year-old/maryland-daycare-worker-caught-camera-abusing-7-year-old.webp</image:loc>
         </image:image>
       </url></urlset>
