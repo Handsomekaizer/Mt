@@ -3,17 +3,101 @@
               xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
               xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
       <url>
-        <loc>https://majordigest.com/politics/2023/08/18/maui-company-says-request-water-fight-wildfire-delayed-several-hours-govt-consulted-farmers/</loc>
+        <loc>https://majordigest.com/politics/2023/08/18/biden-hasnt-launched-a-maui-fire-investigation-heres-why/</loc>
         <news:news>
           <news:publication>
             <news:name>Major Digest</news:name>
             <news:language>en</news:language>
           </news:publication>
-          <news:publication_date>2023-08-18T22:37:30.000Z</news:publication_date>
-          <news:title>Maui company says request for water to fight wildfire delayed several hours while state consulted with farmers</news:title>
+          <news:publication_date>2023-08-18T08:30:00.000Z</news:publication_date>
+          <news:title>President Joe Biden hasn&#8217;t launched a Maui fire investigation. Here&#8217;s why.</news:title>
         </news:news>
         <image:image>
-          <image:loc>https://majordigest.com/politics/2023/08/18/maui-company-says-request-water-fight-wildfire-delayed-several-hours-govt-consulted-farmers/maui-company-says-request-water-fight-wildfire-delayed-several-hours-govt-consulted-farmers.webp</image:loc>
+          <image:loc>https://majordigest.com/politics/2023/08/18/biden-hasnt-launched-a-maui-fire-investigation-heres-why/biden-hasnt-launched-a-maui-fire-investigation-heres-why.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/politics/2023/08/18/james-buckley-conservative-former-us-senator-new-york-dead-100/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-18T23:06:34.000Z</news:publication_date>
+          <news:title>James Buckley, conservative former US senator from New York, dead at 100</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/politics/2023/08/18/james-buckley-conservative-former-us-senator-new-york-dead-100/james-buckley-conservative-former-us-senator-new-york-dead-100.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/politics/2023/08/18/trump-indictment-gop-georgia/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-18T22:20:26.000Z</news:publication_date>
+          <news:title>In Georgia, Trump indictment casts shadow over Republican 2024 hopefuls</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/politics/2023/08/18/trump-indictment-gop-georgia/trump-indictment-gop-georgia.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/politics/2023/08/18/biden-vietnam-partnership/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-18T21:42:58.000Z</news:publication_date>
+          <news:title>Biden to sign strategic partnership deal with Vietnam in latest bid to counter China in the region</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/politics/2023/08/18/biden-vietnam-partnership/biden-vietnam-partnership.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/politics/2023/08/18/obama-biden-admin-defended-use-alternate-email-addresses-long-before-bidens-aliases-revealed/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-18T19:43:48.000Z</news:publication_date>
+          <news:title>Obama-Biden admin defended use of 'alternate email addresses' long before Biden's aliases were revealed</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/politics/2023/08/18/obama-biden-admin-defended-use-alternate-email-addresses-long-before-bidens-aliases-revealed/obama-biden-admin-defended-use-alternate-email-addresses-long-before-bidens-aliases-revealed.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/politics/2023/08/18/trump-fundraising-off-his-name/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-18T17:40:23.000Z</news:publication_date>
+          <news:title>Trump moves to thwart fundraising off his name</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/politics/2023/08/18/trump-fundraising-off-his-name/trump-fundraising-off-his-name.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/politics/2023/08/18/pence-second-debate-trump/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-18T19:04:01.000Z</news:publication_date>
+          <news:title>Pence makes the second debate stage. Will he get his faceoff with Trump?</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/politics/2023/08/18/pence-second-debate-trump/pence-second-debate-trump.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -28,62 +112,6 @@
         </news:news>
         <image:image>
           <image:loc>https://majordigest.com/politics/2023/08/18/france-u-s-relations-niger-coup/france-u-s-relations-niger-coup.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/politics/2023/08/18/gov-brian-kemp-hasnt-received-evidence-state-sen-moore-majority-necessary-willis-impeachment/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-18T16:49:22.000Z</news:publication_date>
-          <news:title>Gov. Brian Kemp hasn't received 'any evidence' state Sen. Moore has majority necessary for Willis impeachment</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/politics/2023/08/18/gov-brian-kemp-hasnt-received-evidence-state-sen-moore-majority-necessary-willis-impeachment/gov-brian-kemp-hasnt-received-evidence-state-sen-moore-majority-necessary-willis-impeachment.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/politics/2023/08/18/house-democrat-voting-down-biden-student-loan-handout/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-18T20:42:06.000Z</news:publication_date>
-          <news:title>House Dem shreds 'radical leftist elites,' defends voting down Biden student loan handout</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/politics/2023/08/18/house-democrat-voting-down-biden-student-loan-handout/house-democrat-voting-down-biden-student-loan-handout.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/politics/2023/08/18/democrats-increased-fertility-treatment-access-lgbtq-federal-workers/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-18T18:39:37.000Z</news:publication_date>
-          <news:title>Democrats demand increased fertility treatment access for LGBTQ federal workers</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/politics/2023/08/18/democrats-increased-fertility-treatment-access-lgbtq-federal-workers/democrats-increased-fertility-treatment-access-lgbtq-federal-workers.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/politics/2023/08/18/gun-industry-cries-foul-hundreds-gun-dealers-lose-licenses-biden-administration-crackdown/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-18T22:00:46.000Z</news:publication_date>
-          <news:title>Gun industry cries foul after hundreds of gun dealers lose licenses amid Biden administration crackdown</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/politics/2023/08/18/gun-industry-cries-foul-hundreds-gun-dealers-lose-licenses-biden-administration-crackdown/gun-industry-cries-foul-hundreds-gun-dealers-lose-licenses-biden-administration-crackdown.webp</image:loc>
         </image:image>
       </url>
       <url>
