@@ -3,87 +3,31 @@
               xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
               xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
       <url>
-        <loc>https://majordigest.com/sports/2023/08/19/nfl-free-agent-robert-quinn-facing-several-charges-after-multiple-hit-and-run-collisions/</loc>
+        <loc>https://majordigest.com/sports/2023/08/19/san-jose-state-football-o-line-looks-to-build-off-2022s-growing-pains/</loc>
         <news:news>
           <news:publication>
             <news:name>Major Digest</news:name>
             <news:language>en</news:language>
           </news:publication>
-          <news:publication_date>2023-08-19T18:28:19.000Z</news:publication_date>
-          <news:title>NFL free agent Robert Quinn facing several charges after multiple alleged hit-and-run collisions</news:title>
+          <news:publication_date>2023-08-19T13:10:09.000Z</news:publication_date>
+          <news:title>San Jose State football: O-line looks to build off 2022&#8217;s growing pains</news:title>
         </news:news>
         <image:image>
-          <image:loc>https://majordigest.com/sports/2023/08/19/nfl-free-agent-robert-quinn-facing-several-charges-after-multiple-hit-and-run-collisions/nfl-free-agent-robert-quinn-facing-several-charges-after-multiple-hit-and-run-collisions.webp</image:loc>
+          <image:loc>https://majordigest.com/sports/2023/08/19/san-jose-state-football-o-line-looks-to-build-off-2022s-growing-pains/san-jose-state-football-o-line-looks-to-build-off-2022s-growing-pains.webp</image:loc>
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/sports/2023/08/19/aew-tag-team-champ-cash-wheeler-arrested-florida-aggravated-assault-with-firearm-county-records-show/</loc>
+        <loc>https://majordigest.com/sports/2023/08/18/mailbag-kliavkoffs-current-role-and-final-grade-options-for-the-pac-4-schools-the-knight-view-and-a-few-words-on-our-coverage/</loc>
         <news:news>
           <news:publication>
             <news:name>Major Digest</news:name>
             <news:language>en</news:language>
           </news:publication>
-          <news:publication_date>2023-08-19T14:58:11.000Z</news:publication_date>
-          <news:title>AEW tag team champ Cash Wheeler arrested in Florida for aggravated assault with firearm, county records show</news:title>
+          <news:publication_date>2023-08-18T17:48:23.000Z</news:publication_date>
+          <news:title>Mailbag: Kliavkoff&#8217;s current role and final grade, options for the &#8216;Pac-4&#8217; schools, the Knight view and a few words on our coverage</news:title>
         </news:news>
         <image:image>
-          <image:loc>https://majordigest.com/sports/2023/08/19/aew-tag-team-champ-cash-wheeler-arrested-florida-aggravated-assault-with-firearm-county-records-show/aew-tag-team-champ-cash-wheeler-arrested-florida-aggravated-assault-with-firearm-county-records-show.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/sports/2023/08/19/mets-pete-alonso-feels-like-piece-of-crap-throwing-first-hit-stands/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-19T14:31:40.000Z</news:publication_date>
-          <news:title>Mets' Pete Alonso feels 'like a piece of crap' after throwing first hit into stands</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/sports/2023/08/19/mets-pete-alonso-feels-like-piece-of-crap-throwing-first-hit-stands/mets-pete-alonso-feels-like-piece-of-crap-throwing-first-hit-stands.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/sports/2023/08/18/kurtenbach-four-things-we-need-to-see-in-the-49ers-second-preseason-game/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-18T15:00:17.000Z</news:publication_date>
-          <news:title>Kurtenbach: Four things 49ers need to show me in their second preseason game</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/sports/2023/08/18/kurtenbach-four-things-we-need-to-see-in-the-49ers-second-preseason-game/kurtenbach-four-things-we-need-to-see-in-the-49ers-second-preseason-game.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/sports/2023/08/19/us-soccer-womens-general-manager-kate-markgraf-resign-amid-leadership-shakeup/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-19T04:48:28.000Z</news:publication_date>
-          <news:title>US Soccer women's general manager Kate Markgraf to resign amid leadership shakeup</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/sports/2023/08/19/us-soccer-womens-general-manager-kate-markgraf-resign-amid-leadership-shakeup/us-soccer-womens-general-manager-kate-markgraf-resign-amid-leadership-shakeup.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/sports/2023/08/19/england-vs-spain-what-know-womens-world-cup-final/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-19T14:43:55.000Z</news:publication_date>
-          <news:title>England vs. Spain: What to know about the Women's World Cup final</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/sports/2023/08/19/england-vs-spain-what-know-womens-world-cup-final/england-vs-spain-what-know-womens-world-cup-final.webp</image:loc>
+          <image:loc>https://majordigest.com/sports/2023/08/18/mailbag-kliavkoffs-current-role-and-final-grade-options-for-the-pac-4-schools-the-knight-view-and-a-few-words-on-our-coverage/mailbag-kliavkoffs-current-role-and-final-grade-options-for-the-pac-4-schools-the-knight-view-and-a-few-words-on-our-coverage.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -101,16 +45,58 @@
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/sports/2023/08/19/mlb-reschedules-three-games-california-anticipation-of-hurricane-hillary-impact/</loc>
+        <loc>https://majordigest.com/sports/2023/08/18/this-san-diego-high-school-has-never-fielded-a-football-team-its-first-one-will-be-made-up-of-all-girls/</loc>
         <news:news>
           <news:publication>
             <news:name>Major Digest</news:name>
             <news:language>en</news:language>
           </news:publication>
-          <news:publication_date>2023-08-19T03:30:13.000Z</news:publication_date>
-          <news:title>MLB reschedules three games in California in anticipation of Hurricane Hillary impact</news:title>
+          <news:publication_date>2023-08-18T17:57:26.000Z</news:publication_date>
+          <news:title>This San Diego high school has never fielded a football team. Its first one will be made up of all girls</news:title>
         </news:news>
         <image:image>
-          <image:loc>https://majordigest.com/sports/2023/08/19/mlb-reschedules-three-games-california-anticipation-of-hurricane-hillary-impact/mlb-reschedules-three-games-california-anticipation-of-hurricane-hillary-impact.webp</image:loc>
+          <image:loc>https://majordigest.com/sports/2023/08/18/this-san-diego-high-school-has-never-fielded-a-football-team-its-first-one-will-be-made-up-of-all-girls/this-san-diego-high-school-has-never-fielded-a-football-team-its-first-one-will-be-made-up-of-all-girls.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/sports/2023/08/18/kurtenbach-four-things-we-need-to-see-in-the-49ers-second-preseason-game/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-18T15:00:17.000Z</news:publication_date>
+          <news:title>Kurtenbach: Four things 49ers need to show me in their second preseason game</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/sports/2023/08/18/kurtenbach-four-things-we-need-to-see-in-the-49ers-second-preseason-game/kurtenbach-four-things-we-need-to-see-in-the-49ers-second-preseason-game.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/sports/2023/08/19/new-orleans-saints-jimmy-graham-taken-custody-following-medical-episode/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-19T17:27:33.000Z</news:publication_date>
+          <news:title>New Orleans Saints' Jimmy Graham taken into custody following 'medical episode'</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/sports/2023/08/19/new-orleans-saints-jimmy-graham-taken-custody-following-medical-episode/new-orleans-saints-jimmy-graham-taken-custody-following-medical-episode.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/sports/2023/08/19/england-vs-spain-what-know-womens-world-cup-final/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-19T14:43:55.000Z</news:publication_date>
+          <news:title>England vs. Spain: What to know about the Women's World Cup final</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/sports/2023/08/19/england-vs-spain-what-know-womens-world-cup-final/england-vs-spain-what-know-womens-world-cup-final.webp</image:loc>
         </image:image>
       </url></urlset>
