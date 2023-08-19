@@ -3,6 +3,62 @@
               xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
               xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
       <url>
+        <loc>https://majordigest.com/us/2023/08/19/ex-wife-slain-microsoft-exec-surprising-legal-move-arrest/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-19T15:46:30.000Z</news:publication_date>
+          <news:title>Ex-wife of slain Microsoft exec makes surprising legal move after arrest</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/us/2023/08/19/ex-wife-slain-microsoft-exec-surprising-legal-move-arrest/ex-wife-slain-microsoft-exec-surprising-legal-move-arrest.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/us/2023/08/19/beverly-hills-police-cryptic-update-missing-musician-co-wrote-katy-perry-song/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-19T15:37:00.000Z</news:publication_date>
+          <news:title>Beverly Hills police give cryptic update on missing musician who co-wrote Katy Perry song</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/us/2023/08/19/beverly-hills-police-cryptic-update-missing-musician-co-wrote-katy-perry-song/beverly-hills-police-cryptic-update-missing-musician-co-wrote-katy-perry-song.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/us/2023/08/19/crisis-kensington-philadelphia-area-safe-haven-hell-earth/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-19T11:00:37.000Z</news:publication_date>
+          <news:title>CRISIS IN KENSINGTON: This Philadelphia area went from a safe haven to 'hell on earth'</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/us/2023/08/19/crisis-kensington-philadelphia-area-safe-haven-hell-earth/crisis-kensington-philadelphia-area-safe-haven-hell-earth.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/us/2023/08/19/north-dakota-man-fatally-beat-wife-while-kids-were-home-left-her-in-bathtub-die-police/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-19T12:00:32.000Z</news:publication_date>
+          <news:title>North Dakota man fatally beat wife while kids were home, left her in bathtub to die: police</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/us/2023/08/19/north-dakota-man-fatally-beat-wife-while-kids-were-home-left-her-in-bathtub-die-police/north-dakota-man-fatally-beat-wife-while-kids-were-home-left-her-in-bathtub-die-police.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
         <loc>https://majordigest.com/us/2023/08/19/georgia-school-board-fires-teacher-reading-students-controversial-book-gender-identity/</loc>
         <news:news>
           <news:publication>
@@ -17,17 +73,17 @@
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/us/2023/08/19/new-jersey-judge-temporarily-blocks-school-districts-notifying-parents-childs-gender-identity-change/</loc>
+        <loc>https://majordigest.com/us/2023/08/19/texas-tattoo-shop-boss-fires-employee-kills-him-argument-final-paycheck-police-say/</loc>
         <news:news>
           <news:publication>
             <news:name>Major Digest</news:name>
             <news:language>en</news:language>
           </news:publication>
-          <news:publication_date>2023-08-19T08:12:45.000Z</news:publication_date>
-          <news:title>New Jersey judge temporarily blocks school districts from notifying parents of child's gender identity change</news:title>
+          <news:publication_date>2023-08-19T12:00:14.000Z</news:publication_date>
+          <news:title>Texas tattoo shop boss fires employee, then kills him in argument over final paycheck, police say</news:title>
         </news:news>
         <image:image>
-          <image:loc>https://majordigest.com/us/2023/08/19/new-jersey-judge-temporarily-blocks-school-districts-notifying-parents-childs-gender-identity-change/new-jersey-judge-temporarily-blocks-school-districts-notifying-parents-childs-gender-identity-change.webp</image:loc>
+          <image:loc>https://majordigest.com/us/2023/08/19/texas-tattoo-shop-boss-fires-employee-kills-him-argument-final-paycheck-police-say/texas-tattoo-shop-boss-fires-employee-kills-him-argument-final-paycheck-police-say.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -45,6 +101,20 @@
         </image:image>
       </url>
       <url>
+        <loc>https://majordigest.com/us/2023/08/19/new-jersey-judge-temporarily-blocks-school-districts-notifying-parents-childs-gender-identity-change/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-19T08:12:45.000Z</news:publication_date>
+          <news:title>New Jersey judge temporarily blocks school districts from notifying parents of child's gender identity change</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/us/2023/08/19/new-jersey-judge-temporarily-blocks-school-districts-notifying-parents-childs-gender-identity-change/new-jersey-judge-temporarily-blocks-school-districts-notifying-parents-childs-gender-identity-change.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
         <loc>https://majordigest.com/us/2023/08/19/florida-officials-report-5-deaths-flesh-eating-bacteria-tampa-bay-january/</loc>
         <news:news>
           <news:publication>
@@ -56,19 +126,5 @@
         </news:news>
         <image:image>
           <image:loc>https://majordigest.com/us/2023/08/19/florida-officials-report-5-deaths-flesh-eating-bacteria-tampa-bay-january/florida-officials-report-5-deaths-flesh-eating-bacteria-tampa-bay-january.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/us/2023/08/19/georgia-murder-for-hire-suspect-called-911-husband-after-fight-over-private-plane-bodycam/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-19T12:30:38.000Z</news:publication_date>
-          <news:title>Georgia murder-for-hire suspect called 911 on her husband after fight over private plane: bodycam</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/us/2023/08/19/georgia-murder-for-hire-suspect-called-911-husband-after-fight-over-private-plane-bodycam/georgia-murder-for-hire-suspect-called-911-husband-after-fight-over-private-plane-bodycam.webp</image:loc>
         </image:image>
       </url></urlset>
