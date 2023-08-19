@@ -3,17 +3,31 @@
               xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
               xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
       <url>
-        <loc>https://majordigest.com/tech/2023/08/18/google-security-check-60-seconds-kick-snoops-hackers/</loc>
+        <loc>https://majordigest.com/tech/2023/08/17/intuit-executive-chriss-to-become-president-and-ceo-of-paypal-2/</loc>
         <news:news>
           <news:publication>
             <news:name>Major Digest</news:name>
             <news:language>en</news:language>
           </news:publication>
-          <news:publication_date>2023-08-18T21:02:05.000Z</news:publication_date>
-          <news:title>Google security check: 60 seconds to kick out snoops and hackers</news:title>
+          <news:publication_date>2023-08-17T17:59:26.000Z</news:publication_date>
+          <news:title>Intuit executive Alex Chriss to become president and CEO of PayPal</news:title>
         </news:news>
         <image:image>
-          <image:loc>https://majordigest.com/tech/2023/08/18/google-security-check-60-seconds-kick-snoops-hackers/google-security-check-60-seconds-kick-snoops-hackers.webp</image:loc>
+          <image:loc>https://majordigest.com/tech/2023/08/17/intuit-executive-chriss-to-become-president-and-ceo-of-paypal-2/intuit-executive-chriss-to-become-president-and-ceo-of-paypal-2.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/tech/2023/08/07/use-this-website-to-delete-your-old-accounts-fast/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-07T08:00:00.000Z</news:publication_date>
+          <news:title>Use this website to delete your old accounts fast</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/tech/2023/08/07/use-this-website-to-delete-your-old-accounts-fast/use-this-website-to-delete-your-old-accounts-fast.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -31,31 +45,17 @@
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/tech/2023/08/17/how-stay-connected-your-phone-traveling-abroad/</loc>
+        <loc>https://majordigest.com/tech/2023/08/16/best-back-to-school-laptops-under-1000/</loc>
         <news:news>
           <news:publication>
             <news:name>Major Digest</news:name>
             <news:language>en</news:language>
           </news:publication>
-          <news:publication_date>2023-08-17T18:54:14.000Z</news:publication_date>
-          <news:title>How to stay connected on your phone while traveling abroad</news:title>
+          <news:publication_date>2023-08-16T08:00:00.000Z</news:publication_date>
+          <news:title>Best back to school laptops under $1,000</news:title>
         </news:news>
         <image:image>
-          <image:loc>https://majordigest.com/tech/2023/08/17/how-stay-connected-your-phone-traveling-abroad/how-stay-connected-your-phone-traveling-abroad.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/tech/2023/08/17/opinion-hollywood-strikes-shows-why-it-is-time-to-break-up-netflix-and-other-streamers/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-17T11:30:25.000Z</news:publication_date>
-          <news:title>Opinion: Strikes show need to break up Netflix and other streamers</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/tech/2023/08/17/opinion-hollywood-strikes-shows-why-it-is-time-to-break-up-netflix-and-other-streamers/opinion-hollywood-strikes-shows-why-it-is-time-to-break-up-netflix-and-other-streamers.webp</image:loc>
+          <image:loc>https://majordigest.com/tech/2023/08/16/best-back-to-school-laptops-under-1000/best-back-to-school-laptops-under-1000.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -73,45 +73,17 @@
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/tech/2023/08/16/ai-is-launching-911-call-centers-into-future-video-calls-triaging-redundant-reports/</loc>
+        <loc>https://majordigest.com/tech/2023/08/17/how-stay-connected-your-phone-traveling-abroad/</loc>
         <news:news>
           <news:publication>
             <news:name>Major Digest</news:name>
             <news:language>en</news:language>
           </news:publication>
-          <news:publication_date>2023-08-16T06:00:00.000Z</news:publication_date>
-          <news:title>AI is launching 911 call centers into the future with video calls, triaging redundant reports</news:title>
+          <news:publication_date>2023-08-17T18:54:14.000Z</news:publication_date>
+          <news:title>How to stay connected on your phone while traveling abroad</news:title>
         </news:news>
         <image:image>
-          <image:loc>https://majordigest.com/tech/2023/08/16/ai-is-launching-911-call-centers-into-future-video-calls-triaging-redundant-reports/ai-is-launching-911-call-centers-into-future-video-calls-triaging-redundant-reports.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/tech/2023/08/16/best-back-to-school-laptops-under-1000/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-16T08:00:00.000Z</news:publication_date>
-          <news:title>Best back to school laptops under $1,000</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/tech/2023/08/16/best-back-to-school-laptops-under-1000/best-back-to-school-laptops-under-1000.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/tech/2023/08/16/do-this-before-you-toss-donate-sell-your-printer/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-16T17:50:31.000Z</news:publication_date>
-          <news:title>Do this before you toss, donate or sell your printer</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/tech/2023/08/16/do-this-before-you-toss-donate-sell-your-printer/do-this-before-you-toss-donate-sell-your-printer.webp</image:loc>
+          <image:loc>https://majordigest.com/tech/2023/08/17/how-stay-connected-your-phone-traveling-abroad/how-stay-connected-your-phone-traveling-abroad.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -129,6 +101,20 @@
         </image:image>
       </url>
       <url>
+        <loc>https://majordigest.com/tech/2023/08/18/real-fake-ai-product-reviews-are-making-it-impossible-know-difference/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-18T16:00:35.000Z</news:publication_date>
+          <news:title>Real or fake? AI product reviews are making it impossible to know the difference</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/tech/2023/08/18/real-fake-ai-product-reviews-are-making-it-impossible-know-difference/real-fake-ai-product-reviews-are-making-it-impossible-know-difference.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
         <loc>https://majordigest.com/tech/2023/08/01/scammers-use-fake-parking-qr-codes-to-steal-your-cash/</loc>
         <news:news>
           <news:publication>
@@ -143,30 +129,58 @@
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/tech/2023/08/18/beware-say-yes-phone-scam/</loc>
+        <loc>https://majordigest.com/tech/2023/08/17/how-silence-amazon-alexa-by-the-way-suggestions/</loc>
         <news:news>
           <news:publication>
             <news:name>Major Digest</news:name>
             <news:language>en</news:language>
           </news:publication>
-          <news:publication_date>2023-08-18T13:05:41.000Z</news:publication_date>
-          <news:title>Beware of the 'Say Yes' phone scam</news:title>
+          <news:publication_date>2023-08-17T16:39:03.000Z</news:publication_date>
+          <news:title>How to silence Amazon Alexa's 'by the way' suggestions</news:title>
         </news:news>
         <image:image>
-          <image:loc>https://majordigest.com/tech/2023/08/18/beware-say-yes-phone-scam/beware-say-yes-phone-scam.webp</image:loc>
+          <image:loc>https://majordigest.com/tech/2023/08/17/how-silence-amazon-alexa-by-the-way-suggestions/how-silence-amazon-alexa-by-the-way-suggestions.webp</image:loc>
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/tech/2023/08/18/chatgpt-wary-universities-scramble-to-prepare-for-new-school-year/</loc>
+        <loc>https://majordigest.com/tech/2023/08/16/how-stay-incognito-conceal-your-number-calling-someone/</loc>
         <news:news>
           <news:publication>
             <news:name>Major Digest</news:name>
             <news:language>en</news:language>
           </news:publication>
-          <news:publication_date>2023-08-18T17:35:20.000Z</news:publication_date>
-          <news:title>ChatGPT-wary universities scramble to prepare for new school year</news:title>
+          <news:publication_date>2023-08-16T15:34:48.000Z</news:publication_date>
+          <news:title>How to stay incognito and conceal your number when calling someone</news:title>
         </news:news>
         <image:image>
-          <image:loc>https://majordigest.com/tech/2023/08/18/chatgpt-wary-universities-scramble-to-prepare-for-new-school-year/chatgpt-wary-universities-scramble-to-prepare-for-new-school-year.webp</image:loc>
+          <image:loc>https://majordigest.com/tech/2023/08/16/how-stay-incognito-conceal-your-number-calling-someone/how-stay-incognito-conceal-your-number-calling-someone.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/tech/2023/08/11/samsung-galaxy-z-flip-5-foldable-phone-review-richontech/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-11T12:02:38.000Z</news:publication_date>
+          <news:title>Samsung's foldable phones are in stores today</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/tech/2023/08/11/samsung-galaxy-z-flip-5-foldable-phone-review-richontech/samsung-galaxy-z-flip-5-foldable-phone-review-richontech.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/tech/2023/08/16/do-this-before-you-toss-donate-sell-your-printer/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-16T17:50:31.000Z</news:publication_date>
+          <news:title>Do this before you toss, donate or sell your printer</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/tech/2023/08/16/do-this-before-you-toss-donate-sell-your-printer/do-this-before-you-toss-donate-sell-your-printer.webp</image:loc>
         </image:image>
       </url></urlset>

@@ -38,7 +38,9 @@
       var re = /^\/archive\/(\d+\/\d+\/\d+)/i;
       var date = (pathname.match(re) || [])[1];
       function onerror(e) {
-        e.target.parentNode.style.display = "none";
+        // e.target.parentNode.style.display = "none";
+        e.target.parentNode.style.opacity = ".75";
+        e.target.parentNode.style.background = "darkgray";
       }
 
       if (date) {

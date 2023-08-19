@@ -2,7 +2,7 @@
 
 <img src="https://majordigest.com/assets/images/major-digest-initial-sketch-2022-400px.jpg" alt="An initial sketch of the Major Digest web app, drawn on a whiteboard in November 2022." title="An initial sketch of the Major Digest web app, drawn on a whiteboard in November 2022." align="left" itemprop="image" width="400" height="522" referrerpolicy="no-referrer">
 
-[MajorDigest](https://majordigest.com/) is the brainchild of [Valentin Podkamennyi](https://github.com/vpodk) and his daughter, [Liza Podkamenna](https://github.com/lizapodk). Born out of their frustration with navigating multiple news sources, Major Digest has evolved into a simple and reliable online platform for comprehensive news coverage. Created as a pet project, Major Digest has become an accessible resource for individuals seeking up-to-date and trustworthy news.
+[Major Digest](https://majordigest.com/) is the brainchild of [Valentin Podkamennyi](https://github.com/vpodk) and his daughter, [Liza Podkamenna](https://github.com/lizapodk). Born out of their frustration with navigating multiple news sources, Major Digest has evolved into a simple and reliable online platform for comprehensive news coverage. Created as a pet project, Major Digest has become an accessible resource for individuals seeking up-to-date and trustworthy news.
 
 The initial idea for Major Digest arose when Valentin and Liza found themselves spending countless hours scouring various news outlets to stay informed about current events. They realized that the process was time-consuming, often leading to information overload and conflicting reports. They envisioned a solution that would consolidate reliable news sources into a single, easy-to-access platform.
 
