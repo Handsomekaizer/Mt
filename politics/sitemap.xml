@@ -3,62 +3,6 @@
               xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
               xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
       <url>
-        <loc>https://majordigest.com/politics/2023/08/18/biden-hasnt-launched-a-maui-fire-investigation-heres-why/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-18T08:30:00.000Z</news:publication_date>
-          <news:title>President Joe Biden hasn&#8217;t launched a Maui fire investigation. Here&#8217;s why.</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/politics/2023/08/18/biden-hasnt-launched-a-maui-fire-investigation-heres-why/biden-hasnt-launched-a-maui-fire-investigation-heres-why.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/politics/2023/08/18/james-buckley-conservative-former-us-senator-new-york-dead-100/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-18T23:06:34.000Z</news:publication_date>
-          <news:title>James Buckley, conservative former US senator from New York, dead at 100</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/politics/2023/08/18/james-buckley-conservative-former-us-senator-new-york-dead-100/james-buckley-conservative-former-us-senator-new-york-dead-100.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/politics/2023/08/18/trump-indictment-gop-georgia/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-18T22:20:26.000Z</news:publication_date>
-          <news:title>In Georgia, Trump indictment casts shadow over Republican 2024 hopefuls</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/politics/2023/08/18/trump-indictment-gop-georgia/trump-indictment-gop-georgia.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/politics/2023/08/18/biden-vietnam-partnership/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-18T21:42:58.000Z</news:publication_date>
-          <news:title>Biden to sign strategic partnership deal with Vietnam in latest bid to counter China in the region</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/politics/2023/08/18/biden-vietnam-partnership/biden-vietnam-partnership.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
         <loc>https://majordigest.com/politics/2023/08/18/obama-biden-admin-defended-use-alternate-email-addresses-long-before-bidens-aliases-revealed/</loc>
         <news:news>
           <news:publication>
@@ -70,6 +14,20 @@
         </news:news>
         <image:image>
           <image:loc>https://majordigest.com/politics/2023/08/18/obama-biden-admin-defended-use-alternate-email-addresses-long-before-bidens-aliases-revealed/obama-biden-admin-defended-use-alternate-email-addresses-long-before-bidens-aliases-revealed.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/politics/2023/08/18/democrats-increased-fertility-treatment-access-lgbtq-federal-workers/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-18T18:39:37.000Z</news:publication_date>
+          <news:title>Democrats demand increased fertility treatment access for LGBTQ federal workers</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/politics/2023/08/18/democrats-increased-fertility-treatment-access-lgbtq-federal-workers/democrats-increased-fertility-treatment-access-lgbtq-federal-workers.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -87,6 +45,20 @@
         </image:image>
       </url>
       <url>
+        <loc>https://majordigest.com/politics/2023/08/18/house-democrat-voting-down-biden-student-loan-handout/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-18T20:42:06.000Z</news:publication_date>
+          <news:title>House Dem shreds 'radical leftist elites,' defends voting down Biden student loan handout</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/politics/2023/08/18/house-democrat-voting-down-biden-student-loan-handout/house-democrat-voting-down-biden-student-loan-handout.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
         <loc>https://majordigest.com/politics/2023/08/18/pence-second-debate-trump/</loc>
         <news:news>
           <news:publication>
@@ -98,6 +70,34 @@
         </news:news>
         <image:image>
           <image:loc>https://majordigest.com/politics/2023/08/18/pence-second-debate-trump/pence-second-debate-trump.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/politics/2023/08/18/pence-preps-showdown-trump-first-republican-debate-trump-doesnt-show-up/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-18T16:05:24.000Z</news:publication_date>
+          <news:title>Pence preps for showdown with Trump at first Republican debate &#8212;  even if Trump doesn't show up</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/politics/2023/08/18/pence-preps-showdown-trump-first-republican-debate-trump-doesnt-show-up/pence-preps-showdown-trump-first-republican-debate-trump-doesnt-show-up.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/politics/2023/08/18/gun-industry-cries-foul-hundreds-gun-dealers-lose-licenses-biden-administration-crackdown/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-18T22:00:46.000Z</news:publication_date>
+          <news:title>Gun industry cries foul after hundreds of gun dealers lose licenses amid Biden administration crackdown</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/politics/2023/08/18/gun-industry-cries-foul-hundreds-gun-dealers-lose-licenses-biden-administration-crackdown/gun-industry-cries-foul-hundreds-gun-dealers-lose-licenses-biden-administration-crackdown.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -126,5 +126,19 @@
         </news:news>
         <image:image>
           <image:loc>https://majordigest.com/politics/2023/08/18/federal-judge-denies-trumps-4th-attempt-stop-e-jean-carroll-lawsuit-calling-appeal-frivolous/federal-judge-denies-trumps-4th-attempt-stop-e-jean-carroll-lawsuit-calling-appeal-frivolous.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/politics/2023/08/18/trump-indictment-gop-georgia/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-18T22:20:26.000Z</news:publication_date>
+          <news:title>In Georgia, Trump indictment casts shadow over Republican 2024 hopefuls</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/politics/2023/08/18/trump-indictment-gop-georgia/trump-indictment-gop-georgia.webp</image:loc>
         </image:image>
       </url></urlset>

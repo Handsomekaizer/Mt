@@ -1,0 +1,60 @@
+name: archive
+
+on:
+  workflow_dispatch:
+  schedule:
+    # Runs at midnigth
+    - cron: '0 0 * * *'
+
+jobs:
+  archive:
+    if: github.repository == 'MajorDigest/majordigest.github.io'
+    runs-on: ubuntu-latest
+    steps:
+    - name: Checkout 🛎️
+      uses: actions/checkout@v3
+      # with:
+      #   ref: gh-pages
+
+    - name: Archive Pages 🗄️
+      run: |
+        export ARCHIVE_DATE="$(TZ=America/New_York date '+%Y/%m/%d')"
+        export ARCHIVE_PATH="archive/${ARCHIVE_DATE}"
+        export IMAGE_TIMESTAMP="$(TZ=America/New_York date '+%Y%m%d')"
+        export IMAGE_SRC_PATTERN="src=\"/assets/images/"
+        export IMAGE_REPLACEMENT="src=\"https://web.archive.org/web/${IMAGE_TIMESTAMP}im_/https://majordigest.com/assets/images/"
+        export CANONICAL_URL_PATTERN="=\"https://majordigest.com/\">"
+        export CANONICAL_REPLACEMENT="=\"https://majordigest.com/${ARCHIVE_PATH}/\">"
+        export ARCHIVE_LINK_PLACEHOLDER="<!--archive-->"
+        export ARCHIVE_LINK_TEXT="$(TZ=America/New_York date '+%B %-d, %Y')"
+        export ARCHIVE_LINK="${ARCHIVE_LINK_PLACEHOLDER}\n<a href=\"/${ARCHIVE_PATH}/\" title=\"News archive of ${ARCHIVE_LINK_TEXT}\">${ARCHIVE_LINK_TEXT}</a>"
+        export PRECONNECT_PLACEHOLDER="</head>"
+        export PRECONNECT_REPLACEMENT="<link rel=\"preconnect\" href=\"https://web.archive.org/\"></head>"
+        mkdir -p "${ARCHIVE_PATH}"
+        cp index.html "${ARCHIVE_PATH}"
+        sed -i -e "s#$IMAGE_SRC_PATTERN#$IMAGE_REPLACEMENT#g" "${ARCHIVE_PATH}/index.html"
+        sed -i -e "s#$CANONICAL_URL_PATTERN#$CANONICAL_REPLACEMENT#g" "${ARCHIVE_PATH}/index.html"
+        sed -i -e "s#$PRECONNECT_PLACEHOLDER#$PRECONNECT_REPLACEMENT#g" "${ARCHIVE_PATH}/index.html"
+        sed -i -e "s#$ARCHIVE_LINK_PLACEHOLDER#$ARCHIVE_LINK#g" "archive/index.html"
+        git config --global user.name 'Valentin Podkamennyi'
+        git config --global user.email 'vpodk@users.noreply.github.com'
+        git add -A
+        git commit -m "Added archive for ${ARCHIVE_DATE}" && git push
+
+    - name: Push Web Archive 🕸️
+      run: |
+        echo -n "Status: " && curl --silent -o /dev/null -w "%{http_code}\\n" \
+          --data "url=https%3A%2F%2Fmajordigest.com%2F&capture_all=on" \
+          -X POST https://web.archive.org/save/https://majordigest.com/
+
+    - name: Cleanup Images 🧹
+      run: |
+        export LAST_MONTH="$(date -d 'last month' '+%Y/%m')"
+        rm -rf "assets/images/news/${LAST_MONTH}"
+        rm -rf "assets/images/politics/${LAST_MONTH}"
+        rm -rf "assets/images/sports/${LAST_MONTH}"
+        rm -rf "assets/images/tech/${LAST_MONTH}"
+        rm -rf "assets/images/us/${LAST_MONTH}"
+        rm -rf "assets/images/world/${LAST_MONTH}"
+        git add -A
+        git commit -m "Clean up for ${LAST_MONTH}" && git push
