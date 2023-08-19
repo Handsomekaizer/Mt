@@ -3,17 +3,17 @@
               xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
               xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
       <url>
-        <loc>https://majordigest.com/politics/2023/08/18/maui-company-says-request-water-fight-wildfire-delayed-several-hours-govt-consulted-farmers/</loc>
+        <loc>https://majordigest.com/politics/2023/08/18/raimondo-china-economic-downturn/</loc>
         <news:news>
           <news:publication>
             <news:name>Major Digest</news:name>
             <news:language>en</news:language>
           </news:publication>
-          <news:publication_date>2023-08-18T22:37:30.000Z</news:publication_date>
-          <news:title>Maui company says request for water to fight wildfire delayed several hours while state consulted with farmers</news:title>
+          <news:publication_date>2023-08-18T20:58:54.000Z</news:publication_date>
+          <news:title>China&#8217;s economy is in trouble. Beijing hopes Raimondo can lend a hand.</news:title>
         </news:news>
         <image:image>
-          <image:loc>https://majordigest.com/politics/2023/08/18/maui-company-says-request-water-fight-wildfire-delayed-several-hours-govt-consulted-farmers/maui-company-says-request-water-fight-wildfire-delayed-several-hours-govt-consulted-farmers.webp</image:loc>
+          <image:loc>https://majordigest.com/politics/2023/08/18/raimondo-china-economic-downturn/raimondo-china-economic-downturn.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -31,6 +31,20 @@
         </image:image>
       </url>
       <url>
+        <loc>https://majordigest.com/politics/2023/08/19/house-republicans-biden-ukraine/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-19T11:00:00.000Z</news:publication_date>
+          <news:title>House Republicans are standing between Biden and his war to save Ukraine</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/politics/2023/08/19/house-republicans-biden-ukraine/house-republicans-biden-ukraine.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
         <loc>https://majordigest.com/politics/2023/08/19/migrant-encounters-southern-border-rise-again-biden-touted-immigration-policy-reforms/</loc>
         <news:news>
           <news:publication>
@@ -45,17 +59,17 @@
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/politics/2023/08/18/trump-fundraising-off-his-name/</loc>
+        <loc>https://majordigest.com/politics/2023/08/19/desantis-meets-kemp-trump-case-impeachment-calls-fani-willis/</loc>
         <news:news>
           <news:publication>
             <news:name>Major Digest</news:name>
             <news:language>en</news:language>
           </news:publication>
-          <news:publication_date>2023-08-18T17:40:23.000Z</news:publication_date>
-          <news:title>Trump moves to thwart fundraising off his name</news:title>
+          <news:publication_date>2023-08-19T16:31:19.000Z</news:publication_date>
+          <news:title>DeSantis meets with Kemp amid Trump case, impeachment calls against Fani Willis</news:title>
         </news:news>
         <image:image>
-          <image:loc>https://majordigest.com/politics/2023/08/18/trump-fundraising-off-his-name/trump-fundraising-off-his-name.webp</image:loc>
+          <image:loc>https://majordigest.com/politics/2023/08/19/desantis-meets-kemp-trump-case-impeachment-calls-fani-willis/desantis-meets-kemp-trump-case-impeachment-calls-fani-willis.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -70,19 +84,5 @@
         </news:news>
         <image:image>
           <image:loc>https://majordigest.com/politics/2023/08/19/california-gop-proposal-distance-state-party-national-messaging-abortion-same-sex-marriage/california-gop-proposal-distance-state-party-national-messaging-abortion-same-sex-marriage.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/politics/2023/08/19/2024-debates-matter/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-19T11:00:00.000Z</news:publication_date>
-          <news:title>Why Trump might regret passing on the first debate</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/politics/2023/08/19/2024-debates-matter/2024-debates-matter.webp</image:loc>
         </image:image>
       </url></urlset>
