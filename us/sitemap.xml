@@ -3,31 +3,17 @@
               xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
               xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
       <url>
-        <loc>https://majordigest.com/us/2023/08/20/new-york-city-shark-attack-victim-had-surgeries-days-left-permanent-disability-family/</loc>
+        <loc>https://majordigest.com/us/2023/08/20/la-mayor-says-city-reaching-out-citys-homeless-population-riverbed-areas-ahead-hilary/</loc>
         <news:news>
           <news:publication>
             <news:name>Major Digest</news:name>
             <news:language>en</news:language>
           </news:publication>
-          <news:publication_date>2023-08-20T01:59:26.000Z</news:publication_date>
-          <news:title>New York City shark attack victim had 5 surgeries in 8 days, left with 'permanent disability': Family</news:title>
+          <news:publication_date>2023-08-20T17:03:05.000Z</news:publication_date>
+          <news:title>LA mayor says city reaching out to city's homeless population in riverbed areas ahead of Hilary</news:title>
         </news:news>
         <image:image>
-          <image:loc>https://majordigest.com/us/2023/08/20/new-york-city-shark-attack-victim-had-surgeries-days-left-permanent-disability-family/new-york-city-shark-attack-victim-had-surgeries-days-left-permanent-disability-family.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/us/2023/08/20/victim-of-barnes-noble-sniffer-blasts-repeated-catch-and-release-he-is-unfit-for-society/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-20T12:00:17.000Z</news:publication_date>
-          <news:title>Victim of Barnes &#38; Noble 'sniffer' blasts repeated catch and release: 'He is unfit for society'</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/us/2023/08/20/victim-of-barnes-noble-sniffer-blasts-repeated-catch-and-release-he-is-unfit-for-society/victim-of-barnes-noble-sniffer-blasts-repeated-catch-and-release-he-is-unfit-for-society.webp</image:loc>
+          <image:loc>https://majordigest.com/us/2023/08/20/la-mayor-says-city-reaching-out-citys-homeless-population-riverbed-areas-ahead-hilary/la-mayor-says-city-reaching-out-citys-homeless-population-riverbed-areas-ahead-hilary.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -45,17 +31,17 @@
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/us/2023/08/20/wild-west-long-police-wait-times-major-cities-leave-victims-feeling-helpless/</loc>
+        <loc>https://majordigest.com/us/2023/08/20/tropical-storm-hilary-makes-landfall-mexico-threatens-flooding-california-state-emergency/</loc>
         <news:news>
           <news:publication>
             <news:name>Major Digest</news:name>
             <news:language>en</news:language>
           </news:publication>
-          <news:publication_date>2023-08-20T11:00:37.000Z</news:publication_date>
-          <news:title>&#8216;This is the Wild West&#8217;: Long police wait times in major cities leave victims feeling helpless</news:title>
+          <news:publication_date>2023-08-20T13:04:24.000Z</news:publication_date>
+          <news:title>Tropical Storm Hilary makes landfall in Mexico, threatens flooding in California amid state of emergency</news:title>
         </news:news>
         <image:image>
-          <image:loc>https://majordigest.com/us/2023/08/20/wild-west-long-police-wait-times-major-cities-leave-victims-feeling-helpless/wild-west-long-police-wait-times-major-cities-leave-victims-feeling-helpless.webp</image:loc>
+          <image:loc>https://majordigest.com/us/2023/08/20/tropical-storm-hilary-makes-landfall-mexico-threatens-flooding-california-state-emergency/tropical-storm-hilary-makes-landfall-mexico-threatens-flooding-california-state-emergency.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -73,17 +59,31 @@
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/us/2023/08/20/maryland-man-sentenced-life-sexually-abusing-minor-stepdaughter/</loc>
+        <loc>https://majordigest.com/us/2023/08/20/gilgo-beach-murder-victims-forgotten-years-corruption-scandal/</loc>
         <news:news>
           <news:publication>
             <news:name>Major Digest</news:name>
             <news:language>en</news:language>
           </news:publication>
-          <news:publication_date>2023-08-20T08:31:25.000Z</news:publication_date>
-          <news:title>Maryland man sentenced to life for sexually abusing his minor stepdaughter</news:title>
+          <news:publication_date>2023-08-20T20:00:07.000Z</news:publication_date>
+          <news:title>Gilgo Beach murder victims forgotten during years of corruption and scandal</news:title>
         </news:news>
         <image:image>
-          <image:loc>https://majordigest.com/us/2023/08/20/maryland-man-sentenced-life-sexually-abusing-minor-stepdaughter/maryland-man-sentenced-life-sexually-abusing-minor-stepdaughter.webp</image:loc>
+          <image:loc>https://majordigest.com/us/2023/08/20/gilgo-beach-murder-victims-forgotten-years-corruption-scandal/gilgo-beach-murder-victims-forgotten-years-corruption-scandal.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/us/2023/08/20/wild-west-long-police-wait-times-major-cities-leave-victims-feeling-helpless/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-20T11:00:37.000Z</news:publication_date>
+          <news:title>&#8216;This is the Wild West&#8217;: Long police wait times in major cities leave victims feeling helpless</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/us/2023/08/20/wild-west-long-police-wait-times-major-cities-leave-victims-feeling-helpless/wild-west-long-police-wait-times-major-cities-leave-victims-feeling-helpless.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -101,16 +101,16 @@
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/us/2023/08/20/hurricane-hilary-weakens-category-1-california-still-faces-danger-state-emergency/</loc>
+        <loc>https://majordigest.com/us/2023/08/20/victim-of-barnes-noble-sniffer-blasts-repeated-catch-and-release-he-is-unfit-for-society/</loc>
         <news:news>
           <news:publication>
             <news:name>Major Digest</news:name>
             <news:language>en</news:language>
           </news:publication>
-          <news:publication_date>2023-08-20T13:04:24.000Z</news:publication_date>
-          <news:title>Hilary weakens to tropical storm, but California still faces danger amid state of emergency</news:title>
+          <news:publication_date>2023-08-20T12:00:17.000Z</news:publication_date>
+          <news:title>Victim of Barnes &#38; Noble 'sniffer' blasts repeated catch and release: 'He is unfit for society'</news:title>
         </news:news>
         <image:image>
-          <image:loc>https://majordigest.com/us/2023/08/20/hurricane-hilary-weakens-category-1-california-still-faces-danger-state-emergency/hurricane-hilary-weakens-category-1-california-still-faces-danger-state-emergency.webp</image:loc>
+          <image:loc>https://majordigest.com/us/2023/08/20/victim-of-barnes-noble-sniffer-blasts-repeated-catch-and-release-he-is-unfit-for-society/victim-of-barnes-noble-sniffer-blasts-repeated-catch-and-release-he-is-unfit-for-society.webp</image:loc>
         </image:image>
       </url></urlset>
