@@ -3,76 +3,6 @@
               xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
               xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
       <url>
-        <loc>https://majordigest.com/tech/2023/08/18/tesla-didnt-fix-autopilot-after-fatal-crash-engineers-say/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-18T14:57:54.000Z</news:publication_date>
-          <news:title>Tesla didn&#8217;t fix autopilot after grisly fatal crash, engineers say</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/tech/2023/08/18/tesla-didnt-fix-autopilot-after-fatal-crash-engineers-say/tesla-didnt-fix-autopilot-after-fatal-crash-engineers-say.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/tech/2023/08/20/7-ways-foolproof-save-money-tough-economy/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-20T17:32:43.000Z</news:publication_date>
-          <news:title>7 foolproof ways to save money in a tough economy</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/tech/2023/08/20/7-ways-foolproof-save-money-tough-economy/7-ways-foolproof-save-money-tough-economy.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/tech/2023/08/20/dmv-demands-cruise-cut-driverless-fleet-in-half-following-crashes/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-20T04:07:02.000Z</news:publication_date>
-          <news:title>DMV demands Cruise cut driverless fleet in half following crashes</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/tech/2023/08/20/dmv-demands-cruise-cut-driverless-fleet-in-half-following-crashes/dmv-demands-cruise-cut-driverless-fleet-in-half-following-crashes.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/tech/2023/08/18/chatgpt-wary-universities-scramble-to-prepare-for-new-school-year/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-18T17:35:20.000Z</news:publication_date>
-          <news:title>ChatGPT-wary universities scramble to prepare for new school year</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/tech/2023/08/18/chatgpt-wary-universities-scramble-to-prepare-for-new-school-year/chatgpt-wary-universities-scramble-to-prepare-for-new-school-year.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/tech/2023/08/17/how-stay-connected-your-phone-traveling-abroad/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-17T18:54:14.000Z</news:publication_date>
-          <news:title>How to stay connected on your phone while traveling abroad</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/tech/2023/08/17/how-stay-connected-your-phone-traveling-abroad/how-stay-connected-your-phone-traveling-abroad.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
         <loc>https://majordigest.com/tech/2023/08/17/intuit-executive-chriss-to-become-president-and-ceo-of-paypal-2/</loc>
         <news:news>
           <news:publication>
@@ -84,6 +14,20 @@
         </news:news>
         <image:image>
           <image:loc>https://majordigest.com/tech/2023/08/17/intuit-executive-chriss-to-become-president-and-ceo-of-paypal-2/intuit-executive-chriss-to-become-president-and-ceo-of-paypal-2.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/tech/2023/08/16/best-back-to-school-laptops-under-1000/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-16T08:00:00.000Z</news:publication_date>
+          <news:title>Best back to school laptops under $1,000</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/tech/2023/08/16/best-back-to-school-laptops-under-1000/best-back-to-school-laptops-under-1000.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -101,6 +45,20 @@
         </image:image>
       </url>
       <url>
+        <loc>https://majordigest.com/tech/2023/08/17/how-silence-amazon-alexa-by-the-way-suggestions/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-17T16:39:03.000Z</news:publication_date>
+          <news:title>How to silence Amazon Alexa's 'by the way' suggestions</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/tech/2023/08/17/how-silence-amazon-alexa-by-the-way-suggestions/how-silence-amazon-alexa-by-the-way-suggestions.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
         <loc>https://majordigest.com/tech/2023/08/18/real-fake-ai-product-reviews-are-making-it-impossible-know-difference/</loc>
         <news:news>
           <news:publication>
@@ -112,6 +70,20 @@
         </news:news>
         <image:image>
           <image:loc>https://majordigest.com/tech/2023/08/18/real-fake-ai-product-reviews-are-making-it-impossible-know-difference/real-fake-ai-product-reviews-are-making-it-impossible-know-difference.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/tech/2023/08/18/gms-cruise-robotaxi-collides-with-firetruck-injuring-passenger/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-18T17:53:54.000Z</news:publication_date>
+          <news:title>GM&#8217;s Cruise robotaxi collides with San Francisco firetruck, injuring passenger</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/tech/2023/08/18/gms-cruise-robotaxi-collides-with-firetruck-injuring-passenger/gms-cruise-robotaxi-collides-with-firetruck-injuring-passenger.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -129,6 +101,34 @@
         </image:image>
       </url>
       <url>
+        <loc>https://majordigest.com/tech/2023/08/18/google-security-check-60-seconds-kick-snoops-hackers/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-18T21:02:05.000Z</news:publication_date>
+          <news:title>Google security check: 60 seconds to kick out snoops and hackers</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/tech/2023/08/18/google-security-check-60-seconds-kick-snoops-hackers/google-security-check-60-seconds-kick-snoops-hackers.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/tech/2023/08/20/set-up-free-messaging-phone-traveling-internationally/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-20T18:27:51.000Z</news:publication_date>
+          <news:title>How to set up free messaging on your phone while traveling internationally</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/tech/2023/08/20/set-up-free-messaging-phone-traveling-internationally/set-up-free-messaging-phone-traveling-internationally.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
         <loc>https://majordigest.com/tech/2023/08/17/oakland-tech-block-square-black-culture-market-real-estate-food-store/</loc>
         <news:news>
           <news:publication>
@@ -140,5 +140,33 @@
         </news:news>
         <image:image>
           <image:loc>https://majordigest.com/tech/2023/08/17/oakland-tech-block-square-black-culture-market-real-estate-food-store/oakland-tech-block-square-black-culture-market-real-estate-food-store.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/tech/2023/08/18/beware-say-yes-phone-scam/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-18T13:05:41.000Z</news:publication_date>
+          <news:title>Beware of the 'Say Yes' phone scam</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/tech/2023/08/18/beware-say-yes-phone-scam/beware-say-yes-phone-scam.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/tech/2023/08/20/7-ways-foolproof-save-money-tough-economy/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-20T17:32:43.000Z</news:publication_date>
+          <news:title>7 foolproof ways to save money in a tough economy</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/tech/2023/08/20/7-ways-foolproof-save-money-tough-economy/7-ways-foolproof-save-money-tough-economy.webp</image:loc>
         </image:image>
       </url></urlset>
