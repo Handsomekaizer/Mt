@@ -3,6 +3,34 @@
               xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
               xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
       <url>
+        <loc>https://majordigest.com/tech/2023/08/18/beware-say-yes-phone-scam/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-18T13:05:41.000Z</news:publication_date>
+          <news:title>Beware of the 'Say Yes' phone scam</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/tech/2023/08/18/beware-say-yes-phone-scam/beware-say-yes-phone-scam.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/tech/2023/08/17/how-silence-amazon-alexa-by-the-way-suggestions/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-17T16:39:03.000Z</news:publication_date>
+          <news:title>How to silence Amazon Alexa's 'by the way' suggestions</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/tech/2023/08/17/how-silence-amazon-alexa-by-the-way-suggestions/how-silence-amazon-alexa-by-the-way-suggestions.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
         <loc>https://majordigest.com/tech/2023/08/18/google-security-check-60-seconds-kick-snoops-hackers/</loc>
         <news:news>
           <news:publication>
@@ -14,34 +42,6 @@
         </news:news>
         <image:image>
           <image:loc>https://majordigest.com/tech/2023/08/18/google-security-check-60-seconds-kick-snoops-hackers/google-security-check-60-seconds-kick-snoops-hackers.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/tech/2023/08/20/dmv-demands-cruise-cut-driverless-fleet-in-half-following-crashes/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-20T04:07:02.000Z</news:publication_date>
-          <news:title>DMV demands Cruise cut driverless fleet in half following crashes</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/tech/2023/08/20/dmv-demands-cruise-cut-driverless-fleet-in-half-following-crashes/dmv-demands-cruise-cut-driverless-fleet-in-half-following-crashes.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/tech/2023/08/17/oakland-tech-block-square-black-culture-market-real-estate-food-store/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-17T18:00:09.000Z</news:publication_date>
-          <news:title>Tech firm Block and a Black cultural group open downtown Oakland market</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/tech/2023/08/17/oakland-tech-block-square-black-culture-market-real-estate-food-store/oakland-tech-block-square-black-culture-market-real-estate-food-store.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -59,31 +59,31 @@
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/tech/2023/08/18/beware-say-yes-phone-scam/</loc>
+        <loc>https://majordigest.com/tech/2023/08/20/fusion-breakthrough-highlights-tri-valleys-emergence-as-bay-area-tech-mecca/</loc>
         <news:news>
           <news:publication>
             <news:name>Major Digest</news:name>
             <news:language>en</news:language>
           </news:publication>
-          <news:publication_date>2023-08-18T13:05:41.000Z</news:publication_date>
-          <news:title>Beware of the 'Say Yes' phone scam</news:title>
+          <news:publication_date>2023-08-20T13:15:51.000Z</news:publication_date>
+          <news:title>Fusion breakthrough highlights Tri-Valley&#8217;s emergence as Bay Area tech mecca</news:title>
         </news:news>
         <image:image>
-          <image:loc>https://majordigest.com/tech/2023/08/18/beware-say-yes-phone-scam/beware-say-yes-phone-scam.webp</image:loc>
+          <image:loc>https://majordigest.com/tech/2023/08/20/fusion-breakthrough-highlights-tri-valleys-emergence-as-bay-area-tech-mecca/fusion-breakthrough-highlights-tri-valleys-emergence-as-bay-area-tech-mecca.webp</image:loc>
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/tech/2023/08/18/real-fake-ai-product-reviews-are-making-it-impossible-know-difference/</loc>
+        <loc>https://majordigest.com/tech/2023/08/16/how-stay-incognito-conceal-your-number-calling-someone/</loc>
         <news:news>
           <news:publication>
             <news:name>Major Digest</news:name>
             <news:language>en</news:language>
           </news:publication>
-          <news:publication_date>2023-08-18T16:00:35.000Z</news:publication_date>
-          <news:title>Real or fake? AI product reviews are making it impossible to know the difference</news:title>
+          <news:publication_date>2023-08-16T15:34:48.000Z</news:publication_date>
+          <news:title>How to stay incognito and conceal your number when calling someone</news:title>
         </news:news>
         <image:image>
-          <image:loc>https://majordigest.com/tech/2023/08/18/real-fake-ai-product-reviews-are-making-it-impossible-know-difference/real-fake-ai-product-reviews-are-making-it-impossible-know-difference.webp</image:loc>
+          <image:loc>https://majordigest.com/tech/2023/08/16/how-stay-incognito-conceal-your-number-calling-someone/how-stay-incognito-conceal-your-number-calling-someone.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -101,45 +101,17 @@
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/tech/2023/08/18/tesla-didnt-fix-autopilot-after-fatal-crash-engineers-say/</loc>
+        <loc>https://majordigest.com/tech/2023/08/17/oakland-tech-block-square-black-culture-market-real-estate-food-store/</loc>
         <news:news>
           <news:publication>
             <news:name>Major Digest</news:name>
             <news:language>en</news:language>
           </news:publication>
-          <news:publication_date>2023-08-18T14:57:54.000Z</news:publication_date>
-          <news:title>Tesla didn&#8217;t fix autopilot after grisly fatal crash, engineers say</news:title>
+          <news:publication_date>2023-08-17T18:00:09.000Z</news:publication_date>
+          <news:title>Tech firm Block and a Black cultural group open downtown Oakland market</news:title>
         </news:news>
         <image:image>
-          <image:loc>https://majordigest.com/tech/2023/08/18/tesla-didnt-fix-autopilot-after-fatal-crash-engineers-say/tesla-didnt-fix-autopilot-after-fatal-crash-engineers-say.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/tech/2023/08/19/6-privacy-security-question-answers-clear-up-once-for-all/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-19T13:55:32.000Z</news:publication_date>
-          <news:title>Six privacy and security questions and answers to clear up once and for all</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/tech/2023/08/19/6-privacy-security-question-answers-clear-up-once-for-all/6-privacy-security-question-answers-clear-up-once-for-all.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/tech/2023/08/20/fusion-breakthrough-highlights-tri-valleys-emergence-as-bay-area-tech-mecca/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-20T13:15:51.000Z</news:publication_date>
-          <news:title>Fusion breakthrough highlights Tri-Valley&#8217;s emergence as Bay Area tech mecca</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/tech/2023/08/20/fusion-breakthrough-highlights-tri-valleys-emergence-as-bay-area-tech-mecca/fusion-breakthrough-highlights-tri-valleys-emergence-as-bay-area-tech-mecca.webp</image:loc>
+          <image:loc>https://majordigest.com/tech/2023/08/17/oakland-tech-block-square-black-culture-market-real-estate-food-store/oakland-tech-block-square-black-culture-market-real-estate-food-store.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -157,16 +129,16 @@
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/tech/2023/08/16/how-stay-incognito-conceal-your-number-calling-someone/</loc>
+        <loc>https://majordigest.com/tech/2023/08/18/real-fake-ai-product-reviews-are-making-it-impossible-know-difference/</loc>
         <news:news>
           <news:publication>
             <news:name>Major Digest</news:name>
             <news:language>en</news:language>
           </news:publication>
-          <news:publication_date>2023-08-16T15:34:48.000Z</news:publication_date>
-          <news:title>How to stay incognito and conceal your number when calling someone</news:title>
+          <news:publication_date>2023-08-18T16:00:35.000Z</news:publication_date>
+          <news:title>Real or fake? AI product reviews are making it impossible to know the difference</news:title>
         </news:news>
         <image:image>
-          <image:loc>https://majordigest.com/tech/2023/08/16/how-stay-incognito-conceal-your-number-calling-someone/how-stay-incognito-conceal-your-number-calling-someone.webp</image:loc>
+          <image:loc>https://majordigest.com/tech/2023/08/18/real-fake-ai-product-reviews-are-making-it-impossible-know-difference/real-fake-ai-product-reviews-are-making-it-impossible-know-difference.webp</image:loc>
         </image:image>
       </url></urlset>
