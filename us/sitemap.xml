@@ -3,45 +3,31 @@
               xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
               xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
       <url>
-        <loc>https://majordigest.com/us/2023/08/19/hurricane-hilary-evacuation-warnings-issued-california-storm-expected-bring-catastrophic-flooding/</loc>
+        <loc>https://majordigest.com/us/2023/08/20/florida-library-drop-box-severs-unsuspecting-womans-fingertip-permanently-disfigured/</loc>
         <news:news>
           <news:publication>
             <news:name>Major Digest</news:name>
             <news:language>en</news:language>
           </news:publication>
-          <news:publication_date>2023-08-19T22:17:09.000Z</news:publication_date>
-          <news:title>Hurricane Hilary evacuation warnings issued in California as storm expected to bring &#8216;catastrophic&#8217; flooding</news:title>
+          <news:publication_date>2023-08-20T00:34:39.000Z</news:publication_date>
+          <news:title>Florida library drop box severs unsuspecting woman's fingertip: 'Now I&#8217;m permanently disfigured'</news:title>
         </news:news>
         <image:image>
-          <image:loc>https://majordigest.com/us/2023/08/19/hurricane-hilary-evacuation-warnings-issued-california-storm-expected-bring-catastrophic-flooding/hurricane-hilary-evacuation-warnings-issued-california-storm-expected-bring-catastrophic-flooding.webp</image:loc>
+          <image:loc>https://majordigest.com/us/2023/08/20/florida-library-drop-box-severs-unsuspecting-womans-fingertip-permanently-disfigured/florida-library-drop-box-severs-unsuspecting-womans-fingertip-permanently-disfigured.webp</image:loc>
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/us/2023/08/19/rhode-island-tourist-spot-block-island-declares-state-emergency-hotel-fire-officials/</loc>
+        <loc>https://majordigest.com/us/2023/08/20/texas-man-confesses-killing-wife-jealousy-problems-officials/</loc>
         <news:news>
           <news:publication>
             <news:name>Major Digest</news:name>
             <news:language>en</news:language>
           </news:publication>
-          <news:publication_date>2023-08-19T22:00:46.000Z</news:publication_date>
-          <news:title>Rhode Island tourist spot Block Island declares state of emergency after hotel fire: officials</news:title>
+          <news:publication_date>2023-08-20T01:56:02.000Z</news:publication_date>
+          <news:title>Texas man confesses to killing wife over 'jealousy problems': Officials</news:title>
         </news:news>
         <image:image>
-          <image:loc>https://majordigest.com/us/2023/08/19/rhode-island-tourist-spot-block-island-declares-state-emergency-hotel-fire-officials/rhode-island-tourist-spot-block-island-declares-state-emergency-hotel-fire-officials.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/us/2023/08/20/new-york-city-shark-attack-victim-had-surgeries-days-left-permanent-disability-family/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-20T01:59:26.000Z</news:publication_date>
-          <news:title>New York City shark attack victim had 5 surgeries in 8 days, left with 'permanent disability': Family</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/us/2023/08/20/new-york-city-shark-attack-victim-had-surgeries-days-left-permanent-disability-family/new-york-city-shark-attack-victim-had-surgeries-days-left-permanent-disability-family.webp</image:loc>
+          <image:loc>https://majordigest.com/us/2023/08/20/texas-man-confesses-killing-wife-jealousy-problems-officials/texas-man-confesses-killing-wife-jealousy-problems-officials.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -59,17 +45,31 @@
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/us/2023/08/20/gray-fire-washington-state-cities-four-lakes-medical-lake-urged-evacuate-wildfire/</loc>
+        <loc>https://majordigest.com/us/2023/08/20/kentucky-suspect-accused-chopping-naked-womans-hair-holding-captive-hours-police/</loc>
         <news:news>
           <news:publication>
             <news:name>Major Digest</news:name>
             <news:language>en</news:language>
           </news:publication>
-          <news:publication_date>2023-08-20T00:51:35.000Z</news:publication_date>
-          <news:title>Gray Fire: Washington state cities Four Lakes, Medical Lake urged to evacuate amid wildfire</news:title>
+          <news:publication_date>2023-08-20T00:00:18.000Z</news:publication_date>
+          <news:title>Kentucky suspect accused of chopping naked woman's hair, holding her captive for hours: police</news:title>
         </news:news>
         <image:image>
-          <image:loc>https://majordigest.com/us/2023/08/20/gray-fire-washington-state-cities-four-lakes-medical-lake-urged-evacuate-wildfire/gray-fire-washington-state-cities-four-lakes-medical-lake-urged-evacuate-wildfire.webp</image:loc>
+          <image:loc>https://majordigest.com/us/2023/08/20/kentucky-suspect-accused-chopping-naked-womans-hair-holding-captive-hours-police/kentucky-suspect-accused-chopping-naked-womans-hair-holding-captive-hours-police.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/us/2023/08/19/rhode-island-tourist-spot-block-island-declares-state-emergency-hotel-fire-officials/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-19T22:00:46.000Z</news:publication_date>
+          <news:title>Rhode Island tourist spot Block Island declares state of emergency after hotel fire: officials</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/us/2023/08/19/rhode-island-tourist-spot-block-island-declares-state-emergency-hotel-fire-officials/rhode-island-tourist-spot-block-island-declares-state-emergency-hotel-fire-officials.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -84,5 +84,19 @@
         </news:news>
         <image:image>
           <image:loc>https://majordigest.com/us/2023/08/19/california-machete-wielding-attacker-injures-man-west-hollywood-police-looking-for-suspect/california-machete-wielding-attacker-injures-man-west-hollywood-police-looking-for-suspect.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/us/2023/08/20/gray-fire-washington-state-cities-four-lakes-medical-lake-urged-evacuate-wildfire/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-20T00:51:35.000Z</news:publication_date>
+          <news:title>Gray Fire: Washington state cities Four Lakes, Medical Lake urged to evacuate amid wildfire</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/us/2023/08/20/gray-fire-washington-state-cities-four-lakes-medical-lake-urged-evacuate-wildfire/gray-fire-washington-state-cities-four-lakes-medical-lake-urged-evacuate-wildfire.webp</image:loc>
         </image:image>
       </url></urlset>
