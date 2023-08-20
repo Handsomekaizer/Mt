@@ -3,6 +3,34 @@
               xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
               xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
       <url>
+        <loc>https://majordigest.com/sports/2023/08/20/49ers-fans-brawl-preseason-game-several-children/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-20T15:38:58.000Z</news:publication_date>
+          <news:title>49ers fans get into brawl at preseason game in front of several children</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/sports/2023/08/20/49ers-fans-brawl-preseason-game-several-children/49ers-fans-brawl-preseason-game-several-children.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/sports/2023/08/20/kurtenbach-brock-purdy-picked-up-where-he-left-off-that-makes-the-49ers-the-nfcs-team-to-beat/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-20T12:00:11.000Z</news:publication_date>
+          <news:title>Kurtenbach: Brock Purdy picked up where he left off. That makes the 49ers the NFC&#8217;s team to beat</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/sports/2023/08/20/kurtenbach-brock-purdy-picked-up-where-he-left-off-that-makes-the-49ers-the-nfcs-team-to-beat/kurtenbach-brock-purdy-picked-up-where-he-left-off-that-makes-the-49ers-the-nfcs-team-to-beat.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
         <loc>https://majordigest.com/sports/2023/08/20/49ers-jake-moody-comes-through-but-theres-still-reason-to-be-concerned/</loc>
         <news:news>
           <news:publication>
@@ -17,17 +45,45 @@
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/sports/2023/08/20/inman-10-things-to-catch-my-eye-in-49ers-preseason-tilt-with-broncos/</loc>
+        <loc>https://majordigest.com/sports/2023/08/20/diamondbacks-tommy-pham-spat-fan-on-deck-circle/</loc>
         <news:news>
           <news:publication>
             <news:name>Major Digest</news:name>
             <news:language>en</news:language>
           </news:publication>
-          <news:publication_date>2023-08-20T15:00:58.000Z</news:publication_date>
-          <news:title>Inman: 10 things to catch my eye in 49ers&#8217; preseason tilt with Broncos</news:title>
+          <news:publication_date>2023-08-20T14:24:22.000Z</news:publication_date>
+          <news:title>Diamondbacks' Tommy Pham gets into spat with fan from on-deck circle</news:title>
         </news:news>
         <image:image>
-          <image:loc>https://majordigest.com/sports/2023/08/20/inman-10-things-to-catch-my-eye-in-49ers-preseason-tilt-with-broncos/inman-10-things-to-catch-my-eye-in-49ers-preseason-tilt-with-broncos.webp</image:loc>
+          <image:loc>https://majordigest.com/sports/2023/08/20/diamondbacks-tommy-pham-spat-fan-on-deck-circle/diamondbacks-tommy-pham-spat-fan-on-deck-circle.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/sports/2023/08/20/oakland-as-fall-apart-in-10th-inning-drop-another-game-to-orioles/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-20T06:30:20.000Z</news:publication_date>
+          <news:title>Oakland A&#8217;s fall apart in 10th inning, drop another game to Orioles</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/sports/2023/08/20/oakland-as-fall-apart-in-10th-inning-drop-another-game-to-orioles/oakland-as-fall-apart-in-10th-inning-drop-another-game-to-orioles.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/sports/2023/08/20/womens-world-cup-spain-wins-first-ever-title/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-20T12:11:54.000Z</news:publication_date>
+          <news:title>Women's World Cup: Spain wins first ever title</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/sports/2023/08/20/womens-world-cup-spain-wins-first-ever-title/womens-world-cup-spain-wins-first-ever-title.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -45,17 +101,31 @@
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/sports/2023/08/20/buccaneers-baker-mayfield-files-court-petition-regarding-possible-misappropriation-12-million/</loc>
+        <loc>https://majordigest.com/sports/2023/08/20/49ers-broncos-brock-purdy-makes-one-series-cameo-yields-to-sam-darnold/</loc>
         <news:news>
           <news:publication>
             <news:name>Major Digest</news:name>
             <news:language>en</news:language>
           </news:publication>
-          <news:publication_date>2023-08-20T17:45:40.000Z</news:publication_date>
-          <news:title>Buccaneers' Baker Mayfield files court petition regarding possible misappropriation of $12 million</news:title>
+          <news:publication_date>2023-08-20T01:32:40.000Z</news:publication_date>
+          <news:title>49ers 21, Broncos 20: Brock Purdy makes cameo; Jake Moody kicks winner</news:title>
         </news:news>
         <image:image>
-          <image:loc>https://majordigest.com/sports/2023/08/20/buccaneers-baker-mayfield-files-court-petition-regarding-possible-misappropriation-12-million/buccaneers-baker-mayfield-files-court-petition-regarding-possible-misappropriation-12-million.webp</image:loc>
+          <image:loc>https://majordigest.com/sports/2023/08/20/49ers-broncos-brock-purdy-makes-one-series-cameo-yields-to-sam-darnold/49ers-broncos-brock-purdy-makes-one-series-cameo-yields-to-sam-darnold.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/sports/2023/08/20/phillies-trea-turner-accomplishes-home-run-feat-not-seen-15-years/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-20T16:14:00.000Z</news:publication_date>
+          <news:title>Phillies' Trea Turner accomplishes wild home run feat not seen in 15 years</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/sports/2023/08/20/phillies-trea-turner-accomplishes-home-run-feat-not-seen-15-years/phillies-trea-turner-accomplishes-home-run-feat-not-seen-15-years.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -70,19 +140,5 @@
         </news:news>
         <image:image>
           <image:loc>https://majordigest.com/sports/2023/08/20/georgia-names-stetson-bennetts-successor-back-to-back-national-championships/georgia-names-stetson-bennetts-successor-back-to-back-national-championships.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/sports/2023/08/20/49ers-broncos-brock-purdy-makes-one-series-cameo-yields-to-sam-darnold/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-20T01:32:40.000Z</news:publication_date>
-          <news:title>49ers 21, Broncos 20: Brock Purdy makes cameo; Jake Moody kicks winner</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/sports/2023/08/20/49ers-broncos-brock-purdy-makes-one-series-cameo-yields-to-sam-darnold/49ers-broncos-brock-purdy-makes-one-series-cameo-yields-to-sam-darnold.webp</image:loc>
         </image:image>
       </url></urlset>
