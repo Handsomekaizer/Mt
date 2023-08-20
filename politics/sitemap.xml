@@ -3,34 +3,6 @@
               xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
               xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
       <url>
-        <loc>https://majordigest.com/politics/2023/08/20/dc-continues-experiencing-soaring-crime-despite-its-council-chairman-saying-there-is-no-crime-crisis/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-20T11:00:21.000Z</news:publication_date>
-          <news:title>DC continues experiencing soaring crime rates despite council chairman saying 'there is no crime crisis'</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/politics/2023/08/20/dc-continues-experiencing-soaring-crime-despite-its-council-chairman-saying-there-is-no-crime-crisis/dc-continues-experiencing-soaring-crime-despite-its-council-chairman-saying-there-is-no-crime-crisis.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/politics/2023/08/19/migrant-encounters-southern-border-rise-again-biden-touted-immigration-policy-reforms/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-19T17:02:50.000Z</news:publication_date>
-          <news:title>Migrant encounters at southern border on the rise again after Biden touted immigration policy reforms</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/politics/2023/08/19/migrant-encounters-southern-border-rise-again-biden-touted-immigration-policy-reforms/migrant-encounters-southern-border-rise-again-biden-touted-immigration-policy-reforms.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
         <loc>https://majordigest.com/politics/2023/08/19/desantis-offers-assist-california-hurricane-hilary-any-way-we-can/</loc>
         <news:news>
           <news:publication>
@@ -42,48 +14,6 @@
         </news:news>
         <image:image>
           <image:loc>https://majordigest.com/politics/2023/08/19/desantis-offers-assist-california-hurricane-hilary-any-way-we-can/desantis-offers-assist-california-hurricane-hilary-any-way-we-can.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/politics/2023/08/20/hunter-bidens-defense-lawyers-vowed-put-president-biden-stand/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-20T11:34:38.000Z</news:publication_date>
-          <news:title>Hunter Biden&#8217;s defense lawyers vowed to put President Biden on the stand</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/politics/2023/08/20/hunter-bidens-defense-lawyers-vowed-put-president-biden-stand/hunter-bidens-defense-lawyers-vowed-put-president-biden-stand.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/politics/2023/08/20/death-toll-summer-heat/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-20T11:00:00.000Z</news:publication_date>
-          <news:title>&#8216;The heat&#8217;s different now&#8217;: Why the U.S. was unprepared for a deadly summer</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/politics/2023/08/20/death-toll-summer-heat/death-toll-summer-heat.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/politics/2023/08/19/hunter-biden-plea-deal-collapse/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-19T22:09:09.000Z</news:publication_date>
-          <news:title>In talks with prosecutors, Hunter Biden&#8217;s lawyers vowed to put the president on the stand</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/politics/2023/08/19/hunter-biden-plea-deal-collapse/hunter-biden-plea-deal-collapse.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -101,6 +31,20 @@
         </image:image>
       </url>
       <url>
+        <loc>https://majordigest.com/politics/2023/08/20/biden-quietly-auctions-trump-border-wall-parts-stunt-republican-effort-restart-construction-report/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-20T14:56:02.000Z</news:publication_date>
+          <news:title>Biden quietly auctions off border wall parts to stunt Republican effort to restart construction: report</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/politics/2023/08/20/biden-quietly-auctions-trump-border-wall-parts-stunt-republican-effort-restart-construction-report/biden-quietly-auctions-trump-border-wall-parts-stunt-republican-effort-restart-construction-report.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
         <loc>https://majordigest.com/politics/2023/08/19/texas-democratic-county-official-announces-switch-gop-cites-border-policies-unprecedented-crisis/</loc>
         <news:news>
           <news:publication>
@@ -112,5 +56,19 @@
         </news:news>
         <image:image>
           <image:loc>https://majordigest.com/politics/2023/08/19/texas-democratic-county-official-announces-switch-gop-cites-border-policies-unprecedented-crisis/texas-democratic-county-official-announces-switch-gop-cites-border-policies-unprecedented-crisis.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/politics/2023/08/19/migrant-encounters-southern-border-rise-again-biden-touted-immigration-policy-reforms/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-19T17:02:50.000Z</news:publication_date>
+          <news:title>Migrant encounters at southern border on the rise again after Biden touted immigration policy reforms</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/politics/2023/08/19/migrant-encounters-southern-border-rise-again-biden-touted-immigration-policy-reforms/migrant-encounters-southern-border-rise-again-biden-touted-immigration-policy-reforms.webp</image:loc>
         </image:image>
       </url></urlset>
