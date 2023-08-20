@@ -3,101 +3,31 @@
               xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
               xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
       <url>
-        <loc>https://majordigest.com/tech/2023/08/18/gms-cruise-robotaxi-collides-with-firetruck-injuring-passenger/</loc>
+        <loc>https://majordigest.com/tech/2023/08/17/intuit-executive-chriss-to-become-president-and-ceo-of-paypal-2/</loc>
         <news:news>
           <news:publication>
             <news:name>Major Digest</news:name>
             <news:language>en</news:language>
           </news:publication>
-          <news:publication_date>2023-08-18T17:53:54.000Z</news:publication_date>
-          <news:title>GM&#8217;s Cruise robotaxi collides with San Francisco firetruck, injuring passenger</news:title>
+          <news:publication_date>2023-08-17T17:59:26.000Z</news:publication_date>
+          <news:title>Intuit executive Alex Chriss to become president and CEO of PayPal</news:title>
         </news:news>
         <image:image>
-          <image:loc>https://majordigest.com/tech/2023/08/18/gms-cruise-robotaxi-collides-with-firetruck-injuring-passenger/gms-cruise-robotaxi-collides-with-firetruck-injuring-passenger.webp</image:loc>
+          <image:loc>https://majordigest.com/tech/2023/08/17/intuit-executive-chriss-to-become-president-and-ceo-of-paypal-2/intuit-executive-chriss-to-become-president-and-ceo-of-paypal-2.webp</image:loc>
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/tech/2023/08/17/blue-shield-california-ditches-cvs-for-amazon-and-mark-cubans-drug-company/</loc>
+        <loc>https://majordigest.com/tech/2023/08/19/protect-yourself-tech-support-scams/</loc>
         <news:news>
           <news:publication>
             <news:name>Major Digest</news:name>
             <news:language>en</news:language>
           </news:publication>
-          <news:publication_date>2023-08-17T17:55:18.000Z</news:publication_date>
-          <news:title>Blue Shield California ditches CVS for Amazon and Mark Cuban&#8217;s drug company</news:title>
+          <news:publication_date>2023-08-19T17:49:46.000Z</news:publication_date>
+          <news:title>Protect yourself from tech support scams</news:title>
         </news:news>
         <image:image>
-          <image:loc>https://majordigest.com/tech/2023/08/17/blue-shield-california-ditches-cvs-for-amazon-and-mark-cubans-drug-company/blue-shield-california-ditches-cvs-for-amazon-and-mark-cubans-drug-company.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/tech/2023/08/17/how-silence-amazon-alexa-by-the-way-suggestions/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-17T16:39:03.000Z</news:publication_date>
-          <news:title>How to silence Amazon Alexa's 'by the way' suggestions</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/tech/2023/08/17/how-silence-amazon-alexa-by-the-way-suggestions/how-silence-amazon-alexa-by-the-way-suggestions.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/tech/2023/08/16/best-back-to-school-laptops-under-1000/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-16T08:00:00.000Z</news:publication_date>
-          <news:title>Best back to school laptops under $1,000</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/tech/2023/08/16/best-back-to-school-laptops-under-1000/best-back-to-school-laptops-under-1000.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/tech/2023/08/18/tesla-didnt-fix-autopilot-after-fatal-crash-engineers-say/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-18T14:57:54.000Z</news:publication_date>
-          <news:title>Tesla didn&#8217;t fix autopilot after grisly fatal crash, engineers say</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/tech/2023/08/18/tesla-didnt-fix-autopilot-after-fatal-crash-engineers-say/tesla-didnt-fix-autopilot-after-fatal-crash-engineers-say.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/tech/2023/08/19/6-privacy-security-question-answers-clear-up-once-for-all/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-19T13:55:32.000Z</news:publication_date>
-          <news:title>Six privacy and security questions and answers to clear up once and for all</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/tech/2023/08/19/6-privacy-security-question-answers-clear-up-once-for-all/6-privacy-security-question-answers-clear-up-once-for-all.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/tech/2023/08/17/twitter-doj-spat-over-trump-data-raised-questions-on-musks-role/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-17T14:35:59.000Z</news:publication_date>
-          <news:title>Twitter-DOJ spat over Donald Trump data raised questions on Elon Musk&#8217;s role</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/tech/2023/08/17/twitter-doj-spat-over-trump-data-raised-questions-on-musks-role/twitter-doj-spat-over-trump-data-raised-questions-on-musks-role.webp</image:loc>
+          <image:loc>https://majordigest.com/tech/2023/08/19/protect-yourself-tech-support-scams/protect-yourself-tech-support-scams.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -112,6 +42,20 @@
         </news:news>
         <image:image>
           <image:loc>https://majordigest.com/tech/2023/08/18/chatgpt-wary-universities-scramble-to-prepare-for-new-school-year/chatgpt-wary-universities-scramble-to-prepare-for-new-school-year.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/tech/2023/08/18/beware-say-yes-phone-scam/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-18T13:05:41.000Z</news:publication_date>
+          <news:title>Beware of the 'Say Yes' phone scam</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/tech/2023/08/18/beware-say-yes-phone-scam/beware-say-yes-phone-scam.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -143,44 +87,30 @@
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/tech/2023/08/20/dmv-demands-cruise-cut-driverless-fleet-in-half-following-crashes/</loc>
+        <loc>https://majordigest.com/tech/2023/08/16/do-this-before-you-toss-donate-sell-your-printer/</loc>
         <news:news>
           <news:publication>
             <news:name>Major Digest</news:name>
             <news:language>en</news:language>
           </news:publication>
-          <news:publication_date>2023-08-20T04:07:02.000Z</news:publication_date>
-          <news:title>DMV demands Cruise cut driverless fleet in half following crashes</news:title>
+          <news:publication_date>2023-08-16T17:50:31.000Z</news:publication_date>
+          <news:title>Do this before you toss, donate or sell your printer</news:title>
         </news:news>
         <image:image>
-          <image:loc>https://majordigest.com/tech/2023/08/20/dmv-demands-cruise-cut-driverless-fleet-in-half-following-crashes/dmv-demands-cruise-cut-driverless-fleet-in-half-following-crashes.webp</image:loc>
+          <image:loc>https://majordigest.com/tech/2023/08/16/do-this-before-you-toss-donate-sell-your-printer/do-this-before-you-toss-donate-sell-your-printer.webp</image:loc>
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/tech/2023/08/18/real-fake-ai-product-reviews-are-making-it-impossible-know-difference/</loc>
+        <loc>https://majordigest.com/tech/2023/08/16/best-back-to-school-laptops-under-1000/</loc>
         <news:news>
           <news:publication>
             <news:name>Major Digest</news:name>
             <news:language>en</news:language>
           </news:publication>
-          <news:publication_date>2023-08-18T16:00:35.000Z</news:publication_date>
-          <news:title>Real or fake? AI product reviews are making it impossible to know the difference</news:title>
+          <news:publication_date>2023-08-16T08:00:00.000Z</news:publication_date>
+          <news:title>Best back to school laptops under $1,000</news:title>
         </news:news>
         <image:image>
-          <image:loc>https://majordigest.com/tech/2023/08/18/real-fake-ai-product-reviews-are-making-it-impossible-know-difference/real-fake-ai-product-reviews-are-making-it-impossible-know-difference.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/tech/2023/08/17/intuit-executive-chriss-to-become-president-and-ceo-of-paypal-2/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-17T17:59:26.000Z</news:publication_date>
-          <news:title>Intuit executive Alex Chriss to become president and CEO of PayPal</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/tech/2023/08/17/intuit-executive-chriss-to-become-president-and-ceo-of-paypal-2/intuit-executive-chriss-to-become-president-and-ceo-of-paypal-2.webp</image:loc>
+          <image:loc>https://majordigest.com/tech/2023/08/16/best-back-to-school-laptops-under-1000/best-back-to-school-laptops-under-1000.webp</image:loc>
         </image:image>
       </url></urlset>
