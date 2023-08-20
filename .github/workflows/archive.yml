@@ -39,7 +39,7 @@ jobs:
         git config --global user.name 'Valentin Podkamennyi'
         git config --global user.email 'vpodk@users.noreply.github.com'
         git add -A
-        git commit -m "Added archive for ${ARCHIVE_DATE}" && git push
+        git diff --exit-code || git commit -m "Added archive for ${ARCHIVE_DATE}" && git push
 
     - name: Push Web Archive 🕸️
       run: |
@@ -57,4 +57,4 @@ jobs:
         rm -rf "assets/images/us/${LAST_MONTH}"
         rm -rf "assets/images/world/${LAST_MONTH}"
         git add -A
-        git commit -m "Clean up for ${LAST_MONTH}" && git push
+        git diff --exit-code || git commit -m "Clean up for ${LAST_MONTH}" && git push
