@@ -3,6 +3,34 @@
               xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
               xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
       <url>
+        <loc>https://majordigest.com/us/2023/08/20/la-mayor-says-city-reaching-out-citys-homeless-population-riverbed-areas-ahead-hilary/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-20T17:03:05.000Z</news:publication_date>
+          <news:title>LA mayor says city reaching out to city's homeless population in riverbed areas ahead of Hilary</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/us/2023/08/20/la-mayor-says-city-reaching-out-citys-homeless-population-riverbed-areas-ahead-hilary/la-mayor-says-city-reaching-out-citys-homeless-population-riverbed-areas-ahead-hilary.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/us/2023/08/20/maryland-man-sentenced-life-sexually-abusing-minor-stepdaughter/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-20T08:31:25.000Z</news:publication_date>
+          <news:title>Maryland man sentenced to life for sexually abusing his minor stepdaughter</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/us/2023/08/20/maryland-man-sentenced-life-sexually-abusing-minor-stepdaughter/maryland-man-sentenced-life-sexually-abusing-minor-stepdaughter.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
         <loc>https://majordigest.com/us/2023/08/20/california-store-owner-shot-dead-alleged-dispute-gay-pride-flag-police/</loc>
         <news:news>
           <news:publication>
@@ -14,34 +42,6 @@
         </news:news>
         <image:image>
           <image:loc>https://majordigest.com/us/2023/08/20/california-store-owner-shot-dead-alleged-dispute-gay-pride-flag-police/california-store-owner-shot-dead-alleged-dispute-gay-pride-flag-police.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/us/2023/08/20/tropical-storm-hilary-makes-landfall-mexico-threatens-flooding-california-state-emergency/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-20T13:04:24.000Z</news:publication_date>
-          <news:title>Tropical Storm Hilary makes landfall in Mexico, threatens flooding in California amid state of emergency</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/us/2023/08/20/tropical-storm-hilary-makes-landfall-mexico-threatens-flooding-california-state-emergency/tropical-storm-hilary-makes-landfall-mexico-threatens-flooding-california-state-emergency.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/us/2023/08/20/atlanta-man-arrested-impersonating-police-officer-working-security/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-20T09:58:29.000Z</news:publication_date>
-          <news:title>Atlanta man arrested for impersonating police officer working security</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/us/2023/08/20/atlanta-man-arrested-impersonating-police-officer-working-security/atlanta-man-arrested-impersonating-police-officer-working-security.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -59,6 +59,20 @@
         </image:image>
       </url>
       <url>
+        <loc>https://majordigest.com/us/2023/08/20/victim-of-barnes-noble-sniffer-blasts-repeated-catch-and-release-he-is-unfit-for-society/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-20T12:00:17.000Z</news:publication_date>
+          <news:title>Victim of Barnes &#38; Noble 'sniffer' blasts repeated catch and release: 'He is unfit for society'</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/us/2023/08/20/victim-of-barnes-noble-sniffer-blasts-repeated-catch-and-release-he-is-unfit-for-society/victim-of-barnes-noble-sniffer-blasts-repeated-catch-and-release-he-is-unfit-for-society.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
         <loc>https://majordigest.com/us/2023/08/20/nyc-fire-department-responds-five-alarm-inferno-in-brooklyn-reports/</loc>
         <news:news>
           <news:publication>
@@ -70,5 +84,19 @@
         </news:news>
         <image:image>
           <image:loc>https://majordigest.com/us/2023/08/20/nyc-fire-department-responds-five-alarm-inferno-in-brooklyn-reports/nyc-fire-department-responds-five-alarm-inferno-in-brooklyn-reports.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/us/2023/08/20/armed-good-samaritan-shoots-suspectallegedly-knocked-out-elderly-man-restaurant-bathroom/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-20T14:47:15.000Z</news:publication_date>
+          <news:title>Armed good Samaritan shoots suspect who allegedly knocked out elderly man in restaurant bathroom</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/us/2023/08/20/armed-good-samaritan-shoots-suspectallegedly-knocked-out-elderly-man-restaurant-bathroom/armed-good-samaritan-shoots-suspectallegedly-knocked-out-elderly-man-restaurant-bathroom.webp</image:loc>
         </image:image>
       </url></urlset>
