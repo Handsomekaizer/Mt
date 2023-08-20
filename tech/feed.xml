@@ -7,7 +7,7 @@
         <title>Major Digest - Reliable and Comprehensive News Sources: tech</title>
         <description>Get the latest news online at Major Digest, the top online news resource for the most reliable news sources. Stay informed about the world around you!</description>
         <link>https://majordigest.com/?utm_medium=RSS</link>
-        <lastBuildDate>Sun, 20 Aug 2023 05:23:55 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 20 Aug 2023 06:27:51 GMT</lastBuildDate>
         <generator>https://majordigest.com/?v=1.1.4</generator>
         <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/" />
         <atom:link rel="self" href="https://majordigest.com/tech/feed.xml" type="application/rss+xml" />
@@ -19,26 +19,26 @@
           <link>https://majordigest.com/?utm_medium=RSS</link>
         </image>
       <item>
-        <title>Twitter-DOJ spat over Donald Trump data raised questions on Elon Musk&#8217;s role</title>
-        <description><![CDATA[The room was locked when prosecutors from Jack Smith’s office and lawyers from Twitter appeared before a federal judge. The secrecy was needed to prevent word from reaching the subject of the court fight: Donald Trump.]]></description>
-        <guid>https://majordigest.com/tech/2023/08/17/twitter-doj-spat-over-trump-data-raised-questions-on-musks-role/</guid>
-        <link>https://majordigest.com/tech/2023/08/17/twitter-doj-spat-over-trump-data-raised-questions-on-musks-role/</link>
-        <pubDate>Thu, 17 Aug 2023 14:35:59 +0000</pubDate>
+        <title>Six privacy and security questions and answers to clear up once and for all</title>
+        <description><![CDATA[Kurt &quot;The CyberGuy&quot; Knutsson debunks six myths regarding your privacy and security while using technology and gives six tips on how to protect your information.]]></description>
+        <guid>https://majordigest.com/tech/2023/08/19/6-privacy-security-question-answers-clear-up-once-for-all/</guid>
+        <link>https://majordigest.com/tech/2023/08/19/6-privacy-security-question-answers-clear-up-once-for-all/</link>
+        <pubDate>Sat, 19 Aug 2023 09:55:32 EDT</pubDate>
         <category>tech</category>
-        <media:content medium="image" url="https://majordigest.com/tech/2023/08/17/twitter-doj-spat-over-trump-data-raised-questions-on-musks-role/twitter-doj-spat-over-trump-data-raised-questions-on-musks-role.webp"/>
-        <media:thumbnail url="https://majordigest.com/tech/2023/08/17/twitter-doj-spat-over-trump-data-raised-questions-on-musks-role/twitter-doj-spat-over-trump-data-raised-questions-on-musks-role.webp"/>
-        <dc:creator>Bloomberg, The Mercury News</dc:creator>
+        <media:content medium="image" url="https://majordigest.com/tech/2023/08/19/6-privacy-security-question-answers-clear-up-once-for-all/6-privacy-security-question-answers-clear-up-once-for-all.webp"/>
+        <media:thumbnail url="https://majordigest.com/tech/2023/08/19/6-privacy-security-question-answers-clear-up-once-for-all/6-privacy-security-question-answers-clear-up-once-for-all.webp"/>
+        <dc:creator>Fox News</dc:creator>
       </item>
       <item>
-        <title>Real or fake? AI product reviews are making it impossible to know the difference</title>
-        <description><![CDATA[Artificial intelligence is making it harder to identify fake reviews on travel or retail sites. Kurt &quot;The CyberGuy&quot; Knutsson explains.]]></description>
-        <guid>https://majordigest.com/tech/2023/08/18/real-fake-ai-product-reviews-are-making-it-impossible-know-difference/</guid>
-        <link>https://majordigest.com/tech/2023/08/18/real-fake-ai-product-reviews-are-making-it-impossible-know-difference/</link>
-        <pubDate>Fri, 18 Aug 2023 12:00:35 EDT</pubDate>
+        <title>Intuit executive Alex Chriss to become president and CEO of PayPal</title>
+        <description><![CDATA[Chriss will take over the CEO post from Dan Schulman, who told PayPal’s board in February that he planned to retire at the end of the year.]]></description>
+        <guid>https://majordigest.com/tech/2023/08/17/intuit-executive-chriss-to-become-president-and-ceo-of-paypal-2/</guid>
+        <link>https://majordigest.com/tech/2023/08/17/intuit-executive-chriss-to-become-president-and-ceo-of-paypal-2/</link>
+        <pubDate>Thu, 17 Aug 2023 17:59:26 +0000</pubDate>
         <category>tech</category>
-        <media:content medium="image" url="https://majordigest.com/tech/2023/08/18/real-fake-ai-product-reviews-are-making-it-impossible-know-difference/real-fake-ai-product-reviews-are-making-it-impossible-know-difference.webp"/>
-        <media:thumbnail url="https://majordigest.com/tech/2023/08/18/real-fake-ai-product-reviews-are-making-it-impossible-know-difference/real-fake-ai-product-reviews-are-making-it-impossible-know-difference.webp"/>
-        <dc:creator>Fox News</dc:creator>
+        <media:content medium="image" url="https://majordigest.com/tech/2023/08/17/intuit-executive-chriss-to-become-president-and-ceo-of-paypal-2/intuit-executive-chriss-to-become-president-and-ceo-of-paypal-2.webp"/>
+        <media:thumbnail url="https://majordigest.com/tech/2023/08/17/intuit-executive-chriss-to-become-president-and-ceo-of-paypal-2/intuit-executive-chriss-to-become-president-and-ceo-of-paypal-2.webp"/>
+        <dc:creator>Associated Press, The Mercury News</dc:creator>
       </item>
       <item>
         <title>GM&#8217;s Cruise robotaxi collides with San Francisco firetruck, injuring passenger</title>
@@ -52,37 +52,15 @@
         <dc:creator>Bloomberg, The Mercury News</dc:creator>
       </item>
       <item>
-        <title>Google security check: 60 seconds to kick out snoops and hackers</title>
-        <description><![CDATA[Most of us rely on Google&apos;s suite of products and software in our daily lives, including sensitive personal or financial data. Here&apos;s how to do a Google checkup.]]></description>
-        <guid>https://majordigest.com/tech/2023/08/18/google-security-check-60-seconds-kick-snoops-hackers/</guid>
-        <link>https://majordigest.com/tech/2023/08/18/google-security-check-60-seconds-kick-snoops-hackers/</link>
-        <pubDate>Fri, 18 Aug 2023 17:02:05 EDT</pubDate>
+        <title>How to silence Amazon Alexa's 'by the way' suggestions</title>
+        <description><![CDATA[Tired of hearing your Alexa device&apos;s suggestions? Kurt &quot;The CyberGuy&quot; Knutsson shares steps on how to silence Amazon&apos;s virtual assistant.]]></description>
+        <guid>https://majordigest.com/tech/2023/08/17/how-silence-amazon-alexa-by-the-way-suggestions/</guid>
+        <link>https://majordigest.com/tech/2023/08/17/how-silence-amazon-alexa-by-the-way-suggestions/</link>
+        <pubDate>Thu, 17 Aug 2023 12:39:03 EDT</pubDate>
         <category>tech</category>
-        <media:content medium="image" url="https://majordigest.com/tech/2023/08/18/google-security-check-60-seconds-kick-snoops-hackers/google-security-check-60-seconds-kick-snoops-hackers.webp"/>
-        <media:thumbnail url="https://majordigest.com/tech/2023/08/18/google-security-check-60-seconds-kick-snoops-hackers/google-security-check-60-seconds-kick-snoops-hackers.webp"/>
+        <media:content medium="image" url="https://majordigest.com/tech/2023/08/17/how-silence-amazon-alexa-by-the-way-suggestions/how-silence-amazon-alexa-by-the-way-suggestions.webp"/>
+        <media:thumbnail url="https://majordigest.com/tech/2023/08/17/how-silence-amazon-alexa-by-the-way-suggestions/how-silence-amazon-alexa-by-the-way-suggestions.webp"/>
         <dc:creator>Fox News</dc:creator>
-      </item>
-      <item>
-        <title>Six privacy and security questions and answers to clear up once and for all</title>
-        <description><![CDATA[Kurt &quot;The CyberGuy&quot; Knutsson debunks six myths regarding your privacy and security while using technology and gives six tips on how to protect your information.]]></description>
-        <guid>https://majordigest.com/tech/2023/08/19/6-privacy-security-question-answers-clear-up-once-for-all/</guid>
-        <link>https://majordigest.com/tech/2023/08/19/6-privacy-security-question-answers-clear-up-once-for-all/</link>
-        <pubDate>Sat, 19 Aug 2023 09:55:32 EDT</pubDate>
-        <category>tech</category>
-        <media:content medium="image" url="https://majordigest.com/tech/2023/08/19/6-privacy-security-question-answers-clear-up-once-for-all/6-privacy-security-question-answers-clear-up-once-for-all.webp"/>
-        <media:thumbnail url="https://majordigest.com/tech/2023/08/19/6-privacy-security-question-answers-clear-up-once-for-all/6-privacy-security-question-answers-clear-up-once-for-all.webp"/>
-        <dc:creator>Fox News</dc:creator>
-      </item>
-      <item>
-        <title>Blue Shield California ditches CVS for Amazon and Mark Cuban&#8217;s drug company</title>
-        <description><![CDATA[Blue Shield said that its new pharmacy care model is intended “to fix problems in today’s broken prescription drug system.]]></description>
-        <guid>https://majordigest.com/tech/2023/08/17/blue-shield-california-ditches-cvs-for-amazon-and-mark-cubans-drug-company/</guid>
-        <link>https://majordigest.com/tech/2023/08/17/blue-shield-california-ditches-cvs-for-amazon-and-mark-cubans-drug-company/</link>
-        <pubDate>Thu, 17 Aug 2023 17:55:18 +0000</pubDate>
-        <category>tech</category>
-        <media:content medium="image" url="https://majordigest.com/tech/2023/08/17/blue-shield-california-ditches-cvs-for-amazon-and-mark-cubans-drug-company/blue-shield-california-ditches-cvs-for-amazon-and-mark-cubans-drug-company.webp"/>
-        <media:thumbnail url="https://majordigest.com/tech/2023/08/17/blue-shield-california-ditches-cvs-for-amazon-and-mark-cubans-drug-company/blue-shield-california-ditches-cvs-for-amazon-and-mark-cubans-drug-company.webp"/>
-        <dc:creator>Cnn.Com Wire Service, The Mercury News</dc:creator>
       </item>
       <item>
         <title>DMV demands Cruise cut driverless fleet in half following crashes</title>
@@ -96,24 +74,57 @@
         <dc:creator>Will McCarthy, The Mercury News</dc:creator>
       </item>
       <item>
-        <title>Best back to school laptops under $1,000</title>
-        <description><![CDATA[It's back to school season, which means you might be looking for a new laptop. While tablets are great, laptops offer more power and productivity for getting work done.]]></description>
-        <guid>https://majordigest.com/tech/2023/08/16/best-back-to-school-laptops-under-1000/</guid>
-        <link>https://majordigest.com/tech/2023/08/16/best-back-to-school-laptops-under-1000/</link>
-        <pubDate>Wed, 16 Aug 2023 08:00:00 +0000</pubDate>
+        <title>ChatGPT-wary universities scramble to prepare for new school year</title>
+        <description><![CDATA[If a professor doesn’t say anything about using AI in class, is it allowed — or could students face disciplinary actions?]]></description>
+        <guid>https://majordigest.com/tech/2023/08/18/chatgpt-wary-universities-scramble-to-prepare-for-new-school-year/</guid>
+        <link>https://majordigest.com/tech/2023/08/18/chatgpt-wary-universities-scramble-to-prepare-for-new-school-year/</link>
+        <pubDate>Fri, 18 Aug 2023 17:35:20 +0000</pubDate>
         <category>tech</category>
-        <media:content medium="image" url="https://majordigest.com/tech/2023/08/16/best-back-to-school-laptops-under-1000/best-back-to-school-laptops-under-1000.webp"/>
-        <media:thumbnail url="https://majordigest.com/tech/2023/08/16/best-back-to-school-laptops-under-1000/best-back-to-school-laptops-under-1000.webp"/>
-        <dc:creator>Rich DeMuro, KTLA 5</dc:creator>
+        <media:content medium="image" url="https://majordigest.com/tech/2023/08/18/chatgpt-wary-universities-scramble-to-prepare-for-new-school-year/chatgpt-wary-universities-scramble-to-prepare-for-new-school-year.webp"/>
+        <media:thumbnail url="https://majordigest.com/tech/2023/08/18/chatgpt-wary-universities-scramble-to-prepare-for-new-school-year/chatgpt-wary-universities-scramble-to-prepare-for-new-school-year.webp"/>
+        <dc:creator>Tribune News Service, The Mercury News</dc:creator>
       </item>
       <item>
-        <title>How to stay connected on your phone while traveling abroad</title>
-        <description><![CDATA[Traveling abroad can bring many charges and fees from your phone carrier, Kurt &quot;The CyberGuy&quot; Knutsson shows you some international plans and SIM card options.]]></description>
-        <guid>https://majordigest.com/tech/2023/08/17/how-stay-connected-your-phone-traveling-abroad/</guid>
-        <link>https://majordigest.com/tech/2023/08/17/how-stay-connected-your-phone-traveling-abroad/</link>
-        <pubDate>Thu, 17 Aug 2023 14:54:14 EDT</pubDate>
+        <title>Real or fake? AI product reviews are making it impossible to know the difference</title>
+        <description><![CDATA[Artificial intelligence is making it harder to identify fake reviews on travel or retail sites. Kurt &quot;The CyberGuy&quot; Knutsson explains.]]></description>
+        <guid>https://majordigest.com/tech/2023/08/18/real-fake-ai-product-reviews-are-making-it-impossible-know-difference/</guid>
+        <link>https://majordigest.com/tech/2023/08/18/real-fake-ai-product-reviews-are-making-it-impossible-know-difference/</link>
+        <pubDate>Fri, 18 Aug 2023 12:00:35 EDT</pubDate>
         <category>tech</category>
-        <media:content medium="image" url="https://majordigest.com/tech/2023/08/17/how-stay-connected-your-phone-traveling-abroad/how-stay-connected-your-phone-traveling-abroad.webp"/>
-        <media:thumbnail url="https://majordigest.com/tech/2023/08/17/how-stay-connected-your-phone-traveling-abroad/how-stay-connected-your-phone-traveling-abroad.webp"/>
+        <media:content medium="image" url="https://majordigest.com/tech/2023/08/18/real-fake-ai-product-reviews-are-making-it-impossible-know-difference/real-fake-ai-product-reviews-are-making-it-impossible-know-difference.webp"/>
+        <media:thumbnail url="https://majordigest.com/tech/2023/08/18/real-fake-ai-product-reviews-are-making-it-impossible-know-difference/real-fake-ai-product-reviews-are-making-it-impossible-know-difference.webp"/>
         <dc:creator>Fox News</dc:creator>
+      </item>
+      <item>
+        <title>Google security check: 60 seconds to kick out snoops and hackers</title>
+        <description><![CDATA[Most of us rely on Google&apos;s suite of products and software in our daily lives, including sensitive personal or financial data. Here&apos;s how to do a Google checkup.]]></description>
+        <guid>https://majordigest.com/tech/2023/08/18/google-security-check-60-seconds-kick-snoops-hackers/</guid>
+        <link>https://majordigest.com/tech/2023/08/18/google-security-check-60-seconds-kick-snoops-hackers/</link>
+        <pubDate>Fri, 18 Aug 2023 17:02:05 EDT</pubDate>
+        <category>tech</category>
+        <media:content medium="image" url="https://majordigest.com/tech/2023/08/18/google-security-check-60-seconds-kick-snoops-hackers/google-security-check-60-seconds-kick-snoops-hackers.webp"/>
+        <media:thumbnail url="https://majordigest.com/tech/2023/08/18/google-security-check-60-seconds-kick-snoops-hackers/google-security-check-60-seconds-kick-snoops-hackers.webp"/>
+        <dc:creator>Fox News</dc:creator>
+      </item>
+      <item>
+        <title>How to stay incognito and conceal your number when calling someone</title>
+        <description><![CDATA[Kurt &quot;The CyberGuy&quot; Knutsson reveals four ways on how you can keep your phone number hidden to ensure your privacy and avoid unwanted calls.]]></description>
+        <guid>https://majordigest.com/tech/2023/08/16/how-stay-incognito-conceal-your-number-calling-someone/</guid>
+        <link>https://majordigest.com/tech/2023/08/16/how-stay-incognito-conceal-your-number-calling-someone/</link>
+        <pubDate>Wed, 16 Aug 2023 11:34:48 EDT</pubDate>
+        <category>tech</category>
+        <media:content medium="image" url="https://majordigest.com/tech/2023/08/16/how-stay-incognito-conceal-your-number-calling-someone/how-stay-incognito-conceal-your-number-calling-someone.webp"/>
+        <media:thumbnail url="https://majordigest.com/tech/2023/08/16/how-stay-incognito-conceal-your-number-calling-someone/how-stay-incognito-conceal-your-number-calling-someone.webp"/>
+        <dc:creator>Fox News</dc:creator>
+      </item>
+      <item>
+        <title>Tech firm Block and a Black cultural group open downtown Oakland market</title>
+        <description><![CDATA[Tech company Block has teamed up with Black Cultural Zone to open a downtown Oakland retail and dining hub.]]></description>
+        <guid>https://majordigest.com/tech/2023/08/17/oakland-tech-block-square-black-culture-market-real-estate-food-store/</guid>
+        <link>https://majordigest.com/tech/2023/08/17/oakland-tech-block-square-black-culture-market-real-estate-food-store/</link>
+        <pubDate>Thu, 17 Aug 2023 18:00:09 +0000</pubDate>
+        <category>tech</category>
+        <media:content medium="image" url="https://majordigest.com/tech/2023/08/17/oakland-tech-block-square-black-culture-market-real-estate-food-store/oakland-tech-block-square-black-culture-market-real-estate-food-store.webp"/>
+        <media:thumbnail url="https://majordigest.com/tech/2023/08/17/oakland-tech-block-square-black-culture-market-real-estate-food-store/oakland-tech-block-square-black-culture-market-real-estate-food-store.webp"/>
+        <dc:creator>George Avalos, The Mercury News</dc:creator>
       </item></channel></rss>
