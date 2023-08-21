@@ -3,20 +3,6 @@
               xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
               xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
       <url>
-        <loc>https://majordigest.com/politics/2023/08/20/first-gop-presidential-debates-enormously-important-candidates-seek-breakout-moments/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-20T10:00:21.000Z</news:publication_date>
-          <news:title>First GOP presidential debate is 'enormously important' as candidates seek &#8216;breakout moments&#8217;</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/politics/2023/08/20/first-gop-presidential-debates-enormously-important-candidates-seek-breakout-moments/first-gop-presidential-debates-enormously-important-candidates-seek-breakout-moments.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
         <loc>https://majordigest.com/politics/2023/08/20/dc-continues-experiencing-soaring-crime-despite-its-council-chairman-saying-there-is-no-crime-crisis/</loc>
         <news:news>
           <news:publication>
@@ -31,45 +17,59 @@
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/politics/2023/08/20/hunter-bidens-defense-lawyers-vowed-put-president-biden-stand/</loc>
+        <loc>https://majordigest.com/politics/2023/08/20/hawaii-missing-lost-maui-wildfires/</loc>
         <news:news>
           <news:publication>
             <news:name>Major Digest</news:name>
             <news:language>en</news:language>
           </news:publication>
-          <news:publication_date>2023-08-20T11:34:38.000Z</news:publication_date>
-          <news:title>Hunter Biden&#8217;s defense lawyers vowed to put President Biden on the stand</news:title>
+          <news:publication_date>2023-08-20T17:31:17.000Z</news:publication_date>
+          <news:title>Some may be &#8216;lost forever&#8217; as authorities search for missing after Maui wildfires</news:title>
         </news:news>
         <image:image>
-          <image:loc>https://majordigest.com/politics/2023/08/20/hunter-bidens-defense-lawyers-vowed-put-president-biden-stand/hunter-bidens-defense-lawyers-vowed-put-president-biden-stand.webp</image:loc>
+          <image:loc>https://majordigest.com/politics/2023/08/20/hawaii-missing-lost-maui-wildfires/hawaii-missing-lost-maui-wildfires.webp</image:loc>
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/politics/2023/08/20/death-toll-summer-heat/</loc>
+        <loc>https://majordigest.com/politics/2023/08/21/nyc-guardian-angels-leader-curtis-sliwa-arrested-second-time-recent-days-migrant-housing-protest/</loc>
         <news:news>
           <news:publication>
             <news:name>Major Digest</news:name>
             <news:language>en</news:language>
           </news:publication>
-          <news:publication_date>2023-08-20T11:00:00.000Z</news:publication_date>
-          <news:title>&#8216;The heat&#8217;s different now&#8217;: Why the U.S. was unprepared for a deadly summer</news:title>
+          <news:publication_date>2023-08-21T02:26:29.000Z</news:publication_date>
+          <news:title>NYC Guardian Angels leader Curtis Sliwa arrested for second time in recent days during migrant housing protest</news:title>
         </news:news>
         <image:image>
-          <image:loc>https://majordigest.com/politics/2023/08/20/death-toll-summer-heat/death-toll-summer-heat.webp</image:loc>
+          <image:loc>https://majordigest.com/politics/2023/08/21/nyc-guardian-angels-leader-curtis-sliwa-arrested-second-time-recent-days-migrant-housing-protest/nyc-guardian-angels-leader-curtis-sliwa-arrested-second-time-recent-days-migrant-housing-protest.webp</image:loc>
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/politics/2023/08/20/biden-quietly-auctions-trump-border-wall-parts-stunt-republican-effort-restart-construction-report/</loc>
+        <loc>https://majordigest.com/politics/2023/08/20/biden-fema-chief-warns-disaster-relief-funding-shortage-maui-devastation-california-braces-storm/</loc>
         <news:news>
           <news:publication>
             <news:name>Major Digest</news:name>
             <news:language>en</news:language>
           </news:publication>
-          <news:publication_date>2023-08-20T14:56:02.000Z</news:publication_date>
-          <news:title>Biden quietly auctions off border wall parts to stunt Republican effort to restart construction: report</news:title>
+          <news:publication_date>2023-08-20T16:49:09.000Z</news:publication_date>
+          <news:title>Biden FEMA chief warns of disaster relief funding shortage after Maui fires, as California braces for storm</news:title>
         </news:news>
         <image:image>
-          <image:loc>https://majordigest.com/politics/2023/08/20/biden-quietly-auctions-trump-border-wall-parts-stunt-republican-effort-restart-construction-report/biden-quietly-auctions-trump-border-wall-parts-stunt-republican-effort-restart-construction-report.webp</image:loc>
+          <image:loc>https://majordigest.com/politics/2023/08/20/biden-fema-chief-warns-disaster-relief-funding-shortage-maui-devastation-california-braces-storm/biden-fema-chief-warns-disaster-relief-funding-shortage-maui-devastation-california-braces-storm.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/politics/2023/08/20/racing-against-clock-gop-presidential-longshots-work-furiously-qualify-first-republican-debate/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-20T18:21:17.000Z</news:publication_date>
+          <news:title>Racing against the clock: GOP presidential long shots work furiously to qualify for first Republican debate</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/politics/2023/08/20/racing-against-clock-gop-presidential-longshots-work-furiously-qualify-first-republican-debate/racing-against-clock-gop-presidential-longshots-work-furiously-qualify-first-republican-debate.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -84,20 +84,6 @@
         </news:news>
         <image:image>
           <image:loc>https://majordigest.com/politics/2023/08/19/2024-debates-matter/2024-debates-matter.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/politics/2023/08/19/hunter-biden-plea-deal-collapse/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-19T22:09:09.000Z</news:publication_date>
-          <news:title>In talks with prosecutors, Hunter Biden&#8217;s lawyers vowed to put the president on the stand</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/politics/2023/08/19/hunter-biden-plea-deal-collapse/hunter-biden-plea-deal-collapse.webp</image:loc>
         </image:image>
       </url>
       <url>
