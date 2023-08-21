@@ -3,6 +3,104 @@
               xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
               xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
       <url>
+        <loc>https://majordigest.com/politics/2023/08/21/atlanta-center-stage-donald-trump-trial/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-21T08:30:00.000Z</news:publication_date>
+          <news:title>&#8216;Dr. King Is Smiling&#8217;: Atlanta Takes Center Stage in the Political Trial of the Century</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/politics/2023/08/21/atlanta-center-stage-donald-trump-trial/atlanta-center-stage-donald-trump-trial.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/politics/2023/08/21/julian-assange-supporters-demand-charges-dropped-vigil-merrick-garlands-home/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-21T07:45:46.000Z</news:publication_date>
+          <news:title>Julian Assange supporters demand charges be dropped in vigil outside Merrick Garland&#8217;s home</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/politics/2023/08/21/julian-assange-supporters-demand-charges-dropped-vigil-merrick-garlands-home/julian-assange-supporters-demand-charges-dropped-vigil-merrick-garlands-home.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/politics/2023/08/21/hochul-adams-migrant-crisis-new-york/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-21T10:50:07.000Z</news:publication_date>
+          <news:title>Hochul, Adams face delicate alliance as migrant crisis swells</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/politics/2023/08/21/hochul-adams-migrant-crisis-new-york/hochul-adams-migrant-crisis-new-york.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/politics/2023/08/20/death-toll-summer-heat/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-20T11:00:00.000Z</news:publication_date>
+          <news:title>&#8216;The heat&#8217;s different now&#8217;: Why the U.S. was unprepared for a deadly summer</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/politics/2023/08/20/death-toll-summer-heat/death-toll-summer-heat.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/politics/2023/08/21/trump-leading-desantis-scott-42-support-likely-iowa-caucusgoers-poll/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-21T14:27:22.000Z</news:publication_date>
+          <news:title>Trump leading DeSantis, Scott with 42% support among likely Iowa caucusgoers: poll</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/politics/2023/08/21/trump-leading-desantis-scott-42-support-likely-iowa-caucusgoers-poll/trump-leading-desantis-scott-42-support-likely-iowa-caucusgoers-poll.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/politics/2023/08/20/biden-climate-emergency-hawaii/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-20T11:00:00.000Z</news:publication_date>
+          <news:title>Biden faces calls to declare climate emergency as he heads to Maui</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/politics/2023/08/20/biden-climate-emergency-hawaii/biden-climate-emergency-hawaii.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/politics/2023/08/21/wisconsins-role-swing-state-expected-highlighted-upcoming-gop-debate-milwaukee/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-21T12:57:53.000Z</news:publication_date>
+          <news:title>Wisconsin's role as swing state expected to be highlighted in upcoming GOP debate in Milwaukee</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/politics/2023/08/21/wisconsins-role-swing-state-expected-highlighted-upcoming-gop-debate-milwaukee/wisconsins-role-swing-state-expected-highlighted-upcoming-gop-debate-milwaukee.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
         <loc>https://majordigest.com/politics/2023/08/21/president-biden-jill-visit-hawaii-first-time-since-wildfires-devastated-maui/</loc>
         <news:news>
           <news:publication>
@@ -14,6 +112,20 @@
         </news:news>
         <image:image>
           <image:loc>https://majordigest.com/politics/2023/08/21/president-biden-jill-visit-hawaii-first-time-since-wildfires-devastated-maui/president-biden-jill-visit-hawaii-first-time-since-wildfires-devastated-maui.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/politics/2023/08/21/freedom-caucus-congress-spending-fight-government-shutdown/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-21T14:00:41.000Z</news:publication_date>
+          <news:title>Freedom Caucus pours gasoline on Congress' heated spending fight as government shutdown fears grow</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/politics/2023/08/21/freedom-caucus-congress-spending-fight-government-shutdown/freedom-caucus-congress-spending-fight-government-shutdown.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -31,20 +143,6 @@
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/politics/2023/08/20/critics-rip-desantis-trump-comment-say-makes-him-sound-crooked-hillary/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-20T20:21:17.000Z</news:publication_date>
-          <news:title>Critics rip DeSantis for Trump comment they say makes him sound like 'Crooked Hillary'</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/politics/2023/08/20/critics-rip-desantis-trump-comment-say-makes-him-sound-crooked-hillary/critics-rip-desantis-trump-comment-say-makes-him-sound-crooked-hillary.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
         <loc>https://majordigest.com/politics/2023/08/21/universal-service-fund-broadband/</loc>
         <news:news>
           <news:publication>
@@ -56,61 +154,5 @@
         </news:news>
         <image:image>
           <image:loc>https://majordigest.com/politics/2023/08/21/universal-service-fund-broadband/universal-service-fund-broadband.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/politics/2023/08/19/hunter-biden-plea-deal-collapse/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-19T22:09:09.000Z</news:publication_date>
-          <news:title>In talks with prosecutors, Hunter Biden&#8217;s lawyers vowed to put the president on the stand</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/politics/2023/08/19/hunter-biden-plea-deal-collapse/hunter-biden-plea-deal-collapse.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/politics/2023/08/21/atlanta-center-stage-donald-trump-trial/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-21T08:30:00.000Z</news:publication_date>
-          <news:title>&#8216;Dr. King Is Smiling&#8217;: Atlanta Takes Center Stage in the Political Trial of the Century</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/politics/2023/08/21/atlanta-center-stage-donald-trump-trial/atlanta-center-stage-donald-trump-trial.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/politics/2023/08/21/kamala-harris-second-act/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-21T08:30:00.000Z</news:publication_date>
-          <news:title>'I can't get into people's heads': Kamala Harris tries to reshape her public image ahead of 2024</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/politics/2023/08/21/kamala-harris-second-act/kamala-harris-second-act.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/politics/2023/08/21/nyc-guardian-angels-leader-curtis-sliwa-arrested-second-time-recent-days-migrant-housing-protest/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-21T02:26:29.000Z</news:publication_date>
-          <news:title>NYC Guardian Angels leader Curtis Sliwa arrested for second time in recent days during migrant housing protest</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/politics/2023/08/21/nyc-guardian-angels-leader-curtis-sliwa-arrested-second-time-recent-days-migrant-housing-protest/nyc-guardian-angels-leader-curtis-sliwa-arrested-second-time-recent-days-migrant-housing-protest.webp</image:loc>
         </image:image>
       </url></urlset>

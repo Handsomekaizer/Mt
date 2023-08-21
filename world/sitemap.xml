@@ -3,45 +3,73 @@
               xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
               xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
       <url>
-        <loc>https://majordigest.com/world/2023/08/21/guatemalan-presidential-candidate-wins-landslide-political-elite-could-prevent-him-taking-office/</loc>
+        <loc>https://majordigest.com/world/2023/08/21/spanish-police-confirm-tenerife-wildfire-was-started-deliberately/</loc>
         <news:news>
           <news:publication>
             <news:name>Major Digest</news:name>
             <news:language>en</news:language>
           </news:publication>
-          <news:publication_date>2023-08-21T13:57:00.000Z</news:publication_date>
-          <news:title>Guatemalan presidential candidate wins in landslide but political elite could prevent him from taking office</news:title>
+          <news:publication_date>2023-08-21T14:03:41.000Z</news:publication_date>
+          <news:title>Spanish police confirm Tenerife wildfire was started deliberately</news:title>
         </news:news>
         <image:image>
-          <image:loc>https://majordigest.com/world/2023/08/21/guatemalan-presidential-candidate-wins-landslide-political-elite-could-prevent-him-taking-office/guatemalan-presidential-candidate-wins-landslide-political-elite-could-prevent-him-taking-office.webp</image:loc>
+          <image:loc>https://majordigest.com/world/2023/08/21/spanish-police-confirm-tenerife-wildfire-was-started-deliberately/spanish-police-confirm-tenerife-wildfire-was-started-deliberately.webp</image:loc>
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/world/2023/08/21/ecuador-votes-against-drilling-oil-protected-area-amazon-rainforest/</loc>
+        <loc>https://majordigest.com/world/2023/08/21/4-mexicans-killed-attempting-climb-pico-de-orizaba-countrys-highest-peake/</loc>
         <news:news>
           <news:publication>
             <news:name>Major Digest</news:name>
             <news:language>en</news:language>
           </news:publication>
-          <news:publication_date>2023-08-21T13:33:44.000Z</news:publication_date>
-          <news:title>Ecuador votes against drilling oil in protected area of Amazon rainforest</news:title>
+          <news:publication_date>2023-08-21T14:37:40.000Z</news:publication_date>
+          <news:title>4 Mexicans killed while attempting to climb Pico de Orizaba, the country's highest peak</news:title>
         </news:news>
         <image:image>
-          <image:loc>https://majordigest.com/world/2023/08/21/ecuador-votes-against-drilling-oil-protected-area-amazon-rainforest/ecuador-votes-against-drilling-oil-protected-area-amazon-rainforest.webp</image:loc>
+          <image:loc>https://majordigest.com/world/2023/08/21/4-mexicans-killed-attempting-climb-pico-de-orizaba-countrys-highest-peake/4-mexicans-killed-attempting-climb-pico-de-orizaba-countrys-highest-peake.webp</image:loc>
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/world/2023/08/20/netherlands-denmark-give-long-pleaded-f-16s-ukraine/</loc>
+        <loc>https://majordigest.com/world/2023/08/21/balkan-leaders-attend-greek-meeting-un-officials-zelenskyy-rumored-attending/</loc>
         <news:news>
           <news:publication>
             <news:name>Major Digest</news:name>
             <news:language>en</news:language>
           </news:publication>
-          <news:publication_date>2023-08-20T16:00:11.000Z</news:publication_date>
-          <news:title>Netherlands and Denmark to give long pleaded-for F-16s to Ukraine</news:title>
+          <news:publication_date>2023-08-21T14:51:50.000Z</news:publication_date>
+          <news:title>Balkan leaders attend Greek meeting with top UN officials: Zelenskyy rumored to be attending</news:title>
         </news:news>
         <image:image>
-          <image:loc>https://majordigest.com/world/2023/08/20/netherlands-denmark-give-long-pleaded-f-16s-ukraine/netherlands-denmark-give-long-pleaded-f-16s-ukraine.webp</image:loc>
+          <image:loc>https://majordigest.com/world/2023/08/21/balkan-leaders-attend-greek-meeting-un-officials-zelenskyy-rumored-attending/balkan-leaders-attend-greek-meeting-un-officials-zelenskyy-rumored-attending.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/world/2023/08/21/saudi-border-guards-kill-possibly-hundreds-ethiopian-migrants-arriving-yemen-rights-group-says/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-21T14:52:50.000Z</news:publication_date>
+          <news:title>Saudi border guards kill possibly hundreds of Ethiopian migrants arriving from Yemen, rights group says</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/world/2023/08/21/saudi-border-guards-kill-possibly-hundreds-ethiopian-migrants-arriving-yemen-rights-group-says/saudi-border-guards-kill-possibly-hundreds-ethiopian-migrants-arriving-yemen-rights-group-says.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/world/2023/08/21/ukrainian-president-volodymyr-zelenskyy-thanks-danish-lawmakers-sending-warplanes-russian-war-continues/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-21T14:37:10.000Z</news:publication_date>
+          <news:title>Ukrainian President Volodymyr Zelenskyy thanks Danish lawmakers for sending warplanes as Russian war continues</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/world/2023/08/21/ukrainian-president-volodymyr-zelenskyy-thanks-danish-lawmakers-sending-warplanes-russian-war-continues/ukrainian-president-volodymyr-zelenskyy-thanks-danish-lawmakers-sending-warplanes-russian-war-continues.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -59,30 +87,16 @@
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/world/2023/08/20/russian-moon-mission-ends-disaster-lander-ceased-exist/</loc>
+        <loc>https://majordigest.com/world/2023/08/21/ecuador-votes-against-drilling-oil-protected-area-amazon-rainforest/</loc>
         <news:news>
           <news:publication>
             <news:name>Major Digest</news:name>
             <news:language>en</news:language>
           </news:publication>
-          <news:publication_date>2023-08-20T13:10:30.000Z</news:publication_date>
-          <news:title>Russian moon mission ends in disaster as lander has &#8216;ceased to exist'</news:title>
+          <news:publication_date>2023-08-21T13:33:44.000Z</news:publication_date>
+          <news:title>Ecuador votes against drilling oil in protected area of Amazon rainforest</news:title>
         </news:news>
         <image:image>
-          <image:loc>https://majordigest.com/world/2023/08/20/russian-moon-mission-ends-disaster-lander-ceased-exist/russian-moon-mission-ends-disaster-lander-ceased-exist.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/world/2023/08/21/biden-admin-accused-abandoning-3-us-residents-held-iran-part-ransom-payment-regime/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-21T08:00:33.000Z</news:publication_date>
-          <news:title>Biden admin accused of abandoning 3 US residents held in Iran as part of 'ransom' payment to regime</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/world/2023/08/21/biden-admin-accused-abandoning-3-us-residents-held-iran-part-ransom-payment-regime/biden-admin-accused-abandoning-3-us-residents-held-iran-part-ransom-payment-regime.webp</image:loc>
+          <image:loc>https://majordigest.com/world/2023/08/21/ecuador-votes-against-drilling-oil-protected-area-amazon-rainforest/ecuador-votes-against-drilling-oil-protected-area-amazon-rainforest.webp</image:loc>
         </image:image>
       </url></urlset>
