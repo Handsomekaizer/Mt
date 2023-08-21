@@ -5,6 +5,8 @@ on:
   schedule:
     # Runs at midnigth
     - cron: '0 0 * * *'
+    # Runs every 1 hour
+    - cron: '0 */1 * * *'
 
 jobs:
   archive:
@@ -17,6 +19,7 @@ jobs:
       #   ref: gh-pages
 
     - name: Archive Pages 🗄️
+      if: github.event.schedule == '0 0 * * *' || github.event_name == 'workflow_dispatch'
       run: |
         export ARCHIVE_DATE="$(TZ=America/New_York date '+%Y/%m/%d')"
         export ARCHIVE_PATH="archive/${ARCHIVE_DATE}"
@@ -42,20 +45,26 @@ jobs:
         git add -A
         git commit -m "Added archive for ${ARCHIVE_DATE}" && git push
 
-    - name: Push Web Archive 🕸️
-      run: |
-        echo -n "Status: " && curl --silent -o /dev/null -w "%{http_code}\\n" \
-          --data "url=https%3A%2F%2Fmajordigest.com%2F&capture_all=on" \
-          -X POST https://web.archive.org/save/https://majordigest.com/
-
     - name: Cleanup Images 🧹
+      if: github.event.schedule == '0 0 * * *' || github.event_name == 'workflow_dispatch'
       run: |
         export LAST_MONTH="$(date -d 'last month' '+%Y/%m')"
-        rm -rf "assets/images/news/${LAST_MONTH}"
-        rm -rf "assets/images/politics/${LAST_MONTH}"
-        rm -rf "assets/images/sports/${LAST_MONTH}"
-        rm -rf "assets/images/tech/${LAST_MONTH}"
-        rm -rf "assets/images/us/${LAST_MONTH}"
-        rm -rf "assets/images/world/${LAST_MONTH}"
+        export DIRS=( news politics sports tech us world )
+        for dir in "${DIRS[@]}"; do rm -rf "assets/images/$dir/${LAST_MONTH}"; done
         git add -A
+        git status
+        echo "diff exit-code: $(git diff --exit-code)"
         git diff --exit-code || git commit -m "Clean up for ${LAST_MONTH}" && git push
+
+    - name: Push Web Archive 🕸️
+      if: github.event.schedule == '0 */1 * * *' || github.event_name == 'workflow_dispatch'
+      run: |
+        echo -n "Status (home): " && curl --silent -o /dev/null -w "%{http_code}\\n" \
+          --data "url=https%3A%2F%2Fmajordigest.com%2F&capture_all=on" \
+          -X POST https://web.archive.org/save/https://majordigest.com/
+        export PAGES=( politics sports tech us world )
+        for page in "${PAGES[@]}"; do
+          echo -n "Status ($page): " && curl --silent -o /dev/null -w "%{http_code}\\n" \
+            --data "url=https%3A%2F%2Fmajordigest.com%2F$page%2F&capture_all=on" \
+            -X POST https://web.archive.org/save/https://majordigest.com/$page/
+        done
