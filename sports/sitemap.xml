@@ -3,17 +3,59 @@
               xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
               xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
       <url>
-        <loc>https://majordigest.com/sports/2023/08/21/maxie-baughan-nfl-champion-nine-time-pro-bowler-dead/</loc>
+        <loc>https://majordigest.com/sports/2023/08/21/monday-morning-lights-top-storylines-heading-into-this-weekends-season-openers/</loc>
         <news:news>
           <news:publication>
             <news:name>Major Digest</news:name>
             <news:language>en</news:language>
           </news:publication>
-          <news:publication_date>2023-08-21T11:15:48.000Z</news:publication_date>
-          <news:title>Maxie Baughan, NFL champion and nine-time Pro Bowler, dead at 85</news:title>
+          <news:publication_date>2023-08-21T14:00:58.000Z</news:publication_date>
+          <news:title>Monday Morning Lights: Top storylines heading into this weekend&#8217;s season openers</news:title>
         </news:news>
         <image:image>
-          <image:loc>https://majordigest.com/sports/2023/08/21/maxie-baughan-nfl-champion-nine-time-pro-bowler-dead/maxie-baughan-nfl-champion-nine-time-pro-bowler-dead.webp</image:loc>
+          <image:loc>https://majordigest.com/sports/2023/08/21/monday-morning-lights-top-storylines-heading-into-this-weekends-season-openers/monday-morning-lights-top-storylines-heading-into-this-weekends-season-openers.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/sports/2023/08/21/7-fans-brazils-corinthians-soccer-team-die-bus-crashes-flips-over/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-21T13:34:12.000Z</news:publication_date>
+          <news:title>7 fans of Brazil&#8217;s Corinthians soccer team die after bus crashes, flips over</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/sports/2023/08/21/7-fans-brazils-corinthians-soccer-team-die-bus-crashes-flips-over/7-fans-brazils-corinthians-soccer-team-die-bus-crashes-flips-over.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/sports/2023/08/21/northwesterns-hazing-history-cases-over-150-years-show-how-hard-it-can-be-for-colleges-institutions-to-extinguish-these-rituals/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-21T17:37:24.000Z</news:publication_date>
+          <news:title>Northwestern&#8217;s hazing history: Cases over 150 years show how hard it can be for colleges, institutions to extinguish these rituals</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/sports/2023/08/21/northwesterns-hazing-history-cases-over-150-years-show-how-hard-it-can-be-for-colleges-institutions-to-extinguish-these-rituals/northwesterns-hazing-history-cases-over-150-years-show-how-hard-it-can-be-for-colleges-institutions-to-extinguish-these-rituals.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/sports/2023/08/20/inman-10-things-to-catch-my-eye-in-49ers-preseason-tilt-with-broncos/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-20T15:00:58.000Z</news:publication_date>
+          <news:title>Inman: 10 things to catch my eye in 49ers&#8217; preseason tilt with Broncos</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/sports/2023/08/20/inman-10-things-to-catch-my-eye-in-49ers-preseason-tilt-with-broncos/inman-10-things-to-catch-my-eye-in-49ers-preseason-tilt-with-broncos.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -31,17 +73,17 @@
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/sports/2023/08/21/monday-morning-lights-top-storylines-heading-into-this-weekends-season-openers/</loc>
+        <loc>https://majordigest.com/sports/2023/08/21/riley-gaines-slams-men-trying-silence-ex-college-athlete-california-library-event/</loc>
         <news:news>
           <news:publication>
             <news:name>Major Digest</news:name>
             <news:language>en</news:language>
           </news:publication>
-          <news:publication_date>2023-08-21T14:00:58.000Z</news:publication_date>
-          <news:title>Monday Morning Lights: Top storylines heading into this weekend&#8217;s season openers</news:title>
+          <news:publication_date>2023-08-21T14:32:28.000Z</news:publication_date>
+          <news:title>Riley Gaines slams men trying to 'silence' ex-college athlete at California library event</news:title>
         </news:news>
         <image:image>
-          <image:loc>https://majordigest.com/sports/2023/08/21/monday-morning-lights-top-storylines-heading-into-this-weekends-season-openers/monday-morning-lights-top-storylines-heading-into-this-weekends-season-openers.webp</image:loc>
+          <image:loc>https://majordigest.com/sports/2023/08/21/riley-gaines-slams-men-trying-silence-ex-college-athlete-california-library-event/riley-gaines-slams-men-trying-silence-ex-college-athlete-california-library-event.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -56,47 +98,5 @@
         </news:news>
         <image:image>
           <image:loc>https://majordigest.com/sports/2023/08/21/wwe-brand-remains-strong-company-sells-90k-tickets-upcoming-wrestlemania-40/wwe-brand-remains-strong-company-sells-90k-tickets-upcoming-wrestlemania-40.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/sports/2023/08/21/michael-ohers-former-football-coach-praises-tuohy-family-drama-think-thats-admirable/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-21T12:28:18.000Z</news:publication_date>
-          <news:title>Michael Oher's former football coach praises Tuohy family amid drama: 'I think that&#8217;s admirable'</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/sports/2023/08/21/michael-ohers-former-football-coach-praises-tuohy-family-drama-think-thats-admirable/michael-ohers-former-football-coach-praises-tuohy-family-drama-think-thats-admirable.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/sports/2023/08/21/2-men-die-ireland-competing-1-2-mile-swimming-portion-ironman-event/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-21T13:46:55.000Z</news:publication_date>
-          <news:title>2 men die in Ireland while competing in 1.2-mile swimming portion of Ironman event</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/sports/2023/08/21/2-men-die-ireland-competing-1-2-mile-swimming-portion-ironman-event/2-men-die-ireland-competing-1-2-mile-swimming-portion-ironman-event.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/sports/2023/08/20/walk-off-sf-giants-mount-game-winning-rally-without-a-hit-to-beat-braves-after-nearly-blowing-it-in-the-8th/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-20T20:50:38.000Z</news:publication_date>
-          <news:title>Walk-off? SF Giants mount game-winning rally without a hit to beat Braves, after nearly blowing it in the 8th</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/sports/2023/08/20/walk-off-sf-giants-mount-game-winning-rally-without-a-hit-to-beat-braves-after-nearly-blowing-it-in-the-8th/walk-off-sf-giants-mount-game-winning-rally-without-a-hit-to-beat-braves-after-nearly-blowing-it-in-the-8th.webp</image:loc>
         </image:image>
       </url></urlset>
