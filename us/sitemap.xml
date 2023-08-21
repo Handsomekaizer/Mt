@@ -3,17 +3,17 @@
               xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
               xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
       <url>
-        <loc>https://majordigest.com/us/2023/08/21/students-protest-west-virginia-universitys-proposal-cut-academic-programs-faculty/</loc>
+        <loc>https://majordigest.com/us/2023/08/21/california-football-field-flooded-water-tropical-storm-hilary-pours-rain-region/</loc>
         <news:news>
           <news:publication>
             <news:name>Major Digest</news:name>
             <news:language>en</news:language>
           </news:publication>
-          <news:publication_date>2023-08-21T18:28:39.000Z</news:publication_date>
-          <news:title>Students protest West Virginia University&#8217;s proposal to cut academic programs, faculty</news:title>
+          <news:publication_date>2023-08-21T20:06:12.000Z</news:publication_date>
+          <news:title>California football field flooded as Tropical Storm Hilary hammers region</news:title>
         </news:news>
         <image:image>
-          <image:loc>https://majordigest.com/us/2023/08/21/students-protest-west-virginia-universitys-proposal-cut-academic-programs-faculty/students-protest-west-virginia-universitys-proposal-cut-academic-programs-faculty.webp</image:loc>
+          <image:loc>https://majordigest.com/us/2023/08/21/california-football-field-flooded-water-tropical-storm-hilary-pours-rain-region/california-football-field-flooded-water-tropical-storm-hilary-pours-rain-region.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -45,17 +45,31 @@
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/us/2023/08/21/california-football-field-flooded-water-tropical-storm-hilary-pours-rain-region/</loc>
+        <loc>https://majordigest.com/us/2023/08/21/ohio-teen-sobs-learns-fate-intentionally-killing-boyfriend-passenger-car-wreck/</loc>
         <news:news>
           <news:publication>
             <news:name>Major Digest</news:name>
             <news:language>en</news:language>
           </news:publication>
-          <news:publication_date>2023-08-21T20:06:12.000Z</news:publication_date>
-          <news:title>California football field flooded as Tropical Storm Hilary hammers region</news:title>
+          <news:publication_date>2023-08-21T19:08:07.000Z</news:publication_date>
+          <news:title>Ohio teen sobs as she learns fate for intentionally killing boyfriend, passenger in car wreck</news:title>
         </news:news>
         <image:image>
-          <image:loc>https://majordigest.com/us/2023/08/21/california-football-field-flooded-water-tropical-storm-hilary-pours-rain-region/california-football-field-flooded-water-tropical-storm-hilary-pours-rain-region.webp</image:loc>
+          <image:loc>https://majordigest.com/us/2023/08/21/ohio-teen-sobs-learns-fate-intentionally-killing-boyfriend-passenger-car-wreck/ohio-teen-sobs-learns-fate-intentionally-killing-boyfriend-passenger-car-wreck.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/us/2023/08/21/austin-police-chief-abruptly-retires-staffing-shortages-lack-police-union-contract/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-21T22:05:25.000Z</news:publication_date>
+          <news:title>Austin police chief abruptly retires amid staffing shortages, lack of police union contract</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/us/2023/08/21/austin-police-chief-abruptly-retires-staffing-shortages-lack-police-union-contract/austin-police-chief-abruptly-retires-staffing-shortages-lack-police-union-contract.webp</image:loc>
         </image:image>
       </url>
       <url>
