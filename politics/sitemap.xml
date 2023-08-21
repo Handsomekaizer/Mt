@@ -3,6 +3,34 @@
               xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
               xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
       <url>
+        <loc>https://majordigest.com/politics/2023/08/21/nyc-guardian-angels-leader-curtis-sliwa-arrested-second-time-recent-days-migrant-housing-protest/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-21T02:26:29.000Z</news:publication_date>
+          <news:title>NYC Guardian Angels leader Curtis Sliwa arrested for second time in recent days during migrant housing protest</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/politics/2023/08/21/nyc-guardian-angels-leader-curtis-sliwa-arrested-second-time-recent-days-migrant-housing-protest/nyc-guardian-angels-leader-curtis-sliwa-arrested-second-time-recent-days-migrant-housing-protest.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/politics/2023/08/20/biden-quietly-auctions-trump-border-wall-parts-stunt-republican-effort-restart-construction-report/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-20T14:56:02.000Z</news:publication_date>
+          <news:title>Biden quietly auctions off border wall parts to stunt Republican effort to restart construction: report</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/politics/2023/08/20/biden-quietly-auctions-trump-border-wall-parts-stunt-republican-effort-restart-construction-report/biden-quietly-auctions-trump-border-wall-parts-stunt-republican-effort-restart-construction-report.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
         <loc>https://majordigest.com/politics/2023/08/20/white-house-hopeful-optimistic-trump-make-last-minute-decision-join-first-gop-debate/</loc>
         <news:news>
           <news:publication>
@@ -14,76 +42,6 @@
         </news:news>
         <image:image>
           <image:loc>https://majordigest.com/politics/2023/08/20/white-house-hopeful-optimistic-trump-make-last-minute-decision-join-first-gop-debate/white-house-hopeful-optimistic-trump-make-last-minute-decision-join-first-gop-debate.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/politics/2023/08/21/universal-service-fund-broadband/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-21T09:00:00.000Z</news:publication_date>
-          <news:title>This 26-year-old federal fund evolved to fight the 'digital divide.' Now a court might throw it out.</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/politics/2023/08/21/universal-service-fund-broadband/universal-service-fund-broadband.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/politics/2023/08/21/atlanta-center-stage-donald-trump-trial/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-21T08:30:00.000Z</news:publication_date>
-          <news:title>&#8216;Dr. King Is Smiling&#8217;: Atlanta Takes Center Stage in the Political Trial of the Century</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/politics/2023/08/21/atlanta-center-stage-donald-trump-trial/atlanta-center-stage-donald-trump-trial.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/politics/2023/08/20/critics-rip-desantis-trump-comment-say-makes-him-sound-crooked-hillary/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-20T20:21:17.000Z</news:publication_date>
-          <news:title>Critics rip DeSantis for Trump comment they say makes him sound like 'Crooked Hillary'</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/politics/2023/08/20/critics-rip-desantis-trump-comment-say-makes-him-sound-crooked-hillary/critics-rip-desantis-trump-comment-say-makes-him-sound-crooked-hillary.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/politics/2023/08/20/dc-continues-experiencing-soaring-crime-despite-its-council-chairman-saying-there-is-no-crime-crisis/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-20T11:00:21.000Z</news:publication_date>
-          <news:title>DC continues experiencing soaring crime rates despite council chairman saying 'there is no crime crisis'</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/politics/2023/08/20/dc-continues-experiencing-soaring-crime-despite-its-council-chairman-saying-there-is-no-crime-crisis/dc-continues-experiencing-soaring-crime-despite-its-council-chairman-saying-there-is-no-crime-crisis.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/politics/2023/08/20/biden-fema-chief-warns-disaster-relief-funding-shortage-maui-devastation-california-braces-storm/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-20T16:49:09.000Z</news:publication_date>
-          <news:title>Biden FEMA chief warns of disaster relief funding shortage after Maui fires, as California braces for storm</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/politics/2023/08/20/biden-fema-chief-warns-disaster-relief-funding-shortage-maui-devastation-california-braces-storm/biden-fema-chief-warns-disaster-relief-funding-shortage-maui-devastation-california-braces-storm.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -101,30 +59,58 @@
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/politics/2023/08/21/julian-assange-supporters-demand-charges-dropped-vigil-merrick-garlands-home/</loc>
+        <loc>https://majordigest.com/politics/2023/08/20/racing-against-clock-gop-presidential-longshots-work-furiously-qualify-first-republican-debate/</loc>
         <news:news>
           <news:publication>
             <news:name>Major Digest</news:name>
             <news:language>en</news:language>
           </news:publication>
-          <news:publication_date>2023-08-21T07:45:46.000Z</news:publication_date>
-          <news:title>Julian Assange supporters demand charges be dropped in vigil outside Merrick Garland&#8217;s home</news:title>
+          <news:publication_date>2023-08-20T18:21:17.000Z</news:publication_date>
+          <news:title>Racing against the clock: GOP presidential long shots work furiously to qualify for first Republican debate</news:title>
         </news:news>
         <image:image>
-          <image:loc>https://majordigest.com/politics/2023/08/21/julian-assange-supporters-demand-charges-dropped-vigil-merrick-garlands-home/julian-assange-supporters-demand-charges-dropped-vigil-merrick-garlands-home.webp</image:loc>
+          <image:loc>https://majordigest.com/politics/2023/08/20/racing-against-clock-gop-presidential-longshots-work-furiously-qualify-first-republican-debate/racing-against-clock-gop-presidential-longshots-work-furiously-qualify-first-republican-debate.webp</image:loc>
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/politics/2023/08/21/nyc-guardian-angels-leader-curtis-sliwa-arrested-second-time-recent-days-migrant-housing-protest/</loc>
+        <loc>https://majordigest.com/politics/2023/08/21/kamala-harris-second-act/</loc>
         <news:news>
           <news:publication>
             <news:name>Major Digest</news:name>
             <news:language>en</news:language>
           </news:publication>
-          <news:publication_date>2023-08-21T02:26:29.000Z</news:publication_date>
-          <news:title>NYC Guardian Angels leader Curtis Sliwa arrested for second time in recent days during migrant housing protest</news:title>
+          <news:publication_date>2023-08-21T08:30:00.000Z</news:publication_date>
+          <news:title>'I can't get into people's heads': Kamala Harris tries to reshape her public image ahead of 2024</news:title>
         </news:news>
         <image:image>
-          <image:loc>https://majordigest.com/politics/2023/08/21/nyc-guardian-angels-leader-curtis-sliwa-arrested-second-time-recent-days-migrant-housing-protest/nyc-guardian-angels-leader-curtis-sliwa-arrested-second-time-recent-days-migrant-housing-protest.webp</image:loc>
+          <image:loc>https://majordigest.com/politics/2023/08/21/kamala-harris-second-act/kamala-harris-second-act.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/politics/2023/08/20/ramaswamy-changes-tune-trump-ahead-gop-debate-not-same-donald-trump/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-20T16:28:04.000Z</news:publication_date>
+          <news:title>Ramaswamy changes tune from previous comments on Trump ahead of GOP debate: &#8216;Not the same Donald Trump&#8217;</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/politics/2023/08/20/ramaswamy-changes-tune-trump-ahead-gop-debate-not-same-donald-trump/ramaswamy-changes-tune-trump-ahead-gop-debate-not-same-donald-trump.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/politics/2023/08/21/ramaswamy-earns-second-presidential-endorsement-iowa-treasurer-roby-smith/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-21T11:00:52.000Z</news:publication_date>
+          <news:title>Ramaswamy earns second presidential endorsement from Iowa official in Treasurer Roby Smith</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/politics/2023/08/21/ramaswamy-earns-second-presidential-endorsement-iowa-treasurer-roby-smith/ramaswamy-earns-second-presidential-endorsement-iowa-treasurer-roby-smith.webp</image:loc>
         </image:image>
       </url></urlset>
