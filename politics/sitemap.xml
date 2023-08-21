@@ -3,34 +3,6 @@
               xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
               xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
       <url>
-        <loc>https://majordigest.com/politics/2023/08/20/biden-fema-chief-warns-disaster-relief-funding-shortage-maui-devastation-california-braces-storm/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-20T16:49:09.000Z</news:publication_date>
-          <news:title>Biden FEMA chief warns of disaster relief funding shortage after Maui fires, as California braces for storm</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/politics/2023/08/20/biden-fema-chief-warns-disaster-relief-funding-shortage-maui-devastation-california-braces-storm/biden-fema-chief-warns-disaster-relief-funding-shortage-maui-devastation-california-braces-storm.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/politics/2023/08/20/critics-rip-desantis-trump-comment-say-makes-him-sound-crooked-hillary/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-20T20:21:17.000Z</news:publication_date>
-          <news:title>Critics rip DeSantis for Trump comment they say makes him sound like 'Crooked Hillary'</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/politics/2023/08/20/critics-rip-desantis-trump-comment-say-makes-him-sound-crooked-hillary/critics-rip-desantis-trump-comment-say-makes-him-sound-crooked-hillary.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
         <loc>https://majordigest.com/politics/2023/08/20/hunter-bidens-defense-lawyers-vowed-put-president-biden-stand/</loc>
         <news:news>
           <news:publication>
@@ -42,6 +14,34 @@
         </news:news>
         <image:image>
           <image:loc>https://majordigest.com/politics/2023/08/20/hunter-bidens-defense-lawyers-vowed-put-president-biden-stand/hunter-bidens-defense-lawyers-vowed-put-president-biden-stand.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/politics/2023/08/20/biden-climate-emergency-hawaii/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-20T11:00:00.000Z</news:publication_date>
+          <news:title>Biden faces calls to declare climate emergency as he heads to Maui</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/politics/2023/08/20/biden-climate-emergency-hawaii/biden-climate-emergency-hawaii.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/politics/2023/08/21/nyc-guardian-angels-leader-curtis-sliwa-arrested-second-time-recent-days-migrant-housing-protest/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-21T02:26:29.000Z</news:publication_date>
+          <news:title>NYC Guardian Angels leader Curtis Sliwa arrested for second time in recent days during migrant housing protest</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/politics/2023/08/21/nyc-guardian-angels-leader-curtis-sliwa-arrested-second-time-recent-days-migrant-housing-protest/nyc-guardian-angels-leader-curtis-sliwa-arrested-second-time-recent-days-migrant-housing-protest.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -59,6 +59,48 @@
         </image:image>
       </url>
       <url>
+        <loc>https://majordigest.com/politics/2023/08/20/racing-against-clock-gop-presidential-longshots-work-furiously-qualify-first-republican-debate/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-20T18:21:17.000Z</news:publication_date>
+          <news:title>Racing against the clock: GOP presidential long shots work furiously to qualify for first Republican debate</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/politics/2023/08/20/racing-against-clock-gop-presidential-longshots-work-furiously-qualify-first-republican-debate/racing-against-clock-gop-presidential-longshots-work-furiously-qualify-first-republican-debate.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/politics/2023/08/21/julian-assange-supporters-demand-charges-dropped-vigil-merrick-garlands-home/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-21T07:45:46.000Z</news:publication_date>
+          <news:title>Julian Assange supporters demand charges be dropped in vigil outside Merrick Garland&#8217;s home</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/politics/2023/08/21/julian-assange-supporters-demand-charges-dropped-vigil-merrick-garlands-home/julian-assange-supporters-demand-charges-dropped-vigil-merrick-garlands-home.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/politics/2023/08/20/critics-rip-desantis-trump-comment-say-makes-him-sound-crooked-hillary/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-20T20:21:17.000Z</news:publication_date>
+          <news:title>Critics rip DeSantis for Trump comment they say makes him sound like 'Crooked Hillary'</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/politics/2023/08/20/critics-rip-desantis-trump-comment-say-makes-him-sound-crooked-hillary/critics-rip-desantis-trump-comment-say-makes-him-sound-crooked-hillary.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
         <loc>https://majordigest.com/politics/2023/08/20/ramaswamy-changes-tune-trump-ahead-gop-debate-not-same-donald-trump/</loc>
         <news:news>
           <news:publication>
@@ -73,16 +115,16 @@
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/politics/2023/08/20/death-toll-summer-heat/</loc>
+        <loc>https://majordigest.com/politics/2023/08/20/biden-fema-chief-warns-disaster-relief-funding-shortage-maui-devastation-california-braces-storm/</loc>
         <news:news>
           <news:publication>
             <news:name>Major Digest</news:name>
             <news:language>en</news:language>
           </news:publication>
-          <news:publication_date>2023-08-20T11:00:00.000Z</news:publication_date>
-          <news:title>&#8216;The heat&#8217;s different now&#8217;: Why the U.S. was unprepared for a deadly summer</news:title>
+          <news:publication_date>2023-08-20T16:49:09.000Z</news:publication_date>
+          <news:title>Biden FEMA chief warns of disaster relief funding shortage after Maui fires, as California braces for storm</news:title>
         </news:news>
         <image:image>
-          <image:loc>https://majordigest.com/politics/2023/08/20/death-toll-summer-heat/death-toll-summer-heat.webp</image:loc>
+          <image:loc>https://majordigest.com/politics/2023/08/20/biden-fema-chief-warns-disaster-relief-funding-shortage-maui-devastation-california-braces-storm/biden-fema-chief-warns-disaster-relief-funding-shortage-maui-devastation-california-braces-storm.webp</image:loc>
         </image:image>
       </url></urlset>
