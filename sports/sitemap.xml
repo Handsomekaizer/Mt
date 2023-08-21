@@ -3,20 +3,6 @@
               xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
               xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
       <url>
-        <loc>https://majordigest.com/sports/2023/08/21/manchester-united-announces-mason-greenwood-leave-club-following-rape-investigation/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-21T17:28:57.000Z</news:publication_date>
-          <news:title>Manchester United announces Mason Greenwood will leave club following rape investigation</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/sports/2023/08/21/manchester-united-announces-mason-greenwood-leave-club-following-rape-investigation/manchester-united-announces-mason-greenwood-leave-club-following-rape-investigation.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
         <loc>https://majordigest.com/sports/2023/08/21/patriots-bill-belichick-praises-impressive-taylor-swift-for-rain-plagued-performance/</loc>
         <news:news>
           <news:publication>
@@ -28,6 +14,20 @@
         </news:news>
         <image:image>
           <image:loc>https://majordigest.com/sports/2023/08/21/patriots-bill-belichick-praises-impressive-taylor-swift-for-rain-plagued-performance/patriots-bill-belichick-praises-impressive-taylor-swift-for-rain-plagued-performance.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/sports/2023/08/21/undrafted-rookie-quarterback-d-2-school-vying-bears-backup-job-everythings-open-right-now/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-21T19:34:59.000Z</news:publication_date>
+          <news:title>Undrafted rookie quarterback from DII school vying for Bears backup job: 'Everything&#8217;s open right now'</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/sports/2023/08/21/undrafted-rookie-quarterback-d-2-school-vying-bears-backup-job-everythings-open-right-now/undrafted-rookie-quarterback-d-2-school-vying-bears-backup-job-everythings-open-right-now.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -45,17 +45,45 @@
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/sports/2023/08/20/walk-off-sf-giants-mount-game-winning-rally-without-a-hit-to-beat-braves-after-nearly-blowing-it-in-the-8th/</loc>
+        <loc>https://majordigest.com/sports/2023/08/21/aaron-rodgers-reveals-jets-quarterback-plan-future-few-good-years-here/</loc>
         <news:news>
           <news:publication>
             <news:name>Major Digest</news:name>
             <news:language>en</news:language>
           </news:publication>
-          <news:publication_date>2023-08-20T20:50:38.000Z</news:publication_date>
-          <news:title>Walk-off? SF Giants mount game-winning rally without a hit to beat Braves, after nearly blowing it in the 8th</news:title>
+          <news:publication_date>2023-08-21T19:51:06.000Z</news:publication_date>
+          <news:title>Aaron Rodgers reveals his Jets quarterback plan for future, including 'few good years here'</news:title>
         </news:news>
         <image:image>
-          <image:loc>https://majordigest.com/sports/2023/08/20/walk-off-sf-giants-mount-game-winning-rally-without-a-hit-to-beat-braves-after-nearly-blowing-it-in-the-8th/walk-off-sf-giants-mount-game-winning-rally-without-a-hit-to-beat-braves-after-nearly-blowing-it-in-the-8th.webp</image:loc>
+          <image:loc>https://majordigest.com/sports/2023/08/21/aaron-rodgers-reveals-jets-quarterback-plan-future-few-good-years-here/aaron-rodgers-reveals-jets-quarterback-plan-future-few-good-years-here.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/sports/2023/08/21/manchester-united-announces-mason-greenwood-leave-club-following-rape-investigation/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-21T17:28:57.000Z</news:publication_date>
+          <news:title>Manchester United announces Mason Greenwood will leave club following rape investigation</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/sports/2023/08/21/manchester-united-announces-mason-greenwood-leave-club-following-rape-investigation/manchester-united-announces-mason-greenwood-leave-club-following-rape-investigation.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/sports/2023/08/21/wwe-brand-remains-strong-company-sells-90k-tickets-upcoming-wrestlemania-40/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-21T16:16:49.000Z</news:publication_date>
+          <news:title>WWE brand remains strong as company sells 90K tickets to upcoming WrestleMania 40</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/sports/2023/08/21/wwe-brand-remains-strong-company-sells-90k-tickets-upcoming-wrestlemania-40/wwe-brand-remains-strong-company-sells-90k-tickets-upcoming-wrestlemania-40.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -73,44 +101,30 @@
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/sports/2023/08/21/7-fans-brazils-corinthians-soccer-team-die-bus-crashes-flips-over/</loc>
+        <loc>https://majordigest.com/sports/2023/08/21/2-men-die-ireland-competing-1-2-mile-swimming-portion-ironman-event/</loc>
         <news:news>
           <news:publication>
             <news:name>Major Digest</news:name>
             <news:language>en</news:language>
           </news:publication>
-          <news:publication_date>2023-08-21T13:34:12.000Z</news:publication_date>
-          <news:title>7 fans of Brazil&#8217;s Corinthians soccer team die after bus crashes, flips over</news:title>
+          <news:publication_date>2023-08-21T13:46:55.000Z</news:publication_date>
+          <news:title>2 men die in Ireland while competing in 1.2-mile swimming portion of Ironman event</news:title>
         </news:news>
         <image:image>
-          <image:loc>https://majordigest.com/sports/2023/08/21/7-fans-brazils-corinthians-soccer-team-die-bus-crashes-flips-over/7-fans-brazils-corinthians-soccer-team-die-bus-crashes-flips-over.webp</image:loc>
+          <image:loc>https://majordigest.com/sports/2023/08/21/2-men-die-ireland-competing-1-2-mile-swimming-portion-ironman-event/2-men-die-ireland-competing-1-2-mile-swimming-portion-ironman-event.webp</image:loc>
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/sports/2023/08/20/49ers-brock-purdy-checks-out-healthy-after-nerve-wracking-scramble-in-cameo/</loc>
+        <loc>https://majordigest.com/sports/2023/08/21/washingtons-ad-search-the-hotlines-initial-list-of-candidates-to-replace-jen-cohen/</loc>
         <news:news>
           <news:publication>
             <news:name>Major Digest</news:name>
             <news:language>en</news:language>
           </news:publication>
-          <news:publication_date>2023-08-20T22:04:37.000Z</news:publication_date>
-          <news:title>49ers&#8217; Brock Purdy checks out healthy after nerve-wracking scramble in cameo</news:title>
+          <news:publication_date>2023-08-21T19:06:22.000Z</news:publication_date>
+          <news:title>Washington&#8217;s AD search: The Hotline&#8217;s initial list of candidates to replace Jen Cohen</news:title>
         </news:news>
         <image:image>
-          <image:loc>https://majordigest.com/sports/2023/08/20/49ers-brock-purdy-checks-out-healthy-after-nerve-wracking-scramble-in-cameo/49ers-brock-purdy-checks-out-healthy-after-nerve-wracking-scramble-in-cameo.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/sports/2023/08/21/wwe-brand-remains-strong-company-sells-90k-tickets-upcoming-wrestlemania-40/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-21T16:16:49.000Z</news:publication_date>
-          <news:title>WWE brand remains strong as company sells 90K tickets to upcoming WrestleMania 40</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/sports/2023/08/21/wwe-brand-remains-strong-company-sells-90k-tickets-upcoming-wrestlemania-40/wwe-brand-remains-strong-company-sells-90k-tickets-upcoming-wrestlemania-40.webp</image:loc>
+          <image:loc>https://majordigest.com/sports/2023/08/21/washingtons-ad-search-the-hotlines-initial-list-of-candidates-to-replace-jen-cohen/washingtons-ad-search-the-hotlines-initial-list-of-candidates-to-replace-jen-cohen.webp</image:loc>
         </image:image>
       </url></urlset>
