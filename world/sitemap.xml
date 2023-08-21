@@ -3,90 +3,6 @@
               xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
               xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
       <url>
-        <loc>https://majordigest.com/world/2023/08/21/dramatic-video-drunk-driver-smashing-into-speeding-train/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-21T15:50:19.000Z</news:publication_date>
-          <news:title>Dramatic video shows drunk driver smashing into speeding train</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/world/2023/08/21/dramatic-video-drunk-driver-smashing-into-speeding-train/dramatic-video-drunk-driver-smashing-into-speeding-train.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/world/2023/08/21/balkan-leaders-attend-greek-meeting-un-officials-zelenskyy-rumored-attending/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-21T14:51:50.000Z</news:publication_date>
-          <news:title>Balkan leaders attend Greek meeting with top UN officials: Zelenskyy rumored to be attending</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/world/2023/08/21/balkan-leaders-attend-greek-meeting-un-officials-zelenskyy-rumored-attending/balkan-leaders-attend-greek-meeting-un-officials-zelenskyy-rumored-attending.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/world/2023/08/21/4-mexicans-killed-attempting-climb-pico-de-orizaba-countrys-highest-peake/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-21T14:37:40.000Z</news:publication_date>
-          <news:title>4 Mexicans killed while attempting to climb Pico de Orizaba, the country's highest peak</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/world/2023/08/21/4-mexicans-killed-attempting-climb-pico-de-orizaba-countrys-highest-peake/4-mexicans-killed-attempting-climb-pico-de-orizaba-countrys-highest-peake.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/world/2023/08/21/greek-patrol-boats-rescue-nearly-80-migrants-tried-cross-aegean-sea-inflatable-dinghies/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-21T17:54:05.000Z</news:publication_date>
-          <news:title>Greek patrol rescue nearly 80 migrants that tried to cross Aegean Sea in inflatable dinghies</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/world/2023/08/21/greek-patrol-boats-rescue-nearly-80-migrants-tried-cross-aegean-sea-inflatable-dinghies/greek-patrol-boats-rescue-nearly-80-migrants-tried-cross-aegean-sea-inflatable-dinghies.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/world/2023/08/21/japan-vows-support-fisheries-countrys-decades-long-process-releasing-fukushima-nuclear-waste/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-21T16:26:49.000Z</news:publication_date>
-          <news:title>Japan vows to support fisheries during country&#8217;s decades-long process of releasing Fukushima nuclear waste</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/world/2023/08/21/japan-vows-support-fisheries-countrys-decades-long-process-releasing-fukushima-nuclear-waste/japan-vows-support-fisheries-countrys-decades-long-process-releasing-fukushima-nuclear-waste.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/world/2023/08/21/uk-baby-killer-lucy-letby-sentenced-life-prison-malevolence-bordering-sadism/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-21T18:01:45.000Z</news:publication_date>
-          <news:title>UK baby-killer Lucy Letby sentenced to life in prison: 'Malevolence bordering on sadism'</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/world/2023/08/21/uk-baby-killer-lucy-letby-sentenced-life-prison-malevolence-bordering-sadism/uk-baby-killer-lucy-letby-sentenced-life-prison-malevolence-bordering-sadism.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
         <loc>https://majordigest.com/world/2023/08/21/pope-francis-calls-peaceful-end-nigers-crisis-following-countrys-military-coup/</loc>
         <news:news>
           <news:publication>
@@ -101,6 +17,34 @@
         </image:image>
       </url>
       <url>
+        <loc>https://majordigest.com/world/2023/08/21/indonesias-electric-vehicle-push-complicated-price-concerns-low-confidence/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-21T18:40:45.000Z</news:publication_date>
+          <news:title>Indonesia's electric vehicle push complicated by price concerns, low confidence</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/world/2023/08/21/indonesias-electric-vehicle-push-complicated-price-concerns-low-confidence/indonesias-electric-vehicle-push-complicated-price-concerns-low-confidence.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/world/2023/08/21/japanese-health-ministry-panel-recommends-approval-of-alzheimers-treatment-leqembi/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-21T18:30:22.000Z</news:publication_date>
+          <news:title>Japanese health ministry panel recommends approval of Alzheimer's treatment Leqembi</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/world/2023/08/21/japanese-health-ministry-panel-recommends-approval-of-alzheimers-treatment-leqembi/japanese-health-ministry-panel-recommends-approval-of-alzheimers-treatment-leqembi.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
         <loc>https://majordigest.com/world/2023/08/21/canadian-firefighters-making-progress-battle-against-wildfires-thousands-evacuated-homes/</loc>
         <news:news>
           <news:publication>
@@ -112,5 +56,47 @@
         </news:news>
         <image:image>
           <image:loc>https://majordigest.com/world/2023/08/21/canadian-firefighters-making-progress-battle-against-wildfires-thousands-evacuated-homes/canadian-firefighters-making-progress-battle-against-wildfires-thousands-evacuated-homes.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/world/2023/08/21/pentagon-rejects-iranian-claims-intercept-us-navy-vessels/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-21T18:41:14.000Z</news:publication_date>
+          <news:title>Pentagon rejects Iranian claims of 'intercept' against US Navy vessels</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/world/2023/08/21/pentagon-rejects-iranian-claims-intercept-us-navy-vessels/pentagon-rejects-iranian-claims-intercept-us-navy-vessels.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/world/2023/08/21/pakistan-gives-cash-nearly-100-homeless-christian-families-following-destructive-muslim-led-riot/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-21T18:20:32.000Z</news:publication_date>
+          <news:title>Pakistan gives cash to nearly 100 homeless Christian families following destructive Muslim-led riot</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/world/2023/08/21/pakistan-gives-cash-nearly-100-homeless-christian-families-following-destructive-muslim-led-riot/pakistan-gives-cash-nearly-100-homeless-christian-families-following-destructive-muslim-led-riot.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/world/2023/08/21/deadly-exchange-fire-disputed-indo-pakistani-border-kashmir-raises-tensions/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-21T18:55:56.000Z</news:publication_date>
+          <news:title>Deadly exchange of fire at disputed Indo-Pakistani border in Kashmir raises tensions</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/world/2023/08/21/deadly-exchange-fire-disputed-indo-pakistani-border-kashmir-raises-tensions/deadly-exchange-fire-disputed-indo-pakistani-border-kashmir-raises-tensions.webp</image:loc>
         </image:image>
       </url></urlset>

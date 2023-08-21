@@ -3,17 +3,73 @@
               xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
               xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
       <url>
-        <loc>https://majordigest.com/politics/2023/08/21/trump-leading-desantis-scott-42-support-likely-iowa-caucusgoers-poll/</loc>
+        <loc>https://majordigest.com/politics/2023/08/21/wisconsins-role-swing-state-expected-highlighted-upcoming-gop-debate-milwaukee/</loc>
         <news:news>
           <news:publication>
             <news:name>Major Digest</news:name>
             <news:language>en</news:language>
           </news:publication>
-          <news:publication_date>2023-08-21T14:27:22.000Z</news:publication_date>
-          <news:title>Trump leading DeSantis, Scott with 42% support among likely Iowa caucusgoers: poll</news:title>
+          <news:publication_date>2023-08-21T12:57:53.000Z</news:publication_date>
+          <news:title>Wisconsin's role as swing state expected to be highlighted in upcoming GOP debate in Milwaukee</news:title>
         </news:news>
         <image:image>
-          <image:loc>https://majordigest.com/politics/2023/08/21/trump-leading-desantis-scott-42-support-likely-iowa-caucusgoers-poll/trump-leading-desantis-scott-42-support-likely-iowa-caucusgoers-poll.webp</image:loc>
+          <image:loc>https://majordigest.com/politics/2023/08/21/wisconsins-role-swing-state-expected-highlighted-upcoming-gop-debate-milwaukee/wisconsins-role-swing-state-expected-highlighted-upcoming-gop-debate-milwaukee.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/politics/2023/08/21/president-biden-jill-visit-hawaii-first-time-since-wildfires-devastated-maui/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-21T11:35:37.000Z</news:publication_date>
+          <news:title>President Biden, Jill visit Hawaii for first time since wildfires devastated Maui</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/politics/2023/08/21/president-biden-jill-visit-hawaii-first-time-since-wildfires-devastated-maui/president-biden-jill-visit-hawaii-first-time-since-wildfires-devastated-maui.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/politics/2023/08/21/house-freedom-caucus-potential-shutdown/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-21T15:31:50.000Z</news:publication_date>
+          <news:title>House Freedom Caucus rolls out demands to avoid shutdown</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/politics/2023/08/21/house-freedom-caucus-potential-shutdown/house-freedom-caucus-potential-shutdown.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/politics/2023/08/21/chip-roy-gop-colleagues-sound-alarm-ccp-linked-money-nih-employees/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-21T17:20:38.000Z</news:publication_date>
+          <news:title>Chip Roy, GOP colleagues sound alarm over CCP-linked money reportedly going to NIH employees</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/politics/2023/08/21/chip-roy-gop-colleagues-sound-alarm-ccp-linked-money-nih-employees/chip-roy-gop-colleagues-sound-alarm-ccp-linked-money-nih-employees.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/politics/2023/08/21/new-york-redistricting-2024-elections/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-21T09:00:00.000Z</news:publication_date>
+          <news:title>New district lines will scramble key New York House races</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/politics/2023/08/21/new-york-redistricting-2024-elections/new-york-redistricting-2024-elections.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -45,58 +101,30 @@
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/politics/2023/08/21/new-york-redistricting-2024-elections/</loc>
+        <loc>https://majordigest.com/politics/2023/08/21/mitt-romney-mulls-re-election-bid-increasingly-pro-trump-utah/</loc>
         <news:news>
           <news:publication>
             <news:name>Major Digest</news:name>
             <news:language>en</news:language>
           </news:publication>
-          <news:publication_date>2023-08-21T09:00:00.000Z</news:publication_date>
-          <news:title>New district lines will scramble key New York House races</news:title>
+          <news:publication_date>2023-08-21T12:15:25.000Z</news:publication_date>
+          <news:title>Mitt Romney mulls re-election bid in increasingly pro-Trump Utah</news:title>
         </news:news>
         <image:image>
-          <image:loc>https://majordigest.com/politics/2023/08/21/new-york-redistricting-2024-elections/new-york-redistricting-2024-elections.webp</image:loc>
+          <image:loc>https://majordigest.com/politics/2023/08/21/mitt-romney-mulls-re-election-bid-increasingly-pro-trump-utah/mitt-romney-mulls-re-election-bid-increasingly-pro-trump-utah.webp</image:loc>
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/politics/2023/08/21/chip-roy-gop-colleagues-sound-alarm-ccp-linked-money-nih-employees/</loc>
+        <loc>https://majordigest.com/politics/2023/08/21/trump-leading-desantis-scott-42-support-likely-iowa-caucusgoers-poll/</loc>
         <news:news>
           <news:publication>
             <news:name>Major Digest</news:name>
             <news:language>en</news:language>
           </news:publication>
-          <news:publication_date>2023-08-21T17:20:38.000Z</news:publication_date>
-          <news:title>Chip Roy, GOP colleagues sound alarm over CCP-linked money reportedly going to NIH employees</news:title>
+          <news:publication_date>2023-08-21T14:27:22.000Z</news:publication_date>
+          <news:title>Trump leading DeSantis, Scott with 42% support among likely Iowa caucusgoers: poll</news:title>
         </news:news>
         <image:image>
-          <image:loc>https://majordigest.com/politics/2023/08/21/chip-roy-gop-colleagues-sound-alarm-ccp-linked-money-nih-employees/chip-roy-gop-colleagues-sound-alarm-ccp-linked-money-nih-employees.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/politics/2023/08/21/house-freedom-caucus-potential-shutdown/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-21T15:31:50.000Z</news:publication_date>
-          <news:title>House Freedom Caucus rolls out demands to avoid shutdown</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/politics/2023/08/21/house-freedom-caucus-potential-shutdown/house-freedom-caucus-potential-shutdown.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/politics/2023/08/21/gop-senator-says-trump-should-drop-2024-race-he-will-lose/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-21T13:22:01.000Z</news:publication_date>
-          <news:title>GOP Senator says Trump should drop out of 2024 race: &#8216;He will lose&#8217;</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/politics/2023/08/21/gop-senator-says-trump-should-drop-2024-race-he-will-lose/gop-senator-says-trump-should-drop-2024-race-he-will-lose.webp</image:loc>
+          <image:loc>https://majordigest.com/politics/2023/08/21/trump-leading-desantis-scott-42-support-likely-iowa-caucusgoers-poll/trump-leading-desantis-scott-42-support-likely-iowa-caucusgoers-poll.webp</image:loc>
         </image:image>
       </url></urlset>
