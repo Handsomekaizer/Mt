@@ -30,6 +30,7 @@ jobs:
         export ARCHIVE_LINK="${ARCHIVE_LINK_PLACEHOLDER}\n<a href=\"/${ARCHIVE_PATH}/\" title=\"News archive of ${ARCHIVE_LINK_TEXT}\">${ARCHIVE_LINK_TEXT}</a>"
         export PRECONNECT_PLACEHOLDER="</head>"
         export PRECONNECT_REPLACEMENT="<link rel=\"preconnect\" href=\"https://web.archive.org/\"></head>"
+        echo "ARCHIVE_PATH: ${ARCHIVE_PATH}"
         mkdir -p "${ARCHIVE_PATH}"
         cp index.html "${ARCHIVE_PATH}"
         sed -i -e "s#$IMAGE_SRC_PATTERN#$IMAGE_REPLACEMENT#g" "${ARCHIVE_PATH}/index.html"
