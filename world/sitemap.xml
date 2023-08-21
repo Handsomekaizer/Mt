@@ -3,62 +3,6 @@
               xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
               xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
       <url>
-        <loc>https://majordigest.com/world/2023/08/21/greek-patrol-boats-rescue-nearly-80-migrants-tried-cross-aegean-sea-inflatable-dinghies/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-21T17:54:05.000Z</news:publication_date>
-          <news:title>Greek patrol rescue nearly 80 migrants that tried to cross Aegean Sea in inflatable dinghies</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/world/2023/08/21/greek-patrol-boats-rescue-nearly-80-migrants-tried-cross-aegean-sea-inflatable-dinghies/greek-patrol-boats-rescue-nearly-80-migrants-tried-cross-aegean-sea-inflatable-dinghies.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/world/2023/08/21/indonesias-electric-vehicle-push-complicated-price-concerns-low-confidence/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-21T18:40:45.000Z</news:publication_date>
-          <news:title>Indonesia's electric vehicle push complicated by price concerns, low confidence</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/world/2023/08/21/indonesias-electric-vehicle-push-complicated-price-concerns-low-confidence/indonesias-electric-vehicle-push-complicated-price-concerns-low-confidence.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/world/2023/08/21/pentagon-rejects-iranian-claims-intercept-us-navy-vessels/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-21T18:41:14.000Z</news:publication_date>
-          <news:title>Pentagon rejects Iranian claims of 'intercept' against US Navy vessels</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/world/2023/08/21/pentagon-rejects-iranian-claims-intercept-us-navy-vessels/pentagon-rejects-iranian-claims-intercept-us-navy-vessels.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/world/2023/08/21/palestinian-assailant-kills-israeli-woman-sparks-renewed-violence-west-bank/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-21T20:15:46.000Z</news:publication_date>
-          <news:title>Palestinian assailant kills Israeli woman, sparks renewed violence in West Bank</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/world/2023/08/21/palestinian-assailant-kills-israeli-woman-sparks-renewed-violence-west-bank/palestinian-assailant-kills-israeli-woman-sparks-renewed-violence-west-bank.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
         <loc>https://majordigest.com/world/2023/08/21/uk-baby-killer-lucy-letby-sentenced-life-prison-malevolence-bordering-sadism/</loc>
         <news:news>
           <news:publication>
@@ -70,34 +14,6 @@
         </news:news>
         <image:image>
           <image:loc>https://majordigest.com/world/2023/08/21/uk-baby-killer-lucy-letby-sentenced-life-prison-malevolence-bordering-sadism/uk-baby-killer-lucy-letby-sentenced-life-prison-malevolence-bordering-sadism.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/world/2023/08/21/pakistan-gives-cash-nearly-100-homeless-christian-families-following-destructive-muslim-led-riot/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-21T18:20:32.000Z</news:publication_date>
-          <news:title>Pakistan gives cash to nearly 100 homeless Christian families following destructive Muslim-led riot</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/world/2023/08/21/pakistan-gives-cash-nearly-100-homeless-christian-families-following-destructive-muslim-led-riot/pakistan-gives-cash-nearly-100-homeless-christian-families-following-destructive-muslim-led-riot.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/world/2023/08/21/turkeys-erdogan-criticizes-un-peacekeepers-road-blockade-cyprus-citing-bias/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-21T20:13:07.000Z</news:publication_date>
-          <news:title>Turkey's Erdogan criticizes UN peacekeepers for road blockade in Cyprus, citing bias</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/world/2023/08/21/turkeys-erdogan-criticizes-un-peacekeepers-road-blockade-cyprus-citing-bias/turkeys-erdogan-criticizes-un-peacekeepers-road-blockade-cyprus-citing-bias.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -115,6 +31,76 @@
         </image:image>
       </url>
       <url>
+        <loc>https://majordigest.com/world/2023/08/21/pakistan-gives-cash-nearly-100-homeless-christian-families-following-destructive-muslim-led-riot/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-21T18:20:32.000Z</news:publication_date>
+          <news:title>Pakistan gives cash to nearly 100 homeless Christian families following destructive Muslim-led riot</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/world/2023/08/21/pakistan-gives-cash-nearly-100-homeless-christian-families-following-destructive-muslim-led-riot/pakistan-gives-cash-nearly-100-homeless-christian-families-following-destructive-muslim-led-riot.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/world/2023/08/21/suspected-palestinian-assailant-kills-israeli-woman-sparks-renewed-violence-west-bank/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-21T20:15:46.000Z</news:publication_date>
+          <news:title>Suspected Palestinian assailant kills Israeli woman, sparks renewed violence in West Bank</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/world/2023/08/21/suspected-palestinian-assailant-kills-israeli-woman-sparks-renewed-violence-west-bank/suspected-palestinian-assailant-kills-israeli-woman-sparks-renewed-violence-west-bank.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/world/2023/08/21/indonesias-electric-vehicle-push-complicated-price-concerns-low-confidence/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-21T18:40:45.000Z</news:publication_date>
+          <news:title>Indonesia's electric vehicle push complicated by price concerns, low confidence</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/world/2023/08/21/indonesias-electric-vehicle-push-complicated-price-concerns-low-confidence/indonesias-electric-vehicle-push-complicated-price-concerns-low-confidence.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/world/2023/08/21/iraqi-oil-minister-visits-ankara-address-energy-issues-resumption-oil-exports/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-21T20:27:12.000Z</news:publication_date>
+          <news:title>Iraqi oil minister visits Ankara to address energy issues, including resumption of oil exports</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/world/2023/08/21/iraqi-oil-minister-visits-ankara-address-energy-issues-resumption-oil-exports/iraqi-oil-minister-visits-ankara-address-energy-issues-resumption-oil-exports.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/world/2023/08/21/pentagon-rejects-iranian-claims-intercept-us-navy-vessels/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-21T18:41:14.000Z</news:publication_date>
+          <news:title>Pentagon rejects Iranian claims of 'intercept' against US Navy vessels</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/world/2023/08/21/pentagon-rejects-iranian-claims-intercept-us-navy-vessels/pentagon-rejects-iranian-claims-intercept-us-navy-vessels.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
         <loc>https://majordigest.com/world/2023/08/21/uk-vows-increased-support-iraqs-anti-drug-efforts-strengthening-security-partnership/</loc>
         <news:news>
           <news:publication>
@@ -126,19 +112,5 @@
         </news:news>
         <image:image>
           <image:loc>https://majordigest.com/world/2023/08/21/uk-vows-increased-support-iraqs-anti-drug-efforts-strengthening-security-partnership/uk-vows-increased-support-iraqs-anti-drug-efforts-strengthening-security-partnership.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/world/2023/08/21/japanese-health-ministry-panel-recommends-approval-of-alzheimers-treatment-leqembi/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-21T18:30:22.000Z</news:publication_date>
-          <news:title>Japanese health ministry panel recommends approval of Alzheimer's treatment Leqembi</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/world/2023/08/21/japanese-health-ministry-panel-recommends-approval-of-alzheimers-treatment-leqembi/japanese-health-ministry-panel-recommends-approval-of-alzheimers-treatment-leqembi.webp</image:loc>
         </image:image>
       </url></urlset>
