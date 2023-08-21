@@ -3,31 +3,31 @@
               xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
               xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
       <url>
-        <loc>https://majordigest.com/us/2023/08/20/armed-good-samaritan-shoots-suspectallegedly-knocked-out-elderly-man-restaurant-bathroom/</loc>
+        <loc>https://majordigest.com/us/2023/08/20/tropical-storm-hilary-batters-california-dangerous-flooding-mudslides-power-outages/</loc>
         <news:news>
           <news:publication>
             <news:name>Major Digest</news:name>
             <news:language>en</news:language>
           </news:publication>
-          <news:publication_date>2023-08-20T14:47:15.000Z</news:publication_date>
-          <news:title>Armed good Samaritan shoots suspect who allegedly knocked out elderly man in restaurant bathroom</news:title>
+          <news:publication_date>2023-08-20T13:04:24.000Z</news:publication_date>
+          <news:title>Tropical Storm Hilary batters California with dangerous flooding, mudslides, power outages</news:title>
         </news:news>
         <image:image>
-          <image:loc>https://majordigest.com/us/2023/08/20/armed-good-samaritan-shoots-suspectallegedly-knocked-out-elderly-man-restaurant-bathroom/armed-good-samaritan-shoots-suspectallegedly-knocked-out-elderly-man-restaurant-bathroom.webp</image:loc>
+          <image:loc>https://majordigest.com/us/2023/08/20/tropical-storm-hilary-batters-california-dangerous-flooding-mudslides-power-outages/tropical-storm-hilary-batters-california-dangerous-flooding-mudslides-power-outages.webp</image:loc>
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/us/2023/08/20/california-store-owner-shot-dead-alleged-dispute-gay-pride-flag-police/</loc>
+        <loc>https://majordigest.com/us/2023/08/20/la-mayor-says-city-reaching-out-citys-homeless-population-riverbed-areas-ahead-hilary/</loc>
         <news:news>
           <news:publication>
             <news:name>Major Digest</news:name>
             <news:language>en</news:language>
           </news:publication>
-          <news:publication_date>2023-08-20T19:11:48.000Z</news:publication_date>
-          <news:title>California store owner shot dead after alleged dispute over gay Pride flag: police</news:title>
+          <news:publication_date>2023-08-20T17:03:05.000Z</news:publication_date>
+          <news:title>LA mayor says city reaching out to city's homeless population in riverbed areas ahead of Hilary</news:title>
         </news:news>
         <image:image>
-          <image:loc>https://majordigest.com/us/2023/08/20/california-store-owner-shot-dead-alleged-dispute-gay-pride-flag-police/california-store-owner-shot-dead-alleged-dispute-gay-pride-flag-police.webp</image:loc>
+          <image:loc>https://majordigest.com/us/2023/08/20/la-mayor-says-city-reaching-out-citys-homeless-population-riverbed-areas-ahead-hilary/la-mayor-says-city-reaching-out-citys-homeless-population-riverbed-areas-ahead-hilary.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -45,34 +45,6 @@
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/us/2023/08/20/nyc-fire-department-responds-five-alarm-inferno-in-brooklyn-reports/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-20T18:39:20.000Z</news:publication_date>
-          <news:title>NYC Fire Department battles 5-alarm inferno inside Brooklyn businesses; rescue 3 kids in earlier separate fire</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/us/2023/08/20/nyc-fire-department-responds-five-alarm-inferno-in-brooklyn-reports/nyc-fire-department-responds-five-alarm-inferno-in-brooklyn-reports.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/us/2023/08/20/gilgo-beach-murder-victims-forgotten-years-corruption-scandal/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-20T20:00:07.000Z</news:publication_date>
-          <news:title>Gilgo Beach murder victims forgotten during years of corruption and scandal</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/us/2023/08/20/gilgo-beach-murder-victims-forgotten-years-corruption-scandal/gilgo-beach-murder-victims-forgotten-years-corruption-scandal.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
         <loc>https://majordigest.com/us/2023/08/20/victim-of-barnes-noble-sniffer-blasts-repeated-catch-and-release-he-is-unfit-for-society/</loc>
         <news:news>
           <news:publication>
@@ -84,33 +56,5 @@
         </news:news>
         <image:image>
           <image:loc>https://majordigest.com/us/2023/08/20/victim-of-barnes-noble-sniffer-blasts-repeated-catch-and-release-he-is-unfit-for-society/victim-of-barnes-noble-sniffer-blasts-repeated-catch-and-release-he-is-unfit-for-society.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/us/2023/08/20/tropical-storm-hilary-batters-california-dangerous-flooding-mudslides-power-outages/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-20T13:04:24.000Z</news:publication_date>
-          <news:title>Tropical Storm Hilary batters California with dangerous flooding, mudslides, power outages</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/us/2023/08/20/tropical-storm-hilary-batters-california-dangerous-flooding-mudslides-power-outages/tropical-storm-hilary-batters-california-dangerous-flooding-mudslides-power-outages.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/us/2023/08/21/kansas-reporter-accused-breaking-law-controversial-marion-county-newspaper-raid-documents/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-21T00:17:50.000Z</news:publication_date>
-          <news:title>Kansas reporter accused of breaking law before controversial Marion County newspaper raid: documents</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/us/2023/08/21/kansas-reporter-accused-breaking-law-controversial-marion-county-newspaper-raid-documents/kansas-reporter-accused-breaking-law-controversial-marion-county-newspaper-raid-documents.webp</image:loc>
         </image:image>
       </url></urlset>
