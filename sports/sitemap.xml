@@ -3,17 +3,45 @@
               xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
               xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
       <url>
-        <loc>https://majordigest.com/sports/2023/08/20/miguel-cabrera-jokingly-squares-up-jose-ramirez-bout-tim-anderson/</loc>
+        <loc>https://majordigest.com/sports/2023/08/20/49ers-brock-purdy-checks-out-healthy-after-nerve-wracking-scramble-in-cameo/</loc>
         <news:news>
           <news:publication>
             <news:name>Major Digest</news:name>
             <news:language>en</news:language>
           </news:publication>
-          <news:publication_date>2023-08-20T20:36:51.000Z</news:publication_date>
-          <news:title>Miguel Cabrera jokingly squares up with Jos&#233; Ram&#237;rez after Guardians All-Star's bout with Tim Anderson</news:title>
+          <news:publication_date>2023-08-20T22:04:37.000Z</news:publication_date>
+          <news:title>49ers&#8217; Brock Purdy checks out healthy after nerve-wracking scramble in cameo</news:title>
         </news:news>
         <image:image>
-          <image:loc>https://majordigest.com/sports/2023/08/20/miguel-cabrera-jokingly-squares-up-jose-ramirez-bout-tim-anderson/miguel-cabrera-jokingly-squares-up-jose-ramirez-bout-tim-anderson.webp</image:loc>
+          <image:loc>https://majordigest.com/sports/2023/08/20/49ers-brock-purdy-checks-out-healthy-after-nerve-wracking-scramble-in-cameo/49ers-brock-purdy-checks-out-healthy-after-nerve-wracking-scramble-in-cameo.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/sports/2023/08/20/walk-off-sf-giants-mount-game-winning-rally-without-a-hit-to-beat-braves-after-nearly-blowing-it-in-the-8th/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-20T20:50:38.000Z</news:publication_date>
+          <news:title>Walk-off? SF Giants mount game-winning rally without a hit to beat Braves, after nearly blowing it in the 8th</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/sports/2023/08/20/walk-off-sf-giants-mount-game-winning-rally-without-a-hit-to-beat-braves-after-nearly-blowing-it-in-the-8th/walk-off-sf-giants-mount-game-winning-rally-without-a-hit-to-beat-braves-after-nearly-blowing-it-in-the-8th.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/sports/2023/08/21/spanish-soccer-hero-olga-carmona-learns-fathers-death-decisive-womens-world-cup-final-goal/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-21T10:25:47.000Z</news:publication_date>
+          <news:title>Spanish soccer hero Olga Carmona learns of father&#8217;s death after decisive Women's World Cup final goal</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/sports/2023/08/21/spanish-soccer-hero-olga-carmona-learns-fathers-death-decisive-womens-world-cup-final-goal/spanish-soccer-hero-olga-carmona-learns-fathers-death-decisive-womens-world-cup-final-goal.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -31,31 +59,31 @@
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/sports/2023/08/20/sf-giants-lead-for-8-innings-but-lose-to-braves-on-eddie-rosarios-late-home-run/</loc>
+        <loc>https://majordigest.com/sports/2023/08/21/orioles-baffled-watching-gunnar-henderson-purposefully-pass-up-feat-every-player-dreams/</loc>
         <news:news>
           <news:publication>
             <news:name>Major Digest</news:name>
             <news:language>en</news:language>
           </news:publication>
-          <news:publication_date>2023-08-20T01:53:17.000Z</news:publication_date>
-          <news:title>SF Giants lead for 8 innings, but lose to Braves on Eddie Rosario&#8217;s late home run</news:title>
+          <news:publication_date>2023-08-21T00:18:04.000Z</news:publication_date>
+          <news:title>Orioles baffled after watching Gunnar Henderson purposefully pass up feat every player dreams to accomplish</news:title>
         </news:news>
         <image:image>
-          <image:loc>https://majordigest.com/sports/2023/08/20/sf-giants-lead-for-8-innings-but-lose-to-braves-on-eddie-rosarios-late-home-run/sf-giants-lead-for-8-innings-but-lose-to-braves-on-eddie-rosarios-late-home-run.webp</image:loc>
+          <image:loc>https://majordigest.com/sports/2023/08/21/orioles-baffled-watching-gunnar-henderson-purposefully-pass-up-feat-every-player-dreams/orioles-baffled-watching-gunnar-henderson-purposefully-pass-up-feat-every-player-dreams.webp</image:loc>
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/sports/2023/08/20/jets-aaron-rodgers-expected-play-final-preseason-game-vs-giants/</loc>
+        <loc>https://majordigest.com/sports/2023/08/20/phillies-bryce-harper-meets-only-female-player-little-league-world-series/</loc>
         <news:news>
           <news:publication>
             <news:name>Major Digest</news:name>
             <news:language>en</news:language>
           </news:publication>
-          <news:publication_date>2023-08-20T19:42:18.000Z</news:publication_date>
-          <news:title>Jets' Aaron Rodgers expected to play in final preseason game vs. Giants: reports</news:title>
+          <news:publication_date>2023-08-20T23:42:57.000Z</news:publication_date>
+          <news:title>Phillies' Bryce Harper meets only female player in Little League World Series: &#8216;I&#8217;m really happy for you'</news:title>
         </news:news>
         <image:image>
-          <image:loc>https://majordigest.com/sports/2023/08/20/jets-aaron-rodgers-expected-play-final-preseason-game-vs-giants/jets-aaron-rodgers-expected-play-final-preseason-game-vs-giants.webp</image:loc>
+          <image:loc>https://majordigest.com/sports/2023/08/20/phillies-bryce-harper-meets-only-female-player-little-league-world-series/phillies-bryce-harper-meets-only-female-player-little-league-world-series.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -70,33 +98,5 @@
         </news:news>
         <image:image>
           <image:loc>https://majordigest.com/sports/2023/08/20/oakland-as-fall-apart-in-10th-inning-drop-another-game-to-orioles/oakland-as-fall-apart-in-10th-inning-drop-another-game-to-orioles.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/sports/2023/08/20/us-sprinter-noah-lyles-one-race-away-tying-usain-bolts-record-100m-victory-world-championships/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-20T21:52:29.000Z</news:publication_date>
-          <news:title>US sprinter Noah Lyles 1 race away from tying Usain Bolt's record after 100M victory at World Championships</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/sports/2023/08/20/us-sprinter-noah-lyles-one-race-away-tying-usain-bolts-record-100m-victory-world-championships/us-sprinter-noah-lyles-one-race-away-tying-usain-bolts-record-100m-victory-world-championships.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/sports/2023/08/20/pickleball-players-push-back-after-plan-for-club-at-historic-richmond-site-gets-nixed/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-20T13:00:38.000Z</news:publication_date>
-          <news:title>Pickleball players push back after plan for club at historic Richmond site gets nixed</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/sports/2023/08/20/pickleball-players-push-back-after-plan-for-club-at-historic-richmond-site-gets-nixed/pickleball-players-push-back-after-plan-for-club-at-historic-richmond-site-gets-nixed.webp</image:loc>
         </image:image>
       </url></urlset>

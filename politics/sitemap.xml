@@ -3,73 +3,59 @@
               xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
               xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
       <url>
-        <loc>https://majordigest.com/politics/2023/08/21/nyc-guardian-angels-leader-curtis-sliwa-arrested-second-time-recent-days-migrant-housing-protest/</loc>
+        <loc>https://majordigest.com/politics/2023/08/19/hunter-biden-plea-deal-collapse/</loc>
         <news:news>
           <news:publication>
             <news:name>Major Digest</news:name>
             <news:language>en</news:language>
           </news:publication>
-          <news:publication_date>2023-08-21T02:26:29.000Z</news:publication_date>
-          <news:title>NYC Guardian Angels leader Curtis Sliwa arrested for second time in recent days during migrant housing protest</news:title>
+          <news:publication_date>2023-08-19T22:09:09.000Z</news:publication_date>
+          <news:title>In talks with prosecutors, Hunter Biden&#8217;s lawyers vowed to put the president on the stand</news:title>
         </news:news>
         <image:image>
-          <image:loc>https://majordigest.com/politics/2023/08/21/nyc-guardian-angels-leader-curtis-sliwa-arrested-second-time-recent-days-migrant-housing-protest/nyc-guardian-angels-leader-curtis-sliwa-arrested-second-time-recent-days-migrant-housing-protest.webp</image:loc>
+          <image:loc>https://majordigest.com/politics/2023/08/19/hunter-biden-plea-deal-collapse/hunter-biden-plea-deal-collapse.webp</image:loc>
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/politics/2023/08/20/biden-quietly-auctions-trump-border-wall-parts-stunt-republican-effort-restart-construction-report/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-20T14:56:02.000Z</news:publication_date>
-          <news:title>Biden quietly auctions off border wall parts to stunt Republican effort to restart construction: report</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/politics/2023/08/20/biden-quietly-auctions-trump-border-wall-parts-stunt-republican-effort-restart-construction-report/biden-quietly-auctions-trump-border-wall-parts-stunt-republican-effort-restart-construction-report.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/politics/2023/08/20/white-house-hopeful-optimistic-trump-make-last-minute-decision-join-first-gop-debate/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-20T18:32:20.000Z</news:publication_date>
-          <news:title>White House hopeful optimistic Trump will make last-minute decision to join first GOP debate</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/politics/2023/08/20/white-house-hopeful-optimistic-trump-make-last-minute-decision-join-first-gop-debate/white-house-hopeful-optimistic-trump-make-last-minute-decision-join-first-gop-debate.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/politics/2023/08/20/biden-climate-emergency-hawaii/</loc>
+        <loc>https://majordigest.com/politics/2023/08/20/death-toll-summer-heat/</loc>
         <news:news>
           <news:publication>
             <news:name>Major Digest</news:name>
             <news:language>en</news:language>
           </news:publication>
           <news:publication_date>2023-08-20T11:00:00.000Z</news:publication_date>
-          <news:title>Biden faces calls to declare climate emergency as he heads to Maui</news:title>
+          <news:title>&#8216;The heat&#8217;s different now&#8217;: Why the U.S. was unprepared for a deadly summer</news:title>
         </news:news>
         <image:image>
-          <image:loc>https://majordigest.com/politics/2023/08/20/biden-climate-emergency-hawaii/biden-climate-emergency-hawaii.webp</image:loc>
+          <image:loc>https://majordigest.com/politics/2023/08/20/death-toll-summer-heat/death-toll-summer-heat.webp</image:loc>
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/politics/2023/08/20/racing-against-clock-gop-presidential-longshots-work-furiously-qualify-first-republican-debate/</loc>
+        <loc>https://majordigest.com/politics/2023/08/21/president-biden-jill-visit-hawaii-first-time-since-wildfires-devastated-maui/</loc>
         <news:news>
           <news:publication>
             <news:name>Major Digest</news:name>
             <news:language>en</news:language>
           </news:publication>
-          <news:publication_date>2023-08-20T18:21:17.000Z</news:publication_date>
-          <news:title>Racing against the clock: GOP presidential long shots work furiously to qualify for first Republican debate</news:title>
+          <news:publication_date>2023-08-21T11:35:37.000Z</news:publication_date>
+          <news:title>President Biden, Jill visit Hawaii for first time since wildfires devastated Maui</news:title>
         </news:news>
         <image:image>
-          <image:loc>https://majordigest.com/politics/2023/08/20/racing-against-clock-gop-presidential-longshots-work-furiously-qualify-first-republican-debate/racing-against-clock-gop-presidential-longshots-work-furiously-qualify-first-republican-debate.webp</image:loc>
+          <image:loc>https://majordigest.com/politics/2023/08/21/president-biden-jill-visit-hawaii-first-time-since-wildfires-devastated-maui/president-biden-jill-visit-hawaii-first-time-since-wildfires-devastated-maui.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/politics/2023/08/20/biden-fema-chief-warns-disaster-relief-funding-shortage-maui-devastation-california-braces-storm/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-20T16:49:09.000Z</news:publication_date>
+          <news:title>Biden FEMA chief warns of disaster relief funding shortage after Maui fires, as California braces for storm</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/politics/2023/08/20/biden-fema-chief-warns-disaster-relief-funding-shortage-maui-devastation-california-braces-storm/biden-fema-chief-warns-disaster-relief-funding-shortage-maui-devastation-california-braces-storm.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -87,30 +73,86 @@
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/politics/2023/08/20/ramaswamy-changes-tune-trump-ahead-gop-debate-not-same-donald-trump/</loc>
+        <loc>https://majordigest.com/politics/2023/08/20/biden-climate-emergency-hawaii/</loc>
         <news:news>
           <news:publication>
             <news:name>Major Digest</news:name>
             <news:language>en</news:language>
           </news:publication>
-          <news:publication_date>2023-08-20T16:28:04.000Z</news:publication_date>
-          <news:title>Ramaswamy changes tune from previous comments on Trump ahead of GOP debate: &#8216;Not the same Donald Trump&#8217;</news:title>
+          <news:publication_date>2023-08-20T11:00:00.000Z</news:publication_date>
+          <news:title>Biden faces calls to declare climate emergency as he heads to Maui</news:title>
         </news:news>
         <image:image>
-          <image:loc>https://majordigest.com/politics/2023/08/20/ramaswamy-changes-tune-trump-ahead-gop-debate-not-same-donald-trump/ramaswamy-changes-tune-trump-ahead-gop-debate-not-same-donald-trump.webp</image:loc>
+          <image:loc>https://majordigest.com/politics/2023/08/20/biden-climate-emergency-hawaii/biden-climate-emergency-hawaii.webp</image:loc>
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/politics/2023/08/21/ramaswamy-earns-second-presidential-endorsement-iowa-treasurer-roby-smith/</loc>
+        <loc>https://majordigest.com/politics/2023/08/20/critics-rip-desantis-trump-comment-say-makes-him-sound-crooked-hillary/</loc>
         <news:news>
           <news:publication>
             <news:name>Major Digest</news:name>
             <news:language>en</news:language>
           </news:publication>
-          <news:publication_date>2023-08-21T11:00:52.000Z</news:publication_date>
-          <news:title>Ramaswamy earns second presidential endorsement from Iowa official in Treasurer Roby Smith</news:title>
+          <news:publication_date>2023-08-20T20:21:17.000Z</news:publication_date>
+          <news:title>Critics rip DeSantis for Trump comment they say makes him sound like 'Crooked Hillary'</news:title>
         </news:news>
         <image:image>
-          <image:loc>https://majordigest.com/politics/2023/08/21/ramaswamy-earns-second-presidential-endorsement-iowa-treasurer-roby-smith/ramaswamy-earns-second-presidential-endorsement-iowa-treasurer-roby-smith.webp</image:loc>
+          <image:loc>https://majordigest.com/politics/2023/08/20/critics-rip-desantis-trump-comment-say-makes-him-sound-crooked-hillary/critics-rip-desantis-trump-comment-say-makes-him-sound-crooked-hillary.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/politics/2023/08/20/white-house-hopeful-optimistic-trump-make-last-minute-decision-join-first-gop-debate/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-20T18:32:20.000Z</news:publication_date>
+          <news:title>White House hopeful optimistic Trump will make last-minute decision to join first GOP debate</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/politics/2023/08/20/white-house-hopeful-optimistic-trump-make-last-minute-decision-join-first-gop-debate/white-house-hopeful-optimistic-trump-make-last-minute-decision-join-first-gop-debate.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/politics/2023/08/21/atlanta-center-stage-donald-trump-trial/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-21T08:30:00.000Z</news:publication_date>
+          <news:title>&#8216;Dr. King Is Smiling&#8217;: Atlanta Takes Center Stage in the Political Trial of the Century</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/politics/2023/08/21/atlanta-center-stage-donald-trump-trial/atlanta-center-stage-donald-trump-trial.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/politics/2023/08/21/new-york-redistricting-2024-elections/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-21T09:00:00.000Z</news:publication_date>
+          <news:title>New district lines will scramble key New York House races</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/politics/2023/08/21/new-york-redistricting-2024-elections/new-york-redistricting-2024-elections.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/politics/2023/08/21/universal-service-fund-broadband/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-21T09:00:00.000Z</news:publication_date>
+          <news:title>This 26-year-old federal fund evolved to fight the 'digital divide.' Now a court might throw it out.</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/politics/2023/08/21/universal-service-fund-broadband/universal-service-fund-broadband.webp</image:loc>
         </image:image>
       </url></urlset>
