@@ -3,31 +3,59 @@
               xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
               xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
       <url>
-        <loc>https://majordigest.com/politics/2023/08/21/kamala-harris-second-act/</loc>
+        <loc>https://majordigest.com/politics/2023/08/21/atlanta-center-stage-donald-trump-trial/</loc>
         <news:news>
           <news:publication>
             <news:name>Major Digest</news:name>
             <news:language>en</news:language>
           </news:publication>
           <news:publication_date>2023-08-21T08:30:00.000Z</news:publication_date>
-          <news:title>'I can't get into people's heads': Kamala Harris tries to reshape her public image ahead of 2024</news:title>
+          <news:title>&#8216;We&#8217;re Loving It&#8217; &#8212; Atlanta Reacts to Donald Trump&#8217;s Indictment</news:title>
         </news:news>
         <image:image>
-          <image:loc>https://majordigest.com/politics/2023/08/21/kamala-harris-second-act/kamala-harris-second-act.webp</image:loc>
+          <image:loc>https://majordigest.com/politics/2023/08/21/atlanta-center-stage-donald-trump-trial/atlanta-center-stage-donald-trump-trial.webp</image:loc>
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/politics/2023/08/21/vivek-ramaswamy-preps-upcoming-republican-debate-shirtless-tennis/</loc>
+        <loc>https://majordigest.com/politics/2023/08/21/universal-service-fund-broadband/</loc>
         <news:news>
           <news:publication>
             <news:name>Major Digest</news:name>
             <news:language>en</news:language>
           </news:publication>
-          <news:publication_date>2023-08-21T22:17:22.000Z</news:publication_date>
-          <news:title>Vivek Ramaswamy preps for upcoming Republican debate with shirtless tennis</news:title>
+          <news:publication_date>2023-08-21T09:00:00.000Z</news:publication_date>
+          <news:title>A court might kill the Universal Service Fund. Even some Republicans fear the outcome.</news:title>
         </news:news>
         <image:image>
-          <image:loc>https://majordigest.com/politics/2023/08/21/vivek-ramaswamy-preps-upcoming-republican-debate-shirtless-tennis/vivek-ramaswamy-preps-upcoming-republican-debate-shirtless-tennis.webp</image:loc>
+          <image:loc>https://majordigest.com/politics/2023/08/21/universal-service-fund-broadband/universal-service-fund-broadband.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/politics/2023/08/21/chip-roy-gop-colleagues-sound-alarm-ccp-linked-money-nih-employees/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-21T17:20:38.000Z</news:publication_date>
+          <news:title>Chip Roy, GOP colleagues sound alarm over CCP-linked money reportedly going to NIH employees</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/politics/2023/08/21/chip-roy-gop-colleagues-sound-alarm-ccp-linked-money-nih-employees/chip-roy-gop-colleagues-sound-alarm-ccp-linked-money-nih-employees.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/politics/2023/08/21/swing-state-democrat-cozies-up-biden-consequential-senate-race-president-poor-polling/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-21T20:16:40.000Z</news:publication_date>
+          <news:title>Swing state Democrat cozies up to Biden ahead of consequential Senate race despite president's poor polling</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/politics/2023/08/21/swing-state-democrat-cozies-up-biden-consequential-senate-race-president-poor-polling/swing-state-democrat-cozies-up-biden-consequential-senate-race-president-poor-polling.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -45,31 +73,31 @@
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/politics/2023/08/21/ilhan-omar-bipartisan-israel-group-aipac-dark-money-campaign/</loc>
+        <loc>https://majordigest.com/politics/2023/08/21/trump-is-barely-campaigning-in-iowa-hes-still-crushing-the-field-there/</loc>
         <news:news>
           <news:publication>
             <news:name>Major Digest</news:name>
             <news:language>en</news:language>
           </news:publication>
-          <news:publication_date>2023-08-21T19:59:30.000Z</news:publication_date>
-          <news:title>Ilhan Omar calls Israel lobby AIPAC a 'right-wing' PAC funded by 'dark money'</news:title>
+          <news:publication_date>2023-08-21T20:26:11.000Z</news:publication_date>
+          <news:title>It&#8217;s more than a poll. The Iowa survey is grim news for everyone but Trump.</news:title>
         </news:news>
         <image:image>
-          <image:loc>https://majordigest.com/politics/2023/08/21/ilhan-omar-bipartisan-israel-group-aipac-dark-money-campaign/ilhan-omar-bipartisan-israel-group-aipac-dark-money-campaign.webp</image:loc>
+          <image:loc>https://majordigest.com/politics/2023/08/21/trump-is-barely-campaigning-in-iowa-hes-still-crushing-the-field-there/trump-is-barely-campaigning-in-iowa-hes-still-crushing-the-field-there.webp</image:loc>
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/politics/2023/08/21/alabama-ag-calls-investigation-bidens-reversal-space-command-hq/</loc>
+        <loc>https://majordigest.com/politics/2023/08/21/nikki-haley-slams-ramaswamy-proposal-cut-most-israel-aid-2028-concerning-pattern/</loc>
         <news:news>
           <news:publication>
             <news:name>Major Digest</news:name>
             <news:language>en</news:language>
           </news:publication>
-          <news:publication_date>2023-08-21T21:13:35.000Z</news:publication_date>
-          <news:title>Alabama AG calls for investigation into Biden's reversal on Space Command HQ</news:title>
+          <news:publication_date>2023-08-21T19:27:12.000Z</news:publication_date>
+          <news:title>Nikki Haley slams Ramaswamy over proposal to cut off most Israel aid by 2028: 'Concerning pattern'</news:title>
         </news:news>
         <image:image>
-          <image:loc>https://majordigest.com/politics/2023/08/21/alabama-ag-calls-investigation-bidens-reversal-space-command-hq/alabama-ag-calls-investigation-bidens-reversal-space-command-hq.webp</image:loc>
+          <image:loc>https://majordigest.com/politics/2023/08/21/nikki-haley-slams-ramaswamy-proposal-cut-most-israel-aid-2028-concerning-pattern/nikki-haley-slams-ramaswamy-proposal-cut-most-israel-aid-2028-concerning-pattern.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -87,17 +115,31 @@
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/politics/2023/08/21/atlanta-center-stage-donald-trump-trial/</loc>
+        <loc>https://majordigest.com/politics/2023/08/21/ilhan-omar-bipartisan-israel-group-aipac-dark-money-campaign/</loc>
         <news:news>
           <news:publication>
             <news:name>Major Digest</news:name>
             <news:language>en</news:language>
           </news:publication>
-          <news:publication_date>2023-08-21T08:30:00.000Z</news:publication_date>
-          <news:title>&#8216;We&#8217;re Loving It&#8217; &#8212; Atlanta Reacts to Donald Trump&#8217;s Indictment</news:title>
+          <news:publication_date>2023-08-21T19:59:30.000Z</news:publication_date>
+          <news:title>Ilhan Omar calls Israel lobby AIPAC a 'right-wing' PAC funded by 'dark money'</news:title>
         </news:news>
         <image:image>
-          <image:loc>https://majordigest.com/politics/2023/08/21/atlanta-center-stage-donald-trump-trial/atlanta-center-stage-donald-trump-trial.webp</image:loc>
+          <image:loc>https://majordigest.com/politics/2023/08/21/ilhan-omar-bipartisan-israel-group-aipac-dark-money-campaign/ilhan-omar-bipartisan-israel-group-aipac-dark-money-campaign.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/politics/2023/08/21/house-freedom-caucus-potential-shutdown/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-21T15:31:50.000Z</news:publication_date>
+          <news:title>House Freedom Caucus rolls out demands to avoid shutdown</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/politics/2023/08/21/house-freedom-caucus-potential-shutdown/house-freedom-caucus-potential-shutdown.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -108,23 +150,9 @@
             <news:language>en</news:language>
           </news:publication>
           <news:publication_date>2023-08-21T21:15:40.000Z</news:publication_date>
-          <news:title>Trump bond set at $200,000 after Georgia indictment</news:title>
+          <news:title>Trump bond set at $200,000 after Georgia indictment; he will be processed Thursday</news:title>
         </news:news>
         <image:image>
           <image:loc>https://majordigest.com/politics/2023/08/21/trump-bond-set-at-200k-after-georgia-indictment/trump-bond-set-at-200k-after-georgia-indictment.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/politics/2023/08/21/president-ala-parents-angry-white-mob-kids-libraries-queerness/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-21T19:43:53.000Z</news:publication_date>
-          <news:title>'Marxist lesbian' library group president denounced 'angry, White mob parents' in push for 'queerness'</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/politics/2023/08/21/president-ala-parents-angry-white-mob-kids-libraries-queerness/president-ala-parents-angry-white-mob-kids-libraries-queerness.webp</image:loc>
         </image:image>
       </url></urlset>
