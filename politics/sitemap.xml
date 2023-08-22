@@ -3,115 +3,17 @@
               xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
               xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
       <url>
-        <loc>https://majordigest.com/politics/2023/08/22/trump-indictment-false-electors/</loc>
+        <loc>https://majordigest.com/politics/2023/08/22/whistleblower-to-doj-youve-left-the-door-open-for-more-fraud/</loc>
         <news:news>
           <news:publication>
             <news:name>Major Digest</news:name>
             <news:language>en</news:language>
           </news:publication>
-          <news:publication_date>2023-08-22T14:17:15.000Z</news:publication_date>
-          <news:title>Trump attorneys guided false electors in Georgia, GOP chair says</news:title>
+          <news:publication_date>2023-08-22T08:30:00.000Z</news:publication_date>
+          <news:title>Whistleblower to DOJ: You&#8217;ve left the door open for more fraud</news:title>
         </news:news>
         <image:image>
-          <image:loc>https://majordigest.com/politics/2023/08/22/trump-indictment-false-electors/trump-indictment-false-electors.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/politics/2023/08/22/top-gop-leaders-say-bidens-6-billion-deal-with-iran-to-free-american-prisoners-sets-dangerous-precedent/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-22T17:07:51.000Z</news:publication_date>
-          <news:title>GOP senators call Biden's $6B deal with Iran to free Americans 'ransom,' sets 'dangerous precedent'</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/politics/2023/08/22/top-gop-leaders-say-bidens-6-billion-deal-with-iran-to-free-american-prisoners-sets-dangerous-precedent/top-gop-leaders-say-bidens-6-billion-deal-with-iran-to-free-american-prisoners-sets-dangerous-precedent.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/politics/2023/08/22/georgia-indictment-2-trump-co-defendants-booked-fulton-county-jail/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-22T16:58:11.000Z</news:publication_date>
-          <news:title>Georgia indictment: 2 Trump co-defendants booked in Fulton County jail</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/politics/2023/08/22/georgia-indictment-2-trump-co-defendants-booked-fulton-county-jail/georgia-indictment-2-trump-co-defendants-booked-fulton-county-jail.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/politics/2023/08/22/republican-debate-trump-skip/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-22T15:19:26.000Z</news:publication_date>
-          <news:title>Remember &#8216;small hands&#8217; and the menstruation taunts? Looking back at Trump&#8217;s biggest GOP debate moments</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/politics/2023/08/22/republican-debate-trump-skip/republican-debate-trump-skip.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/politics/2023/08/22/democrat-pushes-strip-lawmakers-name-senate-building-richard-russell/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-22T17:16:01.000Z</news:publication_date>
-          <news:title>'A bigot and a racist': Democrat pushes to strip lawmaker's name from Senate building</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/politics/2023/08/22/democrat-pushes-strip-lawmakers-name-senate-building-richard-russell/democrat-pushes-strip-lawmakers-name-senate-building-richard-russell.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/politics/2023/08/22/uw-system-request-15m-withheld-funds-legislature/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-22T17:28:37.000Z</news:publication_date>
-          <news:title>UW System to request $15M in withheld funds from Legislature</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/politics/2023/08/22/uw-system-request-15m-withheld-funds-legislature/uw-system-request-15m-withheld-funds-legislature.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/politics/2023/08/22/democrats-book-plane-fly-anti-maga-banner-gop-debate-milwaukee/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-22T18:24:14.000Z</news:publication_date>
-          <news:title>Democrats book plane to fly anti-MAGA banner over GOP debate in Milwaukee</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/politics/2023/08/22/democrats-book-plane-fly-anti-maga-banner-gop-debate-milwaukee/democrats-book-plane-fly-anti-maga-banner-gop-debate-milwaukee.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/politics/2023/08/22/wisconsin-spotlight-ahead-2024-election/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-22T16:55:31.000Z</news:publication_date>
-          <news:title>Wisconsin in the spotlight ahead of 2024 election</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/politics/2023/08/22/wisconsin-spotlight-ahead-2024-election/wisconsin-spotlight-ahead-2024-election.webp</image:loc>
+          <image:loc>https://majordigest.com/politics/2023/08/22/whistleblower-to-doj-youve-left-the-door-open-for-more-fraud/whistleblower-to-doj-youve-left-the-door-open-for-more-fraud.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -129,20 +31,6 @@
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/politics/2023/08/22/whistleblower-to-doj-youve-left-the-door-open-for-more-fraud/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-22T08:30:00.000Z</news:publication_date>
-          <news:title>Whistleblower to DOJ: You&#8217;ve left the door open for more fraud</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/politics/2023/08/22/whistleblower-to-doj-youve-left-the-door-open-for-more-fraud/whistleblower-to-doj-youve-left-the-door-open-for-more-fraud.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
         <loc>https://majordigest.com/politics/2023/08/21/trump-is-barely-campaigning-in-iowa-hes-still-crushing-the-field-there/</loc>
         <news:news>
           <news:publication>
@@ -154,5 +42,47 @@
         </news:news>
         <image:image>
           <image:loc>https://majordigest.com/politics/2023/08/21/trump-is-barely-campaigning-in-iowa-hes-still-crushing-the-field-there/trump-is-barely-campaigning-in-iowa-hes-still-crushing-the-field-there.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/politics/2023/08/22/republican-debate-trump-skip/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-22T15:19:26.000Z</news:publication_date>
+          <news:title>Remember &#8216;small hands&#8217; and the menstruation taunts? Looking back at Trump&#8217;s biggest GOP debate moments</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/politics/2023/08/22/republican-debate-trump-skip/republican-debate-trump-skip.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/politics/2023/08/22/gop-congressman-hit-ethics-complaint-condemning-christian-social-media-post/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-22T19:46:28.000Z</news:publication_date>
+          <news:title>GOP congressman hit with ethics complaint for condemning Christian social media post</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/politics/2023/08/22/gop-congressman-hit-ethics-complaint-condemning-christian-social-media-post/gop-congressman-hit-ethics-complaint-condemning-christian-social-media-post.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/politics/2023/08/22/biden-blasted-comparing-kitchen-fire-home-devastating-maui-blaze-absolutely-disgusting/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-22T20:05:11.000Z</news:publication_date>
+          <news:title>Biden blasted for comparing kitchen fire in his home to devastating Maui blaze: 'Absolutely disgusting'</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/politics/2023/08/22/biden-blasted-comparing-kitchen-fire-home-devastating-maui-blaze-absolutely-disgusting/biden-blasted-comparing-kitchen-fire-home-devastating-maui-blaze-absolutely-disgusting.webp</image:loc>
         </image:image>
       </url></urlset>
