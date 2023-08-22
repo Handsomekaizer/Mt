@@ -3,31 +3,17 @@
               xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
               xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
       <url>
-        <loc>https://majordigest.com/world/2023/08/22/11-killed-chinese-coal-mine-explosion/</loc>
+        <loc>https://majordigest.com/world/2023/08/22/kenyan-officials-explore-best-way-fight-haitian-gang-violence/</loc>
         <news:news>
           <news:publication>
             <news:name>Major Digest</news:name>
             <news:language>en</news:language>
           </news:publication>
-          <news:publication_date>2023-08-22T13:19:14.000Z</news:publication_date>
-          <news:title>11 killed in Chinese coal mine explosion</news:title>
+          <news:publication_date>2023-08-22T15:08:12.000Z</news:publication_date>
+          <news:title>Kenyan officials explore best way to fight Haitian gang violence</news:title>
         </news:news>
         <image:image>
-          <image:loc>https://majordigest.com/world/2023/08/22/11-killed-chinese-coal-mine-explosion/11-killed-chinese-coal-mine-explosion.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/world/2023/08/22/ex-central-african-republic-minister-denies-involvement-war-crimes-icc-hearing/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-22T13:04:15.000Z</news:publication_date>
-          <news:title>Ex-Central African Republic minister denies involvement in war crimes at ICC hearing</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/world/2023/08/22/ex-central-african-republic-minister-denies-involvement-war-crimes-icc-hearing/ex-central-african-republic-minister-denies-involvement-war-crimes-icc-hearing.webp</image:loc>
+          <image:loc>https://majordigest.com/world/2023/08/22/kenyan-officials-explore-best-way-fight-haitian-gang-violence/kenyan-officials-explore-best-way-fight-haitian-gang-violence.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -45,6 +31,76 @@
         </image:image>
       </url>
       <url>
+        <loc>https://majordigest.com/world/2023/08/22/ex-central-african-republic-minister-denies-involvement-war-crimes-icc-hearing/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-22T13:04:15.000Z</news:publication_date>
+          <news:title>Ex-Central African Republic minister denies involvement in war crimes at ICC hearing</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/world/2023/08/22/ex-central-african-republic-minister-denies-involvement-war-crimes-icc-hearing/ex-central-african-republic-minister-denies-involvement-war-crimes-icc-hearing.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/world/2023/08/22/11-killed-chinese-coal-mine-explosion/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-22T13:19:14.000Z</news:publication_date>
+          <news:title>11 killed in Chinese coal mine explosion</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/world/2023/08/22/11-killed-chinese-coal-mine-explosion/11-killed-chinese-coal-mine-explosion.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/world/2023/08/22/2-us-service-members-arrested-connection-fatal-stabbing-germany/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-22T14:53:04.000Z</news:publication_date>
+          <news:title>2 US service members arrested in connection to fatal stabbing in Germany</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/world/2023/08/22/2-us-service-members-arrested-connection-fatal-stabbing-germany/2-us-service-members-arrested-connection-fatal-stabbing-germany.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/world/2023/08/22/jailed-hong-kong-college-student-loses-bid-reduce-prison-sentence-breaking-china-imposed-security-law/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-22T14:58:24.000Z</news:publication_date>
+          <news:title>Jailed Hong Kong college student loses bid to reduce prison sentence after breaking China-imposed security law</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/world/2023/08/22/jailed-hong-kong-college-student-loses-bid-reduce-prison-sentence-breaking-china-imposed-security-law/jailed-hong-kong-college-student-loses-bid-reduce-prison-sentence-breaking-china-imposed-security-law.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/world/2023/08/22/hunters-take-out-serial-cow-killing-ninja-bear-japan/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-22T14:18:11.000Z</news:publication_date>
+          <news:title>Hunters take out serial cow-killing 'Ninja' bear in Japan</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/world/2023/08/22/hunters-take-out-serial-cow-killing-ninja-bear-japan/hunters-take-out-serial-cow-killing-ninja-bear-japan.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
         <loc>https://majordigest.com/world/2023/08/22/japan-release-fukushima-nuclear-wastewater-ocean-thursday/</loc>
         <news:news>
           <news:publication>
@@ -56,33 +112,5 @@
         </news:news>
         <image:image>
           <image:loc>https://majordigest.com/world/2023/08/22/japan-release-fukushima-nuclear-wastewater-ocean-thursday/japan-release-fukushima-nuclear-wastewater-ocean-thursday.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/world/2023/08/22/200-afghan-government-officials-security-forces-killed-taliban-takeover-un/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-22T14:00:38.000Z</news:publication_date>
-          <news:title>More than 200 Afghan government officials, security forces killed following Taliban takeover: UN</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/world/2023/08/22/200-afghan-government-officials-security-forces-killed-taliban-takeover-un/200-afghan-government-officials-security-forces-killed-taliban-takeover-un.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/world/2023/08/22/pakistan-children-teachers-trapped-gondola-nearly-1000-feet-cable-snaps/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-22T13:03:40.000Z</news:publication_date>
-          <news:title>Pakistan's military rescues 2 children from gondola trapped nearly 1,000 feet up after cable snaps</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/world/2023/08/22/pakistan-children-teachers-trapped-gondola-nearly-1000-feet-cable-snaps/pakistan-children-teachers-trapped-gondola-nearly-1000-feet-cable-snaps.webp</image:loc>
         </image:image>
       </url></urlset>

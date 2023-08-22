@@ -3,20 +3,6 @@
               xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
               xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
       <url>
-        <loc>https://majordigest.com/us/2023/08/22/minnesota-taxpayers-begin-receive-rebates-1300-following-budget-surplus-billions-dollars/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-22T14:57:16.000Z</news:publication_date>
-          <news:title>Minnesota taxpayers begin to receive rebates of up to $1,300 following a budget surplus of billions of dollars</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/us/2023/08/22/minnesota-taxpayers-begin-receive-rebates-1300-following-budget-surplus-billions-dollars/minnesota-taxpayers-begin-receive-rebates-1300-following-budget-surplus-billions-dollars.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
         <loc>https://majordigest.com/us/2023/08/22/alaska-airlines-passengers-scream-plane-makes-hard-landing-tropical-storm-hilary-sparks-outside/</loc>
         <news:news>
           <news:publication>
@@ -31,6 +17,76 @@
         </image:image>
       </url>
       <url>
+        <loc>https://majordigest.com/us/2023/08/22/massachusetts-man-sentenced-3-years-rhode-island-stealing-1-million-employer/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-22T16:16:47.000Z</news:publication_date>
+          <news:title>Massachusetts man sentenced to 3 years in Rhode Island for stealing $1 million from employer</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/us/2023/08/22/massachusetts-man-sentenced-3-years-rhode-island-stealing-1-million-employer/massachusetts-man-sentenced-3-years-rhode-island-stealing-1-million-employer.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/us/2023/08/22/ohio-prosecutor-asks-judge-drop-charges-against-black-truck-driver-mauled-police-dog/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-22T15:30:22.000Z</news:publication_date>
+          <news:title>Ohio prosecutor asks judge to drop charges against Black truck driver mauled by police dog</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/us/2023/08/22/ohio-prosecutor-asks-judge-drop-charges-against-black-truck-driver-mauled-police-dog/ohio-prosecutor-asks-judge-drop-charges-against-black-truck-driver-mauled-police-dog.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/us/2023/08/22/bryan-kohberger-kicked-out-high-school-cop-classes-after-girls-complained-former-administrator-says/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-22T16:10:48.000Z</news:publication_date>
+          <news:title>Bryan Kohberger kicked out of high school cop classes after girls complained, former administrator says</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/us/2023/08/22/bryan-kohberger-kicked-out-high-school-cop-classes-after-girls-complained-former-administrator-says/bryan-kohberger-kicked-out-high-school-cop-classes-after-girls-complained-former-administrator-says.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/us/2023/08/22/ks-department-revenue-official-says-initial-search-led-raid-kansas-newspaper-legal/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-22T15:29:25.000Z</news:publication_date>
+          <news:title>KS department of Revenue official says initial search that led to raid of Kansas newspaper was legal</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/us/2023/08/22/ks-department-revenue-official-says-initial-search-led-raid-kansas-newspaper-legal/ks-department-revenue-official-says-initial-search-led-raid-kansas-newspaper-legal.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/us/2023/08/22/minnesota-taxpayers-begin-receive-rebates-1300-following-budget-surplus-billions-dollars/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-22T14:57:16.000Z</news:publication_date>
+          <news:title>Minnesota taxpayers begin to receive rebates of up to $1,300 following a budget surplus of billions of dollars</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/us/2023/08/22/minnesota-taxpayers-begin-receive-rebates-1300-following-budget-surplus-billions-dollars/minnesota-taxpayers-begin-receive-rebates-1300-following-budget-surplus-billions-dollars.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
         <loc>https://majordigest.com/us/2023/08/22/new-york-ag-opens-probe-nyc-contractor-accused-threatening-migrants-interfering-police/</loc>
         <news:news>
           <news:publication>
@@ -42,33 +98,5 @@
         </news:news>
         <image:image>
           <image:loc>https://majordigest.com/us/2023/08/22/new-york-ag-opens-probe-nyc-contractor-accused-threatening-migrants-interfering-police/new-york-ag-opens-probe-nyc-contractor-accused-threatening-migrants-interfering-police.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/us/2023/08/22/wealthy-dentist-fatally-shot-wife-african-safari-sentenced-life-prison/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-22T12:00:47.000Z</news:publication_date>
-          <news:title>Wealthy dentist who fatally shot wife on African safari sentenced to life in prison</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/us/2023/08/22/wealthy-dentist-fatally-shot-wife-african-safari-sentenced-life-prison/wealthy-dentist-fatally-shot-wife-african-safari-sentenced-life-prison.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/us/2023/08/22/texas-homeowner-catches-alleged-burglar-holds-him-gunpoint-for-cops/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-22T13:50:38.000Z</news:publication_date>
-          <news:title>Texas homeowner catches alleged burglar, holds him at gunpoint for cops</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/us/2023/08/22/texas-homeowner-catches-alleged-burglar-holds-him-gunpoint-for-cops/texas-homeowner-catches-alleged-burglar-holds-him-gunpoint-for-cops.webp</image:loc>
         </image:image>
       </url></urlset>
