@@ -3,17 +3,31 @@
               xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
               xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
       <url>
-        <loc>https://majordigest.com/world/2023/08/22/2-us-service-members-arrested-connection-fatal-stabbing-germany/</loc>
+        <loc>https://majordigest.com/world/2023/08/22/decades-old-remains-discovered-austrian-glacier-suspected-alpine-accident-victim-high-altitude/</loc>
         <news:news>
           <news:publication>
             <news:name>Major Digest</news:name>
             <news:language>en</news:language>
           </news:publication>
-          <news:publication_date>2023-08-22T14:53:04.000Z</news:publication_date>
-          <news:title>2 US service members arrested in connection to fatal stabbing in Germany</news:title>
+          <news:publication_date>2023-08-22T17:00:59.000Z</news:publication_date>
+          <news:title>Decades-old remains discovered on Austrian glacier: Suspected alpine accident victim found at high altitude</news:title>
         </news:news>
         <image:image>
-          <image:loc>https://majordigest.com/world/2023/08/22/2-us-service-members-arrested-connection-fatal-stabbing-germany/2-us-service-members-arrested-connection-fatal-stabbing-germany.webp</image:loc>
+          <image:loc>https://majordigest.com/world/2023/08/22/decades-old-remains-discovered-austrian-glacier-suspected-alpine-accident-victim-high-altitude/decades-old-remains-discovered-austrian-glacier-suspected-alpine-accident-victim-high-altitude.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/world/2023/08/22/stone-carvers-maintain-tradition-urban-sprawl-mexico-city-swallows-ancient-town-xochiaca/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-22T17:15:14.000Z</news:publication_date>
+          <news:title>Stone carvers maintain tradition after urban sprawl of Mexico City swallows ancient town of Xochiaca</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/world/2023/08/22/stone-carvers-maintain-tradition-urban-sprawl-mexico-city-swallows-ancient-town-xochiaca/stone-carvers-maintain-tradition-urban-sprawl-mexico-city-swallows-ancient-town-xochiaca.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -31,90 +45,6 @@
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/world/2023/08/22/rising-toll-child-hunger-500-children-perish-starvation-amid-sudans-ongoing-conflict/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-22T17:02:32.000Z</news:publication_date>
-          <news:title>Rising toll of child hunger: Over 500 children perish from starvation amid Sudan's ongoing conflict</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/world/2023/08/22/rising-toll-child-hunger-500-children-perish-starvation-amid-sudans-ongoing-conflict/rising-toll-child-hunger-500-children-perish-starvation-amid-sudans-ongoing-conflict.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/world/2023/08/22/japan-release-fukushima-nuclear-wastewater-ocean-thursday/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-22T14:45:12.000Z</news:publication_date>
-          <news:title>Japan to release Fukushima nuclear wastewater into ocean on Thursday</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/world/2023/08/22/japan-release-fukushima-nuclear-wastewater-ocean-thursday/japan-release-fukushima-nuclear-wastewater-ocean-thursday.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/world/2023/08/22/hunters-take-out-serial-cow-killing-ninja-bear-japan/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-22T14:18:11.000Z</news:publication_date>
-          <news:title>Hunters take out serial cow-killing 'Ninja' bear in Japan</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/world/2023/08/22/hunters-take-out-serial-cow-killing-ninja-bear-japan/hunters-take-out-serial-cow-killing-ninja-bear-japan.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/world/2023/08/22/decades-old-remains-discovered-austrian-glacier-suspected-alpine-accident-victim-high-altitude/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-22T17:00:59.000Z</news:publication_date>
-          <news:title>Decades-old remains discovered on Austrian glacier: Suspected alpine accident victim found at high altitude</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/world/2023/08/22/decades-old-remains-discovered-austrian-glacier-suspected-alpine-accident-victim-high-altitude/decades-old-remains-discovered-austrian-glacier-suspected-alpine-accident-victim-high-altitude.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/world/2023/08/22/denmark-begins-f-16-training-for-8-ukrainian-pilots/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-22T15:31:26.000Z</news:publication_date>
-          <news:title>Denmark begins F-16 training for 8 Ukrainian pilots</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/world/2023/08/22/denmark-begins-f-16-training-for-8-ukrainian-pilots/denmark-begins-f-16-training-for-8-ukrainian-pilots.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/world/2023/08/22/jailed-hong-kong-college-student-loses-bid-reduce-prison-sentence-breaking-china-imposed-security-law/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-22T14:58:24.000Z</news:publication_date>
-          <news:title>Jailed Hong Kong college student loses bid to reduce prison sentence after breaking China-imposed security law</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/world/2023/08/22/jailed-hong-kong-college-student-loses-bid-reduce-prison-sentence-breaking-china-imposed-security-law/jailed-hong-kong-college-student-loses-bid-reduce-prison-sentence-breaking-china-imposed-security-law.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
         <loc>https://majordigest.com/world/2023/08/22/ethiopia-probe-alleged-killings-yemen-saudi-border-amid-human-rights-concerns/</loc>
         <news:news>
           <news:publication>
@@ -126,5 +56,47 @@
         </news:news>
         <image:image>
           <image:loc>https://majordigest.com/world/2023/08/22/ethiopia-probe-alleged-killings-yemen-saudi-border-amid-human-rights-concerns/ethiopia-probe-alleged-killings-yemen-saudi-border-amid-human-rights-concerns.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/world/2023/08/22/african-union-suspends-niger-organization-until-constitutional-order-restored/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-22T18:11:06.000Z</news:publication_date>
+          <news:title>African Union suspends Niger from its organization until constitutional order restored</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/world/2023/08/22/african-union-suspends-niger-organization-until-constitutional-order-restored/african-union-suspends-niger-organization-until-constitutional-order-restored.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/world/2023/08/22/37-migrants-senegal-return-home-surviving-monthlong-deadly-voyage-spain/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-22T18:13:17.000Z</news:publication_date>
+          <news:title>37 migrants from Senegal return home after surviving a monthlong deadly voyage toward Spain</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/world/2023/08/22/37-migrants-senegal-return-home-surviving-monthlong-deadly-voyage-spain/37-migrants-senegal-return-home-surviving-monthlong-deadly-voyage-spain.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/world/2023/08/22/student-13-dies-school-bus-sticking-head-window-colliding-pole/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-22T17:37:35.000Z</news:publication_date>
+          <news:title>Student, 13, dies on school bus after sticking head out of window and colliding with pole</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/world/2023/08/22/student-13-dies-school-bus-sticking-head-window-colliding-pole/student-13-dies-school-bus-sticking-head-window-colliding-pole.webp</image:loc>
         </image:image>
       </url></urlset>
