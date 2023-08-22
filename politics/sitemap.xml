@@ -3,101 +3,31 @@
               xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
               xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
       <url>
-        <loc>https://majordigest.com/politics/2023/08/22/trump-booked-in-atlanta/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-22T00:59:11.000Z</news:publication_date>
-          <news:title>Trump says he will be booked Thursday in Atlanta</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/politics/2023/08/22/trump-booked-in-atlanta/trump-booked-in-atlanta.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/politics/2023/08/21/trump-is-barely-campaigning-in-iowa-hes-still-crushing-the-field-there/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-21T20:26:11.000Z</news:publication_date>
-          <news:title>It&#8217;s more than a poll. The Iowa survey is grim news for everyone but Trump.</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/politics/2023/08/21/trump-is-barely-campaigning-in-iowa-hes-still-crushing-the-field-there/trump-is-barely-campaigning-in-iowa-hes-still-crushing-the-field-there.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/politics/2023/08/21/house-freedom-caucus-potential-shutdown/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-21T15:31:50.000Z</news:publication_date>
-          <news:title>House Freedom Caucus rolls out demands to avoid shutdown</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/politics/2023/08/21/house-freedom-caucus-potential-shutdown/house-freedom-caucus-potential-shutdown.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/politics/2023/08/21/alabama-ag-calls-investigation-bidens-reversal-space-command-hq/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-21T21:13:35.000Z</news:publication_date>
-          <news:title>Alabama AG calls for investigation into Biden's reversal on Space Command HQ</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/politics/2023/08/21/alabama-ag-calls-investigation-bidens-reversal-space-command-hq/alabama-ag-calls-investigation-bidens-reversal-space-command-hq.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/politics/2023/08/21/vivek-ramaswamy-preps-upcoming-republican-debate-shirtless-tennis/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-21T22:17:22.000Z</news:publication_date>
-          <news:title>Vivek Ramaswamy preps for upcoming Republican debate with shirtless tennis</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/politics/2023/08/21/vivek-ramaswamy-preps-upcoming-republican-debate-shirtless-tennis/vivek-ramaswamy-preps-upcoming-republican-debate-shirtless-tennis.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/politics/2023/08/22/chris-christie-donald-trump-critic/</loc>
+        <loc>https://majordigest.com/politics/2023/08/22/whistleblower-to-doj-youve-left-the-door-open-for-more-fraud/</loc>
         <news:news>
           <news:publication>
             <news:name>Major Digest</news:name>
             <news:language>en</news:language>
           </news:publication>
           <news:publication_date>2023-08-22T08:30:00.000Z</news:publication_date>
-          <news:title>Chris Christie Is Not Going to Apologize, OK?</news:title>
+          <news:title>Whistleblower to DOJ: You&#8217;ve left the door open for more fraud</news:title>
         </news:news>
         <image:image>
-          <image:loc>https://majordigest.com/politics/2023/08/22/chris-christie-donald-trump-critic/chris-christie-donald-trump-critic.webp</image:loc>
+          <image:loc>https://majordigest.com/politics/2023/08/22/whistleblower-to-doj-youve-left-the-door-open-for-more-fraud/whistleblower-to-doj-youve-left-the-door-open-for-more-fraud.webp</image:loc>
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/politics/2023/08/21/wildfires-california-politicians/</loc>
+        <loc>https://majordigest.com/politics/2023/08/22/watch-hawaii-democrat-biden-drink-water-awkward-moment/</loc>
         <news:news>
           <news:publication>
             <news:name>Major Digest</news:name>
             <news:language>en</news:language>
           </news:publication>
-          <news:publication_date>2023-08-21T23:00:00.000Z</news:publication_date>
-          <news:title>Wildfires are about to burn California politicians</news:title>
+          <news:publication_date>2023-08-22T01:51:38.000Z</news:publication_date>
+          <news:title>WATCH: Hawaii Democrat tries to get Biden to drink water in awkward moment</news:title>
         </news:news>
         <image:image>
-          <image:loc>https://majordigest.com/politics/2023/08/21/wildfires-california-politicians/wildfires-california-politicians.webp</image:loc>
+          <image:loc>https://majordigest.com/politics/2023/08/22/watch-hawaii-democrat-biden-drink-water-awkward-moment/watch-hawaii-democrat-biden-drink-water-awkward-moment.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -115,16 +45,128 @@
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/politics/2023/08/22/watch-hawaii-democrat-biden-drink-water-awkward-moment/</loc>
+        <loc>https://majordigest.com/politics/2023/08/22/house-republican-opposes-temporary-government-funding-bill-congress-faces-messy-spending-battle/</loc>
         <news:news>
           <news:publication>
             <news:name>Major Digest</news:name>
             <news:language>en</news:language>
           </news:publication>
-          <news:publication_date>2023-08-22T01:51:38.000Z</news:publication_date>
-          <news:title>WATCH: Hawaii Democrat tries to get Biden to drink water in awkward moment</news:title>
+          <news:publication_date>2023-08-22T10:00:09.000Z</news:publication_date>
+          <news:title>House Republican says he opposes all temporary government funding bills as shutdown looms</news:title>
         </news:news>
         <image:image>
-          <image:loc>https://majordigest.com/politics/2023/08/22/watch-hawaii-democrat-biden-drink-water-awkward-moment/watch-hawaii-democrat-biden-drink-water-awkward-moment.webp</image:loc>
+          <image:loc>https://majordigest.com/politics/2023/08/22/house-republican-opposes-temporary-government-funding-bill-congress-faces-messy-spending-battle/house-republican-opposes-temporary-government-funding-bill-congress-faces-messy-spending-battle.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/politics/2023/08/22/tennessee-lawmakers-not-expected-touch-gun-control-special-session-despite-recent-school-shooting/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-22T10:56:58.000Z</news:publication_date>
+          <news:title>Tennessee lawmakers not expected to touch on gun-control in special session despite Nashville school shooting</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/politics/2023/08/22/tennessee-lawmakers-not-expected-touch-gun-control-special-session-despite-recent-school-shooting/tennessee-lawmakers-not-expected-touch-gun-control-special-session-despite-recent-school-shooting.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/politics/2023/08/21/trump-bond-set-at-200k-after-georgia-indictment/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-21T21:15:40.000Z</news:publication_date>
+          <news:title>Trump bond set at $200,000 after Georgia indictment; he will be processed Thursday</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/politics/2023/08/21/trump-bond-set-at-200k-after-georgia-indictment/trump-bond-set-at-200k-after-georgia-indictment.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/politics/2023/08/22/new-york-voters-down-on-democrats-over-migrant-crisis-poll-finds/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-22T09:42:32.000Z</news:publication_date>
+          <news:title>New York voters down on Democrats over migrant crisis, poll finds</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/politics/2023/08/22/new-york-voters-down-on-democrats-over-migrant-crisis-poll-finds/new-york-voters-down-on-democrats-over-migrant-crisis-poll-finds.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/politics/2023/08/21/arkansas-department-education-throws-gauntlet-crt-demands-public-schools-turn-over-materials/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-21T21:45:39.000Z</news:publication_date>
+          <news:title>Arkansas Department of Education throws down gauntlet on CRT, demands public schools turn over materials</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/politics/2023/08/21/arkansas-department-education-throws-gauntlet-crt-demands-public-schools-turn-over-materials/arkansas-department-education-throws-gauntlet-crt-demands-public-schools-turn-over-materials.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/politics/2023/08/22/biden-uses-minor-fire-his-house-claim-he-know-what-its-like-lose-home-while-visiting-maui/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-22T02:11:09.000Z</news:publication_date>
+          <news:title>Biden uses minor fire at his house to claim he knows what it's like to lose a home while visiting Maui</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/politics/2023/08/22/biden-uses-minor-fire-his-house-claim-he-know-what-its-like-lose-home-while-visiting-maui/biden-uses-minor-fire-his-house-claim-he-know-what-its-like-lose-home-while-visiting-maui.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/politics/2023/08/22/ramaswamy-already-millionaire-he-accepted-soros-award-he-said-he-needed-pay-law-school/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-22T11:00:34.000Z</news:publication_date>
+          <news:title>Ramaswamy was already millionaire when he accepted Soros award he said he needed to pay for law school</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/politics/2023/08/22/ramaswamy-already-millionaire-he-accepted-soros-award-he-said-he-needed-pay-law-school/ramaswamy-already-millionaire-he-accepted-soros-award-he-said-he-needed-pay-law-school.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/politics/2023/08/22/rnc-announces-candidates-qualified-debate/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-22T10:49:05.000Z</news:publication_date>
+          <news:title>RNC announces 8 candidates have qualified for first debate</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/politics/2023/08/22/rnc-announces-candidates-qualified-debate/rnc-announces-candidates-qualified-debate.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/politics/2023/08/21/house-freedom-caucus-potential-shutdown/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-21T15:31:50.000Z</news:publication_date>
+          <news:title>House Freedom Caucus rolls out demands to avoid shutdown</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/politics/2023/08/21/house-freedom-caucus-potential-shutdown/house-freedom-caucus-potential-shutdown.webp</image:loc>
         </image:image>
       </url></urlset>
