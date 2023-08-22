@@ -3,48 +3,6 @@
               xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
               xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
       <url>
-        <loc>https://majordigest.com/world/2023/08/22/coast-guard-rescues-man-stranded-bahamas-island-three-days-after-sailboat-breaks-down/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-22T02:14:39.000Z</news:publication_date>
-          <news:title>Coast Guard rescues man stranded on Bahamas island for three days after sailboat breaks down</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/world/2023/08/22/coast-guard-rescues-man-stranded-bahamas-island-three-days-after-sailboat-breaks-down/coast-guard-rescues-man-stranded-bahamas-island-three-days-after-sailboat-breaks-down.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/world/2023/08/21/us-citizens-belarus-told-depart-immediately/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-21T21:42:21.000Z</news:publication_date>
-          <news:title>US citizens in Belarus told to &#8216;depart immediately&#8217;</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/world/2023/08/21/us-citizens-belarus-told-depart-immediately/us-citizens-belarus-told-depart-immediately.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/world/2023/08/21/2-remain-hospitalized-bull-running-event-central-mexico-leaves-20-injured/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-21T23:18:22.000Z</news:publication_date>
-          <news:title>2 remain hospitalized after bull-running event in central Mexico leaves about 20 injured</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/world/2023/08/21/2-remain-hospitalized-bull-running-event-central-mexico-leaves-20-injured/2-remain-hospitalized-bull-running-event-central-mexico-leaves-20-injured.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
         <loc>https://majordigest.com/world/2023/08/21/russias-luna-25-lunar-mission-ends-engine-failure-induced-crash/</loc>
         <news:news>
           <news:publication>
@@ -59,30 +17,86 @@
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/world/2023/08/21/wagner-head-prigozhin-says-mercenary-group-making-russia-greater-africa-freer-new-recruitment-video/</loc>
+        <loc>https://majordigest.com/world/2023/08/21/israeli-airstrikes-near-syrian-capital-cause-injury-damage-reports-say/</loc>
         <news:news>
           <news:publication>
             <news:name>Major Digest</news:name>
             <news:language>en</news:language>
           </news:publication>
-          <news:publication_date>2023-08-21T22:42:55.000Z</news:publication_date>
-          <news:title>Wagner head Prigozhin says mercenary group making Russia &#8216;greater,&#8217; Africa &#8216;freer&#8217; in new recruitment video</news:title>
+          <news:publication_date>2023-08-21T23:11:42.000Z</news:publication_date>
+          <news:title>Israeli airstrikes near Syrian capital cause injury and damage, reports say</news:title>
         </news:news>
         <image:image>
-          <image:loc>https://majordigest.com/world/2023/08/21/wagner-head-prigozhin-says-mercenary-group-making-russia-greater-africa-freer-new-recruitment-video/wagner-head-prigozhin-says-mercenary-group-making-russia-greater-africa-freer-new-recruitment-video.webp</image:loc>
+          <image:loc>https://majordigest.com/world/2023/08/21/israeli-airstrikes-near-syrian-capital-cause-injury-damage-reports-say/israeli-airstrikes-near-syrian-capital-cause-injury-damage-reports-say.webp</image:loc>
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/world/2023/08/21/iraqi-oil-minister-visits-ankara-address-energy-issues-resumption-oil-exports/</loc>
+        <loc>https://majordigest.com/world/2023/08/21/dominican-government-offers-financial-aid-families-affected-deadly-factory-explosion/</loc>
         <news:news>
           <news:publication>
             <news:name>Major Digest</news:name>
             <news:language>en</news:language>
           </news:publication>
-          <news:publication_date>2023-08-21T20:27:12.000Z</news:publication_date>
-          <news:title>Iraqi oil minister visits Ankara to address energy issues, including resumption of oil exports</news:title>
+          <news:publication_date>2023-08-21T22:07:16.000Z</news:publication_date>
+          <news:title>Dominican government offers financial aid to families affected by deadly factory explosion</news:title>
         </news:news>
         <image:image>
-          <image:loc>https://majordigest.com/world/2023/08/21/iraqi-oil-minister-visits-ankara-address-energy-issues-resumption-oil-exports/iraqi-oil-minister-visits-ankara-address-energy-issues-resumption-oil-exports.webp</image:loc>
+          <image:loc>https://majordigest.com/world/2023/08/21/dominican-government-offers-financial-aid-families-affected-deadly-factory-explosion/dominican-government-offers-financial-aid-families-affected-deadly-factory-explosion.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/world/2023/08/22/ukrainians-reportedly-boosting-domestic-arms-industry-anticipation-possible-trump-return-office/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-22T12:32:12.000Z</news:publication_date>
+          <news:title>Ukrainians reportedly boosting domestic arms industry in anticipation of possible Trump return to office</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/world/2023/08/22/ukrainians-reportedly-boosting-domestic-arms-industry-anticipation-possible-trump-return-office/ukrainians-reportedly-boosting-domestic-arms-industry-anticipation-possible-trump-return-office.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/world/2023/08/22/us-commerce-secretary-meet-chinese-officials-effort-stabilize-relations/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-22T12:51:06.000Z</news:publication_date>
+          <news:title>US commerce secretary set to meet with Chinese officials in effort to stabilize relations</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/world/2023/08/22/us-commerce-secretary-meet-chinese-officials-effort-stabilize-relations/us-commerce-secretary-meet-chinese-officials-effort-stabilize-relations.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/world/2023/08/22/coast-guard-rescues-man-stranded-bahamas-island-three-days-after-sailboat-breaks-down/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-22T02:14:39.000Z</news:publication_date>
+          <news:title>Coast Guard rescues man stranded on Bahamas island for three days after sailboat breaks down</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/world/2023/08/22/coast-guard-rescues-man-stranded-bahamas-island-three-days-after-sailboat-breaks-down/coast-guard-rescues-man-stranded-bahamas-island-three-days-after-sailboat-breaks-down.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/world/2023/08/22/pakistan-children-teachers-trapped-gondola-nearly-1000-feet-cable-snaps/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-22T13:03:40.000Z</news:publication_date>
+          <news:title>Pakistan children, teachers trapped in gondola nearly 1,000 feet up after cable snaps</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/world/2023/08/22/pakistan-children-teachers-trapped-gondola-nearly-1000-feet-cable-snaps/pakistan-children-teachers-trapped-gondola-nearly-1000-feet-cable-snaps.webp</image:loc>
         </image:image>
       </url></urlset>

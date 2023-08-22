@@ -3,31 +3,17 @@
               xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
               xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
       <url>
-        <loc>https://majordigest.com/us/2023/08/22/judge-decide-texas-keep-buoy-barrier-rio-grande-prevent-migrant-crossings/</loc>
+        <loc>https://majordigest.com/us/2023/08/22/arkansas-top-education-official-review-ap-african-american-studies-materials/</loc>
         <news:news>
           <news:publication>
             <news:name>Major Digest</news:name>
             <news:language>en</news:language>
           </news:publication>
-          <news:publication_date>2023-08-22T10:56:07.000Z</news:publication_date>
-          <news:title>Judge to decide if Texas can keep buoy barrier installed along Rio Grande to prevent migrant crossings</news:title>
+          <news:publication_date>2023-08-22T12:56:29.000Z</news:publication_date>
+          <news:title>Arkansas' top education official set to review AP African American Studies materials</news:title>
         </news:news>
         <image:image>
-          <image:loc>https://majordigest.com/us/2023/08/22/judge-decide-texas-keep-buoy-barrier-rio-grande-prevent-migrant-crossings/judge-decide-texas-keep-buoy-barrier-rio-grande-prevent-migrant-crossings.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/us/2023/08/22/governors-tips-gop-debate-candidates-bidens-bizarre-remarks-hawaii-visit/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-22T10:34:53.000Z</news:publication_date>
-          <news:title>Governor's tips for GOP candidates at debate, Biden's bizarre remarks in Hawaii and more top headlines</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/us/2023/08/22/governors-tips-gop-debate-candidates-bidens-bizarre-remarks-hawaii-visit/governors-tips-gop-debate-candidates-bidens-bizarre-remarks-hawaii-visit.webp</image:loc>
+          <image:loc>https://majordigest.com/us/2023/08/22/arkansas-top-education-official-review-ap-african-american-studies-materials/arkansas-top-education-official-review-ap-african-american-studies-materials.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -42,5 +28,61 @@
         </news:news>
         <image:image>
           <image:loc>https://majordigest.com/us/2023/08/22/federal-judge-decide-texas-can-keep-floating-barrier-us-mexico-border/federal-judge-decide-texas-can-keep-floating-barrier-us-mexico-border.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/us/2023/08/22/cop-critically-wounded-hammer-wielding-animal-with-30-priors-who-should-never-have-been-out-union/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-22T12:00:37.000Z</news:publication_date>
+          <news:title>Cop critically wounded by hammer-wielding 'animal' with 30 priors who 'should never have been out': union</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/us/2023/08/22/cop-critically-wounded-hammer-wielding-animal-with-30-priors-who-should-never-have-been-out-union/cop-critically-wounded-hammer-wielding-animal-with-30-priors-who-should-never-have-been-out-union.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/us/2023/08/22/food-truck-fire-wisconsin-leaves-3-burn-victims-needing-life-support/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-22T11:48:09.000Z</news:publication_date>
+          <news:title>Food truck fire in Wisconsin leaves 3 burn victims needing life support</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/us/2023/08/22/food-truck-fire-wisconsin-leaves-3-burn-victims-needing-life-support/food-truck-fire-wisconsin-leaves-3-burn-victims-needing-life-support.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/us/2023/08/22/wealthy-dentist-fatally-shot-wife-african-safari-sentenced-life-prison/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-22T12:00:47.000Z</news:publication_date>
+          <news:title>Wealthy dentist who fatally shot wife on African safari sentenced to life in prison</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/us/2023/08/22/wealthy-dentist-fatally-shot-wife-african-safari-sentenced-life-prison/wealthy-dentist-fatally-shot-wife-african-safari-sentenced-life-prison.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/us/2023/08/22/utah-state-prisons-lockdown-brawl-involving-15-inmates-multiple-injured/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-22T09:17:50.000Z</news:publication_date>
+          <news:title>Two Utah state prisons placed on lockdown after brawl involving 15 inmates; multiple injured</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/us/2023/08/22/utah-state-prisons-lockdown-brawl-involving-15-inmates-multiple-injured/utah-state-prisons-lockdown-brawl-involving-15-inmates-multiple-injured.webp</image:loc>
         </image:image>
       </url></urlset>
