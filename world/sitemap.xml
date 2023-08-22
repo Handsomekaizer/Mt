@@ -3,62 +3,6 @@
               xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
               xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
       <url>
-        <loc>https://majordigest.com/world/2023/08/22/kenyan-officials-explore-best-way-fight-haitian-gang-violence/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-22T15:08:12.000Z</news:publication_date>
-          <news:title>Kenyan officials explore best way to fight Haitian gang violence</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/world/2023/08/22/kenyan-officials-explore-best-way-fight-haitian-gang-violence/kenyan-officials-explore-best-way-fight-haitian-gang-violence.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/world/2023/08/22/greeces-prime-minister-pledges-keep-military-support-ukraine-as-long-takes/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-22T13:17:42.000Z</news:publication_date>
-          <news:title>Greece's prime minister pledges to keep up military support for Ukraine for as long as it takes</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/world/2023/08/22/greeces-prime-minister-pledges-keep-military-support-ukraine-as-long-takes/greeces-prime-minister-pledges-keep-military-support-ukraine-as-long-takes.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/world/2023/08/22/ex-central-african-republic-minister-denies-involvement-war-crimes-icc-hearing/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-22T13:04:15.000Z</news:publication_date>
-          <news:title>Ex-Central African Republic minister denies involvement in war crimes at ICC hearing</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/world/2023/08/22/ex-central-african-republic-minister-denies-involvement-war-crimes-icc-hearing/ex-central-african-republic-minister-denies-involvement-war-crimes-icc-hearing.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/world/2023/08/22/11-killed-chinese-coal-mine-explosion/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-22T13:19:14.000Z</news:publication_date>
-          <news:title>11 killed in Chinese coal mine explosion</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/world/2023/08/22/11-killed-chinese-coal-mine-explosion/11-killed-chinese-coal-mine-explosion.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
         <loc>https://majordigest.com/world/2023/08/22/2-us-service-members-arrested-connection-fatal-stabbing-germany/</loc>
         <news:news>
           <news:publication>
@@ -73,17 +17,45 @@
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/world/2023/08/22/jailed-hong-kong-college-student-loses-bid-reduce-prison-sentence-breaking-china-imposed-security-law/</loc>
+        <loc>https://majordigest.com/world/2023/08/22/pm-justin-trudeau-thanks-canadians-support-following-separation-wife-18-years/</loc>
         <news:news>
           <news:publication>
             <news:name>Major Digest</news:name>
             <news:language>en</news:language>
           </news:publication>
-          <news:publication_date>2023-08-22T14:58:24.000Z</news:publication_date>
-          <news:title>Jailed Hong Kong college student loses bid to reduce prison sentence after breaking China-imposed security law</news:title>
+          <news:publication_date>2023-08-22T16:36:36.000Z</news:publication_date>
+          <news:title>PM Justin Trudeau thanks Canadians for support following announcement that he and his wife are separating</news:title>
         </news:news>
         <image:image>
-          <image:loc>https://majordigest.com/world/2023/08/22/jailed-hong-kong-college-student-loses-bid-reduce-prison-sentence-breaking-china-imposed-security-law/jailed-hong-kong-college-student-loses-bid-reduce-prison-sentence-breaking-china-imposed-security-law.webp</image:loc>
+          <image:loc>https://majordigest.com/world/2023/08/22/pm-justin-trudeau-thanks-canadians-support-following-separation-wife-18-years/pm-justin-trudeau-thanks-canadians-support-following-separation-wife-18-years.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/world/2023/08/22/rising-toll-child-hunger-500-children-perish-starvation-amid-sudans-ongoing-conflict/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-22T17:02:32.000Z</news:publication_date>
+          <news:title>Rising toll of child hunger: Over 500 children perish from starvation amid Sudan's ongoing conflict</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/world/2023/08/22/rising-toll-child-hunger-500-children-perish-starvation-amid-sudans-ongoing-conflict/rising-toll-child-hunger-500-children-perish-starvation-amid-sudans-ongoing-conflict.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/world/2023/08/22/japan-release-fukushima-nuclear-wastewater-ocean-thursday/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-22T14:45:12.000Z</news:publication_date>
+          <news:title>Japan to release Fukushima nuclear wastewater into ocean on Thursday</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/world/2023/08/22/japan-release-fukushima-nuclear-wastewater-ocean-thursday/japan-release-fukushima-nuclear-wastewater-ocean-thursday.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -101,16 +73,58 @@
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/world/2023/08/22/japan-release-fukushima-nuclear-wastewater-ocean-thursday/</loc>
+        <loc>https://majordigest.com/world/2023/08/22/decades-old-remains-discovered-austrian-glacier-suspected-alpine-accident-victim-high-altitude/</loc>
         <news:news>
           <news:publication>
             <news:name>Major Digest</news:name>
             <news:language>en</news:language>
           </news:publication>
-          <news:publication_date>2023-08-22T14:45:12.000Z</news:publication_date>
-          <news:title>Japan to release Fukushima nuclear wastewater into ocean on Thursday</news:title>
+          <news:publication_date>2023-08-22T17:00:59.000Z</news:publication_date>
+          <news:title>Decades-old remains discovered on Austrian glacier: Suspected alpine accident victim found at high altitude</news:title>
         </news:news>
         <image:image>
-          <image:loc>https://majordigest.com/world/2023/08/22/japan-release-fukushima-nuclear-wastewater-ocean-thursday/japan-release-fukushima-nuclear-wastewater-ocean-thursday.webp</image:loc>
+          <image:loc>https://majordigest.com/world/2023/08/22/decades-old-remains-discovered-austrian-glacier-suspected-alpine-accident-victim-high-altitude/decades-old-remains-discovered-austrian-glacier-suspected-alpine-accident-victim-high-altitude.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/world/2023/08/22/denmark-begins-f-16-training-for-8-ukrainian-pilots/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-22T15:31:26.000Z</news:publication_date>
+          <news:title>Denmark begins F-16 training for 8 Ukrainian pilots</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/world/2023/08/22/denmark-begins-f-16-training-for-8-ukrainian-pilots/denmark-begins-f-16-training-for-8-ukrainian-pilots.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/world/2023/08/22/jailed-hong-kong-college-student-loses-bid-reduce-prison-sentence-breaking-china-imposed-security-law/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-22T14:58:24.000Z</news:publication_date>
+          <news:title>Jailed Hong Kong college student loses bid to reduce prison sentence after breaking China-imposed security law</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/world/2023/08/22/jailed-hong-kong-college-student-loses-bid-reduce-prison-sentence-breaking-china-imposed-security-law/jailed-hong-kong-college-student-loses-bid-reduce-prison-sentence-breaking-china-imposed-security-law.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/world/2023/08/22/ethiopia-probe-alleged-killings-yemen-saudi-border-amid-human-rights-concerns/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-22T17:08:19.000Z</news:publication_date>
+          <news:title>Ethiopia to probe alleged killings at Yemen-Saudi border amid human rights concerns</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/world/2023/08/22/ethiopia-probe-alleged-killings-yemen-saudi-border-amid-human-rights-concerns/ethiopia-probe-alleged-killings-yemen-saudi-border-amid-human-rights-concerns.webp</image:loc>
         </image:image>
       </url></urlset>
