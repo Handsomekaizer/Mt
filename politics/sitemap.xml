@@ -3,17 +3,31 @@
               xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
               xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
       <url>
-        <loc>https://majordigest.com/politics/2023/08/21/trump-is-barely-campaigning-in-iowa-hes-still-crushing-the-field-there/</loc>
+        <loc>https://majordigest.com/politics/2023/08/22/feds-greenlight-offshore-wind-project-near-rhode-island-marthas-vineyard/</loc>
         <news:news>
           <news:publication>
             <news:name>Major Digest</news:name>
             <news:language>en</news:language>
           </news:publication>
-          <news:publication_date>2023-08-21T20:26:11.000Z</news:publication_date>
-          <news:title>It&#8217;s more than a poll. The Iowa survey is grim news for everyone but Trump.</news:title>
+          <news:publication_date>2023-08-22T21:33:24.000Z</news:publication_date>
+          <news:title>Feds greenlight offshore wind project near Rhode Island, Martha's Vineyard</news:title>
         </news:news>
         <image:image>
-          <image:loc>https://majordigest.com/politics/2023/08/21/trump-is-barely-campaigning-in-iowa-hes-still-crushing-the-field-there/trump-is-barely-campaigning-in-iowa-hes-still-crushing-the-field-there.webp</image:loc>
+          <image:loc>https://majordigest.com/politics/2023/08/22/feds-greenlight-offshore-wind-project-near-rhode-island-marthas-vineyard/feds-greenlight-offshore-wind-project-near-rhode-island-marthas-vineyard.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/politics/2023/08/22/biden-repeatedly-told-exaggerated-house-fire-story-victims-tragedies/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-22T21:24:32.000Z</news:publication_date>
+          <news:title>Biden has repeatedly told exaggerated house fire story to victims of tragedies</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/politics/2023/08/22/biden-repeatedly-told-exaggerated-house-fire-story-victims-tragedies/biden-repeatedly-told-exaggerated-house-fire-story-victims-tragedies.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -45,76 +59,6 @@
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/politics/2023/08/22/state-police-must-make-social-media-monitoring-practices-public-high-court-rules/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-22T20:59:35.000Z</news:publication_date>
-          <news:title>State police must make social media monitoring practices public, high court rules</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/politics/2023/08/22/state-police-must-make-social-media-monitoring-practices-public-high-court-rules/state-police-must-make-social-media-monitoring-practices-public-high-court-rules.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/politics/2023/08/22/republican-debate-trump-skip/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-22T15:19:26.000Z</news:publication_date>
-          <news:title>Remember &#8216;small hands&#8217; and the menstruation taunts? Looking back at Trump&#8217;s biggest GOP debate moments</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/politics/2023/08/22/republican-debate-trump-skip/republican-debate-trump-skip.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/politics/2023/08/22/fox-news-politics-first-gop-presidential-showdown/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-22T18:38:16.000Z</news:publication_date>
-          <news:title>Fox News Politics: First GOP presidential showdown</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/politics/2023/08/22/fox-news-politics-first-gop-presidential-showdown/fox-news-politics-first-gop-presidential-showdown.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/politics/2023/08/22/los-angeles-mayor-accuses-abbott-bussing-migrants-texas-california-tropical-storm-hilary/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-22T19:24:16.000Z</news:publication_date>
-          <news:title>Los Angeles mayor accuses Abbott of bussing migrants from Texas to California during Tropical Storm Hilary</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/politics/2023/08/22/los-angeles-mayor-accuses-abbott-bussing-migrants-texas-california-tropical-storm-hilary/los-angeles-mayor-accuses-abbott-bussing-migrants-texas-california-tropical-storm-hilary.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/politics/2023/08/22/biden-blasted-comparing-kitchen-fire-home-devastating-maui-blaze-absolutely-disgusting/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-22T20:05:11.000Z</news:publication_date>
-          <news:title>Biden blasted for comparing kitchen fire in his home to devastating Maui blaze: 'Absolutely disgusting'</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/politics/2023/08/22/biden-blasted-comparing-kitchen-fire-home-devastating-maui-blaze-absolutely-disgusting/biden-blasted-comparing-kitchen-fire-home-devastating-maui-blaze-absolutely-disgusting.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
         <loc>https://majordigest.com/politics/2023/08/22/gop-congressman-hit-ethics-complaint-condemning-christian-social-media-post/</loc>
         <news:news>
           <news:publication>
@@ -126,5 +70,61 @@
         </news:news>
         <image:image>
           <image:loc>https://majordigest.com/politics/2023/08/22/gop-congressman-hit-ethics-complaint-condemning-christian-social-media-post/gop-congressman-hit-ethics-complaint-condemning-christian-social-media-post.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/politics/2023/08/22/judge-favors-anti-gay-marriage-fruit-farmer-sued-mi-city-barred-local-market/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-22T19:24:26.000Z</news:publication_date>
+          <news:title>Judge favors anti-gay marriage fruit farmer who sued MI city after being barred from local market</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/politics/2023/08/22/judge-favors-anti-gay-marriage-fruit-farmer-sued-mi-city-barred-local-market/judge-favors-anti-gay-marriage-fruit-farmer-sued-mi-city-barred-local-market.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/politics/2023/08/22/republican-debate-2024-participants/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-22T21:08:55.000Z</news:publication_date>
+          <news:title>&#8216;Cherry-picking&#8217;: Candidates lash out at RNC after not making debate stage</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/politics/2023/08/22/republican-debate-2024-participants/republican-debate-2024-participants.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/politics/2023/08/22/border-residents-fearful-middle-americans-wont-hear-warning-immigration-crisis-ahead-election-day/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-22T21:25:20.000Z</news:publication_date>
+          <news:title>Border residents fearful Middle Americans won't hear warning about immigration crisis ahead of Election Day</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/politics/2023/08/22/border-residents-fearful-middle-americans-wont-hear-warning-immigration-crisis-ahead-election-day/border-residents-fearful-middle-americans-wont-hear-warning-immigration-crisis-ahead-election-day.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/politics/2023/08/22/ramaswamy-scrutiny-9-11/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-22T19:22:00.000Z</news:publication_date>
+          <news:title>Ramaswamy faces scrutiny over suggesting government involvement in 9/11</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/politics/2023/08/22/ramaswamy-scrutiny-9-11/ramaswamy-scrutiny-9-11.webp</image:loc>
         </image:image>
       </url></urlset>
