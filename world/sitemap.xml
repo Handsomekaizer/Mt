@@ -3,62 +3,6 @@
               xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
               xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
       <url>
-        <loc>https://majordigest.com/world/2023/08/21/russias-luna-25-lunar-mission-ends-engine-failure-induced-crash/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-21T22:12:17.000Z</news:publication_date>
-          <news:title>Russia's Luna-25 lunar mission ends in engine failure-induced crash</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/world/2023/08/21/russias-luna-25-lunar-mission-ends-engine-failure-induced-crash/russias-luna-25-lunar-mission-ends-engine-failure-induced-crash.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/world/2023/08/21/israeli-airstrikes-near-syrian-capital-cause-injury-damage-reports-say/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-21T23:11:42.000Z</news:publication_date>
-          <news:title>Israeli airstrikes near Syrian capital cause injury and damage, reports say</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/world/2023/08/21/israeli-airstrikes-near-syrian-capital-cause-injury-damage-reports-say/israeli-airstrikes-near-syrian-capital-cause-injury-damage-reports-say.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/world/2023/08/21/dominican-government-offers-financial-aid-families-affected-deadly-factory-explosion/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-21T22:07:16.000Z</news:publication_date>
-          <news:title>Dominican government offers financial aid to families affected by deadly factory explosion</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/world/2023/08/21/dominican-government-offers-financial-aid-families-affected-deadly-factory-explosion/dominican-government-offers-financial-aid-families-affected-deadly-factory-explosion.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/world/2023/08/22/ukrainians-reportedly-boosting-domestic-arms-industry-anticipation-possible-trump-return-office/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-22T12:32:12.000Z</news:publication_date>
-          <news:title>Ukrainians reportedly boosting domestic arms industry in anticipation of possible Trump return to office</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/world/2023/08/22/ukrainians-reportedly-boosting-domestic-arms-industry-anticipation-possible-trump-return-office/ukrainians-reportedly-boosting-domestic-arms-industry-anticipation-possible-trump-return-office.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
         <loc>https://majordigest.com/world/2023/08/22/us-commerce-secretary-meet-chinese-officials-effort-stabilize-relations/</loc>
         <news:news>
           <news:publication>
@@ -70,6 +14,34 @@
         </news:news>
         <image:image>
           <image:loc>https://majordigest.com/world/2023/08/22/us-commerce-secretary-meet-chinese-officials-effort-stabilize-relations/us-commerce-secretary-meet-chinese-officials-effort-stabilize-relations.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/world/2023/08/21/2-remain-hospitalized-bull-running-event-central-mexico-leaves-20-injured/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-21T23:18:22.000Z</news:publication_date>
+          <news:title>2 remain hospitalized after bull-running event in central Mexico leaves about 20 injured</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/world/2023/08/21/2-remain-hospitalized-bull-running-event-central-mexico-leaves-20-injured/2-remain-hospitalized-bull-running-event-central-mexico-leaves-20-injured.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/world/2023/08/22/11-killed-chinese-coal-mine-explosion/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-22T13:19:14.000Z</news:publication_date>
+          <news:title>11 killed in Chinese coal mine explosion</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/world/2023/08/22/11-killed-chinese-coal-mine-explosion/11-killed-chinese-coal-mine-explosion.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -87,16 +59,16 @@
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/world/2023/08/22/pakistan-children-teachers-trapped-gondola-nearly-1000-feet-cable-snaps/</loc>
+        <loc>https://majordigest.com/world/2023/08/22/greeces-prime-minister-pledges-keep-military-support-ukraine-as-long-takes/</loc>
         <news:news>
           <news:publication>
             <news:name>Major Digest</news:name>
             <news:language>en</news:language>
           </news:publication>
-          <news:publication_date>2023-08-22T13:03:40.000Z</news:publication_date>
-          <news:title>Pakistan children, teachers trapped in gondola nearly 1,000 feet up after cable snaps</news:title>
+          <news:publication_date>2023-08-22T13:17:42.000Z</news:publication_date>
+          <news:title>Greece's prime minister pledges to keep up military support for Ukraine for as long as it takes</news:title>
         </news:news>
         <image:image>
-          <image:loc>https://majordigest.com/world/2023/08/22/pakistan-children-teachers-trapped-gondola-nearly-1000-feet-cable-snaps/pakistan-children-teachers-trapped-gondola-nearly-1000-feet-cable-snaps.webp</image:loc>
+          <image:loc>https://majordigest.com/world/2023/08/22/greeces-prime-minister-pledges-keep-military-support-ukraine-as-long-takes/greeces-prime-minister-pledges-keep-military-support-ukraine-as-long-takes.webp</image:loc>
         </image:image>
       </url></urlset>
