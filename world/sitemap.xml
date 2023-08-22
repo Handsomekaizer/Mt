@@ -3,34 +3,6 @@
               xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
               xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
       <url>
-        <loc>https://majordigest.com/world/2023/08/22/us-commerce-secretary-meet-chinese-officials-effort-stabilize-relations/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-22T12:51:06.000Z</news:publication_date>
-          <news:title>US commerce secretary set to meet with Chinese officials in effort to stabilize relations</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/world/2023/08/22/us-commerce-secretary-meet-chinese-officials-effort-stabilize-relations/us-commerce-secretary-meet-chinese-officials-effort-stabilize-relations.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/world/2023/08/21/2-remain-hospitalized-bull-running-event-central-mexico-leaves-20-injured/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-21T23:18:22.000Z</news:publication_date>
-          <news:title>2 remain hospitalized after bull-running event in central Mexico leaves about 20 injured</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/world/2023/08/21/2-remain-hospitalized-bull-running-event-central-mexico-leaves-20-injured/2-remain-hospitalized-bull-running-event-central-mexico-leaves-20-injured.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
         <loc>https://majordigest.com/world/2023/08/22/11-killed-chinese-coal-mine-explosion/</loc>
         <news:news>
           <news:publication>
@@ -45,17 +17,17 @@
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/world/2023/08/22/coast-guard-rescues-man-stranded-bahamas-island-three-days-after-sailboat-breaks-down/</loc>
+        <loc>https://majordigest.com/world/2023/08/22/ex-central-african-republic-minister-denies-involvement-war-crimes-icc-hearing/</loc>
         <news:news>
           <news:publication>
             <news:name>Major Digest</news:name>
             <news:language>en</news:language>
           </news:publication>
-          <news:publication_date>2023-08-22T02:14:39.000Z</news:publication_date>
-          <news:title>Coast Guard rescues man stranded on Bahamas island for three days after sailboat breaks down</news:title>
+          <news:publication_date>2023-08-22T13:04:15.000Z</news:publication_date>
+          <news:title>Ex-Central African Republic minister denies involvement in war crimes at ICC hearing</news:title>
         </news:news>
         <image:image>
-          <image:loc>https://majordigest.com/world/2023/08/22/coast-guard-rescues-man-stranded-bahamas-island-three-days-after-sailboat-breaks-down/coast-guard-rescues-man-stranded-bahamas-island-three-days-after-sailboat-breaks-down.webp</image:loc>
+          <image:loc>https://majordigest.com/world/2023/08/22/ex-central-african-republic-minister-denies-involvement-war-crimes-icc-hearing/ex-central-african-republic-minister-denies-involvement-war-crimes-icc-hearing.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -70,5 +42,47 @@
         </news:news>
         <image:image>
           <image:loc>https://majordigest.com/world/2023/08/22/greeces-prime-minister-pledges-keep-military-support-ukraine-as-long-takes/greeces-prime-minister-pledges-keep-military-support-ukraine-as-long-takes.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/world/2023/08/22/japan-release-fukushima-nuclear-wastewater-ocean-thursday/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-22T14:45:12.000Z</news:publication_date>
+          <news:title>Japan to release Fukushima nuclear wastewater into ocean on Thursday</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/world/2023/08/22/japan-release-fukushima-nuclear-wastewater-ocean-thursday/japan-release-fukushima-nuclear-wastewater-ocean-thursday.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/world/2023/08/22/200-afghan-government-officials-security-forces-killed-taliban-takeover-un/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-22T14:00:38.000Z</news:publication_date>
+          <news:title>More than 200 Afghan government officials, security forces killed following Taliban takeover: UN</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/world/2023/08/22/200-afghan-government-officials-security-forces-killed-taliban-takeover-un/200-afghan-government-officials-security-forces-killed-taliban-takeover-un.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/world/2023/08/22/pakistan-children-teachers-trapped-gondola-nearly-1000-feet-cable-snaps/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-22T13:03:40.000Z</news:publication_date>
+          <news:title>Pakistan's military rescues 2 children from gondola trapped nearly 1,000 feet up after cable snaps</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/world/2023/08/22/pakistan-children-teachers-trapped-gondola-nearly-1000-feet-cable-snaps/pakistan-children-teachers-trapped-gondola-nearly-1000-feet-cable-snaps.webp</image:loc>
         </image:image>
       </url></urlset>

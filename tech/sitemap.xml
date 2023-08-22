@@ -3,73 +3,45 @@
               xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
               xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
       <url>
-        <loc>https://majordigest.com/tech/2023/08/18/real-fake-ai-product-reviews-are-making-it-impossible-know-difference/</loc>
+        <loc>https://majordigest.com/tech/2023/08/20/adobe-co-founder-john-warnock-a-giant-in-the-tech-world-dies-at-82/</loc>
         <news:news>
           <news:publication>
             <news:name>Major Digest</news:name>
             <news:language>en</news:language>
           </news:publication>
-          <news:publication_date>2023-08-18T16:00:35.000Z</news:publication_date>
-          <news:title>Real or fake? AI product reviews are making it impossible to know the difference</news:title>
+          <news:publication_date>2023-08-20T22:53:30.000Z</news:publication_date>
+          <news:title>Adobe co-founder John Warnock, a giant in the tech world, dies at 82</news:title>
         </news:news>
         <image:image>
-          <image:loc>https://majordigest.com/tech/2023/08/18/real-fake-ai-product-reviews-are-making-it-impossible-know-difference/real-fake-ai-product-reviews-are-making-it-impossible-know-difference.webp</image:loc>
+          <image:loc>https://majordigest.com/tech/2023/08/20/adobe-co-founder-john-warnock-a-giant-in-the-tech-world-dies-at-82/adobe-co-founder-john-warnock-a-giant-in-the-tech-world-dies-at-82.webp</image:loc>
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/tech/2023/08/18/google-security-check-60-seconds-kick-snoops-hackers/</loc>
+        <loc>https://majordigest.com/tech/2023/08/22/prime-minister-justin-trudeau-slams-facebook-for-blocking-canada-wildfire-news/</loc>
         <news:news>
           <news:publication>
             <news:name>Major Digest</news:name>
             <news:language>en</news:language>
           </news:publication>
-          <news:publication_date>2023-08-18T21:02:05.000Z</news:publication_date>
-          <news:title>Google security check: 60 seconds to kick out snoops and hackers</news:title>
+          <news:publication_date>2023-08-22T14:43:05.000Z</news:publication_date>
+          <news:title>Prime Minister Justin Trudeau slams Facebook for blocking Canada wildfire news</news:title>
         </news:news>
         <image:image>
-          <image:loc>https://majordigest.com/tech/2023/08/18/google-security-check-60-seconds-kick-snoops-hackers/google-security-check-60-seconds-kick-snoops-hackers.webp</image:loc>
+          <image:loc>https://majordigest.com/tech/2023/08/22/prime-minister-justin-trudeau-slams-facebook-for-blocking-canada-wildfire-news/prime-minister-justin-trudeau-slams-facebook-for-blocking-canada-wildfire-news.webp</image:loc>
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/tech/2023/08/20/7-ways-foolproof-save-money-tough-economy/</loc>
+        <loc>https://majordigest.com/tech/2023/08/21/best-prompts-get-most-ai-chatbot/</loc>
         <news:news>
           <news:publication>
             <news:name>Major Digest</news:name>
             <news:language>en</news:language>
           </news:publication>
-          <news:publication_date>2023-08-20T17:32:43.000Z</news:publication_date>
-          <news:title>7 foolproof ways to save money in a tough economy</news:title>
+          <news:publication_date>2023-08-21T19:00:28.000Z</news:publication_date>
+          <news:title>Best prompts to get the most out of an AI chatbot</news:title>
         </news:news>
         <image:image>
-          <image:loc>https://majordigest.com/tech/2023/08/20/7-ways-foolproof-save-money-tough-economy/7-ways-foolproof-save-money-tough-economy.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/tech/2023/08/21/despite-fbi-takedown-infamous-raccoon-stealer-malware-returns/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-21T16:00:01.000Z</news:publication_date>
-          <news:title>Despite FBI takedown, infamous Raccoon Stealer malware returns</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/tech/2023/08/21/despite-fbi-takedown-infamous-raccoon-stealer-malware-returns/despite-fbi-takedown-infamous-raccoon-stealer-malware-returns.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/tech/2023/08/21/why-would-elon-musk-lash-out-at-james-woods-of-all-people/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-21T17:53:20.000Z</news:publication_date>
-          <news:title>Why would Elon Musk lash out at James Woods, of all people?</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/tech/2023/08/21/why-would-elon-musk-lash-out-at-james-woods-of-all-people/why-would-elon-musk-lash-out-at-james-woods-of-all-people.webp</image:loc>
+          <image:loc>https://majordigest.com/tech/2023/08/21/best-prompts-get-most-ai-chatbot/best-prompts-get-most-ai-chatbot.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -87,20 +59,6 @@
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/tech/2023/08/21/russias-luna-25-spacecraft-crashes-into-the-moon-ending-its-bid-to-reach-the-lunar-south-pole/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-21T16:59:50.000Z</news:publication_date>
-          <news:title>Russia&#8217;s Luna-25 spacecraft crashes into the moon, ending its bid to reach the lunar south pole</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/tech/2023/08/21/russias-luna-25-spacecraft-crashes-into-the-moon-ending-its-bid-to-reach-the-lunar-south-pole/russias-luna-25-spacecraft-crashes-into-the-moon-ending-its-bid-to-reach-the-lunar-south-pole.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
         <loc>https://majordigest.com/tech/2023/08/21/ready-for-an-electric-car-what-you-need-to-know/</loc>
         <news:news>
           <news:publication>
@@ -115,16 +73,58 @@
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/tech/2023/08/21/robot-taxis-wreak-havoc-in-san-francisco-dont-want-them-in-your-bay-area-city-tough-luck/</loc>
+        <loc>https://majordigest.com/tech/2023/08/20/7-ways-foolproof-save-money-tough-economy/</loc>
         <news:news>
           <news:publication>
             <news:name>Major Digest</news:name>
             <news:language>en</news:language>
           </news:publication>
-          <news:publication_date>2023-08-21T13:00:10.000Z</news:publication_date>
-          <news:title>Robotaxis wreak havoc in San Francisco. Don&#8217;t want them in your Bay Area city? Tough luck</news:title>
+          <news:publication_date>2023-08-20T17:32:43.000Z</news:publication_date>
+          <news:title>7 foolproof ways to save money in a tough economy</news:title>
         </news:news>
         <image:image>
-          <image:loc>https://majordigest.com/tech/2023/08/21/robot-taxis-wreak-havoc-in-san-francisco-dont-want-them-in-your-bay-area-city-tough-luck/robot-taxis-wreak-havoc-in-san-francisco-dont-want-them-in-your-bay-area-city-tough-luck.webp</image:loc>
+          <image:loc>https://majordigest.com/tech/2023/08/20/7-ways-foolproof-save-money-tough-economy/7-ways-foolproof-save-money-tough-economy.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/tech/2023/08/22/vegan-sam-bankman-fried-is-subsisting-only-on-bread-and-water-in-jail-his-attorneys-say/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-22T15:02:11.000Z</news:publication_date>
+          <news:title>Vegan Sam Bankman-Fried is subsisting only on bread and water in jail, his attorneys say</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/tech/2023/08/22/vegan-sam-bankman-fried-is-subsisting-only-on-bread-and-water-in-jail-his-attorneys-say/vegan-sam-bankman-fried-is-subsisting-only-on-bread-and-water-in-jail-his-attorneys-say.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/tech/2023/08/21/why-would-elon-musk-lash-out-at-james-woods-of-all-people/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-21T17:53:20.000Z</news:publication_date>
+          <news:title>Why would Elon Musk lash out at James Woods, of all people?</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/tech/2023/08/21/why-would-elon-musk-lash-out-at-james-woods-of-all-people/why-would-elon-musk-lash-out-at-james-woods-of-all-people.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/tech/2023/08/20/set-up-free-messaging-phone-traveling-internationally/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-20T18:27:51.000Z</news:publication_date>
+          <news:title>How to set up free messaging on your phone while traveling internationally</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/tech/2023/08/20/set-up-free-messaging-phone-traveling-internationally/set-up-free-messaging-phone-traveling-internationally.webp</image:loc>
         </image:image>
       </url></urlset>

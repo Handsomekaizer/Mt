@@ -62,7 +62,7 @@ jobs:
         echo -n "Status (home): " && curl --silent -o /dev/null -w "%{http_code}\\n" \
           --data "url=https%3A%2F%2Fmajordigest.com%2F&capture_all=on" \
           -X POST https://web.archive.org/save/https://majordigest.com/
-        export PAGES=( politics sports tech us world )
+        export PAGES=( tech us world politics sports )
         for page in "${PAGES[@]}"; do
           echo -n "Status ($page): " && curl --silent -o /dev/null -w "%{http_code}\\n" \
             --data "url=https%3A%2F%2Fmajordigest.com%2F$page%2F&capture_all=on" \
