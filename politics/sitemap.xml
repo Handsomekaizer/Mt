@@ -3,34 +3,6 @@
               xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
               xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
       <url>
-        <loc>https://majordigest.com/politics/2023/08/22/whistleblower-to-doj-youve-left-the-door-open-for-more-fraud/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-22T08:30:00.000Z</news:publication_date>
-          <news:title>Whistleblower to DOJ: You&#8217;ve left the door open for more fraud</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/politics/2023/08/22/whistleblower-to-doj-youve-left-the-door-open-for-more-fraud/whistleblower-to-doj-youve-left-the-door-open-for-more-fraud.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/politics/2023/08/22/rnc-announces-candidates-qualified-debate/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-22T10:49:05.000Z</news:publication_date>
-          <news:title>RNC confirms the first debate field &#8212; without Trump</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/politics/2023/08/22/rnc-announces-candidates-qualified-debate/rnc-announces-candidates-qualified-debate.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
         <loc>https://majordigest.com/politics/2023/08/21/trump-is-barely-campaigning-in-iowa-hes-still-crushing-the-field-there/</loc>
         <news:news>
           <news:publication>
@@ -42,6 +14,48 @@
         </news:news>
         <image:image>
           <image:loc>https://majordigest.com/politics/2023/08/21/trump-is-barely-campaigning-in-iowa-hes-still-crushing-the-field-there/trump-is-barely-campaigning-in-iowa-hes-still-crushing-the-field-there.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/politics/2023/08/22/meadows-clark-fight-to-stave-off-arrest-in-georgia/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-22T20:07:02.000Z</news:publication_date>
+          <news:title>Meadows, Clark fight to stave off arrest in Georgia</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/politics/2023/08/22/meadows-clark-fight-to-stave-off-arrest-in-georgia/meadows-clark-fight-to-stave-off-arrest-in-georgia.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/politics/2023/08/22/excited-milwaukeeans-reveal-gop-candidates-watching-debate-stage/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-22T20:30:59.000Z</news:publication_date>
+          <news:title>&#8216;Excited&#8217; Milwaukeeans reveal the GOP candidates they are most looking forward to watching on the debate stage</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/politics/2023/08/22/excited-milwaukeeans-reveal-gop-candidates-watching-debate-stage/excited-milwaukeeans-reveal-gop-candidates-watching-debate-stage.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/politics/2023/08/22/state-police-must-make-social-media-monitoring-practices-public-high-court-rules/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-22T20:59:35.000Z</news:publication_date>
+          <news:title>State police must make social media monitoring practices public, high court rules</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/politics/2023/08/22/state-police-must-make-social-media-monitoring-practices-public-high-court-rules/state-police-must-make-social-media-monitoring-practices-public-high-court-rules.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -59,17 +73,31 @@
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/politics/2023/08/22/gop-congressman-hit-ethics-complaint-condemning-christian-social-media-post/</loc>
+        <loc>https://majordigest.com/politics/2023/08/22/fox-news-politics-first-gop-presidential-showdown/</loc>
         <news:news>
           <news:publication>
             <news:name>Major Digest</news:name>
             <news:language>en</news:language>
           </news:publication>
-          <news:publication_date>2023-08-22T19:46:28.000Z</news:publication_date>
-          <news:title>GOP congressman hit with ethics complaint for condemning Christian social media post</news:title>
+          <news:publication_date>2023-08-22T18:38:16.000Z</news:publication_date>
+          <news:title>Fox News Politics: First GOP presidential showdown</news:title>
         </news:news>
         <image:image>
-          <image:loc>https://majordigest.com/politics/2023/08/22/gop-congressman-hit-ethics-complaint-condemning-christian-social-media-post/gop-congressman-hit-ethics-complaint-condemning-christian-social-media-post.webp</image:loc>
+          <image:loc>https://majordigest.com/politics/2023/08/22/fox-news-politics-first-gop-presidential-showdown/fox-news-politics-first-gop-presidential-showdown.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/politics/2023/08/22/los-angeles-mayor-accuses-abbott-bussing-migrants-texas-california-tropical-storm-hilary/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-22T19:24:16.000Z</news:publication_date>
+          <news:title>Los Angeles mayor accuses Abbott of bussing migrants from Texas to California during Tropical Storm Hilary</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/politics/2023/08/22/los-angeles-mayor-accuses-abbott-bussing-migrants-texas-california-tropical-storm-hilary/los-angeles-mayor-accuses-abbott-bussing-migrants-texas-california-tropical-storm-hilary.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -84,5 +112,19 @@
         </news:news>
         <image:image>
           <image:loc>https://majordigest.com/politics/2023/08/22/biden-blasted-comparing-kitchen-fire-home-devastating-maui-blaze-absolutely-disgusting/biden-blasted-comparing-kitchen-fire-home-devastating-maui-blaze-absolutely-disgusting.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/politics/2023/08/22/gop-congressman-hit-ethics-complaint-condemning-christian-social-media-post/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-22T19:46:28.000Z</news:publication_date>
+          <news:title>GOP congressman hit with ethics complaint for condemning Christian social media post</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/politics/2023/08/22/gop-congressman-hit-ethics-complaint-condemning-christian-social-media-post/gop-congressman-hit-ethics-complaint-condemning-christian-social-media-post.webp</image:loc>
         </image:image>
       </url></urlset>

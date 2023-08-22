@@ -3,20 +3,6 @@
               xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
               xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
       <url>
-        <loc>https://majordigest.com/sports/2023/08/22/pac-12-preview-our-assessment-of-the-coaching-hot-seats-cold-seats-and-nonexistent-seats/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-22T17:10:50.000Z</news:publication_date>
-          <news:title>Pac-12 preview: Our assessment of the coaching Hot Seats, Cold Seats and nonexistent seats</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/sports/2023/08/22/pac-12-preview-our-assessment-of-the-coaching-hot-seats-cold-seats-and-nonexistent-seats/pac-12-preview-our-assessment-of-the-coaching-hot-seats-cold-seats-and-nonexistent-seats.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
         <loc>https://majordigest.com/sports/2023/08/22/bills-stefon-diggs-rips-stephen-a-smith-over-comments-suggesting-he-wants-out-buffalo-100-not-true/</loc>
         <news:news>
           <news:publication>
@@ -31,31 +17,45 @@
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/sports/2023/08/22/ufc-legend-khabib-nurmagomedov-believes-theres-two-genders-there-no-between/</loc>
+        <loc>https://majordigest.com/sports/2023/08/22/where-does-san-jose-state-fit-in-conference-realignment-in-a-secure-place-for-now/</loc>
         <news:news>
           <news:publication>
             <news:name>Major Digest</news:name>
             <news:language>en</news:language>
           </news:publication>
-          <news:publication_date>2023-08-22T18:54:12.000Z</news:publication_date>
-          <news:title>UFC legend Khabib Nurmagomedov believes there's only 2 genders: 'There is no between'</news:title>
+          <news:publication_date>2023-08-22T20:00:01.000Z</news:publication_date>
+          <news:title>Where does San Jose State fit in conference realignment? In a secure place, for now</news:title>
         </news:news>
         <image:image>
-          <image:loc>https://majordigest.com/sports/2023/08/22/ufc-legend-khabib-nurmagomedov-believes-theres-two-genders-there-no-between/ufc-legend-khabib-nurmagomedov-believes-theres-two-genders-there-no-between.webp</image:loc>
+          <image:loc>https://majordigest.com/sports/2023/08/22/where-does-san-jose-state-fit-in-conference-realignment-in-a-secure-place-for-now/where-does-san-jose-state-fit-in-conference-realignment-in-a-secure-place-for-now.webp</image:loc>
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/sports/2023/08/22/sf-giants-sign-former-cardinals-all-star-shortstop-rumored-trade-deadline-target-report/</loc>
+        <loc>https://majordigest.com/sports/2023/08/22/high-school-football-2023-preseason-rankings-bay-area-news-group-top-25/</loc>
         <news:news>
           <news:publication>
             <news:name>Major Digest</news:name>
             <news:language>en</news:language>
           </news:publication>
-          <news:publication_date>2023-08-22T18:02:12.000Z</news:publication_date>
-          <news:title>SF Giants sign former Cardinals All-Star shortstop, rumored trade deadline target: report</news:title>
+          <news:publication_date>2023-08-22T14:00:09.000Z</news:publication_date>
+          <news:title>High school football 2023 preseason rankings: Bay Area News Group Top 25</news:title>
         </news:news>
         <image:image>
-          <image:loc>https://majordigest.com/sports/2023/08/22/sf-giants-sign-former-cardinals-all-star-shortstop-rumored-trade-deadline-target-report/sf-giants-sign-former-cardinals-all-star-shortstop-rumored-trade-deadline-target-report.webp</image:loc>
+          <image:loc>https://majordigest.com/sports/2023/08/22/high-school-football-2023-preseason-rankings-bay-area-news-group-top-25/high-school-football-2023-preseason-rankings-bay-area-news-group-top-25.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/sports/2023/08/22/pac-12-preview-our-assessment-of-the-coaching-hot-seats-cold-seats-and-nonexistent-seats/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-22T17:10:50.000Z</news:publication_date>
+          <news:title>Pac-12 preview: Our assessment of the coaching Hot Seats, Cold Seats and nonexistent seats</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/sports/2023/08/22/pac-12-preview-our-assessment-of-the-coaching-hot-seats-cold-seats-and-nonexistent-seats/pac-12-preview-our-assessment-of-the-coaching-hot-seats-cold-seats-and-nonexistent-seats.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -73,34 +73,6 @@
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/sports/2023/08/22/college-football-teams-finding-new-ways-monitor-athletes-sports-scandals-continue-surface/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-22T13:52:39.000Z</news:publication_date>
-          <news:title>College football teams finding new ways to monitor athletes as sports-betting scandals continue to surface</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/sports/2023/08/22/college-football-teams-finding-new-ways-monitor-athletes-sports-scandals-continue-surface/college-football-teams-finding-new-ways-monitor-athletes-sports-scandals-continue-surface.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/sports/2023/08/22/49ers-kyle-shanahan-on-nick-bosa-absence-its-going-pretty-much-exactly-how-i-expected/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-22T19:32:35.000Z</news:publication_date>
-          <news:title>49ers&#8217; Kyle Shanahan addresses Nick Bosa&#8217;s holdout as it nears one-month mark</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/sports/2023/08/22/49ers-kyle-shanahan-on-nick-bosa-absence-its-going-pretty-much-exactly-how-i-expected/49ers-kyle-shanahan-on-nick-bosa-absence-its-going-pretty-much-exactly-how-i-expected.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
         <loc>https://majordigest.com/sports/2023/08/22/michael-oher-blind-side-didnt-portray-work-ethic-prior-joining-tuohy-family/</loc>
         <news:news>
           <news:publication>
@@ -115,16 +87,30 @@
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/sports/2023/08/22/high-school-football-2023-preseason-rankings-bay-area-news-group-top-25/</loc>
+        <loc>https://majordigest.com/sports/2023/08/22/ufc-legend-khabib-nurmagomedov-believes-theres-two-genders-there-no-between/</loc>
         <news:news>
           <news:publication>
             <news:name>Major Digest</news:name>
             <news:language>en</news:language>
           </news:publication>
-          <news:publication_date>2023-08-22T14:00:09.000Z</news:publication_date>
-          <news:title>High school football 2023 preseason rankings: Bay Area News Group Top 25</news:title>
+          <news:publication_date>2023-08-22T18:54:12.000Z</news:publication_date>
+          <news:title>UFC legend Khabib Nurmagomedov believes there's only 2 genders: 'There is no between'</news:title>
         </news:news>
         <image:image>
-          <image:loc>https://majordigest.com/sports/2023/08/22/high-school-football-2023-preseason-rankings-bay-area-news-group-top-25/high-school-football-2023-preseason-rankings-bay-area-news-group-top-25.webp</image:loc>
+          <image:loc>https://majordigest.com/sports/2023/08/22/ufc-legend-khabib-nurmagomedov-believes-theres-two-genders-there-no-between/ufc-legend-khabib-nurmagomedov-believes-theres-two-genders-there-no-between.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/sports/2023/08/22/explosion-home-owned-titans-caleb-farley-leaves-father-dead-another-injured/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-22T18:30:39.000Z</news:publication_date>
+          <news:title>Explosion at home owned by Titans' Caleb Farley leaves father dead, another injured</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/sports/2023/08/22/explosion-home-owned-titans-caleb-farley-leaves-father-dead-another-injured/explosion-home-owned-titans-caleb-farley-leaves-father-dead-another-injured.webp</image:loc>
         </image:image>
       </url></urlset>
