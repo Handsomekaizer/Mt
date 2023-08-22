@@ -3,20 +3,6 @@
               xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
               xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
       <url>
-        <loc>https://majordigest.com/politics/2023/08/21/house-freedom-caucus-potential-shutdown/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-21T15:31:50.000Z</news:publication_date>
-          <news:title>House Freedom Caucus rolls out demands to avoid shutdown</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/politics/2023/08/21/house-freedom-caucus-potential-shutdown/house-freedom-caucus-potential-shutdown.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
         <loc>https://majordigest.com/politics/2023/08/22/house-republicans-subpoena-irs-fbi-agents-involved-hunter-biden-investigation/</loc>
         <news:news>
           <news:publication>
@@ -31,73 +17,31 @@
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/politics/2023/08/22/biden-uses-minor-fire-his-house-claim-he-know-what-its-like-lose-home-while-visiting-maui/</loc>
+        <loc>https://majordigest.com/politics/2023/08/21/wildfires-california-politicians/</loc>
         <news:news>
           <news:publication>
             <news:name>Major Digest</news:name>
             <news:language>en</news:language>
           </news:publication>
-          <news:publication_date>2023-08-22T02:11:09.000Z</news:publication_date>
-          <news:title>Biden uses minor fire at his house to claim he knows what it's like to lose a home while visiting Maui</news:title>
+          <news:publication_date>2023-08-21T23:00:00.000Z</news:publication_date>
+          <news:title>Wildfires are about to burn California politicians</news:title>
         </news:news>
         <image:image>
-          <image:loc>https://majordigest.com/politics/2023/08/22/biden-uses-minor-fire-his-house-claim-he-know-what-its-like-lose-home-while-visiting-maui/biden-uses-minor-fire-his-house-claim-he-know-what-its-like-lose-home-while-visiting-maui.webp</image:loc>
+          <image:loc>https://majordigest.com/politics/2023/08/21/wildfires-california-politicians/wildfires-california-politicians.webp</image:loc>
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/politics/2023/08/21/ilhan-omar-bipartisan-israel-group-aipac-dark-money-campaign/</loc>
+        <loc>https://majordigest.com/politics/2023/08/21/desantis-campaign-boasts-endorsements-latest-poll-numbers-sign-momentum-iowa/</loc>
         <news:news>
           <news:publication>
             <news:name>Major Digest</news:name>
             <news:language>en</news:language>
           </news:publication>
-          <news:publication_date>2023-08-21T19:59:30.000Z</news:publication_date>
-          <news:title>Ilhan Omar calls Israel lobby AIPAC a 'right-wing' PAC funded by 'dark money'</news:title>
+          <news:publication_date>2023-08-21T20:43:03.000Z</news:publication_date>
+          <news:title>DeSantis campaign boasts endorsements, latest poll numbers as signs of momentum in Iowa</news:title>
         </news:news>
         <image:image>
-          <image:loc>https://majordigest.com/politics/2023/08/21/ilhan-omar-bipartisan-israel-group-aipac-dark-money-campaign/ilhan-omar-bipartisan-israel-group-aipac-dark-money-campaign.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/politics/2023/08/21/trump-is-barely-campaigning-in-iowa-hes-still-crushing-the-field-there/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-21T20:26:11.000Z</news:publication_date>
-          <news:title>It&#8217;s more than a poll. The Iowa survey is grim news for everyone but Trump.</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/politics/2023/08/21/trump-is-barely-campaigning-in-iowa-hes-still-crushing-the-field-there/trump-is-barely-campaigning-in-iowa-hes-still-crushing-the-field-there.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/politics/2023/08/21/trump-indictment-2026-trial-date/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-21T21:22:08.000Z</news:publication_date>
-          <news:title>Special counsel pushes back on Trump&#8217;s call for 2026 trial on election charges</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/politics/2023/08/21/trump-indictment-2026-trial-date/trump-indictment-2026-trial-date.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/politics/2023/08/21/trump-bond-set-at-200k-after-georgia-indictment/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-21T21:15:40.000Z</news:publication_date>
-          <news:title>Trump bond set at $200,000 after Georgia indictment; he will be processed Thursday</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/politics/2023/08/21/trump-bond-set-at-200k-after-georgia-indictment/trump-bond-set-at-200k-after-georgia-indictment.webp</image:loc>
+          <image:loc>https://majordigest.com/politics/2023/08/21/desantis-campaign-boasts-endorsements-latest-poll-numbers-sign-momentum-iowa/desantis-campaign-boasts-endorsements-latest-poll-numbers-sign-momentum-iowa.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -115,30 +59,72 @@
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/politics/2023/08/21/trumps-bond-georgia-election-case/</loc>
+        <loc>https://majordigest.com/politics/2023/08/21/arkansas-department-education-throws-gauntlet-crt-demands-public-schools-turn-over-materials/</loc>
         <news:news>
           <news:publication>
             <news:name>Major Digest</news:name>
             <news:language>en</news:language>
           </news:publication>
-          <news:publication_date>2023-08-21T20:21:41.000Z</news:publication_date>
-          <news:title>Trump&#8217;s bond set at $200,000 in Georgia election-related case</news:title>
+          <news:publication_date>2023-08-21T21:45:39.000Z</news:publication_date>
+          <news:title>Arkansas Department of Education throws down gauntlet on CRT, demands public schools turn over materials</news:title>
         </news:news>
         <image:image>
-          <image:loc>https://majordigest.com/politics/2023/08/21/trumps-bond-georgia-election-case/trumps-bond-georgia-election-case.webp</image:loc>
+          <image:loc>https://majordigest.com/politics/2023/08/21/arkansas-department-education-throws-gauntlet-crt-demands-public-schools-turn-over-materials/arkansas-department-education-throws-gauntlet-crt-demands-public-schools-turn-over-materials.webp</image:loc>
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/politics/2023/08/21/atlanta-center-stage-donald-trump-trial/</loc>
+        <loc>https://majordigest.com/politics/2023/08/21/house-freedom-caucus-potential-shutdown/</loc>
         <news:news>
           <news:publication>
             <news:name>Major Digest</news:name>
             <news:language>en</news:language>
           </news:publication>
-          <news:publication_date>2023-08-21T08:30:00.000Z</news:publication_date>
-          <news:title>&#8216;We&#8217;re Loving It&#8217; &#8212; Atlanta Reacts to Donald Trump&#8217;s Indictment</news:title>
+          <news:publication_date>2023-08-21T15:31:50.000Z</news:publication_date>
+          <news:title>House Freedom Caucus rolls out demands to avoid shutdown</news:title>
         </news:news>
         <image:image>
-          <image:loc>https://majordigest.com/politics/2023/08/21/atlanta-center-stage-donald-trump-trial/atlanta-center-stage-donald-trump-trial.webp</image:loc>
+          <image:loc>https://majordigest.com/politics/2023/08/21/house-freedom-caucus-potential-shutdown/house-freedom-caucus-potential-shutdown.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/politics/2023/08/22/watch-hawaii-democrat-biden-drink-water-awkward-moment/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-22T01:51:38.000Z</news:publication_date>
+          <news:title>WATCH: Hawaii Democrat tries to get Biden to drink water in awkward moment</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/politics/2023/08/22/watch-hawaii-democrat-biden-drink-water-awkward-moment/watch-hawaii-democrat-biden-drink-water-awkward-moment.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/politics/2023/08/22/biden-uses-minor-fire-his-house-claim-he-know-what-its-like-lose-home-while-visiting-maui/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-22T02:11:09.000Z</news:publication_date>
+          <news:title>Biden uses minor fire at his house to claim he knows what it's like to lose a home while visiting Maui</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/politics/2023/08/22/biden-uses-minor-fire-his-house-claim-he-know-what-its-like-lose-home-while-visiting-maui/biden-uses-minor-fire-his-house-claim-he-know-what-its-like-lose-home-while-visiting-maui.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/politics/2023/08/21/trump-bond-set-at-200k-after-georgia-indictment/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-21T21:15:40.000Z</news:publication_date>
+          <news:title>Trump bond set at $200,000 after Georgia indictment; he will be processed Thursday</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/politics/2023/08/21/trump-bond-set-at-200k-after-georgia-indictment/trump-bond-set-at-200k-after-georgia-indictment.webp</image:loc>
         </image:image>
       </url></urlset>

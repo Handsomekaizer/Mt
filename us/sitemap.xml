@@ -3,48 +3,6 @@
               xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
               xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
       <url>
-        <loc>https://majordigest.com/us/2023/08/22/mississippi-woman-sentenced-life-role-brutally-beating-man-death-veteran-benefits-report/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-22T00:30:14.000Z</news:publication_date>
-          <news:title>Mississippi woman sentenced to life for role in beating man to death, possibly over veteran benefits: report</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/us/2023/08/22/mississippi-woman-sentenced-life-role-brutally-beating-man-death-veteran-benefits-report/mississippi-woman-sentenced-life-role-brutally-beating-man-death-veteran-benefits-report.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/us/2023/08/21/drive-by-shooting-4-teens-charged-accidental-killing-5-year-old-girl-albuquerque/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-21T23:03:16.000Z</news:publication_date>
-          <news:title>Drive-by shooting: 4 teens charged in accidental killing of 5-year-old girl in Albuquerque</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/us/2023/08/21/drive-by-shooting-4-teens-charged-accidental-killing-5-year-old-girl-albuquerque/drive-by-shooting-4-teens-charged-accidental-killing-5-year-old-girl-albuquerque.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/us/2023/08/21/escaped-pa-kidnapping-suspect-michael-burham-faces-additional-charges/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-21T22:27:34.000Z</news:publication_date>
-          <news:title>Escaped PA kidnapping suspect Michael Burham faces additional charges</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/us/2023/08/21/escaped-pa-kidnapping-suspect-michael-burham-faces-additional-charges/escaped-pa-kidnapping-suspect-michael-burham-faces-additional-charges.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
         <loc>https://majordigest.com/us/2023/08/21/san-francisco-roman-catholic-archdiocese-files-bankruptcy-amid-sex-abuse-lawsuits/</loc>
         <news:news>
           <news:publication>
@@ -56,6 +14,34 @@
         </news:news>
         <image:image>
           <image:loc>https://majordigest.com/us/2023/08/21/san-francisco-roman-catholic-archdiocese-files-bankruptcy-amid-sex-abuse-lawsuits/san-francisco-roman-catholic-archdiocese-files-bankruptcy-amid-sex-abuse-lawsuits.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/us/2023/08/21/austin-police-chief-abruptly-retires-staffing-shortages-lack-police-union-contract/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-21T22:05:25.000Z</news:publication_date>
+          <news:title>Austin police chief abruptly retires amid staffing shortages, lack of police union contract</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/us/2023/08/21/austin-police-chief-abruptly-retires-staffing-shortages-lack-police-union-contract/austin-police-chief-abruptly-retires-staffing-shortages-lack-police-union-contract.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/us/2023/08/22/mississippi-woman-sentenced-life-role-brutally-beating-man-death-veteran-benefits-report/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-22T00:30:14.000Z</news:publication_date>
+          <news:title>Mississippi woman sentenced to life for role in beating man to death, possibly over veteran benefits: report</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/us/2023/08/22/mississippi-woman-sentenced-life-role-brutally-beating-man-death-veteran-benefits-report/mississippi-woman-sentenced-life-role-brutally-beating-man-death-veteran-benefits-report.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -73,16 +59,30 @@
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/us/2023/08/22/maui-home-left-untouched-wildfires-lahaina-neighborhood-destroyed/</loc>
+        <loc>https://majordigest.com/us/2023/08/21/maryland-man-sentenced-heinous-acts-minor-recording-prosecutor/</loc>
         <news:news>
           <news:publication>
             <news:name>Major Digest</news:name>
             <news:language>en</news:language>
           </news:publication>
-          <news:publication_date>2023-08-22T00:53:14.000Z</news:publication_date>
-          <news:title>Maui home left untouched by wildfires while Lahaina neighborhood destroyed</news:title>
+          <news:publication_date>2023-08-21T22:24:54.000Z</news:publication_date>
+          <news:title>Maryland man gets long prison sentence for heinous acts with a minor, including recording: prosecutor</news:title>
         </news:news>
         <image:image>
-          <image:loc>https://majordigest.com/us/2023/08/22/maui-home-left-untouched-wildfires-lahaina-neighborhood-destroyed/maui-home-left-untouched-wildfires-lahaina-neighborhood-destroyed.webp</image:loc>
+          <image:loc>https://majordigest.com/us/2023/08/21/maryland-man-sentenced-heinous-acts-minor-recording-prosecutor/maryland-man-sentenced-heinous-acts-minor-recording-prosecutor.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/us/2023/08/21/escaped-pa-kidnapping-suspect-michael-burham-faces-additional-charges/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-21T22:27:34.000Z</news:publication_date>
+          <news:title>Escaped PA kidnapping suspect Michael Burham faces additional charges</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/us/2023/08/21/escaped-pa-kidnapping-suspect-michael-burham-faces-additional-charges/escaped-pa-kidnapping-suspect-michael-burham-faces-additional-charges.webp</image:loc>
         </image:image>
       </url></urlset>
