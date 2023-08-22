@@ -3,34 +3,6 @@
               xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
               xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
       <url>
-        <loc>https://majordigest.com/politics/2023/08/22/feds-greenlight-offshore-wind-project-near-rhode-island-marthas-vineyard/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-22T21:33:24.000Z</news:publication_date>
-          <news:title>Feds greenlight offshore wind project near Rhode Island, Martha's Vineyard</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/politics/2023/08/22/feds-greenlight-offshore-wind-project-near-rhode-island-marthas-vineyard/feds-greenlight-offshore-wind-project-near-rhode-island-marthas-vineyard.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/politics/2023/08/22/biden-repeatedly-told-exaggerated-house-fire-story-victims-tragedies/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-22T21:24:32.000Z</news:publication_date>
-          <news:title>Biden has repeatedly told exaggerated house fire story to victims of tragedies</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/politics/2023/08/22/biden-repeatedly-told-exaggerated-house-fire-story-victims-tragedies/biden-repeatedly-told-exaggerated-house-fire-story-victims-tragedies.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
         <loc>https://majordigest.com/politics/2023/08/22/meadows-clark-fight-to-stave-off-arrest-in-georgia/</loc>
         <news:news>
           <news:publication>
@@ -42,34 +14,6 @@
         </news:news>
         <image:image>
           <image:loc>https://majordigest.com/politics/2023/08/22/meadows-clark-fight-to-stave-off-arrest-in-georgia/meadows-clark-fight-to-stave-off-arrest-in-georgia.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/politics/2023/08/22/excited-milwaukeeans-reveal-gop-candidates-watching-debate-stage/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-22T20:30:59.000Z</news:publication_date>
-          <news:title>&#8216;Excited&#8217; Milwaukeeans reveal the GOP candidates they are most looking forward to watching on the debate stage</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/politics/2023/08/22/excited-milwaukeeans-reveal-gop-candidates-watching-debate-stage/excited-milwaukeeans-reveal-gop-candidates-watching-debate-stage.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/politics/2023/08/22/gop-congressman-hit-ethics-complaint-condemning-christian-social-media-post/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-22T19:46:28.000Z</news:publication_date>
-          <news:title>GOP congressman hit with ethics complaint for condemning Christian social media post</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/politics/2023/08/22/gop-congressman-hit-ethics-complaint-condemning-christian-social-media-post/gop-congressman-hit-ethics-complaint-condemning-christian-social-media-post.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -87,17 +31,59 @@
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/politics/2023/08/22/republican-debate-2024-participants/</loc>
+        <loc>https://majordigest.com/politics/2023/08/22/feds-greenlight-offshore-wind-project-near-rhode-island-marthas-vineyard/</loc>
         <news:news>
           <news:publication>
             <news:name>Major Digest</news:name>
             <news:language>en</news:language>
           </news:publication>
-          <news:publication_date>2023-08-22T21:08:55.000Z</news:publication_date>
-          <news:title>&#8216;Cherry-picking&#8217;: Candidates lash out at RNC after not making debate stage</news:title>
+          <news:publication_date>2023-08-22T21:33:24.000Z</news:publication_date>
+          <news:title>Feds greenlight offshore wind project near Rhode Island, Martha's Vineyard</news:title>
         </news:news>
         <image:image>
-          <image:loc>https://majordigest.com/politics/2023/08/22/republican-debate-2024-participants/republican-debate-2024-participants.webp</image:loc>
+          <image:loc>https://majordigest.com/politics/2023/08/22/feds-greenlight-offshore-wind-project-near-rhode-island-marthas-vineyard/feds-greenlight-offshore-wind-project-near-rhode-island-marthas-vineyard.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/politics/2023/08/22/ramaswamy-scrutiny-9-11/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-22T19:22:00.000Z</news:publication_date>
+          <news:title>Ramaswamy faces scrutiny over suggesting government involvement in 9/11</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/politics/2023/08/22/ramaswamy-scrutiny-9-11/ramaswamy-scrutiny-9-11.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/politics/2023/08/22/wisconsins-liberal-supreme-court-crosshairs-gop-lawmakers-grill-judicial-ethics-commissioners/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-22T21:41:46.000Z</news:publication_date>
+          <news:title>Wisconsin's liberal Supreme Court in crosshairs as GOP lawmakers grill judicial ethics commissioners</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/politics/2023/08/22/wisconsins-liberal-supreme-court-crosshairs-gop-lawmakers-grill-judicial-ethics-commissioners/wisconsins-liberal-supreme-court-crosshairs-gop-lawmakers-grill-judicial-ethics-commissioners.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/politics/2023/08/22/excited-milwaukeeans-reveal-gop-candidates-watching-debate-stage/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-22T20:30:59.000Z</news:publication_date>
+          <news:title>&#8216;Excited&#8217; Milwaukeeans reveal the GOP candidates they are most looking forward to watching on the debate stage</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/politics/2023/08/22/excited-milwaukeeans-reveal-gop-candidates-watching-debate-stage/excited-milwaukeeans-reveal-gop-candidates-watching-debate-stage.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -115,16 +101,58 @@
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/politics/2023/08/22/ramaswamy-scrutiny-9-11/</loc>
+        <loc>https://majordigest.com/politics/2023/08/22/rnc-announces-candidates-qualified-debate/</loc>
         <news:news>
           <news:publication>
             <news:name>Major Digest</news:name>
             <news:language>en</news:language>
           </news:publication>
-          <news:publication_date>2023-08-22T19:22:00.000Z</news:publication_date>
-          <news:title>Ramaswamy faces scrutiny over suggesting government involvement in 9/11</news:title>
+          <news:publication_date>2023-08-22T10:49:05.000Z</news:publication_date>
+          <news:title>RNC confirms the first debate field &#8212; without Trump</news:title>
         </news:news>
         <image:image>
-          <image:loc>https://majordigest.com/politics/2023/08/22/ramaswamy-scrutiny-9-11/ramaswamy-scrutiny-9-11.webp</image:loc>
+          <image:loc>https://majordigest.com/politics/2023/08/22/rnc-announces-candidates-qualified-debate/rnc-announces-candidates-qualified-debate.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/politics/2023/08/22/d-c-attorney-general-is-probing-leonard-leos-network/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-22T20:27:23.000Z</news:publication_date>
+          <news:title>D.C. Attorney General is probing Leonard Leo&#8217;s network&#160;&#160;</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/politics/2023/08/22/d-c-attorney-general-is-probing-leonard-leos-network/d-c-attorney-general-is-probing-leonard-leos-network.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/politics/2023/08/22/gop-congressman-hit-ethics-complaint-condemning-christian-social-media-post/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-22T19:46:28.000Z</news:publication_date>
+          <news:title>GOP congressman hit with ethics complaint for condemning Christian social media post</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/politics/2023/08/22/gop-congressman-hit-ethics-complaint-condemning-christian-social-media-post/gop-congressman-hit-ethics-complaint-condemning-christian-social-media-post.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/politics/2023/08/22/republican-debate-2024-participants/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-22T21:08:55.000Z</news:publication_date>
+          <news:title>&#8216;Cherry-picking&#8217;: Candidates lash out at RNC after not making debate stage</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/politics/2023/08/22/republican-debate-2024-participants/republican-debate-2024-participants.webp</image:loc>
         </image:image>
       </url></urlset>
