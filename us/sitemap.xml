@@ -3,17 +3,73 @@
               xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
               xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
       <url>
-        <loc>https://majordigest.com/us/2023/08/23/plane-carrying-2-passengers-crashes-maine/</loc>
+        <loc>https://majordigest.com/us/2023/08/23/4-michigan-firefighters-suffer-heat-exhaustion-battling-factory-fire/</loc>
         <news:news>
           <news:publication>
             <news:name>Major Digest</news:name>
             <news:language>en</news:language>
           </news:publication>
-          <news:publication_date>2023-08-23T11:19:09.000Z</news:publication_date>
-          <news:title>Plane carrying 2 passengers crashes in Maine</news:title>
+          <news:publication_date>2023-08-23T11:27:29.000Z</news:publication_date>
+          <news:title>4 Michigan firefighters suffer heat exhaustion while battling factory fire</news:title>
         </news:news>
         <image:image>
-          <image:loc>https://majordigest.com/us/2023/08/23/plane-carrying-2-passengers-crashes-maine/plane-carrying-2-passengers-crashes-maine.webp</image:loc>
+          <image:loc>https://majordigest.com/us/2023/08/23/4-michigan-firefighters-suffer-heat-exhaustion-battling-factory-fire/4-michigan-firefighters-suffer-heat-exhaustion-battling-factory-fire.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/us/2023/08/23/catholic-orchard-owner-speaks-out-court-win-liberal-city-barred-him-farmers-market/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-23T12:00:09.000Z</news:publication_date>
+          <news:title>Catholic orchard owner speaks out after court win over liberal city that barred him from farmer's market</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/us/2023/08/23/catholic-orchard-owner-speaks-out-court-win-liberal-city-barred-him-farmers-market/catholic-orchard-owner-speaks-out-court-win-liberal-city-barred-him-farmers-market.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/us/2023/08/23/texas-man-arrested-after-ohio-mom-2-kidnapped-found-shot-dead-tennessee/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-23T12:06:09.000Z</news:publication_date>
+          <news:title>Texas man arrested after Ohio mom of 2 kidnapped, found shot dead in Tennessee</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/us/2023/08/23/texas-man-arrested-after-ohio-mom-2-kidnapped-found-shot-dead-tennessee/texas-man-arrested-after-ohio-mom-2-kidnapped-found-shot-dead-tennessee.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/us/2023/08/23/ex-ny-police-chief-led-gilgo-beach-murders-probe-arrested-soliciting-sex-long-island-park/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-23T11:02:49.000Z</news:publication_date>
+          <news:title>Ex-NY police chief who led Gilgo Beach murders probe arrested for allegedly soliciting sex at Long Island park</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/us/2023/08/23/ex-ny-police-chief-led-gilgo-beach-murders-probe-arrested-soliciting-sex-long-island-park/ex-ny-police-chief-led-gilgo-beach-murders-probe-arrested-soliciting-sex-long-island-park.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/us/2023/08/23/alabama-am-campus-shooting-leaves-2-people-injured/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-23T10:57:11.000Z</news:publication_date>
+          <news:title>Alabama A&#38;M University campus shooting leaves 2 people injured</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/us/2023/08/23/alabama-am-campus-shooting-leaves-2-people-injured/alabama-am-campus-shooting-leaves-2-people-injured.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -31,45 +87,17 @@
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/us/2023/08/23/4-michigan-firefighters-suffer-heat-exhaustion-battling-factory-fire/</loc>
+        <loc>https://majordigest.com/us/2023/08/23/plane-carrying-2-passengers-crashes-maine/</loc>
         <news:news>
           <news:publication>
             <news:name>Major Digest</news:name>
             <news:language>en</news:language>
           </news:publication>
-          <news:publication_date>2023-08-23T11:27:29.000Z</news:publication_date>
-          <news:title>4 Michigan firefighters suffer heat exhaustion while battling factory fire</news:title>
+          <news:publication_date>2023-08-23T11:19:09.000Z</news:publication_date>
+          <news:title>Plane carrying 2 passengers crashes in Maine</news:title>
         </news:news>
         <image:image>
-          <image:loc>https://majordigest.com/us/2023/08/23/4-michigan-firefighters-suffer-heat-exhaustion-battling-factory-fire/4-michigan-firefighters-suffer-heat-exhaustion-battling-factory-fire.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/us/2023/08/23/watch-kansas-98-year-old-makes-1st-amendment-stand-deputies-raid-home-get-out-my-house/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-23T11:00:32.000Z</news:publication_date>
-          <news:title>WATCH: Kansas 98-year-old makes First Amendment stand as deputies raid home: 'Get out of my house!'</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/us/2023/08/23/watch-kansas-98-year-old-makes-1st-amendment-stand-deputies-raid-home-get-out-my-house/watch-kansas-98-year-old-makes-1st-amendment-stand-deputies-raid-home-get-out-my-house.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/us/2023/08/23/catholic-orchard-owner-speaks-out-court-win-liberal-city-barred-him-farmers-market/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-23T12:00:09.000Z</news:publication_date>
-          <news:title>Catholic orchard owner speaks out after court win over liberal city that barred him from farmer's market</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/us/2023/08/23/catholic-orchard-owner-speaks-out-court-win-liberal-city-barred-him-farmers-market/catholic-orchard-owner-speaks-out-court-win-liberal-city-barred-him-farmers-market.webp</image:loc>
+          <image:loc>https://majordigest.com/us/2023/08/23/plane-carrying-2-passengers-crashes-maine/plane-carrying-2-passengers-crashes-maine.webp</image:loc>
         </image:image>
       </url>
       <url>

@@ -3,45 +3,45 @@
               xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
               xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
       <url>
-        <loc>https://majordigest.com/sports/2023/08/22/how-to-watch-olympic-gold-medalist-simone-biles-at-the-u-s-gymnastics-championships-in-san-jose-this-week/</loc>
+        <loc>https://majordigest.com/sports/2023/08/23/kansas-city-royals-unveil-2-potential-locations-for-new-stadium/</loc>
         <news:news>
           <news:publication>
             <news:name>Major Digest</news:name>
             <news:language>en</news:language>
           </news:publication>
-          <news:publication_date>2023-08-22T21:30:09.000Z</news:publication_date>
-          <news:title>How to see Olympic gold medalist Simone Biles at the U.S. Gymnastics Championships in San Jose this week</news:title>
+          <news:publication_date>2023-08-23T13:01:40.000Z</news:publication_date>
+          <news:title>Kansas City Royals unveil 2 potential locations for new stadium</news:title>
         </news:news>
         <image:image>
-          <image:loc>https://majordigest.com/sports/2023/08/22/how-to-watch-olympic-gold-medalist-simone-biles-at-the-u-s-gymnastics-championships-in-san-jose-this-week/how-to-watch-olympic-gold-medalist-simone-biles-at-the-u-s-gymnastics-championships-in-san-jose-this-week.webp</image:loc>
+          <image:loc>https://majordigest.com/sports/2023/08/23/kansas-city-royals-unveil-2-potential-locations-for-new-stadium/kansas-city-royals-unveil-2-potential-locations-for-new-stadium.webp</image:loc>
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/sports/2023/08/23/pga-tour-golfer-erik-compton-arrested-allegedly-throwing-wife-wall/</loc>
+        <loc>https://majordigest.com/sports/2023/08/23/bulls-lonzo-ball-rips-stephen-a-smith-bad-injury-report-who-your-sources-bro/</loc>
         <news:news>
           <news:publication>
             <news:name>Major Digest</news:name>
             <news:language>en</news:language>
           </news:publication>
-          <news:publication_date>2023-08-23T10:34:07.000Z</news:publication_date>
-          <news:title>PGA Tour golfer Erik Compton arrested after allegedly throwing wife into wall</news:title>
+          <news:publication_date>2023-08-23T10:15:39.000Z</news:publication_date>
+          <news:title>Bulls&#8217; Lonzo Ball rips Stephen A. Smith for bad injury report: &#8216;Who are your sources, bro?&#8217;</news:title>
         </news:news>
         <image:image>
-          <image:loc>https://majordigest.com/sports/2023/08/23/pga-tour-golfer-erik-compton-arrested-allegedly-throwing-wife-wall/pga-tour-golfer-erik-compton-arrested-allegedly-throwing-wife-wall.webp</image:loc>
+          <image:loc>https://majordigest.com/sports/2023/08/23/bulls-lonzo-ball-rips-stephen-a-smith-bad-injury-report-who-your-sources-bro/bulls-lonzo-ball-rips-stephen-a-smith-bad-injury-report-who-your-sources-bro.webp</image:loc>
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/sports/2023/08/23/49ers-end-of-preseason-dilemma-play-starters-or-sit-them/</loc>
+        <loc>https://majordigest.com/sports/2023/08/23/sf-giants-kyle-harrison-lives-up-to-hype-in-debut-but-phillies-win-on-a-walk-off/</loc>
         <news:news>
           <news:publication>
             <news:name>Major Digest</news:name>
             <news:language>en</news:language>
           </news:publication>
-          <news:publication_date>2023-08-23T12:45:34.000Z</news:publication_date>
-          <news:title>49ers&#8217; end-of-preseason dilemma: Play starters, or sit them?</news:title>
+          <news:publication_date>2023-08-23T01:39:03.000Z</news:publication_date>
+          <news:title>SF Giants&#8217; Kyle Harrison lives up to hype in debut, but Phillies win on a walk-off</news:title>
         </news:news>
         <image:image>
-          <image:loc>https://majordigest.com/sports/2023/08/23/49ers-end-of-preseason-dilemma-play-starters-or-sit-them/49ers-end-of-preseason-dilemma-play-starters-or-sit-them.webp</image:loc>
+          <image:loc>https://majordigest.com/sports/2023/08/23/sf-giants-kyle-harrison-lives-up-to-hype-in-debut-but-phillies-win-on-a-walk-off/sf-giants-kyle-harrison-lives-up-to-hype-in-debut-but-phillies-win-on-a-walk-off.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -59,6 +59,20 @@
         </image:image>
       </url>
       <url>
+        <loc>https://majordigest.com/sports/2023/08/22/how-to-watch-olympic-gold-medalist-simone-biles-at-the-u-s-gymnastics-championships-in-san-jose-this-week/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-22T21:30:09.000Z</news:publication_date>
+          <news:title>How to see Olympic gold medalist Simone Biles at the U.S. Gymnastics Championships in San Jose this week</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/sports/2023/08/22/how-to-watch-olympic-gold-medalist-simone-biles-at-the-u-s-gymnastics-championships-in-san-jose-this-week/how-to-watch-olympic-gold-medalist-simone-biles-at-the-u-s-gymnastics-championships-in-san-jose-this-week.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
         <loc>https://majordigest.com/sports/2023/08/23/megan-rapinoe-dismisses-uswnt-criticism-early-womens-world-cup-exit-fake-disingenuous/</loc>
         <news:news>
           <news:publication>
@@ -73,44 +87,44 @@
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/sports/2023/08/22/column-in-1984-the-ncaa-dropped-the-ball-and-college-sports-is-still-paying-the-price/</loc>
+        <loc>https://majordigest.com/sports/2023/08/22/kurtenbach-trey-lance-or-sam-darnold-for-49ers-backup-quarterback-kyle-shanahan-says-both/</loc>
         <news:news>
           <news:publication>
             <news:name>Major Digest</news:name>
             <news:language>en</news:language>
           </news:publication>
-          <news:publication_date>2023-08-22T21:03:10.000Z</news:publication_date>
-          <news:title>Column: In 1984, the NCAA dropped the ball, and college sports is still paying the price</news:title>
+          <news:publication_date>2023-08-22T22:01:13.000Z</news:publication_date>
+          <news:title>Kurtenbach: Trey Lance or Sam Darnold for 49ers backup QB? Kyle Shanahan says &#8216;why not both?&#8217;</news:title>
         </news:news>
         <image:image>
-          <image:loc>https://majordigest.com/sports/2023/08/22/column-in-1984-the-ncaa-dropped-the-ball-and-college-sports-is-still-paying-the-price/column-in-1984-the-ncaa-dropped-the-ball-and-college-sports-is-still-paying-the-price.webp</image:loc>
+          <image:loc>https://majordigest.com/sports/2023/08/22/kurtenbach-trey-lance-or-sam-darnold-for-49ers-backup-quarterback-kyle-shanahan-says-both/kurtenbach-trey-lance-or-sam-darnold-for-49ers-backup-quarterback-kyle-shanahan-says-both.webp</image:loc>
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/sports/2023/08/23/much-hyped-usc-freshman-tackett-curtis-set-to-play-big-role-vs-san-jose-state/</loc>
+        <loc>https://majordigest.com/sports/2023/08/23/pga-tour-golfer-erik-compton-arrested-allegedly-throwing-wife-wall/</loc>
         <news:news>
           <news:publication>
             <news:name>Major Digest</news:name>
             <news:language>en</news:language>
           </news:publication>
-          <news:publication_date>2023-08-23T11:35:01.000Z</news:publication_date>
-          <news:title>Much-hyped USC freshman Tackett Curtis set to play big role vs. San Jose State</news:title>
+          <news:publication_date>2023-08-23T10:34:07.000Z</news:publication_date>
+          <news:title>PGA Tour golfer Erik Compton arrested after allegedly throwing wife into wall</news:title>
         </news:news>
         <image:image>
-          <image:loc>https://majordigest.com/sports/2023/08/23/much-hyped-usc-freshman-tackett-curtis-set-to-play-big-role-vs-san-jose-state/much-hyped-usc-freshman-tackett-curtis-set-to-play-big-role-vs-san-jose-state.webp</image:loc>
+          <image:loc>https://majordigest.com/sports/2023/08/23/pga-tour-golfer-erik-compton-arrested-allegedly-throwing-wife-wall/pga-tour-golfer-erik-compton-arrested-allegedly-throwing-wife-wall.webp</image:loc>
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/sports/2023/08/23/titans-will-levis-proud-loved-ones-handled-spotlight-reveals-how-he-stayed-sane-draft-fall/</loc>
+        <loc>https://majordigest.com/sports/2023/08/23/titans-caleb-farley-breaks-silence-dad-dies-north-carolina-home-explosion/</loc>
         <news:news>
           <news:publication>
             <news:name>Major Digest</news:name>
             <news:language>en</news:language>
           </news:publication>
-          <news:publication_date>2023-08-23T09:00:09.000Z</news:publication_date>
-          <news:title>Titans' Will Levis 'proud' of how loved ones handled spotlight, reveals how he stayed 'sane' during draft fall</news:title>
+          <news:publication_date>2023-08-23T13:42:41.000Z</news:publication_date>
+          <news:title>Titans' Caleb Farley breaks silence after dad dies in North Carolina home explosion</news:title>
         </news:news>
         <image:image>
-          <image:loc>https://majordigest.com/sports/2023/08/23/titans-will-levis-proud-loved-ones-handled-spotlight-reveals-how-he-stayed-sane-draft-fall/titans-will-levis-proud-loved-ones-handled-spotlight-reveals-how-he-stayed-sane-draft-fall.webp</image:loc>
+          <image:loc>https://majordigest.com/sports/2023/08/23/titans-caleb-farley-breaks-silence-dad-dies-north-carolina-home-explosion/titans-caleb-farley-breaks-silence-dad-dies-north-carolina-home-explosion.webp</image:loc>
         </image:image>
       </url></urlset>
