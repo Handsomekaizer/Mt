@@ -3,48 +3,6 @@
               xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
               xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
       <url>
-        <loc>https://majordigest.com/us/2023/08/23/3-year-old-girl-wounded-when-ny-murder-suspects-bullet-pierced-apartment-wall/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-23T17:49:39.000Z</news:publication_date>
-          <news:title>3-year-old girl wounded when NY murder suspect's bullet pierced apartment wall</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/us/2023/08/23/3-year-old-girl-wounded-when-ny-murder-suspects-bullet-pierced-apartment-wall/3-year-old-girl-wounded-when-ny-murder-suspects-bullet-pierced-apartment-wall.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/us/2023/08/23/cops-recover-items-interest-new-search-serial-killer-btk-former-kansas-property-sheriff-says/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-23T17:05:00.000Z</news:publication_date>
-          <news:title>Cops recover 'items of interest' in new search of serial killer BTK's former Kansas property, sheriff says</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/us/2023/08/23/cops-recover-items-interest-new-search-serial-killer-btk-former-kansas-property-sheriff-says/cops-recover-items-interest-new-search-serial-killer-btk-former-kansas-property-sheriff-says.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/us/2023/08/23/ana-walshe-case-investigators-react-tip-lawyers-wait-vital-dna-evidence/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-23T16:33:50.000Z</news:publication_date>
-          <news:title>Ana Walshe case: Investigators react to tip as lawyers wait for vital DNA evidence</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/us/2023/08/23/ana-walshe-case-investigators-react-tip-lawyers-wait-vital-dna-evidence/ana-walshe-case-investigators-react-tip-lawyers-wait-vital-dna-evidence.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
         <loc>https://majordigest.com/us/2023/08/23/5-injured-1-critically-massachusetts-wall-collapse/</loc>
         <news:news>
           <news:publication>
@@ -59,17 +17,45 @@
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/us/2023/08/23/texas-elementary-school-student-fires-gun-while-crowded-school-bus-no-injuries-reported/</loc>
+        <loc>https://majordigest.com/us/2023/08/23/half-naked-squatter-face-tattoos-tries-drown-deputy-bizarre-chase-cops/</loc>
         <news:news>
           <news:publication>
             <news:name>Major Digest</news:name>
             <news:language>en</news:language>
           </news:publication>
-          <news:publication_date>2023-08-23T17:50:58.000Z</news:publication_date>
-          <news:title>Texas elementary school student fires gun while on crowded school bus, no injuries reported</news:title>
+          <news:publication_date>2023-08-23T17:45:05.000Z</news:publication_date>
+          <news:title>Half-naked squatter with face tattoos tries to drown deputy during bizarre chase: cops</news:title>
         </news:news>
         <image:image>
-          <image:loc>https://majordigest.com/us/2023/08/23/texas-elementary-school-student-fires-gun-while-crowded-school-bus-no-injuries-reported/texas-elementary-school-student-fires-gun-while-crowded-school-bus-no-injuries-reported.webp</image:loc>
+          <image:loc>https://majordigest.com/us/2023/08/23/half-naked-squatter-face-tattoos-tries-drown-deputy-bizarre-chase-cops/half-naked-squatter-face-tattoos-tries-drown-deputy-bizarre-chase-cops.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/us/2023/08/23/off-duty-corrections-officer-turns-tables-would-be-carjacker-shoot-him-philadelphia-gas-station/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-23T18:13:09.000Z</news:publication_date>
+          <news:title>Off-duty corrections officer turns tables on would-be carjacker, shoots him at Philadelphia gas station</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/us/2023/08/23/off-duty-corrections-officer-turns-tables-would-be-carjacker-shoot-him-philadelphia-gas-station/off-duty-corrections-officer-turns-tables-would-be-carjacker-shoot-him-philadelphia-gas-station.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/us/2023/08/23/3-year-old-girl-wounded-when-ny-murder-suspects-bullet-pierced-apartment-wall/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-23T17:49:39.000Z</news:publication_date>
+          <news:title>3-year-old girl wounded when NY murder suspect's bullet pierced apartment wall</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/us/2023/08/23/3-year-old-girl-wounded-when-ny-murder-suspects-bullet-pierced-apartment-wall/3-year-old-girl-wounded-when-ny-murder-suspects-bullet-pierced-apartment-wall.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -87,20 +73,6 @@
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/us/2023/08/23/rachel-morin-murder-volunteer-group-offers-2000-reward/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-23T17:11:38.000Z</news:publication_date>
-          <news:title>Rachel Morin murder: Volunteer group offers $2,000 reward</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/us/2023/08/23/rachel-morin-murder-volunteer-group-offers-2000-reward/rachel-morin-murder-volunteer-group-offers-2000-reward.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
         <loc>https://majordigest.com/us/2023/08/23/teen-leaves-virginia-high-school-after-official-told-him-remove-american-flags-pickup-truck/</loc>
         <news:news>
           <news:publication>
@@ -112,19 +84,5 @@
         </news:news>
         <image:image>
           <image:loc>https://majordigest.com/us/2023/08/23/teen-leaves-virginia-high-school-after-official-told-him-remove-american-flags-pickup-truck/teen-leaves-virginia-high-school-after-official-told-him-remove-american-flags-pickup-truck.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/us/2023/08/23/half-naked-squatter-face-tattoos-tries-drown-deputy-bizarre-chase-cops/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-23T17:45:05.000Z</news:publication_date>
-          <news:title>Half-naked squatter with face tattoos tries to drown deputy during bizarre chase: cops</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/us/2023/08/23/half-naked-squatter-face-tattoos-tries-drown-deputy-bizarre-chase-cops/half-naked-squatter-face-tattoos-tries-drown-deputy-bizarre-chase-cops.webp</image:loc>
         </image:image>
       </url></urlset>
