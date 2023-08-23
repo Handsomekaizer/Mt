@@ -3,59 +3,17 @@
               xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
               xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
       <url>
-        <loc>https://majordigest.com/world/2023/08/22/iran-unveils-armed-drone-resembling-americas-mq-9-reaper-claims-could-reach-israel/</loc>
+        <loc>https://majordigest.com/world/2023/08/22/18-migrants-believed-dead-greece-wildfire-ravaged-northeast/</loc>
         <news:news>
           <news:publication>
             <news:name>Major Digest</news:name>
             <news:language>en</news:language>
           </news:publication>
-          <news:publication_date>2023-08-22T19:30:31.000Z</news:publication_date>
-          <news:title>Iran unveils armed drone resembling America's MQ-9 Reaper, claims it could reach Israel</news:title>
+          <news:publication_date>2023-08-22T20:26:20.000Z</news:publication_date>
+          <news:title>18 migrants believed dead in Greece's wildfire-ravaged northeast</news:title>
         </news:news>
         <image:image>
-          <image:loc>https://majordigest.com/world/2023/08/22/iran-unveils-armed-drone-resembling-americas-mq-9-reaper-claims-could-reach-israel/iran-unveils-armed-drone-resembling-americas-mq-9-reaper-claims-could-reach-israel.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/world/2023/08/22/turkish-foreign-minister-urges-iraq-label-kurdistan-workers-party-terrorist-group/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-22T22:31:01.000Z</news:publication_date>
-          <news:title>Turkish foreign minister urges Iraq to label Kurdistan Worker's Party as terrorist group</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/world/2023/08/22/turkish-foreign-minister-urges-iraq-label-kurdistan-workers-party-terrorist-group/turkish-foreign-minister-urges-iraq-label-kurdistan-workers-party-terrorist-group.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/world/2023/08/22/central-mexico-bus-carrying-migrants-crashes-freight-truck-claiming-15-lives-injuring-36/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-22T19:53:11.000Z</news:publication_date>
-          <news:title>Central Mexico bus carrying migrants crashes into freight truck, claiming 15 lives, injuring 36</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/world/2023/08/22/central-mexico-bus-carrying-migrants-crashes-freight-truck-claiming-15-lives-injuring-36/central-mexico-bus-carrying-migrants-crashes-freight-truck-claiming-15-lives-injuring-36.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/world/2023/08/22/taliban-militants-launch-ambush-pakistani-military-convoy-resulting-deadly-clash/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-22T19:14:06.000Z</news:publication_date>
-          <news:title>Taliban militants launch ambush on Pakistani military convoy, resulting in deadly clash</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/world/2023/08/22/taliban-militants-launch-ambush-pakistani-military-convoy-resulting-deadly-clash/taliban-militants-launch-ambush-pakistani-military-convoy-resulting-deadly-clash.webp</image:loc>
+          <image:loc>https://majordigest.com/world/2023/08/22/18-migrants-believed-dead-greece-wildfire-ravaged-northeast/18-migrants-believed-dead-greece-wildfire-ravaged-northeast.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -73,16 +31,44 @@
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/world/2023/08/22/spanish-conservatives-first-chance-forming-government-inconclusive-elections/</loc>
+        <loc>https://majordigest.com/world/2023/08/22/central-mexico-bus-carrying-migrants-crashes-freight-truck-claiming-15-lives-injuring-36/</loc>
         <news:news>
           <news:publication>
             <news:name>Major Digest</news:name>
             <news:language>en</news:language>
           </news:publication>
-          <news:publication_date>2023-08-22T23:18:35.000Z</news:publication_date>
-          <news:title>Spanish conservatives get first chance at forming government following inconclusive elections</news:title>
+          <news:publication_date>2023-08-22T19:53:11.000Z</news:publication_date>
+          <news:title>Central Mexico bus carrying migrants crashes into freight truck, claiming 15 lives, injuring 36</news:title>
         </news:news>
         <image:image>
-          <image:loc>https://majordigest.com/world/2023/08/22/spanish-conservatives-first-chance-forming-government-inconclusive-elections/spanish-conservatives-first-chance-forming-government-inconclusive-elections.webp</image:loc>
+          <image:loc>https://majordigest.com/world/2023/08/22/central-mexico-bus-carrying-migrants-crashes-freight-truck-claiming-15-lives-injuring-36/central-mexico-bus-carrying-migrants-crashes-freight-truck-claiming-15-lives-injuring-36.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/world/2023/08/22/coast-guard-ends-search-possible-crashed-plane-near-bahamas/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-22T21:11:18.000Z</news:publication_date>
+          <news:title>Coast Guard ends search for possible crashed plane near Bahamas</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/world/2023/08/22/coast-guard-ends-search-possible-crashed-plane-near-bahamas/coast-guard-ends-search-possible-crashed-plane-near-bahamas.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/world/2023/08/23/blade-runners-take-action-after-london-installs-cameras-track-fine-drivers-name-climate/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-23T03:19:35.000Z</news:publication_date>
+          <news:title>'Blade Runners' take action after London installs cameras to track, fine drivers in the name of climate</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/world/2023/08/23/blade-runners-take-action-after-london-installs-cameras-track-fine-drivers-name-climate/blade-runners-take-action-after-london-installs-cameras-track-fine-drivers-name-climate.webp</image:loc>
         </image:image>
       </url></urlset>

@@ -3,20 +3,6 @@
               xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
               xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
       <url>
-        <loc>https://majordigest.com/politics/2023/08/22/trump-indictment-false-electors/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-22T14:17:15.000Z</news:publication_date>
-          <news:title>Trump attorneys guided false electors in Georgia, GOP chair says</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/politics/2023/08/22/trump-indictment-false-electors/trump-indictment-false-electors.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
         <loc>https://majordigest.com/politics/2023/08/22/d-c-attorney-general-is-probing-leonard-leos-network/</loc>
         <news:news>
           <news:publication>
@@ -31,45 +17,17 @@
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/politics/2023/08/22/biden-repeatedly-told-exaggerated-house-fire-story-victims-tragedies/</loc>
+        <loc>https://majordigest.com/politics/2023/08/22/republican-debate-2024-participants/</loc>
         <news:news>
           <news:publication>
             <news:name>Major Digest</news:name>
             <news:language>en</news:language>
           </news:publication>
-          <news:publication_date>2023-08-22T21:24:32.000Z</news:publication_date>
-          <news:title>Biden has repeatedly told exaggerated house fire story to victims of tragedies</news:title>
+          <news:publication_date>2023-08-22T21:08:55.000Z</news:publication_date>
+          <news:title>&#8216;Cherry-picking&#8217;: Candidates lash out at RNC after not making debate stage</news:title>
         </news:news>
         <image:image>
-          <image:loc>https://majordigest.com/politics/2023/08/22/biden-repeatedly-told-exaggerated-house-fire-story-victims-tragedies/biden-repeatedly-told-exaggerated-house-fire-story-victims-tragedies.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/politics/2023/08/22/border-residents-fearful-middle-americans-wont-hear-warning-immigration-crisis-ahead-election-day/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-22T21:25:20.000Z</news:publication_date>
-          <news:title>Border residents fearful Middle Americans won't hear warning about immigration crisis ahead of Election Day</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/politics/2023/08/22/border-residents-fearful-middle-americans-wont-hear-warning-immigration-crisis-ahead-election-day/border-residents-fearful-middle-americans-wont-hear-warning-immigration-crisis-ahead-election-day.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/politics/2023/08/22/feds-greenlight-offshore-wind-project-near-rhode-island-marthas-vineyard/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-22T21:33:24.000Z</news:publication_date>
-          <news:title>Feds greenlight offshore wind project near Rhode Island, Martha's Vineyard</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/politics/2023/08/22/feds-greenlight-offshore-wind-project-near-rhode-island-marthas-vineyard/feds-greenlight-offshore-wind-project-near-rhode-island-marthas-vineyard.webp</image:loc>
+          <image:loc>https://majordigest.com/politics/2023/08/22/republican-debate-2024-participants/republican-debate-2024-participants.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -87,30 +45,72 @@
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/politics/2023/08/22/state-police-must-make-social-media-monitoring-practices-public-high-court-rules/</loc>
+        <loc>https://majordigest.com/politics/2023/08/22/wisconsins-liberal-supreme-court-crosshairs-gop-lawmakers-grill-judicial-ethics-commissioners/</loc>
         <news:news>
           <news:publication>
             <news:name>Major Digest</news:name>
             <news:language>en</news:language>
           </news:publication>
-          <news:publication_date>2023-08-22T20:59:35.000Z</news:publication_date>
-          <news:title>State police must make social media monitoring practices public, high court rules</news:title>
+          <news:publication_date>2023-08-22T21:41:46.000Z</news:publication_date>
+          <news:title>Wisconsin's liberal Supreme Court in crosshairs as GOP lawmakers grill judicial ethics commissioners</news:title>
         </news:news>
         <image:image>
-          <image:loc>https://majordigest.com/politics/2023/08/22/state-police-must-make-social-media-monitoring-practices-public-high-court-rules/state-police-must-make-social-media-monitoring-practices-public-high-court-rules.webp</image:loc>
+          <image:loc>https://majordigest.com/politics/2023/08/22/wisconsins-liberal-supreme-court-crosshairs-gop-lawmakers-grill-judicial-ethics-commissioners/wisconsins-liberal-supreme-court-crosshairs-gop-lawmakers-grill-judicial-ethics-commissioners.webp</image:loc>
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/politics/2023/08/22/ramaswamy-scrutiny-9-11/</loc>
+        <loc>https://majordigest.com/politics/2023/08/22/ronna-mcdaniel-trump-gop-debate/</loc>
         <news:news>
           <news:publication>
             <news:name>Major Digest</news:name>
             <news:language>en</news:language>
           </news:publication>
-          <news:publication_date>2023-08-22T19:22:00.000Z</news:publication_date>
-          <news:title>Ramaswamy faces scrutiny over suggesting government involvement in 9/11</news:title>
+          <news:publication_date>2023-08-22T23:42:44.000Z</news:publication_date>
+          <news:title>&#8216;I wish he were here&#8217;: Ronna McDaniel talks Trump on the eve of first GOP primary debate</news:title>
         </news:news>
         <image:image>
-          <image:loc>https://majordigest.com/politics/2023/08/22/ramaswamy-scrutiny-9-11/ramaswamy-scrutiny-9-11.webp</image:loc>
+          <image:loc>https://majordigest.com/politics/2023/08/22/ronna-mcdaniel-trump-gop-debate/ronna-mcdaniel-trump-gop-debate.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/politics/2023/08/22/bret-baier-speaks-with-wisconsin-voters-ahead-debate/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-22T23:26:40.000Z</news:publication_date>
+          <news:title>Bret Baier speaks with Wisconsin voters ahead of debate</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/politics/2023/08/22/bret-baier-speaks-with-wisconsin-voters-ahead-debate/bret-baier-speaks-with-wisconsin-voters-ahead-debate.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/politics/2023/08/23/biden-family-huddles-in-secrecy-exclusive-lake-tahoe-home-special-counsel-investigation-hunter/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-23T04:16:26.000Z</news:publication_date>
+          <news:title>Biden family huddles in secrecy in exclusive Lake Tahoe home amid special counsel investigation into Hunter</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/politics/2023/08/23/biden-family-huddles-in-secrecy-exclusive-lake-tahoe-home-special-counsel-investigation-hunter/biden-family-huddles-in-secrecy-exclusive-lake-tahoe-home-special-counsel-investigation-hunter.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/politics/2023/08/22/excited-milwaukeeans-reveal-gop-candidates-watching-debate-stage/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-22T20:30:59.000Z</news:publication_date>
+          <news:title>&#8216;Excited&#8217; Milwaukeeans reveal the GOP candidates they are most looking forward to watching on the debate stage</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/politics/2023/08/22/excited-milwaukeeans-reveal-gop-candidates-watching-debate-stage/excited-milwaukeeans-reveal-gop-candidates-watching-debate-stage.webp</image:loc>
         </image:image>
       </url></urlset>
