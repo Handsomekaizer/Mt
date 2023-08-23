@@ -3,34 +3,6 @@
               xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
               xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
       <url>
-        <loc>https://majordigest.com/us/2023/08/22/pennsylvania-man-allegedly-shot-killed-roommate-argument-dog-da/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-22T22:34:10.000Z</news:publication_date>
-          <news:title>Pennsylvania man, 83, allegedly shot, killed roommate after argument over dog: DA</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/us/2023/08/22/pennsylvania-man-allegedly-shot-killed-roommate-argument-dog-da/pennsylvania-man-allegedly-shot-killed-roommate-argument-dog-da.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/us/2023/08/22/apple-successfully-dismisses-lawsuit-alleging-racial-bias-apple-watch-blood-oxygen-sensor-accuracy/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-22T21:48:36.000Z</news:publication_date>
-          <news:title>Apple successfully dismisses lawsuit alleging 'racial bias' in Apple watch blood oxygen sensor accuracy</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/us/2023/08/22/apple-successfully-dismisses-lawsuit-alleging-racial-bias-apple-watch-blood-oxygen-sensor-accuracy/apple-successfully-dismisses-lawsuit-alleging-racial-bias-apple-watch-blood-oxygen-sensor-accuracy.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
         <loc>https://majordigest.com/us/2023/08/22/former-detroit-area-mayor-pleads-guilty-bribery-case-involving-contractor-foreclosed-properties/</loc>
         <news:news>
           <news:publication>
@@ -45,30 +17,72 @@
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/us/2023/08/22/solar-panels-surround-dulles-airport-deliver-power-37000-homes/</loc>
+        <loc>https://majordigest.com/us/2023/08/22/alabama-city-councilman-pleads-guilty-shoplifting-multiple-walmarts/</loc>
         <news:news>
           <news:publication>
             <news:name>Major Digest</news:name>
             <news:language>en</news:language>
           </news:publication>
-          <news:publication_date>2023-08-22T22:32:25.000Z</news:publication_date>
-          <news:title>Solar panels to surround Dulles Airport will deliver power to 37,000 homes</news:title>
+          <news:publication_date>2023-08-22T22:59:25.000Z</news:publication_date>
+          <news:title>Alabama city councilman pleads guilty to shoplifting from multiple Walmarts</news:title>
         </news:news>
         <image:image>
-          <image:loc>https://majordigest.com/us/2023/08/22/solar-panels-surround-dulles-airport-deliver-power-37000-homes/solar-panels-surround-dulles-airport-deliver-power-37000-homes.webp</image:loc>
+          <image:loc>https://majordigest.com/us/2023/08/22/alabama-city-councilman-pleads-guilty-shoplifting-multiple-walmarts/alabama-city-councilman-pleads-guilty-shoplifting-multiple-walmarts.webp</image:loc>
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/us/2023/08/22/3-florida-residents-file-lawsuit-alleging-inadequate-notification-health-insurance-termination/</loc>
+        <loc>https://majordigest.com/us/2023/08/22/oakland-sees-4-homicides-since-sunday/</loc>
         <news:news>
           <news:publication>
             <news:name>Major Digest</news:name>
             <news:language>en</news:language>
           </news:publication>
-          <news:publication_date>2023-08-22T22:33:55.000Z</news:publication_date>
-          <news:title>3 Florida residents file lawsuit alleging inadequate notification of health insurance termination</news:title>
+          <news:publication_date>2023-08-22T23:52:22.000Z</news:publication_date>
+          <news:title>Oakland sees 4 homicides since Sunday</news:title>
         </news:news>
         <image:image>
-          <image:loc>https://majordigest.com/us/2023/08/22/3-florida-residents-file-lawsuit-alleging-inadequate-notification-health-insurance-termination/3-florida-residents-file-lawsuit-alleging-inadequate-notification-health-insurance-termination.webp</image:loc>
+          <image:loc>https://majordigest.com/us/2023/08/22/oakland-sees-4-homicides-since-sunday/oakland-sees-4-homicides-since-sunday.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/us/2023/08/23/florida-man-swipes-nearly-11k-worth-meats-ingredients-tampa-restaurant-police/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-23T00:07:35.000Z</news:publication_date>
+          <news:title>Florida man swipes nearly $11k worth of meats and ingredients from Tampa restaurant: Police</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/us/2023/08/23/florida-man-swipes-nearly-11k-worth-meats-ingredients-tampa-restaurant-police/florida-man-swipes-nearly-11k-worth-meats-ingredients-tampa-restaurant-police.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/us/2023/08/23/missouri-mayor-ban-military-grade-weapons-being-carried-st-louis-streets/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-23T00:24:18.000Z</news:publication_date>
+          <news:title>Missouri mayor looks to ban military-grade weapons from being carried on St. Louis streets</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/us/2023/08/23/missouri-mayor-ban-military-grade-weapons-being-carried-st-louis-streets/missouri-mayor-ban-military-grade-weapons-being-carried-st-louis-streets.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/us/2023/08/22/texas-man-fires-suspects-posing-maintenance-workers-through-front-door/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-22T23:11:29.000Z</news:publication_date>
+          <news:title>Texas man fires at suspects posing as maintenance workers through front door</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/us/2023/08/22/texas-man-fires-suspects-posing-maintenance-workers-through-front-door/texas-man-fires-suspects-posing-maintenance-workers-through-front-door.webp</image:loc>
         </image:image>
       </url></urlset>
