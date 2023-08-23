@@ -3,20 +3,6 @@
               xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
               xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
       <url>
-        <loc>https://majordigest.com/tech/2023/08/21/robot-taxis-wreak-havoc-in-san-francisco-dont-want-them-in-your-bay-area-city-tough-luck/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-21T13:00:10.000Z</news:publication_date>
-          <news:title>Robotaxis wreak havoc in San Francisco. Don&#8217;t want them in your Bay Area city? Tough luck</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/tech/2023/08/21/robot-taxis-wreak-havoc-in-san-francisco-dont-want-them-in-your-bay-area-city-tough-luck/robot-taxis-wreak-havoc-in-san-francisco-dont-want-them-in-your-bay-area-city-tough-luck.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
         <loc>https://majordigest.com/tech/2023/08/21/russias-luna-25-spacecraft-crashes-into-the-moon-ending-its-bid-to-reach-the-lunar-south-pole/</loc>
         <news:news>
           <news:publication>
@@ -31,34 +17,6 @@
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/tech/2023/08/20/adobe-co-founder-john-warnock-a-giant-in-the-tech-world-dies-at-82/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-20T22:53:30.000Z</news:publication_date>
-          <news:title>Adobe co-founder John Warnock, a giant in the tech world, dies at 82</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/tech/2023/08/20/adobe-co-founder-john-warnock-a-giant-in-the-tech-world-dies-at-82/adobe-co-founder-john-warnock-a-giant-in-the-tech-world-dies-at-82.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/tech/2023/08/19/6-privacy-security-question-answers-clear-up-once-for-all/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-19T13:55:32.000Z</news:publication_date>
-          <news:title>Six privacy and security questions and answers to clear up once and for all</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/tech/2023/08/19/6-privacy-security-question-answers-clear-up-once-for-all/6-privacy-security-question-answers-clear-up-once-for-all.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
         <loc>https://majordigest.com/tech/2023/08/18/google-security-check-60-seconds-kick-snoops-hackers/</loc>
         <news:news>
           <news:publication>
@@ -70,48 +28,6 @@
         </news:news>
         <image:image>
           <image:loc>https://majordigest.com/tech/2023/08/18/google-security-check-60-seconds-kick-snoops-hackers/google-security-check-60-seconds-kick-snoops-hackers.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/tech/2023/08/21/why-would-elon-musk-lash-out-at-james-woods-of-all-people/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-21T17:53:20.000Z</news:publication_date>
-          <news:title>Why would Elon Musk lash out at James Woods, of all people?</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/tech/2023/08/21/why-would-elon-musk-lash-out-at-james-woods-of-all-people/why-would-elon-musk-lash-out-at-james-woods-of-all-people.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/tech/2023/08/20/7-ways-foolproof-save-money-tough-economy/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-20T17:32:43.000Z</news:publication_date>
-          <news:title>7 foolproof ways to save money in a tough economy</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/tech/2023/08/20/7-ways-foolproof-save-money-tough-economy/7-ways-foolproof-save-money-tough-economy.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/tech/2023/08/21/ready-for-an-electric-car-what-you-need-to-know/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-21T17:23:44.000Z</news:publication_date>
-          <news:title>Ready for an electric car? What you need to know</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/tech/2023/08/21/ready-for-an-electric-car-what-you-need-to-know/ready-for-an-electric-car-what-you-need-to-know.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -143,16 +59,114 @@
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/tech/2023/08/22/say-goodbye-photobombs-easy-ways-remove-unwanted-background-objects/</loc>
+        <loc>https://majordigest.com/tech/2023/08/19/protect-yourself-tech-support-scams/</loc>
         <news:news>
           <news:publication>
             <news:name>Major Digest</news:name>
             <news:language>en</news:language>
           </news:publication>
-          <news:publication_date>2023-08-22T17:29:00.000Z</news:publication_date>
-          <news:title>Say goodbye to photobombs: easy ways to remove unwanted background objects</news:title>
+          <news:publication_date>2023-08-19T17:49:46.000Z</news:publication_date>
+          <news:title>Protect yourself from tech support scams</news:title>
         </news:news>
         <image:image>
-          <image:loc>https://majordigest.com/tech/2023/08/22/say-goodbye-photobombs-easy-ways-remove-unwanted-background-objects/say-goodbye-photobombs-easy-ways-remove-unwanted-background-objects.webp</image:loc>
+          <image:loc>https://majordigest.com/tech/2023/08/19/protect-yourself-tech-support-scams/protect-yourself-tech-support-scams.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/tech/2023/08/21/why-would-elon-musk-lash-out-at-james-woods-of-all-people/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-21T17:53:20.000Z</news:publication_date>
+          <news:title>Why would Elon Musk lash out at James Woods, of all people?</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/tech/2023/08/21/why-would-elon-musk-lash-out-at-james-woods-of-all-people/why-would-elon-musk-lash-out-at-james-woods-of-all-people.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/tech/2023/08/21/best-prompts-get-most-ai-chatbot/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-21T19:00:28.000Z</news:publication_date>
+          <news:title>Best prompts to get the most out of an AI chatbot</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/tech/2023/08/21/best-prompts-get-most-ai-chatbot/best-prompts-get-most-ai-chatbot.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/tech/2023/08/20/7-ways-foolproof-save-money-tough-economy/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-20T17:32:43.000Z</news:publication_date>
+          <news:title>7 foolproof ways to save money in a tough economy</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/tech/2023/08/20/7-ways-foolproof-save-money-tough-economy/7-ways-foolproof-save-money-tough-economy.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/tech/2023/08/21/robot-taxis-wreak-havoc-in-san-francisco-dont-want-them-in-your-bay-area-city-tough-luck/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-21T13:00:10.000Z</news:publication_date>
+          <news:title>Robotaxis wreak havoc in San Francisco. Don&#8217;t want them in your Bay Area city? Tough luck</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/tech/2023/08/21/robot-taxis-wreak-havoc-in-san-francisco-dont-want-them-in-your-bay-area-city-tough-luck/robot-taxis-wreak-havoc-in-san-francisco-dont-want-them-in-your-bay-area-city-tough-luck.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/tech/2023/08/22/how-to-set-up-earthquake-alerts-on-your-phone/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-22T11:57:59.000Z</news:publication_date>
+          <news:title>How to set up earthquake alerts on your phone</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/tech/2023/08/22/how-to-set-up-earthquake-alerts-on-your-phone/how-to-set-up-earthquake-alerts-on-your-phone.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/tech/2023/08/21/despite-fbi-takedown-infamous-raccoon-stealer-malware-returns/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-21T16:00:01.000Z</news:publication_date>
+          <news:title>Despite FBI takedown, infamous Raccoon Stealer malware returns</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/tech/2023/08/21/despite-fbi-takedown-infamous-raccoon-stealer-malware-returns/despite-fbi-takedown-infamous-raccoon-stealer-malware-returns.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/tech/2023/08/20/set-up-free-messaging-phone-traveling-internationally/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-20T18:27:51.000Z</news:publication_date>
+          <news:title>How to set up free messaging on your phone while traveling internationally</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/tech/2023/08/20/set-up-free-messaging-phone-traveling-internationally/set-up-free-messaging-phone-traveling-internationally.webp</image:loc>
         </image:image>
       </url></urlset>
