@@ -3,45 +3,17 @@
               xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
               xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
       <url>
-        <loc>https://majordigest.com/us/2023/08/23/4-michigan-firefighters-suffer-heat-exhaustion-battling-factory-fire/</loc>
+        <loc>https://majordigest.com/us/2023/08/23/crews-begin-restore-southern-california-following-1st-tropical-storm-hit-region-84-years/</loc>
         <news:news>
           <news:publication>
             <news:name>Major Digest</news:name>
             <news:language>en</news:language>
           </news:publication>
-          <news:publication_date>2023-08-23T11:27:29.000Z</news:publication_date>
-          <news:title>4 Michigan firefighters suffer heat exhaustion while battling factory fire</news:title>
+          <news:publication_date>2023-08-23T14:54:43.000Z</news:publication_date>
+          <news:title>Crews begin to restore Southern California following 1st tropical storm to hit the region in 84 years</news:title>
         </news:news>
         <image:image>
-          <image:loc>https://majordigest.com/us/2023/08/23/4-michigan-firefighters-suffer-heat-exhaustion-battling-factory-fire/4-michigan-firefighters-suffer-heat-exhaustion-battling-factory-fire.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/us/2023/08/23/major-washington-highway-reopens-following-wildfire-north-cascades-national-park/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-23T14:17:20.000Z</news:publication_date>
-          <news:title>Major Washington highway reopens following wildfire in North Cascades National Park</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/us/2023/08/23/major-washington-highway-reopens-following-wildfire-north-cascades-national-park/major-washington-highway-reopens-following-wildfire-north-cascades-national-park.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/us/2023/08/23/catholic-orchard-owner-speaks-out-court-win-liberal-city-barred-him-farmers-market/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-23T12:00:09.000Z</news:publication_date>
-          <news:title>Catholic orchard owner speaks out after court win over liberal city that barred him from farmer's market</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/us/2023/08/23/catholic-orchard-owner-speaks-out-court-win-liberal-city-barred-him-farmers-market/catholic-orchard-owner-speaks-out-court-win-liberal-city-barred-him-farmers-market.webp</image:loc>
+          <image:loc>https://majordigest.com/us/2023/08/23/crews-begin-restore-southern-california-following-1st-tropical-storm-hit-region-84-years/crews-begin-restore-southern-california-following-1st-tropical-storm-hit-region-84-years.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -73,20 +45,6 @@
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/us/2023/08/23/texas-man-arrested-after-ohio-mom-2-kidnapped-found-shot-dead-tennessee/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-23T12:06:09.000Z</news:publication_date>
-          <news:title>Texas man arrested after Ohio mom of 2 kidnapped, found shot dead in Tennessee</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/us/2023/08/23/texas-man-arrested-after-ohio-mom-2-kidnapped-found-shot-dead-tennessee/texas-man-arrested-after-ohio-mom-2-kidnapped-found-shot-dead-tennessee.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
         <loc>https://majordigest.com/us/2023/08/23/washington-authorities-release-names-3-seattle-hookah-lounge-shooting-victims/</loc>
         <news:news>
           <news:publication>
@@ -98,5 +56,61 @@
         </news:news>
         <image:image>
           <image:loc>https://majordigest.com/us/2023/08/23/washington-authorities-release-names-3-seattle-hookah-lounge-shooting-victims/washington-authorities-release-names-3-seattle-hookah-lounge-shooting-victims.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/us/2023/08/23/louisville-police-rescue-captive-woman-chained-floor-home-dramatic-bodycam-video/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-23T15:44:46.000Z</news:publication_date>
+          <news:title>Louisville police rescue captive woman chained to floor of home in dramatic bodycam video</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/us/2023/08/23/louisville-police-rescue-captive-woman-chained-floor-home-dramatic-bodycam-video/louisville-police-rescue-captive-woman-chained-floor-home-dramatic-bodycam-video.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/us/2023/08/23/concealed-carry-holder-flips-script-attempted-carjacking-shoots-suspect-accomplice/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-23T14:42:42.000Z</news:publication_date>
+          <news:title>Concealed carry holder flips the script during attempted carjacking, shoots suspect and accomplice</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/us/2023/08/23/concealed-carry-holder-flips-script-attempted-carjacking-shoots-suspect-accomplice/concealed-carry-holder-flips-script-attempted-carjacking-shoots-suspect-accomplice.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/us/2023/08/23/crisis-kensington-want-shoot-up-front-police-place-mayoral-candidate/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-23T16:15:11.000Z</news:publication_date>
+          <news:title>CRISIS IN KENSINGTON: If you want to &#8216;shoot up in front of police,' this is the place: mayoral candidate</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/us/2023/08/23/crisis-kensington-want-shoot-up-front-police-place-mayoral-candidate/crisis-kensington-want-shoot-up-front-police-place-mayoral-candidate.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/us/2023/08/23/major-washington-highway-reopens-following-wildfire-north-cascades-national-park/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-23T14:17:20.000Z</news:publication_date>
+          <news:title>Major Washington highway reopens following wildfire in North Cascades National Park</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/us/2023/08/23/major-washington-highway-reopens-following-wildfire-north-cascades-national-park/major-washington-highway-reopens-following-wildfire-north-cascades-national-park.webp</image:loc>
         </image:image>
       </url></urlset>
