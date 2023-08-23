@@ -3,6 +3,90 @@
               xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
               xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
       <url>
+        <loc>https://majordigest.com/politics/2023/08/23/ny-republicans-furious-pentagon-plea-deal-talks-september-11/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-23T11:00:02.000Z</news:publication_date>
+          <news:title>NY Republicans furious over Pentagon plea deal talks with alleged 9/11 perpetrators: &#8216;Slap in the face'</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/politics/2023/08/23/ny-republicans-furious-pentagon-plea-deal-talks-september-11/ny-republicans-furious-pentagon-plea-deal-talks-september-11.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/politics/2023/08/22/d-c-attorney-general-is-probing-leonard-leos-network/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-22T20:27:23.000Z</news:publication_date>
+          <news:title>D.C. Attorney General is probing Leonard Leo&#8217;s network&#160;&#160;</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/politics/2023/08/22/d-c-attorney-general-is-probing-leonard-leos-network/d-c-attorney-general-is-probing-leonard-leos-network.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/politics/2023/08/23/north-dakota-gov-doug-burgum-suffers-injury-republican-presidential-debate/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-23T13:23:46.000Z</news:publication_date>
+          <news:title>North Dakota Gov. Doug Burgum suffers injury ahead of Republican presidential debate</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/politics/2023/08/23/north-dakota-gov-doug-burgum-suffers-injury-republican-presidential-debate/north-dakota-gov-doug-burgum-suffers-injury-republican-presidential-debate.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/politics/2023/08/23/tennessee-school-shooting-protestors-removed-from-special-legislative-session-regarding-gun-control/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-23T13:26:34.000Z</news:publication_date>
+          <news:title>Tennessee school shooting protestors removed from special legislative session regarding gun control</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/politics/2023/08/23/tennessee-school-shooting-protestors-removed-from-special-legislative-session-regarding-gun-control/tennessee-school-shooting-protestors-removed-from-special-legislative-session-regarding-gun-control.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/politics/2023/08/23/michigan-democrat-signed-nda-involving-ccp-tied-company-documents-show-contradicting-her-past-claims/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-23T13:00:27.000Z</news:publication_date>
+          <news:title>Michigan Democrat signed NDA involving CCP-tied company, documents show, contradicting her past claims</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/politics/2023/08/23/michigan-democrat-signed-nda-involving-ccp-tied-company-documents-show-contradicting-her-past-claims/michigan-democrat-signed-nda-involving-ccp-tied-company-documents-show-contradicting-her-past-claims.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/politics/2023/08/23/vivek-ramaswamy-republican-candidate-profile/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-23T09:00:00.000Z</news:publication_date>
+          <news:title>The Astonishing, Unexpected and Completely Modern Rise of Vivek Ramaswamy</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/politics/2023/08/23/vivek-ramaswamy-republican-candidate-profile/vivek-ramaswamy-republican-candidate-profile.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
         <loc>https://majordigest.com/politics/2023/08/22/meadows-clark-fight-to-stave-off-arrest-in-georgia/</loc>
         <news:news>
           <news:publication>
@@ -31,62 +115,6 @@
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/politics/2023/08/23/two-more-trump-co-defendants-surrender-georgia-election-fraud-case/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-23T13:47:10.000Z</news:publication_date>
-          <news:title>Two more Trump co-defendants surrender in Georgia election fraud case</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/politics/2023/08/23/two-more-trump-co-defendants-surrender-georgia-election-fraud-case/two-more-trump-co-defendants-surrender-georgia-election-fraud-case.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/politics/2023/08/22/ronna-mcdaniel-trump-gop-debate/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-22T23:42:44.000Z</news:publication_date>
-          <news:title>&#8216;I wish he were here&#8217;: Ronna McDaniel talks Trump on the eve of first GOP primary debate</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/politics/2023/08/22/ronna-mcdaniel-trump-gop-debate/ronna-mcdaniel-trump-gop-debate.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/politics/2023/08/23/parental-rights-protesters-clash-with-pro-lgbtq-youth-in-downtown-la/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-23T11:00:27.000Z</news:publication_date>
-          <news:title>Parental rights protesters battle backers of Calif school policy to hide gender identity from parents</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/politics/2023/08/23/parental-rights-protesters-clash-with-pro-lgbtq-youth-in-downtown-la/parental-rights-protesters-clash-with-pro-lgbtq-youth-in-downtown-la.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/politics/2023/08/23/michigan-democrat-signed-nda-involving-ccp-tied-company-documents-show-contradicting-her-past-claims/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-23T13:00:27.000Z</news:publication_date>
-          <news:title>Michigan Democrat signed NDA involving CCP-tied company, documents show, contradicting her past claims</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/politics/2023/08/23/michigan-democrat-signed-nda-involving-ccp-tied-company-documents-show-contradicting-her-past-claims/michigan-democrat-signed-nda-involving-ccp-tied-company-documents-show-contradicting-her-past-claims.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
         <loc>https://majordigest.com/politics/2023/08/23/ramaswamy-follows-rfk-jr-viral-pushup-trend-sharing-own-workout-videos-ahead-first-gop-debate/</loc>
         <news:news>
           <news:publication>
@@ -98,5 +126,19 @@
         </news:news>
         <image:image>
           <image:loc>https://majordigest.com/politics/2023/08/23/ramaswamy-follows-rfk-jr-viral-pushup-trend-sharing-own-workout-videos-ahead-first-gop-debate/ramaswamy-follows-rfk-jr-viral-pushup-trend-sharing-own-workout-videos-ahead-first-gop-debate.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/politics/2023/08/23/two-more-trump-co-defendants-surrender-georgia-election-fraud-case/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-23T13:47:10.000Z</news:publication_date>
+          <news:title>Two more Trump co-defendants surrender in Georgia election fraud case</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/politics/2023/08/23/two-more-trump-co-defendants-surrender-georgia-election-fraud-case/two-more-trump-co-defendants-surrender-georgia-election-fraud-case.webp</image:loc>
         </image:image>
       </url></urlset>
