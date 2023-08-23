@@ -3,31 +3,45 @@
               xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
               xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
       <url>
-        <loc>https://majordigest.com/politics/2023/08/23/x-suspends-desantis-pacs-account-hours-debate/</loc>
+        <loc>https://majordigest.com/politics/2023/08/23/republican-presidential-candidates-gop/</loc>
         <news:news>
           <news:publication>
             <news:name>Major Digest</news:name>
             <news:language>en</news:language>
           </news:publication>
-          <news:publication_date>2023-08-23T16:22:54.000Z</news:publication_date>
-          <news:title>X suspends DeSantis PAC's account hours before debate</news:title>
+          <news:publication_date>2023-08-23T20:31:19.000Z</news:publication_date>
+          <news:title>Who are the Republican presidential candidates at the first GOP debate?</news:title>
         </news:news>
         <image:image>
-          <image:loc>https://majordigest.com/politics/2023/08/23/x-suspends-desantis-pacs-account-hours-debate/x-suspends-desantis-pacs-account-hours-debate.webp</image:loc>
+          <image:loc>https://majordigest.com/politics/2023/08/23/republican-presidential-candidates-gop/republican-presidential-candidates-gop.webp</image:loc>
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/politics/2023/08/23/wi-gop-dominated-legislature-asks-new-democratic-backed-justice-recuse-herself-redistricting-case/</loc>
+        <loc>https://majordigest.com/politics/2023/08/23/hunter-biden-traveled-least-13-countries-vp-dad-i-can-catch-ride-him/</loc>
         <news:news>
           <news:publication>
             <news:name>Major Digest</news:name>
             <news:language>en</news:language>
           </news:publication>
-          <news:publication_date>2023-08-23T17:53:00.000Z</news:publication_date>
-          <news:title>WI GOP-dominated Legislature asks new Democratic-backed justice to recuse herself from redistricting case</news:title>
+          <news:publication_date>2023-08-23T20:43:30.000Z</news:publication_date>
+          <news:title>Hunter Biden traveled to at least 13 countries with VP dad: &#8216;I can catch a ride with him&#8217;</news:title>
         </news:news>
         <image:image>
-          <image:loc>https://majordigest.com/politics/2023/08/23/wi-gop-dominated-legislature-asks-new-democratic-backed-justice-recuse-herself-redistricting-case/wi-gop-dominated-legislature-asks-new-democratic-backed-justice-recuse-herself-redistricting-case.webp</image:loc>
+          <image:loc>https://majordigest.com/politics/2023/08/23/hunter-biden-traveled-least-13-countries-vp-dad-i-can-catch-ride-him/hunter-biden-traveled-least-13-countries-vp-dad-i-can-catch-ride-him.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/politics/2023/08/23/dnc-chief-blasts-gop-2024-lineup-milwaukee-debate-bag-full-maga-apples/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-23T18:58:26.000Z</news:publication_date>
+          <news:title>DNC chief blasts GOP 2024 lineup ahead of Milwaukee debate: 'A bag full of MAGA apples'</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/politics/2023/08/23/dnc-chief-blasts-gop-2024-lineup-milwaukee-debate-bag-full-maga-apples/dnc-chief-blasts-gop-2024-lineup-milwaukee-debate-bag-full-maga-apples.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -42,6 +56,20 @@
         </news:news>
         <image:image>
           <image:loc>https://majordigest.com/politics/2023/08/23/gops-anti-woke-campaigns-have-voters-hitting-snooze/gops-anti-woke-campaigns-have-voters-hitting-snooze.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/politics/2023/08/23/wi-gop-dominated-legislature-asks-new-democratic-backed-justice-recuse-herself-redistricting-case/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-23T17:53:00.000Z</news:publication_date>
+          <news:title>WI GOP-dominated Legislature asks new Democratic-backed justice to recuse herself from redistricting case</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/politics/2023/08/23/wi-gop-dominated-legislature-asks-new-democratic-backed-justice-recuse-herself-redistricting-case/wi-gop-dominated-legislature-asks-new-democratic-backed-justice-recuse-herself-redistricting-case.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -73,44 +101,16 @@
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/politics/2023/08/23/democrats-milwaukee-biden-messages-gop-primary-debate/</loc>
+        <loc>https://majordigest.com/politics/2023/08/23/x-suspends-desantis-pacs-account-hours-debate/</loc>
         <news:news>
           <news:publication>
             <news:name>Major Digest</news:name>
             <news:language>en</news:language>
           </news:publication>
-          <news:publication_date>2023-08-23T15:52:27.000Z</news:publication_date>
-          <news:title>Democrats blanket Milwaukee with pro-Biden messages ahead of GOP primary debate</news:title>
+          <news:publication_date>2023-08-23T16:22:54.000Z</news:publication_date>
+          <news:title>X suspends DeSantis PAC's account hours before debate</news:title>
         </news:news>
         <image:image>
-          <image:loc>https://majordigest.com/politics/2023/08/23/democrats-milwaukee-biden-messages-gop-primary-debate/democrats-milwaukee-biden-messages-gop-primary-debate.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/politics/2023/08/23/first-republican-presidential-debate-awesome-opportunity-candidates-score-breakout-moments/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-23T19:00:10.000Z</news:publication_date>
-          <news:title>First Republican presidential debate an 'awesome opportunity' for candidates to score breakout moments</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/politics/2023/08/23/first-republican-presidential-debate-awesome-opportunity-candidates-score-breakout-moments/first-republican-presidential-debate-awesome-opportunity-candidates-score-breakout-moments.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/politics/2023/08/23/gop-lawmakers-rail-against-auctioned-off-border-wall-materials-biden-abuse-taxpayer-dollars/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-23T16:02:45.000Z</news:publication_date>
-          <news:title>GOP lawmakers rail against auctioned off border wall materials under Biden: 'Abuse of taxpayer dollars'</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/politics/2023/08/23/gop-lawmakers-rail-against-auctioned-off-border-wall-materials-biden-abuse-taxpayer-dollars/gop-lawmakers-rail-against-auctioned-off-border-wall-materials-biden-abuse-taxpayer-dollars.webp</image:loc>
+          <image:loc>https://majordigest.com/politics/2023/08/23/x-suspends-desantis-pacs-account-hours-debate/x-suspends-desantis-pacs-account-hours-debate.webp</image:loc>
         </image:image>
       </url></urlset>
