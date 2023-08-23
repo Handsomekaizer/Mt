@@ -3,31 +3,17 @@
               xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
               xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
       <url>
-        <loc>https://majordigest.com/politics/2023/08/23/republican-presidential-candidates-gop/</loc>
+        <loc>https://majordigest.com/politics/2023/08/23/gop-reps-call-more-overtime-pay-border-patrol-agents-tackling-ongoing-migrant-crisis/</loc>
         <news:news>
           <news:publication>
             <news:name>Major Digest</news:name>
             <news:language>en</news:language>
           </news:publication>
-          <news:publication_date>2023-08-23T20:31:19.000Z</news:publication_date>
-          <news:title>Who are the Republican presidential candidates at the first GOP debate?</news:title>
+          <news:publication_date>2023-08-23T21:16:20.000Z</news:publication_date>
+          <news:title>GOP reps call for more overtime pay for Border Patrol agents tackling ongoing migrant crisis</news:title>
         </news:news>
         <image:image>
-          <image:loc>https://majordigest.com/politics/2023/08/23/republican-presidential-candidates-gop/republican-presidential-candidates-gop.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/politics/2023/08/23/hunter-biden-traveled-least-13-countries-vp-dad-i-can-catch-ride-him/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-23T20:43:30.000Z</news:publication_date>
-          <news:title>Hunter Biden traveled to at least 13 countries with VP dad: &#8216;I can catch a ride with him&#8217;</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/politics/2023/08/23/hunter-biden-traveled-least-13-countries-vp-dad-i-can-catch-ride-him/hunter-biden-traveled-least-13-countries-vp-dad-i-can-catch-ride-him.webp</image:loc>
+          <image:loc>https://majordigest.com/politics/2023/08/23/gop-reps-call-more-overtime-pay-border-patrol-agents-tackling-ongoing-migrant-crisis/gop-reps-call-more-overtime-pay-border-patrol-agents-tackling-ongoing-migrant-crisis.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -45,6 +31,20 @@
         </image:image>
       </url>
       <url>
+        <loc>https://majordigest.com/politics/2023/08/23/republican-presidential-candidates-gop/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-23T20:31:19.000Z</news:publication_date>
+          <news:title>Who are the Republican presidential candidates at the first GOP debate?</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/politics/2023/08/23/republican-presidential-candidates-gop/republican-presidential-candidates-gop.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
         <loc>https://majordigest.com/politics/2023/08/23/gops-anti-woke-campaigns-have-voters-hitting-snooze/</loc>
         <news:news>
           <news:publication>
@@ -59,58 +59,44 @@
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/politics/2023/08/23/wi-gop-dominated-legislature-asks-new-democratic-backed-justice-recuse-herself-redistricting-case/</loc>
+        <loc>https://majordigest.com/politics/2023/08/23/georgia-trump-racketeering-case-state-court/</loc>
         <news:news>
           <news:publication>
             <news:name>Major Digest</news:name>
             <news:language>en</news:language>
           </news:publication>
-          <news:publication_date>2023-08-23T17:53:00.000Z</news:publication_date>
-          <news:title>WI GOP-dominated Legislature asks new Democratic-backed justice to recuse herself from redistricting case</news:title>
+          <news:publication_date>2023-08-23T19:29:41.000Z</news:publication_date>
+          <news:title>Federal judge rejects bids to halt Georgia prosecution of Trump aides over 2020 election</news:title>
         </news:news>
         <image:image>
-          <image:loc>https://majordigest.com/politics/2023/08/23/wi-gop-dominated-legislature-asks-new-democratic-backed-justice-recuse-herself-redistricting-case/wi-gop-dominated-legislature-asks-new-democratic-backed-justice-recuse-herself-redistricting-case.webp</image:loc>
+          <image:loc>https://majordigest.com/politics/2023/08/23/georgia-trump-racketeering-case-state-court/georgia-trump-racketeering-case-state-court.webp</image:loc>
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/politics/2023/08/23/nikki-haley-swipes-ramaswamy-scott-china-first-primary-debate-people-understand/</loc>
+        <loc>https://majordigest.com/politics/2023/08/23/hunter-biden-traveled-least-13-countries-vp-dad-i-can-catch-ride-him/</loc>
         <news:news>
           <news:publication>
             <news:name>Major Digest</news:name>
             <news:language>en</news:language>
           </news:publication>
-          <news:publication_date>2023-08-23T17:08:15.000Z</news:publication_date>
-          <news:title>Nikki Haley swipes Ramaswamy, Scott on China ahead of first primary debate: 'People who don&#8217;t understand'</news:title>
+          <news:publication_date>2023-08-23T20:43:30.000Z</news:publication_date>
+          <news:title>Hunter Biden traveled to at least 13 countries with VP dad: &#8216;I can catch a ride with him&#8217;</news:title>
         </news:news>
         <image:image>
-          <image:loc>https://majordigest.com/politics/2023/08/23/nikki-haley-swipes-ramaswamy-scott-china-first-primary-debate-people-understand/nikki-haley-swipes-ramaswamy-scott-china-first-primary-debate-people-understand.webp</image:loc>
+          <image:loc>https://majordigest.com/politics/2023/08/23/hunter-biden-traveled-least-13-countries-vp-dad-i-can-catch-ride-him/hunter-biden-traveled-least-13-countries-vp-dad-i-can-catch-ride-him.webp</image:loc>
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/politics/2023/08/23/biden-admin-fund-4m-study-linking-climate-change-child-labor-trafficking-nepal-grant-docs-show/</loc>
+        <loc>https://majordigest.com/politics/2023/08/23/giuliani-mugshot-released-turns-himself-trump-georgia-2020-case/</loc>
         <news:news>
           <news:publication>
             <news:name>Major Digest</news:name>
             <news:language>en</news:language>
           </news:publication>
-          <news:publication_date>2023-08-23T16:50:00.000Z</news:publication_date>
-          <news:title>Biden admin to fund $4M study linking climate change to child labor, trafficking in Nepal, grant docs show</news:title>
+          <news:publication_date>2023-08-23T21:11:24.000Z</news:publication_date>
+          <news:title>Giuliani mugshot released after he turns himself in on Trump-Georgia 2020 case</news:title>
         </news:news>
         <image:image>
-          <image:loc>https://majordigest.com/politics/2023/08/23/biden-admin-fund-4m-study-linking-climate-change-child-labor-trafficking-nepal-grant-docs-show/biden-admin-fund-4m-study-linking-climate-change-child-labor-trafficking-nepal-grant-docs-show.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/politics/2023/08/23/x-suspends-desantis-pacs-account-hours-debate/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-23T16:22:54.000Z</news:publication_date>
-          <news:title>X suspends DeSantis PAC's account hours before debate</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/politics/2023/08/23/x-suspends-desantis-pacs-account-hours-debate/x-suspends-desantis-pacs-account-hours-debate.webp</image:loc>
+          <image:loc>https://majordigest.com/politics/2023/08/23/giuliani-mugshot-released-turns-himself-trump-georgia-2020-case/giuliani-mugshot-released-turns-himself-trump-georgia-2020-case.webp</image:loc>
         </image:image>
       </url></urlset>
