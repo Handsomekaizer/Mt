@@ -3,17 +3,31 @@
               xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
               xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
       <url>
-        <loc>https://majordigest.com/politics/2023/08/22/bret-baier-speaks-with-wisconsin-voters-ahead-debate/</loc>
+        <loc>https://majordigest.com/politics/2023/08/22/biden-repeatedly-told-exaggerated-house-fire-story-victims-tragedies/</loc>
         <news:news>
           <news:publication>
             <news:name>Major Digest</news:name>
             <news:language>en</news:language>
           </news:publication>
-          <news:publication_date>2023-08-22T23:26:40.000Z</news:publication_date>
-          <news:title>Bret Baier speaks with Wisconsin voters ahead of debate</news:title>
+          <news:publication_date>2023-08-22T21:24:32.000Z</news:publication_date>
+          <news:title>Biden has repeatedly told exaggerated house fire story to victims of tragedies</news:title>
         </news:news>
         <image:image>
-          <image:loc>https://majordigest.com/politics/2023/08/22/bret-baier-speaks-with-wisconsin-voters-ahead-debate/bret-baier-speaks-with-wisconsin-voters-ahead-debate.webp</image:loc>
+          <image:loc>https://majordigest.com/politics/2023/08/22/biden-repeatedly-told-exaggerated-house-fire-story-victims-tragedies/biden-repeatedly-told-exaggerated-house-fire-story-victims-tragedies.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/politics/2023/08/22/ramaswamy-scrutiny-9-11/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-22T19:22:00.000Z</news:publication_date>
+          <news:title>Ramaswamy faces scrutiny over suggesting government involvement in 9/11</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/politics/2023/08/22/ramaswamy-scrutiny-9-11/ramaswamy-scrutiny-9-11.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -31,59 +45,17 @@
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/politics/2023/08/22/border-residents-fearful-middle-americans-wont-hear-warning-immigration-crisis-ahead-election-day/</loc>
+        <loc>https://majordigest.com/politics/2023/08/22/feds-greenlight-offshore-wind-project-near-rhode-island-marthas-vineyard/</loc>
         <news:news>
           <news:publication>
             <news:name>Major Digest</news:name>
             <news:language>en</news:language>
           </news:publication>
-          <news:publication_date>2023-08-22T21:25:20.000Z</news:publication_date>
-          <news:title>Border residents fearful Middle Americans won't hear warning about immigration crisis ahead of Election Day</news:title>
+          <news:publication_date>2023-08-22T21:33:24.000Z</news:publication_date>
+          <news:title>Feds greenlight offshore wind project near Rhode Island, Martha's Vineyard</news:title>
         </news:news>
         <image:image>
-          <image:loc>https://majordigest.com/politics/2023/08/22/border-residents-fearful-middle-americans-wont-hear-warning-immigration-crisis-ahead-election-day/border-residents-fearful-middle-americans-wont-hear-warning-immigration-crisis-ahead-election-day.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/politics/2023/08/22/state-police-must-make-social-media-monitoring-practices-public-high-court-rules/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-22T20:59:35.000Z</news:publication_date>
-          <news:title>State police must make social media monitoring practices public, high court rules</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/politics/2023/08/22/state-police-must-make-social-media-monitoring-practices-public-high-court-rules/state-police-must-make-social-media-monitoring-practices-public-high-court-rules.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/politics/2023/08/22/sept-11-families-emotional-plea-biden/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-22T22:19:29.000Z</news:publication_date>
-          <news:title>Sept. 11 families make emotional plea to Biden</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/politics/2023/08/22/sept-11-families-emotional-plea-biden/sept-11-families-emotional-plea-biden.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/politics/2023/08/22/wisconsins-liberal-supreme-court-crosshairs-gop-lawmakers-grill-judicial-ethics-commissioners/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-22T21:41:46.000Z</news:publication_date>
-          <news:title>Wisconsin's liberal Supreme Court in crosshairs as GOP lawmakers grill judicial ethics commissioners</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/politics/2023/08/22/wisconsins-liberal-supreme-court-crosshairs-gop-lawmakers-grill-judicial-ethics-commissioners/wisconsins-liberal-supreme-court-crosshairs-gop-lawmakers-grill-judicial-ethics-commissioners.webp</image:loc>
+          <image:loc>https://majordigest.com/politics/2023/08/22/feds-greenlight-offshore-wind-project-near-rhode-island-marthas-vineyard/feds-greenlight-offshore-wind-project-near-rhode-island-marthas-vineyard.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -98,6 +70,76 @@
         </news:news>
         <image:image>
           <image:loc>https://majordigest.com/politics/2023/08/22/republican-debate-trump-skip/republican-debate-trump-skip.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/politics/2023/08/22/bret-baier-speaks-with-wisconsin-voters-ahead-debate/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-22T23:26:40.000Z</news:publication_date>
+          <news:title>Bret Baier speaks with Wisconsin voters ahead of debate</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/politics/2023/08/22/bret-baier-speaks-with-wisconsin-voters-ahead-debate/bret-baier-speaks-with-wisconsin-voters-ahead-debate.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/politics/2023/08/23/biden-family-huddles-in-secrecy-exclusive-lake-tahoe-home-special-counsel-investigation-hunter/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-23T04:16:26.000Z</news:publication_date>
+          <news:title>Biden family huddles in secrecy in exclusive Lake Tahoe home amid special counsel investigation into Hunter</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/politics/2023/08/23/biden-family-huddles-in-secrecy-exclusive-lake-tahoe-home-special-counsel-investigation-hunter/biden-family-huddles-in-secrecy-exclusive-lake-tahoe-home-special-counsel-investigation-hunter.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/politics/2023/08/22/d-c-attorney-general-is-probing-leonard-leos-network/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-22T20:27:23.000Z</news:publication_date>
+          <news:title>D.C. Attorney General is probing Leonard Leo&#8217;s network&#160;&#160;</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/politics/2023/08/22/d-c-attorney-general-is-probing-leonard-leos-network/d-c-attorney-general-is-probing-leonard-leos-network.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/politics/2023/08/23/democrat-lawmakers-defend-character-republican-official-investigation-trump-georgia-case/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-23T05:38:59.000Z</news:publication_date>
+          <news:title>Democrat lawmakers defend character of Republican official facing investigation related to Trump-Georgia case</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/politics/2023/08/23/democrat-lawmakers-defend-character-republican-official-investigation-trump-georgia-case/democrat-lawmakers-defend-character-republican-official-investigation-trump-georgia-case.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/politics/2023/08/22/meadows-clark-fight-to-stave-off-arrest-in-georgia/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-22T20:07:02.000Z</news:publication_date>
+          <news:title>Meadows, Clark fight to stave off arrest in Georgia</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/politics/2023/08/22/meadows-clark-fight-to-stave-off-arrest-in-georgia/meadows-clark-fight-to-stave-off-arrest-in-georgia.webp</image:loc>
         </image:image>
       </url>
       <url>

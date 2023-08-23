@@ -3,20 +3,6 @@
               xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
               xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
       <url>
-        <loc>https://majordigest.com/sports/2023/08/22/column-in-1984-the-ncaa-dropped-the-ball-and-college-sports-is-still-paying-the-price/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-22T21:03:10.000Z</news:publication_date>
-          <news:title>Column: In 1984, the NCAA dropped the ball, and college sports is still paying the price</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/sports/2023/08/22/column-in-1984-the-ncaa-dropped-the-ball-and-college-sports-is-still-paying-the-price/column-in-1984-the-ncaa-dropped-the-ball-and-college-sports-is-still-paying-the-price.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
         <loc>https://majordigest.com/sports/2023/08/22/warriors-steph-curry-hes-best-point-guard-all-time/</loc>
         <news:news>
           <news:publication>
@@ -28,6 +14,62 @@
         </news:news>
         <image:image>
           <image:loc>https://majordigest.com/sports/2023/08/22/warriors-steph-curry-hes-best-point-guard-all-time/warriors-steph-curry-hes-best-point-guard-all-time.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/sports/2023/08/23/three-time-mvp-mike-trout-returns-lineup-angels-dwindling-playoff-hopes/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-23T01:21:17.000Z</news:publication_date>
+          <news:title>Three-time MVP Mike Trout returns to lineup amid Angels dwindling playoff hopes</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/sports/2023/08/23/three-time-mvp-mike-trout-returns-lineup-angels-dwindling-playoff-hopes/three-time-mvp-mike-trout-returns-lineup-angels-dwindling-playoff-hopes.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/sports/2023/08/22/michael-oher-blind-side-didnt-portray-work-ethic-prior-joining-tuohy-family/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-22T20:08:45.000Z</news:publication_date>
+          <news:title>Michael Oher says 'The Blind Side' didn't portray work ethic prior to joining Tuohy family</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/sports/2023/08/22/michael-oher-blind-side-didnt-portray-work-ethic-prior-joining-tuohy-family/michael-oher-blind-side-didnt-portray-work-ethic-prior-joining-tuohy-family.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/sports/2023/08/22/with-super-conferences-and-cfp-expansion-on-horizon-2023-is-the-end-of-an-era-in-college-football/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-22T20:58:02.000Z</news:publication_date>
+          <news:title>With super conferences and CFP expansion on horizon, 2023 is the end of an era in college football</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/sports/2023/08/22/with-super-conferences-and-cfp-expansion-on-horizon-2023-is-the-end-of-an-era-in-college-football/with-super-conferences-and-cfp-expansion-on-horizon-2023-is-the-end-of-an-era-in-college-football.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/sports/2023/08/22/how-to-watch-olympic-gold-medalist-simone-biles-at-the-u-s-gymnastics-championships-in-san-jose-this-week/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-22T21:30:09.000Z</news:publication_date>
+          <news:title>How to see Olympic gold medalist Simone Biles at the U.S. Gymnastics Championships in San Jose this week</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/sports/2023/08/22/how-to-watch-olympic-gold-medalist-simone-biles-at-the-u-s-gymnastics-championships-in-san-jose-this-week/how-to-watch-olympic-gold-medalist-simone-biles-at-the-u-s-gymnastics-championships-in-san-jose-this-week.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -45,44 +87,16 @@
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/sports/2023/08/22/legendary-pro-wrestler-hulk-hogan-details-vicious-cycle-painkiller-addiction-string-surgeries/</loc>
+        <loc>https://majordigest.com/sports/2023/08/23/as-top-royals-5-4-to-spoil-zack-greinkes-return-from-the-injured-list/</loc>
         <news:news>
           <news:publication>
             <news:name>Major Digest</news:name>
             <news:language>en</news:language>
           </news:publication>
-          <news:publication_date>2023-08-22T22:39:28.000Z</news:publication_date>
-          <news:title>Legendary pro wrestler Hulk Hogan details 'vicious cycle' of painkiller addiction after string of surgeries</news:title>
+          <news:publication_date>2023-08-23T06:06:08.000Z</news:publication_date>
+          <news:title>A&#8217;s top Royals 5-4 to spoil Greinke&#8217;s return from the injured list</news:title>
         </news:news>
         <image:image>
-          <image:loc>https://majordigest.com/sports/2023/08/22/legendary-pro-wrestler-hulk-hogan-details-vicious-cycle-painkiller-addiction-string-surgeries/legendary-pro-wrestler-hulk-hogan-details-vicious-cycle-painkiller-addiction-string-surgeries.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/sports/2023/08/22/spains-head-coach-jorge-vilda-under-scrutiny-video-surfaces-touching-female-staffers-breast/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-22T22:02:04.000Z</news:publication_date>
-          <news:title>Spain's head coach Jorge Vilda under scrutiny after video surfaces of him touching female staffer's breast</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/sports/2023/08/22/spains-head-coach-jorge-vilda-under-scrutiny-video-surfaces-touching-female-staffers-breast/spains-head-coach-jorge-vilda-under-scrutiny-video-surfaces-touching-female-staffers-breast.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/sports/2023/08/22/kurtenbach-trey-lance-or-sam-darnold-for-49ers-backup-quarterback-kyle-shanahan-says-both/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-22T22:01:13.000Z</news:publication_date>
-          <news:title>Kurtenbach: Trey Lance or Sam Darnold for 49ers backup QB? Kyle Shanahan says &#8216;why not both?&#8217;</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/sports/2023/08/22/kurtenbach-trey-lance-or-sam-darnold-for-49ers-backup-quarterback-kyle-shanahan-says-both/kurtenbach-trey-lance-or-sam-darnold-for-49ers-backup-quarterback-kyle-shanahan-says-both.webp</image:loc>
+          <image:loc>https://majordigest.com/sports/2023/08/23/as-top-royals-5-4-to-spoil-zack-greinkes-return-from-the-injured-list/as-top-royals-5-4-to-spoil-zack-greinkes-return-from-the-injured-list.webp</image:loc>
         </image:image>
       </url></urlset>
