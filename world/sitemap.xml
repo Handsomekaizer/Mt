@@ -3,6 +3,34 @@
               xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
               xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
       <url>
+        <loc>https://majordigest.com/world/2023/08/22/turkish-foreign-minister-urges-iraq-label-kurdistan-workers-party-terrorist-group/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-22T22:31:01.000Z</news:publication_date>
+          <news:title>Turkish foreign minister urges Iraq to label Kurdistan Worker's Party as terrorist group</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/world/2023/08/22/turkish-foreign-minister-urges-iraq-label-kurdistan-workers-party-terrorist-group/turkish-foreign-minister-urges-iraq-label-kurdistan-workers-party-terrorist-group.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/world/2023/08/23/hong-kong-court-refuses-ban-protest-song-government-now-allowed-appeal-decision/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-23T12:07:31.000Z</news:publication_date>
+          <news:title>Hong Kong court refuses to ban protest song, government now allowed to appeal decision</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/world/2023/08/23/hong-kong-court-refuses-ban-protest-song-government-now-allowed-appeal-decision/hong-kong-court-refuses-ban-protest-song-government-now-allowed-appeal-decision.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
         <loc>https://majordigest.com/world/2023/08/22/spanish-conservatives-first-chance-forming-government-inconclusive-elections/</loc>
         <news:news>
           <news:publication>
@@ -17,45 +45,17 @@
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/world/2023/08/22/central-mexico-bus-carrying-migrants-crashes-freight-truck-claiming-15-lives-injuring-36/</loc>
+        <loc>https://majordigest.com/world/2023/08/22/coast-guard-ends-search-possible-crashed-plane-near-bahamas/</loc>
         <news:news>
           <news:publication>
             <news:name>Major Digest</news:name>
             <news:language>en</news:language>
           </news:publication>
-          <news:publication_date>2023-08-22T19:53:11.000Z</news:publication_date>
-          <news:title>Central Mexico bus carrying migrants crashes into freight truck, claiming 15 lives, injuring 36</news:title>
+          <news:publication_date>2023-08-22T21:11:18.000Z</news:publication_date>
+          <news:title>Coast Guard ends search for possible crashed plane near Bahamas</news:title>
         </news:news>
         <image:image>
-          <image:loc>https://majordigest.com/world/2023/08/22/central-mexico-bus-carrying-migrants-crashes-freight-truck-claiming-15-lives-injuring-36/central-mexico-bus-carrying-migrants-crashes-freight-truck-claiming-15-lives-injuring-36.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/world/2023/08/23/blade-runners-take-action-after-london-installs-cameras-track-fine-drivers-name-climate/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-23T03:19:35.000Z</news:publication_date>
-          <news:title>'Blade Runners' take action after London installs cameras to track, fine drivers in the name of climate</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/world/2023/08/23/blade-runners-take-action-after-london-installs-cameras-track-fine-drivers-name-climate/blade-runners-take-action-after-london-installs-cameras-track-fine-drivers-name-climate.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/world/2023/08/22/russia-moving-nuclear-weapons-belarus-polish-president/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-22T23:57:04.000Z</news:publication_date>
-          <news:title>Russia moving nuclear weapons to Belarus, Polish president says</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/world/2023/08/22/russia-moving-nuclear-weapons-belarus-polish-president/russia-moving-nuclear-weapons-belarus-polish-president.webp</image:loc>
+          <image:loc>https://majordigest.com/world/2023/08/22/coast-guard-ends-search-possible-crashed-plane-near-bahamas/coast-guard-ends-search-possible-crashed-plane-near-bahamas.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -73,44 +73,30 @@
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/world/2023/08/22/turkish-foreign-minister-urges-iraq-label-kurdistan-workers-party-terrorist-group/</loc>
+        <loc>https://majordigest.com/world/2023/08/22/russia-moving-nuclear-weapons-belarus-polish-president/</loc>
         <news:news>
           <news:publication>
             <news:name>Major Digest</news:name>
             <news:language>en</news:language>
           </news:publication>
-          <news:publication_date>2023-08-22T22:31:01.000Z</news:publication_date>
-          <news:title>Turkish foreign minister urges Iraq to label Kurdistan Worker's Party as terrorist group</news:title>
+          <news:publication_date>2023-08-22T23:57:04.000Z</news:publication_date>
+          <news:title>Russia moving nuclear weapons to Belarus, Polish president says</news:title>
         </news:news>
         <image:image>
-          <image:loc>https://majordigest.com/world/2023/08/22/turkish-foreign-minister-urges-iraq-label-kurdistan-workers-party-terrorist-group/turkish-foreign-minister-urges-iraq-label-kurdistan-workers-party-terrorist-group.webp</image:loc>
+          <image:loc>https://majordigest.com/world/2023/08/22/russia-moving-nuclear-weapons-belarus-polish-president/russia-moving-nuclear-weapons-belarus-polish-president.webp</image:loc>
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/world/2023/08/23/pakistani-boy-rescued-trapped-gondola-we-thought-going-die/</loc>
+        <loc>https://majordigest.com/world/2023/08/23/we-christians-are-like-animals-pakistani-seminary-student-shares-firsthand-account-extremist-violence/</loc>
         <news:news>
           <news:publication>
             <news:name>Major Digest</news:name>
             <news:language>en</news:language>
           </news:publication>
-          <news:publication_date>2023-08-23T10:47:23.000Z</news:publication_date>
-          <news:title>Pakistani boy rescued from trapped gondola says 'we thought all of us were going to die'</news:title>
+          <news:publication_date>2023-08-23T09:00:42.000Z</news:publication_date>
+          <news:title>'We Christians are like animals': Pakistani seminary student shares firsthand account of extremist violence</news:title>
         </news:news>
         <image:image>
-          <image:loc>https://majordigest.com/world/2023/08/23/pakistani-boy-rescued-trapped-gondola-we-thought-going-die/pakistani-boy-rescued-trapped-gondola-we-thought-going-die.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/world/2023/08/22/18-migrants-believed-dead-greece-wildfire-ravaged-northeast/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-22T20:26:20.000Z</news:publication_date>
-          <news:title>18 migrants believed dead in Greece's wildfire-ravaged northeast</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/world/2023/08/22/18-migrants-believed-dead-greece-wildfire-ravaged-northeast/18-migrants-believed-dead-greece-wildfire-ravaged-northeast.webp</image:loc>
+          <image:loc>https://majordigest.com/world/2023/08/23/we-christians-are-like-animals-pakistani-seminary-student-shares-firsthand-account-extremist-violence/we-christians-are-like-animals-pakistani-seminary-student-shares-firsthand-account-extremist-violence.webp</image:loc>
         </image:image>
       </url></urlset>
