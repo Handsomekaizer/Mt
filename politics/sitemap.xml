@@ -3,17 +3,17 @@
               xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
               xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
       <url>
-        <loc>https://majordigest.com/politics/2023/08/22/d-c-attorney-general-is-probing-leonard-leos-network/</loc>
+        <loc>https://majordigest.com/politics/2023/08/22/bret-baier-speaks-with-wisconsin-voters-ahead-debate/</loc>
         <news:news>
           <news:publication>
             <news:name>Major Digest</news:name>
             <news:language>en</news:language>
           </news:publication>
-          <news:publication_date>2023-08-22T20:27:23.000Z</news:publication_date>
-          <news:title>D.C. Attorney General is probing Leonard Leo&#8217;s network&#160;&#160;</news:title>
+          <news:publication_date>2023-08-22T23:26:40.000Z</news:publication_date>
+          <news:title>Bret Baier speaks with Wisconsin voters ahead of debate</news:title>
         </news:news>
         <image:image>
-          <image:loc>https://majordigest.com/politics/2023/08/22/d-c-attorney-general-is-probing-leonard-leos-network/d-c-attorney-general-is-probing-leonard-leos-network.webp</image:loc>
+          <image:loc>https://majordigest.com/politics/2023/08/22/bret-baier-speaks-with-wisconsin-voters-ahead-debate/bret-baier-speaks-with-wisconsin-voters-ahead-debate.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -31,17 +31,45 @@
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/politics/2023/08/22/republican-debate-trump-skip/</loc>
+        <loc>https://majordigest.com/politics/2023/08/22/border-residents-fearful-middle-americans-wont-hear-warning-immigration-crisis-ahead-election-day/</loc>
         <news:news>
           <news:publication>
             <news:name>Major Digest</news:name>
             <news:language>en</news:language>
           </news:publication>
-          <news:publication_date>2023-08-22T15:19:26.000Z</news:publication_date>
-          <news:title>Remember &#8216;small hands&#8217; and the menstruation taunts? Looking back at Trump&#8217;s biggest GOP debate moments</news:title>
+          <news:publication_date>2023-08-22T21:25:20.000Z</news:publication_date>
+          <news:title>Border residents fearful Middle Americans won't hear warning about immigration crisis ahead of Election Day</news:title>
         </news:news>
         <image:image>
-          <image:loc>https://majordigest.com/politics/2023/08/22/republican-debate-trump-skip/republican-debate-trump-skip.webp</image:loc>
+          <image:loc>https://majordigest.com/politics/2023/08/22/border-residents-fearful-middle-americans-wont-hear-warning-immigration-crisis-ahead-election-day/border-residents-fearful-middle-americans-wont-hear-warning-immigration-crisis-ahead-election-day.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/politics/2023/08/22/state-police-must-make-social-media-monitoring-practices-public-high-court-rules/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-22T20:59:35.000Z</news:publication_date>
+          <news:title>State police must make social media monitoring practices public, high court rules</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/politics/2023/08/22/state-police-must-make-social-media-monitoring-practices-public-high-court-rules/state-police-must-make-social-media-monitoring-practices-public-high-court-rules.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/politics/2023/08/22/sept-11-families-emotional-plea-biden/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-22T22:19:29.000Z</news:publication_date>
+          <news:title>Sept. 11 families make emotional plea to Biden</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/politics/2023/08/22/sept-11-families-emotional-plea-biden/sept-11-families-emotional-plea-biden.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -59,58 +87,30 @@
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/politics/2023/08/22/ronna-mcdaniel-trump-gop-debate/</loc>
+        <loc>https://majordigest.com/politics/2023/08/22/republican-debate-trump-skip/</loc>
         <news:news>
           <news:publication>
             <news:name>Major Digest</news:name>
             <news:language>en</news:language>
           </news:publication>
-          <news:publication_date>2023-08-22T23:42:44.000Z</news:publication_date>
-          <news:title>&#8216;I wish he were here&#8217;: Ronna McDaniel talks Trump on the eve of first GOP primary debate</news:title>
+          <news:publication_date>2023-08-22T15:19:26.000Z</news:publication_date>
+          <news:title>Remember &#8216;small hands&#8217; and the menstruation taunts? Looking back at Trump&#8217;s biggest GOP debate moments</news:title>
         </news:news>
         <image:image>
-          <image:loc>https://majordigest.com/politics/2023/08/22/ronna-mcdaniel-trump-gop-debate/ronna-mcdaniel-trump-gop-debate.webp</image:loc>
+          <image:loc>https://majordigest.com/politics/2023/08/22/republican-debate-trump-skip/republican-debate-trump-skip.webp</image:loc>
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/politics/2023/08/22/bret-baier-speaks-with-wisconsin-voters-ahead-debate/</loc>
+        <loc>https://majordigest.com/politics/2023/08/22/trump-employee-4-retracts-testimony-changing-lawyers-implicates-former-president-prosecutors-say/</loc>
         <news:news>
           <news:publication>
             <news:name>Major Digest</news:name>
             <news:language>en</news:language>
           </news:publication>
-          <news:publication_date>2023-08-22T23:26:40.000Z</news:publication_date>
-          <news:title>Bret Baier speaks with Wisconsin voters ahead of debate</news:title>
+          <news:publication_date>2023-08-22T23:37:52.000Z</news:publication_date>
+          <news:title>&#8216;Trump Employee 4&#8217; retracts testimony after changing lawyers, implicates former president, prosecutors say</news:title>
         </news:news>
         <image:image>
-          <image:loc>https://majordigest.com/politics/2023/08/22/bret-baier-speaks-with-wisconsin-voters-ahead-debate/bret-baier-speaks-with-wisconsin-voters-ahead-debate.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/politics/2023/08/23/biden-family-huddles-in-secrecy-exclusive-lake-tahoe-home-special-counsel-investigation-hunter/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-23T04:16:26.000Z</news:publication_date>
-          <news:title>Biden family huddles in secrecy in exclusive Lake Tahoe home amid special counsel investigation into Hunter</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/politics/2023/08/23/biden-family-huddles-in-secrecy-exclusive-lake-tahoe-home-special-counsel-investigation-hunter/biden-family-huddles-in-secrecy-exclusive-lake-tahoe-home-special-counsel-investigation-hunter.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/politics/2023/08/22/excited-milwaukeeans-reveal-gop-candidates-watching-debate-stage/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-22T20:30:59.000Z</news:publication_date>
-          <news:title>&#8216;Excited&#8217; Milwaukeeans reveal the GOP candidates they are most looking forward to watching on the debate stage</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/politics/2023/08/22/excited-milwaukeeans-reveal-gop-candidates-watching-debate-stage/excited-milwaukeeans-reveal-gop-candidates-watching-debate-stage.webp</image:loc>
+          <image:loc>https://majordigest.com/politics/2023/08/22/trump-employee-4-retracts-testimony-changing-lawyers-implicates-former-president-prosecutors-say/trump-employee-4-retracts-testimony-changing-lawyers-implicates-former-president-prosecutors-say.webp</image:loc>
         </image:image>
       </url></urlset>
