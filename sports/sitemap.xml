@@ -3,62 +3,6 @@
               xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
               xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
       <url>
-        <loc>https://majordigest.com/sports/2023/08/23/sf-giants-kyle-harrison-lives-up-to-hype-in-debut-but-phillies-win-on-a-walk-off/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-23T01:39:03.000Z</news:publication_date>
-          <news:title>SF Giants&#8217; Kyle Harrison lives up to hype in debut, but Phillies win on a walk-off</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/sports/2023/08/23/sf-giants-kyle-harrison-lives-up-to-hype-in-debut-but-phillies-win-on-a-walk-off/sf-giants-kyle-harrison-lives-up-to-hype-in-debut-but-phillies-win-on-a-walk-off.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/sports/2023/08/23/49ers-end-of-preseason-dilemma-play-starters-or-sit-them/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-23T12:45:34.000Z</news:publication_date>
-          <news:title>49ers&#8217; end-of-preseason dilemma: Play starters, or sit them?</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/sports/2023/08/23/49ers-end-of-preseason-dilemma-play-starters-or-sit-them/49ers-end-of-preseason-dilemma-play-starters-or-sit-them.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/sports/2023/08/23/pga-tour-golfer-erik-compton-arrested-allegedly-throwing-wife-wall/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-23T10:34:07.000Z</news:publication_date>
-          <news:title>PGA Tour golfer Erik Compton arrested after allegedly throwing wife into wall</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/sports/2023/08/23/pga-tour-golfer-erik-compton-arrested-allegedly-throwing-wife-wall/pga-tour-golfer-erik-compton-arrested-allegedly-throwing-wife-wall.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/sports/2023/08/23/megan-rapinoe-dismisses-uswnt-criticism-early-womens-world-cup-exit-fake-disingenuous/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-23T11:41:08.000Z</news:publication_date>
-          <news:title>Megan Rapinoe dismisses USWNT criticism after early Women's World Cup exit, calls it 'fake' and 'disingenuous'</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/sports/2023/08/23/megan-rapinoe-dismisses-uswnt-criticism-early-womens-world-cup-exit-fake-disingenuous/megan-rapinoe-dismisses-uswnt-criticism-early-womens-world-cup-exit-fake-disingenuous.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
         <loc>https://majordigest.com/sports/2023/08/23/titans-caleb-farley-breaks-silence-dad-dies-north-carolina-home-explosion/</loc>
         <news:news>
           <news:publication>
@@ -87,30 +31,128 @@
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/sports/2023/08/23/astros-justin-verlander-tells-red-sox-manager-f-off-brief-spat/</loc>
+        <loc>https://majordigest.com/sports/2023/08/23/49ers-end-of-preseason-dilemma-play-starters-or-sit-them/</loc>
         <news:news>
           <news:publication>
             <news:name>Major Digest</news:name>
             <news:language>en</news:language>
           </news:publication>
-          <news:publication_date>2023-08-23T13:30:21.000Z</news:publication_date>
-          <news:title>Astros' Justin Verlander tells Red Sox manager to 'f--- off' in brief spat</news:title>
+          <news:publication_date>2023-08-23T12:45:34.000Z</news:publication_date>
+          <news:title>49ers&#8217; end-of-preseason dilemma: Play starters, or sit them?</news:title>
         </news:news>
         <image:image>
-          <image:loc>https://majordigest.com/sports/2023/08/23/astros-justin-verlander-tells-red-sox-manager-f-off-brief-spat/astros-justin-verlander-tells-red-sox-manager-f-off-brief-spat.webp</image:loc>
+          <image:loc>https://majordigest.com/sports/2023/08/23/49ers-end-of-preseason-dilemma-play-starters-or-sit-them/49ers-end-of-preseason-dilemma-play-starters-or-sit-them.webp</image:loc>
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/sports/2023/08/23/kansas-city-royals-unveil-2-potential-locations-for-new-stadium/</loc>
+        <loc>https://majordigest.com/sports/2023/08/23/pga-tour-star-jon-rahm-reveals-golfers-hear-fans-talk-gambling-very-present/</loc>
         <news:news>
           <news:publication>
             <news:name>Major Digest</news:name>
             <news:language>en</news:language>
           </news:publication>
-          <news:publication_date>2023-08-23T13:01:40.000Z</news:publication_date>
-          <news:title>Kansas City Royals unveil 2 potential locations for new stadium</news:title>
+          <news:publication_date>2023-08-23T10:43:11.000Z</news:publication_date>
+          <news:title>PGA Tour star Jon Rahm reveals golfers hear fans talk about gambling: 'It's very, very present'</news:title>
         </news:news>
         <image:image>
-          <image:loc>https://majordigest.com/sports/2023/08/23/kansas-city-royals-unveil-2-potential-locations-for-new-stadium/kansas-city-royals-unveil-2-potential-locations-for-new-stadium.webp</image:loc>
+          <image:loc>https://majordigest.com/sports/2023/08/23/pga-tour-star-jon-rahm-reveals-golfers-hear-fans-talk-gambling-very-present/pga-tour-star-jon-rahm-reveals-golfers-hear-fans-talk-gambling-very-present.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/sports/2023/08/23/as-top-royals-5-4-to-spoil-zack-greinkes-return-from-the-injured-list/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-23T06:06:08.000Z</news:publication_date>
+          <news:title>A&#8217;s top Royals 5-4 to spoil Greinke&#8217;s return from the injured list</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/sports/2023/08/23/as-top-royals-5-4-to-spoil-zack-greinkes-return-from-the-injured-list/as-top-royals-5-4-to-spoil-zack-greinkes-return-from-the-injured-list.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/sports/2023/08/23/sf-giants-kyle-harrison-lives-up-to-hype-in-debut-but-phillies-win-on-a-walk-off/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-23T01:39:03.000Z</news:publication_date>
+          <news:title>SF Giants&#8217; Kyle Harrison lives up to hype in debut, but Phillies win on a walk-off</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/sports/2023/08/23/sf-giants-kyle-harrison-lives-up-to-hype-in-debut-but-phillies-win-on-a-walk-off/sf-giants-kyle-harrison-lives-up-to-hype-in-debut-but-phillies-win-on-a-walk-off.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/sports/2023/08/23/megan-rapinoe-rips-spanish-fa-president-womens-world-cup-antics-signals-deep-level-misogyny/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-23T14:02:16.000Z</news:publication_date>
+          <news:title>Megan Rapinoe rips Spanish FA president over Women's World Cup antics: 'Signals such a deep level of misogyny'</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/sports/2023/08/23/megan-rapinoe-rips-spanish-fa-president-womens-world-cup-antics-signals-deep-level-misogyny/megan-rapinoe-rips-spanish-fa-president-womens-world-cup-antics-signals-deep-level-misogyny.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/sports/2023/08/23/bay-area-news-group-high-school-football-predictions-week-1-2023/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-23T14:00:24.000Z</news:publication_date>
+          <news:title>Bay Area News Group high school football predictions: Week 1, 2023</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/sports/2023/08/23/bay-area-news-group-high-school-football-predictions-week-1-2023/bay-area-news-group-high-school-football-predictions-week-1-2023.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/sports/2023/08/23/ncaa-champion-goalie-killed-teammates-injured-minnesota-crash/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-23T13:35:21.000Z</news:publication_date>
+          <news:title>NCAA champion goalie killed, 3 teammates injured in Minnesota crash</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/sports/2023/08/23/ncaa-champion-goalie-killed-teammates-injured-minnesota-crash/ncaa-champion-goalie-killed-teammates-injured-minnesota-crash.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/sports/2023/08/23/megan-rapinoe-dismisses-uswnt-criticism-early-womens-world-cup-exit-fake-disingenuous/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-23T11:41:08.000Z</news:publication_date>
+          <news:title>Megan Rapinoe dismisses USWNT criticism after early Women's World Cup exit, calls it 'fake' and 'disingenuous'</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/sports/2023/08/23/megan-rapinoe-dismisses-uswnt-criticism-early-womens-world-cup-exit-fake-disingenuous/megan-rapinoe-dismisses-uswnt-criticism-early-womens-world-cup-exit-fake-disingenuous.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/sports/2023/08/23/legendary-running-back-reggie-bush-plans-file-defamation-lawsuit-against-ncaa-reports/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-23T15:00:33.000Z</news:publication_date>
+          <news:title>Legendary running back Reggie Bush plans to file defamation lawsuit against NCAA: reports</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/sports/2023/08/23/legendary-running-back-reggie-bush-plans-file-defamation-lawsuit-against-ncaa-reports/legendary-running-back-reggie-bush-plans-file-defamation-lawsuit-against-ncaa-reports.webp</image:loc>
         </image:image>
       </url></urlset>

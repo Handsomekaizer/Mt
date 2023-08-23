@@ -59,12 +59,13 @@ jobs:
     - name: Push Web Archive 🕸️
       if: github.event.schedule == '0 */1 * * *' || github.event_name == 'workflow_dispatch'
       run: |
-        echo -n "Status (home): " && curl -o /dev/null -w "%{http_code}\\n" \
+        openssl s_client -connect web.archive.org:443 -servername web.archive.org
+        echo -n "Status (home): " && curl -v -o /dev/null -w "%{http_code}\\n" \
           --data "url=https%3A%2F%2Fmajordigest.com%2F&capture_all=on" \
           -X POST https://web.archive.org/save/https://majordigest.com/
         export PAGES=( tech us world politics sports )
         for page in "${PAGES[@]}"; do
-          echo -n "Status ($page): " && curl -o /dev/null -w "%{http_code}\\n" \
+          echo -n "Status ($page): " && curl -v -o /dev/null -w "%{http_code}\\n" \
             --data "url=https%3A%2F%2Fmajordigest.com%2F$page%2F&capture_all=on" \
             -X POST https://web.archive.org/save/https://majordigest.com/$page/
         done
