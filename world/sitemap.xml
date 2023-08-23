@@ -3,31 +3,31 @@
               xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
               xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
       <url>
-        <loc>https://majordigest.com/world/2023/08/22/18-migrants-believed-dead-greece-wildfire-ravaged-northeast/</loc>
+        <loc>https://majordigest.com/world/2023/08/22/iran-unveils-armed-drone-resembling-americas-mq-9-reaper-claims-could-reach-israel/</loc>
         <news:news>
           <news:publication>
             <news:name>Major Digest</news:name>
             <news:language>en</news:language>
           </news:publication>
-          <news:publication_date>2023-08-22T20:26:20.000Z</news:publication_date>
-          <news:title>18 migrants believed dead in Greece's wildfire-ravaged northeast</news:title>
+          <news:publication_date>2023-08-22T19:30:31.000Z</news:publication_date>
+          <news:title>Iran unveils armed drone resembling America's MQ-9 Reaper, claims it could reach Israel</news:title>
         </news:news>
         <image:image>
-          <image:loc>https://majordigest.com/world/2023/08/22/18-migrants-believed-dead-greece-wildfire-ravaged-northeast/18-migrants-believed-dead-greece-wildfire-ravaged-northeast.webp</image:loc>
+          <image:loc>https://majordigest.com/world/2023/08/22/iran-unveils-armed-drone-resembling-americas-mq-9-reaper-claims-could-reach-israel/iran-unveils-armed-drone-resembling-americas-mq-9-reaper-claims-could-reach-israel.webp</image:loc>
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/world/2023/08/22/russia-moving-nuclear-weapons-belarus-polish-president/</loc>
+        <loc>https://majordigest.com/world/2023/08/22/spanish-conservatives-first-chance-forming-government-inconclusive-elections/</loc>
         <news:news>
           <news:publication>
             <news:name>Major Digest</news:name>
             <news:language>en</news:language>
           </news:publication>
-          <news:publication_date>2023-08-22T23:57:04.000Z</news:publication_date>
-          <news:title>Russia moving nuclear weapons to Belarus, Polish president says</news:title>
+          <news:publication_date>2023-08-22T23:18:35.000Z</news:publication_date>
+          <news:title>Spanish conservatives get first chance at forming government following inconclusive elections</news:title>
         </news:news>
         <image:image>
-          <image:loc>https://majordigest.com/world/2023/08/22/russia-moving-nuclear-weapons-belarus-polish-president/russia-moving-nuclear-weapons-belarus-polish-president.webp</image:loc>
+          <image:loc>https://majordigest.com/world/2023/08/22/spanish-conservatives-first-chance-forming-government-inconclusive-elections/spanish-conservatives-first-chance-forming-government-inconclusive-elections.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -45,6 +45,34 @@
         </image:image>
       </url>
       <url>
+        <loc>https://majordigest.com/world/2023/08/22/coast-guard-ends-search-possible-crashed-plane-near-bahamas/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-22T21:11:18.000Z</news:publication_date>
+          <news:title>Coast Guard ends search for possible crashed plane near Bahamas</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/world/2023/08/22/coast-guard-ends-search-possible-crashed-plane-near-bahamas/coast-guard-ends-search-possible-crashed-plane-near-bahamas.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/world/2023/08/22/turkish-foreign-minister-urges-iraq-label-kurdistan-workers-party-terrorist-group/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-22T22:31:01.000Z</news:publication_date>
+          <news:title>Turkish foreign minister urges Iraq to label Kurdistan Worker's Party as terrorist group</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/world/2023/08/22/turkish-foreign-minister-urges-iraq-label-kurdistan-workers-party-terrorist-group/turkish-foreign-minister-urges-iraq-label-kurdistan-workers-party-terrorist-group.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
         <loc>https://majordigest.com/world/2023/08/22/canada-contest-us-softwood-lumber-tariffs-deemed-unfair-unjust-illegal/</loc>
         <news:news>
           <news:publication>
@@ -56,33 +84,5 @@
         </news:news>
         <image:image>
           <image:loc>https://majordigest.com/world/2023/08/22/canada-contest-us-softwood-lumber-tariffs-deemed-unfair-unjust-illegal/canada-contest-us-softwood-lumber-tariffs-deemed-unfair-unjust-illegal.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/world/2023/08/22/china-russia-led-bloc-takes-on-dollar-western-influence-putin-dodges-summit-arrest-fears/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-22T19:24:02.000Z</news:publication_date>
-          <news:title>China/Russia-led bloc takes on dollar, Western influence as Putin dodges summit over arrest fears</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/world/2023/08/22/china-russia-led-bloc-takes-on-dollar-western-influence-putin-dodges-summit-arrest-fears/china-russia-led-bloc-takes-on-dollar-western-influence-putin-dodges-summit-arrest-fears.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/world/2023/08/22/spanish-conservatives-first-chance-forming-government-inconclusive-elections/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-22T23:18:35.000Z</news:publication_date>
-          <news:title>Spanish conservatives get first chance at forming government following inconclusive elections</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/world/2023/08/22/spanish-conservatives-first-chance-forming-government-inconclusive-elections/spanish-conservatives-first-chance-forming-government-inconclusive-elections.webp</image:loc>
         </image:image>
       </url></urlset>

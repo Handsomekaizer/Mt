@@ -3,6 +3,34 @@
               xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
               xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
       <url>
+        <loc>https://majordigest.com/us/2023/08/22/oakland-sees-4-homicides-since-sunday/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-22T23:52:22.000Z</news:publication_date>
+          <news:title>Oakland sees 4 homicides since Sunday</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/us/2023/08/22/oakland-sees-4-homicides-since-sunday/oakland-sees-4-homicides-since-sunday.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/us/2023/08/22/atlantic-city-turning-profits-bottom-lines-shrinking/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-22T23:47:30.000Z</news:publication_date>
+          <news:title>Atlantic City still turning profits, but bottom lines shrinking</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/us/2023/08/22/atlantic-city-turning-profits-bottom-lines-shrinking/atlantic-city-turning-profits-bottom-lines-shrinking.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
         <loc>https://majordigest.com/us/2023/08/23/missouri-mayor-ban-military-grade-weapons-being-carried-st-louis-streets/</loc>
         <news:news>
           <news:publication>
@@ -31,20 +59,6 @@
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/us/2023/08/22/oakland-sees-4-homicides-since-sunday/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-22T23:52:22.000Z</news:publication_date>
-          <news:title>Oakland sees 4 homicides since Sunday</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/us/2023/08/22/oakland-sees-4-homicides-since-sunday/oakland-sees-4-homicides-since-sunday.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
         <loc>https://majordigest.com/us/2023/08/23/california-police-searching-missing-netflix-employee-no-evidence-crime/</loc>
         <news:news>
           <news:publication>
@@ -56,20 +70,6 @@
         </news:news>
         <image:image>
           <image:loc>https://majordigest.com/us/2023/08/23/california-police-searching-missing-netflix-employee-no-evidence-crime/california-police-searching-missing-netflix-employee-no-evidence-crime.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/us/2023/08/23/investigators-search-btk-dennis-rader-former-kansas-property-amid-unsolved-missing-persons-murders-cases/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-23T01:50:46.000Z</news:publication_date>
-          <news:title>Investigators search BTK Dennis Rader's former Kansas property amid unsolved missing persons, murder cases</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/us/2023/08/23/investigators-search-btk-dennis-rader-former-kansas-property-amid-unsolved-missing-persons-murders-cases/investigators-search-btk-dennis-rader-former-kansas-property-amid-unsolved-missing-persons-murders-cases.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -98,33 +98,5 @@
         </news:news>
         <image:image>
           <image:loc>https://majordigest.com/us/2023/08/23/florida-school-isolates-black-students-assembly-reportedly-offered-gift-cards-improve-scores/florida-school-isolates-black-students-assembly-reportedly-offered-gift-cards-improve-scores.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/us/2023/08/22/atlantic-city-turning-profits-bottom-lines-shrinking/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-22T23:47:30.000Z</news:publication_date>
-          <news:title>Atlantic City still turning profits, but bottom lines shrinking</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/us/2023/08/22/atlantic-city-turning-profits-bottom-lines-shrinking/atlantic-city-turning-profits-bottom-lines-shrinking.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/us/2023/08/23/new-york-boy-7-attacked-bear-westchester-county-officials/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-23T05:48:51.000Z</news:publication_date>
-          <news:title>New York boy, 7, attacked by bear in Westchester County: officials</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/us/2023/08/23/new-york-boy-7-attacked-bear-westchester-county-officials/new-york-boy-7-attacked-bear-westchester-county-officials.webp</image:loc>
         </image:image>
       </url></urlset>

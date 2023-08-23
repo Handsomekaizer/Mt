@@ -7,7 +7,7 @@
         <title>Major Digest - Reliable and Comprehensive News Sources: tech</title>
         <description>Get the latest news online at Major Digest, the top online news resource for the most reliable news sources. Stay informed about the world around you!</description>
         <link>https://majordigest.com/?utm_medium=RSS</link>
-        <lastBuildDate>Wed, 23 Aug 2023 06:21:29 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 23 Aug 2023 07:15:31 GMT</lastBuildDate>
         <generator>https://majordigest.com/?v=1.1.4</generator>
         <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/" />
         <atom:link rel="self" href="https://majordigest.com/tech/feed.xml" type="application/rss+xml" />
@@ -18,17 +18,6 @@
           <url>https://majordigest.com/assets/icons/logo-512x512.png</url>
           <link>https://majordigest.com/?utm_medium=RSS</link>
         </image>
-      <item>
-        <title>Despite FBI takedown, infamous Raccoon Stealer malware returns</title>
-        <description><![CDATA[The Raccoon Stealer malware strain is proving that some cyber pests never go extinct, even after the FBI orchestrated a takedown of its digital infrastructure.]]></description>
-        <guid>https://majordigest.com/tech/2023/08/21/despite-fbi-takedown-infamous-raccoon-stealer-malware-returns/</guid>
-        <link>https://majordigest.com/tech/2023/08/21/despite-fbi-takedown-infamous-raccoon-stealer-malware-returns/</link>
-        <pubDate>Mon, 21 Aug 2023 12:00:01 EDT</pubDate>
-        <category>tech</category>
-        <media:content medium="image" url="https://majordigest.com/tech/2023/08/21/despite-fbi-takedown-infamous-raccoon-stealer-malware-returns/despite-fbi-takedown-infamous-raccoon-stealer-malware-returns.webp"/>
-        <media:thumbnail url="https://majordigest.com/tech/2023/08/21/despite-fbi-takedown-infamous-raccoon-stealer-malware-returns/despite-fbi-takedown-infamous-raccoon-stealer-malware-returns.webp"/>
-        <dc:creator>Fox News</dc:creator>
-      </item>
       <item>
         <title>Robotaxis wreak havoc in San Francisco. Don&#8217;t want them in your Bay Area city? Tough luck</title>
         <description><![CDATA[GM's Cruise, blamed for the majority of incidents with emergency responders, claims its robotaxis drive more safely than people.]]></description>
@@ -41,37 +30,59 @@
         <dc:creator>Ethan Baron, The Mercury News</dc:creator>
       </item>
       <item>
-        <title>Say goodbye to photobombs: easy ways to remove unwanted background objects</title>
-        <description><![CDATA[You can simply remove unwanted objects or people from your iPhone, iPad or Android devices using the tool that are already provided in in your phone settings.]]></description>
-        <guid>https://majordigest.com/tech/2023/08/22/say-goodbye-photobombs-easy-ways-remove-unwanted-background-objects/</guid>
-        <link>https://majordigest.com/tech/2023/08/22/say-goodbye-photobombs-easy-ways-remove-unwanted-background-objects/</link>
-        <pubDate>Tue, 22 Aug 2023 13:29:00 EDT</pubDate>
+        <title>Russia&#8217;s Luna-25 spacecraft crashes into the moon, ending its bid to reach the lunar south pole</title>
+        <description><![CDATA[The pilotless craft was aiming to be the first ever to land on the south pole of the moon, where scientists believe there could be important reserves of frozen water and precious elements.]]></description>
+        <guid>https://majordigest.com/tech/2023/08/21/russias-luna-25-spacecraft-crashes-into-the-moon-ending-its-bid-to-reach-the-lunar-south-pole/</guid>
+        <link>https://majordigest.com/tech/2023/08/21/russias-luna-25-spacecraft-crashes-into-the-moon-ending-its-bid-to-reach-the-lunar-south-pole/</link>
+        <pubDate>Mon, 21 Aug 2023 16:59:50 +0000</pubDate>
         <category>tech</category>
-        <media:content medium="image" url="https://majordigest.com/tech/2023/08/22/say-goodbye-photobombs-easy-ways-remove-unwanted-background-objects/say-goodbye-photobombs-easy-ways-remove-unwanted-background-objects.webp"/>
-        <media:thumbnail url="https://majordigest.com/tech/2023/08/22/say-goodbye-photobombs-easy-ways-remove-unwanted-background-objects/say-goodbye-photobombs-easy-ways-remove-unwanted-background-objects.webp"/>
+        <media:content medium="image" url="https://majordigest.com/tech/2023/08/21/russias-luna-25-spacecraft-crashes-into-the-moon-ending-its-bid-to-reach-the-lunar-south-pole/russias-luna-25-spacecraft-crashes-into-the-moon-ending-its-bid-to-reach-the-lunar-south-pole.webp"/>
+        <media:thumbnail url="https://majordigest.com/tech/2023/08/21/russias-luna-25-spacecraft-crashes-into-the-moon-ending-its-bid-to-reach-the-lunar-south-pole/russias-luna-25-spacecraft-crashes-into-the-moon-ending-its-bid-to-reach-the-lunar-south-pole.webp"/>
+        <dc:creator>Associated Press, The Mercury News</dc:creator>
+      </item>
+      <item>
+        <title>Adobe co-founder John Warnock, a giant in the tech world, dies at 82</title>
+        <description><![CDATA["John's brilliance and technology innovations changed the world," Adobe Chair and CEO Shantanu Narayen said.]]></description>
+        <guid>https://majordigest.com/tech/2023/08/20/adobe-co-founder-john-warnock-a-giant-in-the-tech-world-dies-at-82/</guid>
+        <link>https://majordigest.com/tech/2023/08/20/adobe-co-founder-john-warnock-a-giant-in-the-tech-world-dies-at-82/</link>
+        <pubDate>Sun, 20 Aug 2023 22:53:30 +0000</pubDate>
+        <category>tech</category>
+        <media:content medium="image" url="https://majordigest.com/tech/2023/08/20/adobe-co-founder-john-warnock-a-giant-in-the-tech-world-dies-at-82/adobe-co-founder-john-warnock-a-giant-in-the-tech-world-dies-at-82.webp"/>
+        <media:thumbnail url="https://majordigest.com/tech/2023/08/20/adobe-co-founder-john-warnock-a-giant-in-the-tech-world-dies-at-82/adobe-co-founder-john-warnock-a-giant-in-the-tech-world-dies-at-82.webp"/>
+        <dc:creator>Jim Harrington, The Mercury News</dc:creator>
+      </item>
+      <item>
+        <title>Six privacy and security questions and answers to clear up once and for all</title>
+        <description><![CDATA[Kurt &quot;The CyberGuy&quot; Knutsson debunks six myths regarding your privacy and security while using technology and gives six tips on how to protect your information.]]></description>
+        <guid>https://majordigest.com/tech/2023/08/19/6-privacy-security-question-answers-clear-up-once-for-all/</guid>
+        <link>https://majordigest.com/tech/2023/08/19/6-privacy-security-question-answers-clear-up-once-for-all/</link>
+        <pubDate>Sat, 19 Aug 2023 09:55:32 EDT</pubDate>
+        <category>tech</category>
+        <media:content medium="image" url="https://majordigest.com/tech/2023/08/19/6-privacy-security-question-answers-clear-up-once-for-all/6-privacy-security-question-answers-clear-up-once-for-all.webp"/>
+        <media:thumbnail url="https://majordigest.com/tech/2023/08/19/6-privacy-security-question-answers-clear-up-once-for-all/6-privacy-security-question-answers-clear-up-once-for-all.webp"/>
         <dc:creator>Fox News</dc:creator>
       </item>
       <item>
-        <title>Real or fake? AI product reviews are making it impossible to know the difference</title>
-        <description><![CDATA[Artificial intelligence is making it harder to identify fake reviews on travel or retail sites. Kurt &quot;The CyberGuy&quot; Knutsson explains.]]></description>
-        <guid>https://majordigest.com/tech/2023/08/18/real-fake-ai-product-reviews-are-making-it-impossible-know-difference/</guid>
-        <link>https://majordigest.com/tech/2023/08/18/real-fake-ai-product-reviews-are-making-it-impossible-know-difference/</link>
-        <pubDate>Fri, 18 Aug 2023 12:00:35 EDT</pubDate>
+        <title>Google security check: 60 seconds to kick out snoops and hackers</title>
+        <description><![CDATA[Most of us rely on Google&apos;s suite of products and software in our daily lives, including sensitive personal or financial data. Here&apos;s how to do a Google checkup.]]></description>
+        <guid>https://majordigest.com/tech/2023/08/18/google-security-check-60-seconds-kick-snoops-hackers/</guid>
+        <link>https://majordigest.com/tech/2023/08/18/google-security-check-60-seconds-kick-snoops-hackers/</link>
+        <pubDate>Fri, 18 Aug 2023 17:02:05 EDT</pubDate>
         <category>tech</category>
-        <media:content medium="image" url="https://majordigest.com/tech/2023/08/18/real-fake-ai-product-reviews-are-making-it-impossible-know-difference/real-fake-ai-product-reviews-are-making-it-impossible-know-difference.webp"/>
-        <media:thumbnail url="https://majordigest.com/tech/2023/08/18/real-fake-ai-product-reviews-are-making-it-impossible-know-difference/real-fake-ai-product-reviews-are-making-it-impossible-know-difference.webp"/>
+        <media:content medium="image" url="https://majordigest.com/tech/2023/08/18/google-security-check-60-seconds-kick-snoops-hackers/google-security-check-60-seconds-kick-snoops-hackers.webp"/>
+        <media:thumbnail url="https://majordigest.com/tech/2023/08/18/google-security-check-60-seconds-kick-snoops-hackers/google-security-check-60-seconds-kick-snoops-hackers.webp"/>
         <dc:creator>Fox News</dc:creator>
       </item>
       <item>
-        <title>Vegan Sam Bankman-Fried is subsisting only on bread and water in jail, his attorneys say</title>
-        <description><![CDATA[Lawyers for the former crypto billionaire, who is vegan, said the detention center is not accommodating his diet and failing to regularly dispense his prescription Adderall.]]></description>
-        <guid>https://majordigest.com/tech/2023/08/22/vegan-sam-bankman-fried-is-subsisting-only-on-bread-and-water-in-jail-his-attorneys-say/</guid>
-        <link>https://majordigest.com/tech/2023/08/22/vegan-sam-bankman-fried-is-subsisting-only-on-bread-and-water-in-jail-his-attorneys-say/</link>
-        <pubDate>Tue, 22 Aug 2023 15:02:11 +0000</pubDate>
+        <title>Why would Elon Musk lash out at James Woods, of all people?</title>
+        <description><![CDATA[The two social media provocateurs, who share conservative, anti-woke sensibilities, got into a 'bizarro' spat over the weekend over Musk's idea to remove the 'block' button on X.]]></description>
+        <guid>https://majordigest.com/tech/2023/08/21/why-would-elon-musk-lash-out-at-james-woods-of-all-people/</guid>
+        <link>https://majordigest.com/tech/2023/08/21/why-would-elon-musk-lash-out-at-james-woods-of-all-people/</link>
+        <pubDate>Mon, 21 Aug 2023 17:53:20 +0000</pubDate>
         <category>tech</category>
-        <media:content medium="image" url="https://majordigest.com/tech/2023/08/22/vegan-sam-bankman-fried-is-subsisting-only-on-bread-and-water-in-jail-his-attorneys-say/vegan-sam-bankman-fried-is-subsisting-only-on-bread-and-water-in-jail-his-attorneys-say.webp"/>
-        <media:thumbnail url="https://majordigest.com/tech/2023/08/22/vegan-sam-bankman-fried-is-subsisting-only-on-bread-and-water-in-jail-his-attorneys-say/vegan-sam-bankman-fried-is-subsisting-only-on-bread-and-water-in-jail-his-attorneys-say.webp"/>
-        <dc:creator>Cnn.Com Wire Service, The Mercury News</dc:creator>
+        <media:content medium="image" url="https://majordigest.com/tech/2023/08/21/why-would-elon-musk-lash-out-at-james-woods-of-all-people/why-would-elon-musk-lash-out-at-james-woods-of-all-people.webp"/>
+        <media:thumbnail url="https://majordigest.com/tech/2023/08/21/why-would-elon-musk-lash-out-at-james-woods-of-all-people/why-would-elon-musk-lash-out-at-james-woods-of-all-people.webp"/>
+        <dc:creator>Martha Ross, The Mercury News</dc:creator>
       </item>
       <item>
         <title>7 foolproof ways to save money in a tough economy</title>
@@ -96,6 +107,17 @@
         <dc:creator>Tribune News Service, The Mercury News</dc:creator>
       </item>
       <item>
+        <title>Vegan Sam Bankman-Fried is subsisting only on bread and water in jail, his attorneys say</title>
+        <description><![CDATA[Lawyers for the former crypto billionaire, who is vegan, said the detention center is not accommodating his diet and failing to regularly dispense his prescription Adderall.]]></description>
+        <guid>https://majordigest.com/tech/2023/08/22/vegan-sam-bankman-fried-is-subsisting-only-on-bread-and-water-in-jail-his-attorneys-say/</guid>
+        <link>https://majordigest.com/tech/2023/08/22/vegan-sam-bankman-fried-is-subsisting-only-on-bread-and-water-in-jail-his-attorneys-say/</link>
+        <pubDate>Tue, 22 Aug 2023 15:02:11 +0000</pubDate>
+        <category>tech</category>
+        <media:content medium="image" url="https://majordigest.com/tech/2023/08/22/vegan-sam-bankman-fried-is-subsisting-only-on-bread-and-water-in-jail-his-attorneys-say/vegan-sam-bankman-fried-is-subsisting-only-on-bread-and-water-in-jail-his-attorneys-say.webp"/>
+        <media:thumbnail url="https://majordigest.com/tech/2023/08/22/vegan-sam-bankman-fried-is-subsisting-only-on-bread-and-water-in-jail-his-attorneys-say/vegan-sam-bankman-fried-is-subsisting-only-on-bread-and-water-in-jail-his-attorneys-say.webp"/>
+        <dc:creator>Cnn.Com Wire Service, The Mercury News</dc:creator>
+      </item>
+      <item>
         <title>Educators have said using ChatGPT is cheating, but now they are using AI to write syllabi and exams: Professor</title>
         <description><![CDATA[ChatGPT has proven it can help students with their homework, but now it is helping teachers create those very courses, a computer science professor told Fox News.]]></description>
         <guid>https://majordigest.com/tech/2023/08/23/educators-said-using-chatgpt-cheating-now-using-ai-write-syllabi-exams-professor/</guid>
@@ -107,13 +129,13 @@
         <dc:creator>Fox News</dc:creator>
       </item>
       <item>
-        <title>Six privacy and security questions and answers to clear up once and for all</title>
-        <description><![CDATA[Kurt &quot;The CyberGuy&quot; Knutsson debunks six myths regarding your privacy and security while using technology and gives six tips on how to protect your information.]]></description>
-        <guid>https://majordigest.com/tech/2023/08/19/6-privacy-security-question-answers-clear-up-once-for-all/</guid>
-        <link>https://majordigest.com/tech/2023/08/19/6-privacy-security-question-answers-clear-up-once-for-all/</link>
-        <pubDate>Sat, 19 Aug 2023 09:55:32 EDT</pubDate>
+        <title>Say goodbye to photobombs: easy ways to remove unwanted background objects</title>
+        <description><![CDATA[You can simply remove unwanted objects or people from your iPhone, iPad or Android devices using the tool that are already provided in in your phone settings.]]></description>
+        <guid>https://majordigest.com/tech/2023/08/22/say-goodbye-photobombs-easy-ways-remove-unwanted-background-objects/</guid>
+        <link>https://majordigest.com/tech/2023/08/22/say-goodbye-photobombs-easy-ways-remove-unwanted-background-objects/</link>
+        <pubDate>Tue, 22 Aug 2023 13:29:00 EDT</pubDate>
         <category>tech</category>
-        <media:content medium="image" url="https://majordigest.com/tech/2023/08/19/6-privacy-security-question-answers-clear-up-once-for-all/6-privacy-security-question-answers-clear-up-once-for-all.webp"/>
-        <media:thumbnail url="https://majordigest.com/tech/2023/08/19/6-privacy-security-question-answers-clear-up-once-for-all/6-privacy-security-question-answers-clear-up-once-for-all.webp"/>
+        <media:content medium="image" url="https://majordigest.com/tech/2023/08/22/say-goodbye-photobombs-easy-ways-remove-unwanted-background-objects/say-goodbye-photobombs-easy-ways-remove-unwanted-background-objects.webp"/>
+        <media:thumbnail url="https://majordigest.com/tech/2023/08/22/say-goodbye-photobombs-easy-ways-remove-unwanted-background-objects/say-goodbye-photobombs-easy-ways-remove-unwanted-background-objects.webp"/>
         <dc:creator>Fox News</dc:creator>
       </item></channel></rss>
