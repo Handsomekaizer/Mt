@@ -3,6 +3,34 @@
               xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
               xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
       <url>
+        <loc>https://majordigest.com/world/2023/08/23/north-korea-launches-long-range-rocket-southward-suspected-satellite-deployment-attempt-amidst-tensions/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-23T21:17:55.000Z</news:publication_date>
+          <news:title>North Korea launches long-range rocket southward in suspected satellite deployment attempt amidst tensions</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/world/2023/08/23/north-korea-launches-long-range-rocket-southward-suspected-satellite-deployment-attempt-amidst-tensions/north-korea-launches-long-range-rocket-southward-suspected-satellite-deployment-attempt-amidst-tensions.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/world/2023/08/24/biden-vows-unwavering-enduring-support-ukraines-independence-day/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-24T10:56:00.000Z</news:publication_date>
+          <news:title>Biden vows 'unwavering and enduring' support on Ukraine's Independence Day</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/world/2023/08/24/biden-vows-unwavering-enduring-support-ukraines-independence-day/biden-vows-unwavering-enduring-support-ukraines-independence-day.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
         <loc>https://majordigest.com/world/2023/08/24/china-bans-seafood-japan-fukushima-nuclear-plant-releases-nuclear-wastewater-pacific/</loc>
         <news:news>
           <news:publication>
@@ -17,48 +45,6 @@
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/world/2023/08/23/american-tourist-forced-apologize-thailand-after-blowing-marijuana-smoke-crowded-street/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-23T18:02:31.000Z</news:publication_date>
-          <news:title>American tourist forced to apologize in Thailand after blowing marijuana smoke on crowded street</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/world/2023/08/23/american-tourist-forced-apologize-thailand-after-blowing-marijuana-smoke-crowded-street/american-tourist-forced-apologize-thailand-after-blowing-marijuana-smoke-crowded-street.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/world/2023/08/23/2-uk-teens-part-hacking-group-blackmailed-grand-theft-auto-maker-jury-rules/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-23T18:16:35.000Z</news:publication_date>
-          <news:title>2 UK teens part of hacking group that blackmailed &#8216;Grand Theft Auto&#8217; maker, jury rules</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/world/2023/08/23/2-uk-teens-part-hacking-group-blackmailed-grand-theft-auto-maker-jury-rules/2-uk-teens-part-hacking-group-blackmailed-grand-theft-auto-maker-jury-rules.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/world/2023/08/23/6-2-magnitude-earthquake-strikes-northern-argentina/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-23T17:50:24.000Z</news:publication_date>
-          <news:title>6.2 magnitude earthquake strikes northern Argentina</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/world/2023/08/23/6-2-magnitude-earthquake-strikes-northern-argentina/6-2-magnitude-earthquake-strikes-northern-argentina.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
         <loc>https://majordigest.com/world/2023/08/23/japanese-utility-company-tepco-details-plan-release-fukushima-nuclear-waste-aug-24/</loc>
         <news:news>
           <news:publication>
@@ -70,19 +56,5 @@
         </news:news>
         <image:image>
           <image:loc>https://majordigest.com/world/2023/08/23/japanese-utility-company-tepco-details-plan-release-fukushima-nuclear-waste-aug-24/japanese-utility-company-tepco-details-plan-release-fukushima-nuclear-waste-aug-24.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/world/2023/08/23/helicopter-crash-claims-lives-lebanese-army-crew-members-amidst-severe-economic-crisis/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-23T21:09:30.000Z</news:publication_date>
-          <news:title>Helicopter crash claims lives of Lebanese army crew members amidst severe economic crisis</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/world/2023/08/23/helicopter-crash-claims-lives-lebanese-army-crew-members-amidst-severe-economic-crisis/helicopter-crash-claims-lives-lebanese-army-crew-members-amidst-severe-economic-crisis.webp</image:loc>
         </image:image>
       </url></urlset>
