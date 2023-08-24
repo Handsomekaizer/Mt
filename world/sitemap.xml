@@ -3,31 +3,31 @@
               xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
               xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
       <url>
-        <loc>https://majordigest.com/world/2023/08/24/german-chancellor-olaf-scholz-highlights-untapped-potential-deep-geothermal-energy-heating/</loc>
+        <loc>https://majordigest.com/world/2023/08/24/haitian-telecom-companies-report-severed-fiber-optic-cables-gang-sabotage-suspected/</loc>
         <news:news>
           <news:publication>
             <news:name>Major Digest</news:name>
             <news:language>en</news:language>
           </news:publication>
-          <news:publication_date>2023-08-24T20:02:18.000Z</news:publication_date>
-          <news:title>German Chancellor Olaf Scholz highlights untapped potential of deep geothermal energy for heating</news:title>
+          <news:publication_date>2023-08-24T20:20:47.000Z</news:publication_date>
+          <news:title>Haitian telecom companies report severed fiber optic cables; gang sabotage suspected</news:title>
         </news:news>
         <image:image>
-          <image:loc>https://majordigest.com/world/2023/08/24/german-chancellor-olaf-scholz-highlights-untapped-potential-deep-geothermal-energy-heating/german-chancellor-olaf-scholz-highlights-untapped-potential-deep-geothermal-energy-heating.webp</image:loc>
+          <image:loc>https://majordigest.com/world/2023/08/24/haitian-telecom-companies-report-severed-fiber-optic-cables-gang-sabotage-suspected/haitian-telecom-companies-report-severed-fiber-optic-cables-gang-sabotage-suspected.webp</image:loc>
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/world/2023/08/24/indian-prime-minister-modi-addresses-border-concerns-chinese-president-jinping-brics-summit/</loc>
+        <loc>https://majordigest.com/world/2023/08/24/congressional-inquiry-investigate-codelcos-mining-projects-chile/</loc>
         <news:news>
           <news:publication>
             <news:name>Major Digest</news:name>
             <news:language>en</news:language>
           </news:publication>
-          <news:publication_date>2023-08-24T19:59:12.000Z</news:publication_date>
-          <news:title>Indian Prime Minister Modi addresses border concerns with Chinese President Jinping at BRICS summit</news:title>
+          <news:publication_date>2023-08-24T20:07:21.000Z</news:publication_date>
+          <news:title>Congressional inquiry to investigate Codelco's mining projects in Chile</news:title>
         </news:news>
         <image:image>
-          <image:loc>https://majordigest.com/world/2023/08/24/indian-prime-minister-modi-addresses-border-concerns-chinese-president-jinping-brics-summit/indian-prime-minister-modi-addresses-border-concerns-chinese-president-jinping-brics-summit.webp</image:loc>
+          <image:loc>https://majordigest.com/world/2023/08/24/congressional-inquiry-investigate-codelcos-mining-projects-chile/congressional-inquiry-investigate-codelcos-mining-projects-chile.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -45,17 +45,17 @@
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/world/2023/08/24/uk-unveils-battery-strategy-fuel-net-zero-goals-inviting-input-industry-stakeholders/</loc>
+        <loc>https://majordigest.com/world/2023/08/24/eu-initiates-assessment-human-labor-rights-burma/</loc>
         <news:news>
           <news:publication>
             <news:name>Major Digest</news:name>
             <news:language>en</news:language>
           </news:publication>
-          <news:publication_date>2023-08-24T19:51:55.000Z</news:publication_date>
-          <news:title>UK unveils battery strategy to fuel net zero goals, inviting input from industry stakeholders</news:title>
+          <news:publication_date>2023-08-24T19:55:13.000Z</news:publication_date>
+          <news:title>EU initiates assessment of human and labor rights in Burma</news:title>
         </news:news>
         <image:image>
-          <image:loc>https://majordigest.com/world/2023/08/24/uk-unveils-battery-strategy-fuel-net-zero-goals-inviting-input-industry-stakeholders/uk-unveils-battery-strategy-fuel-net-zero-goals-inviting-input-industry-stakeholders.webp</image:loc>
+          <image:loc>https://majordigest.com/world/2023/08/24/eu-initiates-assessment-human-labor-rights-burma/eu-initiates-assessment-human-labor-rights-burma.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -84,19 +84,5 @@
         </news:news>
         <image:image>
           <image:loc>https://majordigest.com/world/2023/08/24/brazils-president-lula-stresses-geopolitical-significance-brics-expansion-decision/brazils-president-lula-stresses-geopolitical-significance-brics-expansion-decision.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/world/2023/08/24/haitian-telecom-companies-report-severed-fiber-optic-cables-gang-sabotage-suspected/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-24T20:20:47.000Z</news:publication_date>
-          <news:title>Haitian telecom companies report severed fiber optic cables; gang sabotage suspected</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/world/2023/08/24/haitian-telecom-companies-report-severed-fiber-optic-cables-gang-sabotage-suspected/haitian-telecom-companies-report-severed-fiber-optic-cables-gang-sabotage-suspected.webp</image:loc>
         </image:image>
       </url></urlset>
