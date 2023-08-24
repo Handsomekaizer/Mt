@@ -3,73 +3,17 @@
               xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
               xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
       <url>
-        <loc>https://majordigest.com/politics/2023/08/24/big-name-dems-rage-against-candidates-first-gop-presidential-debate/</loc>
+        <loc>https://majordigest.com/politics/2023/08/23/georgia-trump-racketeering-case-state-court/</loc>
         <news:news>
           <news:publication>
             <news:name>Major Digest</news:name>
             <news:language>en</news:language>
           </news:publication>
-          <news:publication_date>2023-08-24T04:22:36.000Z</news:publication_date>
-          <news:title>Big-name Dems rage against candidates at first GOP presidential debate: 'A**hole"</news:title>
+          <news:publication_date>2023-08-23T19:29:41.000Z</news:publication_date>
+          <news:title>Federal judge rejects bids to halt Georgia prosecution of Trump aides over 2020 election</news:title>
         </news:news>
         <image:image>
-          <image:loc>https://majordigest.com/politics/2023/08/24/big-name-dems-rage-against-candidates-first-gop-presidential-debate/big-name-dems-rage-against-candidates-first-gop-presidential-debate.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/politics/2023/08/24/desantis-warns-america-might-never-recover-from-another-4-years-biden/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-24T04:22:29.000Z</news:publication_date>
-          <news:title>DeSantis warns America might never 'recover' from another 4 years of Biden</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/politics/2023/08/24/desantis-warns-america-might-never-recover-from-another-4-years-biden/desantis-warns-america-might-never-recover-from-another-4-years-biden.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/politics/2023/08/24/nikki-haley-makes-case-why-she-thinks-trump-cant-win-2024-election/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-24T05:01:32.000Z</news:publication_date>
-          <news:title>Nikki Haley makes case for why she thinks Trump can't win 2024 election</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/politics/2023/08/24/nikki-haley-makes-case-why-she-thinks-trump-cant-win-2024-election/nikki-haley-makes-case-why-she-thinks-trump-cant-win-2024-election.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/politics/2023/08/23/biden-admin-shrugs-at-prigozhins-death/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-23T23:13:05.000Z</news:publication_date>
-          <news:title>Biden admin shrugs at Prigozhin&#8217;s death as questions about Wagner&#8217;s future linger</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/politics/2023/08/23/biden-admin-shrugs-at-prigozhins-death/biden-admin-shrugs-at-prigozhins-death.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/politics/2023/08/24/conservatives-praise-ramaswamys-mention-fatherless-epidemic-in-us-best-answer-by-anyone/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-24T04:09:45.000Z</news:publication_date>
-          <news:title>Conservatives praise Ramaswamy's mention of fatherless epidemic in US: 'Best answer by anyone'</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/politics/2023/08/24/conservatives-praise-ramaswamys-mention-fatherless-epidemic-in-us-best-answer-by-anyone/conservatives-praise-ramaswamys-mention-fatherless-epidemic-in-us-best-answer-by-anyone.webp</image:loc>
+          <image:loc>https://majordigest.com/politics/2023/08/23/georgia-trump-racketeering-case-state-court/georgia-trump-racketeering-case-state-court.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -87,6 +31,34 @@
         </image:image>
       </url>
       <url>
+        <loc>https://majordigest.com/politics/2023/08/24/big-name-dems-rage-against-candidates-first-gop-presidential-debate/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-24T04:22:36.000Z</news:publication_date>
+          <news:title>Big-name Dems rage against candidates at first GOP presidential debate: 'A**hole"</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/politics/2023/08/24/big-name-dems-rage-against-candidates-first-gop-presidential-debate/big-name-dems-rage-against-candidates-first-gop-presidential-debate.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/politics/2023/08/24/vivek-ramaswamy-attacked-from-all-sides-first-gop-debate-amateur/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-24T03:34:54.000Z</news:publication_date>
+          <news:title>Vivek Ramaswamy attacked from all sides in first GOP debate: 'Amateur'</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/politics/2023/08/24/vivek-ramaswamy-attacked-from-all-sides-first-gop-debate-amateur/vivek-ramaswamy-attacked-from-all-sides-first-gop-debate-amateur.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
         <loc>https://majordigest.com/politics/2023/08/23/gops-anti-woke-campaigns-have-voters-hitting-snooze/</loc>
         <news:news>
           <news:publication>
@@ -98,5 +70,47 @@
         </news:news>
         <image:image>
           <image:loc>https://majordigest.com/politics/2023/08/23/gops-anti-woke-campaigns-have-voters-hitting-snooze/gops-anti-woke-campaigns-have-voters-hitting-snooze.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/politics/2023/08/24/nikki-haley-makes-case-why-she-thinks-trump-cant-win-2024-election/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-24T05:01:32.000Z</news:publication_date>
+          <news:title>Nikki Haley makes case for why she thinks Trump can't win 2024 election</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/politics/2023/08/24/nikki-haley-makes-case-why-she-thinks-trump-cant-win-2024-election/nikki-haley-makes-case-why-she-thinks-trump-cant-win-2024-election.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/politics/2023/08/24/criminal-motivations-georgia-prosecutors-detail-racketeering-case-against-meadows/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-24T00:56:26.000Z</news:publication_date>
+          <news:title>&#8216;Criminal motivations&#8217;: Georgia prosecutors detail racketeering case against Meadows</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/politics/2023/08/24/criminal-motivations-georgia-prosecutors-detail-racketeering-case-against-meadows/criminal-motivations-georgia-prosecutors-detail-racketeering-case-against-meadows.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/politics/2023/08/23/biden-admin-shrugs-at-prigozhins-death/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-23T23:13:05.000Z</news:publication_date>
+          <news:title>Biden admin shrugs at Prigozhin&#8217;s death as questions about Wagner&#8217;s future linger</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/politics/2023/08/23/biden-admin-shrugs-at-prigozhins-death/biden-admin-shrugs-at-prigozhins-death.webp</image:loc>
         </image:image>
       </url></urlset>
