@@ -3,48 +3,6 @@
               xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
               xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
       <url>
-        <loc>https://majordigest.com/us/2023/08/23/georgia-police-body-small-child-found-may-2-year-old-boy-believed-missing-dad-arrested/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-23T23:41:35.000Z</news:publication_date>
-          <news:title>Georgia police say body of small child found may be 2-year-old boy believed to be missing after dad arrested</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/us/2023/08/23/georgia-police-body-small-child-found-may-2-year-old-boy-believed-missing-dad-arrested/georgia-police-body-small-child-found-may-2-year-old-boy-believed-missing-dad-arrested.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/us/2023/08/23/florida-charter-school-custodian-charged-possessing-child-pornography/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-23T23:33:37.000Z</news:publication_date>
-          <news:title>Florida charter school custodian charged with possessing child pornography</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/us/2023/08/23/florida-charter-school-custodian-charged-possessing-child-pornography/florida-charter-school-custodian-charged-possessing-child-pornography.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/us/2023/08/23/california-home-destroyed-apparent-explosion-others-damaged/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-23T23:58:38.000Z</news:publication_date>
-          <news:title>California home destroyed in apparent explosion, others damaged</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/us/2023/08/23/california-home-destroyed-apparent-explosion-others-damaged/california-home-destroyed-apparent-explosion-others-damaged.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
         <loc>https://majordigest.com/us/2023/08/24/texas-woman-finds-escaped-python-blocking-her-car-parking-lot/</loc>
         <news:news>
           <news:publication>
@@ -59,6 +17,62 @@
         </image:image>
       </url>
       <url>
+        <loc>https://majordigest.com/us/2023/08/23/5-high-school-students-all-country-been-named-national-student-poets/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-23T23:33:24.000Z</news:publication_date>
+          <news:title>5 high school students, from all over the country, have been named National Student Poets</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/us/2023/08/23/5-high-school-students-all-country-been-named-national-student-poets/5-high-school-students-all-country-been-named-national-student-poets.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/us/2023/08/23/georgia-police-body-small-child-found-may-2-year-old-boy-believed-missing-dad-arrested/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-23T23:41:35.000Z</news:publication_date>
+          <news:title>Georgia police say body of small child found may be 2-year-old boy believed to be missing after dad arrested</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/us/2023/08/23/georgia-police-body-small-child-found-may-2-year-old-boy-believed-missing-dad-arrested/georgia-police-body-small-child-found-may-2-year-old-boy-believed-missing-dad-arrested.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/us/2023/08/24/mass-shooting-historic-california-biker-bar-3-dead-6-injured-suspect-dead/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-24T05:28:43.000Z</news:publication_date>
+          <news:title>Mass shooting at historic California biker bar leaves 3 dead, 6 injured; suspect also dead</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/us/2023/08/24/mass-shooting-historic-california-biker-bar-3-dead-6-injured-suspect-dead/mass-shooting-historic-california-biker-bar-3-dead-6-injured-suspect-dead.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/us/2023/08/23/loaded-gun-tennessee-high-school-students-backpack-amid-ongoing-legislative-debate-gun-control/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-23T23:34:49.000Z</news:publication_date>
+          <news:title>Loaded gun found in Tennessee high school student's backpack amid ongoing legislative debate on gun control</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/us/2023/08/23/loaded-gun-tennessee-high-school-students-backpack-amid-ongoing-legislative-debate-gun-control/loaded-gun-tennessee-high-school-students-backpack-amid-ongoing-legislative-debate-gun-control.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
         <loc>https://majordigest.com/us/2023/08/24/workers-make-headway-theodore-roosevelt-presidential-library-north-dakota-badlands/</loc>
         <news:news>
           <news:publication>
@@ -70,5 +84,19 @@
         </news:news>
         <image:image>
           <image:loc>https://majordigest.com/us/2023/08/24/workers-make-headway-theodore-roosevelt-presidential-library-north-dakota-badlands/workers-make-headway-theodore-roosevelt-presidential-library-north-dakota-badlands.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/us/2023/08/23/california-home-destroyed-apparent-explosion-others-damaged/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-23T23:58:38.000Z</news:publication_date>
+          <news:title>California home destroyed in apparent explosion, others damaged</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/us/2023/08/23/california-home-destroyed-apparent-explosion-others-damaged/california-home-destroyed-apparent-explosion-others-damaged.webp</image:loc>
         </image:image>
       </url></urlset>
