@@ -3,31 +3,101 @@
               xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
               xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
       <url>
-        <loc>https://majordigest.com/politics/2023/08/23/sen-ted-cruz-reacts-to-viral-country-singer-oliver-anthonys-new-song-singing-the-truth-is-powerful/</loc>
+        <loc>https://majordigest.com/politics/2023/08/23/gop-reps-call-more-overtime-pay-border-patrol-agents-tackling-ongoing-migrant-crisis/</loc>
         <news:news>
           <news:publication>
             <news:name>Major Digest</news:name>
             <news:language>en</news:language>
           </news:publication>
-          <news:publication_date>2023-08-23T22:01:46.000Z</news:publication_date>
-          <news:title>Sen. Ted Cruz hails viral country singer Oliver Anthony's new song: 'Singing the truth is powerful'</news:title>
+          <news:publication_date>2023-08-23T21:16:20.000Z</news:publication_date>
+          <news:title>GOP reps call for more overtime pay for Border Patrol agents tackling ongoing migrant crisis</news:title>
         </news:news>
         <image:image>
-          <image:loc>https://majordigest.com/politics/2023/08/23/sen-ted-cruz-reacts-to-viral-country-singer-oliver-anthonys-new-song-singing-the-truth-is-powerful/sen-ted-cruz-reacts-to-viral-country-singer-oliver-anthonys-new-song-singing-the-truth-is-powerful.webp</image:loc>
+          <image:loc>https://majordigest.com/politics/2023/08/23/gop-reps-call-more-overtime-pay-border-patrol-agents-tackling-ongoing-migrant-crisis/gop-reps-call-more-overtime-pay-border-patrol-agents-tackling-ongoing-migrant-crisis.webp</image:loc>
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/politics/2023/08/23/first-republican-presidential-debate-awesome-opportunity-candidates-score-breakout-moments/</loc>
+        <loc>https://majordigest.com/politics/2023/08/24/biden-administration-talks-venezuela-possible-sanctions-relieffair-elections-report/</loc>
         <news:news>
           <news:publication>
             <news:name>Major Digest</news:name>
             <news:language>en</news:language>
           </news:publication>
-          <news:publication_date>2023-08-23T19:00:10.000Z</news:publication_date>
-          <news:title>First Republican presidential debate an 'awesome opportunity' for candidates to score breakout moments</news:title>
+          <news:publication_date>2023-08-24T00:20:48.000Z</news:publication_date>
+          <news:title>Biden administration in talks with Venezuela over possible sanctions relief for fair elections: report</news:title>
         </news:news>
         <image:image>
-          <image:loc>https://majordigest.com/politics/2023/08/23/first-republican-presidential-debate-awesome-opportunity-candidates-score-breakout-moments/first-republican-presidential-debate-awesome-opportunity-candidates-score-breakout-moments.webp</image:loc>
+          <image:loc>https://majordigest.com/politics/2023/08/24/biden-administration-talks-venezuela-possible-sanctions-relieffair-elections-report/biden-administration-talks-venezuela-possible-sanctions-relieffair-elections-report.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/politics/2023/08/23/gop-candidate-faces-calls-drop-out-missing-first-debate/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-23T23:50:55.000Z</news:publication_date>
+          <news:title>GOP candidate faces calls to drop out after missing first debate</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/politics/2023/08/23/gop-candidate-faces-calls-drop-out-missing-first-debate/gop-candidate-faces-calls-drop-out-missing-first-debate.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/politics/2023/08/23/dnc-surrogate-ripped-claiming-democrat-run-cities-prove-us-not-decline/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-23T22:16:38.000Z</news:publication_date>
+          <news:title>DNC surrogate ripped for claiming Democrat-run cities prove US not in decline: 'Is this a joke?'</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/politics/2023/08/23/dnc-surrogate-ripped-claiming-democrat-run-cities-prove-us-not-decline/dnc-surrogate-ripped-claiming-democrat-run-cities-prove-us-not-decline.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/politics/2023/08/24/wisconsin-democrat-gaffes-attacking-gop-debaters-president-harris/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-24T00:45:18.000Z</news:publication_date>
+          <news:title>Wisconsin Democrat gaffes while attacking GOP debaters: 'President Harris'</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/politics/2023/08/24/wisconsin-democrat-gaffes-attacking-gop-debaters-president-harris/wisconsin-democrat-gaffes-attacking-gop-debaters-president-harris.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/politics/2023/08/24/dc-mother-warns-suburbs-skyrocketing-crime-nations-capital-festering-over/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-24T00:50:43.000Z</news:publication_date>
+          <news:title>DC mother warns suburbs about skyrocketing crime in nation's capital festering over: 'This is now all over'</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/politics/2023/08/24/dc-mother-warns-suburbs-skyrocketing-crime-nations-capital-festering-over/dc-mother-warns-suburbs-skyrocketing-crime-nations-capital-festering-over.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/politics/2023/08/23/mccarthy-congressional-response-biden-handling-maui-fires/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-23T21:29:05.000Z</news:publication_date>
+          <news:title>McCarthy threatens congressional response to Biden's handling of Maui fires</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/politics/2023/08/23/mccarthy-congressional-response-biden-handling-maui-fires/mccarthy-congressional-response-biden-handling-maui-fires.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -59,86 +129,16 @@
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/politics/2023/08/23/giuliani-mugshot-released-turns-himself-trump-georgia-2020-case/</loc>
+        <loc>https://majordigest.com/politics/2023/08/22/republican-debate-trump-skip/</loc>
         <news:news>
           <news:publication>
             <news:name>Major Digest</news:name>
             <news:language>en</news:language>
           </news:publication>
-          <news:publication_date>2023-08-23T21:11:24.000Z</news:publication_date>
-          <news:title>Giuliani mugshot released after he turns himself in on Trump-Georgia 2020 case</news:title>
+          <news:publication_date>2023-08-22T15:19:26.000Z</news:publication_date>
+          <news:title>Looking back at Trump&#8217;s biggest GOP debate moments</news:title>
         </news:news>
         <image:image>
-          <image:loc>https://majordigest.com/politics/2023/08/23/giuliani-mugshot-released-turns-himself-trump-georgia-2020-case/giuliani-mugshot-released-turns-himself-trump-georgia-2020-case.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/politics/2023/08/23/hunter-biden-traveled-least-13-countries-vp-dad-i-can-catch-ride-him/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-23T20:43:30.000Z</news:publication_date>
-          <news:title>Hunter Biden traveled to at least 13 countries with VP dad: 'I can catch a ride with him'</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/politics/2023/08/23/hunter-biden-traveled-least-13-countries-vp-dad-i-can-catch-ride-him/hunter-biden-traveled-least-13-countries-vp-dad-i-can-catch-ride-him.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/politics/2023/08/23/georgia-trump-racketeering-case-state-court/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-23T19:29:41.000Z</news:publication_date>
-          <news:title>Federal judge rejects bids to halt Georgia prosecution of Trump aides over 2020 election</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/politics/2023/08/23/georgia-trump-racketeering-case-state-court/georgia-trump-racketeering-case-state-court.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/politics/2023/08/23/gop-reps-call-more-overtime-pay-border-patrol-agents-tackling-ongoing-migrant-crisis/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-23T21:16:20.000Z</news:publication_date>
-          <news:title>GOP reps call for more overtime pay for Border Patrol agents tackling ongoing migrant crisis</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/politics/2023/08/23/gop-reps-call-more-overtime-pay-border-patrol-agents-tackling-ongoing-migrant-crisis/gop-reps-call-more-overtime-pay-border-patrol-agents-tackling-ongoing-migrant-crisis.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/politics/2023/08/23/ronny-jackson-warns-mccarthy-losing-speakership-inevitable-if-doesnt-cave-conservatives-spending/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-23T19:33:39.000Z</news:publication_date>
-          <news:title>Ronny Jackson warns McCarthy losing speakership 'inevitable' if he doesn't cave to conservatives on spending</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/politics/2023/08/23/ronny-jackson-warns-mccarthy-losing-speakership-inevitable-if-doesnt-cave-conservatives-spending/ronny-jackson-warns-mccarthy-losing-speakership-inevitable-if-doesnt-cave-conservatives-spending.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/politics/2023/08/23/biden-to-name-first-drugs-for-medicare-negotiation/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-23T20:23:07.000Z</news:publication_date>
-          <news:title>Biden to name first drugs for Medicare negotiations early next week</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/politics/2023/08/23/biden-to-name-first-drugs-for-medicare-negotiation/biden-to-name-first-drugs-for-medicare-negotiation.webp</image:loc>
+          <image:loc>https://majordigest.com/politics/2023/08/22/republican-debate-trump-skip/republican-debate-trump-skip.webp</image:loc>
         </image:image>
       </url></urlset>
