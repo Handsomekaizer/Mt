@@ -3,6 +3,34 @@
               xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
               xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
       <url>
+        <loc>https://majordigest.com/us/2023/08/24/kristin-smart-killer-attacked-prison-hospitalized-serious-condition-lawyer/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-24T15:51:44.000Z</news:publication_date>
+          <news:title>Kristin Smart's killer attacked in prison, hospitalized in serious condition: lawyer</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/us/2023/08/24/kristin-smart-killer-attacked-prison-hospitalized-serious-condition-lawyer/kristin-smart-killer-attacked-prison-hospitalized-serious-condition-lawyer.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/us/2023/08/24/spirit-airlines-agrees-8-25m-settlement-class-action-lawsuit-surprise-bag-fees/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-24T17:40:27.000Z</news:publication_date>
+          <news:title>Spirit Airlines agrees to $8.25M settlement in class action lawsuit over surprise bag fees</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/us/2023/08/24/spirit-airlines-agrees-8-25m-settlement-class-action-lawsuit-surprise-bag-fees/spirit-airlines-agrees-8-25m-settlement-class-action-lawsuit-surprise-bag-fees.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
         <loc>https://majordigest.com/us/2023/08/24/shark-found-riverbank-landlocked-idaho-casuses-alarm-officials-say/</loc>
         <news:news>
           <news:publication>
@@ -14,34 +42,6 @@
         </news:news>
         <image:image>
           <image:loc>https://majordigest.com/us/2023/08/24/shark-found-riverbank-landlocked-idaho-casuses-alarm-officials-say/shark-found-riverbank-landlocked-idaho-casuses-alarm-officials-say.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/us/2023/08/24/us-spends-150-million-help-small-forest-owners-sell-carbon-credits/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-24T15:33:14.000Z</news:publication_date>
-          <news:title>US spends $150 million to help small forest owners sell carbon credits</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/us/2023/08/24/us-spends-150-million-help-small-forest-owners-sell-carbon-credits/us-spends-150-million-help-small-forest-owners-sell-carbon-credits.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/us/2023/08/24/3-men-accused-plotting-kidnap-mi-gov-whitmer-prepared-start-civil-war-according-prosecutors/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-24T15:09:29.000Z</news:publication_date>
-          <news:title>3 men accused of plotting to kidnap MI Gov. Whitmer were prepared to start civil war, according to prosecutors</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/us/2023/08/24/3-men-accused-plotting-kidnap-mi-gov-whitmer-prepared-start-civil-war-according-prosecutors/3-men-accused-plotting-kidnap-mi-gov-whitmer-prepared-start-civil-war-according-prosecutors.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -59,34 +59,6 @@
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/us/2023/08/24/kristin-smart-killer-attacked-prison-hospitalized-serious-condition-lawyer/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-24T15:51:44.000Z</news:publication_date>
-          <news:title>Kristin Smart's killer attacked in prison, hospitalized in serious condition: lawyer</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/us/2023/08/24/kristin-smart-killer-attacked-prison-hospitalized-serious-condition-lawyer/kristin-smart-killer-attacked-prison-hospitalized-serious-condition-lawyer.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/us/2023/08/24/federal-regulators-propose-series-gas-pipeline-rule-changes-following-2018-massachusetts-explosions/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-24T16:31:20.000Z</news:publication_date>
-          <news:title>Federal regulators propose series of gas pipeline rule changes following 2018 Massachusetts explosions</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/us/2023/08/24/federal-regulators-propose-series-gas-pipeline-rule-changes-following-2018-massachusetts-explosions/federal-regulators-propose-series-gas-pipeline-rule-changes-following-2018-massachusetts-explosions.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
         <loc>https://majordigest.com/us/2023/08/24/record-breaking-oil-production-new-mexico-may-bring-state-income-surplus-3-5-billion/</loc>
         <news:news>
           <news:publication>
@@ -101,17 +73,31 @@
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/us/2023/08/24/philadelphias-police-commissioner-says-officer-shot-driver-last-week-fired/</loc>
+        <loc>https://majordigest.com/us/2023/08/24/doj-charges-former-fbi-contractor-child-sex-crimes/</loc>
         <news:news>
           <news:publication>
             <news:name>Major Digest</news:name>
             <news:language>en</news:language>
           </news:publication>
-          <news:publication_date>2023-08-24T15:10:09.000Z</news:publication_date>
-          <news:title>Philadelphia's police commissioner says officer who shot driver last week will be fired</news:title>
+          <news:publication_date>2023-08-24T18:14:47.000Z</news:publication_date>
+          <news:title>DOJ charges former FBI contractor with child sex crimes</news:title>
         </news:news>
         <image:image>
-          <image:loc>https://majordigest.com/us/2023/08/24/philadelphias-police-commissioner-says-officer-shot-driver-last-week-fired/philadelphias-police-commissioner-says-officer-shot-driver-last-week-fired.webp</image:loc>
+          <image:loc>https://majordigest.com/us/2023/08/24/doj-charges-former-fbi-contractor-child-sex-crimes/doj-charges-former-fbi-contractor-child-sex-crimes.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/us/2023/08/24/us-spends-150-million-help-small-forest-owners-sell-carbon-credits/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-24T15:33:14.000Z</news:publication_date>
+          <news:title>US spends $150 million to help small forest owners sell carbon credits</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/us/2023/08/24/us-spends-150-million-help-small-forest-owners-sell-carbon-credits/us-spends-150-million-help-small-forest-owners-sell-carbon-credits.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -126,19 +112,5 @@
         </news:news>
         <image:image>
           <image:loc>https://majordigest.com/us/2023/08/24/tennessee-city-uses-science-based-playbook-battle-fight-surging-gun-violence/tennessee-city-uses-science-based-playbook-battle-fight-surging-gun-violence.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/us/2023/08/24/raleigh-north-carolina-unveils-states-first-park-honoring-african-american-history/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-24T15:20:47.000Z</news:publication_date>
-          <news:title>Raleigh, North Carolina, unveils state&#8217;s first park honoring African American history</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/us/2023/08/24/raleigh-north-carolina-unveils-states-first-park-honoring-african-american-history/raleigh-north-carolina-unveils-states-first-park-honoring-african-american-history.webp</image:loc>
         </image:image>
       </url></urlset>
