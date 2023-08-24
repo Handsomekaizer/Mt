@@ -3,90 +3,6 @@
               xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
               xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
       <url>
-        <loc>https://majordigest.com/tech/2023/08/23/samsung-fold-5-versatile-but-with-compromises/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-23T12:17:56.000Z</news:publication_date>
-          <news:title>Samsung Fold 5: Versatile, but with compromises</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/tech/2023/08/23/samsung-fold-5-versatile-but-with-compromises/samsung-fold-5-versatile-but-with-compromises.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/tech/2023/08/21/russias-luna-25-spacecraft-crashes-into-the-moon-ending-its-bid-to-reach-the-lunar-south-pole/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-21T16:59:50.000Z</news:publication_date>
-          <news:title>Russia&#8217;s Luna-25 spacecraft crashes into the moon, ending its bid to reach the lunar south pole</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/tech/2023/08/21/russias-luna-25-spacecraft-crashes-into-the-moon-ending-its-bid-to-reach-the-lunar-south-pole/russias-luna-25-spacecraft-crashes-into-the-moon-ending-its-bid-to-reach-the-lunar-south-pole.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/tech/2023/08/22/prime-minister-justin-trudeau-slams-facebook-for-blocking-canada-wildfire-news/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-22T14:43:05.000Z</news:publication_date>
-          <news:title>Prime Minister Justin Trudeau slams Facebook for blocking Canada wildfire news</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/tech/2023/08/22/prime-minister-justin-trudeau-slams-facebook-for-blocking-canada-wildfire-news/prime-minister-justin-trudeau-slams-facebook-for-blocking-canada-wildfire-news.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/tech/2023/08/23/controversial-ai-app-allows-text-jesus-satan/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-23T15:07:25.000Z</news:publication_date>
-          <news:title>Controversial new AI app allows you to text with Jesus &#8211; and Satan</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/tech/2023/08/23/controversial-ai-app-allows-text-jesus-satan/controversial-ai-app-allows-text-jesus-satan.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/tech/2023/08/22/say-goodbye-photobombs-easy-ways-remove-unwanted-background-objects/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-22T17:29:00.000Z</news:publication_date>
-          <news:title>Say goodbye to photobombs: easy ways to remove unwanted background objects</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/tech/2023/08/22/say-goodbye-photobombs-easy-ways-remove-unwanted-background-objects/say-goodbye-photobombs-easy-ways-remove-unwanted-background-objects.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/tech/2023/08/23/ask-kurt-how-activate-auto-reply-text-messages-iphone-android-easily/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-23T20:25:20.000Z</news:publication_date>
-          <news:title>Ask Kurt: How to activate auto-reply for text messages on iPhone or Android easily</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/tech/2023/08/23/ask-kurt-how-activate-auto-reply-text-messages-iphone-android-easily/ask-kurt-how-activate-auto-reply-text-messages-iphone-android-easily.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
         <loc>https://majordigest.com/tech/2023/08/23/opinion-this-valley-fever-vaccine-could-save-dogs-eventually-humans/</loc>
         <news:news>
           <news:publication>
@@ -101,17 +17,31 @@
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/tech/2023/08/23/medical-professionals-utilizing-ai-judge-narcotics-prescriptions-report/</loc>
+        <loc>https://majordigest.com/tech/2023/08/23/editorial-puc-fails-to-keep-californians-safe-from-autonomous-vehicles/</loc>
         <news:news>
           <news:publication>
             <news:name>Major Digest</news:name>
             <news:language>en</news:language>
           </news:publication>
-          <news:publication_date>2023-08-23T17:07:41.000Z</news:publication_date>
-          <news:title>Medical professionals utilizing AI to judge narcotics prescriptions: report</news:title>
+          <news:publication_date>2023-08-23T12:30:55.000Z</news:publication_date>
+          <news:title>Editorial: CPUC incompetence lets autotaxis dangerously run amok</news:title>
         </news:news>
         <image:image>
-          <image:loc>https://majordigest.com/tech/2023/08/23/medical-professionals-utilizing-ai-judge-narcotics-prescriptions-report/medical-professionals-utilizing-ai-judge-narcotics-prescriptions-report.webp</image:loc>
+          <image:loc>https://majordigest.com/tech/2023/08/23/editorial-puc-fails-to-keep-californians-safe-from-autonomous-vehicles/editorial-puc-fails-to-keep-californians-safe-from-autonomous-vehicles.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/tech/2023/08/23/fox-news-ai-newsletter-teachers-go-back-school-ai-cheating-concerns/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-23T14:03:55.000Z</news:publication_date>
+          <news:title>Fox News AI Newsletter: Teachers go back to school with AI amid cheating concerns</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/tech/2023/08/23/fox-news-ai-newsletter-teachers-go-back-school-ai-cheating-concerns/fox-news-ai-newsletter-teachers-go-back-school-ai-cheating-concerns.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -129,6 +59,20 @@
         </image:image>
       </url>
       <url>
+        <loc>https://majordigest.com/tech/2023/08/21/why-would-elon-musk-lash-out-at-james-woods-of-all-people/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-21T17:53:20.000Z</news:publication_date>
+          <news:title>Why would Elon Musk lash out at James Woods, of all people?</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/tech/2023/08/21/why-would-elon-musk-lash-out-at-james-woods-of-all-people/why-would-elon-musk-lash-out-at-james-woods-of-all-people.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
         <loc>https://majordigest.com/tech/2023/08/22/how-to-set-up-earthquake-alerts-on-your-phone/</loc>
         <news:news>
           <news:publication>
@@ -143,16 +87,72 @@
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/tech/2023/08/23/fox-news-ai-newsletter-teachers-go-back-school-ai-cheating-concerns/</loc>
+        <loc>https://majordigest.com/tech/2023/08/23/san-jose-chamber-business-economy-ceo-downtown-real-estate-covid-tech/</loc>
         <news:news>
           <news:publication>
             <news:name>Major Digest</news:name>
             <news:language>en</news:language>
           </news:publication>
-          <news:publication_date>2023-08-23T14:03:55.000Z</news:publication_date>
-          <news:title>Fox News AI Newsletter: Teachers go back to school with AI amid cheating concerns</news:title>
+          <news:publication_date>2023-08-23T18:40:13.000Z</news:publication_date>
+          <news:title>San Jose Chamber seeks third CEO in three years amid downtown slump</news:title>
         </news:news>
         <image:image>
-          <image:loc>https://majordigest.com/tech/2023/08/23/fox-news-ai-newsletter-teachers-go-back-school-ai-cheating-concerns/fox-news-ai-newsletter-teachers-go-back-school-ai-cheating-concerns.webp</image:loc>
+          <image:loc>https://majordigest.com/tech/2023/08/23/san-jose-chamber-business-economy-ceo-downtown-real-estate-covid-tech/san-jose-chamber-business-economy-ceo-downtown-real-estate-covid-tech.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/tech/2023/08/23/educators-said-using-chatgpt-cheating-now-using-ai-write-syllabi-exams-professor/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-23T06:00:41.000Z</news:publication_date>
+          <news:title>Educators have said using ChatGPT is cheating, but now they are using AI to write syllabi and exams: Professor</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/tech/2023/08/23/educators-said-using-chatgpt-cheating-now-using-ai-write-syllabi-exams-professor/educators-said-using-chatgpt-cheating-now-using-ai-write-syllabi-exams-professor.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/tech/2023/08/23/delete-app-mac-before-late/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-23T18:23:13.000Z</news:publication_date>
+          <news:title>Delete this app on your Mac before it's too late</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/tech/2023/08/23/delete-app-mac-before-late/delete-app-mac-before-late.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/tech/2023/08/21/ready-for-an-electric-car-what-you-need-to-know/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-21T17:23:44.000Z</news:publication_date>
+          <news:title>Ready for an electric car? What you need to know</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/tech/2023/08/21/ready-for-an-electric-car-what-you-need-to-know/ready-for-an-electric-car-what-you-need-to-know.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/tech/2023/08/22/prime-minister-justin-trudeau-slams-facebook-for-blocking-canada-wildfire-news/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-22T14:43:05.000Z</news:publication_date>
+          <news:title>Prime Minister Justin Trudeau slams Facebook for blocking Canada wildfire news</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/tech/2023/08/22/prime-minister-justin-trudeau-slams-facebook-for-blocking-canada-wildfire-news/prime-minister-justin-trudeau-slams-facebook-for-blocking-canada-wildfire-news.webp</image:loc>
         </image:image>
       </url></urlset>
