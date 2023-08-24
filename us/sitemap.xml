@@ -3,20 +3,6 @@
               xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
               xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
       <url>
-        <loc>https://majordigest.com/us/2023/08/24/cleanup-workers-gone-petroleum-asphalt-issue-yellowstone-river-following-derailment/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-24T10:59:58.000Z</news:publication_date>
-          <news:title>Cleanup workers are gone but petroleum asphalt is still an issue in Yellowstone River following derailment</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/us/2023/08/24/cleanup-workers-gone-petroleum-asphalt-issue-yellowstone-river-following-derailment/cleanup-workers-gone-petroleum-asphalt-issue-yellowstone-river-following-derailment.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
         <loc>https://majordigest.com/us/2023/08/24/texas-woman-finds-escaped-python-blocking-her-car-parking-lot/</loc>
         <news:news>
           <news:publication>
@@ -31,31 +17,31 @@
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/us/2023/08/23/florida-man-accused-driving-killing-woman-march-fiery-crash-charged-manslaughter/</loc>
+        <loc>https://majordigest.com/us/2023/08/24/seattle-police-arrest-burglary-suspect-found-chugging-gasoline-victims-garage-bodycam-video-shows/</loc>
         <news:news>
           <news:publication>
             <news:name>Major Digest</news:name>
             <news:language>en</news:language>
           </news:publication>
-          <news:publication_date>2023-08-23T23:59:54.000Z</news:publication_date>
-          <news:title>Florida man accused of driving 112 mph and killing woman in March fiery crash charged with manslaughter</news:title>
+          <news:publication_date>2023-08-24T11:05:35.000Z</news:publication_date>
+          <news:title>Seattle police arrest burglary suspect found chugging gasoline in victim's garage, bodycam video shows</news:title>
         </news:news>
         <image:image>
-          <image:loc>https://majordigest.com/us/2023/08/23/florida-man-accused-driving-killing-woman-march-fiery-crash-charged-manslaughter/florida-man-accused-driving-killing-woman-march-fiery-crash-charged-manslaughter.webp</image:loc>
+          <image:loc>https://majordigest.com/us/2023/08/24/seattle-police-arrest-burglary-suspect-found-chugging-gasoline-victims-garage-bodycam-video-shows/seattle-police-arrest-burglary-suspect-found-chugging-gasoline-victims-garage-bodycam-video-shows.webp</image:loc>
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/us/2023/08/24/banned-for-life-pilot-says-airlines-should-more-strict-disciplining-passengers-bad-behavior/</loc>
+        <loc>https://majordigest.com/us/2023/08/24/cleanup-workers-gone-petroleum-asphalt-issue-yellowstone-river-following-derailment/</loc>
         <news:news>
           <news:publication>
             <news:name>Major Digest</news:name>
             <news:language>en</news:language>
           </news:publication>
-          <news:publication_date>2023-08-24T10:00:23.000Z</news:publication_date>
-          <news:title>Banned for life: Pilot says airlines should be 'more strict' in disciplining passengers for bad behavior</news:title>
+          <news:publication_date>2023-08-24T10:59:58.000Z</news:publication_date>
+          <news:title>Cleanup workers are gone but petroleum asphalt is still an issue in Yellowstone River following derailment</news:title>
         </news:news>
         <image:image>
-          <image:loc>https://majordigest.com/us/2023/08/24/banned-for-life-pilot-says-airlines-should-more-strict-disciplining-passengers-bad-behavior/banned-for-life-pilot-says-airlines-should-more-strict-disciplining-passengers-bad-behavior.webp</image:loc>
+          <image:loc>https://majordigest.com/us/2023/08/24/cleanup-workers-gone-petroleum-asphalt-issue-yellowstone-river-following-derailment/cleanup-workers-gone-petroleum-asphalt-issue-yellowstone-river-following-derailment.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -73,16 +59,16 @@
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/us/2023/08/24/see-dramatic-moment-police-arrest-jared-bridegan-ex-wife-murder/</loc>
+        <loc>https://majordigest.com/us/2023/08/24/banned-for-life-pilot-says-airlines-should-more-strict-disciplining-passengers-bad-behavior/</loc>
         <news:news>
           <news:publication>
             <news:name>Major Digest</news:name>
             <news:language>en</news:language>
           </news:publication>
-          <news:publication_date>2023-08-24T11:00:10.000Z</news:publication_date>
-          <news:title>See dramatic moment police arrest Jared Bridegan&#8217;s ex-wife for his murder</news:title>
+          <news:publication_date>2023-08-24T10:00:23.000Z</news:publication_date>
+          <news:title>Banned for life: Pilot says airlines should be 'more strict' in disciplining passengers for bad behavior</news:title>
         </news:news>
         <image:image>
-          <image:loc>https://majordigest.com/us/2023/08/24/see-dramatic-moment-police-arrest-jared-bridegan-ex-wife-murder/see-dramatic-moment-police-arrest-jared-bridegan-ex-wife-murder.webp</image:loc>
+          <image:loc>https://majordigest.com/us/2023/08/24/banned-for-life-pilot-says-airlines-should-more-strict-disciplining-passengers-bad-behavior/banned-for-life-pilot-says-airlines-should-more-strict-disciplining-passengers-bad-behavior.webp</image:loc>
         </image:image>
       </url></urlset>
