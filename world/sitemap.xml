@@ -3,34 +3,6 @@
               xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
               xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
       <url>
-        <loc>https://majordigest.com/world/2023/08/24/zimbabwe-arrests-41-poll-monitors-accuses-trying-rig-vote-count-opposition/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-24T19:45:46.000Z</news:publication_date>
-          <news:title>Zimbabwe arrests 41 poll monitors, accuses them of trying to rig vote count for opposition</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/world/2023/08/24/zimbabwe-arrests-41-poll-monitors-accuses-trying-rig-vote-count-opposition/zimbabwe-arrests-41-poll-monitors-accuses-trying-rig-vote-count-opposition.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/world/2023/08/24/eu-initiates-assessment-human-labor-rights-burma/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-24T19:55:13.000Z</news:publication_date>
-          <news:title>EU initiates assessment of human and labor rights in Burma</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/world/2023/08/24/eu-initiates-assessment-human-labor-rights-burma/eu-initiates-assessment-human-labor-rights-burma.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
         <loc>https://majordigest.com/world/2023/08/24/german-chancellor-olaf-scholz-highlights-untapped-potential-deep-geothermal-energy-heating/</loc>
         <news:news>
           <news:publication>
@@ -45,31 +17,59 @@
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/world/2023/08/24/congressional-inquiry-investigate-codelcos-mining-projects-chile/</loc>
+        <loc>https://majordigest.com/world/2023/08/24/indian-prime-minister-modi-addresses-border-concerns-chinese-president-jinping-brics-summit/</loc>
         <news:news>
           <news:publication>
             <news:name>Major Digest</news:name>
             <news:language>en</news:language>
           </news:publication>
-          <news:publication_date>2023-08-24T20:07:21.000Z</news:publication_date>
-          <news:title>Congressional inquiry to investigate Codelco's mining projects in Chile</news:title>
+          <news:publication_date>2023-08-24T19:59:12.000Z</news:publication_date>
+          <news:title>Indian Prime Minister Modi addresses border concerns with Chinese President Jinping at BRICS summit</news:title>
         </news:news>
         <image:image>
-          <image:loc>https://majordigest.com/world/2023/08/24/congressional-inquiry-investigate-codelcos-mining-projects-chile/congressional-inquiry-investigate-codelcos-mining-projects-chile.webp</image:loc>
+          <image:loc>https://majordigest.com/world/2023/08/24/indian-prime-minister-modi-addresses-border-concerns-chinese-president-jinping-brics-summit/indian-prime-minister-modi-addresses-border-concerns-chinese-president-jinping-brics-summit.webp</image:loc>
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/world/2023/08/24/antarctic-ice-loss-likely-wiped-4-colonies-worth-emperor-penguin-chicks-researchers-say/</loc>
+        <loc>https://majordigest.com/world/2023/08/24/sweida-protests-continue-syrians-demand-economic-relief-presidents-resignation/</loc>
         <news:news>
           <news:publication>
             <news:name>Major Digest</news:name>
             <news:language>en</news:language>
           </news:publication>
-          <news:publication_date>2023-08-24T19:47:08.000Z</news:publication_date>
-          <news:title>Antarctic ice loss likely wiped out 4 colonies' worth of emperor penguin chicks, researchers say</news:title>
+          <news:publication_date>2023-08-24T20:09:10.000Z</news:publication_date>
+          <news:title>Sweida protests continue as Syrians demand economic relief and president's resignation</news:title>
         </news:news>
         <image:image>
-          <image:loc>https://majordigest.com/world/2023/08/24/antarctic-ice-loss-likely-wiped-4-colonies-worth-emperor-penguin-chicks-researchers-say/antarctic-ice-loss-likely-wiped-4-colonies-worth-emperor-penguin-chicks-researchers-say.webp</image:loc>
+          <image:loc>https://majordigest.com/world/2023/08/24/sweida-protests-continue-syrians-demand-economic-relief-presidents-resignation/sweida-protests-continue-syrians-demand-economic-relief-presidents-resignation.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/world/2023/08/24/uk-unveils-battery-strategy-fuel-net-zero-goals-inviting-input-industry-stakeholders/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-24T19:51:55.000Z</news:publication_date>
+          <news:title>UK unveils battery strategy to fuel net zero goals, inviting input from industry stakeholders</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/world/2023/08/24/uk-unveils-battery-strategy-fuel-net-zero-goals-inviting-input-industry-stakeholders/uk-unveils-battery-strategy-fuel-net-zero-goals-inviting-input-industry-stakeholders.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/world/2023/08/24/pentagon-wagner-chief-yevgeny-prigozhin-likely-killed-plane-crash-no-evidence-missile-attack/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-24T20:34:24.000Z</news:publication_date>
+          <news:title>Pentagon says Wagner chief Yevgeny Prigozhin likely killed in plane crash, no evidence of missile attack</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/world/2023/08/24/pentagon-wagner-chief-yevgeny-prigozhin-likely-killed-plane-crash-no-evidence-missile-attack/pentagon-wagner-chief-yevgeny-prigozhin-likely-killed-plane-crash-no-evidence-missile-attack.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -84,5 +84,19 @@
         </news:news>
         <image:image>
           <image:loc>https://majordigest.com/world/2023/08/24/brazils-president-lula-stresses-geopolitical-significance-brics-expansion-decision/brazils-president-lula-stresses-geopolitical-significance-brics-expansion-decision.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/world/2023/08/24/haitian-telecom-companies-report-severed-fiber-optic-cables-gang-sabotage-suspected/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-24T20:20:47.000Z</news:publication_date>
+          <news:title>Haitian telecom companies report severed fiber optic cables; gang sabotage suspected</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/world/2023/08/24/haitian-telecom-companies-report-severed-fiber-optic-cables-gang-sabotage-suspected/haitian-telecom-companies-report-severed-fiber-optic-cables-gang-sabotage-suspected.webp</image:loc>
         </image:image>
       </url></urlset>

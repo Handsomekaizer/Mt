@@ -3,90 +3,6 @@
               xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
               xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
       <url>
-        <loc>https://majordigest.com/us/2023/08/24/priest-flees-country-with-teen-valentine-but-police-may-have-hands-tied/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-24T19:29:47.000Z</news:publication_date>
-          <news:title>Priest flees country with teen 'valentine' but police may have hands tied</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/us/2023/08/24/priest-flees-country-with-teen-valentine-but-police-may-have-hands-tied/priest-flees-country-with-teen-valentine-but-police-may-have-hands-tied.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/us/2023/08/24/banker-allegedly-plotted-brother-in-laws-murder-over-facebook-no-turning-back/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-24T18:35:35.000Z</news:publication_date>
-          <news:title>Banker allegedly plotted brother-in-law's murder over Facebook: 'No turning back'</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/us/2023/08/24/banker-allegedly-plotted-brother-in-laws-murder-over-facebook-no-turning-back/banker-allegedly-plotted-brother-in-laws-murder-over-facebook-no-turning-back.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/us/2023/08/24/doj-charges-former-fbi-contractor-child-sex-crimes/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-24T18:14:47.000Z</news:publication_date>
-          <news:title>DOJ charges former FBI contractor with child sex crimes</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/us/2023/08/24/doj-charges-former-fbi-contractor-child-sex-crimes/doj-charges-former-fbi-contractor-child-sex-crimes.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/us/2023/08/24/new-york-serial-rape-robbery-suspect-indicted-allegedly-kidnapping-5-women/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-24T20:09:57.000Z</news:publication_date>
-          <news:title>New York serial rape, robbery suspect indicted for allegedly kidnapping at least 5 women</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/us/2023/08/24/new-york-serial-rape-robbery-suspect-indicted-allegedly-kidnapping-5-women/new-york-serial-rape-robbery-suspect-indicted-allegedly-kidnapping-5-women.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/us/2023/08/24/heavy-rainfall-triggers-flooding-multiple-areas-including-ohio-highway-las-vegas-strip/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-24T18:45:51.000Z</news:publication_date>
-          <news:title>Heavy rainfall triggers flooding across multiple areas, including Ohio highway and Las Vegas strip</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/us/2023/08/24/heavy-rainfall-triggers-flooding-multiple-areas-including-ohio-highway-las-vegas-strip/heavy-rainfall-triggers-flooding-multiple-areas-including-ohio-highway-las-vegas-strip.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/us/2023/08/24/coast-guard-rescues-stranded-jet-skiers-island-south-carolina/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-24T19:54:51.000Z</news:publication_date>
-          <news:title>Coast Guard rescues stranded jet skiers from island off South Carolina</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/us/2023/08/24/coast-guard-rescues-stranded-jet-skiers-island-south-carolina/coast-guard-rescues-stranded-jet-skiers-island-south-carolina.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
         <loc>https://majordigest.com/us/2023/08/24/andy-ngo-scores-legal-win-portland-antifa-judge-awards-300k-in-damages/</loc>
         <news:news>
           <news:publication>
@@ -98,5 +14,75 @@
         </news:news>
         <image:image>
           <image:loc>https://majordigest.com/us/2023/08/24/andy-ngo-scores-legal-win-portland-antifa-judge-awards-300k-in-damages/andy-ngo-scores-legal-win-portland-antifa-judge-awards-300k-in-damages.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/us/2023/08/24/indiana-postal-worker-stole-1-7m-worth-checks-3-years-prison/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-24T20:32:03.000Z</news:publication_date>
+          <news:title>Indiana postal worker who stole $1.7M worth of checks gets over 3 years in prison</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/us/2023/08/24/indiana-postal-worker-stole-1-7m-worth-checks-3-years-prison/indiana-postal-worker-stole-1-7m-worth-checks-3-years-prison.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/us/2023/08/24/kansas-judge-seals-court-documents-car-chase-case-led-death-police-officer/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-24T19:43:39.000Z</news:publication_date>
+          <news:title>Kansas judge seals court documents in car chase case that led to the death of a police officer</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/us/2023/08/24/kansas-judge-seals-court-documents-car-chase-case-led-death-police-officer/kansas-judge-seals-court-documents-car-chase-case-led-death-police-officer.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/us/2023/08/24/student-pilot-flight-instructor-identified-maine-plane-crash-victims/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-24T19:57:15.000Z</news:publication_date>
+          <news:title>Student pilot, flight instructor identified as Maine plane crash victims</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/us/2023/08/24/student-pilot-flight-instructor-identified-maine-plane-crash-victims/student-pilot-flight-instructor-identified-maine-plane-crash-victims.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/us/2023/08/24/witnessing-miracle-happened-woman-abandoned-traditional-school-system/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-24T20:30:28.000Z</news:publication_date>
+          <news:title>'WITNESSING A MIRACLE': Here&#8217;s what happened after this woman abandoned the traditional school system</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/us/2023/08/24/witnessing-miracle-happened-woman-abandoned-traditional-school-system/witnessing-miracle-happened-woman-abandoned-traditional-school-system.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/us/2023/08/24/florida-man-who-posed-teen-disturbing-sex-crime-scheme-faces-justice/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-24T20:42:35.000Z</news:publication_date>
+          <news:title>Florida man who posed as teen in disturbing sex crime scheme faces justice</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/us/2023/08/24/florida-man-who-posed-teen-disturbing-sex-crime-scheme-faces-justice/florida-man-who-posed-teen-disturbing-sex-crime-scheme-faces-justice.webp</image:loc>
         </image:image>
       </url></urlset>
