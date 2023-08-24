@@ -7,7 +7,7 @@
         <title>Major Digest - Reliable and Comprehensive News Sources: world</title>
         <description>Get the latest news online at Major Digest, the top online news resource for the most reliable news sources. Stay informed about the world around you!</description>
         <link>https://majordigest.com/?utm_medium=RSS</link>
-        <lastBuildDate>Thu, 24 Aug 2023 15:18:13 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 24 Aug 2023 16:22:15 GMT</lastBuildDate>
         <generator>https://majordigest.com/?v=1.1.4</generator>
         <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/" />
         <atom:link rel="self" href="https://majordigest.com/world/feed.xml" type="application/rss+xml" />
@@ -19,14 +19,36 @@
           <link>https://majordigest.com/?utm_medium=RSS</link>
         </image>
       <item>
-        <title>7 dead in Nepal after bus carrying Hindu pilgrims from India crashes</title>
-        <description><![CDATA[A bus carrying Hindu pilgrims has crashed in Nepal, causing the deaths of six Indians and one Nepalese person. Several others were also injured in the incident.]]></description>
-        <guid>https://majordigest.com/world/2023/08/24/7-dead-nepal-bus-carrying-hindu-pilgrims-india-crashes/</guid>
-        <link>https://majordigest.com/world/2023/08/24/7-dead-nepal-bus-carrying-hindu-pilgrims-india-crashes/</link>
-        <pubDate>Thu, 24 Aug 2023 09:34:41 EDT</pubDate>
+        <title>Experts warn of possible disinformation surrounding Russian warlord's reported death</title>
+        <description><![CDATA[Experts say the possible death of Wagner Group leader Yevgeny Prigozhin could be an assassination or an attempt at disinformation by Russian President Vladimir Putin.]]></description>
+        <guid>https://majordigest.com/world/2023/08/24/experts-warn-disinformation-surrounding-russian-warlords-reported-death/</guid>
+        <link>https://majordigest.com/world/2023/08/24/experts-warn-disinformation-surrounding-russian-warlords-reported-death/</link>
+        <pubDate>Thu, 24 Aug 2023 09:48:01 EDT</pubDate>
         <category>world</category>
-        <media:content medium="image" url="https://majordigest.com/world/2023/08/24/7-dead-nepal-bus-carrying-hindu-pilgrims-india-crashes/7-dead-nepal-bus-carrying-hindu-pilgrims-india-crashes.webp"/>
-        <media:thumbnail url="https://majordigest.com/world/2023/08/24/7-dead-nepal-bus-carrying-hindu-pilgrims-india-crashes/7-dead-nepal-bus-carrying-hindu-pilgrims-india-crashes.webp"/>
+        <media:content medium="image" url="https://majordigest.com/world/2023/08/24/experts-warn-disinformation-surrounding-russian-warlords-reported-death/experts-warn-disinformation-surrounding-russian-warlords-reported-death.webp"/>
+        <media:thumbnail url="https://majordigest.com/world/2023/08/24/experts-warn-disinformation-surrounding-russian-warlords-reported-death/experts-warn-disinformation-surrounding-russian-warlords-reported-death.webp"/>
+        <dc:creator>Fox News</dc:creator>
+      </item>
+      <item>
+        <title>Basketball World Cup scheduled to continue in Japan following North Korean spy satellite launch attempt</title>
+        <description><![CDATA[Tournaments for the Basketball World Cup held in Okinawa will begin Friday, despite a North Korean spy satellite launch attempt that prompted an evacuation alert in Japan.]]></description>
+        <guid>https://majordigest.com/world/2023/08/24/basketball-world-cup-scheduled-continue-japan-following-north-korean-spy-satellite-launch-attempt/</guid>
+        <link>https://majordigest.com/world/2023/08/24/basketball-world-cup-scheduled-continue-japan-following-north-korean-spy-satellite-launch-attempt/</link>
+        <pubDate>Thu, 24 Aug 2023 09:28:19 EDT</pubDate>
+        <category>world</category>
+        <media:content medium="image" url="https://majordigest.com/world/2023/08/24/basketball-world-cup-scheduled-continue-japan-following-north-korean-spy-satellite-launch-attempt/basketball-world-cup-scheduled-continue-japan-following-north-korean-spy-satellite-launch-attempt.webp"/>
+        <media:thumbnail url="https://majordigest.com/world/2023/08/24/basketball-world-cup-scheduled-continue-japan-following-north-korean-spy-satellite-launch-attempt/basketball-world-cup-scheduled-continue-japan-following-north-korean-spy-satellite-launch-attempt.webp"/>
+        <dc:creator>Fox News</dc:creator>
+      </item>
+      <item>
+        <title>Zelenskyy says Ukraine not involved in crash of Wagner Group owner Prigozhin's plane</title>
+        <description><![CDATA[Ukrainian President Volodymyr Zelenskyy denied any involvement in the plane crash that has allegedly killed Wagner Group mercenary leader Yevgeny Prigozhin.]]></description>
+        <guid>https://majordigest.com/world/2023/08/24/zelenskyy-ukraine-involved-crash-wagner-group-owner-prigozhins-plane/</guid>
+        <link>https://majordigest.com/world/2023/08/24/zelenskyy-ukraine-involved-crash-wagner-group-owner-prigozhins-plane/</link>
+        <pubDate>Thu, 24 Aug 2023 11:14:16 EDT</pubDate>
+        <category>world</category>
+        <media:content medium="image" url="https://majordigest.com/world/2023/08/24/zelenskyy-ukraine-involved-crash-wagner-group-owner-prigozhins-plane/zelenskyy-ukraine-involved-crash-wagner-group-owner-prigozhins-plane.webp"/>
+        <media:thumbnail url="https://majordigest.com/world/2023/08/24/zelenskyy-ukraine-involved-crash-wagner-group-owner-prigozhins-plane/zelenskyy-ukraine-involved-crash-wagner-group-owner-prigozhins-plane.webp"/>
         <dc:creator>Fox News</dc:creator>
       </item>
       <item>
@@ -41,6 +63,17 @@
         <dc:creator>Fox News</dc:creator>
       </item>
       <item>
+        <title>7 dead in Nepal after bus carrying Hindu pilgrims from India crashes</title>
+        <description><![CDATA[A bus carrying Hindu pilgrims has crashed in Nepal, causing the deaths of six Indians and one Nepalese person. Several others were also injured in the incident.]]></description>
+        <guid>https://majordigest.com/world/2023/08/24/7-dead-nepal-bus-carrying-hindu-pilgrims-india-crashes/</guid>
+        <link>https://majordigest.com/world/2023/08/24/7-dead-nepal-bus-carrying-hindu-pilgrims-india-crashes/</link>
+        <pubDate>Thu, 24 Aug 2023 09:34:41 EDT</pubDate>
+        <category>world</category>
+        <media:content medium="image" url="https://majordigest.com/world/2023/08/24/7-dead-nepal-bus-carrying-hindu-pilgrims-india-crashes/7-dead-nepal-bus-carrying-hindu-pilgrims-india-crashes.webp"/>
+        <media:thumbnail url="https://majordigest.com/world/2023/08/24/7-dead-nepal-bus-carrying-hindu-pilgrims-india-crashes/7-dead-nepal-bus-carrying-hindu-pilgrims-india-crashes.webp"/>
+        <dc:creator>Fox News</dc:creator>
+      </item>
+      <item>
         <title>Chinese authorities send message to residents encouraging 'sweet love' and 'good fertility'</title>
         <description><![CDATA[Chinese authorities in the town of Xian sent a message to local residents encouraging &quot;sweet love, marriage and childbirth&quot; ahead of the country&apos;s Valentine&apos;s Day.]]></description>
         <guid>https://majordigest.com/world/2023/08/24/chinese-authorities-send-message-residents-encouraging-sweet-love-good-fertility/</guid>
@@ -49,49 +82,5 @@
         <category>world</category>
         <media:content medium="image" url="https://majordigest.com/world/2023/08/24/chinese-authorities-send-message-residents-encouraging-sweet-love-good-fertility/chinese-authorities-send-message-residents-encouraging-sweet-love-good-fertility.webp"/>
         <media:thumbnail url="https://majordigest.com/world/2023/08/24/chinese-authorities-send-message-residents-encouraging-sweet-love-good-fertility/chinese-authorities-send-message-residents-encouraging-sweet-love-good-fertility.webp"/>
-        <dc:creator>Fox News</dc:creator>
-      </item>
-      <item>
-        <title>Islamic extremists abduct 42 women in Nigeria, demand ransom</title>
-        <description><![CDATA[Over 40 women were abducted by Islamic rebels believed to be members of the Boko Haram extremist group. The attackers have demanded a ransom for each woman.]]></description>
-        <guid>https://majordigest.com/world/2023/08/24/islamic-extremists-abduct-42-women-nigeria-demand-ransom/</guid>
-        <link>https://majordigest.com/world/2023/08/24/islamic-extremists-abduct-42-women-nigeria-demand-ransom/</link>
-        <pubDate>Thu, 24 Aug 2023 09:29:34 EDT</pubDate>
-        <category>world</category>
-        <media:content medium="image" url="https://majordigest.com/world/2023/08/24/islamic-extremists-abduct-42-women-nigeria-demand-ransom/islamic-extremists-abduct-42-women-nigeria-demand-ransom.webp"/>
-        <media:thumbnail url="https://majordigest.com/world/2023/08/24/islamic-extremists-abduct-42-women-nigeria-demand-ransom/islamic-extremists-abduct-42-women-nigeria-demand-ransom.webp"/>
-        <dc:creator>Fox News</dc:creator>
-      </item>
-      <item>
-        <title>Russian court rules WSJ reporter Evan Gershkovich, facing espionage charges, can remain detained till November</title>
-        <description><![CDATA[The Lefortovo District Court has ruled Russia’s Federal Security Service (FSB) can continue to keep Wall Street Journal reporter Evan Gershkovich detained as he awaits trial.]]></description>
-        <guid>https://majordigest.com/world/2023/08/24/russian-court-rules-wsj-reporter-evan-gershkovich-facing-espionage-charges-remain-detained-till-november/</guid>
-        <link>https://majordigest.com/world/2023/08/24/russian-court-rules-wsj-reporter-evan-gershkovich-facing-espionage-charges-remain-detained-till-november/</link>
-        <pubDate>Thu, 24 Aug 2023 09:10:58 EDT</pubDate>
-        <category>world</category>
-        <media:content medium="image" url="https://majordigest.com/world/2023/08/24/russian-court-rules-wsj-reporter-evan-gershkovich-facing-espionage-charges-remain-detained-till-november/russian-court-rules-wsj-reporter-evan-gershkovich-facing-espionage-charges-remain-detained-till-november.webp"/>
-        <media:thumbnail url="https://majordigest.com/world/2023/08/24/russian-court-rules-wsj-reporter-evan-gershkovich-facing-espionage-charges-remain-detained-till-november/russian-court-rules-wsj-reporter-evan-gershkovich-facing-espionage-charges-remain-detained-till-november.webp"/>
-        <dc:creator>Fox News</dc:creator>
-      </item>
-      <item>
-        <title>Junta&#8217;s 3-year plan to transition Niger back to democratic rule a &#8216;provocation,&#8217; West African bloc says</title>
-        <description><![CDATA[Days after a delegation from West Africa’s ECOWAS met with the head of Niger’s junta, a commissioner said the junta&apos;s multiyear plan to shift Niger back to democratic rule was too slow.]]></description>
-        <guid>https://majordigest.com/world/2023/08/24/juntas-3-year-plan-transition-niger-back-democratic-rule-provocation-west-african-bloc-says/</guid>
-        <link>https://majordigest.com/world/2023/08/24/juntas-3-year-plan-transition-niger-back-democratic-rule-provocation-west-african-bloc-says/</link>
-        <pubDate>Thu, 24 Aug 2023 09:35:59 EDT</pubDate>
-        <category>world</category>
-        <media:content medium="image" url="https://majordigest.com/world/2023/08/24/juntas-3-year-plan-transition-niger-back-democratic-rule-provocation-west-african-bloc-says/juntas-3-year-plan-transition-niger-back-democratic-rule-provocation-west-african-bloc-says.webp"/>
-        <media:thumbnail url="https://majordigest.com/world/2023/08/24/juntas-3-year-plan-transition-niger-back-democratic-rule-provocation-west-african-bloc-says/juntas-3-year-plan-transition-niger-back-democratic-rule-provocation-west-african-bloc-says.webp"/>
-        <dc:creator>Fox News</dc:creator>
-      </item>
-      <item>
-        <title>Xi Jinping triggers health speculation after mysteriously skipping key speech</title>
-        <description><![CDATA[Rumors spread regarding Chinese President Xi Jinping&apos;s health after he made an unexplained absence from a major scheduled speech in South Africa on Monday.]]></description>
-        <guid>https://majordigest.com/world/2023/08/24/xi-jinping-triggers-health-speculation-mysteriously-skipping-key-speech/</guid>
-        <link>https://majordigest.com/world/2023/08/24/xi-jinping-triggers-health-speculation-mysteriously-skipping-key-speech/</link>
-        <pubDate>Thu, 24 Aug 2023 11:14:56 EDT</pubDate>
-        <category>world</category>
-        <media:content medium="image" url="https://majordigest.com/world/2023/08/24/xi-jinping-triggers-health-speculation-mysteriously-skipping-key-speech/xi-jinping-triggers-health-speculation-mysteriously-skipping-key-speech.webp"/>
-        <media:thumbnail url="https://majordigest.com/world/2023/08/24/xi-jinping-triggers-health-speculation-mysteriously-skipping-key-speech/xi-jinping-triggers-health-speculation-mysteriously-skipping-key-speech.webp"/>
         <dc:creator>Fox News</dc:creator>
       </item></channel></rss>
