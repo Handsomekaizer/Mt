@@ -3,6 +3,20 @@
               xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
               xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
       <url>
+        <loc>https://majordigest.com/us/2023/08/23/florida-charter-school-custodian-charged-possessing-child-pornography/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-23T23:33:37.000Z</news:publication_date>
+          <news:title>Florida charter school custodian charged with possessing child pornography</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/us/2023/08/23/florida-charter-school-custodian-charged-possessing-child-pornography/florida-charter-school-custodian-charged-possessing-child-pornography.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
         <loc>https://majordigest.com/us/2023/08/23/california-home-destroyed-apparent-explosion-others-damaged/</loc>
         <news:news>
           <news:publication>
@@ -14,6 +28,20 @@
         </news:news>
         <image:image>
           <image:loc>https://majordigest.com/us/2023/08/23/california-home-destroyed-apparent-explosion-others-damaged/california-home-destroyed-apparent-explosion-others-damaged.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/us/2023/08/24/texas-woman-finds-escaped-python-blocking-her-car-parking-lot/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-24T00:32:43.000Z</news:publication_date>
+          <news:title>Texas woman finds escaped python blocking her car in parking lot</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/us/2023/08/24/texas-woman-finds-escaped-python-blocking-her-car-parking-lot/texas-woman-finds-escaped-python-blocking-her-car-parking-lot.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -31,6 +59,20 @@
         </image:image>
       </url>
       <url>
+        <loc>https://majordigest.com/us/2023/08/23/heavy-rainfall-near-grand-canyon-displaces-residents-guests-triggering-evacuations/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-23T23:37:40.000Z</news:publication_date>
+          <news:title>Heavy rainfall near Grand Canyon displaces residents and guests, triggering evacuations</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/us/2023/08/23/heavy-rainfall-near-grand-canyon-displaces-residents-guests-triggering-evacuations/heavy-rainfall-near-grand-canyon-displaces-residents-guests-triggering-evacuations.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
         <loc>https://majordigest.com/us/2023/08/23/loaded-gun-tennessee-high-school-students-backpack-amid-ongoing-legislative-debate-gun-control/</loc>
         <news:news>
           <news:publication>
@@ -45,6 +87,20 @@
         </image:image>
       </url>
       <url>
+        <loc>https://majordigest.com/us/2023/08/24/mass-shooting-historic-california-biker-bar-3-dead-6-injured-suspect-dead/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-24T05:28:43.000Z</news:publication_date>
+          <news:title>Mass shooting at historic California biker bar leaves 3 dead, 6 injured; suspect also dead</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/us/2023/08/24/mass-shooting-historic-california-biker-bar-3-dead-6-injured-suspect-dead/mass-shooting-historic-california-biker-bar-3-dead-6-injured-suspect-dead.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
         <loc>https://majordigest.com/us/2023/08/23/georgia-police-body-small-child-found-may-2-year-old-boy-believed-missing-dad-arrested/</loc>
         <news:news>
           <news:publication>
@@ -56,19 +112,5 @@
         </news:news>
         <image:image>
           <image:loc>https://majordigest.com/us/2023/08/23/georgia-police-body-small-child-found-may-2-year-old-boy-believed-missing-dad-arrested/georgia-police-body-small-child-found-may-2-year-old-boy-believed-missing-dad-arrested.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/us/2023/08/24/texas-woman-finds-escaped-python-blocking-her-car-parking-lot/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-24T00:32:43.000Z</news:publication_date>
-          <news:title>Texas woman finds escaped python blocking her car in parking lot</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/us/2023/08/24/texas-woman-finds-escaped-python-blocking-her-car-parking-lot/texas-woman-finds-escaped-python-blocking-her-car-parking-lot.webp</image:loc>
         </image:image>
       </url></urlset>
