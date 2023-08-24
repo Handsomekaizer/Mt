@@ -7,7 +7,7 @@
         <title>Major Digest - Reliable and Comprehensive News Sources: us</title>
         <description>Get the latest news online at Major Digest, the top online news resource for the most reliable news sources. Stay informed about the world around you!</description>
         <link>https://majordigest.com/?utm_medium=RSS</link>
-        <lastBuildDate>Thu, 24 Aug 2023 22:15:57 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 24 Aug 2023 23:16:58 GMT</lastBuildDate>
         <generator>https://majordigest.com/?v=1.1.4</generator>
         <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/" />
         <atom:link rel="self" href="https://majordigest.com/us/feed.xml" type="application/rss+xml" />
@@ -18,6 +18,17 @@
           <url>https://majordigest.com/assets/icons/logo-512x512.png</url>
           <link>https://majordigest.com/?utm_medium=RSS</link>
         </image>
+      <item>
+        <title>Grand jury declines to indict Kentucky officer who shot, killed armed man</title>
+        <description><![CDATA[A grand jury has declined to indict Joseph Horton, a Nicholasville, Kentucky, police officer who fatally shot 22-year-old Desman LaDuke last year.]]></description>
+        <guid>https://majordigest.com/us/2023/08/24/grand-jury-declines-indict-kentucky-officer-shot-killed-armed-man/</guid>
+        <link>https://majordigest.com/us/2023/08/24/grand-jury-declines-indict-kentucky-officer-shot-killed-armed-man/</link>
+        <pubDate>Thu, 24 Aug 2023 18:33:08 EDT</pubDate>
+        <category>us</category>
+        <media:content medium="image" url="https://majordigest.com/us/2023/08/24/grand-jury-declines-indict-kentucky-officer-shot-killed-armed-man/grand-jury-declines-indict-kentucky-officer-shot-killed-armed-man.webp"/>
+        <media:thumbnail url="https://majordigest.com/us/2023/08/24/grand-jury-declines-indict-kentucky-officer-shot-killed-armed-man/grand-jury-declines-indict-kentucky-officer-shot-killed-armed-man.webp"/>
+        <dc:creator>Fox News</dc:creator>
+      </item>
       <item>
         <title>NYC hammer attack suspect charged with murder, mother who died identified</title>
         <description><![CDATA[A New York City man who was accused of killing a mother and seriously injuring her two children in a hammer attack in Brooklyn, faces murder, attempted murder and other charges.]]></description>
@@ -30,14 +41,14 @@
         <dc:creator>Fox News</dc:creator>
       </item>
       <item>
-        <title>Historic Block Island, RI, hotel to be demolished after weekend fire</title>
-        <description><![CDATA[Block Island&apos;s historic Harborside Inn, declared a total loss after sustaining significant damage during a weekend fire, will be demolished.]]></description>
-        <guid>https://majordigest.com/us/2023/08/24/historic-block-island-ri-hotel-demolished-weekend-fire/</guid>
-        <link>https://majordigest.com/us/2023/08/24/historic-block-island-ri-hotel-demolished-weekend-fire/</link>
-        <pubDate>Thu, 24 Aug 2023 17:21:51 EDT</pubDate>
+        <title>Texas man who shot at apartment burglary suspects in viral video recalls harrowing ordeal: &#8216;I trusted my gut&#8217;</title>
+        <description><![CDATA[A Texas man who shot at two suspects trying to break into his apartment said he feared for his life when he opened fire.]]></description>
+        <guid>https://majordigest.com/us/2023/08/24/texas-man-shot-apartment-burglary-suspects-viral-video-recalls-harrowing-ordeal-i-trusted-my-gut/</guid>
+        <link>https://majordigest.com/us/2023/08/24/texas-man-shot-apartment-burglary-suspects-viral-video-recalls-harrowing-ordeal-i-trusted-my-gut/</link>
+        <pubDate>Thu, 24 Aug 2023 18:37:12 EDT</pubDate>
         <category>us</category>
-        <media:content medium="image" url="https://majordigest.com/us/2023/08/24/historic-block-island-ri-hotel-demolished-weekend-fire/historic-block-island-ri-hotel-demolished-weekend-fire.webp"/>
-        <media:thumbnail url="https://majordigest.com/us/2023/08/24/historic-block-island-ri-hotel-demolished-weekend-fire/historic-block-island-ri-hotel-demolished-weekend-fire.webp"/>
+        <media:content medium="image" url="https://majordigest.com/us/2023/08/24/texas-man-shot-apartment-burglary-suspects-viral-video-recalls-harrowing-ordeal-i-trusted-my-gut/texas-man-shot-apartment-burglary-suspects-viral-video-recalls-harrowing-ordeal-i-trusted-my-gut.webp"/>
+        <media:thumbnail url="https://majordigest.com/us/2023/08/24/texas-man-shot-apartment-burglary-suspects-viral-video-recalls-harrowing-ordeal-i-trusted-my-gut/texas-man-shot-apartment-burglary-suspects-viral-video-recalls-harrowing-ordeal-i-trusted-my-gut.webp"/>
         <dc:creator>Fox News</dc:creator>
       </item>
       <item>
@@ -52,6 +63,17 @@
         <dc:creator>Fox News</dc:creator>
       </item>
       <item>
+        <title>Historic Block Island, RI, hotel to be demolished after weekend fire</title>
+        <description><![CDATA[Block Island&apos;s historic Harborside Inn, declared a total loss after sustaining significant damage during a weekend fire, will be demolished.]]></description>
+        <guid>https://majordigest.com/us/2023/08/24/historic-block-island-ri-hotel-demolished-weekend-fire/</guid>
+        <link>https://majordigest.com/us/2023/08/24/historic-block-island-ri-hotel-demolished-weekend-fire/</link>
+        <pubDate>Thu, 24 Aug 2023 17:21:51 EDT</pubDate>
+        <category>us</category>
+        <media:content medium="image" url="https://majordigest.com/us/2023/08/24/historic-block-island-ri-hotel-demolished-weekend-fire/historic-block-island-ri-hotel-demolished-weekend-fire.webp"/>
+        <media:thumbnail url="https://majordigest.com/us/2023/08/24/historic-block-island-ri-hotel-demolished-weekend-fire/historic-block-island-ri-hotel-demolished-weekend-fire.webp"/>
+        <dc:creator>Fox News</dc:creator>
+      </item>
+      <item>
         <title>Third inmate death in one month at Missouri prison sparks investigation</title>
         <description><![CDATA[The death of the third Missouri prison inmate to die this month has sparked an investigation into the prison after the inmate was pronounced deceased at a hospital.]]></description>
         <guid>https://majordigest.com/us/2023/08/24/third-inmate-death-one-month-missouri-prison-sparks-investigation/</guid>
@@ -60,28 +82,6 @@
         <category>us</category>
         <media:content medium="image" url="https://majordigest.com/us/2023/08/24/third-inmate-death-one-month-missouri-prison-sparks-investigation/third-inmate-death-one-month-missouri-prison-sparks-investigation.webp"/>
         <media:thumbnail url="https://majordigest.com/us/2023/08/24/third-inmate-death-one-month-missouri-prison-sparks-investigation/third-inmate-death-one-month-missouri-prison-sparks-investigation.webp"/>
-        <dc:creator>Fox News</dc:creator>
-      </item>
-      <item>
-        <title>Georgia mom confirmed dead two years after she disappeared</title>
-        <description><![CDATA[A Georgia mother who vanished more than two years ago has been confirmed dead after her remains were found in a rural area of Meriwether County, officials announced.]]></description>
-        <guid>https://majordigest.com/us/2023/08/24/georgia-mom-confirmed-dead-2-years-after-she-disappeared/</guid>
-        <link>https://majordigest.com/us/2023/08/24/georgia-mom-confirmed-dead-2-years-after-she-disappeared/</link>
-        <pubDate>Thu, 24 Aug 2023 16:55:25 EDT</pubDate>
-        <category>us</category>
-        <media:content medium="image" url="https://majordigest.com/us/2023/08/24/georgia-mom-confirmed-dead-2-years-after-she-disappeared/georgia-mom-confirmed-dead-2-years-after-she-disappeared.webp"/>
-        <media:thumbnail url="https://majordigest.com/us/2023/08/24/georgia-mom-confirmed-dead-2-years-after-she-disappeared/georgia-mom-confirmed-dead-2-years-after-she-disappeared.webp"/>
-        <dc:creator>Fox News</dc:creator>
-      </item>
-      <item>
-        <title>Florida man who posed as teen in disturbing sex crime scheme faces justice</title>
-        <description><![CDATA[Clayton Everett Colborn, 31, was sentenced to life in prison after he tricked girls into sexual activity with his teen persona &quot;Jason Rich&quot; on the Yubo app.]]></description>
-        <guid>https://majordigest.com/us/2023/08/24/florida-man-who-posed-teen-disturbing-sex-crime-scheme-faces-justice/</guid>
-        <link>https://majordigest.com/us/2023/08/24/florida-man-who-posed-teen-disturbing-sex-crime-scheme-faces-justice/</link>
-        <pubDate>Thu, 24 Aug 2023 16:42:35 EDT</pubDate>
-        <category>us</category>
-        <media:content medium="image" url="https://majordigest.com/us/2023/08/24/florida-man-who-posed-teen-disturbing-sex-crime-scheme-faces-justice/florida-man-who-posed-teen-disturbing-sex-crime-scheme-faces-justice.webp"/>
-        <media:thumbnail url="https://majordigest.com/us/2023/08/24/florida-man-who-posed-teen-disturbing-sex-crime-scheme-faces-justice/florida-man-who-posed-teen-disturbing-sex-crime-scheme-faces-justice.webp"/>
         <dc:creator>Fox News</dc:creator>
       </item>
       <item>

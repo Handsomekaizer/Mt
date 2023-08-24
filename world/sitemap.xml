@@ -3,6 +3,34 @@
               xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
               xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
       <url>
+        <loc>https://majordigest.com/world/2023/08/24/legionnaires-disease-outbreak-claims-5-lives-rzeszow-poland/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-24T22:35:02.000Z</news:publication_date>
+          <news:title>Legionnaires' disease outbreak claims 5 lives in Rzeszow, Poland</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/world/2023/08/24/legionnaires-disease-outbreak-claims-5-lives-rzeszow-poland/legionnaires-disease-outbreak-claims-5-lives-rzeszow-poland.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/world/2023/08/24/indian-immunologicals-aims-launch-dengue-vaccine-early-2026-amid-escalating-threat/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-24T22:37:22.000Z</news:publication_date>
+          <news:title>Indian Immunologicals aims to launch dengue vaccine by early 2026 amid escalating threat</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/world/2023/08/24/indian-immunologicals-aims-launch-dengue-vaccine-early-2026-amid-escalating-threat/indian-immunologicals-aims-launch-dengue-vaccine-early-2026-amid-escalating-threat.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
         <loc>https://majordigest.com/world/2023/08/24/haitian-telecom-companies-report-severed-fiber-optic-cables-gang-sabotage-suspected/</loc>
         <news:news>
           <news:publication>
@@ -17,17 +45,17 @@
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/world/2023/08/24/congressional-inquiry-investigate-codelcos-mining-projects-chile/</loc>
+        <loc>https://majordigest.com/world/2023/08/24/brazils-president-lula-stresses-geopolitical-significance-brics-expansion-decision/</loc>
         <news:news>
           <news:publication>
             <news:name>Major Digest</news:name>
             <news:language>en</news:language>
           </news:publication>
-          <news:publication_date>2023-08-24T20:07:21.000Z</news:publication_date>
-          <news:title>Congressional inquiry to investigate Codelco's mining projects in Chile</news:title>
+          <news:publication_date>2023-08-24T20:10:32.000Z</news:publication_date>
+          <news:title>Brazil's President Lula stresses geopolitical significance in BRICS expansion decision</news:title>
         </news:news>
         <image:image>
-          <image:loc>https://majordigest.com/world/2023/08/24/congressional-inquiry-investigate-codelcos-mining-projects-chile/congressional-inquiry-investigate-codelcos-mining-projects-chile.webp</image:loc>
+          <image:loc>https://majordigest.com/world/2023/08/24/brazils-president-lula-stresses-geopolitical-significance-brics-expansion-decision/brazils-president-lula-stresses-geopolitical-significance-brics-expansion-decision.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -45,20 +73,6 @@
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/world/2023/08/24/eu-initiates-assessment-human-labor-rights-burma/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-24T19:55:13.000Z</news:publication_date>
-          <news:title>EU initiates assessment of human and labor rights in Burma</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/world/2023/08/24/eu-initiates-assessment-human-labor-rights-burma/eu-initiates-assessment-human-labor-rights-burma.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
         <loc>https://majordigest.com/world/2023/08/24/pentagon-wagner-chief-yevgeny-prigozhin-likely-killed-plane-crash-no-evidence-missile-attack/</loc>
         <news:news>
           <news:publication>
@@ -73,16 +87,30 @@
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/world/2023/08/24/brazils-president-lula-stresses-geopolitical-significance-brics-expansion-decision/</loc>
+        <loc>https://majordigest.com/world/2023/08/24/300-migrants-arrived-greek-islands-past-3-days-authorities-say/</loc>
         <news:news>
           <news:publication>
             <news:name>Major Digest</news:name>
             <news:language>en</news:language>
           </news:publication>
-          <news:publication_date>2023-08-24T20:10:32.000Z</news:publication_date>
-          <news:title>Brazil's President Lula stresses geopolitical significance in BRICS expansion decision</news:title>
+          <news:publication_date>2023-08-24T22:11:04.000Z</news:publication_date>
+          <news:title>Over 300 migrants arrived on Greek islands in past 3 days, authorities say</news:title>
         </news:news>
         <image:image>
-          <image:loc>https://majordigest.com/world/2023/08/24/brazils-president-lula-stresses-geopolitical-significance-brics-expansion-decision/brazils-president-lula-stresses-geopolitical-significance-brics-expansion-decision.webp</image:loc>
+          <image:loc>https://majordigest.com/world/2023/08/24/300-migrants-arrived-greek-islands-past-3-days-authorities-say/300-migrants-arrived-greek-islands-past-3-days-authorities-say.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/world/2023/08/24/bolsonaro-leaves-sao-paulo-hospital-routine-exams/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-24T22:31:29.000Z</news:publication_date>
+          <news:title>Bolsonaro leaves S&#227;o Paulo hospital after routine exams</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/world/2023/08/24/bolsonaro-leaves-sao-paulo-hospital-routine-exams/bolsonaro-leaves-sao-paulo-hospital-routine-exams.webp</image:loc>
         </image:image>
       </url></urlset>
