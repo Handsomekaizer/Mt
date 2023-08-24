@@ -3,34 +3,6 @@
               xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
               xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
       <url>
-        <loc>https://majordigest.com/world/2023/08/23/2-filipino-boats-deliver-supplies-forces-guarding-contested-shoal-breach-chinese-blockade-along-way/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-23T17:53:47.000Z</news:publication_date>
-          <news:title>2 Filipino boats deliver supplies to forces guarding a contested shoal, breach Chinese blockade along the way</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/world/2023/08/23/2-filipino-boats-deliver-supplies-forces-guarding-contested-shoal-breach-chinese-blockade-along-way/2-filipino-boats-deliver-supplies-forces-guarding-contested-shoal-breach-chinese-blockade-along-way.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/world/2023/08/23/helicopter-crash-claims-lives-lebanese-army-crew-members-amidst-severe-economic-crisis/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-23T21:09:30.000Z</news:publication_date>
-          <news:title>Helicopter crash claims lives of Lebanese army crew members amidst severe economic crisis</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/world/2023/08/23/helicopter-crash-claims-lives-lebanese-army-crew-members-amidst-severe-economic-crisis/helicopter-crash-claims-lives-lebanese-army-crew-members-amidst-severe-economic-crisis.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
         <loc>https://majordigest.com/world/2023/08/23/hong-kong-prepares-import-ban-japanese-seafood-ahead-fukushima-nuclear-waste-release/</loc>
         <news:news>
           <news:publication>
@@ -42,34 +14,6 @@
         </news:news>
         <image:image>
           <image:loc>https://majordigest.com/world/2023/08/23/hong-kong-prepares-import-ban-japanese-seafood-ahead-fukushima-nuclear-waste-release/hong-kong-prepares-import-ban-japanese-seafood-ahead-fukushima-nuclear-waste-release.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/world/2023/08/23/wealthy-thai-property-developer-srettha-thavisin-becomes-countrys-prime-minister/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-23T17:59:59.000Z</news:publication_date>
-          <news:title>Wealthy Thai property developer Srettha Thavisin becomes country&#8217;s prime minister</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/world/2023/08/23/wealthy-thai-property-developer-srettha-thavisin-becomes-countrys-prime-minister/wealthy-thai-property-developer-srettha-thavisin-becomes-countrys-prime-minister.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/world/2023/08/23/6-2-magnitude-earthquake-strikes-northern-argentina/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-23T17:50:24.000Z</news:publication_date>
-          <news:title>6.2 magnitude earthquake strikes northern Argentina</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/world/2023/08/23/6-2-magnitude-earthquake-strikes-northern-argentina/6-2-magnitude-earthquake-strikes-northern-argentina.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -87,6 +31,20 @@
         </image:image>
       </url>
       <url>
+        <loc>https://majordigest.com/world/2023/08/23/6-2-magnitude-earthquake-strikes-northern-argentina/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-23T17:50:24.000Z</news:publication_date>
+          <news:title>6.2 magnitude earthquake strikes northern Argentina</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/world/2023/08/23/6-2-magnitude-earthquake-strikes-northern-argentina/6-2-magnitude-earthquake-strikes-northern-argentina.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
         <loc>https://majordigest.com/world/2023/08/23/north-korea-launches-long-range-rocket-southward-suspected-satellite-deployment-attempt-amidst-tensions/</loc>
         <news:news>
           <news:publication>
@@ -98,5 +56,47 @@
         </news:news>
         <image:image>
           <image:loc>https://majordigest.com/world/2023/08/23/north-korea-launches-long-range-rocket-southward-suspected-satellite-deployment-attempt-amidst-tensions/north-korea-launches-long-range-rocket-southward-suspected-satellite-deployment-attempt-amidst-tensions.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/world/2023/08/24/russian-helicopter-lured-ukraine-kyiv-claims-pilot-defected-reports/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-24T01:04:55.000Z</news:publication_date>
+          <news:title>Russian helicopter lured to Ukraine, Kyiv claims pilot defected: reports</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/world/2023/08/24/russian-helicopter-lured-ukraine-kyiv-claims-pilot-defected-reports/russian-helicopter-lured-ukraine-kyiv-claims-pilot-defected-reports.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/world/2023/08/23/2-filipino-boats-deliver-supplies-forces-guarding-contested-shoal-breach-chinese-blockade-along-way/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-23T17:53:47.000Z</news:publication_date>
+          <news:title>2 Filipino boats deliver supplies to forces guarding a contested shoal, breach Chinese blockade along the way</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/world/2023/08/23/2-filipino-boats-deliver-supplies-forces-guarding-contested-shoal-breach-chinese-blockade-along-way/2-filipino-boats-deliver-supplies-forces-guarding-contested-shoal-breach-chinese-blockade-along-way.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/world/2023/08/23/wealthy-thai-property-developer-srettha-thavisin-becomes-countrys-prime-minister/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-23T17:59:59.000Z</news:publication_date>
+          <news:title>Wealthy Thai property developer Srettha Thavisin becomes country&#8217;s prime minister</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/world/2023/08/23/wealthy-thai-property-developer-srettha-thavisin-becomes-countrys-prime-minister/wealthy-thai-property-developer-srettha-thavisin-becomes-countrys-prime-minister.webp</image:loc>
         </image:image>
       </url></urlset>
