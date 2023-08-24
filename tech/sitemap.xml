@@ -3,6 +3,34 @@
               xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
               xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
       <url>
+        <loc>https://majordigest.com/tech/2023/08/21/despite-fbi-takedown-infamous-raccoon-stealer-malware-returns/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-21T16:00:01.000Z</news:publication_date>
+          <news:title>Despite FBI takedown, infamous Raccoon Stealer malware returns</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/tech/2023/08/21/despite-fbi-takedown-infamous-raccoon-stealer-malware-returns/despite-fbi-takedown-infamous-raccoon-stealer-malware-returns.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/tech/2023/08/21/best-prompts-get-most-ai-chatbot/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-21T19:00:28.000Z</news:publication_date>
+          <news:title>Best prompts to get the most out of an AI chatbot</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/tech/2023/08/21/best-prompts-get-most-ai-chatbot/best-prompts-get-most-ai-chatbot.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
         <loc>https://majordigest.com/tech/2023/08/23/san-jose-chamber-business-economy-ceo-downtown-real-estate-covid-tech/</loc>
         <news:news>
           <news:publication>
@@ -14,90 +42,6 @@
         </news:news>
         <image:image>
           <image:loc>https://majordigest.com/tech/2023/08/23/san-jose-chamber-business-economy-ceo-downtown-real-estate-covid-tech/san-jose-chamber-business-economy-ceo-downtown-real-estate-covid-tech.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/tech/2023/08/23/samsung-fold-5-versatile-but-with-compromises/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-23T12:17:56.000Z</news:publication_date>
-          <news:title>Samsung Fold 5: Versatile, but with compromises</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/tech/2023/08/23/samsung-fold-5-versatile-but-with-compromises/samsung-fold-5-versatile-but-with-compromises.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/tech/2023/08/22/prime-minister-justin-trudeau-slams-facebook-for-blocking-canada-wildfire-news/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-22T14:43:05.000Z</news:publication_date>
-          <news:title>Prime Minister Justin Trudeau slams Facebook for blocking Canada wildfire news</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/tech/2023/08/22/prime-minister-justin-trudeau-slams-facebook-for-blocking-canada-wildfire-news/prime-minister-justin-trudeau-slams-facebook-for-blocking-canada-wildfire-news.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/tech/2023/08/21/ready-for-an-electric-car-what-you-need-to-know/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-21T17:23:44.000Z</news:publication_date>
-          <news:title>Ready for an electric car? What you need to know</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/tech/2023/08/21/ready-for-an-electric-car-what-you-need-to-know/ready-for-an-electric-car-what-you-need-to-know.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/tech/2023/08/22/vegan-sam-bankman-fried-is-subsisting-only-on-bread-and-water-in-jail-his-attorneys-say/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-22T15:02:11.000Z</news:publication_date>
-          <news:title>Vegan Sam Bankman-Fried is subsisting only on bread and water in jail, his attorneys say</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/tech/2023/08/22/vegan-sam-bankman-fried-is-subsisting-only-on-bread-and-water-in-jail-his-attorneys-say/vegan-sam-bankman-fried-is-subsisting-only-on-bread-and-water-in-jail-his-attorneys-say.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/tech/2023/08/23/spacex-successfully-launches-100th-starlink-mission/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-23T12:14:08.000Z</news:publication_date>
-          <news:title>SpaceX successfully launches 100th Starlink mission</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/tech/2023/08/23/spacex-successfully-launches-100th-starlink-mission/spacex-successfully-launches-100th-starlink-mission.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/tech/2023/08/23/fox-news-ai-newsletter-teachers-go-back-school-ai-cheating-concerns/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-23T14:03:55.000Z</news:publication_date>
-          <news:title>Fox News AI Newsletter: Teachers go back to school with AI amid cheating concerns</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/tech/2023/08/23/fox-news-ai-newsletter-teachers-go-back-school-ai-cheating-concerns/fox-news-ai-newsletter-teachers-go-back-school-ai-cheating-concerns.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -115,6 +59,48 @@
         </image:image>
       </url>
       <url>
+        <loc>https://majordigest.com/tech/2023/08/23/fox-news-ai-newsletter-teachers-go-back-school-ai-cheating-concerns/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-23T14:03:55.000Z</news:publication_date>
+          <news:title>Fox News AI Newsletter: Teachers go back to school with AI amid cheating concerns</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/tech/2023/08/23/fox-news-ai-newsletter-teachers-go-back-school-ai-cheating-concerns/fox-news-ai-newsletter-teachers-go-back-school-ai-cheating-concerns.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/tech/2023/08/21/why-would-elon-musk-lash-out-at-james-woods-of-all-people/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-21T17:53:20.000Z</news:publication_date>
+          <news:title>Why would Elon Musk lash out at James Woods, of all people?</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/tech/2023/08/21/why-would-elon-musk-lash-out-at-james-woods-of-all-people/why-would-elon-musk-lash-out-at-james-woods-of-all-people.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/tech/2023/08/23/spacex-successfully-launches-100th-starlink-mission/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-23T12:14:08.000Z</news:publication_date>
+          <news:title>SpaceX successfully launches 100th Starlink mission</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/tech/2023/08/23/spacex-successfully-launches-100th-starlink-mission/spacex-successfully-launches-100th-starlink-mission.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
         <loc>https://majordigest.com/tech/2023/08/23/medical-professionals-utilizing-ai-judge-narcotics-prescriptions-report/</loc>
         <news:news>
           <news:publication>
@@ -129,44 +115,16 @@
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/tech/2023/08/24/ai-binge-lapd-bodycam-footage-weed-rude-tone-aggressive-language/</loc>
+        <loc>https://majordigest.com/tech/2023/08/23/controversial-ai-app-allows-text-jesus-satan/</loc>
         <news:news>
           <news:publication>
             <news:name>Major Digest</news:name>
             <news:language>en</news:language>
           </news:publication>
-          <news:publication_date>2023-08-24T06:00:01.000Z</news:publication_date>
-          <news:title>AI to binge LAPD bodycam footage to weed out rude tone, aggressive language</news:title>
+          <news:publication_date>2023-08-23T15:07:25.000Z</news:publication_date>
+          <news:title>Controversial new AI app allows you to text with Jesus &#8211; and Satan</news:title>
         </news:news>
         <image:image>
-          <image:loc>https://majordigest.com/tech/2023/08/24/ai-binge-lapd-bodycam-footage-weed-rude-tone-aggressive-language/ai-binge-lapd-bodycam-footage-weed-rude-tone-aggressive-language.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/tech/2023/08/21/despite-fbi-takedown-infamous-raccoon-stealer-malware-returns/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-21T16:00:01.000Z</news:publication_date>
-          <news:title>Despite FBI takedown, infamous Raccoon Stealer malware returns</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/tech/2023/08/21/despite-fbi-takedown-infamous-raccoon-stealer-malware-returns/despite-fbi-takedown-infamous-raccoon-stealer-malware-returns.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/tech/2023/08/23/opinion-this-valley-fever-vaccine-could-save-dogs-eventually-humans/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-23T12:00:59.000Z</news:publication_date>
-          <news:title>Opinion: This valley fever vaccine could save dogs, eventually humans</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/tech/2023/08/23/opinion-this-valley-fever-vaccine-could-save-dogs-eventually-humans/opinion-this-valley-fever-vaccine-could-save-dogs-eventually-humans.webp</image:loc>
+          <image:loc>https://majordigest.com/tech/2023/08/23/controversial-ai-app-allows-text-jesus-satan/controversial-ai-app-allows-text-jesus-satan.webp</image:loc>
         </image:image>
       </url></urlset>
