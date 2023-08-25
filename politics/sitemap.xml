@@ -3,59 +3,101 @@
               xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
               xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
       <url>
-        <loc>https://majordigest.com/politics/2023/08/25/tennessee-lawmakers-hit-impasse-special-session-sparked-nashville-school-shooting/</loc>
+        <loc>https://majordigest.com/politics/2023/08/25/tiktok-influencers-campaigns-bowman/</loc>
         <news:news>
           <news:publication>
             <news:name>Major Digest</news:name>
             <news:language>en</news:language>
           </news:publication>
-          <news:publication_date>2023-08-25T11:38:26.000Z</news:publication_date>
-          <news:title>Tennessee lawmakers hit impasse during special session sparked by Nashville school shooting</news:title>
+          <news:publication_date>2023-08-25T08:30:00.000Z</news:publication_date>
+          <news:title>Will Politicians Ban Their Best Way of Reaching Young Voters?</news:title>
         </news:news>
         <image:image>
-          <image:loc>https://majordigest.com/politics/2023/08/25/tennessee-lawmakers-hit-impasse-special-session-sparked-nashville-school-shooting/tennessee-lawmakers-hit-impasse-special-session-sparked-nashville-school-shooting.webp</image:loc>
+          <image:loc>https://majordigest.com/politics/2023/08/25/tiktok-influencers-campaigns-bowman/tiktok-influencers-campaigns-bowman.webp</image:loc>
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/politics/2023/08/25/ramaswamys-claims-came-no-money-clash-prep-school-upbringing/</loc>
+        <loc>https://majordigest.com/politics/2023/08/25/maryland-court-parents-cant-opt-kids-lgbtq-curriculum-fundamental-right/</loc>
         <news:news>
           <news:publication>
             <news:name>Major Digest</news:name>
             <news:language>en</news:language>
           </news:publication>
-          <news:publication_date>2023-08-25T10:50:20.000Z</news:publication_date>
-          <news:title>Ramaswamy's claims he came from 'no money' clash with prep school upbringing</news:title>
+          <news:publication_date>2023-08-25T10:53:31.000Z</news:publication_date>
+          <news:title>Maryland Court says parents can't opt kids out of LGBTQ+ curriculum: 'Not a fundamental right'</news:title>
         </news:news>
         <image:image>
-          <image:loc>https://majordigest.com/politics/2023/08/25/ramaswamys-claims-came-no-money-clash-prep-school-upbringing/ramaswamys-claims-came-no-money-clash-prep-school-upbringing.webp</image:loc>
+          <image:loc>https://majordigest.com/politics/2023/08/25/maryland-court-parents-cant-opt-kids-lgbtq-curriculum-fundamental-right/maryland-court-parents-cant-opt-kids-lgbtq-curriculum-fundamental-right.webp</image:loc>
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/politics/2023/08/24/georgia-election-case-mugshots/</loc>
+        <loc>https://majordigest.com/politics/2023/08/25/biden-blasted-for-fundraising-as-trump-arrested-in-georgia-spikes-the-football/</loc>
         <news:news>
           <news:publication>
             <news:name>Major Digest</news:name>
             <news:language>en</news:language>
           </news:publication>
-          <news:publication_date>2023-08-24T19:13:37.000Z</news:publication_date>
-          <news:title>Photos: Trump, Georgia co-defendants turn themselves in</news:title>
+          <news:publication_date>2023-08-25T14:47:31.000Z</news:publication_date>
+          <news:title>Biden blasted for fundraising as Trump arrested in Georgia: 'Spikes the football'</news:title>
         </news:news>
         <image:image>
-          <image:loc>https://majordigest.com/politics/2023/08/24/georgia-election-case-mugshots/georgia-election-case-mugshots.webp</image:loc>
+          <image:loc>https://majordigest.com/politics/2023/08/25/biden-blasted-for-fundraising-as-trump-arrested-in-georgia-spikes-the-football/biden-blasted-for-fundraising-as-trump-arrested-in-georgia-spikes-the-football.webp</image:loc>
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/politics/2023/08/25/donald-trump-mugshot-released-georgia-booking-first-ever-former-us-president/</loc>
+        <loc>https://majordigest.com/politics/2023/08/25/trump-mug-shot-released-to-public/</loc>
         <news:news>
           <news:publication>
             <news:name>Major Digest</news:name>
             <news:language>en</news:language>
           </news:publication>
-          <news:publication_date>2023-08-25T00:52:34.000Z</news:publication_date>
-          <news:title>Donald Trump mugshot released after Georgia booking, first ever for a former US president</news:title>
+          <news:publication_date>2023-08-25T01:10:41.000Z</news:publication_date>
+          <news:title>What to know about Trump's mug shot</news:title>
         </news:news>
         <image:image>
-          <image:loc>https://majordigest.com/politics/2023/08/25/donald-trump-mugshot-released-georgia-booking-first-ever-former-us-president/donald-trump-mugshot-released-georgia-booking-first-ever-former-us-president.webp</image:loc>
+          <image:loc>https://majordigest.com/politics/2023/08/25/trump-mug-shot-released-to-public/trump-mug-shot-released-to-public.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/politics/2023/08/25/democrats-celebrate-biden-fundraises-trump-arrest/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-25T02:05:37.000Z</news:publication_date>
+          <news:title>Democrats celebrate, Biden fundraises off Trump arrest</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/politics/2023/08/25/democrats-celebrate-biden-fundraises-trump-arrest/democrats-celebrate-biden-fundraises-trump-arrest.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/politics/2023/08/25/hawaiian-business-goes-viral-sign-slamming-bidens-kitchen-fire-comments-not-always-about-you/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-25T14:56:33.000Z</news:publication_date>
+          <news:title>Hawaiian business goes viral for sign slamming Biden's kitchen fire comments: 'not always about you'</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/politics/2023/08/25/hawaiian-business-goes-viral-sign-slamming-bidens-kitchen-fire-comments-not-always-about-you/hawaiian-business-goes-viral-sign-slamming-bidens-kitchen-fire-comments-not-always-about-you.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/politics/2023/08/25/ipsos-poll-trump-indictment/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-25T09:00:00.000Z</news:publication_date>
+          <news:title>Lock Him Up? A New Poll Has Some Bad News for Trump</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/politics/2023/08/25/ipsos-poll-trump-indictment/ipsos-poll-trump-indictment.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -70,33 +112,5 @@
         </news:news>
         <image:image>
           <image:loc>https://majordigest.com/politics/2023/08/25/nra-digs-history-push-back-kamala-harris-claim-assault-ban/nra-digs-history-push-back-kamala-harris-claim-assault-ban.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/politics/2023/08/25/conservatives-unload-trump-booked-georgia-jail-4th-indictment-sickening/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-25T01:25:56.000Z</news:publication_date>
-          <news:title>Conservatives unload after Trump booked into Georgia jail in 4th indictment: 'Sickening'</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/politics/2023/08/25/conservatives-unload-trump-booked-georgia-jail-4th-indictment-sickening/conservatives-unload-trump-booked-georgia-jail-4th-indictment-sickening.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/politics/2023/08/25/donald-trump-makes-first-post-on-x-over-two-years-after-being-booked-into-jail/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-25T02:16:43.000Z</news:publication_date>
-          <news:title>Donald Trump makes first post on X in over two years after being booked into jail</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/politics/2023/08/25/donald-trump-makes-first-post-on-x-over-two-years-after-being-booked-into-jail/donald-trump-makes-first-post-on-x-over-two-years-after-being-booked-into-jail.webp</image:loc>
         </image:image>
       </url></urlset>
