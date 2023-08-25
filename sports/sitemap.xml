@@ -3,20 +3,6 @@
               xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
               xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
       <url>
-        <loc>https://majordigest.com/sports/2023/08/24/exec-says-oakland-as-temporary-home-after-2024-likely-down-to-three-sites-including-sf-giants-oracle-park/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-24T19:41:30.000Z</news:publication_date>
-          <news:title>Exec says Oakland A&#8217;s temporary home after 2024 likely down to three sites, including &#8230; SF Giants&#8217; Oracle Park?</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/sports/2023/08/24/exec-says-oakland-as-temporary-home-after-2024-likely-down-to-three-sites-including-sf-giants-oracle-park/exec-says-oakland-as-temporary-home-after-2024-likely-down-to-three-sites-including-sf-giants-oracle-park.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
         <loc>https://majordigest.com/sports/2023/08/24/lakers-to-unveil-kobe-bryant-statue-in-february/</loc>
         <news:news>
           <news:publication>
@@ -28,6 +14,20 @@
         </news:news>
         <image:image>
           <image:loc>https://majordigest.com/sports/2023/08/24/lakers-to-unveil-kobe-bryant-statue-in-february/lakers-to-unveil-kobe-bryant-statue-in-february.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/sports/2023/08/24/anthony-edwards-says-he-did-not-make-comments-about-coming-off-team-usas-bench-to-coach-steve-kerr/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-24T23:05:46.000Z</news:publication_date>
+          <news:title>Anthony Edwards says he did not make comments to coach Steve Kerr about coming off Team USA's bench</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/sports/2023/08/24/anthony-edwards-says-he-did-not-make-comments-about-coming-off-team-usas-bench-to-coach-steve-kerr/anthony-edwards-says-he-did-not-make-comments-about-coming-off-team-usas-bench-to-coach-steve-kerr.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -45,44 +45,86 @@
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/sports/2023/08/24/bay-area-high-school-football-2023-week-1-preview-schedule-2/</loc>
+        <loc>https://majordigest.com/sports/2023/08/25/giannis-says-he-wont-sign-extension-with-bucks-yet-fueling-warriors-speculation/</loc>
         <news:news>
           <news:publication>
             <news:name>Major Digest</news:name>
             <news:language>en</news:language>
           </news:publication>
-          <news:publication_date>2023-08-24T14:00:43.000Z</news:publication_date>
-          <news:title>Bay Area high school football 2023: Week 1 preview, schedule</news:title>
+          <news:publication_date>2023-08-25T00:03:38.000Z</news:publication_date>
+          <news:title>Giannis says he won&#8217;t sign extension with Bucks yet, fueling Warriors speculation</news:title>
         </news:news>
         <image:image>
-          <image:loc>https://majordigest.com/sports/2023/08/24/bay-area-high-school-football-2023-week-1-preview-schedule-2/bay-area-high-school-football-2023-week-1-preview-schedule-2.webp</image:loc>
+          <image:loc>https://majordigest.com/sports/2023/08/25/giannis-says-he-wont-sign-extension-with-bucks-yet-fueling-warriors-speculation/giannis-says-he-wont-sign-extension-with-bucks-yet-fueling-warriors-speculation.webp</image:loc>
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/sports/2023/08/24/nfl-leans-script-jokes-hype-video-2023-season/</loc>
+        <loc>https://majordigest.com/sports/2023/08/25/wwe-star-bray-wyatt-dead-at-36/</loc>
         <news:news>
           <news:publication>
             <news:name>Major Digest</news:name>
             <news:language>en</news:language>
           </news:publication>
-          <news:publication_date>2023-08-24T20:54:28.000Z</news:publication_date>
-          <news:title>NFL leans into 'script' jokes with hype video for 2023 season</news:title>
+          <news:publication_date>2023-08-25T00:34:16.000Z</news:publication_date>
+          <news:title>WWE star Bray Wyatt dead at 36</news:title>
         </news:news>
         <image:image>
-          <image:loc>https://majordigest.com/sports/2023/08/24/nfl-leans-script-jokes-hype-video-2023-season/nfl-leans-script-jokes-hype-video-2023-season.webp</image:loc>
+          <image:loc>https://majordigest.com/sports/2023/08/25/wwe-star-bray-wyatt-dead-at-36/wwe-star-bray-wyatt-dead-at-36.webp</image:loc>
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/sports/2023/08/24/girls-flag-football-familiar-names-coaching-pittsburg-freedom/</loc>
+        <loc>https://majordigest.com/sports/2023/08/24/wwe-star-known-as-bray-wyatt-dead/</loc>
         <news:news>
           <news:publication>
             <news:name>Major Digest</news:name>
             <news:language>en</news:language>
           </news:publication>
-          <news:publication_date>2023-08-24T20:35:50.000Z</news:publication_date>
-          <news:title>Girls flag football: Familiar names coaching Pittsburg, Freedom</news:title>
+          <news:publication_date>2023-08-24T22:43:34.000Z</news:publication_date>
+          <news:title>WWE star known as Bray Wyatt dead at 36</news:title>
         </news:news>
         <image:image>
-          <image:loc>https://majordigest.com/sports/2023/08/24/girls-flag-football-familiar-names-coaching-pittsburg-freedom/girls-flag-football-familiar-names-coaching-pittsburg-freedom.webp</image:loc>
+          <image:loc>https://majordigest.com/sports/2023/08/24/wwe-star-known-as-bray-wyatt-dead/wwe-star-known-as-bray-wyatt-dead.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/sports/2023/08/25/warren-sapp-denies-causing-major-drama-flight-colombia-florida/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-25T02:46:39.000Z</news:publication_date>
+          <news:title>Warren Sapp denies causing major drama on flight from Colombia to Florida</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/sports/2023/08/25/warren-sapp-denies-causing-major-drama-flight-colombia-florida/warren-sapp-denies-causing-major-drama-flight-colombia-florida.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/sports/2023/08/24/exec-says-oakland-as-temporary-home-after-2024-likely-down-to-three-sites-including-sf-giants-oracle-park/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-24T19:41:30.000Z</news:publication_date>
+          <news:title>Exec says Oakland A&#8217;s temporary home after 2024 likely down to three sites, including &#8230; SF Giants&#8217; Oracle Park?</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/sports/2023/08/24/exec-says-oakland-as-temporary-home-after-2024-likely-down-to-three-sites-including-sf-giants-oracle-park/exec-says-oakland-as-temporary-home-after-2024-likely-down-to-three-sites-including-sf-giants-oracle-park.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/sports/2023/08/24/lakers-unveil-plans-kobe-bryant-statue-outside-los-angeles-arena-his-legacy-can-be-celebrated-forever/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-24T21:08:17.000Z</news:publication_date>
+          <news:title>Lakers unveil plans for Kobe Bryant statue outside Los Angeles arena: 'His legacy can be celebrated forever'</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/sports/2023/08/24/lakers-unveil-plans-kobe-bryant-statue-outside-los-angeles-arena-his-legacy-can-be-celebrated-forever/lakers-unveil-plans-kobe-bryant-statue-outside-los-angeles-arena-his-legacy-can-be-celebrated-forever.webp</image:loc>
         </image:image>
       </url></urlset>
