@@ -3,17 +3,31 @@
               xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
               xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
       <url>
-        <loc>https://majordigest.com/politics/2023/08/25/trumps-booking-height-weight-sets-social-media-ablaze/</loc>
+        <loc>https://majordigest.com/politics/2023/08/25/donald-trump-mugshot-released-georgia-booking-first-ever-former-us-president/</loc>
         <news:news>
           <news:publication>
             <news:name>Major Digest</news:name>
             <news:language>en</news:language>
           </news:publication>
-          <news:publication_date>2023-08-25T00:37:45.000Z</news:publication_date>
-          <news:title>Trump's booking height and weight sets social media ablaze: 'Wait, what?'</news:title>
+          <news:publication_date>2023-08-25T00:52:34.000Z</news:publication_date>
+          <news:title>Donald Trump mugshot released after Georgia booking, first ever for a former US president</news:title>
         </news:news>
         <image:image>
-          <image:loc>https://majordigest.com/politics/2023/08/25/trumps-booking-height-weight-sets-social-media-ablaze/trumps-booking-height-weight-sets-social-media-ablaze.webp</image:loc>
+          <image:loc>https://majordigest.com/politics/2023/08/25/donald-trump-mugshot-released-georgia-booking-first-ever-former-us-president/donald-trump-mugshot-released-georgia-booking-first-ever-former-us-president.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/politics/2023/08/24/fulton-county-prosecutors-ask-judge-to-set-oct-23-trial-on-trump-racketeering-charges/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-24T17:11:58.000Z</news:publication_date>
+          <news:title>Judge schedules Trump codefendant Ken Chesebro for October trial in racketeering case</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/politics/2023/08/24/fulton-county-prosecutors-ask-judge-to-set-oct-23-trial-on-trump-racketeering-charges/fulton-county-prosecutors-ask-judge-to-set-oct-23-trial-on-trump-racketeering-charges.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -31,31 +45,17 @@
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/politics/2023/08/25/democrats-celebrate-biden-fundraises-trump-arrest/</loc>
+        <loc>https://majordigest.com/politics/2023/08/25/donald-trump-makes-first-post-on-x-over-two-years-after-being-booked-into-jail/</loc>
         <news:news>
           <news:publication>
             <news:name>Major Digest</news:name>
             <news:language>en</news:language>
           </news:publication>
-          <news:publication_date>2023-08-25T02:05:37.000Z</news:publication_date>
-          <news:title>Democrats celebrate, Biden fundraises off Trump arrest</news:title>
+          <news:publication_date>2023-08-25T02:16:43.000Z</news:publication_date>
+          <news:title>Donald Trump makes first post on X in over 2 years after being booked into jail</news:title>
         </news:news>
         <image:image>
-          <image:loc>https://majordigest.com/politics/2023/08/25/democrats-celebrate-biden-fundraises-trump-arrest/democrats-celebrate-biden-fundraises-trump-arrest.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/politics/2023/08/25/co-defendant-georgia-trump-indictment/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-25T00:52:06.000Z</news:publication_date>
-          <news:title>Co-defendant in Georgia says false electors met at Trump&#8217;s &#8216;direction&#8217;</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/politics/2023/08/25/co-defendant-georgia-trump-indictment/co-defendant-georgia-trump-indictment.webp</image:loc>
+          <image:loc>https://majordigest.com/politics/2023/08/25/donald-trump-makes-first-post-on-x-over-two-years-after-being-booked-into-jail/donald-trump-makes-first-post-on-x-over-two-years-after-being-booked-into-jail.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -73,58 +73,30 @@
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/politics/2023/08/24/prigozhin-death-strengthens-vladimir-putin-russia/</loc>
+        <loc>https://majordigest.com/politics/2023/08/25/conservatives-unload-trump-booked-georgia-jail-4th-indictment-sickening/</loc>
         <news:news>
           <news:publication>
             <news:name>Major Digest</news:name>
             <news:language>en</news:language>
           </news:publication>
-          <news:publication_date>2023-08-24T22:15:23.000Z</news:publication_date>
-          <news:title>U.S., Europe officials: Prigozhin&#8217;s death strengthens Putin, for now</news:title>
+          <news:publication_date>2023-08-25T01:25:56.000Z</news:publication_date>
+          <news:title>Conservatives unload after Trump booked into Georgia jail in 4th indictment: 'Sickening'</news:title>
         </news:news>
         <image:image>
-          <image:loc>https://majordigest.com/politics/2023/08/24/prigozhin-death-strengthens-vladimir-putin-russia/prigozhin-death-strengthens-vladimir-putin-russia.webp</image:loc>
+          <image:loc>https://majordigest.com/politics/2023/08/25/conservatives-unload-trump-booked-georgia-jail-4th-indictment-sickening/conservatives-unload-trump-booked-georgia-jail-4th-indictment-sickening.webp</image:loc>
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/politics/2023/08/24/hunter-biden-seen-sneaking-out-business-vacationing-dad-lake-tahoe-amid-investigations/</loc>
+        <loc>https://majordigest.com/politics/2023/08/25/trumps-booking-height-weight-sets-social-media-ablaze/</loc>
         <news:news>
           <news:publication>
             <news:name>Major Digest</news:name>
             <news:language>en</news:language>
           </news:publication>
-          <news:publication_date>2023-08-24T23:55:51.000Z</news:publication_date>
-          <news:title>Hunter Biden seen sneaking from business while vacationing with dad in Lake Tahoe amid investigations</news:title>
+          <news:publication_date>2023-08-25T00:37:45.000Z</news:publication_date>
+          <news:title>Trump's booking height and weight sets social media ablaze: 'Wait, what?'</news:title>
         </news:news>
         <image:image>
-          <image:loc>https://majordigest.com/politics/2023/08/24/hunter-biden-seen-sneaking-out-business-vacationing-dad-lake-tahoe-amid-investigations/hunter-biden-seen-sneaking-out-business-vacationing-dad-lake-tahoe-amid-investigations.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/politics/2023/08/24/nyc-mayor-adams-responds-gov-hochuls-federal-funding-push-claims-citys-handled-migrant-crisis-alone/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-24T23:04:45.000Z</news:publication_date>
-          <news:title>NYC Mayor Adams responds to Gov. Hochul's federal funding push, claims city's handled migrant crisis 'alone'</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/politics/2023/08/24/nyc-mayor-adams-responds-gov-hochuls-federal-funding-push-claims-citys-handled-migrant-crisis-alone/nyc-mayor-adams-responds-gov-hochuls-federal-funding-push-claims-citys-handled-migrant-crisis-alone.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/politics/2023/08/25/trump-posts-x-twitter/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-25T02:22:31.000Z</news:publication_date>
-          <news:title>Trump posts on X for first time in over 2 years</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/politics/2023/08/25/trump-posts-x-twitter/trump-posts-x-twitter.webp</image:loc>
+          <image:loc>https://majordigest.com/politics/2023/08/25/trumps-booking-height-weight-sets-social-media-ablaze/trumps-booking-height-weight-sets-social-media-ablaze.webp</image:loc>
         </image:image>
       </url></urlset>
