@@ -3,30 +3,44 @@
               xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
               xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
       <url>
-        <loc>https://majordigest.com/news/2023/08/24/mastercard-binance-end-crypto-card-programmes-argentina-brazil-columbia-bahrain-september-22-4327288/</loc>
+        <loc>https://majordigest.com/news/2023/08/25/oj-simpson-paris-hilton-tiger-woods-trump-joins-these-a-listers-with-jail-mug-shot-4327691/</loc>
         <news:news>
           <news:publication>
             <news:name>Major Digest</news:name>
             <news:language>en</news:language>
           </news:publication>
-          <news:publication_date>2023-08-24T18:01:59.000Z</news:publication_date>
-          <news:title>Mastercard, Binance to End Crypto Card Programmes in Four Countries</news:title>
+          <news:publication_date>2023-08-25T02:24:37.000Z</news:publication_date>
+          <news:title>OJ Simpson, Paris Hilton, Tiger Woods: Trump Joins A-Listers With Mug Shot</news:title>
         </news:news>
         <image:image>
-          <image:loc>https://majordigest.com/news/2023/08/24/mastercard-binance-end-crypto-card-programmes-argentina-brazil-columbia-bahrain-september-22-4327288/mastercard-binance-end-crypto-card-programmes-argentina-brazil-columbia-bahrain-september-22-4327288.webp</image:loc>
+          <image:loc>https://majordigest.com/news/2023/08/25/oj-simpson-paris-hilton-tiger-woods-trump-joins-these-a-listers-with-jail-mug-shot-4327691/oj-simpson-paris-hilton-tiger-woods-trump-joins-these-a-listers-with-jail-mug-shot-4327691.webp</image:loc>
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/news/2023/08/25/never-surrender-donald-trump-campaign-starts-selling-t-shirts-with-us-ex-presidents-mug-shot-4327767/</loc>
+        <loc>https://majordigest.com/news/2023/08/24/4169686-t-mobile-laying-off-5000-employees/</loc>
         <news:news>
           <news:publication>
             <news:name>Major Digest</news:name>
             <news:language>en</news:language>
           </news:publication>
-          <news:publication_date>2023-08-25T03:41:11.000Z</news:publication_date>
-          <news:title>Donald Trump Campaign Starts Selling T-Shirts With Ex-President's Mug Shot</news:title>
+          <news:publication_date>2023-08-24T18:19:08.000Z</news:publication_date>
+          <news:title>T-Mobile laying off 5,000 employees</news:title>
         </news:news>
         <image:image>
-          <image:loc>https://majordigest.com/news/2023/08/25/never-surrender-donald-trump-campaign-starts-selling-t-shirts-with-us-ex-presidents-mug-shot-4327767/never-surrender-donald-trump-campaign-starts-selling-t-shirts-with-us-ex-presidents-mug-shot-4327767.webp</image:loc>
+          <image:loc>https://majordigest.com/news/2023/08/24/4169686-t-mobile-laying-off-5000-employees/4169686-t-mobile-laying-off-5000-employees.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/news/2023/08/25/jeswin-aldrin-finishes-11th-in-mens-long-jump-final-in-world-championships-4327439/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-25T03:14:54.000Z</news:publication_date>
+          <news:title>Aldrin Finishes 11th In Men's Long Jump Final In World Championships</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/news/2023/08/25/jeswin-aldrin-finishes-11th-in-mens-long-jump-final-in-world-championships-4327439/jeswin-aldrin-finishes-11th-in-mens-long-jump-final-in-world-championships-4327439.webp</image:loc>
         </image:image>
       </url></urlset>
