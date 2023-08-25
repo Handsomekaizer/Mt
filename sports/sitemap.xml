@@ -3,48 +3,6 @@
               xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
               xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
       <url>
-        <loc>https://majordigest.com/sports/2023/08/25/former-australia-test-captain-tim-paine-joins-adelaide-strikers-as-assistant-coach-4327870/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-25T07:43:34.000Z</news:publication_date>
-          <news:title>Ex-Australia Test Captain Paine Joins Adelaide Strikers As Assistant Coach</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/sports/2023/08/25/former-australia-test-captain-tim-paine-joins-adelaide-strikers-as-assistant-coach-4327870/former-australia-test-captain-tim-paine-joins-adelaide-strikers-as-assistant-coach-4327870.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/sports/2023/08/24/cal-coach-wilcox-names-starting-qb-for-opener-at-north-texas/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-24T20:44:41.000Z</news:publication_date>
-          <news:title>Cal coach Wilcox names starting QB for opener at North Texas</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/sports/2023/08/24/cal-coach-wilcox-names-starting-qb-for-opener-at-north-texas/cal-coach-wilcox-names-starting-qb-for-opener-at-north-texas.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/sports/2023/08/25/virat-kohli-craze-hits-bengaluru-police-have-tough-time-controlling-fans-watch-4327018/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-25T05:58:32.000Z</news:publication_date>
-          <news:title>Watch: Virat Kohli Craze Hits Bengaluru, Even Police Can't Keep Calm</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/sports/2023/08/25/virat-kohli-craze-hits-bengaluru-police-have-tough-time-controlling-fans-watch-4327018/virat-kohli-craze-hits-bengaluru-police-have-tough-time-controlling-fans-watch-4327018.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
         <loc>https://majordigest.com/sports/2023/08/25/virat-kohli-shares-his-yo-yo-test-score-bcci-sends-players-confidential-matter-reminder-4327934/</loc>
         <news:news>
           <news:publication>
@@ -56,6 +14,34 @@
         </news:news>
         <image:image>
           <image:loc>https://majordigest.com/sports/2023/08/25/virat-kohli-shares-his-yo-yo-test-score-bcci-sends-players-confidential-matter-reminder-4327934/virat-kohli-shares-his-yo-yo-test-score-bcci-sends-players-confidential-matter-reminder-4327934.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/sports/2023/08/24/anthony-edwards-says-he-did-not-make-comments-about-coming-off-team-usas-bench-to-coach-steve-kerr/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-24T23:05:46.000Z</news:publication_date>
+          <news:title>Anthony Edwards says he did not make comments to coach Steve Kerr about coming off Team USA's bench</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/sports/2023/08/24/anthony-edwards-says-he-did-not-make-comments-about-coming-off-team-usas-bench-to-coach-steve-kerr/anthony-edwards-says-he-did-not-make-comments-about-coming-off-team-usas-bench-to-coach-steve-kerr.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/sports/2023/08/24/exec-says-oakland-as-temporary-home-after-2024-likely-down-to-three-sites-including-sf-giants-oracle-park/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-24T19:41:30.000Z</news:publication_date>
+          <news:title>Exec says Oakland A&#8217;s temporary home after 2024 likely down to three sites, including &#8230; SF Giants&#8217; Oracle Park?</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/sports/2023/08/24/exec-says-oakland-as-temporary-home-after-2024-likely-down-to-three-sites-including-sf-giants-oracle-park/exec-says-oakland-as-temporary-home-after-2024-likely-down-to-three-sites-including-sf-giants-oracle-park.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -73,16 +59,44 @@
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/sports/2023/08/24/exec-says-oakland-as-temporary-home-after-2024-likely-down-to-three-sites-including-sf-giants-oracle-park/</loc>
+        <loc>https://majordigest.com/sports/2023/08/25/warren-sapp-denies-causing-major-drama-flight-colombia-florida/</loc>
         <news:news>
           <news:publication>
             <news:name>Major Digest</news:name>
             <news:language>en</news:language>
           </news:publication>
-          <news:publication_date>2023-08-24T19:41:30.000Z</news:publication_date>
-          <news:title>Exec says Oakland A&#8217;s temporary home after 2024 likely down to three sites, including &#8230; SF Giants&#8217; Oracle Park?</news:title>
+          <news:publication_date>2023-08-25T02:46:39.000Z</news:publication_date>
+          <news:title>Warren Sapp denies causing major drama on flight from Colombia to Florida</news:title>
         </news:news>
         <image:image>
-          <image:loc>https://majordigest.com/sports/2023/08/24/exec-says-oakland-as-temporary-home-after-2024-likely-down-to-three-sites-including-sf-giants-oracle-park/exec-says-oakland-as-temporary-home-after-2024-likely-down-to-three-sites-including-sf-giants-oracle-park.webp</image:loc>
+          <image:loc>https://majordigest.com/sports/2023/08/25/warren-sapp-denies-causing-major-drama-flight-colombia-florida/warren-sapp-denies-causing-major-drama-flight-colombia-florida.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/sports/2023/08/24/deandre-hopkins-clowns-cardinals-trading-isaiah-simmons-giants-7th-round-pick/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-24T21:37:28.000Z</news:publication_date>
+          <news:title>DeAndre Hopkins clowns Cardinals after trading Isaiah Simmons to Giants for 7th-round pick</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/sports/2023/08/24/deandre-hopkins-clowns-cardinals-trading-isaiah-simmons-giants-7th-round-pick/deandre-hopkins-clowns-cardinals-trading-isaiah-simmons-giants-7th-round-pick.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/sports/2023/08/25/babar-azam-in-never-seen-before-angry-avatar-after-pakistans-thrilling-last-ball-win-over-afghanistan-watch-4327976/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-25T07:52:35.000Z</news:publication_date>
+          <news:title>Watch: Babar In Never-Seen-Before Angry Avatar After 2nd ODI Thriller</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/sports/2023/08/25/babar-azam-in-never-seen-before-angry-avatar-after-pakistans-thrilling-last-ball-win-over-afghanistan-watch-4327976/babar-azam-in-never-seen-before-angry-avatar-after-pakistans-thrilling-last-ball-win-over-afghanistan-watch-4327976.webp</image:loc>
         </image:image>
       </url></urlset>
