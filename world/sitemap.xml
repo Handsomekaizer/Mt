@@ -3,17 +3,31 @@
               xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
               xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
       <url>
-        <loc>https://majordigest.com/world/2023/08/25/never-surrender-donald-trump-campaign-starts-selling-t-shirts-with-us-ex-presidents-mug-shot-4327767/</loc>
+        <loc>https://majordigest.com/world/2023/08/24/canadian-government-plans-framework-news-negotiations-tech-giants-early-2025/</loc>
         <news:news>
           <news:publication>
             <news:name>Major Digest</news:name>
             <news:language>en</news:language>
           </news:publication>
-          <news:publication_date>2023-08-25T03:41:11.000Z</news:publication_date>
-          <news:title>Donald Trump Campaign Starts Selling T-Shirts With Ex-President's Mug Shot</news:title>
+          <news:publication_date>2023-08-24T22:40:01.000Z</news:publication_date>
+          <news:title>Canadian government plans framework for news negotiations with tech giants by early 2025</news:title>
         </news:news>
         <image:image>
-          <image:loc>https://majordigest.com/world/2023/08/25/never-surrender-donald-trump-campaign-starts-selling-t-shirts-with-us-ex-presidents-mug-shot-4327767/never-surrender-donald-trump-campaign-starts-selling-t-shirts-with-us-ex-presidents-mug-shot-4327767.webp</image:loc>
+          <image:loc>https://majordigest.com/world/2023/08/24/canadian-government-plans-framework-news-negotiations-tech-giants-early-2025/canadian-government-plans-framework-news-negotiations-tech-giants-early-2025.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/world/2023/08/24/legionnaires-disease-outbreak-claims-5-lives-rzeszow-poland/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-24T22:35:02.000Z</news:publication_date>
+          <news:title>Legionnaires' disease outbreak claims 5 lives in Rzeszow, Poland</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/world/2023/08/24/legionnaires-disease-outbreak-claims-5-lives-rzeszow-poland/legionnaires-disease-outbreak-claims-5-lives-rzeszow-poland.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -31,59 +45,31 @@
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/world/2023/08/25/as-donald-trump-arrested-in-election-fraud-case-joe-biden-does-this-4327657/</loc>
+        <loc>https://majordigest.com/world/2023/08/25/russia-stopped-42-drone-attack-on-crimea-by-ukraine-moscow-4327694/</loc>
         <news:news>
           <news:publication>
             <news:name>Major Digest</news:name>
             <news:language>en</news:language>
           </news:publication>
-          <news:publication_date>2023-08-25T01:33:11.000Z</news:publication_date>
-          <news:title>As Donald Trump Arrested In Election Fraud Case, Joe Biden Does This</news:title>
+          <news:publication_date>2023-08-25T02:35:29.000Z</news:publication_date>
+          <news:title>Russia Stopped 42-Drone Attack On Crimea By Ukraine: Moscow</news:title>
         </news:news>
         <image:image>
-          <image:loc>https://majordigest.com/world/2023/08/25/as-donald-trump-arrested-in-election-fraud-case-joe-biden-does-this-4327657/as-donald-trump-arrested-in-election-fraud-case-joe-biden-does-this-4327657.webp</image:loc>
+          <image:loc>https://majordigest.com/world/2023/08/25/russia-stopped-42-drone-attack-on-crimea-by-ukraine-moscow-4327694/russia-stopped-42-drone-attack-on-crimea-by-ukraine-moscow-4327694.webp</image:loc>
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/world/2023/08/24/pentagon-wagner-chief-yevgeny-prigozhin-likely-killed-plane-crash-no-evidence-missile-attack/</loc>
+        <loc>https://majordigest.com/world/2023/08/25/vivek-ramaswamy-raises-over-450-000-in-one-hour-after-republican-debate-4327816/</loc>
         <news:news>
           <news:publication>
             <news:name>Major Digest</news:name>
             <news:language>en</news:language>
           </news:publication>
-          <news:publication_date>2023-08-24T20:34:24.000Z</news:publication_date>
-          <news:title>Pentagon says Wagner chief Yevgeny Prigozhin likely killed in plane crash, no evidence of missile attack</news:title>
+          <news:publication_date>2023-08-25T04:17:08.000Z</news:publication_date>
+          <news:title>Vivek Ramaswamy Raises Over $450,000 In One Hour After Republican Debate</news:title>
         </news:news>
         <image:image>
-          <image:loc>https://majordigest.com/world/2023/08/24/pentagon-wagner-chief-yevgeny-prigozhin-likely-killed-plane-crash-no-evidence-missile-attack/pentagon-wagner-chief-yevgeny-prigozhin-likely-killed-plane-crash-no-evidence-missile-attack.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/world/2023/08/24/300-migrants-arrived-greek-islands-past-3-days-authorities-say/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-24T22:11:04.000Z</news:publication_date>
-          <news:title>Over 300 migrants arrived on Greek islands in past 3 days, authorities say</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/world/2023/08/24/300-migrants-arrived-greek-islands-past-3-days-authorities-say/300-migrants-arrived-greek-islands-past-3-days-authorities-say.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/world/2023/08/24/bolsonaro-leaves-sao-paulo-hospital-routine-exams/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-24T22:31:29.000Z</news:publication_date>
-          <news:title>Bolsonaro leaves S&#227;o Paulo hospital after routine exams</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/world/2023/08/24/bolsonaro-leaves-sao-paulo-hospital-routine-exams/bolsonaro-leaves-sao-paulo-hospital-routine-exams.webp</image:loc>
+          <image:loc>https://majordigest.com/world/2023/08/25/vivek-ramaswamy-raises-over-450-000-in-one-hour-after-republican-debate-4327816/vivek-ramaswamy-raises-over-450-000-in-one-hour-after-republican-debate-4327816.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -101,17 +87,45 @@
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/world/2023/08/25/nearly-2-million-excess-deaths-after-china-abruptly-ended-covid-curbs-study-4327700/</loc>
+        <loc>https://majordigest.com/world/2023/08/25/never-surrender-donald-trump-campaign-starts-selling-t-shirts-with-us-ex-presidents-mug-shot-4327767/</loc>
         <news:news>
           <news:publication>
             <news:name>Major Digest</news:name>
             <news:language>en</news:language>
           </news:publication>
-          <news:publication_date>2023-08-25T02:50:25.000Z</news:publication_date>
-          <news:title>Nearly 2 Million More Deaths After China Abruptly Ended Covid Curbs: Study</news:title>
+          <news:publication_date>2023-08-25T03:41:11.000Z</news:publication_date>
+          <news:title>Donald Trump Campaign Starts Selling T-Shirts With Ex-President's Mug Shot</news:title>
         </news:news>
         <image:image>
-          <image:loc>https://majordigest.com/world/2023/08/25/nearly-2-million-excess-deaths-after-china-abruptly-ended-covid-curbs-study-4327700/nearly-2-million-excess-deaths-after-china-abruptly-ended-covid-curbs-study-4327700.webp</image:loc>
+          <image:loc>https://majordigest.com/world/2023/08/25/never-surrender-donald-trump-campaign-starts-selling-t-shirts-with-us-ex-presidents-mug-shot-4327767/never-surrender-donald-trump-campaign-starts-selling-t-shirts-with-us-ex-presidents-mug-shot-4327767.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/world/2023/08/24/300-migrants-arrived-greek-islands-past-3-days-authorities-say/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-24T22:11:04.000Z</news:publication_date>
+          <news:title>Over 300 migrants arrived on Greek islands in past 3 days, authorities say</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/world/2023/08/24/300-migrants-arrived-greek-islands-past-3-days-authorities-say/300-migrants-arrived-greek-islands-past-3-days-authorities-say.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/world/2023/08/24/haitian-telecom-companies-report-severed-fiber-optic-cables-gang-sabotage-suspected/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-24T20:20:47.000Z</news:publication_date>
+          <news:title>Haitian telecom companies report severed fiber optic cables; gang sabotage suspected</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/world/2023/08/24/haitian-telecom-companies-report-severed-fiber-optic-cables-gang-sabotage-suspected/haitian-telecom-companies-report-severed-fiber-optic-cables-gang-sabotage-suspected.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -129,16 +143,44 @@
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/world/2023/08/25/never-surrender-after-jail-mugshot-trumps-first-post-on-x-in-2-years-4327784/</loc>
+        <loc>https://majordigest.com/world/2023/08/25/oj-simpson-paris-hilton-tiger-woods-trump-joins-these-a-listers-with-jail-mug-shot-4327691/</loc>
         <news:news>
           <news:publication>
             <news:name>Major Digest</news:name>
             <news:language>en</news:language>
           </news:publication>
-          <news:publication_date>2023-08-25T03:53:05.000Z</news:publication_date>
-          <news:title>"Never Surrender": After Jail Mugshot, Trump's First Post On X In 2 Years</news:title>
+          <news:publication_date>2023-08-25T02:24:37.000Z</news:publication_date>
+          <news:title>OJ Simpson, Paris Hilton, Tiger Woods: Trump Joins A-Listers With Mug Shot</news:title>
         </news:news>
         <image:image>
-          <image:loc>https://majordigest.com/world/2023/08/25/never-surrender-after-jail-mugshot-trumps-first-post-on-x-in-2-years-4327784/never-surrender-after-jail-mugshot-trumps-first-post-on-x-in-2-years-4327784.webp</image:loc>
+          <image:loc>https://majordigest.com/world/2023/08/25/oj-simpson-paris-hilton-tiger-woods-trump-joins-these-a-listers-with-jail-mug-shot-4327691/oj-simpson-paris-hilton-tiger-woods-trump-joins-these-a-listers-with-jail-mug-shot-4327691.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/world/2023/08/25/2-men-arrested-accused-arson-attack-englands-crooked-house-pub/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-25T00:09:29.000Z</news:publication_date>
+          <news:title>2 men arrested, accused of arson attack on England's 'Crooked House' pub</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/world/2023/08/25/2-men-arrested-accused-arson-attack-englands-crooked-house-pub/2-men-arrested-accused-arson-attack-englands-crooked-house-pub.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/world/2023/08/25/nearly-2-million-excess-deaths-after-china-abruptly-ended-covid-curbs-study-4327700/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-25T02:50:25.000Z</news:publication_date>
+          <news:title>Nearly 2 Million More Deaths After China Abruptly Ended Covid Curbs: Study</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/world/2023/08/25/nearly-2-million-excess-deaths-after-china-abruptly-ended-covid-curbs-study-4327700/nearly-2-million-excess-deaths-after-china-abruptly-ended-covid-curbs-study-4327700.webp</image:loc>
         </image:image>
       </url></urlset>
