@@ -3,20 +3,6 @@
               xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
               xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
       <url>
-        <loc>https://majordigest.com/us/2023/08/25/california-doctor-praised-pandemic-response-pleads-guilty-selling-misbranded-cosmetic-drugs/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-25T14:21:17.000Z</news:publication_date>
-          <news:title>California doctor praised for his pandemic response pleads guilty to selling misbranded cosmetic drugs</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/us/2023/08/25/california-doctor-praised-pandemic-response-pleads-guilty-selling-misbranded-cosmetic-drugs/california-doctor-praised-pandemic-response-pleads-guilty-selling-misbranded-cosmetic-drugs.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
         <loc>https://majordigest.com/us/2023/08/25/video-shows-tennessee-officer-holding-wheel-suspect-drives-doesnt-show-fatal-shooting-suspect/</loc>
         <news:news>
           <news:publication>
@@ -28,48 +14,6 @@
         </news:news>
         <image:image>
           <image:loc>https://majordigest.com/us/2023/08/25/video-shows-tennessee-officer-holding-wheel-suspect-drives-doesnt-show-fatal-shooting-suspect/video-shows-tennessee-officer-holding-wheel-suspect-drives-doesnt-show-fatal-shooting-suspect.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/us/2023/08/25/kansas-city-fire-department-investigated-following-allegations-racial-discrimination/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-25T14:16:57.000Z</news:publication_date>
-          <news:title>Kansas City fire department being investigated following allegations of racial discrimination</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/us/2023/08/25/kansas-city-fire-department-investigated-following-allegations-racial-discrimination/kansas-city-fire-department-investigated-following-allegations-racial-discrimination.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/us/2023/08/25/west-virginia-restrict-sale-abortion-pills-despite-federal-regulators/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-25T14:25:46.000Z</news:publication_date>
-          <news:title>West Virginia can restrict sale of abortion pills despite approval by federal regulators, according to judge</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/us/2023/08/25/west-virginia-restrict-sale-abortion-pills-despite-federal-regulators/west-virginia-restrict-sale-abortion-pills-despite-federal-regulators.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/us/2023/08/25/arsonist-accidentally-lights-self-fire-attempting-set-church-ablaze-video/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-25T13:57:38.000Z</news:publication_date>
-          <news:title>Arsonist accidentally lights self on fire while attempting to set church ablaze: video</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/us/2023/08/25/arsonist-accidentally-lights-self-fire-attempting-set-church-ablaze-video/arsonist-accidentally-lights-self-fire-attempting-set-church-ablaze-video.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -87,6 +31,48 @@
         </image:image>
       </url>
       <url>
+        <loc>https://majordigest.com/us/2023/08/25/around-650-texas-inmates-evacuated-fire-breaks-out-huntsville-prison/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-25T15:06:11.000Z</news:publication_date>
+          <news:title>Around 650 Texas inmates evacuated after fire breaks out at Huntsville prison</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/us/2023/08/25/around-650-texas-inmates-evacuated-fire-breaks-out-huntsville-prison/around-650-texas-inmates-evacuated-fire-breaks-out-huntsville-prison.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/us/2023/08/25/gulf-mexico-2023-recreational-fishing-season-greater-amberjack-comes-close/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-25T14:13:41.000Z</news:publication_date>
+          <news:title>In Gulf of Mexico, 2023 recreational fishing season for greater amberjack comes to close</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/us/2023/08/25/gulf-mexico-2023-recreational-fishing-season-greater-amberjack-comes-close/gulf-mexico-2023-recreational-fishing-season-greater-amberjack-comes-close.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/us/2023/08/25/kansas-city-fire-department-investigated-following-allegations-racial-discrimination/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-25T14:16:57.000Z</news:publication_date>
+          <news:title>Kansas City fire department being investigated following allegations of racial discrimination</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/us/2023/08/25/kansas-city-fire-department-investigated-following-allegations-racial-discrimination/kansas-city-fire-department-investigated-following-allegations-racial-discrimination.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
         <loc>https://majordigest.com/us/2023/08/25/ohio-dad-surprises-son-year-long-deployment-heartwarming-school-video/</loc>
         <news:news>
           <news:publication>
@@ -98,5 +84,19 @@
         </news:news>
         <image:image>
           <image:loc>https://majordigest.com/us/2023/08/25/ohio-dad-surprises-son-year-long-deployment-heartwarming-school-video/ohio-dad-surprises-son-year-long-deployment-heartwarming-school-video.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/us/2023/08/25/arsonist-accidentally-lights-self-fire-attempting-set-church-ablaze-video/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-25T13:57:38.000Z</news:publication_date>
+          <news:title>Arsonist accidentally lights self on fire while attempting to set church ablaze: video</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/us/2023/08/25/arsonist-accidentally-lights-self-fire-attempting-set-church-ablaze-video/arsonist-accidentally-lights-self-fire-attempting-set-church-ablaze-video.webp</image:loc>
         </image:image>
       </url></urlset>
