@@ -3,45 +3,73 @@
               xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
               xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
       <url>
-        <loc>https://majordigest.com/tech/2023/08/23/4166818-biden-administration-investing-up-to-24-million-for-cancer-fighting-mrna-tech/</loc>
+        <loc>https://majordigest.com/tech/2023/08/23/4167496-over-half-of-american-workers-say-theyd-consider-quitting-without-flexible-work-options-study/</loc>
         <news:news>
           <news:publication>
             <news:name>Major Digest</news:name>
             <news:language>en</news:language>
           </news:publication>
-          <news:publication_date>2023-08-23T17:37:15.000Z</news:publication_date>
-          <news:title>Biden administration investing up to $24 million for cancer-fighting mRNA tech</news:title>
+          <news:publication_date>2023-08-23T21:42:14.000Z</news:publication_date>
+          <news:title>Post-pandemic, many American workers say they'd consider quitting without flexible work options: study</news:title>
         </news:news>
         <image:image>
-          <image:loc>https://majordigest.com/tech/2023/08/23/4166818-biden-administration-investing-up-to-24-million-for-cancer-fighting-mrna-tech/4166818-biden-administration-investing-up-to-24-million-for-cancer-fighting-mrna-tech.webp</image:loc>
+          <image:loc>https://majordigest.com/tech/2023/08/23/4167496-over-half-of-american-workers-say-theyd-consider-quitting-without-flexible-work-options-study/4167496-over-half-of-american-workers-say-theyd-consider-quitting-without-flexible-work-options-study.webp</image:loc>
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/tech/2023/08/24/4169295-google-unveils-new-transparency-measures-as-eu-rule-goes-into-effect/</loc>
+        <loc>https://majordigest.com/tech/2023/08/25/iphone-15-pro-max-colour-options-apple-gray-blue-titanium-finish-weight-report-4327924/</loc>
         <news:news>
           <news:publication>
             <news:name>Major Digest</news:name>
             <news:language>en</news:language>
           </news:publication>
-          <news:publication_date>2023-08-24T15:59:23.000Z</news:publication_date>
-          <news:title>Google unveils new transparency measures as EU rule goes into effect</news:title>
+          <news:publication_date>2023-08-25T06:01:08.000Z</news:publication_date>
+          <news:title>iPhone 15 Pro to Arrive in Blue and Gray Colour Options Instead of Gold and Purple: Report</news:title>
         </news:news>
         <image:image>
-          <image:loc>https://majordigest.com/tech/2023/08/24/4169295-google-unveils-new-transparency-measures-as-eu-rule-goes-into-effect/4169295-google-unveils-new-transparency-measures-as-eu-rule-goes-into-effect.webp</image:loc>
+          <image:loc>https://majordigest.com/tech/2023/08/25/iphone-15-pro-max-colour-options-apple-gray-blue-titanium-finish-weight-report-4327924/iphone-15-pro-max-colour-options-apple-gray-blue-titanium-finish-weight-report-4327924.webp</image:loc>
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/tech/2023/08/25/tesla-autopilot-probe-resolution-us-agency-announcement-soon-4328166/</loc>
+        <loc>https://majordigest.com/tech/2023/08/23/editorial-puc-fails-to-keep-californians-safe-from-autonomous-vehicles/</loc>
         <news:news>
           <news:publication>
             <news:name>Major Digest</news:name>
             <news:language>en</news:language>
           </news:publication>
-          <news:publication_date>2023-08-25T06:57:14.000Z</news:publication_date>
-          <news:title>Tesla Autopilot Investigation Will Be Resolved, Could Make Announcement Soon, Says US Agency</news:title>
+          <news:publication_date>2023-08-23T12:30:55.000Z</news:publication_date>
+          <news:title>Editorial: CPUC incompetence lets autotaxis dangerously run amok</news:title>
         </news:news>
         <image:image>
-          <image:loc>https://majordigest.com/tech/2023/08/25/tesla-autopilot-probe-resolution-us-agency-announcement-soon-4328166/tesla-autopilot-probe-resolution-us-agency-announcement-soon-4328166.webp</image:loc>
+          <image:loc>https://majordigest.com/tech/2023/08/23/editorial-puc-fails-to-keep-californians-safe-from-autonomous-vehicles/editorial-puc-fails-to-keep-californians-safe-from-autonomous-vehicles.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/tech/2023/08/23/controversial-ai-app-allows-text-jesus-satan/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-23T15:07:25.000Z</news:publication_date>
+          <news:title>Controversial new AI app allows you to text with Jesus &#8211; and Satan</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/tech/2023/08/23/controversial-ai-app-allows-text-jesus-satan/controversial-ai-app-allows-text-jesus-satan.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/tech/2023/08/23/delete-app-mac-before-late/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-23T18:23:13.000Z</news:publication_date>
+          <news:title>Delete this app on your Mac before it's too late</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/tech/2023/08/23/delete-app-mac-before-late/delete-app-mac-before-late.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -59,73 +87,17 @@
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/tech/2023/08/22/vegan-sam-bankman-fried-is-subsisting-only-on-bread-and-water-in-jail-his-attorneys-say/</loc>
+        <loc>https://majordigest.com/tech/2023/08/24/fall-deceptive-email-asking-help/</loc>
         <news:news>
           <news:publication>
             <news:name>Major Digest</news:name>
             <news:language>en</news:language>
           </news:publication>
-          <news:publication_date>2023-08-22T15:02:11.000Z</news:publication_date>
-          <news:title>Vegan Sam Bankman-Fried is subsisting only on bread and water in jail, his attorneys say</news:title>
+          <news:publication_date>2023-08-24T16:38:45.000Z</news:publication_date>
+          <news:title>Don't fall for that deceptive email asking for your help</news:title>
         </news:news>
         <image:image>
-          <image:loc>https://majordigest.com/tech/2023/08/22/vegan-sam-bankman-fried-is-subsisting-only-on-bread-and-water-in-jail-his-attorneys-say/vegan-sam-bankman-fried-is-subsisting-only-on-bread-and-water-in-jail-his-attorneys-say.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/tech/2023/08/24/uber-raises-minimum-age-for-most-california-drivers-to-25-saying-insurance-costs-are-too-high/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-24T14:21:06.000Z</news:publication_date>
-          <news:title>Uber raises minimum age for most California drivers to 25, saying insurance costs are too high</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/tech/2023/08/24/uber-raises-minimum-age-for-most-california-drivers-to-25-saying-insurance-costs-are-too-high/uber-raises-minimum-age-for-most-california-drivers-to-25-saying-insurance-costs-are-too-high.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/tech/2023/08/24/ai-binge-lapd-bodycam-footage-weed-rude-tone-aggressive-language/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-24T06:00:01.000Z</news:publication_date>
-          <news:title>AI to binge LAPD bodycam footage to weed out rude tone, aggressive language</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/tech/2023/08/24/ai-binge-lapd-bodycam-footage-weed-rude-tone-aggressive-language/ai-binge-lapd-bodycam-footage-weed-rude-tone-aggressive-language.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/tech/2023/08/22/how-to-set-up-earthquake-alerts-on-your-phone/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-22T11:57:59.000Z</news:publication_date>
-          <news:title>How to set up earthquake alerts on your phone</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/tech/2023/08/22/how-to-set-up-earthquake-alerts-on-your-phone/how-to-set-up-earthquake-alerts-on-your-phone.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/tech/2023/08/25/realme-gt-5-design-display-reveal-official-launch-date-august-28-specifications-confirm-4327858/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-25T05:52:26.000Z</news:publication_date>
-          <news:title>Realme GT 5 Design Revealed Ahead of August 28 Launch, to Get a Pro-XDR Display</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/tech/2023/08/25/realme-gt-5-design-display-reveal-official-launch-date-august-28-specifications-confirm-4327858/realme-gt-5-design-display-reveal-official-launch-date-august-28-specifications-confirm-4327858.webp</image:loc>
+          <image:loc>https://majordigest.com/tech/2023/08/24/fall-deceptive-email-asking-help/fall-deceptive-email-asking-help.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -143,30 +115,58 @@
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/tech/2023/08/24/why-wall-streets-obsession-with-a-company-you-probably-never-heard-of-is-sending-stocks-surging/</loc>
+        <loc>https://majordigest.com/tech/2023/08/23/ask-kurt-how-activate-auto-reply-text-messages-iphone-android-easily/</loc>
         <news:news>
           <news:publication>
             <news:name>Major Digest</news:name>
             <news:language>en</news:language>
           </news:publication>
-          <news:publication_date>2023-08-24T17:34:18.000Z</news:publication_date>
-          <news:title>Why Wall Street&#8217;s obsession with a Silicon Valley company most people never heard of is sending stocks surging</news:title>
+          <news:publication_date>2023-08-23T20:25:20.000Z</news:publication_date>
+          <news:title>Ask Kurt: How to activate auto-reply for text messages on iPhone or Android easily</news:title>
         </news:news>
         <image:image>
-          <image:loc>https://majordigest.com/tech/2023/08/24/why-wall-streets-obsession-with-a-company-you-probably-never-heard-of-is-sending-stocks-surging/why-wall-streets-obsession-with-a-company-you-probably-never-heard-of-is-sending-stocks-surging.webp</image:loc>
+          <image:loc>https://majordigest.com/tech/2023/08/23/ask-kurt-how-activate-auto-reply-text-messages-iphone-android-easily/ask-kurt-how-activate-auto-reply-text-messages-iphone-android-easily.webp</image:loc>
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/tech/2023/08/23/san-jose-chamber-business-economy-ceo-downtown-real-estate-covid-tech/</loc>
+        <loc>https://majordigest.com/tech/2023/08/22/4165518-bankman-fried-subsisting-on-bread-water-and-peanut-butter-in-jail-lawyer/</loc>
         <news:news>
           <news:publication>
             <news:name>Major Digest</news:name>
             <news:language>en</news:language>
           </news:publication>
-          <news:publication_date>2023-08-23T18:40:13.000Z</news:publication_date>
-          <news:title>San Jose Chamber seeks third CEO in three years amid downtown slump</news:title>
+          <news:publication_date>2023-08-22T22:42:25.000Z</news:publication_date>
+          <news:title>Bankman-Fried subsisting on bread, water and peanut butter in jail: lawyer</news:title>
         </news:news>
         <image:image>
-          <image:loc>https://majordigest.com/tech/2023/08/23/san-jose-chamber-business-economy-ceo-downtown-real-estate-covid-tech/san-jose-chamber-business-economy-ceo-downtown-real-estate-covid-tech.webp</image:loc>
+          <image:loc>https://majordigest.com/tech/2023/08/22/4165518-bankman-fried-subsisting-on-bread-water-and-peanut-butter-in-jail-lawyer/4165518-bankman-fried-subsisting-on-bread-water-and-peanut-butter-in-jail-lawyer.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/tech/2023/08/23/4166506-faa-spending-millions-at-airports-to-fight-near-collisions/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-23T15:24:47.000Z</news:publication_date>
+          <news:title>FAA spending millions at airports to address near collisions</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/tech/2023/08/23/4166506-faa-spending-millions-at-airports-to-fight-near-collisions/4166506-faa-spending-millions-at-airports-to-fight-near-collisions.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/tech/2023/08/22/vegan-sam-bankman-fried-is-subsisting-only-on-bread-and-water-in-jail-his-attorneys-say/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-22T15:02:11.000Z</news:publication_date>
+          <news:title>Vegan Sam Bankman-Fried is subsisting only on bread and water in jail, his attorneys say</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/tech/2023/08/22/vegan-sam-bankman-fried-is-subsisting-only-on-bread-and-water-in-jail-his-attorneys-say/vegan-sam-bankman-fried-is-subsisting-only-on-bread-and-water-in-jail-his-attorneys-say.webp</image:loc>
         </image:image>
       </url></urlset>
