@@ -3,17 +3,31 @@
               xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
               xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
       <url>
-        <loc>https://majordigest.com/news/2023/08/24/4167113-ohio-court-system-trading-ankle-bracelets-for-smartwatches/</loc>
+        <loc>https://majordigest.com/news/2023/08/23/4166818-biden-administration-investing-up-to-24-million-for-cancer-fighting-mrna-tech/</loc>
         <news:news>
           <news:publication>
             <news:name>Major Digest</news:name>
             <news:language>en</news:language>
           </news:publication>
-          <news:publication_date>2023-08-24T10:55:58.000Z</news:publication_date>
-          <news:title>Ohio court system trading ankle bracelets for smartwatches</news:title>
+          <news:publication_date>2023-08-23T17:37:15.000Z</news:publication_date>
+          <news:title>Biden administration investing up to $24 million for cancer-fighting mRNA tech</news:title>
         </news:news>
         <image:image>
-          <image:loc>https://majordigest.com/news/2023/08/24/4167113-ohio-court-system-trading-ankle-bracelets-for-smartwatches/4167113-ohio-court-system-trading-ankle-bracelets-for-smartwatches.webp</image:loc>
+          <image:loc>https://majordigest.com/news/2023/08/23/4166818-biden-administration-investing-up-to-24-million-for-cancer-fighting-mrna-tech/4166818-biden-administration-investing-up-to-24-million-for-cancer-fighting-mrna-tech.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/news/2023/08/24/4168779-cnns-parent-company-to-launch-new-streaming-news-service/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-24T12:36:33.000Z</news:publication_date>
+          <news:title>CNN's parent company to relaunch streaming news service</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/news/2023/08/24/4168779-cnns-parent-company-to-launch-new-streaming-news-service/4168779-cnns-parent-company-to-launch-new-streaming-news-service.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -31,62 +45,6 @@
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/news/2023/08/22/4165518-bankman-fried-subsisting-on-bread-water-and-peanut-butter-in-jail-lawyer/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-22T22:42:25.000Z</news:publication_date>
-          <news:title>Bankman-Fried subsisting on bread, water and peanut butter in jail: lawyer</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/news/2023/08/22/4165518-bankman-fried-subsisting-on-bread-water-and-peanut-butter-in-jail-lawyer/4165518-bankman-fried-subsisting-on-bread-water-and-peanut-butter-in-jail-lawyer.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/news/2023/08/23/4167496-over-half-of-american-workers-say-theyd-consider-quitting-without-flexible-work-options-study/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-23T21:42:14.000Z</news:publication_date>
-          <news:title>Post-pandemic, many American workers say they'd consider quitting without flexible work options: study</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/news/2023/08/23/4167496-over-half-of-american-workers-say-theyd-consider-quitting-without-flexible-work-options-study/4167496-over-half-of-american-workers-say-theyd-consider-quitting-without-flexible-work-options-study.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/news/2023/08/25/i-will-not-resign-spanish-fa-chief-on-kiss-row-in-fifa-womens-world-cup-final-4329376/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-25T12:21:56.000Z</news:publication_date>
-          <news:title>"I Will Not Resign": Spanish FA Chief On 'Kiss' Row In Women's WC Final</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/news/2023/08/25/i-will-not-resign-spanish-fa-chief-on-kiss-row-in-fifa-womens-world-cup-final-4329376/i-will-not-resign-spanish-fa-chief-on-kiss-row-in-fifa-womens-world-cup-final-4329376.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/news/2023/08/25/moises-caicedo-is-one-of-the-best-midfielders-in-the-premier-league-chelsea-manager-mauricio-pochettino-4328310/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-25T10:55:24.000Z</news:publication_date>
-          <news:title>"Caicedo One Of The Best Midfielders In Premier League": Pochettino</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/news/2023/08/25/moises-caicedo-is-one-of-the-best-midfielders-in-the-premier-league-chelsea-manager-mauricio-pochettino-4328310/moises-caicedo-is-one-of-the-best-midfielders-in-the-premier-league-chelsea-manager-mauricio-pochettino-4328310.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
         <loc>https://majordigest.com/news/2023/08/25/indian-womens-hockey-team-starts-5s-wc-qualifier-with-a-7-2-win-over-malaysia-4329324/</loc>
         <news:news>
           <news:publication>
@@ -98,5 +56,19 @@
         </news:news>
         <image:image>
           <image:loc>https://majordigest.com/news/2023/08/25/indian-womens-hockey-team-starts-5s-wc-qualifier-with-a-7-2-win-over-malaysia-4329324/indian-womens-hockey-team-starts-5s-wc-qualifier-with-a-7-2-win-over-malaysia-4329324.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/news/2023/08/25/aitana-bonmati-olga-carmona-and-sam-kerr-shortlisted-for-uefa-womens-player-of-year-4329590/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-25T13:06:41.000Z</news:publication_date>
+          <news:title>Bonmati, Carmona And Kerr Shortlisted For UEFA Women's Player Of Year</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/news/2023/08/25/aitana-bonmati-olga-carmona-and-sam-kerr-shortlisted-for-uefa-womens-player-of-year-4329590/aitana-bonmati-olga-carmona-and-sam-kerr-shortlisted-for-uefa-womens-player-of-year-4329590.webp</image:loc>
         </image:image>
       </url></urlset>
