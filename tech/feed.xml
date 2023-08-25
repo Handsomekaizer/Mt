@@ -7,7 +7,7 @@
         <title>Major Digest - Reliable and Comprehensive News Sources: tech</title>
         <description>Get the latest news online at Major Digest, the top online news resource for the most reliable news sources. Stay informed about the world around you!</description>
         <link>https://majordigest.com/?utm_medium=RSS</link>
-        <lastBuildDate>Fri, 25 Aug 2023 15:32:20 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 25 Aug 2023 16:21:29 GMT</lastBuildDate>
         <generator>https://majordigest.com/?v=1.1.4</generator>
         <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/" />
         <atom:link rel="self" href="https://majordigest.com/tech/feed.xml" type="application/rss+xml" />
@@ -19,90 +19,68 @@
           <link>https://majordigest.com/?utm_medium=RSS</link>
         </image>
       <item>
-        <title>Trump returns to Twitter, under its new moniker X</title>
-        <description><![CDATA[Former President Trump on Thursday posted on X, the platform formerly known as Twitter, for the first time since January 2021 to share an image of his mug shot following his surrender in Fulton County, Ga., on Thursday evening.]]></description>
-        <guid>https://majordigest.com/tech/2023/08/25/4170610-trump-returns-to-twitter-under-its-new-moniker-x/</guid>
-        <link>https://majordigest.com/tech/2023/08/25/4170610-trump-returns-to-twitter-under-its-new-moniker-x/</link>
-        <pubDate>Fri, 25 Aug 2023 01:48:38 +0000</pubDate>
+        <title>CNN's parent company to relaunch streaming news service</title>
+        <description><![CDATA[Warner Bros. Discovery, the parent company of CNN, says it has plans to launch a new 24-hour streaming news service just more than a year after shuttering CNN+.]]></description>
+        <guid>https://majordigest.com/tech/2023/08/24/4168779-cnns-parent-company-to-launch-new-streaming-news-service/</guid>
+        <link>https://majordigest.com/tech/2023/08/24/4168779-cnns-parent-company-to-launch-new-streaming-news-service/</link>
+        <pubDate>Thu, 24 Aug 2023 12:36:33 +0000</pubDate>
         <category>tech</category>
-        <media:content medium="image" url="https://majordigest.com/tech/2023/08/25/4170610-trump-returns-to-twitter-under-its-new-moniker-x/4170610-trump-returns-to-twitter-under-its-new-moniker-x.webp"/>
-        <media:thumbnail url="https://majordigest.com/tech/2023/08/25/4170610-trump-returns-to-twitter-under-its-new-moniker-x/4170610-trump-returns-to-twitter-under-its-new-moniker-x.webp"/>
-        <dc:creator>Brett Samuels, The Hill</dc:creator>
+        <media:content medium="image" url="https://majordigest.com/tech/2023/08/24/4168779-cnns-parent-company-to-launch-new-streaming-news-service/4168779-cnns-parent-company-to-launch-new-streaming-news-service.webp"/>
+        <media:thumbnail url="https://majordigest.com/tech/2023/08/24/4168779-cnns-parent-company-to-launch-new-streaming-news-service/4168779-cnns-parent-company-to-launch-new-streaming-news-service.webp"/>
+        <dc:creator>Dominick Mastrangelo, The Hill</dc:creator>
       </item>
       <item>
-        <title>Replacing your phone&#8217;s battery &#8211; is it worth it or time for a new phone?&#8239;</title>
-        <description><![CDATA[Not sure if you should buy a new phone battery or a new phone altogether? Here are some steps you can take to check your battery&apos;s health to determine whether you should repair or upgrade.]]></description>
-        <guid>https://majordigest.com/tech/2023/08/25/replacing-your-phone-battery-worth-time-new-phone/</guid>
-        <link>https://majordigest.com/tech/2023/08/25/replacing-your-phone-battery-worth-time-new-phone/</link>
-        <pubDate>Fri, 25 Aug 2023 11:09:05 EDT</pubDate>
+        <title>Proposed crypto tax rules draw ire from industry groups</title>
+        <description><![CDATA[New rules proposed by the Biden administration on Friday would require cryptocurrency brokers to report information on digital asset sales and exchanges to the Internal Revenue Service (IRS) and taxpayers.]]></description>
+        <guid>https://majordigest.com/tech/2023/08/25/4171232-proposed-crypto-tax-rules-draw-ire-from-industry-groups/</guid>
+        <link>https://majordigest.com/tech/2023/08/25/4171232-proposed-crypto-tax-rules-draw-ire-from-industry-groups/</link>
+        <pubDate>Fri, 25 Aug 2023 15:32:44 +0000</pubDate>
         <category>tech</category>
-        <media:content medium="image" url="https://majordigest.com/tech/2023/08/25/replacing-your-phone-battery-worth-time-new-phone/replacing-your-phone-battery-worth-time-new-phone.webp"/>
-        <media:thumbnail url="https://majordigest.com/tech/2023/08/25/replacing-your-phone-battery-worth-time-new-phone/replacing-your-phone-battery-worth-time-new-phone.webp"/>
+        <media:content medium="image" url="https://majordigest.com/tech/2023/08/25/4171232-proposed-crypto-tax-rules-draw-ire-from-industry-groups/4171232-proposed-crypto-tax-rules-draw-ire-from-industry-groups.webp"/>
+        <media:thumbnail url="https://majordigest.com/tech/2023/08/25/4171232-proposed-crypto-tax-rules-draw-ire-from-industry-groups/4171232-proposed-crypto-tax-rules-draw-ire-from-industry-groups.webp"/>
+        <dc:creator>Taylor Giorno, The Hill</dc:creator>
+      </item>
+      <item>
+        <title>DOJ files lawsuit against SpaceX for hiring discrimination against refugees, asylees</title>
+        <description><![CDATA[The Department of Justice (DOJ) filed a lawsuit Thursday against SpaceX, Elon Musk’s space company, alleging the company discriminated against refugees and asylees during the hiring process.]]></description>
+        <guid>https://majordigest.com/tech/2023/08/24/4169669-doj-files-lawsuit-against-spacex-for-hiring-discrimination-against-refugees-asylees/</guid>
+        <link>https://majordigest.com/tech/2023/08/24/4169669-doj-files-lawsuit-against-spacex-for-hiring-discrimination-against-refugees-asylees/</link>
+        <pubDate>Thu, 24 Aug 2023 18:03:56 +0000</pubDate>
+        <category>tech</category>
+        <media:content medium="image" url="https://majordigest.com/tech/2023/08/24/4169669-doj-files-lawsuit-against-spacex-for-hiring-discrimination-against-refugees-asylees/4169669-doj-files-lawsuit-against-spacex-for-hiring-discrimination-against-refugees-asylees.webp"/>
+        <media:thumbnail url="https://majordigest.com/tech/2023/08/24/4169669-doj-files-lawsuit-against-spacex-for-hiring-discrimination-against-refugees-asylees/4169669-doj-files-lawsuit-against-spacex-for-hiring-discrimination-against-refugees-asylees.webp"/>
+        <dc:creator>Sarah Fortinsky, The Hill</dc:creator>
+      </item>
+      <item>
+        <title>Don't fall for that deceptive email asking for your help</title>
+        <description><![CDATA[Hackers are using phishing email scams to try and steal your information. Kurt &quot;CyberGuy&quot; Knutsson explains how it works and what you can do to secure your tech.]]></description>
+        <guid>https://majordigest.com/tech/2023/08/24/fall-deceptive-email-asking-help/</guid>
+        <link>https://majordigest.com/tech/2023/08/24/fall-deceptive-email-asking-help/</link>
+        <pubDate>Thu, 24 Aug 2023 12:38:45 EDT</pubDate>
+        <category>tech</category>
+        <media:content medium="image" url="https://majordigest.com/tech/2023/08/24/fall-deceptive-email-asking-help/fall-deceptive-email-asking-help.webp"/>
+        <media:thumbnail url="https://majordigest.com/tech/2023/08/24/fall-deceptive-email-asking-help/fall-deceptive-email-asking-help.webp"/>
         <dc:creator>Fox News</dc:creator>
       </item>
       <item>
-        <title>Editorial: CPUC incompetence lets autotaxis dangerously run amok</title>
-        <description><![CDATA[Regulator of Cruise and Waymo admitted it didn't have sufficient safety data before critical vote to expand service.]]></description>
-        <guid>https://majordigest.com/tech/2023/08/23/editorial-puc-fails-to-keep-californians-safe-from-autonomous-vehicles/</guid>
-        <link>https://majordigest.com/tech/2023/08/23/editorial-puc-fails-to-keep-californians-safe-from-autonomous-vehicles/</link>
-        <pubDate>Wed, 23 Aug 2023 12:30:55 +0000</pubDate>
+        <title>Uber raises minimum age for most California drivers to 25, saying insurance costs are too high</title>
+        <description><![CDATA[The new rule applies only to drivers signing up to transport passengers with Uber’s ride-hailing platform, and not for those delivering food with Uber Eats. Previously drivers as young as 19 could sign up.]]></description>
+        <guid>https://majordigest.com/tech/2023/08/24/uber-raises-minimum-age-for-most-california-drivers-to-25-saying-insurance-costs-are-too-high/</guid>
+        <link>https://majordigest.com/tech/2023/08/24/uber-raises-minimum-age-for-most-california-drivers-to-25-saying-insurance-costs-are-too-high/</link>
+        <pubDate>Thu, 24 Aug 2023 14:21:06 +0000</pubDate>
         <category>tech</category>
-        <media:content medium="image" url="https://majordigest.com/tech/2023/08/23/editorial-puc-fails-to-keep-californians-safe-from-autonomous-vehicles/editorial-puc-fails-to-keep-californians-safe-from-autonomous-vehicles.webp"/>
-        <media:thumbnail url="https://majordigest.com/tech/2023/08/23/editorial-puc-fails-to-keep-californians-safe-from-autonomous-vehicles/editorial-puc-fails-to-keep-californians-safe-from-autonomous-vehicles.webp"/>
-        <dc:creator>Mercury News &amp; East Bay Times Editorial Boards, The Mercury News</dc:creator>
+        <media:content medium="image" url="https://majordigest.com/tech/2023/08/24/uber-raises-minimum-age-for-most-california-drivers-to-25-saying-insurance-costs-are-too-high/uber-raises-minimum-age-for-most-california-drivers-to-25-saying-insurance-costs-are-too-high.webp"/>
+        <media:thumbnail url="https://majordigest.com/tech/2023/08/24/uber-raises-minimum-age-for-most-california-drivers-to-25-saying-insurance-costs-are-too-high/uber-raises-minimum-age-for-most-california-drivers-to-25-saying-insurance-costs-are-too-high.webp"/>
+        <dc:creator>Associated Press, The Mercury News</dc:creator>
       </item>
       <item>
-        <title>Fox News AI Newsletter: Teachers go back to school with AI amid cheating concerns</title>
-        <description><![CDATA[Stay up to date on the latest AI technology advancements and learn about the challenges and opportunities AI presents now and for the future.]]></description>
-        <guid>https://majordigest.com/tech/2023/08/23/fox-news-ai-newsletter-teachers-go-back-school-ai-cheating-concerns/</guid>
-        <link>https://majordigest.com/tech/2023/08/23/fox-news-ai-newsletter-teachers-go-back-school-ai-cheating-concerns/</link>
-        <pubDate>Wed, 23 Aug 2023 10:03:55 EDT</pubDate>
+        <title>Biden administration investing up to $24 million for cancer-fighting mRNA tech</title>
+        <description><![CDATA[The Biden administration's new biomedical research agency said Wednesday it is investing up to $24 million to develop mRNA platforms that can train the immune system to more effectively fight cancer and other diseases. The research will be led by a team at Emory University in Atlanta.]]></description>
+        <guid>https://majordigest.com/tech/2023/08/23/4166818-biden-administration-investing-up-to-24-million-for-cancer-fighting-mrna-tech/</guid>
+        <link>https://majordigest.com/tech/2023/08/23/4166818-biden-administration-investing-up-to-24-million-for-cancer-fighting-mrna-tech/</link>
+        <pubDate>Wed, 23 Aug 2023 17:37:15 +0000</pubDate>
         <category>tech</category>
-        <media:content medium="image" url="https://majordigest.com/tech/2023/08/23/fox-news-ai-newsletter-teachers-go-back-school-ai-cheating-concerns/fox-news-ai-newsletter-teachers-go-back-school-ai-cheating-concerns.webp"/>
-        <media:thumbnail url="https://majordigest.com/tech/2023/08/23/fox-news-ai-newsletter-teachers-go-back-school-ai-cheating-concerns/fox-news-ai-newsletter-teachers-go-back-school-ai-cheating-concerns.webp"/>
-        <dc:creator>Fox News</dc:creator>
-      </item>
-      <item>
-        <title>AI to binge LAPD bodycam footage to weed out rude tone, aggressive language</title>
-        <description><![CDATA[Researchers at USC will leverage artificial intelligence to examine Los Angeles Police Department bodycam footage and determine if officer language escalates traffic stops.]]></description>
-        <guid>https://majordigest.com/tech/2023/08/24/ai-binge-lapd-bodycam-footage-weed-rude-tone-aggressive-language/</guid>
-        <link>https://majordigest.com/tech/2023/08/24/ai-binge-lapd-bodycam-footage-weed-rude-tone-aggressive-language/</link>
-        <pubDate>Thu, 24 Aug 2023 02:00:01 EDT</pubDate>
-        <category>tech</category>
-        <media:content medium="image" url="https://majordigest.com/tech/2023/08/24/ai-binge-lapd-bodycam-footage-weed-rude-tone-aggressive-language/ai-binge-lapd-bodycam-footage-weed-rude-tone-aggressive-language.webp"/>
-        <media:thumbnail url="https://majordigest.com/tech/2023/08/24/ai-binge-lapd-bodycam-footage-weed-rude-tone-aggressive-language/ai-binge-lapd-bodycam-footage-weed-rude-tone-aggressive-language.webp"/>
-        <dc:creator>Fox News</dc:creator>
-      </item>
-      <item>
-        <title>San Jose Chamber seeks third CEO in three years amid downtown slump</title>
-        <description><![CDATA[The San Jose Chamber of Commerce is about to scout for its third leader in three years -- just as the downtown seeks to escape a "doom loop.]]></description>
-        <guid>https://majordigest.com/tech/2023/08/23/san-jose-chamber-business-economy-ceo-downtown-real-estate-covid-tech/</guid>
-        <link>https://majordigest.com/tech/2023/08/23/san-jose-chamber-business-economy-ceo-downtown-real-estate-covid-tech/</link>
-        <pubDate>Wed, 23 Aug 2023 18:40:13 +0000</pubDate>
-        <category>tech</category>
-        <media:content medium="image" url="https://majordigest.com/tech/2023/08/23/san-jose-chamber-business-economy-ceo-downtown-real-estate-covid-tech/san-jose-chamber-business-economy-ceo-downtown-real-estate-covid-tech.webp"/>
-        <media:thumbnail url="https://majordigest.com/tech/2023/08/23/san-jose-chamber-business-economy-ceo-downtown-real-estate-covid-tech/san-jose-chamber-business-economy-ceo-downtown-real-estate-covid-tech.webp"/>
-        <dc:creator>George Avalos, The Mercury News</dc:creator>
-      </item>
-      <item>
-        <title>Samsung Fold 5: Versatile, but with compromises</title>
-        <description><![CDATA[The Samsung Galaxy Z Fold 5 is multiple devices in one - a phone and a tablet. But if you want to join the flip side, it's not going to be cheap, and there are some compromises. It's hard not to appreciate what Samsung is doing with the Galaxy Z Fold 5.]]></description>
-        <guid>https://majordigest.com/tech/2023/08/23/samsung-fold-5-versatile-but-with-compromises/</guid>
-        <link>https://majordigest.com/tech/2023/08/23/samsung-fold-5-versatile-but-with-compromises/</link>
-        <pubDate>Wed, 23 Aug 2023 12:17:56 +0000</pubDate>
-        <category>tech</category>
-        <media:content medium="image" url="https://majordigest.com/tech/2023/08/23/samsung-fold-5-versatile-but-with-compromises/samsung-fold-5-versatile-but-with-compromises.webp"/>
-        <media:thumbnail url="https://majordigest.com/tech/2023/08/23/samsung-fold-5-versatile-but-with-compromises/samsung-fold-5-versatile-but-with-compromises.webp"/>
-        <dc:creator>Rich DeMuro, KTLA 5</dc:creator>
-      </item>
-      <item>
-        <title>Medical professionals utilizing AI to judge narcotics prescriptions: report</title>
-        <description><![CDATA[Medical professionals are turning to artificial intelligence models to produce addiction risk assessments for the prescription of opioids.]]></description>
-        <guid>https://majordigest.com/tech/2023/08/23/medical-professionals-utilizing-ai-judge-narcotics-prescriptions-report/</guid>
-        <link>https://majordigest.com/tech/2023/08/23/medical-professionals-utilizing-ai-judge-narcotics-prescriptions-report/</link>
-        <pubDate>Wed, 23 Aug 2023 13:07:41 EDT</pubDate>
-        <category>tech</category>
-        <media:content medium="image" url="https://majordigest.com/tech/2023/08/23/medical-professionals-utilizing-ai-judge-narcotics-prescriptions-report/medical-professionals-utilizing-ai-judge-narcotics-prescriptions-report.webp"/>
-        <media:thumbnail url="https://majordigest.com/tech/2023/08/23/medical-professionals-utilizing-ai-judge-narcotics-prescriptions-report/medical-professionals-utilizing-ai-judge-narcotics-prescriptions-report.webp"/>
-        <dc:creator>Fox News</dc:creator>
+        <media:content medium="image" url="https://majordigest.com/tech/2023/08/23/4166818-biden-administration-investing-up-to-24-million-for-cancer-fighting-mrna-tech/4166818-biden-administration-investing-up-to-24-million-for-cancer-fighting-mrna-tech.webp"/>
+        <media:thumbnail url="https://majordigest.com/tech/2023/08/23/4166818-biden-administration-investing-up-to-24-million-for-cancer-fighting-mrna-tech/4166818-biden-administration-investing-up-to-24-million-for-cancer-fighting-mrna-tech.webp"/>
+        <dc:creator>Nathaniel Weixel, The Hill</dc:creator>
       </item></channel></rss>

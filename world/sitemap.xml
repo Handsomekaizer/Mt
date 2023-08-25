@@ -3,20 +3,6 @@
               xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
               xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
       <url>
-        <loc>https://majordigest.com/world/2023/08/24/4170430-biden-zelensky-talk-training-ukrainian-fighter-pilots-on-f-16s-to-mark-18-months-since-russian-invasion/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-24T23:50:43.000Z</news:publication_date>
-          <news:title>Biden, Zelensky talk training Ukrainian fighter pilots on F-16s to mark 18 months since Russian invasion</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/world/2023/08/24/4170430-biden-zelensky-talk-training-ukrainian-fighter-pilots-on-f-16s-to-mark-18-months-since-russian-invasion/4170430-biden-zelensky-talk-training-ukrainian-fighter-pilots-on-f-16s-to-mark-18-months-since-russian-invasion.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
         <loc>https://majordigest.com/world/2023/08/24/4169412-these-six-countries-were-added-to-the-brics-bloc/</loc>
         <news:news>
           <news:publication>
@@ -31,31 +17,73 @@
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/world/2023/08/25/millions-children-pakistan-still-need-support-following-last-years-catastrophic-floods-un-says/</loc>
+        <loc>https://majordigest.com/world/2023/08/25/panama-launch-new-plan-curb-massive-flow-migrants-crossing-through-dangerous-jungle/</loc>
         <news:news>
           <news:publication>
             <news:name>Major Digest</news:name>
             <news:language>en</news:language>
           </news:publication>
-          <news:publication_date>2023-08-25T14:23:59.000Z</news:publication_date>
-          <news:title>Millions of children in Pakistan still in need of support following last year&#8217;s catastrophic floods, UN says</news:title>
+          <news:publication_date>2023-08-25T14:40:47.000Z</news:publication_date>
+          <news:title>Panama to launch new plan to curb massive flow of migrants crossing through dangerous jungle</news:title>
         </news:news>
         <image:image>
-          <image:loc>https://majordigest.com/world/2023/08/25/millions-children-pakistan-still-need-support-following-last-years-catastrophic-floods-un-says/millions-children-pakistan-still-need-support-following-last-years-catastrophic-floods-un-says.webp</image:loc>
+          <image:loc>https://majordigest.com/world/2023/08/25/panama-launch-new-plan-curb-massive-flow-migrants-crossing-through-dangerous-jungle/panama-launch-new-plan-curb-massive-flow-migrants-crossing-through-dangerous-jungle.webp</image:loc>
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/world/2023/08/25/taiwans-vice-president-accuses-china-attempting-influence-countrys-upcoming-election/</loc>
+        <loc>https://majordigest.com/world/2023/08/24/4169608-europe-faces-decapitated-wagner-group-with-caution-questions/</loc>
         <news:news>
           <news:publication>
             <news:name>Major Digest</news:name>
             <news:language>en</news:language>
           </news:publication>
-          <news:publication_date>2023-08-25T15:19:54.000Z</news:publication_date>
-          <news:title>Taiwan's vice president accuses China of attempting to influence the country's upcoming election</news:title>
+          <news:publication_date>2023-08-24T17:36:10.000Z</news:publication_date>
+          <news:title>Europe faces &#8216;decapitated&#8217; Wagner Group with caution, questions</news:title>
         </news:news>
         <image:image>
-          <image:loc>https://majordigest.com/world/2023/08/25/taiwans-vice-president-accuses-china-attempting-influence-countrys-upcoming-election/taiwans-vice-president-accuses-china-attempting-influence-countrys-upcoming-election.webp</image:loc>
+          <image:loc>https://majordigest.com/world/2023/08/24/4169608-europe-faces-decapitated-wagner-group-with-caution-questions/4169608-europe-faces-decapitated-wagner-group-with-caution-questions.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/world/2023/08/24/4170150-prigozhins-fate-a-warning-shot-for-putins-critics/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-24T22:11:09.000Z</news:publication_date>
+          <news:title>Prigozhin's fate a warning shot for Putin's critics</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/world/2023/08/24/4170150-prigozhins-fate-a-warning-shot-for-putins-critics/4170150-prigozhins-fate-a-warning-shot-for-putins-critics.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/world/2023/08/25/4171039-presumed-prigozhin-death-could-destabilize-wagner-uk/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-25T14:43:10.000Z</news:publication_date>
+          <news:title>Presumed Prigozhin death could destabilize Wagner: UK</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/world/2023/08/25/4171039-presumed-prigozhin-death-could-destabilize-wagner-uk/4171039-presumed-prigozhin-death-could-destabilize-wagner-uk.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/world/2023/08/25/uk-investigates-88-deaths-linked-canadian-site-allegedly-offered-lethal-products-suicidal-people/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-25T12:56:33.000Z</news:publication_date>
+          <news:title>UK investigates 88 deaths linked to Canadian site that allegedly offered lethal products to suicidal people</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/world/2023/08/25/uk-investigates-88-deaths-linked-canadian-site-allegedly-offered-lethal-products-suicidal-people/uk-investigates-88-deaths-linked-canadian-site-allegedly-offered-lethal-products-suicidal-people.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -73,16 +101,30 @@
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/world/2023/08/25/pakistani-prime-minister-honors-rescuers-who-saved-6-children-2-adults-broken-cable-car/</loc>
+        <loc>https://majordigest.com/world/2023/08/25/drug-cartels-return-western-mexico-extort-lime-farmers-following-vigilante-uprising-10-years-ago/</loc>
         <news:news>
           <news:publication>
             <news:name>Major Digest</news:name>
             <news:language>en</news:language>
           </news:publication>
-          <news:publication_date>2023-08-25T11:41:21.000Z</news:publication_date>
-          <news:title>Pakistani prime minister honors rescuers who saved 6 children, 2 adults from broken cable car</news:title>
+          <news:publication_date>2023-08-25T15:00:20.000Z</news:publication_date>
+          <news:title>Drug cartels return to western Mexico to extort lime farmers following a vigilante uprising 10 years ago</news:title>
         </news:news>
         <image:image>
-          <image:loc>https://majordigest.com/world/2023/08/25/pakistani-prime-minister-honors-rescuers-who-saved-6-children-2-adults-broken-cable-car/pakistani-prime-minister-honors-rescuers-who-saved-6-children-2-adults-broken-cable-car.webp</image:loc>
+          <image:loc>https://majordigest.com/world/2023/08/25/drug-cartels-return-western-mexico-extort-lime-farmers-following-vigilante-uprising-10-years-ago/drug-cartels-return-western-mexico-extort-lime-farmers-following-vigilante-uprising-10-years-ago.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/world/2023/08/25/4171029-us-to-train-ukrainian-pilots-on-f-16s-this-october-in-arizona/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-25T13:30:07.000Z</news:publication_date>
+          <news:title>US to train Ukrainian pilots on F-16s this October in Arizona</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/world/2023/08/25/4171029-us-to-train-ukrainian-pilots-on-f-16s-this-october-in-arizona/4171029-us-to-train-ukrainian-pilots-on-f-16s-this-october-in-arizona.webp</image:loc>
         </image:image>
       </url></urlset>
