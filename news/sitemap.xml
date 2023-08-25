@@ -3,34 +3,6 @@
               xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
               xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
       <url>
-        <loc>https://majordigest.com/news/2023/08/25/pakistans-shadab-khan-left-stunned-as-afghanistan-star-runs-him-out-at-non-strikers-end-watch-4327404/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-25T03:23:59.000Z</news:publication_date>
-          <news:title>Watch: Shadab Stunned As Afghan Star Runs Him Out At Non-Striker's End</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/news/2023/08/25/pakistans-shadab-khan-left-stunned-as-afghanistan-star-runs-him-out-at-non-strikers-end-watch-4327404/pakistans-shadab-khan-left-stunned-as-afghanistan-star-runs-him-out-at-non-strikers-end-watch-4327404.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/news/2023/08/24/mastercard-binance-end-crypto-card-programmes-argentina-brazil-columbia-bahrain-september-22-4327288/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-24T18:01:59.000Z</news:publication_date>
-          <news:title>Mastercard, Binance to End Crypto Card Programmes in Four Countries</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/news/2023/08/24/mastercard-binance-end-crypto-card-programmes-argentina-brazil-columbia-bahrain-september-22-4327288/mastercard-binance-end-crypto-card-programmes-argentina-brazil-columbia-bahrain-september-22-4327288.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
         <loc>https://majordigest.com/news/2023/08/23/4167496-over-half-of-american-workers-say-theyd-consider-quitting-without-flexible-work-options-study/</loc>
         <news:news>
           <news:publication>
@@ -42,47 +14,5 @@
         </news:news>
         <image:image>
           <image:loc>https://majordigest.com/news/2023/08/23/4167496-over-half-of-american-workers-say-theyd-consider-quitting-without-flexible-work-options-study/4167496-over-half-of-american-workers-say-theyd-consider-quitting-without-flexible-work-options-study.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/news/2023/08/24/warner-bros-discovery-launch-cnn-max-news-streaming-service-us-september-28-4326642/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-24T15:01:38.000Z</news:publication_date>
-          <news:title>Warner Bros Discovery to Launch CNN Max News Streaming Service in US on September 28</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/news/2023/08/24/warner-bros-discovery-launch-cnn-max-news-streaming-service-us-september-28-4326642/warner-bros-discovery-launch-cnn-max-news-streaming-service-us-september-28-4326642.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/news/2023/08/23/4165162-youtube-under-fire-over-handling-of-ads-on-childrens-content/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-23T10:00:00.000Z</news:publication_date>
-          <news:title>YouTube under fire over handling of ads on children&#8217;s content&#160;</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/news/2023/08/23/4165162-youtube-under-fire-over-handling-of-ads-on-childrens-content/4165162-youtube-under-fire-over-handling-of-ads-on-childrens-content.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/news/2023/08/24/4169686-t-mobile-laying-off-5000-employees/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-24T18:19:08.000Z</news:publication_date>
-          <news:title>T-Mobile laying off 5,000 employees</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/news/2023/08/24/4169686-t-mobile-laying-off-5000-employees/4169686-t-mobile-laying-off-5000-employees.webp</image:loc>
         </image:image>
       </url></urlset>
