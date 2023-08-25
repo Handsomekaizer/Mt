@@ -3,6 +3,20 @@
               xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
               xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
       <url>
+        <loc>https://majordigest.com/politics/2023/08/25/donald-trump-makes-first-post-on-x-over-two-years-after-being-booked-into-jail/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-25T02:16:43.000Z</news:publication_date>
+          <news:title>Donald Trump makes first post on X in over two years after being booked into jail</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/politics/2023/08/25/donald-trump-makes-first-post-on-x-over-two-years-after-being-booked-into-jail/donald-trump-makes-first-post-on-x-over-two-years-after-being-booked-into-jail.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
         <loc>https://majordigest.com/politics/2023/08/25/nra-digs-history-push-back-kamala-harris-claim-assault-ban/</loc>
         <news:news>
           <news:publication>
@@ -14,48 +28,6 @@
         </news:news>
         <image:image>
           <image:loc>https://majordigest.com/politics/2023/08/25/nra-digs-history-push-back-kamala-harris-claim-assault-ban/nra-digs-history-push-back-kamala-harris-claim-assault-ban.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/politics/2023/08/25/donald-trump-mugshot-released-georgia-booking-first-ever-former-us-president/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-25T00:52:34.000Z</news:publication_date>
-          <news:title>Donald Trump mug shot released after Georgia booking, first ever for a former US president</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/politics/2023/08/25/donald-trump-mugshot-released-georgia-booking-first-ever-former-us-president/donald-trump-mugshot-released-georgia-booking-first-ever-former-us-president.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/politics/2023/08/25/democrats-celebrate-biden-fundraises-trump-arrest/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-25T02:05:37.000Z</news:publication_date>
-          <news:title>Democrats celebrate, Biden fundraises off Trump arrest</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/politics/2023/08/25/democrats-celebrate-biden-fundraises-trump-arrest/democrats-celebrate-biden-fundraises-trump-arrest.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/politics/2023/08/25/trump-mug-shot-released-to-public/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-25T01:10:41.000Z</news:publication_date>
-          <news:title>What to know about Trump's mug shot</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/politics/2023/08/25/trump-mug-shot-released-to-public/trump-mug-shot-released-to-public.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -73,17 +45,73 @@
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/politics/2023/08/25/maryland-court-parents-cant-opt-kids-lgbtq-curriculum-fundamental-right/</loc>
+        <loc>https://majordigest.com/politics/2023/08/25/co-defendant-georgia-trump-indictment/</loc>
         <news:news>
           <news:publication>
             <news:name>Major Digest</news:name>
             <news:language>en</news:language>
           </news:publication>
-          <news:publication_date>2023-08-25T10:53:31.000Z</news:publication_date>
-          <news:title>Maryland Court says parents can't opt kids out of LGBTQ+ curriculum: 'Not a fundamental right'</news:title>
+          <news:publication_date>2023-08-25T00:52:06.000Z</news:publication_date>
+          <news:title>Co-defendant in Georgia says false electors met at Trump&#8217;s &#8216;direction&#8217;</news:title>
         </news:news>
         <image:image>
-          <image:loc>https://majordigest.com/politics/2023/08/25/maryland-court-parents-cant-opt-kids-lgbtq-curriculum-fundamental-right/maryland-court-parents-cant-opt-kids-lgbtq-curriculum-fundamental-right.webp</image:loc>
+          <image:loc>https://majordigest.com/politics/2023/08/25/co-defendant-georgia-trump-indictment/co-defendant-georgia-trump-indictment.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/politics/2023/08/25/trump-says-taking-mugshot-was-not-comfortable-feeling-when-done-nothing-wrong/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-25T01:55:39.000Z</news:publication_date>
+          <news:title>Trump says taking mug shot was 'not a comfortable feeling, especially when you've done nothing wrong'</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/politics/2023/08/25/trump-says-taking-mugshot-was-not-comfortable-feeling-when-done-nothing-wrong/trump-says-taking-mugshot-was-not-comfortable-feeling-when-done-nothing-wrong.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/politics/2023/08/25/tennessee-lawmakers-hit-impasse-special-session-sparked-nashville-school-shooting/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-25T11:38:26.000Z</news:publication_date>
+          <news:title>Tennessee lawmakers hit impasse during special session sparked by Nashville school shooting</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/politics/2023/08/25/tennessee-lawmakers-hit-impasse-special-session-sparked-nashville-school-shooting/tennessee-lawmakers-hit-impasse-special-session-sparked-nashville-school-shooting.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/politics/2023/08/25/tiktok-influencers-campaigns-bowman/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-25T08:30:00.000Z</news:publication_date>
+          <news:title>Will Politicians Ban Their Best Way of Reaching Young Voters?</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/politics/2023/08/25/tiktok-influencers-campaigns-bowman/tiktok-influencers-campaigns-bowman.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/politics/2023/08/25/trumps-booking-height-weight-sets-social-media-ablaze/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-25T00:37:45.000Z</news:publication_date>
+          <news:title>Trump's booking height and weight sets social media ablaze: 'Wait, what?'</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/politics/2023/08/25/trumps-booking-height-weight-sets-social-media-ablaze/trumps-booking-height-weight-sets-social-media-ablaze.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -98,5 +126,33 @@
         </news:news>
         <image:image>
           <image:loc>https://majordigest.com/politics/2023/08/25/from-old-to-youngkin-mixed-motives-drive-the-gop-alternatives-to-trump/from-old-to-youngkin-mixed-motives-drive-the-gop-alternatives-to-trump.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/politics/2023/08/25/ipsos-poll-trump-indictment/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-25T09:00:00.000Z</news:publication_date>
+          <news:title>Lock Him Up? A New Poll Has Some Bad News for Trump</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/politics/2023/08/25/ipsos-poll-trump-indictment/ipsos-poll-trump-indictment.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/politics/2023/08/25/ramaswamys-claims-came-no-money-clash-prep-school-upbringing/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-25T10:50:20.000Z</news:publication_date>
+          <news:title>Ramaswamy's claims he came from 'no money' clash with prep school upbringing</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/politics/2023/08/25/ramaswamys-claims-came-no-money-clash-prep-school-upbringing/ramaswamys-claims-came-no-money-clash-prep-school-upbringing.webp</image:loc>
         </image:image>
       </url></urlset>
