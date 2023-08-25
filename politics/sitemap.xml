@@ -3,101 +3,31 @@
               xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
               xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
       <url>
-        <loc>https://majordigest.com/politics/2023/08/24/georgia-election-case-mugshots/</loc>
+        <loc>https://majordigest.com/politics/2023/08/25/trump-mug-shot-released-to-public/</loc>
         <news:news>
           <news:publication>
             <news:name>Major Digest</news:name>
             <news:language>en</news:language>
           </news:publication>
-          <news:publication_date>2023-08-24T19:13:37.000Z</news:publication_date>
-          <news:title>Photos: Trump, Georgia co-defendants turn themselves in</news:title>
+          <news:publication_date>2023-08-25T01:10:41.000Z</news:publication_date>
+          <news:title>What to know about Trump's mug shot</news:title>
         </news:news>
         <image:image>
-          <image:loc>https://majordigest.com/politics/2023/08/24/georgia-election-case-mugshots/georgia-election-case-mugshots.webp</image:loc>
+          <image:loc>https://majordigest.com/politics/2023/08/25/trump-mug-shot-released-to-public/trump-mug-shot-released-to-public.webp</image:loc>
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/politics/2023/08/25/trump-and-all-18-others-charged-in-georgia-election-case-meet-the-deadline-to-surrender-at-jail/</loc>
+        <loc>https://majordigest.com/politics/2023/08/25/biden-and-harris-will-meet-with-the-king-family-on-the-60th-anniversary-of-the-march-on-washington/</loc>
         <news:news>
           <news:publication>
             <news:name>Major Digest</news:name>
             <news:language>en</news:language>
           </news:publication>
-          <news:publication_date>2023-08-25T16:08:21.000Z</news:publication_date>
-          <news:title>Trump and all 18 others charged in Georgia election case meet the deadline to surrender at jail</news:title>
+          <news:publication_date>2023-08-25T10:13:52.000Z</news:publication_date>
+          <news:title>Biden and Harris will meet with the King family on the 60th anniversary of the March on Washington</news:title>
         </news:news>
         <image:image>
-          <image:loc>https://majordigest.com/politics/2023/08/25/trump-and-all-18-others-charged-in-georgia-election-case-meet-the-deadline-to-surrender-at-jail/trump-and-all-18-others-charged-in-georgia-election-case-meet-the-deadline-to-surrender-at-jail.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/politics/2023/08/23/rudy-giuliani-surrenders-in-georgia-to-face-election-interference-charges/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-23T19:47:00.000Z</news:publication_date>
-          <news:title>Rudy Giuliani surrenders in Georgia to face election interference charges</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/politics/2023/08/23/rudy-giuliani-surrenders-in-georgia-to-face-election-interference-charges/rudy-giuliani-surrenders-in-georgia-to-face-election-interference-charges.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/politics/2023/08/24/npr-republican-debate-candidates-trump-pence-ramaswamy-haley-christie-milwaukee-2024/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-24T09:00:00.000Z</news:publication_date>
-          <news:title>5 takeaways from the first Republican primary debate</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/politics/2023/08/24/npr-republican-debate-candidates-trump-pence-ramaswamy-haley-christie-milwaukee-2024/npr-republican-debate-candidates-trump-pence-ramaswamy-haley-christie-milwaukee-2024.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/politics/2023/08/25/co-defendant-georgia-trump-indictment/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-25T00:52:06.000Z</news:publication_date>
-          <news:title>Co-defendant in Georgia says false electors met at Trump&#8217;s &#8216;direction&#8217;</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/politics/2023/08/25/co-defendant-georgia-trump-indictment/co-defendant-georgia-trump-indictment.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/politics/2023/08/25/hawaiian-business-goes-viral-sign-slamming-bidens-kitchen-fire-comments-not-always-about-you/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-25T14:56:33.000Z</news:publication_date>
-          <news:title>Hawaiian business goes viral for sign slamming Biden's kitchen fire comments: 'not always about you'</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/politics/2023/08/25/hawaiian-business-goes-viral-sign-slamming-bidens-kitchen-fire-comments-not-always-about-you/hawaiian-business-goes-viral-sign-slamming-bidens-kitchen-fire-comments-not-always-about-you.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/politics/2023/08/25/one-north-carolina-supreme-courts-2-democrats-announces-plans-step-down/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-25T16:00:29.000Z</news:publication_date>
-          <news:title>One of North Carolina Supreme Court&#8217;s 2 Democrats announces plans to step down</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/politics/2023/08/25/one-north-carolina-supreme-courts-2-democrats-announces-plans-step-down/one-north-carolina-supreme-courts-2-democrats-announces-plans-step-down.webp</image:loc>
+          <image:loc>https://majordigest.com/politics/2023/08/25/biden-and-harris-will-meet-with-the-king-family-on-the-60th-anniversary-of-the-march-on-washington/biden-and-harris-will-meet-with-the-king-family-on-the-60th-anniversary-of-the-march-on-washington.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -115,17 +45,101 @@
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/politics/2023/08/25/ap-election-brief-what-to-expect-in-mississippis-runoff-primaries/</loc>
+        <loc>https://majordigest.com/politics/2023/08/24/npr-planning-for-extreme-heat-climate/</loc>
         <news:news>
           <news:publication>
             <news:name>Major Digest</news:name>
             <news:language>en</news:language>
           </news:publication>
-          <news:publication_date>2023-08-25T10:35:11.000Z</news:publication_date>
-          <news:title>AP Election Brief | What to expect in Mississippi's runoff primaries</news:title>
+          <news:publication_date>2023-08-24T09:00:00.000Z</news:publication_date>
+          <news:title>This summer has been a scorcher. DHS wants communities to plan for more of them</news:title>
         </news:news>
         <image:image>
-          <image:loc>https://majordigest.com/politics/2023/08/25/ap-election-brief-what-to-expect-in-mississippis-runoff-primaries/ap-election-brief-what-to-expect-in-mississippis-runoff-primaries.webp</image:loc>
+          <image:loc>https://majordigest.com/politics/2023/08/24/npr-planning-for-extreme-heat-climate/npr-planning-for-extreme-heat-climate.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/politics/2023/08/25/how-the-house-gop-made-headway-on-its-2024-recruitment-crisis/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-25T14:04:50.000Z</news:publication_date>
+          <news:title>How the House GOP made headway on its 2024 recruitment crisis</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/politics/2023/08/25/how-the-house-gop-made-headway-on-its-2024-recruitment-crisis/how-the-house-gop-made-headway-on-its-2024-recruitment-crisis.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/politics/2023/08/25/freedom-caucus-lawmaker-warns-trump-tell-supporters-stand-down/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-25T14:07:37.000Z</news:publication_date>
+          <news:title>Freedom caucus lawmaker warns Trump: Tell supporters to 'stand down'</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/politics/2023/08/25/freedom-caucus-lawmaker-warns-trump-tell-supporters-stand-down/freedom-caucus-lawmaker-warns-trump-tell-supporters-stand-down.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/politics/2023/08/25/texas-trial-over-biden-policy-letting-migrants-from-4-countries-into-us-to-wrap-up-friday/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-25T11:13:19.000Z</news:publication_date>
+          <news:title>Texas trial over Biden policy letting migrants from 4 countries into US to wrap up Friday</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/politics/2023/08/25/texas-trial-over-biden-policy-letting-migrants-from-4-countries-into-us-to-wrap-up-friday/texas-trial-over-biden-policy-letting-migrants-from-4-countries-into-us-to-wrap-up-friday.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/politics/2023/08/25/biden-blasted-for-fundraising-as-trump-arrested-in-georgia-spikes-the-football/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-25T14:47:31.000Z</news:publication_date>
+          <news:title>Biden blasted for fundraising as Trump arrested in Georgia: 'Spikes the football'</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/politics/2023/08/25/biden-blasted-for-fundraising-as-trump-arrested-in-georgia-spikes-the-football/biden-blasted-for-fundraising-as-trump-arrested-in-georgia-spikes-the-football.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/politics/2023/08/25/co-defendant-georgia-trump-indictment/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-25T00:52:06.000Z</news:publication_date>
+          <news:title>Co-defendant in Georgia says false electors met at Trump&#8217;s &#8216;direction&#8217;</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/politics/2023/08/25/co-defendant-georgia-trump-indictment/co-defendant-georgia-trump-indictment.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/politics/2023/08/25/south-carolina-abortion-ban-with-unclear-fetal-heartbeat-definition-creates-confusion-doctors-say/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-25T04:22:20.000Z</news:publication_date>
+          <news:title>South Carolina abortion ban with unclear 'fetal heartbeat' definition creates confusion, doctors say</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/politics/2023/08/25/south-carolina-abortion-ban-with-unclear-fetal-heartbeat-definition-creates-confusion-doctors-say/south-carolina-abortion-ban-with-unclear-fetal-heartbeat-definition-creates-confusion-doctors-say.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -143,44 +157,16 @@
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/politics/2023/08/25/democrats-accuse-tax-prep-firms-of-undermining-new-irs-effort-on-electronic-free-file-tax-returns/</loc>
+        <loc>https://majordigest.com/politics/2023/08/25/one-north-carolina-supreme-courts-2-democrats-announces-plans-step-down/</loc>
         <news:news>
           <news:publication>
             <news:name>Major Digest</news:name>
             <news:language>en</news:language>
           </news:publication>
-          <news:publication_date>2023-08-25T11:18:28.000Z</news:publication_date>
-          <news:title>Democrats accuse tax prep firms of undermining new IRS effort on electronic free file tax returns</news:title>
+          <news:publication_date>2023-08-25T16:00:29.000Z</news:publication_date>
+          <news:title>One of North Carolina Supreme Court&#8217;s 2 Democrats announces plans to step down</news:title>
         </news:news>
         <image:image>
-          <image:loc>https://majordigest.com/politics/2023/08/25/democrats-accuse-tax-prep-firms-of-undermining-new-irs-effort-on-electronic-free-file-tax-returns/democrats-accuse-tax-prep-firms-of-undermining-new-irs-effort-on-electronic-free-file-tax-returns.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/politics/2023/08/24/trump-arrives-at-atlanta-jail-to-surrender-on-charges/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-24T23:52:10.000Z</news:publication_date>
-          <news:title>Trump surrenders at Atlanta jail on election charges, then is quickly released on $200,000 bond</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/politics/2023/08/24/trump-arrives-at-atlanta-jail-to-surrender-on-charges/trump-arrives-at-atlanta-jail-to-surrender-on-charges.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/politics/2023/08/24/npr-planning-for-extreme-heat-climate/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-24T09:00:00.000Z</news:publication_date>
-          <news:title>This summer has been a scorcher. DHS wants communities to plan for more of them</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/politics/2023/08/24/npr-planning-for-extreme-heat-climate/npr-planning-for-extreme-heat-climate.webp</image:loc>
+          <image:loc>https://majordigest.com/politics/2023/08/25/one-north-carolina-supreme-courts-2-democrats-announces-plans-step-down/one-north-carolina-supreme-courts-2-democrats-announces-plans-step-down.webp</image:loc>
         </image:image>
       </url></urlset>
