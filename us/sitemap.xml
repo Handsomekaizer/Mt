@@ -3,45 +3,59 @@
               xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
               xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
       <url>
-        <loc>https://majordigest.com/us/2023/08/25/hawaii-releases-names-388-people-still-missing-maui-fire/</loc>
+        <loc>https://majordigest.com/us/2023/08/24/4168992-a-100-year-old-maui-home-is-still-standing-after-wildfires-devastated-every-other-house-in-the-area-why/</loc>
         <news:news>
           <news:publication>
             <news:name>Major Digest</news:name>
             <news:language>en</news:language>
           </news:publication>
-          <news:publication_date>2023-08-25T15:18:13.000Z</news:publication_date>
-          <news:title>Hawaii releases names of 388 people still missing from Maui fire</news:title>
+          <news:publication_date>2023-08-24T16:54:35.000Z</news:publication_date>
+          <news:title>A 100-year-old Maui home is still standing after wildfires devastated every other house in the area. Why?</news:title>
         </news:news>
         <image:image>
-          <image:loc>https://majordigest.com/us/2023/08/25/hawaii-releases-names-388-people-still-missing-maui-fire/hawaii-releases-names-388-people-still-missing-maui-fire.webp</image:loc>
+          <image:loc>https://majordigest.com/us/2023/08/24/4168992-a-100-year-old-maui-home-is-still-standing-after-wildfires-devastated-every-other-house-in-the-area-why/4168992-a-100-year-old-maui-home-is-still-standing-after-wildfires-devastated-every-other-house-in-the-area-why.webp</image:loc>
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/us/2023/08/25/kansas-city-fire-department-investigated-following-allegations-racial-discrimination/</loc>
+        <loc>https://majordigest.com/us/2023/08/25/a-michigan-storm-with-75-mph-winds-downs-trees-and-power-lines-several-people-are-killed/</loc>
         <news:news>
           <news:publication>
             <news:name>Major Digest</news:name>
             <news:language>en</news:language>
           </news:publication>
-          <news:publication_date>2023-08-25T14:16:57.000Z</news:publication_date>
-          <news:title>Kansas City fire department being investigated following allegations of racial discrimination</news:title>
+          <news:publication_date>2023-08-25T11:52:41.000Z</news:publication_date>
+          <news:title>Michigan storms with 75 mph winds down trees and power lines, five people killed</news:title>
         </news:news>
         <image:image>
-          <image:loc>https://majordigest.com/us/2023/08/25/kansas-city-fire-department-investigated-following-allegations-racial-discrimination/kansas-city-fire-department-investigated-following-allegations-racial-discrimination.webp</image:loc>
+          <image:loc>https://majordigest.com/us/2023/08/25/a-michigan-storm-with-75-mph-winds-downs-trees-and-power-lines-several-people-are-killed/a-michigan-storm-with-75-mph-winds-downs-trees-and-power-lines-several-people-are-killed.webp</image:loc>
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/us/2023/08/25/bryan-kohberger-secretly-alleges-24-flaws-idaho-murders-indictment-latest-motion-dismiss/</loc>
+        <loc>https://majordigest.com/us/2023/08/25/west-virginia-restrict-sale-abortion-pills-despite-federal-regulators/</loc>
         <news:news>
           <news:publication>
             <news:name>Major Digest</news:name>
             <news:language>en</news:language>
           </news:publication>
-          <news:publication_date>2023-08-25T14:16:42.000Z</news:publication_date>
-          <news:title>Bryan Kohberger secretly alleges 24 flaws in Idaho murders indictment in latest motion to dismiss</news:title>
+          <news:publication_date>2023-08-25T14:25:46.000Z</news:publication_date>
+          <news:title>West Virginia can restrict sale of abortion pills despite approval by federal regulators, according to judge</news:title>
         </news:news>
         <image:image>
-          <image:loc>https://majordigest.com/us/2023/08/25/bryan-kohberger-secretly-alleges-24-flaws-idaho-murders-indictment-latest-motion-dismiss/bryan-kohberger-secretly-alleges-24-flaws-idaho-murders-indictment-latest-motion-dismiss.webp</image:loc>
+          <image:loc>https://majordigest.com/us/2023/08/25/west-virginia-restrict-sale-abortion-pills-despite-federal-regulators/west-virginia-restrict-sale-abortion-pills-despite-federal-regulators.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/us/2023/08/25/around-650-texas-inmates-evacuated-fire-breaks-out-huntsville-prison/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-25T15:06:11.000Z</news:publication_date>
+          <news:title>Around 650 Texas inmates evacuated after fire breaks out at Huntsville prison</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/us/2023/08/25/around-650-texas-inmates-evacuated-fire-breaks-out-huntsville-prison/around-650-texas-inmates-evacuated-fire-breaks-out-huntsville-prison.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -70,5 +84,61 @@
         </news:news>
         <image:image>
           <image:loc>https://majordigest.com/us/2023/08/25/washington-authorizes-killing-2-wolves-after-pack-hunts-half-dozen-cattle/washington-authorizes-killing-2-wolves-after-pack-hunts-half-dozen-cattle.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/us/2023/08/25/14-migrants-boat-captain-detained-florida-ramming-sheriffs-office-vessel-police-say/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-25T16:24:55.000Z</news:publication_date>
+          <news:title>14 migrants, boat captain detained in Florida after ramming sheriff's office vessel, police say</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/us/2023/08/25/14-migrants-boat-captain-detained-florida-ramming-sheriffs-office-vessel-police-say/14-migrants-boat-captain-detained-florida-ramming-sheriffs-office-vessel-police-say.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/us/2023/08/25/texas-prosecutor-doesnt-plan-seek-death-penalty-suspected-serial-killer/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-25T15:28:19.000Z</news:publication_date>
+          <news:title>Texas prosecutor doesn't plan to seek death penalty for suspected serial killer</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/us/2023/08/25/texas-prosecutor-doesnt-plan-seek-death-penalty-suspected-serial-killer/texas-prosecutor-doesnt-plan-seek-death-penalty-suspected-serial-killer.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/us/2023/08/25/kansas-city-fire-department-investigated-following-allegations-racial-discrimination/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-25T14:16:57.000Z</news:publication_date>
+          <news:title>Kansas City fire department being investigated following allegations of racial discrimination</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/us/2023/08/25/kansas-city-fire-department-investigated-following-allegations-racial-discrimination/kansas-city-fire-department-investigated-following-allegations-racial-discrimination.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/us/2023/08/24/4169221-national-cinema-day-major-theater-chains-offering-4-tickets-for-1-day-only/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-24T16:40:31.000Z</news:publication_date>
+          <news:title>National Cinema Day: Major theater chains offering $4 tickets for 1 day only</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/us/2023/08/24/4169221-national-cinema-day-major-theater-chains-offering-4-tickets-for-1-day-only/4169221-national-cinema-day-major-theater-chains-offering-4-tickets-for-1-day-only.webp</image:loc>
         </image:image>
       </url></urlset>
