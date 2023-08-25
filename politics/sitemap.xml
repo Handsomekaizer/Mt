@@ -3,45 +3,31 @@
               xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
               xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
       <url>
-        <loc>https://majordigest.com/politics/2023/08/25/trump-says-taking-mugshot-was-not-comfortable-feeling-when-done-nothing-wrong/</loc>
+        <loc>https://majordigest.com/politics/2023/08/25/tiktok-influencers-campaigns-bowman/</loc>
         <news:news>
           <news:publication>
             <news:name>Major Digest</news:name>
             <news:language>en</news:language>
           </news:publication>
-          <news:publication_date>2023-08-25T01:55:39.000Z</news:publication_date>
-          <news:title>Trump says taking a mugshot was 'not a comfortable feeling, especially when you've done nothing wrong'</news:title>
+          <news:publication_date>2023-08-25T08:30:00.000Z</news:publication_date>
+          <news:title>Inside the TikTok Industrial Complex That Could Revolutionize Campaigns</news:title>
         </news:news>
         <image:image>
-          <image:loc>https://majordigest.com/politics/2023/08/25/trump-says-taking-mugshot-was-not-comfortable-feeling-when-done-nothing-wrong/trump-says-taking-mugshot-was-not-comfortable-feeling-when-done-nothing-wrong.webp</image:loc>
+          <image:loc>https://majordigest.com/politics/2023/08/25/tiktok-influencers-campaigns-bowman/tiktok-influencers-campaigns-bowman.webp</image:loc>
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/politics/2023/08/25/democrats-celebrate-biden-fundraises-trump-arrest/</loc>
+        <loc>https://majordigest.com/politics/2023/08/24/hunter-biden-seen-sneaking-out-business-vacationing-dad-lake-tahoe-amid-investigations/</loc>
         <news:news>
           <news:publication>
             <news:name>Major Digest</news:name>
             <news:language>en</news:language>
           </news:publication>
-          <news:publication_date>2023-08-25T02:05:37.000Z</news:publication_date>
-          <news:title>Democrats celebrate, Biden fundraises off Trump arrest</news:title>
+          <news:publication_date>2023-08-24T23:55:51.000Z</news:publication_date>
+          <news:title>Hunter Biden seen sneaking from business while vacationing with dad in Lake Tahoe amid investigations</news:title>
         </news:news>
         <image:image>
-          <image:loc>https://majordigest.com/politics/2023/08/25/democrats-celebrate-biden-fundraises-trump-arrest/democrats-celebrate-biden-fundraises-trump-arrest.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/politics/2023/08/25/from-old-to-youngkin-mixed-motives-drive-the-gop-alternatives-to-trump/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-25T09:00:00.000Z</news:publication_date>
-          <news:title>From Old to Youngkin: Mixed Motives Drive the GOP Alternatives to Trump</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/politics/2023/08/25/from-old-to-youngkin-mixed-motives-drive-the-gop-alternatives-to-trump/from-old-to-youngkin-mixed-motives-drive-the-gop-alternatives-to-trump.webp</image:loc>
+          <image:loc>https://majordigest.com/politics/2023/08/24/hunter-biden-seen-sneaking-out-business-vacationing-dad-lake-tahoe-amid-investigations/hunter-biden-seen-sneaking-out-business-vacationing-dad-lake-tahoe-amid-investigations.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -59,17 +45,101 @@
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/politics/2023/08/25/tiktok-influencers-campaigns-bowman/</loc>
+        <loc>https://majordigest.com/politics/2023/08/25/donald-trump-mugshot-released-georgia-booking-first-ever-former-us-president/</loc>
         <news:news>
           <news:publication>
             <news:name>Major Digest</news:name>
             <news:language>en</news:language>
           </news:publication>
-          <news:publication_date>2023-08-25T08:30:00.000Z</news:publication_date>
-          <news:title>Inside the TikTok Industrial Complex That Could Revolutionize Campaigns</news:title>
+          <news:publication_date>2023-08-25T00:52:34.000Z</news:publication_date>
+          <news:title>Donald Trump mugshot released after Georgia booking, first ever for a former US president</news:title>
         </news:news>
         <image:image>
-          <image:loc>https://majordigest.com/politics/2023/08/25/tiktok-influencers-campaigns-bowman/tiktok-influencers-campaigns-bowman.webp</image:loc>
+          <image:loc>https://majordigest.com/politics/2023/08/25/donald-trump-mugshot-released-georgia-booking-first-ever-former-us-president/donald-trump-mugshot-released-georgia-booking-first-ever-former-us-president.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/politics/2023/08/25/democrats-celebrate-biden-fundraises-trump-arrest/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-25T02:05:37.000Z</news:publication_date>
+          <news:title>Democrats celebrate, Biden fundraises off Trump arrest</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/politics/2023/08/25/democrats-celebrate-biden-fundraises-trump-arrest/democrats-celebrate-biden-fundraises-trump-arrest.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/politics/2023/08/25/co-defendant-georgia-trump-indictment/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-25T00:52:06.000Z</news:publication_date>
+          <news:title>Co-defendant in Georgia says false electors met at Trump&#8217;s &#8216;direction&#8217;</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/politics/2023/08/25/co-defendant-georgia-trump-indictment/co-defendant-georgia-trump-indictment.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/politics/2023/08/25/trump-says-taking-mugshot-was-not-comfortable-feeling-when-done-nothing-wrong/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-25T01:55:39.000Z</news:publication_date>
+          <news:title>Trump says taking a mugshot was 'not a comfortable feeling, especially when you've done nothing wrong'</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/politics/2023/08/25/trump-says-taking-mugshot-was-not-comfortable-feeling-when-done-nothing-wrong/trump-says-taking-mugshot-was-not-comfortable-feeling-when-done-nothing-wrong.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/politics/2023/08/25/maryland-court-parents-cant-opt-kids-lgbtq-curriculum-fundamental-right/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-25T10:53:31.000Z</news:publication_date>
+          <news:title>Maryland Court says parents can't opt kids out of LGBTQ+ curriculum: 'Not a fundamental right'</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/politics/2023/08/25/maryland-court-parents-cant-opt-kids-lgbtq-curriculum-fundamental-right/maryland-court-parents-cant-opt-kids-lgbtq-curriculum-fundamental-right.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/politics/2023/08/24/prigozhin-death-strengthens-vladimir-putin-russia/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-24T22:15:23.000Z</news:publication_date>
+          <news:title>U.S., Europe officials: Prigozhin&#8217;s death strengthens Putin, for now</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/politics/2023/08/24/prigozhin-death-strengthens-vladimir-putin-russia/prigozhin-death-strengthens-vladimir-putin-russia.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/politics/2023/08/25/ipsos-poll-trump-indictment/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-25T09:00:00.000Z</news:publication_date>
+          <news:title>Lock Him Up? A New Poll Has Some Bad News for Trump</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/politics/2023/08/25/ipsos-poll-trump-indictment/ipsos-poll-trump-indictment.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -87,58 +157,16 @@
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/politics/2023/08/25/conservatives-unload-trump-booked-georgia-jail-4th-indictment-sickening/</loc>
+        <loc>https://majordigest.com/politics/2023/08/25/ramaswamys-claims-came-no-money-clash-prep-school-upbringing/</loc>
         <news:news>
           <news:publication>
             <news:name>Major Digest</news:name>
             <news:language>en</news:language>
           </news:publication>
-          <news:publication_date>2023-08-25T01:25:56.000Z</news:publication_date>
-          <news:title>Conservatives unload after Trump booked into Georgia jail in 4th indictment: 'Sickening'</news:title>
+          <news:publication_date>2023-08-25T10:50:20.000Z</news:publication_date>
+          <news:title>Ramaswamy's claims he came from 'no money' clash with prep school upbringing</news:title>
         </news:news>
         <image:image>
-          <image:loc>https://majordigest.com/politics/2023/08/25/conservatives-unload-trump-booked-georgia-jail-4th-indictment-sickening/conservatives-unload-trump-booked-georgia-jail-4th-indictment-sickening.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/politics/2023/08/25/trumps-booking-height-weight-sets-social-media-ablaze/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-25T00:37:45.000Z</news:publication_date>
-          <news:title>Trump's booking height and weight sets social media ablaze: 'Wait, what?'</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/politics/2023/08/25/trumps-booking-height-weight-sets-social-media-ablaze/trumps-booking-height-weight-sets-social-media-ablaze.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/politics/2023/08/24/gop-voters-say-desantis-delivered-best-performance-in-first-primary-debate-poll/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-24T23:29:55.000Z</news:publication_date>
-          <news:title>GOP voters say DeSantis delivered best performance in first primary debate: poll</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/politics/2023/08/24/gop-voters-say-desantis-delivered-best-performance-in-first-primary-debate-poll/gop-voters-say-desantis-delivered-best-performance-in-first-primary-debate-poll.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/politics/2023/08/25/donald-trump-makes-first-post-on-x-over-two-years-after-being-booked-into-jail/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-25T02:16:43.000Z</news:publication_date>
-          <news:title>Donald Trump makes first post on X in over two years after being booked into jail</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/politics/2023/08/25/donald-trump-makes-first-post-on-x-over-two-years-after-being-booked-into-jail/donald-trump-makes-first-post-on-x-over-two-years-after-being-booked-into-jail.webp</image:loc>
+          <image:loc>https://majordigest.com/politics/2023/08/25/ramaswamys-claims-came-no-money-clash-prep-school-upbringing/ramaswamys-claims-came-no-money-clash-prep-school-upbringing.webp</image:loc>
         </image:image>
       </url></urlset>
