@@ -3,17 +3,31 @@
               xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
               xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
       <url>
-        <loc>https://majordigest.com/world/2023/08/25/vivek-ramaswamy-raises-over-450-000-in-one-hour-after-republican-debate-4327816/</loc>
+        <loc>https://majordigest.com/world/2023/08/24/united-kingdom-man-dies-countrys-largest-outdoor-water-park-causing-one-day-closure/</loc>
         <news:news>
           <news:publication>
             <news:name>Major Digest</news:name>
             <news:language>en</news:language>
           </news:publication>
-          <news:publication_date>2023-08-25T04:17:08.000Z</news:publication_date>
-          <news:title>Vivek Ramaswamy Raises Over $450,000 In One Hour After Republican Debate</news:title>
+          <news:publication_date>2023-08-24T22:55:59.000Z</news:publication_date>
+          <news:title>United Kingdom man, 40, dies at country's largest outdoor water park, causing one-day closure</news:title>
         </news:news>
         <image:image>
-          <image:loc>https://majordigest.com/world/2023/08/25/vivek-ramaswamy-raises-over-450-000-in-one-hour-after-republican-debate-4327816/vivek-ramaswamy-raises-over-450-000-in-one-hour-after-republican-debate-4327816.webp</image:loc>
+          <image:loc>https://majordigest.com/world/2023/08/24/united-kingdom-man-dies-countrys-largest-outdoor-water-park-causing-one-day-closure/united-kingdom-man-dies-countrys-largest-outdoor-water-park-causing-one-day-closure.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/world/2023/08/24/bolsonaro-leaves-sao-paulo-hospital-routine-exams/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-24T22:31:29.000Z</news:publication_date>
+          <news:title>Bolsonaro leaves S&#227;o Paulo hospital after routine exams</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/world/2023/08/24/bolsonaro-leaves-sao-paulo-hospital-routine-exams/bolsonaro-leaves-sao-paulo-hospital-routine-exams.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -31,17 +45,59 @@
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/world/2023/08/25/never-surrender-after-jail-mugshot-trumps-first-post-on-x-in-2-years-4327784/</loc>
+        <loc>https://majordigest.com/world/2023/08/25/next-level-elon-musk-on-donald-trump-sharing-his-mugshot-on-social-media-4327880/</loc>
         <news:news>
           <news:publication>
             <news:name>Major Digest</news:name>
             <news:language>en</news:language>
           </news:publication>
-          <news:publication_date>2023-08-25T03:53:05.000Z</news:publication_date>
-          <news:title>"Never Surrender": After Jail Mugshot, Trump's First Post On X In 2 Years</news:title>
+          <news:publication_date>2023-08-25T04:50:49.000Z</news:publication_date>
+          <news:title>"Next-Level": Elon Musk On Donald Trump Sharing His Mugshot On Social Media</news:title>
         </news:news>
         <image:image>
-          <image:loc>https://majordigest.com/world/2023/08/25/never-surrender-after-jail-mugshot-trumps-first-post-on-x-in-2-years-4327784/never-surrender-after-jail-mugshot-trumps-first-post-on-x-in-2-years-4327784.webp</image:loc>
+          <image:loc>https://majordigest.com/world/2023/08/25/next-level-elon-musk-on-donald-trump-sharing-his-mugshot-on-social-media-4327880/next-level-elon-musk-on-donald-trump-sharing-his-mugshot-on-social-media-4327880.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/world/2023/08/24/legionnaires-disease-outbreak-claims-5-lives-rzeszow-poland/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-24T22:35:02.000Z</news:publication_date>
+          <news:title>Legionnaires' disease outbreak claims 5 lives in Rzeszow, Poland</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/world/2023/08/24/legionnaires-disease-outbreak-claims-5-lives-rzeszow-poland/legionnaires-disease-outbreak-claims-5-lives-rzeszow-poland.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/world/2023/08/25/russias-infamous-general-armageddon-fired-move-could-be-putin-ruse-expert/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-25T08:00:06.000Z</news:publication_date>
+          <news:title>Russia's infamous 'General Armageddon' fired, but move could be Putin ruse: expert</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/world/2023/08/25/russias-infamous-general-armageddon-fired-move-could-be-putin-ruse-expert/russias-infamous-general-armageddon-fired-move-could-be-putin-ruse-expert.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/world/2023/08/25/as-pm-modi-lands-in-athens-indians-in-greece-line-up-outside-his-hotel-4327874/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-25T04:47:44.000Z</news:publication_date>
+          <news:title>As PM Modi Lands In Athens, Indians In Greece Line Up Outside His Hotel</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/world/2023/08/25/as-pm-modi-lands-in-athens-indians-in-greece-line-up-outside-his-hotel-4327874/as-pm-modi-lands-in-athens-indians-in-greece-line-up-outside-his-hotel-4327874.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -59,34 +115,6 @@
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/world/2023/08/24/canadian-government-plans-framework-news-negotiations-tech-giants-early-2025/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-24T22:40:01.000Z</news:publication_date>
-          <news:title>Canadian government plans framework for news negotiations with tech giants by early 2025</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/world/2023/08/24/canadian-government-plans-framework-news-negotiations-tech-giants-early-2025/canadian-government-plans-framework-news-negotiations-tech-giants-early-2025.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/world/2023/08/24/brazils-president-lula-stresses-geopolitical-significance-brics-expansion-decision/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-24T20:10:32.000Z</news:publication_date>
-          <news:title>Brazil's President Lula stresses geopolitical significance in BRICS expansion decision</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/world/2023/08/24/brazils-president-lula-stresses-geopolitical-significance-brics-expansion-decision/brazils-president-lula-stresses-geopolitical-significance-brics-expansion-decision.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
         <loc>https://majordigest.com/world/2023/08/25/spanish-artist-pablo-picassos-son-dies-at-the-age-of-76-4327939/</loc>
         <news:news>
           <news:publication>
@@ -101,16 +129,44 @@
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/world/2023/08/24/united-kingdom-man-dies-countrys-largest-outdoor-water-park-causing-one-day-closure/</loc>
+        <loc>https://majordigest.com/world/2023/08/25/moon-sniper-slim-jaxa-japan-delays-moon-sniper-mission-launch-to-august-27-due-to-bad-weather-4328031/</loc>
         <news:news>
           <news:publication>
             <news:name>Major Digest</news:name>
             <news:language>en</news:language>
           </news:publication>
-          <news:publication_date>2023-08-24T22:55:59.000Z</news:publication_date>
-          <news:title>United Kingdom man, 40, dies at country's largest outdoor water park, causing one-day closure</news:title>
+          <news:publication_date>2023-08-25T06:07:49.000Z</news:publication_date>
+          <news:title>Japan Delays "Moon Sniper" Mission Launch To August 27 Due To Bad Weather</news:title>
         </news:news>
         <image:image>
-          <image:loc>https://majordigest.com/world/2023/08/24/united-kingdom-man-dies-countrys-largest-outdoor-water-park-causing-one-day-closure/united-kingdom-man-dies-countrys-largest-outdoor-water-park-causing-one-day-closure.webp</image:loc>
+          <image:loc>https://majordigest.com/world/2023/08/25/moon-sniper-slim-jaxa-japan-delays-moon-sniper-mission-launch-to-august-27-due-to-bad-weather-4328031/moon-sniper-slim-jaxa-japan-delays-moon-sniper-mission-launch-to-august-27-due-to-bad-weather-4328031.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/world/2023/08/25/never-surrender-donald-trump-campaign-starts-selling-t-shirts-with-us-ex-presidents-mug-shot-4327767/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-25T03:41:11.000Z</news:publication_date>
+          <news:title>Donald Trump Campaign Starts Selling T-Shirts With Ex-President's Mug Shot</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/world/2023/08/25/never-surrender-donald-trump-campaign-starts-selling-t-shirts-with-us-ex-presidents-mug-shot-4327767/never-surrender-donald-trump-campaign-starts-selling-t-shirts-with-us-ex-presidents-mug-shot-4327767.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/world/2023/08/24/indian-immunologicals-aims-launch-dengue-vaccine-early-2026-amid-escalating-threat/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-24T22:37:22.000Z</news:publication_date>
+          <news:title>Indian Immunologicals aims to launch dengue vaccine by early 2026 amid escalating threat</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/world/2023/08/24/indian-immunologicals-aims-launch-dengue-vaccine-early-2026-amid-escalating-threat/indian-immunologicals-aims-launch-dengue-vaccine-early-2026-amid-escalating-threat.webp</image:loc>
         </image:image>
       </url></urlset>

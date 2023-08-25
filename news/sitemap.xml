@@ -3,16 +3,44 @@
               xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
               xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
       <url>
-        <loc>https://majordigest.com/news/2023/08/23/4167496-over-half-of-american-workers-say-theyd-consider-quitting-without-flexible-work-options-study/</loc>
+        <loc>https://majordigest.com/news/2023/08/25/infinix-zero-30-5g-india-launch-pre-orders-september-2-launch-specifications-4328107/</loc>
         <news:news>
           <news:publication>
             <news:name>Major Digest</news:name>
             <news:language>en</news:language>
           </news:publication>
-          <news:publication_date>2023-08-23T21:42:14.000Z</news:publication_date>
-          <news:title>Post-pandemic, many American workers say they'd consider quitting without flexible work options: study</news:title>
+          <news:publication_date>2023-08-25T07:34:16.000Z</news:publication_date>
+          <news:title>Infinix Zero 30 5G Pre-Orders to Start in India on September 2; Key Specifications Revealed</news:title>
         </news:news>
         <image:image>
-          <image:loc>https://majordigest.com/news/2023/08/23/4167496-over-half-of-american-workers-say-theyd-consider-quitting-without-flexible-work-options-study/4167496-over-half-of-american-workers-say-theyd-consider-quitting-without-flexible-work-options-study.webp</image:loc>
+          <image:loc>https://majordigest.com/news/2023/08/25/infinix-zero-30-5g-india-launch-pre-orders-september-2-launch-specifications-4328107/infinix-zero-30-5g-india-launch-pre-orders-september-2-launch-specifications-4328107.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/news/2023/08/25/virat-kohli-craze-hits-bengaluru-police-have-tough-time-controlling-fans-watch-4327018/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-25T05:58:32.000Z</news:publication_date>
+          <news:title>Watch: Virat Kohli Craze Hits Bengaluru, Even Police Can't Keep Calm</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/news/2023/08/25/virat-kohli-craze-hits-bengaluru-police-have-tough-time-controlling-fans-watch-4327018/virat-kohli-craze-hits-bengaluru-police-have-tough-time-controlling-fans-watch-4327018.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/news/2023/08/22/4165518-bankman-fried-subsisting-on-bread-water-and-peanut-butter-in-jail-lawyer/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-22T22:42:25.000Z</news:publication_date>
+          <news:title>Bankman-Fried subsisting on bread, water and peanut butter in jail: lawyer</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/news/2023/08/22/4165518-bankman-fried-subsisting-on-bread-water-and-peanut-butter-in-jail-lawyer/4165518-bankman-fried-subsisting-on-bread-water-and-peanut-butter-in-jail-lawyer.webp</image:loc>
         </image:image>
       </url></urlset>
