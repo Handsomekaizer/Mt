@@ -7,7 +7,7 @@
         <title>Major Digest - Reliable and Comprehensive News Sources: news</title>
         <description>Get the latest news online at Major Digest, the top online news resource for the most reliable news sources. Stay informed about the world around you!</description>
         <link>https://majordigest.com/?utm_medium=RSS</link>
-        <lastBuildDate>Fri, 25 Aug 2023 20:17:13 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 25 Aug 2023 21:15:03 GMT</lastBuildDate>
         <generator>https://majordigest.com/?v=1.1.4</generator>
         <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/" />
         <atom:link rel="self" href="https://majordigest.com/news/feed.xml" type="application/rss+xml" />
@@ -18,6 +18,17 @@
           <url>https://majordigest.com/assets/icons/logo-512x512.png</url>
           <link>https://majordigest.com/?utm_medium=RSS</link>
         </image>
+      <item>
+        <title>Thousands of veterans' disability claims delayed, some for years</title>
+        <description><![CDATA[About 32,000 veterans have had disability claims submitted through the Veterans Affairs website delayed because of a technical issue.]]></description>
+        <guid>https://majordigest.com/news/2023/08/25/thousands-of-veterans-disability-claims-delayed-some-for-years/</guid>
+        <link>https://majordigest.com/news/2023/08/25/thousands-of-veterans-disability-claims-delayed-some-for-years/</link>
+        <pubDate>Fri, 25 Aug 2023 19:14:07 +0000</pubDate>
+        <category>news</category>
+        <media:content medium="image" url="https://majordigest.com/news/2023/08/25/thousands-of-veterans-disability-claims-delayed-some-for-years/thousands-of-veterans-disability-claims-delayed-some-for-years.webp"/>
+        <media:thumbnail url="https://majordigest.com/news/2023/08/25/thousands-of-veterans-disability-claims-delayed-some-for-years/thousands-of-veterans-disability-claims-delayed-some-for-years.webp"/>
+        <dc:creator>Cassie Buchman, kron4</dc:creator>
+      </item>
       <item>
         <title>Texas trial over Biden policy letting migrants from 4 countries into US to wrap up Friday</title>
         <description><![CDATA[The U.S. Justice Department is making its final pitch to a federal judge to keep a key element of U.S. President Joe Biden’s immigration policy.]]></description>
@@ -30,136 +41,169 @@
         <dc:creator>Juan A. Lozano, Associated Press, click2houston</dc:creator>
       </item>
       <item>
-        <title>GOP support for gun restrictions slips a year after Congress passed firearms law</title>
-        <description><![CDATA[WASHINGTON (AP) — Republican support for gun restrictions is slipping a year after Congress passed the most comprehensive firearms control legislation in decades with bipartisan support, according to a poll from The Associated Press-NORC Center for Public Affairs Research.]]></description>
-        <guid>https://majordigest.com/news/2023/08/25/ap-gop-support-for-gun-restrictions-slips-a-year-after-congress-passed-firearms-law/</guid>
-        <link>https://majordigest.com/news/2023/08/25/ap-gop-support-for-gun-restrictions-slips-a-year-after-congress-passed-firearms-law/</link>
-        <pubDate>Fri, 25 Aug 2023 04:30:56 +0000</pubDate>
+        <title>State lawmaker injured during legislative softball game in Sacramento</title>
+        <description><![CDATA[(FOX40.COM) — A California legislator ended up in the hospital after getting injured during a softball game with his fellow lawmakers.]]></description>
+        <guid>https://majordigest.com/news/2023/08/22/state-lawmaker-injured-during-legislative-softball-game-in-sacramento/</guid>
+        <link>https://majordigest.com/news/2023/08/22/state-lawmaker-injured-during-legislative-softball-game-in-sacramento/</link>
+        <pubDate>Tue, 22 Aug 2023 23:09:29 +0000</pubDate>
         <category>news</category>
-        <media:content medium="image" url="https://majordigest.com/news/2023/08/25/ap-gop-support-for-gun-restrictions-slips-a-year-after-congress-passed-firearms-law/ap-gop-support-for-gun-restrictions-slips-a-year-after-congress-passed-firearms-law.webp"/>
-        <media:thumbnail url="https://majordigest.com/news/2023/08/25/ap-gop-support-for-gun-restrictions-slips-a-year-after-congress-passed-firearms-law/ap-gop-support-for-gun-restrictions-slips-a-year-after-congress-passed-firearms-law.webp"/>
-        <dc:creator>COLLEEN LONG and LINLEY SANDERS, Associated Press, kget</dc:creator>
+        <media:content medium="image" url="https://majordigest.com/news/2023/08/22/state-lawmaker-injured-during-legislative-softball-game-in-sacramento/state-lawmaker-injured-during-legislative-softball-game-in-sacramento.webp"/>
+        <media:thumbnail url="https://majordigest.com/news/2023/08/22/state-lawmaker-injured-during-legislative-softball-game-in-sacramento/state-lawmaker-injured-during-legislative-softball-game-in-sacramento.webp"/>
+        <dc:creator>Sergio Robles, fox5sandiego</dc:creator>
       </item>
       <item>
-        <title>Spirit Airlines agrees to $8.25M settlement over 'gotcha' bag fees</title>
-        <description><![CDATA[Spirit Airlines agreed to pay $8.25 million to settle a class-action lawsuit over its bag fees, attorneys for the plaintiffs disclosed Wednesday.]]></description>
-        <guid>https://majordigest.com/news/2023/08/25/spirit-airlines-agrees-to-8-25m-settlement-over-gotcha-bag-fees/</guid>
-        <link>https://majordigest.com/news/2023/08/25/spirit-airlines-agrees-to-8-25m-settlement-over-gotcha-bag-fees/</link>
-        <pubDate>Fri, 25 Aug 2023 18:01:47 +0000</pubDate>
+        <title>Retired police sergeant who killed 3 at California bar shot his estranged wife first, officials say</title>
+        <description><![CDATA[TRABUCO CANYON, Calif. (AP) — The retired police sergeant who opened fire during a lively Wednesday evening at a popular Southern California biker bar had traveled from Ohio to confront his estranged wife, shooting her in the face before turning his gun on the crowd, authorities said.]]></description>
+        <guid>https://majordigest.com/news/2023/08/25/ap-authorities-say-multiple-people-believed-shot-at-california-bar/</guid>
+        <link>https://majordigest.com/news/2023/08/25/ap-authorities-say-multiple-people-believed-shot-at-california-bar/</link>
+        <pubDate>Fri, 25 Aug 2023 21:08:20 +0000</pubDate>
         <category>news</category>
-        <media:content medium="image" url="https://majordigest.com/news/2023/08/25/spirit-airlines-agrees-to-8-25m-settlement-over-gotcha-bag-fees/spirit-airlines-agrees-to-8-25m-settlement-over-gotcha-bag-fees.webp"/>
-        <media:thumbnail url="https://majordigest.com/news/2023/08/25/spirit-airlines-agrees-to-8-25m-settlement-over-gotcha-bag-fees/spirit-airlines-agrees-to-8-25m-settlement-over-gotcha-bag-fees.webp"/>
-        <dc:creator>Nick Robertson, kron4</dc:creator>
+        <media:content medium="image" url="https://majordigest.com/news/2023/08/25/ap-authorities-say-multiple-people-believed-shot-at-california-bar/ap-authorities-say-multiple-people-believed-shot-at-california-bar.webp"/>
+        <media:thumbnail url="https://majordigest.com/news/2023/08/25/ap-authorities-say-multiple-people-believed-shot-at-california-bar/ap-authorities-say-multiple-people-believed-shot-at-california-bar.webp"/>
+        <dc:creator>EUGENE GARCIA, AMY TAXIN and JOHN ANTCZAK, Associated Press, westernslopenow</dc:creator>
       </item>
       <item>
-        <title>At least 59 officers on leave after Pittsburgh shootout</title>
-        <description><![CDATA[(NewsNation) — More than 50 officers in Pittsburgh are on administrative leave following a shoot-out that resulted in the death of a male suspect.]]></description>
-        <guid>https://majordigest.com/news/2023/08/25/at-least-59-officers-leave-pittsburgh-shootout/</guid>
-        <link>https://majordigest.com/news/2023/08/25/at-least-59-officers-leave-pittsburgh-shootout/</link>
-        <pubDate>Fri, 25 Aug 2023 18:38:22 +0000</pubDate>
+        <title>Pending military promotions leave families in limbo</title>
+        <description><![CDATA[For the first time in history, the United States Army, Navy and Marine Corps are all without Senate-confirmed leaders.]]></description>
+        <guid>https://majordigest.com/news/2023/08/25/military-promotions-leave-families-in-limbo/</guid>
+        <link>https://majordigest.com/news/2023/08/25/military-promotions-leave-families-in-limbo/</link>
+        <pubDate>Fri, 25 Aug 2023 12:26:18 +0000</pubDate>
         <category>news</category>
-        <media:content medium="image" url="https://majordigest.com/news/2023/08/25/at-least-59-officers-leave-pittsburgh-shootout/at-least-59-officers-leave-pittsburgh-shootout.webp"/>
-        <media:thumbnail url="https://majordigest.com/news/2023/08/25/at-least-59-officers-leave-pittsburgh-shootout/at-least-59-officers-leave-pittsburgh-shootout.webp"/>
-        <dc:creator>Stephanie Whiteside, newsnationnow</dc:creator>
+        <media:content medium="image" url="https://majordigest.com/news/2023/08/25/military-promotions-leave-families-in-limbo/military-promotions-leave-families-in-limbo.webp"/>
+        <media:thumbnail url="https://majordigest.com/news/2023/08/25/military-promotions-leave-families-in-limbo/military-promotions-leave-families-in-limbo.webp"/>
+        <dc:creator>Stephanie Haines, newsnationnow</dc:creator>
       </item>
       <item>
-        <title>Donald Trump, after being booked in Georgia, puts mug shot on merch</title>
-        <description><![CDATA[Trump's mug shot, with the words "Never Surrender" under it, is on T-shirts, coffee mugs, beverage coolers and bumper stickers.]]></description>
-        <guid>https://majordigest.com/news/2023/08/25/donald-trump-mugshot-on-merchandise/</guid>
-        <link>https://majordigest.com/news/2023/08/25/donald-trump-mugshot-on-merchandise/</link>
-        <pubDate>Fri, 25 Aug 2023 15:05:21 +0000</pubDate>
+        <title>T-Mobile to lay off 5,000 employees</title>
+        <description><![CDATA["What it takes to attract and retain customers is materially more expensive than it was just a few quarters ago," Sievert wrote.]]></description>
+        <guid>https://majordigest.com/news/2023/08/25/t-mobile-lay-off-5000-employees/</guid>
+        <link>https://majordigest.com/news/2023/08/25/t-mobile-lay-off-5000-employees/</link>
+        <pubDate>Fri, 25 Aug 2023 01:39:17 +0000</pubDate>
         <category>news</category>
-        <media:content medium="image" url="https://majordigest.com/news/2023/08/25/donald-trump-mugshot-on-merchandise/donald-trump-mugshot-on-merchandise.webp"/>
-        <media:thumbnail url="https://majordigest.com/news/2023/08/25/donald-trump-mugshot-on-merchandise/donald-trump-mugshot-on-merchandise.webp"/>
-        <dc:creator>Cassie Buchman, newsnationnow</dc:creator>
+        <media:content medium="image" url="https://majordigest.com/news/2023/08/25/t-mobile-lay-off-5000-employees/t-mobile-lay-off-5000-employees.webp"/>
+        <media:thumbnail url="https://majordigest.com/news/2023/08/25/t-mobile-lay-off-5000-employees/t-mobile-lay-off-5000-employees.webp"/>
+        <dc:creator>The Associated Press, newsnationnow</dc:creator>
       </item>
       <item>
-        <title>Ramaswamy team claps back at Ann Coulter 'Hindu business' tweet</title>
-        <description><![CDATA[Ramaswamy responded with vigor to a post on X by Coulter made during his exchange over Ukraine with Nikki Haley during the debate.]]></description>
-        <guid>https://majordigest.com/news/2023/08/25/ramaswamy-team-claps-back-at-ann-coulter-hindu-business-tweet/</guid>
-        <link>https://majordigest.com/news/2023/08/25/ramaswamy-team-claps-back-at-ann-coulter-hindu-business-tweet/</link>
-        <pubDate>Fri, 25 Aug 2023 09:31:53 +0000</pubDate>
+        <title>Ukraine aid faces a stress test as some GOP 2024 presidential candidates balk at continued support</title>
+        <description><![CDATA[Strong backing for Ukraine's effort to repel Russia's invasion has been the rare issue where President Joe Biden has mustered bipartisan support.]]></description>
+        <guid>https://majordigest.com/news/2023/08/25/ukraine-aid-faces-a-stress-test-as-some-gop-2024-presidential-candidates-balk-at-continued-support/</guid>
+        <link>https://majordigest.com/news/2023/08/25/ukraine-aid-faces-a-stress-test-as-some-gop-2024-presidential-candidates-balk-at-continued-support/</link>
+        <pubDate>Fri, 25 Aug 2023 17:57:34 +0000</pubDate>
         <category>news</category>
-        <media:content medium="image" url="https://majordigest.com/news/2023/08/25/ramaswamy-team-claps-back-at-ann-coulter-hindu-business-tweet/ramaswamy-team-claps-back-at-ann-coulter-hindu-business-tweet.webp"/>
-        <media:thumbnail url="https://majordigest.com/news/2023/08/25/ramaswamy-team-claps-back-at-ann-coulter-hindu-business-tweet/ramaswamy-team-claps-back-at-ann-coulter-hindu-business-tweet.webp"/>
-        <dc:creator>Julia Shapero, newsnationnow</dc:creator>
+        <media:content medium="image" url="https://majordigest.com/news/2023/08/25/ukraine-aid-faces-a-stress-test-as-some-gop-2024-presidential-candidates-balk-at-continued-support/ukraine-aid-faces-a-stress-test-as-some-gop-2024-presidential-candidates-balk-at-continued-support.webp"/>
+        <media:thumbnail url="https://majordigest.com/news/2023/08/25/ukraine-aid-faces-a-stress-test-as-some-gop-2024-presidential-candidates-balk-at-continued-support/ukraine-aid-faces-a-stress-test-as-some-gop-2024-presidential-candidates-balk-at-continued-support.webp"/>
+        <dc:creator>Aamer Madhani, Associated Press, clickondetroit</dc:creator>
       </item>
       <item>
-        <title>2 NASCAR drivers suspended indefinitely after DWI arrests</title>
-        <description><![CDATA[NASCAR authorities told Nexstar's WJZY that drivers Chris Hacker and Jason White were both suspended from NASCAR indefinitely, citing two behavioral conduct standards from its rulebook.]]></description>
-        <guid>https://majordigest.com/news/2023/08/19/2-nascar-drivers-suspended-indefinitely-after-dwi-arrests/</guid>
-        <link>https://majordigest.com/news/2023/08/19/2-nascar-drivers-suspended-indefinitely-after-dwi-arrests/</link>
-        <pubDate>Sat, 19 Aug 2023 22:31:31 +0000</pubDate>
+        <title>DOJ files lawsuit against SpaceX for hiring discrimination against refugees, asylees</title>
+        <description><![CDATA[The Department of Justice (DOJ) filed a lawsuit Thursday against SpaceX, Elon Musk’s space company, alleging the company discriminated against refugees and asylees during the hiring process.]]></description>
+        <guid>https://majordigest.com/news/2023/08/24/4169669-doj-files-lawsuit-against-spacex-for-hiring-discrimination-against-refugees-asylees/</guid>
+        <link>https://majordigest.com/news/2023/08/24/4169669-doj-files-lawsuit-against-spacex-for-hiring-discrimination-against-refugees-asylees/</link>
+        <pubDate>Thu, 24 Aug 2023 18:03:56 +0000</pubDate>
         <category>news</category>
-        <media:content medium="image" url="https://majordigest.com/news/2023/08/19/2-nascar-drivers-suspended-indefinitely-after-dwi-arrests/2-nascar-drivers-suspended-indefinitely-after-dwi-arrests.webp"/>
-        <media:thumbnail url="https://majordigest.com/news/2023/08/19/2-nascar-drivers-suspended-indefinitely-after-dwi-arrests/2-nascar-drivers-suspended-indefinitely-after-dwi-arrests.webp"/>
-        <dc:creator>Doug Coats, newsnationnow</dc:creator>
+        <media:content medium="image" url="https://majordigest.com/news/2023/08/24/4169669-doj-files-lawsuit-against-spacex-for-hiring-discrimination-against-refugees-asylees/4169669-doj-files-lawsuit-against-spacex-for-hiring-discrimination-against-refugees-asylees.webp"/>
+        <media:thumbnail url="https://majordigest.com/news/2023/08/24/4169669-doj-files-lawsuit-against-spacex-for-hiring-discrimination-against-refugees-asylees/4169669-doj-files-lawsuit-against-spacex-for-hiring-discrimination-against-refugees-asylees.webp"/>
+        <dc:creator>Sarah Fortinsky, The Hill</dc:creator>
       </item>
       <item>
-        <title>Assemblywoman Heidi Kasama joins Republican challengers for Lee's seat in Congress</title>
-        <description><![CDATA[Two-term Republican Assemblywoman Heidi Kasama announced Monday she will run for the seat held by Democratic U.S. Rep. Susie Lee.]]></description>
-        <guid>https://majordigest.com/news/2023/08/21/assemblywoman-heidi-kasama-joins-republican-challengers-for-lees-seat-in-congress/</guid>
-        <link>https://majordigest.com/news/2023/08/21/assemblywoman-heidi-kasama-joins-republican-challengers-for-lees-seat-in-congress/</link>
-        <pubDate>Mon, 21 Aug 2023 19:16:18 +0000</pubDate>
+        <title>Former Bucs WR Antonio Brown faces arrest in Florida</title>
+        <description><![CDATA[According to Sports Illustrated, this is the second such case in four months that Brown has faced arrest for missing a child support payment.]]></description>
+        <guid>https://majordigest.com/news/2023/08/23/former-bucs-wr-antonio-brown-faces-arrest-in-florida/</guid>
+        <link>https://majordigest.com/news/2023/08/23/former-bucs-wr-antonio-brown-faces-arrest-in-florida/</link>
+        <pubDate>Wed, 23 Aug 2023 18:19:29 +0000</pubDate>
         <category>news</category>
-        <media:content medium="image" url="https://majordigest.com/news/2023/08/21/assemblywoman-heidi-kasama-joins-republican-challengers-for-lees-seat-in-congress/assemblywoman-heidi-kasama-joins-republican-challengers-for-lees-seat-in-congress.webp"/>
-        <media:thumbnail url="https://majordigest.com/news/2023/08/21/assemblywoman-heidi-kasama-joins-republican-challengers-for-lees-seat-in-congress/assemblywoman-heidi-kasama-joins-republican-challengers-for-lees-seat-in-congress.webp"/>
-        <dc:creator>Greg Haas, 8newsnow</dc:creator>
+        <media:content medium="image" url="https://majordigest.com/news/2023/08/23/former-bucs-wr-antonio-brown-faces-arrest-in-florida/former-bucs-wr-antonio-brown-faces-arrest-in-florida.webp"/>
+        <media:thumbnail url="https://majordigest.com/news/2023/08/23/former-bucs-wr-antonio-brown-faces-arrest-in-florida/former-bucs-wr-antonio-brown-faces-arrest-in-florida.webp"/>
+        <dc:creator>Dylan Abad, newsnationnow</dc:creator>
       </item>
       <item>
-        <title>First yellow-legged hornet nest in US eradicated in Georgia</title>
-        <description><![CDATA[The nest was discovered in the Savannah, Georgia, area, where the first yellow-legged hornet in the country was spotted by a local beekeeper just weeks ago.]]></description>
-        <guid>https://majordigest.com/news/2023/08/25/first-yellow-legged-hornet-nest-in-us-eradicated-in-georgia/</guid>
-        <link>https://majordigest.com/news/2023/08/25/first-yellow-legged-hornet-nest-in-us-eradicated-in-georgia/</link>
-        <pubDate>Fri, 25 Aug 2023 17:56:35 +0000</pubDate>
+        <title>Trump returns to Twitter, under its new moniker X</title>
+        <description><![CDATA[Former President Trump on Thursday posted on X, the platform formerly known as Twitter, for the first time since January 2021 to share an image of his mug shot following his surrender in Fulton County, Ga., on Thursday evening.]]></description>
+        <guid>https://majordigest.com/news/2023/08/25/trump-returns-to-twitter-under-its-new-moniker-x/</guid>
+        <link>https://majordigest.com/news/2023/08/25/trump-returns-to-twitter-under-its-new-moniker-x/</link>
+        <pubDate>Fri, 25 Aug 2023 02:13:08 +0000</pubDate>
         <category>news</category>
-        <media:content medium="image" url="https://majordigest.com/news/2023/08/25/first-yellow-legged-hornet-nest-in-us-eradicated-in-georgia/first-yellow-legged-hornet-nest-in-us-eradicated-in-georgia.webp"/>
-        <media:thumbnail url="https://majordigest.com/news/2023/08/25/first-yellow-legged-hornet-nest-in-us-eradicated-in-georgia/first-yellow-legged-hornet-nest-in-us-eradicated-in-georgia.webp"/>
-        <dc:creator>Molly Curley, 8newsnow</dc:creator>
+        <media:content medium="image" url="https://majordigest.com/news/2023/08/25/trump-returns-to-twitter-under-its-new-moniker-x/trump-returns-to-twitter-under-its-new-moniker-x.webp"/>
+        <media:thumbnail url="https://majordigest.com/news/2023/08/25/trump-returns-to-twitter-under-its-new-moniker-x/trump-returns-to-twitter-under-its-new-moniker-x.webp"/>
+        <dc:creator>Brett Samuels, newsnationnow</dc:creator>
       </item>
       <item>
-        <title>DeSantis reports raising more than $1 million as Republicans hope for post-debate boosts</title>
-        <description><![CDATA[COLUMBIA, S.C. (AP) — Florida Gov. Ron DeSantis says he got a $1 million cash bump after Wednesday night's presidential debate. That amount came in over the first 24 hours after DeSantis and seven other contenders met onstage in Milwaukee, according to his campaign.]]></description>
-        <guid>https://majordigest.com/news/2023/08/25/ap-desantis-reports-raising-more-than-1-million-as-republicans-hope-for-post-debate-boosts/</guid>
-        <link>https://majordigest.com/news/2023/08/25/ap-desantis-reports-raising-more-than-1-million-as-republicans-hope-for-post-debate-boosts/</link>
-        <pubDate>Fri, 25 Aug 2023 17:33:40 +0000</pubDate>
+        <title>Cole Carrigg has three hits in Chukchansi Park debut</title>
+        <description><![CDATA[FRESNO, Calif. (KSEE/KGPE) - The Fresno Grizzlies returned home on Tuesday after a two-week road trip, and they brought with them some new faces. One of whom is Cole Carrigg, who joined the team last week.]]></description>
+        <guid>https://majordigest.com/news/2023/08/23/cole-carrigg-has-three-hits-in-chukchansi-park-debut/</guid>
+        <link>https://majordigest.com/news/2023/08/23/cole-carrigg-has-three-hits-in-chukchansi-park-debut/</link>
+        <pubDate>Wed, 23 Aug 2023 06:47:48 +0000</pubDate>
         <category>news</category>
-        <media:content medium="image" url="https://majordigest.com/news/2023/08/25/ap-desantis-reports-raising-more-than-1-million-as-republicans-hope-for-post-debate-boosts/ap-desantis-reports-raising-more-than-1-million-as-republicans-hope-for-post-debate-boosts.webp"/>
-        <media:thumbnail url="https://majordigest.com/news/2023/08/25/ap-desantis-reports-raising-more-than-1-million-as-republicans-hope-for-post-debate-boosts/ap-desantis-reports-raising-more-than-1-million-as-republicans-hope-for-post-debate-boosts.webp"/>
-        <dc:creator>MEG KINNARD, Associated Press, kget</dc:creator>
+        <media:content medium="image" url="https://majordigest.com/news/2023/08/23/cole-carrigg-has-three-hits-in-chukchansi-park-debut/cole-carrigg-has-three-hits-in-chukchansi-park-debut.webp"/>
+        <media:thumbnail url="https://majordigest.com/news/2023/08/23/cole-carrigg-has-three-hits-in-chukchansi-park-debut/cole-carrigg-has-three-hits-in-chukchansi-park-debut.webp"/>
+        <dc:creator>Andrew Marden, yourcentralvalley</dc:creator>
       </item>
       <item>
-        <title>Protest this way, not that way: In statehouses, varied rules restrict public voices</title>
-        <description><![CDATA[NASHVILLE, Tenn. (AP) — Shaking violently between sobs, parent Sarah Shoop Neumann could only manage a whisper as state troopers escorted her out of a Tennessee legislative hearing where she was waiting to testify against a bill that would let teachers carry guns. “I was supposed to speak.]]></description>
-        <guid>https://majordigest.com/news/2023/08/25/ap-protest-this-way-not-that-way-in-statehouses-varied-rules-restrict-public-voices/</guid>
-        <link>https://majordigest.com/news/2023/08/25/ap-protest-this-way-not-that-way-in-statehouses-varied-rules-restrict-public-voices/</link>
-        <pubDate>Fri, 25 Aug 2023 19:57:45 +0000</pubDate>
+        <title>From turmoil to triumph, Spain earns its first Women's World Cup title with a 1-0 win over England</title>
+        <description><![CDATA[SYDNEY (AP) — A champion's medal around her neck, Salma Paralluelo lay on the field for a while and nestled into the golden glitter that had fallen over Spain’s Women’s World Cup team as it celebrated a 1-0 victory over England.]]></description>
+        <guid>https://majordigest.com/news/2023/08/21/ap-spain-wins-its-first-womens-world-cup-title-beating-england-1-0-in-the-final/</guid>
+        <link>https://majordigest.com/news/2023/08/21/ap-spain-wins-its-first-womens-world-cup-title-beating-england-1-0-in-the-final/</link>
+        <pubDate>Mon, 21 Aug 2023 01:48:26 +0000</pubDate>
         <category>news</category>
-        <media:content medium="image" url="https://majordigest.com/news/2023/08/25/ap-protest-this-way-not-that-way-in-statehouses-varied-rules-restrict-public-voices/ap-protest-this-way-not-that-way-in-statehouses-varied-rules-restrict-public-voices.webp"/>
-        <media:thumbnail url="https://majordigest.com/news/2023/08/25/ap-protest-this-way-not-that-way-in-statehouses-varied-rules-restrict-public-voices/ap-protest-this-way-not-that-way-in-statehouses-varied-rules-restrict-public-voices.webp"/>
-        <dc:creator>KIMBERLEE KRUESI, JEFF AMY and ANTHONY IZAGUIRRE, Associated Press, 8newsnow</dc:creator>
+        <media:content medium="image" url="https://majordigest.com/news/2023/08/21/ap-spain-wins-its-first-womens-world-cup-title-beating-england-1-0-in-the-final/ap-spain-wins-its-first-womens-world-cup-title-beating-england-1-0-in-the-final.webp"/>
+        <media:thumbnail url="https://majordigest.com/news/2023/08/21/ap-spain-wins-its-first-womens-world-cup-title-beating-england-1-0-in-the-final/ap-spain-wins-its-first-womens-world-cup-title-beating-england-1-0-in-the-final.webp"/>
+        <dc:creator>ANNE M. PETERSON, Associated Press, newsnationnow</dc:creator>
       </item>
       <item>
-        <title>Biden and Harris will meet with the King family on the 60th anniversary of the March on Washington</title>
-        <description><![CDATA[President Joe Biden and Vice President Kamala Harris will observe Monday's 60th anniversary of the March on Washington by meeting with organizers of the 1963 gathering and relatives of the Rev. Martin Luther King Jr. The White House says all of King’s children have been invited.]]></description>
-        <guid>https://majordigest.com/news/2023/08/25/biden-and-harris-will-meet-with-the-king-family-on-the-60th-anniversary-of-the-march-on-washington/</guid>
-        <link>https://majordigest.com/news/2023/08/25/biden-and-harris-will-meet-with-the-king-family-on-the-60th-anniversary-of-the-march-on-washington/</link>
-        <pubDate>Fri, 25 Aug 2023 10:13:52 +0000</pubDate>
+        <title>GOP talk of military action in Mexico sparks dire warnings</title>
+        <description><![CDATA[Rising GOP support for the U.S. taking unilateral military action in Mexico against drug cartels is increasingly rattling people on both sides of the border who worry talk of an attack is getting normalized.]]></description>
+        <guid>https://majordigest.com/news/2023/08/25/gop-talk-of-military-action-in-mexico-sparks-dire-warnings/</guid>
+        <link>https://majordigest.com/news/2023/08/25/gop-talk-of-military-action-in-mexico-sparks-dire-warnings/</link>
+        <pubDate>Fri, 25 Aug 2023 10:38:41 +0000</pubDate>
         <category>news</category>
-        <media:content medium="image" url="https://majordigest.com/news/2023/08/25/biden-and-harris-will-meet-with-the-king-family-on-the-60th-anniversary-of-the-march-on-washington/biden-and-harris-will-meet-with-the-king-family-on-the-60th-anniversary-of-the-march-on-washington.webp"/>
-        <media:thumbnail url="https://majordigest.com/news/2023/08/25/biden-and-harris-will-meet-with-the-king-family-on-the-60th-anniversary-of-the-march-on-washington/biden-and-harris-will-meet-with-the-king-family-on-the-60th-anniversary-of-the-march-on-washington.webp"/>
-        <dc:creator>Darlene Superville, Associated Press, clickondetroit</dc:creator>
+        <media:content medium="image" url="https://majordigest.com/news/2023/08/25/gop-talk-of-military-action-in-mexico-sparks-dire-warnings/gop-talk-of-military-action-in-mexico-sparks-dire-warnings.webp"/>
+        <media:thumbnail url="https://majordigest.com/news/2023/08/25/gop-talk-of-military-action-in-mexico-sparks-dire-warnings/gop-talk-of-military-action-in-mexico-sparks-dire-warnings.webp"/>
+        <dc:creator>Rafael Bernal, newsnationnow</dc:creator>
       </item>
       <item>
-        <title>Visitors to Lincoln Memorial say America has its flaws but see gains made since March on Washington</title>
-        <description><![CDATA[Fencing and construction workers greet visitors to the Lincoln Memorial, signaling the monument to the nation’s 16th president is a work in progress.]]></description>
-        <guid>https://majordigest.com/news/2023/08/25/visitors-to-lincoln-memorial-say-america-has-its-flaws-but-see-gains-made-since-march-on-washington/</guid>
-        <link>https://majordigest.com/news/2023/08/25/visitors-to-lincoln-memorial-say-america-has-its-flaws-but-see-gains-made-since-march-on-washington/</link>
-        <pubDate>Fri, 25 Aug 2023 04:25:30 +0000</pubDate>
+        <title>Ex-KGB agent: 'No way' Prigozhin wouldn't have checked plane</title>
+        <description><![CDATA["He and his group was very security conscious," Jack Barsky said of the Wagner private military group.]]></description>
+        <guid>https://majordigest.com/news/2023/08/25/ex-kgb-agent-prigozhin-plane-crash-analysis/</guid>
+        <link>https://majordigest.com/news/2023/08/25/ex-kgb-agent-prigozhin-plane-crash-analysis/</link>
+        <pubDate>Fri, 25 Aug 2023 00:00:57 +0000</pubDate>
         <category>news</category>
-        <media:content medium="image" url="https://majordigest.com/news/2023/08/25/visitors-to-lincoln-memorial-say-america-has-its-flaws-but-see-gains-made-since-march-on-washington/visitors-to-lincoln-memorial-say-america-has-its-flaws-but-see-gains-made-since-march-on-washington.webp"/>
-        <media:thumbnail url="https://majordigest.com/news/2023/08/25/visitors-to-lincoln-memorial-say-america-has-its-flaws-but-see-gains-made-since-march-on-washington/visitors-to-lincoln-memorial-say-america-has-its-flaws-but-see-gains-made-since-march-on-washington.webp"/>
-        <dc:creator>Nathan Ellgren And Gary Fields, Associated Press, clickondetroit</dc:creator>
+        <media:content medium="image" url="https://majordigest.com/news/2023/08/25/ex-kgb-agent-prigozhin-plane-crash-analysis/ex-kgb-agent-prigozhin-plane-crash-analysis.webp"/>
+        <media:thumbnail url="https://majordigest.com/news/2023/08/25/ex-kgb-agent-prigozhin-plane-crash-analysis/ex-kgb-agent-prigozhin-plane-crash-analysis.webp"/>
+        <dc:creator>Tyler Wornell, newsnationnow</dc:creator>
+      </item>
+      <item>
+        <title>DOJ sues SpaceX for allegedly not hiring asylees, refugees</title>
+        <description><![CDATA[The DOJ says SpaceX violated federal law when it "wrongly claimed" the company could only hire U.S. citizens and lawful permanent residents.]]></description>
+        <guid>https://majordigest.com/news/2023/08/24/doj-sues-spacex-asylees/</guid>
+        <link>https://majordigest.com/news/2023/08/24/doj-sues-spacex-asylees/</link>
+        <pubDate>Thu, 24 Aug 2023 18:35:38 +0000</pubDate>
+        <category>news</category>
+        <media:content medium="image" url="https://majordigest.com/news/2023/08/24/doj-sues-spacex-asylees/doj-sues-spacex-asylees.webp"/>
+        <media:thumbnail url="https://majordigest.com/news/2023/08/24/doj-sues-spacex-asylees/doj-sues-spacex-asylees.webp"/>
+        <dc:creator>Andrew Dorn, newsnationnow</dc:creator>
+      </item>
+      <item>
+        <title>Billie Jean King's push for equal prize money in 1973 will be celebrated at US Open</title>
+        <description><![CDATA[NEW YORK (AP) — When Billie Jean King won the U.S. Open in 1972, she didn’t make the usual remarks about hoping to win again. Instead, she threatened to not play at all the next year — and added that no other women would, either.]]></description>
+        <guid>https://majordigest.com/news/2023/08/25/ap-billie-jean-kings-push-for-equal-prize-money-in-1973-is-being-celebrated-at-this-us-open/</guid>
+        <link>https://majordigest.com/news/2023/08/25/ap-billie-jean-kings-push-for-equal-prize-money-in-1973-is-being-celebrated-at-this-us-open/</link>
+        <pubDate>Fri, 25 Aug 2023 12:29:52 +0000</pubDate>
+        <category>news</category>
+        <media:content medium="image" url="https://majordigest.com/news/2023/08/25/ap-billie-jean-kings-push-for-equal-prize-money-in-1973-is-being-celebrated-at-this-us-open/ap-billie-jean-kings-push-for-equal-prize-money-in-1973-is-being-celebrated-at-this-us-open.webp"/>
+        <media:thumbnail url="https://majordigest.com/news/2023/08/25/ap-billie-jean-kings-push-for-equal-prize-money-in-1973-is-being-celebrated-at-this-us-open/ap-billie-jean-kings-push-for-equal-prize-money-in-1973-is-being-celebrated-at-this-us-open.webp"/>
+        <dc:creator>BRIAN MAHONEY, Associated Press, kget</dc:creator>
+      </item>
+      <item>
+        <title>India's lunar rover keeps walking on the moon, days after spacecraft's historic touchdown</title>
+        <description><![CDATA[India’s lunar rover is continuing its walk on the moon after the historic touch-down of India’s spacecraft near the moon’s south pole earlier this week.]]></description>
+        <guid>https://majordigest.com/news/2023/08/25/indias-lunar-rover-keeps-walking-on-the-moon-days-after-spacecrafts-historic-touchdown/</guid>
+        <link>https://majordigest.com/news/2023/08/25/indias-lunar-rover-keeps-walking-on-the-moon-days-after-spacecrafts-historic-touchdown/</link>
+        <pubDate>Fri, 25 Aug 2023 15:30:35 +0000</pubDate>
+        <category>news</category>
+        <media:content medium="image" url="https://majordigest.com/news/2023/08/25/indias-lunar-rover-keeps-walking-on-the-moon-days-after-spacecrafts-historic-touchdown/indias-lunar-rover-keeps-walking-on-the-moon-days-after-spacecrafts-historic-touchdown.webp"/>
+        <media:thumbnail url="https://majordigest.com/news/2023/08/25/indias-lunar-rover-keeps-walking-on-the-moon-days-after-spacecrafts-historic-touchdown/indias-lunar-rover-keeps-walking-on-the-moon-days-after-spacecrafts-historic-touchdown.webp"/>
+        <dc:creator>Ashok Sharma, Associated Press, clickondetroit</dc:creator>
       </item>
       <item>
         <title>WWE wrestler Bray Wyatt dies at 36</title>
@@ -173,24 +217,13 @@
         <dc:creator>Kevin Accettulla, newsnationnow</dc:creator>
       </item>
       <item>
-        <title>T-Mobile will lay off 5,000 employees, or about 7% of its workforce, in the coming weeks</title>
-        <description><![CDATA[NEW YORK (AP) — Wireless carrier T-Mobile said Thursday it plans to cut 5,000 jobs, or about 7% of its workforce.]]></description>
-        <guid>https://majordigest.com/news/2023/08/24/ap-t-mobile-will-lay-off-5000-employees-or-about-7-of-its-workforce-in-the-coming-weeks/</guid>
-        <link>https://majordigest.com/news/2023/08/24/ap-t-mobile-will-lay-off-5000-employees-or-about-7-of-its-workforce-in-the-coming-weeks/</link>
-        <pubDate>Thu, 24 Aug 2023 17:25:01 +0000</pubDate>
+        <title>Assemblywoman Heidi Kasama joins Republican challengers for Lee's seat in Congress</title>
+        <description><![CDATA[Two-term Republican Assemblywoman Heidi Kasama announced Monday she will run for the seat held by Democratic U.S. Rep. Susie Lee.]]></description>
+        <guid>https://majordigest.com/news/2023/08/21/assemblywoman-heidi-kasama-joins-republican-challengers-for-lees-seat-in-congress/</guid>
+        <link>https://majordigest.com/news/2023/08/21/assemblywoman-heidi-kasama-joins-republican-challengers-for-lees-seat-in-congress/</link>
+        <pubDate>Mon, 21 Aug 2023 19:16:18 +0000</pubDate>
         <category>news</category>
-        <media:content medium="image" url="https://majordigest.com/news/2023/08/24/ap-t-mobile-will-lay-off-5000-employees-or-about-7-of-its-workforce-in-the-coming-weeks/ap-t-mobile-will-lay-off-5000-employees-or-about-7-of-its-workforce-in-the-coming-weeks.webp"/>
-        <media:thumbnail url="https://majordigest.com/news/2023/08/24/ap-t-mobile-will-lay-off-5000-employees-or-about-7-of-its-workforce-in-the-coming-weeks/ap-t-mobile-will-lay-off-5000-employees-or-about-7-of-its-workforce-in-the-coming-weeks.webp"/>
-        <dc:creator>WYATTE GRANTHAM-PHILIPS, Associated Press, newsnationnow</dc:creator>
-      </item>
-      <item>
-        <title>Trump and all 18 others charged in Georgia election case meet the deadline to surrender at jail</title>
-        <description><![CDATA[Former President Donald Trump and the 18 people indicted along with him in Georgia on charges that they participated in a wide-ranging illegal scheme to overturn the results of the 2020 election have all turned themselves in to a jail in Atlanta before the deadline at noon Friday.]]></description>
-        <guid>https://majordigest.com/news/2023/08/25/trump-and-all-18-others-charged-in-georgia-election-case-meet-the-deadline-to-surrender-at-jail/</guid>
-        <link>https://majordigest.com/news/2023/08/25/trump-and-all-18-others-charged-in-georgia-election-case-meet-the-deadline-to-surrender-at-jail/</link>
-        <pubDate>Fri, 25 Aug 2023 16:08:21 +0000</pubDate>
-        <category>news</category>
-        <media:content medium="image" url="https://majordigest.com/news/2023/08/25/trump-and-all-18-others-charged-in-georgia-election-case-meet-the-deadline-to-surrender-at-jail/trump-and-all-18-others-charged-in-georgia-election-case-meet-the-deadline-to-surrender-at-jail.webp"/>
-        <media:thumbnail url="https://majordigest.com/news/2023/08/25/trump-and-all-18-others-charged-in-georgia-election-case-meet-the-deadline-to-surrender-at-jail/trump-and-all-18-others-charged-in-georgia-election-case-meet-the-deadline-to-surrender-at-jail.webp"/>
-        <dc:creator>Kate Brumback, Associated Press, clickondetroit</dc:creator>
+        <media:content medium="image" url="https://majordigest.com/news/2023/08/21/assemblywoman-heidi-kasama-joins-republican-challengers-for-lees-seat-in-congress/assemblywoman-heidi-kasama-joins-republican-challengers-for-lees-seat-in-congress.webp"/>
+        <media:thumbnail url="https://majordigest.com/news/2023/08/21/assemblywoman-heidi-kasama-joins-republican-challengers-for-lees-seat-in-congress/assemblywoman-heidi-kasama-joins-republican-challengers-for-lees-seat-in-congress.webp"/>
+        <dc:creator>Greg Haas, 8newsnow</dc:creator>
       </item></channel></rss>
