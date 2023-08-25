@@ -7,7 +7,7 @@
         <title>Major Digest - Reliable and Comprehensive News Sources: tech</title>
         <description>Get the latest news online at Major Digest, the top online news resource for the most reliable news sources. Stay informed about the world around you!</description>
         <link>https://majordigest.com/?utm_medium=RSS</link>
-        <lastBuildDate>Fri, 25 Aug 2023 01:11:41 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 25 Aug 2023 02:22:28 GMT</lastBuildDate>
         <generator>https://majordigest.com/?v=1.1.4</generator>
         <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/" />
         <atom:link rel="self" href="https://majordigest.com/tech/feed.xml" type="application/rss+xml" />
@@ -19,14 +19,25 @@
           <link>https://majordigest.com/?utm_medium=RSS</link>
         </image>
       <item>
-        <title>Delete this app on your Mac before it's too late</title>
-        <description><![CDATA[NightOwl is used by Mac users to switch between light and dark mode. Kurt &quot;The CyberGuy&quot; Knutsson explains why this app may now put you at risk.]]></description>
-        <guid>https://majordigest.com/tech/2023/08/23/delete-app-mac-before-late/</guid>
-        <link>https://majordigest.com/tech/2023/08/23/delete-app-mac-before-late/</link>
-        <pubDate>Wed, 23 Aug 2023 14:23:13 EDT</pubDate>
+        <title>Opinion: This valley fever vaccine could save dogs, eventually humans</title>
+        <description><![CDATA[It won't see the light of day until its creators can overcome financial, logistical and bureaucratic challenges.]]></description>
+        <guid>https://majordigest.com/tech/2023/08/23/opinion-this-valley-fever-vaccine-could-save-dogs-eventually-humans/</guid>
+        <link>https://majordigest.com/tech/2023/08/23/opinion-this-valley-fever-vaccine-could-save-dogs-eventually-humans/</link>
+        <pubDate>Wed, 23 Aug 2023 12:00:59 +0000</pubDate>
         <category>tech</category>
-        <media:content medium="image" url="https://majordigest.com/tech/2023/08/23/delete-app-mac-before-late/delete-app-mac-before-late.webp"/>
-        <media:thumbnail url="https://majordigest.com/tech/2023/08/23/delete-app-mac-before-late/delete-app-mac-before-late.webp"/>
+        <media:content medium="image" url="https://majordigest.com/tech/2023/08/23/opinion-this-valley-fever-vaccine-could-save-dogs-eventually-humans/opinion-this-valley-fever-vaccine-could-save-dogs-eventually-humans.webp"/>
+        <media:thumbnail url="https://majordigest.com/tech/2023/08/23/opinion-this-valley-fever-vaccine-could-save-dogs-eventually-humans/opinion-this-valley-fever-vaccine-could-save-dogs-eventually-humans.webp"/>
+        <dc:creator>John Murphy, The Mercury News</dc:creator>
+      </item>
+      <item>
+        <title>Are AI deepfakes the end of acting as we know it?</title>
+        <description><![CDATA[Artificial intelligence and Hollywood&apos;s relationship is bittersweet because some are open to its growth while traditional actors perceive AI to be a threat.]]></description>
+        <guid>https://majordigest.com/tech/2023/08/24/are-ai-deepfakes-end-acting-know/</guid>
+        <link>https://majordigest.com/tech/2023/08/24/are-ai-deepfakes-end-acting-know/</link>
+        <pubDate>Thu, 24 Aug 2023 15:30:33 EDT</pubDate>
+        <category>tech</category>
+        <media:content medium="image" url="https://majordigest.com/tech/2023/08/24/are-ai-deepfakes-end-acting-know/are-ai-deepfakes-end-acting-know.webp"/>
+        <media:thumbnail url="https://majordigest.com/tech/2023/08/24/are-ai-deepfakes-end-acting-know/are-ai-deepfakes-end-acting-know.webp"/>
         <dc:creator>Fox News</dc:creator>
       </item>
       <item>
@@ -52,26 +63,70 @@
         <dc:creator>Fox News</dc:creator>
       </item>
       <item>
-        <title>Samsung Fold 5: Versatile, but with compromises</title>
-        <description><![CDATA[The Samsung Galaxy Z Fold 5 is multiple devices in one - a phone and a tablet. But if you want to join the flip side, it's not going to be cheap, and there are some compromises. It's hard not to appreciate what Samsung is doing with the Galaxy Z Fold 5.]]></description>
-        <guid>https://majordigest.com/tech/2023/08/23/samsung-fold-5-versatile-but-with-compromises/</guid>
-        <link>https://majordigest.com/tech/2023/08/23/samsung-fold-5-versatile-but-with-compromises/</link>
-        <pubDate>Wed, 23 Aug 2023 12:17:56 +0000</pubDate>
+        <title>Editorial: CPUC incompetence lets autotaxis dangerously run amok</title>
+        <description><![CDATA[Regulator of Cruise and Waymo admitted it didn't have sufficient safety data before critical vote to expand service.]]></description>
+        <guid>https://majordigest.com/tech/2023/08/23/editorial-puc-fails-to-keep-californians-safe-from-autonomous-vehicles/</guid>
+        <link>https://majordigest.com/tech/2023/08/23/editorial-puc-fails-to-keep-californians-safe-from-autonomous-vehicles/</link>
+        <pubDate>Wed, 23 Aug 2023 12:30:55 +0000</pubDate>
         <category>tech</category>
-        <media:content medium="image" url="https://majordigest.com/tech/2023/08/23/samsung-fold-5-versatile-but-with-compromises/samsung-fold-5-versatile-but-with-compromises.webp"/>
-        <media:thumbnail url="https://majordigest.com/tech/2023/08/23/samsung-fold-5-versatile-but-with-compromises/samsung-fold-5-versatile-but-with-compromises.webp"/>
-        <dc:creator>Rich DeMuro, KTLA 5</dc:creator>
+        <media:content medium="image" url="https://majordigest.com/tech/2023/08/23/editorial-puc-fails-to-keep-californians-safe-from-autonomous-vehicles/editorial-puc-fails-to-keep-californians-safe-from-autonomous-vehicles.webp"/>
+        <media:thumbnail url="https://majordigest.com/tech/2023/08/23/editorial-puc-fails-to-keep-californians-safe-from-autonomous-vehicles/editorial-puc-fails-to-keep-californians-safe-from-autonomous-vehicles.webp"/>
+        <dc:creator>Mercury News &amp; East Bay Times Editorial Boards, The Mercury News</dc:creator>
       </item>
       <item>
-        <title>Opinion: This valley fever vaccine could save dogs, eventually humans</title>
-        <description><![CDATA[It won't see the light of day until its creators can overcome financial, logistical and bureaucratic challenges.]]></description>
-        <guid>https://majordigest.com/tech/2023/08/23/opinion-this-valley-fever-vaccine-could-save-dogs-eventually-humans/</guid>
-        <link>https://majordigest.com/tech/2023/08/23/opinion-this-valley-fever-vaccine-could-save-dogs-eventually-humans/</link>
-        <pubDate>Wed, 23 Aug 2023 12:00:59 +0000</pubDate>
+        <title>Fox News AI Newsletter: Teachers go back to school with AI amid cheating concerns</title>
+        <description><![CDATA[Stay up to date on the latest AI technology advancements and learn about the challenges and opportunities AI presents now and for the future.]]></description>
+        <guid>https://majordigest.com/tech/2023/08/23/fox-news-ai-newsletter-teachers-go-back-school-ai-cheating-concerns/</guid>
+        <link>https://majordigest.com/tech/2023/08/23/fox-news-ai-newsletter-teachers-go-back-school-ai-cheating-concerns/</link>
+        <pubDate>Wed, 23 Aug 2023 10:03:55 EDT</pubDate>
         <category>tech</category>
-        <media:content medium="image" url="https://majordigest.com/tech/2023/08/23/opinion-this-valley-fever-vaccine-could-save-dogs-eventually-humans/opinion-this-valley-fever-vaccine-could-save-dogs-eventually-humans.webp"/>
-        <media:thumbnail url="https://majordigest.com/tech/2023/08/23/opinion-this-valley-fever-vaccine-could-save-dogs-eventually-humans/opinion-this-valley-fever-vaccine-could-save-dogs-eventually-humans.webp"/>
-        <dc:creator>John Murphy, The Mercury News</dc:creator>
+        <media:content medium="image" url="https://majordigest.com/tech/2023/08/23/fox-news-ai-newsletter-teachers-go-back-school-ai-cheating-concerns/fox-news-ai-newsletter-teachers-go-back-school-ai-cheating-concerns.webp"/>
+        <media:thumbnail url="https://majordigest.com/tech/2023/08/23/fox-news-ai-newsletter-teachers-go-back-school-ai-cheating-concerns/fox-news-ai-newsletter-teachers-go-back-school-ai-cheating-concerns.webp"/>
+        <dc:creator>Fox News</dc:creator>
+      </item>
+      <item>
+        <title>Prime Minister Justin Trudeau slams Facebook for blocking Canada wildfire news</title>
+        <description><![CDATA[“Right now, in an emergency situation where up to date local information is more important than ever, Facebook is putting corporate profits ahead of people’s safety,” Trudeau said at a news conference.]]></description>
+        <guid>https://majordigest.com/tech/2023/08/22/prime-minister-justin-trudeau-slams-facebook-for-blocking-canada-wildfire-news/</guid>
+        <link>https://majordigest.com/tech/2023/08/22/prime-minister-justin-trudeau-slams-facebook-for-blocking-canada-wildfire-news/</link>
+        <pubDate>Tue, 22 Aug 2023 14:43:05 +0000</pubDate>
+        <category>tech</category>
+        <media:content medium="image" url="https://majordigest.com/tech/2023/08/22/prime-minister-justin-trudeau-slams-facebook-for-blocking-canada-wildfire-news/prime-minister-justin-trudeau-slams-facebook-for-blocking-canada-wildfire-news.webp"/>
+        <media:thumbnail url="https://majordigest.com/tech/2023/08/22/prime-minister-justin-trudeau-slams-facebook-for-blocking-canada-wildfire-news/prime-minister-justin-trudeau-slams-facebook-for-blocking-canada-wildfire-news.webp"/>
+        <dc:creator>Associated Press, The Mercury News</dc:creator>
+      </item>
+      <item>
+        <title>Controversial new AI app allows you to text with Jesus &#8211; and Satan</title>
+        <description><![CDATA[&quot;Text With Jesus&quot; is an AI-powered app that simulates the experience of chatting with biblical figures including, controversially, Satan. &quot;CyberGuy&quot; explains.]]></description>
+        <guid>https://majordigest.com/tech/2023/08/23/controversial-ai-app-allows-text-jesus-satan/</guid>
+        <link>https://majordigest.com/tech/2023/08/23/controversial-ai-app-allows-text-jesus-satan/</link>
+        <pubDate>Wed, 23 Aug 2023 11:07:25 EDT</pubDate>
+        <category>tech</category>
+        <media:content medium="image" url="https://majordigest.com/tech/2023/08/23/controversial-ai-app-allows-text-jesus-satan/controversial-ai-app-allows-text-jesus-satan.webp"/>
+        <media:thumbnail url="https://majordigest.com/tech/2023/08/23/controversial-ai-app-allows-text-jesus-satan/controversial-ai-app-allows-text-jesus-satan.webp"/>
+        <dc:creator>Fox News</dc:creator>
+      </item>
+      <item>
+        <title>Medical professionals utilizing AI to judge narcotics prescriptions: report</title>
+        <description><![CDATA[Medical professionals are turning to artificial intelligence models to produce addiction risk assessments for the prescription of opioids.]]></description>
+        <guid>https://majordigest.com/tech/2023/08/23/medical-professionals-utilizing-ai-judge-narcotics-prescriptions-report/</guid>
+        <link>https://majordigest.com/tech/2023/08/23/medical-professionals-utilizing-ai-judge-narcotics-prescriptions-report/</link>
+        <pubDate>Wed, 23 Aug 2023 13:07:41 EDT</pubDate>
+        <category>tech</category>
+        <media:content medium="image" url="https://majordigest.com/tech/2023/08/23/medical-professionals-utilizing-ai-judge-narcotics-prescriptions-report/medical-professionals-utilizing-ai-judge-narcotics-prescriptions-report.webp"/>
+        <media:thumbnail url="https://majordigest.com/tech/2023/08/23/medical-professionals-utilizing-ai-judge-narcotics-prescriptions-report/medical-professionals-utilizing-ai-judge-narcotics-prescriptions-report.webp"/>
+        <dc:creator>Fox News</dc:creator>
+      </item>
+      <item>
+        <title>Why Wall Street&#8217;s obsession with a Silicon Valley company most people never heard of is sending stocks surging</title>
+        <description><![CDATA[The Santa Clara based company posted year-over-year sales growth of 101% in the second quarter. Revenue went from $6.7 billion in the second quarter last year to $13.5 billion this year.]]></description>
+        <guid>https://majordigest.com/tech/2023/08/24/why-wall-streets-obsession-with-a-company-you-probably-never-heard-of-is-sending-stocks-surging/</guid>
+        <link>https://majordigest.com/tech/2023/08/24/why-wall-streets-obsession-with-a-company-you-probably-never-heard-of-is-sending-stocks-surging/</link>
+        <pubDate>Thu, 24 Aug 2023 17:34:18 +0000</pubDate>
+        <category>tech</category>
+        <media:content medium="image" url="https://majordigest.com/tech/2023/08/24/why-wall-streets-obsession-with-a-company-you-probably-never-heard-of-is-sending-stocks-surging/why-wall-streets-obsession-with-a-company-you-probably-never-heard-of-is-sending-stocks-surging.webp"/>
+        <media:thumbnail url="https://majordigest.com/tech/2023/08/24/why-wall-streets-obsession-with-a-company-you-probably-never-heard-of-is-sending-stocks-surging/why-wall-streets-obsession-with-a-company-you-probably-never-heard-of-is-sending-stocks-surging.webp"/>
+        <dc:creator>Cnn.Com Wire Service, The Mercury News</dc:creator>
       </item>
       <item>
         <title>SpaceX successfully launches 100th Starlink mission</title>
@@ -85,24 +140,13 @@
         <dc:creator>Teresa Liu, The Mercury News</dc:creator>
       </item>
       <item>
-        <title>San Jose Chamber seeks third CEO in three years amid downtown slump</title>
-        <description><![CDATA[The San Jose Chamber of Commerce is about to scout for its third leader in three years -- just as the downtown seeks to escape a "doom loop.]]></description>
-        <guid>https://majordigest.com/tech/2023/08/23/san-jose-chamber-business-economy-ceo-downtown-real-estate-covid-tech/</guid>
-        <link>https://majordigest.com/tech/2023/08/23/san-jose-chamber-business-economy-ceo-downtown-real-estate-covid-tech/</link>
-        <pubDate>Wed, 23 Aug 2023 18:40:13 +0000</pubDate>
+        <title>Educators have said using ChatGPT is cheating, but now they are using AI to write syllabi and exams: Professor</title>
+        <description><![CDATA[ChatGPT has proven it can help students with their homework, but now it is helping teachers create those very courses, a computer science professor told Fox News.]]></description>
+        <guid>https://majordigest.com/tech/2023/08/23/educators-said-using-chatgpt-cheating-now-using-ai-write-syllabi-exams-professor/</guid>
+        <link>https://majordigest.com/tech/2023/08/23/educators-said-using-chatgpt-cheating-now-using-ai-write-syllabi-exams-professor/</link>
+        <pubDate>Wed, 23 Aug 2023 02:00:41 EDT</pubDate>
         <category>tech</category>
-        <media:content medium="image" url="https://majordigest.com/tech/2023/08/23/san-jose-chamber-business-economy-ceo-downtown-real-estate-covid-tech/san-jose-chamber-business-economy-ceo-downtown-real-estate-covid-tech.webp"/>
-        <media:thumbnail url="https://majordigest.com/tech/2023/08/23/san-jose-chamber-business-economy-ceo-downtown-real-estate-covid-tech/san-jose-chamber-business-economy-ceo-downtown-real-estate-covid-tech.webp"/>
-        <dc:creator>George Avalos, The Mercury News</dc:creator>
-      </item>
-      <item>
-        <title>Why Wall Street&#8217;s obsession with a Silicon Valley company most people never heard of is sending stocks surging</title>
-        <description><![CDATA[The Santa Clara based company posted year-over-year sales growth of 101% in the second quarter. Revenue went from $6.7 billion in the second quarter last year to $13.5 billion this year.]]></description>
-        <guid>https://majordigest.com/tech/2023/08/24/why-wall-streets-obsession-with-a-company-you-probably-never-heard-of-is-sending-stocks-surging/</guid>
-        <link>https://majordigest.com/tech/2023/08/24/why-wall-streets-obsession-with-a-company-you-probably-never-heard-of-is-sending-stocks-surging/</link>
-        <pubDate>Thu, 24 Aug 2023 17:34:18 +0000</pubDate>
-        <category>tech</category>
-        <media:content medium="image" url="https://majordigest.com/tech/2023/08/24/why-wall-streets-obsession-with-a-company-you-probably-never-heard-of-is-sending-stocks-surging/why-wall-streets-obsession-with-a-company-you-probably-never-heard-of-is-sending-stocks-surging.webp"/>
-        <media:thumbnail url="https://majordigest.com/tech/2023/08/24/why-wall-streets-obsession-with-a-company-you-probably-never-heard-of-is-sending-stocks-surging/why-wall-streets-obsession-with-a-company-you-probably-never-heard-of-is-sending-stocks-surging.webp"/>
-        <dc:creator>Cnn.Com Wire Service, The Mercury News</dc:creator>
+        <media:content medium="image" url="https://majordigest.com/tech/2023/08/23/educators-said-using-chatgpt-cheating-now-using-ai-write-syllabi-exams-professor/educators-said-using-chatgpt-cheating-now-using-ai-write-syllabi-exams-professor.webp"/>
+        <media:thumbnail url="https://majordigest.com/tech/2023/08/23/educators-said-using-chatgpt-cheating-now-using-ai-write-syllabi-exams-professor/educators-said-using-chatgpt-cheating-now-using-ai-write-syllabi-exams-professor.webp"/>
+        <dc:creator>Fox News</dc:creator>
       </item></channel></rss>

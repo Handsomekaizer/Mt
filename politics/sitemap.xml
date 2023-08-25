@@ -3,17 +3,59 @@
               xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
               xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
       <url>
-        <loc>https://majordigest.com/politics/2023/08/24/hunter-biden-seen-sneaking-out-business-vacationing-dad-lake-tahoe-amid-investigations/</loc>
+        <loc>https://majordigest.com/politics/2023/08/25/trump-mug-shot-released-to-public/</loc>
         <news:news>
           <news:publication>
             <news:name>Major Digest</news:name>
             <news:language>en</news:language>
           </news:publication>
-          <news:publication_date>2023-08-24T23:55:51.000Z</news:publication_date>
-          <news:title>Hunter Biden seen sneaking from business while vacationing with dad in Lake Tahoe amid investigations</news:title>
+          <news:publication_date>2023-08-25T01:10:41.000Z</news:publication_date>
+          <news:title>What to know about Trump's mug shot</news:title>
         </news:news>
         <image:image>
-          <image:loc>https://majordigest.com/politics/2023/08/24/hunter-biden-seen-sneaking-out-business-vacationing-dad-lake-tahoe-amid-investigations/hunter-biden-seen-sneaking-out-business-vacationing-dad-lake-tahoe-amid-investigations.webp</image:loc>
+          <image:loc>https://majordigest.com/politics/2023/08/25/trump-mug-shot-released-to-public/trump-mug-shot-released-to-public.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/politics/2023/08/25/donald-trump-makes-first-post-on-x-over-two-years-after-being-booked-into-jail/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-25T02:16:43.000Z</news:publication_date>
+          <news:title>Donald Trump makes first post on X in over 2 years after being booked into jail</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/politics/2023/08/25/donald-trump-makes-first-post-on-x-over-two-years-after-being-booked-into-jail/donald-trump-makes-first-post-on-x-over-two-years-after-being-booked-into-jail.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/politics/2023/08/24/gop-voters-say-desantis-delivered-best-performance-in-first-primary-debate-poll/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-24T23:29:55.000Z</news:publication_date>
+          <news:title>GOP voters say DeSantis delivered best performance in first primary debate: poll</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/politics/2023/08/24/gop-voters-say-desantis-delivered-best-performance-in-first-primary-debate-poll/gop-voters-say-desantis-delivered-best-performance-in-first-primary-debate-poll.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/politics/2023/08/25/co-defendant-georgia-trump-indictment/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-25T00:52:06.000Z</news:publication_date>
+          <news:title>Co-defendant in Georgia says false electors met at Trump&#8217;s &#8216;direction&#8217;</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/politics/2023/08/25/co-defendant-georgia-trump-indictment/co-defendant-georgia-trump-indictment.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -45,6 +87,48 @@
         </image:image>
       </url>
       <url>
+        <loc>https://majordigest.com/politics/2023/08/25/conservatives-unload-trump-booked-georgia-jail-4th-indictment-sickening/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-25T01:25:56.000Z</news:publication_date>
+          <news:title>Conservatives unload after Trump booked into Georgia jail in 4th indictment: 'Sickening'</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/politics/2023/08/25/conservatives-unload-trump-booked-georgia-jail-4th-indictment-sickening/conservatives-unload-trump-booked-georgia-jail-4th-indictment-sickening.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/politics/2023/08/24/hunter-biden-seen-sneaking-out-business-vacationing-dad-lake-tahoe-amid-investigations/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-24T23:55:51.000Z</news:publication_date>
+          <news:title>Hunter Biden seen sneaking from business while vacationing with dad in Lake Tahoe amid investigations</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/politics/2023/08/24/hunter-biden-seen-sneaking-out-business-vacationing-dad-lake-tahoe-amid-investigations/hunter-biden-seen-sneaking-out-business-vacationing-dad-lake-tahoe-amid-investigations.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/politics/2023/08/25/trump-says-taking-mugshot-was-not-comfortable-feeling-when-done-nothing-wrong/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-25T01:55:39.000Z</news:publication_date>
+          <news:title>Trump says taking a mugshot was 'not a comfortable feeling, especially when you've done nothing wrong'</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/politics/2023/08/25/trump-says-taking-mugshot-was-not-comfortable-feeling-when-done-nothing-wrong/trump-says-taking-mugshot-was-not-comfortable-feeling-when-done-nothing-wrong.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
         <loc>https://majordigest.com/politics/2023/08/24/prigozhin-death-strengthens-vladimir-putin-russia/</loc>
         <news:news>
           <news:publication>
@@ -56,75 +140,5 @@
         </news:news>
         <image:image>
           <image:loc>https://majordigest.com/politics/2023/08/24/prigozhin-death-strengthens-vladimir-putin-russia/prigozhin-death-strengthens-vladimir-putin-russia.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/politics/2023/08/25/trumps-booking-height-weight-sets-social-media-ablaze/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-25T00:37:45.000Z</news:publication_date>
-          <news:title>Trump's booking height and weight sets social media ablaze: 'Wait, what?'</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/politics/2023/08/25/trumps-booking-height-weight-sets-social-media-ablaze/trumps-booking-height-weight-sets-social-media-ablaze.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/politics/2023/08/24/another-southern-california-school-district-implements-parental-notification-policy/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-24T20:06:32.000Z</news:publication_date>
-          <news:title>Another Southern California school district implements parental notification policy</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/politics/2023/08/24/another-southern-california-school-district-implements-parental-notification-policy/another-southern-california-school-district-implements-parental-notification-policy.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/politics/2023/08/24/small-town-voters-economy-biden-shambles/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-24T20:47:46.000Z</news:publication_date>
-          <news:title>Small town voters feel the economy under Biden is 'in a shambles'</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/politics/2023/08/24/small-town-voters-economy-biden-shambles/small-town-voters-economy-biden-shambles.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/politics/2023/08/24/gop-voters-say-desantis-delivered-best-performance-in-first-primary-debate-poll/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-24T23:29:55.000Z</news:publication_date>
-          <news:title>GOP voters say DeSantis delivered best performance in first primary debate: poll</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/politics/2023/08/24/gop-voters-say-desantis-delivered-best-performance-in-first-primary-debate-poll/gop-voters-say-desantis-delivered-best-performance-in-first-primary-debate-poll.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/politics/2023/08/24/will-hurd-republican-debate/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-24T16:42:49.000Z</news:publication_date>
-          <news:title>Will Hurd Is Not Impressed by What He Saw on the Debate Stage</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/politics/2023/08/24/will-hurd-republican-debate/will-hurd-republican-debate.webp</image:loc>
         </image:image>
       </url></urlset>

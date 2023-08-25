@@ -3,17 +3,59 @@
               xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
               xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
       <url>
-        <loc>https://majordigest.com/world/2023/08/25/2-men-arrested-accused-arson-attack-englands-crooked-house-pub/</loc>
+        <loc>https://majordigest.com/world/2023/08/24/haitian-telecom-companies-report-severed-fiber-optic-cables-gang-sabotage-suspected/</loc>
         <news:news>
           <news:publication>
             <news:name>Major Digest</news:name>
             <news:language>en</news:language>
           </news:publication>
-          <news:publication_date>2023-08-25T00:09:29.000Z</news:publication_date>
-          <news:title>2 men arrested, accused of arson attack on England's 'Crooked House' pub</news:title>
+          <news:publication_date>2023-08-24T20:20:47.000Z</news:publication_date>
+          <news:title>Haitian telecom companies report severed fiber optic cables; gang sabotage suspected</news:title>
         </news:news>
         <image:image>
-          <image:loc>https://majordigest.com/world/2023/08/25/2-men-arrested-accused-arson-attack-englands-crooked-house-pub/2-men-arrested-accused-arson-attack-englands-crooked-house-pub.webp</image:loc>
+          <image:loc>https://majordigest.com/world/2023/08/24/haitian-telecom-companies-report-severed-fiber-optic-cables-gang-sabotage-suspected/haitian-telecom-companies-report-severed-fiber-optic-cables-gang-sabotage-suspected.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/world/2023/08/24/legionnaires-disease-outbreak-claims-5-lives-rzeszow-poland/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-24T22:35:02.000Z</news:publication_date>
+          <news:title>Legionnaires' disease outbreak claims 5 lives in Rzeszow, Poland</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/world/2023/08/24/legionnaires-disease-outbreak-claims-5-lives-rzeszow-poland/legionnaires-disease-outbreak-claims-5-lives-rzeszow-poland.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/world/2023/08/24/united-kingdom-man-dies-countrys-largest-outdoor-water-park-causing-one-day-closure/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-24T22:55:59.000Z</news:publication_date>
+          <news:title>United Kingdom man, 40, dies at country's largest outdoor water park, causing one-day closure</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/world/2023/08/24/united-kingdom-man-dies-countrys-largest-outdoor-water-park-causing-one-day-closure/united-kingdom-man-dies-countrys-largest-outdoor-water-park-causing-one-day-closure.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/world/2023/08/24/brazils-president-lula-stresses-geopolitical-significance-brics-expansion-decision/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-24T20:10:32.000Z</news:publication_date>
+          <news:title>Brazil's President Lula stresses geopolitical significance in BRICS expansion decision</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/world/2023/08/24/brazils-president-lula-stresses-geopolitical-significance-brics-expansion-decision/brazils-president-lula-stresses-geopolitical-significance-brics-expansion-decision.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -31,17 +73,17 @@
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/world/2023/08/24/indian-immunologicals-aims-launch-dengue-vaccine-early-2026-amid-escalating-threat/</loc>
+        <loc>https://majordigest.com/world/2023/08/24/bolsonaro-leaves-sao-paulo-hospital-routine-exams/</loc>
         <news:news>
           <news:publication>
             <news:name>Major Digest</news:name>
             <news:language>en</news:language>
           </news:publication>
-          <news:publication_date>2023-08-24T22:37:22.000Z</news:publication_date>
-          <news:title>Indian Immunologicals aims to launch dengue vaccine by early 2026 amid escalating threat</news:title>
+          <news:publication_date>2023-08-24T22:31:29.000Z</news:publication_date>
+          <news:title>Bolsonaro leaves S&#227;o Paulo hospital after routine exams</news:title>
         </news:news>
         <image:image>
-          <image:loc>https://majordigest.com/world/2023/08/24/indian-immunologicals-aims-launch-dengue-vaccine-early-2026-amid-escalating-threat/indian-immunologicals-aims-launch-dengue-vaccine-early-2026-amid-escalating-threat.webp</image:loc>
+          <image:loc>https://majordigest.com/world/2023/08/24/bolsonaro-leaves-sao-paulo-hospital-routine-exams/bolsonaro-leaves-sao-paulo-hospital-routine-exams.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -59,6 +101,34 @@
         </image:image>
       </url>
       <url>
+        <loc>https://majordigest.com/world/2023/08/24/indian-immunologicals-aims-launch-dengue-vaccine-early-2026-amid-escalating-threat/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-24T22:37:22.000Z</news:publication_date>
+          <news:title>Indian Immunologicals aims to launch dengue vaccine by early 2026 amid escalating threat</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/world/2023/08/24/indian-immunologicals-aims-launch-dengue-vaccine-early-2026-amid-escalating-threat/indian-immunologicals-aims-launch-dengue-vaccine-early-2026-amid-escalating-threat.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/world/2023/08/25/2-men-arrested-accused-arson-attack-englands-crooked-house-pub/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-25T00:09:29.000Z</news:publication_date>
+          <news:title>2 men arrested, accused of arson attack on England's 'Crooked House' pub</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/world/2023/08/25/2-men-arrested-accused-arson-attack-englands-crooked-house-pub/2-men-arrested-accused-arson-attack-englands-crooked-house-pub.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
         <loc>https://majordigest.com/world/2023/08/24/pentagon-wagner-chief-yevgeny-prigozhin-likely-killed-plane-crash-no-evidence-missile-attack/</loc>
         <news:news>
           <news:publication>
@@ -70,33 +140,5 @@
         </news:news>
         <image:image>
           <image:loc>https://majordigest.com/world/2023/08/24/pentagon-wagner-chief-yevgeny-prigozhin-likely-killed-plane-crash-no-evidence-missile-attack/pentagon-wagner-chief-yevgeny-prigozhin-likely-killed-plane-crash-no-evidence-missile-attack.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/world/2023/08/24/haitian-telecom-companies-report-severed-fiber-optic-cables-gang-sabotage-suspected/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-24T20:20:47.000Z</news:publication_date>
-          <news:title>Haitian telecom companies report severed fiber optic cables; gang sabotage suspected</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/world/2023/08/24/haitian-telecom-companies-report-severed-fiber-optic-cables-gang-sabotage-suspected/haitian-telecom-companies-report-severed-fiber-optic-cables-gang-sabotage-suspected.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/world/2023/08/24/brazils-president-lula-stresses-geopolitical-significance-brics-expansion-decision/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-24T20:10:32.000Z</news:publication_date>
-          <news:title>Brazil's President Lula stresses geopolitical significance in BRICS expansion decision</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/world/2023/08/24/brazils-president-lula-stresses-geopolitical-significance-brics-expansion-decision/brazils-president-lula-stresses-geopolitical-significance-brics-expansion-decision.webp</image:loc>
         </image:image>
       </url></urlset>
