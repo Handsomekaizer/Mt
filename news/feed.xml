@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+      <rss version="2.0"
+           xmlns:dc="http://purl.org/dc/elements/1.1/"
+           xmlns:media="http://search.yahoo.com/mrss/"
+           xmlns:atom="http://www.w3.org/2005/Atom">
+      <channel>
+        <title>Major Digest - Reliable and Comprehensive News Sources: news</title>
+        <description>Get the latest news online at Major Digest, the top online news resource for the most reliable news sources. Stay informed about the world around you!</description>
+        <link>https://majordigest.com/?utm_medium=RSS</link>
+        <lastBuildDate>Fri, 25 Aug 2023 05:15:50 GMT</lastBuildDate>
+        <generator>https://majordigest.com/?v=1.1.4</generator>
+        <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/" />
+        <atom:link rel="self" href="https://majordigest.com/news/feed.xml" type="application/rss+xml" />
+        <language>en-US</language>
+        <ttl>60</ttl>
+        <image>
+          <title>Major Digest - Reliable and Comprehensive News Sources: news</title>
+          <url>https://majordigest.com/assets/icons/logo-512x512.png</url>
+          <link>https://majordigest.com/?utm_medium=RSS</link>
+        </image>
+      <item>
+        <title>Mastercard, Binance to End Crypto Card Programmes in Four Countries</title>
+        <description><![CDATA[Mastercard and crypto exchange Binance will end their four crypto card programmes in Argentina, Brazil, Colombia and Bahrain as of September 22, a spokesperson for Mastercard said via email on Thursday.]]></description>
+        <guid>https://majordigest.com/news/2023/08/24/mastercard-binance-end-crypto-card-programmes-argentina-brazil-columbia-bahrain-september-22-4327288/</guid>
+        <link>https://majordigest.com/news/2023/08/24/mastercard-binance-end-crypto-card-programmes-argentina-brazil-columbia-bahrain-september-22-4327288/</link>
+        <pubDate>Thu, 24 Aug 2023 23:31:59 +0530</pubDate>
+        <category>news</category>
+        <media:content medium="image" url="https://majordigest.com/news/2023/08/24/mastercard-binance-end-crypto-card-programmes-argentina-brazil-columbia-bahrain-september-22-4327288/mastercard-binance-end-crypto-card-programmes-argentina-brazil-columbia-bahrain-september-22-4327288.webp"/>
+        <media:thumbnail url="https://majordigest.com/news/2023/08/24/mastercard-binance-end-crypto-card-programmes-argentina-brazil-columbia-bahrain-september-22-4327288/mastercard-binance-end-crypto-card-programmes-argentina-brazil-columbia-bahrain-september-22-4327288.webp"/>
+        <dc:creator>gadgets360</dc:creator>
+      </item>
+      <item>
+        <title>Donald Trump Campaign Starts Selling T-Shirts With Ex-President's Mug Shot</title>
+        <description><![CDATA[Donald Trump was arrested at a Georgia jail on August 24 on racketeering and conspiracy charges for trying to overturn the 2020 election results in the southern State.]]></description>
+        <guid>https://majordigest.com/news/2023/08/25/never-surrender-donald-trump-campaign-starts-selling-t-shirts-with-us-ex-presidents-mug-shot-4327767/</guid>
+        <link>https://majordigest.com/news/2023/08/25/never-surrender-donald-trump-campaign-starts-selling-t-shirts-with-us-ex-presidents-mug-shot-4327767/</link>
+        <pubDate>Fri, 25 Aug 2023 09:11:11 +0530</pubDate>
+        <category>news</category>
+        <media:content medium="image" url="https://majordigest.com/news/2023/08/25/never-surrender-donald-trump-campaign-starts-selling-t-shirts-with-us-ex-presidents-mug-shot-4327767/never-surrender-donald-trump-campaign-starts-selling-t-shirts-with-us-ex-presidents-mug-shot-4327767.webp"/>
+        <media:thumbnail url="https://majordigest.com/news/2023/08/25/never-surrender-donald-trump-campaign-starts-selling-t-shirts-with-us-ex-presidents-mug-shot-4327767/never-surrender-donald-trump-campaign-starts-selling-t-shirts-with-us-ex-presidents-mug-shot-4327767.webp"/>
+        <dc:creator>ndtv</dc:creator>
+      </item></channel></rss>

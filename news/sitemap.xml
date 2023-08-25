@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+      <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+              xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
+              xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+      <url>
+        <loc>https://majordigest.com/news/2023/08/24/mastercard-binance-end-crypto-card-programmes-argentina-brazil-columbia-bahrain-september-22-4327288/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-24T18:01:59.000Z</news:publication_date>
+          <news:title>Mastercard, Binance to End Crypto Card Programmes in Four Countries</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/news/2023/08/24/mastercard-binance-end-crypto-card-programmes-argentina-brazil-columbia-bahrain-september-22-4327288/mastercard-binance-end-crypto-card-programmes-argentina-brazil-columbia-bahrain-september-22-4327288.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/news/2023/08/25/never-surrender-donald-trump-campaign-starts-selling-t-shirts-with-us-ex-presidents-mug-shot-4327767/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-25T03:41:11.000Z</news:publication_date>
+          <news:title>Donald Trump Campaign Starts Selling T-Shirts With Ex-President's Mug Shot</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/news/2023/08/25/never-surrender-donald-trump-campaign-starts-selling-t-shirts-with-us-ex-presidents-mug-shot-4327767/never-surrender-donald-trump-campaign-starts-selling-t-shirts-with-us-ex-presidents-mug-shot-4327767.webp</image:loc>
+        </image:image>
+      </url></urlset>
