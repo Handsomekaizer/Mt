@@ -3,143 +3,17 @@
               xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
               xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
       <url>
-        <loc>https://majordigest.com/politics/2023/08/25/donald-trump-mugshot-on-merchandise/</loc>
+        <loc>https://majordigest.com/politics/2023/08/25/npr-climate-change-made-it-in-the-gop-debate-some-young-republicans-say-thats-a-win/</loc>
         <news:news>
           <news:publication>
             <news:name>Major Digest</news:name>
             <news:language>en</news:language>
           </news:publication>
-          <news:publication_date>2023-08-25T15:05:21.000Z</news:publication_date>
-          <news:title>Donald Trump, after being booked in Georgia, puts mug shot on merch</news:title>
+          <news:publication_date>2023-08-25T12:24:00.000Z</news:publication_date>
+          <news:title>Climate change made it in the GOP debate. Some young Republicans say that's a win</news:title>
         </news:news>
         <image:image>
-          <image:loc>https://majordigest.com/politics/2023/08/25/donald-trump-mugshot-on-merchandise/donald-trump-mugshot-on-merchandise.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/politics/2023/08/25/how-the-house-gop-made-headway-on-its-2024-recruitment-crisis/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-25T14:04:50.000Z</news:publication_date>
-          <news:title>The 2024 crisis McCarthy is fielding &#8211; that you don't know about yet</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/politics/2023/08/25/how-the-house-gop-made-headway-on-its-2024-recruitment-crisis/how-the-house-gop-made-headway-on-its-2024-recruitment-crisis.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/politics/2023/08/24/npr-republican-debate-candidates-trump-pence-ramaswamy-haley-christie-milwaukee-2024/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-24T09:00:00.000Z</news:publication_date>
-          <news:title>5 takeaways from the first Republican primary debate</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/politics/2023/08/24/npr-republican-debate-candidates-trump-pence-ramaswamy-haley-christie-milwaukee-2024/npr-republican-debate-candidates-trump-pence-ramaswamy-haley-christie-milwaukee-2024.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/politics/2023/08/25/hawaii-senator-urges-tourists-keep-maui-vacations-amid-fears-fire-crushing-hospitality-industry/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-25T17:17:25.000Z</news:publication_date>
-          <news:title>Hawaii senator urges tourists to keep Maui vacations amid fears of fire crushing hospitality industry</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/politics/2023/08/25/hawaii-senator-urges-tourists-keep-maui-vacations-amid-fears-fire-crushing-hospitality-industry/hawaii-senator-urges-tourists-keep-maui-vacations-amid-fears-fire-crushing-hospitality-industry.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/politics/2023/08/25/ap-one-image-one-face-one-american-moment-the-donald-trump-mug-shot/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-25T20:53:48.000Z</news:publication_date>
-          <news:title>One image, one face, one American moment: The Donald Trump mug shot</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/politics/2023/08/25/ap-one-image-one-face-one-american-moment-the-donald-trump-mug-shot/ap-one-image-one-face-one-american-moment-the-donald-trump-mug-shot.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/politics/2023/08/25/pro-trump-tan-mom-patricia-krentcil-reality-tv-republican-vying-us-senate-florida/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-25T17:35:05.000Z</news:publication_date>
-          <news:title>Pro-Trump 'Tan Mom' Patricia Krentcil: The reality TV Republican vying for US Senate in Florida</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/politics/2023/08/25/pro-trump-tan-mom-patricia-krentcil-reality-tv-republican-vying-us-senate-florida/pro-trump-tan-mom-patricia-krentcil-reality-tv-republican-vying-us-senate-florida.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/politics/2023/08/25/ap-republicans-pick-houston-to-host-their-2028-national-convention/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-25T18:41:43.000Z</news:publication_date>
-          <news:title>Republicans pick Houston to host their 2028 national convention</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/politics/2023/08/25/ap-republicans-pick-houston-to-host-their-2028-national-convention/ap-republicans-pick-houston-to-host-their-2028-national-convention.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/politics/2023/08/24/vivek-ramaswamy-takes-center-stage-plus-other-key-moments-from-first-republican-debate/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-24T11:00:00.000Z</news:publication_date>
-          <news:title>Vivek Ramaswamy takes center stage, plus other key moments from first Republican debate</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/politics/2023/08/24/vivek-ramaswamy-takes-center-stage-plus-other-key-moments-from-first-republican-debate/vivek-ramaswamy-takes-center-stage-plus-other-key-moments-from-first-republican-debate.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/politics/2023/08/21/biden-campaign-launches-25m-ad-buy-in-battleground-states-including-nevada/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-21T19:47:58.000Z</news:publication_date>
-          <news:title>Biden campaign launches $25M ad buy in battleground states, including Nevada</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/politics/2023/08/21/biden-campaign-launches-25m-ad-buy-in-battleground-states-including-nevada/biden-campaign-launches-25m-ad-buy-in-battleground-states-including-nevada.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/politics/2023/08/24/rep-mike-levin-makes-stop-in-encinitas-to-talk-climate-following-first-tropical-storm-in-decades/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-24T05:49:14.000Z</news:publication_date>
-          <news:title>Rep. Mike Levin makes stop in Encinitas to talk climate following first tropical storm in decades</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/politics/2023/08/24/rep-mike-levin-makes-stop-in-encinitas-to-talk-climate-following-first-tropical-storm-in-decades/rep-mike-levin-makes-stop-in-encinitas-to-talk-climate-following-first-tropical-storm-in-decades.webp</image:loc>
+          <image:loc>https://majordigest.com/politics/2023/08/25/npr-climate-change-made-it-in-the-gop-debate-some-young-republicans-say-thats-a-win/npr-climate-change-made-it-in-the-gop-debate-some-young-republicans-say-thats-a-win.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -157,59 +31,73 @@
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/politics/2023/08/25/biden-alcohol-czar-says-us-may-follow-canada-limit-beers-two-week/</loc>
+        <loc>https://majordigest.com/politics/2023/08/23/stearns-county-board-rejects-proposal-to-help-property-owners-get-rid-of-racial-covenants/</loc>
         <news:news>
           <news:publication>
             <news:name>Major Digest</news:name>
             <news:language>en</news:language>
           </news:publication>
-          <news:publication_date>2023-08-25T17:51:06.000Z</news:publication_date>
-          <news:title>Biden alcohol czar says US may follow Canada, limit beers to two a week: 'what a joke'</news:title>
+          <news:publication_date>2023-08-23T18:43:00.000Z</news:publication_date>
+          <news:title>Stearns County rejects plan to address racial covenants</news:title>
         </news:news>
         <image:image>
-          <image:loc>https://majordigest.com/politics/2023/08/25/biden-alcohol-czar-says-us-may-follow-canada-limit-beers-two-week/biden-alcohol-czar-says-us-may-follow-canada-limit-beers-two-week.webp</image:loc>
+          <image:loc>https://majordigest.com/politics/2023/08/23/stearns-county-board-rejects-proposal-to-help-property-owners-get-rid-of-racial-covenants/stearns-county-board-rejects-proposal-to-help-property-owners-get-rid-of-racial-covenants.webp</image:loc>
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/politics/2023/08/25/former-kanye-west-publicist-trevian-kutti-smiles-mugshot-being-booked-trump-election-case/</loc>
+        <loc>https://majordigest.com/politics/2023/08/24/npr-republican-debate-candidates-trump-pence-ramaswamy-haley-christie-milwaukee-2024/</loc>
         <news:news>
           <news:publication>
             <news:name>Major Digest</news:name>
             <news:language>en</news:language>
           </news:publication>
-          <news:publication_date>2023-08-25T19:24:08.000Z</news:publication_date>
-          <news:title>Former Kanye West publicist Trevian Kutti grins in mugshot after being booked in Trump election case</news:title>
+          <news:publication_date>2023-08-24T09:00:00.000Z</news:publication_date>
+          <news:title>5 takeaways from the first Republican primary debate</news:title>
         </news:news>
         <image:image>
-          <image:loc>https://majordigest.com/politics/2023/08/25/former-kanye-west-publicist-trevian-kutti-smiles-mugshot-being-booked-trump-election-case/former-kanye-west-publicist-trevian-kutti-smiles-mugshot-being-booked-trump-election-case.webp</image:loc>
+          <image:loc>https://majordigest.com/politics/2023/08/24/npr-republican-debate-candidates-trump-pence-ramaswamy-haley-christie-milwaukee-2024/npr-republican-debate-candidates-trump-pence-ramaswamy-haley-christie-milwaukee-2024.webp</image:loc>
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/politics/2023/08/25/ap-democrats-accuse-tax-prep-firms-of-undermining-new-irs-effort-on-electronic-free-file-tax-returns/</loc>
+        <loc>https://majordigest.com/politics/2023/08/25/desantis-ramaswamy-experience-fundraising-surge-republican-debate/</loc>
         <news:news>
           <news:publication>
             <news:name>Major Digest</news:name>
             <news:language>en</news:language>
           </news:publication>
-          <news:publication_date>2023-08-25T14:11:20.000Z</news:publication_date>
-          <news:title>Democrats accuse tax prep firms of undermining new IRS effort on electronic free file tax returns</news:title>
+          <news:publication_date>2023-08-25T17:47:03.000Z</news:publication_date>
+          <news:title>DeSantis, Ramaswamy experience fundraising surge after first Republican debate</news:title>
         </news:news>
         <image:image>
-          <image:loc>https://majordigest.com/politics/2023/08/25/ap-democrats-accuse-tax-prep-firms-of-undermining-new-irs-effort-on-electronic-free-file-tax-returns/ap-democrats-accuse-tax-prep-firms-of-undermining-new-irs-effort-on-electronic-free-file-tax-returns.webp</image:loc>
+          <image:loc>https://majordigest.com/politics/2023/08/25/desantis-ramaswamy-experience-fundraising-surge-republican-debate/desantis-ramaswamy-experience-fundraising-surge-republican-debate.webp</image:loc>
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/politics/2023/08/25/white-house-defends-biden-following-hawaii-no-comment-debacle-insists-didnt-hear-question/</loc>
+        <loc>https://majordigest.com/politics/2023/08/25/desantis-reports-raising-more-than-1-million-as-republicans-hope-for-post-debate-boosts/</loc>
         <news:news>
           <news:publication>
             <news:name>Major Digest</news:name>
             <news:language>en</news:language>
           </news:publication>
-          <news:publication_date>2023-08-25T19:13:34.000Z</news:publication_date>
-          <news:title>White House defends Biden following Hawaii 'no comment' debacle, insists he 'didn't hear the question'</news:title>
+          <news:publication_date>2023-08-25T17:33:38.000Z</news:publication_date>
+          <news:title>DeSantis reports raising more than $1 million as Republicans hope for post-debate boosts</news:title>
         </news:news>
         <image:image>
-          <image:loc>https://majordigest.com/politics/2023/08/25/white-house-defends-biden-following-hawaii-no-comment-debacle-insists-didnt-hear-question/white-house-defends-biden-following-hawaii-no-comment-debacle-insists-didnt-hear-question.webp</image:loc>
+          <image:loc>https://majordigest.com/politics/2023/08/25/desantis-reports-raising-more-than-1-million-as-republicans-hope-for-post-debate-boosts/desantis-reports-raising-more-than-1-million-as-republicans-hope-for-post-debate-boosts.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/politics/2023/08/25/ap-ap-election-brief-what-to-expect-in-mississippis-runoff-primaries/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-25T10:35:12.000Z</news:publication_date>
+          <news:title>AP Election Brief | What to expect in Mississippi's runoff primaries</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/politics/2023/08/25/ap-ap-election-brief-what-to-expect-in-mississippis-runoff-primaries/ap-ap-election-brief-what-to-expect-in-mississippis-runoff-primaries.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -227,45 +115,199 @@
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/politics/2023/08/25/christian-nonprofit-claims-debanked-bank-america-religious-views/</loc>
+        <loc>https://majordigest.com/politics/2023/08/25/visitors-to-lincoln-memorial-say-america-has-its-flaws-but-see-gains-made-since-march-on-washington/</loc>
         <news:news>
           <news:publication>
             <news:name>Major Digest</news:name>
             <news:language>en</news:language>
           </news:publication>
-          <news:publication_date>2023-08-25T18:15:18.000Z</news:publication_date>
-          <news:title>Christian nonprofit claims it was 'debanked' by Bank of America over its religious views</news:title>
+          <news:publication_date>2023-08-25T04:25:30.000Z</news:publication_date>
+          <news:title>Visitors to Lincoln Memorial say America has its flaws but see gains made since March on Washington</news:title>
         </news:news>
         <image:image>
-          <image:loc>https://majordigest.com/politics/2023/08/25/christian-nonprofit-claims-debanked-bank-america-religious-views/christian-nonprofit-claims-debanked-bank-america-religious-views.webp</image:loc>
+          <image:loc>https://majordigest.com/politics/2023/08/25/visitors-to-lincoln-memorial-say-america-has-its-flaws-but-see-gains-made-since-march-on-washington/visitors-to-lincoln-memorial-say-america-has-its-flaws-but-see-gains-made-since-march-on-washington.webp</image:loc>
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/politics/2023/08/25/trump-and-all-18-others-charged-in-georgia-election-case-meet-the-deadline-to-surrender-at-jail/</loc>
+        <loc>https://majordigest.com/politics/2023/08/24/npr-trump-mug-shot-indicted-photo-fulton-county-atlanta/</loc>
         <news:news>
           <news:publication>
             <news:name>Major Digest</news:name>
             <news:language>en</news:language>
           </news:publication>
-          <news:publication_date>2023-08-25T16:08:21.000Z</news:publication_date>
-          <news:title>Trump and all 18 others charged in Georgia election case meet the deadline to surrender at jail</news:title>
+          <news:publication_date>2023-08-24T09:02:00.000Z</news:publication_date>
+          <news:title>Trump is likely to finally get a real mug shot. Does it matter?</news:title>
         </news:news>
         <image:image>
-          <image:loc>https://majordigest.com/politics/2023/08/25/trump-and-all-18-others-charged-in-georgia-election-case-meet-the-deadline-to-surrender-at-jail/trump-and-all-18-others-charged-in-georgia-election-case-meet-the-deadline-to-surrender-at-jail.webp</image:loc>
+          <image:loc>https://majordigest.com/politics/2023/08/24/npr-trump-mug-shot-indicted-photo-fulton-county-atlanta/npr-trump-mug-shot-indicted-photo-fulton-county-atlanta.webp</image:loc>
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/politics/2023/08/25/ramaswamy-team-claps-back-at-ann-coulter-hindu-business-tweet/</loc>
+        <loc>https://majordigest.com/politics/2023/08/24/trump-expected-to-surrender-at-fulton-county-jail-live-updates/</loc>
         <news:news>
           <news:publication>
             <news:name>Major Digest</news:name>
             <news:language>en</news:language>
           </news:publication>
-          <news:publication_date>2023-08-25T09:31:53.000Z</news:publication_date>
-          <news:title>Ramaswamy team claps back at Ann Coulter 'Hindu business' tweet</news:title>
+          <news:publication_date>2023-08-24T19:08:14.000Z</news:publication_date>
+          <news:title>Trump surrenders for historic fourth arrest: see updates</news:title>
         </news:news>
         <image:image>
-          <image:loc>https://majordigest.com/politics/2023/08/25/ramaswamy-team-claps-back-at-ann-coulter-hindu-business-tweet/ramaswamy-team-claps-back-at-ann-coulter-hindu-business-tweet.webp</image:loc>
+          <image:loc>https://majordigest.com/politics/2023/08/24/trump-expected-to-surrender-at-fulton-county-jail-live-updates/trump-expected-to-surrender-at-fulton-county-jail-live-updates.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/politics/2023/08/21/president-biden-first-lady-to-arrive-on-maui-monday-morning/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-21T21:29:32.000Z</news:publication_date>
+          <news:title>President Biden, First Lady to arrive on Maui Monday morning</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/politics/2023/08/21/president-biden-first-lady-to-arrive-on-maui-monday-morning/president-biden-first-lady-to-arrive-on-maui-monday-morning.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/politics/2023/08/24/california-bill-proposes-new-state-agency-to-handle-reparations-for-black-residents/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-24T03:28:41.000Z</news:publication_date>
+          <news:title>California bill proposes new state agency to handle reparations for Black residents</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/politics/2023/08/24/california-bill-proposes-new-state-agency-to-handle-reparations-for-black-residents/california-bill-proposes-new-state-agency-to-handle-reparations-for-black-residents.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/politics/2023/08/25/ap-harris-is-welcoming-las-vegas-aces-to-the-white-house-to-celebrate-teams-2022-wnba-championship/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-25T21:18:24.000Z</news:publication_date>
+          <news:title>Harris praises 2022 WNBA champion Las Vegas Aces for 'grit and determination' on and off court</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/politics/2023/08/25/ap-harris-is-welcoming-las-vegas-aces-to-the-white-house-to-celebrate-teams-2022-wnba-championship/ap-harris-is-welcoming-las-vegas-aces-to-the-white-house-to-celebrate-teams-2022-wnba-championship.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/politics/2023/08/25/gop-talk-of-military-action-in-mexico-sparks-dire-warnings/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-25T10:38:41.000Z</news:publication_date>
+          <news:title>GOP talk of military action in Mexico sparks dire warnings</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/politics/2023/08/25/gop-talk-of-military-action-in-mexico-sparks-dire-warnings/gop-talk-of-military-action-in-mexico-sparks-dire-warnings.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/politics/2023/08/25/haley-on-trump-mugshot-its-a-sad-day-in-america/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-25T15:36:47.000Z</news:publication_date>
+          <news:title>Haley on Trump mug shot: 'It&#8217;s a sad day in America'</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/politics/2023/08/25/haley-on-trump-mugshot-its-a-sad-day-in-america/haley-on-trump-mugshot-its-a-sad-day-in-america.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/politics/2023/08/25/military-promotions-leave-families-in-limbo/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-25T12:26:18.000Z</news:publication_date>
+          <news:title>Pending military promotions leave families in limbo</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/politics/2023/08/25/military-promotions-leave-families-in-limbo/military-promotions-leave-families-in-limbo.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/politics/2023/08/24/npr-planning-for-extreme-heat-climate/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-24T09:00:00.000Z</news:publication_date>
+          <news:title>This summer has been a scorcher. DHS wants communities to plan for more of them</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/politics/2023/08/24/npr-planning-for-extreme-heat-climate/npr-planning-for-extreme-heat-climate.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/politics/2023/08/25/who-qualifies-no-student-loan-payments/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-25T17:35:26.000Z</news:publication_date>
+          <news:title>Who qualifies for $0 student loan payments?</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/politics/2023/08/25/who-qualifies-no-student-loan-payments/who-qualifies-no-student-loan-payments.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/politics/2023/08/25/ap-desantis-reports-raising-more-than-1-million-as-republicans-hope-for-post-debate-boosts/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-25T17:33:40.000Z</news:publication_date>
+          <news:title>DeSantis reports raising more than $1 million as Republicans hope for post-debate boosts</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/politics/2023/08/25/ap-desantis-reports-raising-more-than-1-million-as-republicans-hope-for-post-debate-boosts/ap-desantis-reports-raising-more-than-1-million-as-republicans-hope-for-post-debate-boosts.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/politics/2023/08/21/assemblywoman-heidi-kasama-joins-republican-challengers-for-lees-seat-in-congress/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-21T19:16:18.000Z</news:publication_date>
+          <news:title>Assemblywoman Heidi Kasama joins Republican challengers for Lee's seat in Congress</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/politics/2023/08/21/assemblywoman-heidi-kasama-joins-republican-challengers-for-lees-seat-in-congress/assemblywoman-heidi-kasama-joins-republican-challengers-for-lees-seat-in-congress.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/politics/2023/08/25/former-kanye-west-publicist-trevian-kutti-smiles-mugshot-being-booked-trump-election-case/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-25T19:24:08.000Z</news:publication_date>
+          <news:title>Former Kanye West publicist Trevian Kutti grins in mugshot after being booked in Trump election case</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/politics/2023/08/25/former-kanye-west-publicist-trevian-kutti-smiles-mugshot-being-booked-trump-election-case/former-kanye-west-publicist-trevian-kutti-smiles-mugshot-being-booked-trump-election-case.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -283,72 +325,58 @@
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/politics/2023/08/24/trump-arrives-at-atlanta-jail-to-surrender-on-charges/</loc>
+        <loc>https://majordigest.com/politics/2023/08/24/rep-mike-levin-makes-stop-in-encinitas-to-talk-climate-following-first-tropical-storm-in-decades/</loc>
         <news:news>
           <news:publication>
             <news:name>Major Digest</news:name>
             <news:language>en</news:language>
           </news:publication>
-          <news:publication_date>2023-08-24T23:52:10.000Z</news:publication_date>
-          <news:title>Trump surrenders at Atlanta jail on election charges, then is quickly released on $200,000 bond</news:title>
+          <news:publication_date>2023-08-24T05:49:14.000Z</news:publication_date>
+          <news:title>Rep. Mike Levin makes stop in Encinitas to talk climate following first tropical storm in decades</news:title>
         </news:news>
         <image:image>
-          <image:loc>https://majordigest.com/politics/2023/08/24/trump-arrives-at-atlanta-jail-to-surrender-on-charges/trump-arrives-at-atlanta-jail-to-surrender-on-charges.webp</image:loc>
+          <image:loc>https://majordigest.com/politics/2023/08/24/rep-mike-levin-makes-stop-in-encinitas-to-talk-climate-following-first-tropical-storm-in-decades/rep-mike-levin-makes-stop-in-encinitas-to-talk-climate-following-first-tropical-storm-in-decades.webp</image:loc>
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/politics/2023/08/24/apple-backs-californias-right-to-repair-bill-in-major-policy-shift/</loc>
+        <loc>https://majordigest.com/politics/2023/08/21/biden-campaign-launches-25m-ad-buy-in-battleground-states-including-nevada/</loc>
         <news:news>
           <news:publication>
             <news:name>Major Digest</news:name>
             <news:language>en</news:language>
           </news:publication>
-          <news:publication_date>2023-08-24T21:36:45.000Z</news:publication_date>
-          <news:title>Apple backs California's 'Right to Repair' bill in major policy shift</news:title>
+          <news:publication_date>2023-08-21T19:47:58.000Z</news:publication_date>
+          <news:title>Biden campaign launches $25M ad buy in battleground states, including Nevada</news:title>
         </news:news>
         <image:image>
-          <image:loc>https://majordigest.com/politics/2023/08/24/apple-backs-californias-right-to-repair-bill-in-major-policy-shift/apple-backs-californias-right-to-repair-bill-in-major-policy-shift.webp</image:loc>
+          <image:loc>https://majordigest.com/politics/2023/08/21/biden-campaign-launches-25m-ad-buy-in-battleground-states-including-nevada/biden-campaign-launches-25m-ad-buy-in-battleground-states-including-nevada.webp</image:loc>
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/politics/2023/08/25/iowa-poll-shows-desantis-closing-gap-trump-after-first-republican-debate/</loc>
+        <loc>https://majordigest.com/politics/2023/08/24/vivek-ramaswamy-takes-center-stage-plus-other-key-moments-from-first-republican-debate/</loc>
         <news:news>
           <news:publication>
             <news:name>Major Digest</news:name>
             <news:language>en</news:language>
           </news:publication>
-          <news:publication_date>2023-08-25T19:00:48.000Z</news:publication_date>
-          <news:title>Iowa poll shows Florida gov closing the gap on Trump after first Republican debate</news:title>
+          <news:publication_date>2023-08-24T11:00:00.000Z</news:publication_date>
+          <news:title>Vivek Ramaswamy takes center stage, plus other key moments from first Republican debate</news:title>
         </news:news>
         <image:image>
-          <image:loc>https://majordigest.com/politics/2023/08/25/iowa-poll-shows-desantis-closing-gap-trump-after-first-republican-debate/iowa-poll-shows-desantis-closing-gap-trump-after-first-republican-debate.webp</image:loc>
+          <image:loc>https://majordigest.com/politics/2023/08/24/vivek-ramaswamy-takes-center-stage-plus-other-key-moments-from-first-republican-debate/vivek-ramaswamy-takes-center-stage-plus-other-key-moments-from-first-republican-debate.webp</image:loc>
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/politics/2023/08/25/vivek-ramaswamy-momentum-debate/</loc>
+        <loc>https://majordigest.com/politics/2023/08/25/st-paul-conservative-legal-scholar-says-constitution-bars-trump-from-being-president/</loc>
         <news:news>
           <news:publication>
             <news:name>Major Digest</news:name>
             <news:language>en</news:language>
           </news:publication>
-          <news:publication_date>2023-08-25T19:22:08.000Z</news:publication_date>
-          <news:title>Vivek Ramaswamy gains momentum after debate performance&#160;</news:title>
+          <news:publication_date>2023-08-25T20:30:00.000Z</news:publication_date>
+          <news:title>MN legal scholar: Constitution bars Trump presidency</news:title>
         </news:news>
         <image:image>
-          <image:loc>https://majordigest.com/politics/2023/08/25/vivek-ramaswamy-momentum-debate/vivek-ramaswamy-momentum-debate.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/politics/2023/08/25/ap-desantis-reports-raising-more-than-1-million-as-republicans-hope-for-post-debate-boosts/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-25T17:33:40.000Z</news:publication_date>
-          <news:title>DeSantis reports raising more than $1 million as Republicans hope for post-debate boosts</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/politics/2023/08/25/ap-desantis-reports-raising-more-than-1-million-as-republicans-hope-for-post-debate-boosts/ap-desantis-reports-raising-more-than-1-million-as-republicans-hope-for-post-debate-boosts.webp</image:loc>
+          <image:loc>https://majordigest.com/politics/2023/08/25/st-paul-conservative-legal-scholar-says-constitution-bars-trump-from-being-president/st-paul-conservative-legal-scholar-says-constitution-bars-trump-from-being-president.webp</image:loc>
         </image:image>
       </url></urlset>
