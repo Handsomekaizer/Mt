@@ -3,34 +3,6 @@
               xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
               xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
       <url>
-        <loc>https://majordigest.com/us/2023/08/26/utah-county-opens-own-investigation-into-fbi-killing-of-provo-man-who-threatened-biden/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-26T01:38:15.000Z</news:publication_date>
-          <news:title>Utah County opens own investigation into FBI killing of Provo man who threatened Biden</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/us/2023/08/26/utah-county-opens-own-investigation-into-fbi-killing-of-provo-man-who-threatened-biden/utah-county-opens-own-investigation-into-fbi-killing-of-provo-man-who-threatened-biden.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/us/2023/08/26/ap-new-crew-for-the-space-station-launches-with-4-astronauts-from-4-countries/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-26T13:44:32.000Z</news:publication_date>
-          <news:title>New crew for the space station launches with 4 astronauts from 4 countries</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/us/2023/08/26/ap-new-crew-for-the-space-station-launches-with-4-astronauts-from-4-countries/ap-new-crew-for-the-space-station-launches-with-4-astronauts-from-4-countries.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
         <loc>https://majordigest.com/us/2023/08/26/stingray-impales-florida-womans-back-misses-lung-by-centimeters-super-super-painful/</loc>
         <news:news>
           <news:publication>
@@ -45,101 +17,73 @@
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/us/2023/08/26/man-banned-from-yellowstone-grand-teton-after-allegedly-going-off-trail-suffering-thermal-burns/</loc>
+        <loc>https://majordigest.com/us/2023/08/25/a-michigan-storm-with-75-mph-winds-downs-trees-and-power-lines-several-people-are-killed/</loc>
         <news:news>
           <news:publication>
             <news:name>Major Digest</news:name>
             <news:language>en</news:language>
           </news:publication>
-          <news:publication_date>2023-08-26T16:17:57.000Z</news:publication_date>
-          <news:title>Man banned from Yellowstone, Grand Teton after allegedly going off-trail, suffering thermal burns</news:title>
+          <news:publication_date>2023-08-25T11:52:41.000Z</news:publication_date>
+          <news:title>7 tornadoes confirmed as Michigan storms down trees and power lines; 5 people killed</news:title>
         </news:news>
         <image:image>
-          <image:loc>https://majordigest.com/us/2023/08/26/man-banned-from-yellowstone-grand-teton-after-allegedly-going-off-trail-suffering-thermal-burns/man-banned-from-yellowstone-grand-teton-after-allegedly-going-off-trail-suffering-thermal-burns.webp</image:loc>
+          <image:loc>https://majordigest.com/us/2023/08/25/a-michigan-storm-with-75-mph-winds-downs-trees-and-power-lines-several-people-are-killed/a-michigan-storm-with-75-mph-winds-downs-trees-and-power-lines-several-people-are-killed.webp</image:loc>
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/us/2023/08/26/2-attendees-at-chicago-white-sox-game-injured-by-gunfire-police/</loc>
+        <loc>https://majordigest.com/us/2023/08/26/hot-air-balloon-lands-vermont-highway-median-mid-flight-stall-uncommon-and-unplanned-location/</loc>
         <news:news>
           <news:publication>
             <news:name>Major Digest</news:name>
             <news:language>en</news:language>
           </news:publication>
-          <news:publication_date>2023-08-26T12:33:42.000Z</news:publication_date>
-          <news:title>2 attendees at Chicago White Sox game injured by gunfire: police</news:title>
+          <news:publication_date>2023-08-26T00:55:09.000Z</news:publication_date>
+          <news:title>Hot air balloon lands on Vermont highway median after mid-flight stall: 'Uncommon and unplanned location'</news:title>
         </news:news>
         <image:image>
-          <image:loc>https://majordigest.com/us/2023/08/26/2-attendees-at-chicago-white-sox-game-injured-by-gunfire-police/2-attendees-at-chicago-white-sox-game-injured-by-gunfire-police.webp</image:loc>
+          <image:loc>https://majordigest.com/us/2023/08/26/hot-air-balloon-lands-vermont-highway-median-mid-flight-stall-uncommon-and-unplanned-location/hot-air-balloon-lands-vermont-highway-median-mid-flight-stall-uncommon-and-unplanned-location.webp</image:loc>
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/us/2023/08/26/ap-bare-electrical-wire-and-poles-in-need-of-replacement-on-maui-were-little-match-for-strong-winds/</loc>
+        <loc>https://majordigest.com/us/2023/08/26/bronny-james-cardiac-arrest-likely-caused-by-heart-defect-family-spokesperson-says/</loc>
         <news:news>
           <news:publication>
             <news:name>Major Digest</news:name>
             <news:language>en</news:language>
           </news:publication>
-          <news:publication_date>2023-08-26T15:46:32.000Z</news:publication_date>
-          <news:title>Bare electrical wire and leaning poles on Maui were possible cause of deadly fires</news:title>
+          <news:publication_date>2023-08-26T14:37:03.000Z</news:publication_date>
+          <news:title>Bronny James' cardiac arrest likely caused by heart defect, family spokesperson says</news:title>
         </news:news>
         <image:image>
-          <image:loc>https://majordigest.com/us/2023/08/26/ap-bare-electrical-wire-and-poles-in-need-of-replacement-on-maui-were-little-match-for-strong-winds/ap-bare-electrical-wire-and-poles-in-need-of-replacement-on-maui-were-little-match-for-strong-winds.webp</image:loc>
+          <image:loc>https://majordigest.com/us/2023/08/26/bronny-james-cardiac-arrest-likely-caused-by-heart-defect-family-spokesperson-says/bronny-james-cardiac-arrest-likely-caused-by-heart-defect-family-spokesperson-says.webp</image:loc>
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/us/2023/08/26/its-game-over-what-prigozhins-end-means-for-wagner-group/</loc>
+        <loc>https://majordigest.com/us/2023/08/26/stingray-impales-florida-womans-back-misses-lung-by-centimeters-super-super-painful/</loc>
         <news:news>
           <news:publication>
             <news:name>Major Digest</news:name>
             <news:language>en</news:language>
           </news:publication>
-          <news:publication_date>2023-08-26T15:12:09.000Z</news:publication_date>
-          <news:title>'It's game over': What Prigozhin's end means for Wagner Group</news:title>
+          <news:publication_date>2023-08-26T15:46:41.000Z</news:publication_date>
+          <news:title>Stingray impales Florida woman's back, misses lung by centimeters: 'Super, super painful'</news:title>
         </news:news>
         <image:image>
-          <image:loc>https://majordigest.com/us/2023/08/26/its-game-over-what-prigozhins-end-means-for-wagner-group/its-game-over-what-prigozhins-end-means-for-wagner-group.webp</image:loc>
+          <image:loc>https://majordigest.com/us/2023/08/26/stingray-impales-florida-womans-back-misses-lung-by-centimeters-super-super-painful/stingray-impales-florida-womans-back-misses-lung-by-centimeters-super-super-painful.webp</image:loc>
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/us/2023/08/26/multiple-victims-shooting-oklahoma-high-school-football-game-police/</loc>
+        <loc>https://majordigest.com/us/2023/08/26/some-birds-may-be-less-afraid-of-humans-after-pandemic-study-suggests/</loc>
         <news:news>
           <news:publication>
             <news:name>Major Digest</news:name>
             <news:language>en</news:language>
           </news:publication>
-          <news:publication_date>2023-08-26T06:31:44.000Z</news:publication_date>
-          <news:title>Multiple victims in shooting at Oklahoma high school football game: police</news:title>
+          <news:publication_date>2023-08-26T13:02:23.000Z</news:publication_date>
+          <news:title>Some birds may be less afraid of humans after pandemic, study suggests</news:title>
         </news:news>
         <image:image>
-          <image:loc>https://majordigest.com/us/2023/08/26/multiple-victims-shooting-oklahoma-high-school-football-game-police/multiple-victims-shooting-oklahoma-high-school-football-game-police.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/us/2023/08/26/porch-pirate-steals-package-directly-from-fedex-driver-video-shows-never-seen-anything-like-that/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-26T13:49:39.000Z</news:publication_date>
-          <news:title>Porch pirate steals package directly from FedEx driver, video shows: 'Never seen anything like that'</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/us/2023/08/26/porch-pirate-steals-package-directly-from-fedex-driver-video-shows-never-seen-anything-like-that/porch-pirate-steals-package-directly-from-fedex-driver-video-shows-never-seen-anything-like-that.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/us/2023/08/24/4167179-study-links-childrens-screen-time-to-heart-damage-in-adulthood/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-24T16:11:14.000Z</news:publication_date>
-          <news:title>Study links children's screen time to heart damage in adulthood</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/us/2023/08/24/4167179-study-links-childrens-screen-time-to-heart-damage-in-adulthood/4167179-study-links-childrens-screen-time-to-heart-damage-in-adulthood.webp</image:loc>
+          <image:loc>https://majordigest.com/us/2023/08/26/some-birds-may-be-less-afraid-of-humans-after-pandemic-study-suggests/some-birds-may-be-less-afraid-of-humans-after-pandemic-study-suggests.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -157,45 +101,17 @@
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/us/2023/08/26/new-mexico-suspend-drivers-licenses-fines/</loc>
+        <loc>https://majordigest.com/us/2023/08/24/4169221-national-cinema-day-major-theater-chains-offering-4-tickets-for-1-day-only/</loc>
         <news:news>
           <news:publication>
             <news:name>Major Digest</news:name>
             <news:language>en</news:language>
           </news:publication>
-          <news:publication_date>2023-08-26T10:30:00.000Z</news:publication_date>
-          <news:title>New Mexico will no longer suspend drivers licenses for fines</news:title>
+          <news:publication_date>2023-08-24T16:40:31.000Z</news:publication_date>
+          <news:title>National Cinema Day: Major theater chains offering $4 tickets for 1 day only</news:title>
         </news:news>
         <image:image>
-          <image:loc>https://majordigest.com/us/2023/08/26/new-mexico-suspend-drivers-licenses-fines/new-mexico-suspend-drivers-licenses-fines.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/us/2023/08/26/california-womans-remains-found-15-years-vanishing-casino-doc-says/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-26T12:00:34.000Z</news:publication_date>
-          <news:title>California woman&#8217;s remains found 15 years after vanishing from casino, doc says: &#8216;We never gave up&#8217;</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/us/2023/08/26/california-womans-remains-found-15-years-vanishing-casino-doc-says/california-womans-remains-found-15-years-vanishing-casino-doc-says.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/us/2023/08/26/ap-beloved-wild-horses-that-roam-theodore-roosevelt-national-park-may-be-removed-many-oppose-the-plan/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-26T14:55:44.000Z</news:publication_date>
-          <news:title>Wild horses that roam Theodore Roosevelt National Park may be removed. Many oppose the plan</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/us/2023/08/26/ap-beloved-wild-horses-that-roam-theodore-roosevelt-national-park-may-be-removed-many-oppose-the-plan/ap-beloved-wild-horses-that-roam-theodore-roosevelt-national-park-may-be-removed-many-oppose-the-plan.webp</image:loc>
+          <image:loc>https://majordigest.com/us/2023/08/24/4169221-national-cinema-day-major-theater-chains-offering-4-tickets-for-1-day-only/4169221-national-cinema-day-major-theater-chains-offering-4-tickets-for-1-day-only.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -213,87 +129,31 @@
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/us/2023/08/26/bronny-james-cardiac-arrest-likely-caused-by-heart-defect-family-spokesperson-says/</loc>
+        <loc>https://majordigest.com/us/2023/08/26/man-banned-from-yellowstone-grand-teton-after-allegedly-going-off-trail-suffering-thermal-burns/</loc>
         <news:news>
           <news:publication>
             <news:name>Major Digest</news:name>
             <news:language>en</news:language>
           </news:publication>
-          <news:publication_date>2023-08-26T14:37:18.000Z</news:publication_date>
-          <news:title>Bronny James' cardiac arrest likely caused by heart defect, family spokesperson says</news:title>
+          <news:publication_date>2023-08-26T16:19:49.000Z</news:publication_date>
+          <news:title>Man banned from Yellowstone, Grand Teton after allegedly going off-trail, suffering thermal burns</news:title>
         </news:news>
         <image:image>
-          <image:loc>https://majordigest.com/us/2023/08/26/bronny-james-cardiac-arrest-likely-caused-by-heart-defect-family-spokesperson-says/bronny-james-cardiac-arrest-likely-caused-by-heart-defect-family-spokesperson-says.webp</image:loc>
+          <image:loc>https://majordigest.com/us/2023/08/26/man-banned-from-yellowstone-grand-teton-after-allegedly-going-off-trail-suffering-thermal-burns/man-banned-from-yellowstone-grand-teton-after-allegedly-going-off-trail-suffering-thermal-burns.webp</image:loc>
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/us/2023/08/26/ap-bare-electrical-wire-and-poles-in-need-of-replacement-on-maui-were-little-match-for-strong-winds/</loc>
+        <loc>https://majordigest.com/us/2023/08/26/100-individuals-reported-missing-maui-confirmed-alive-fbi/</loc>
         <news:news>
           <news:publication>
             <news:name>Major Digest</news:name>
             <news:language>en</news:language>
           </news:publication>
-          <news:publication_date>2023-08-26T15:46:32.000Z</news:publication_date>
-          <news:title>Bare electrical wire and leaning poles on Maui were possible cause of deadly fires</news:title>
+          <news:publication_date>2023-08-26T12:23:34.000Z</news:publication_date>
+          <news:title>Over 100 individuals reported missing in Maui confirmed alive, FBI says</news:title>
         </news:news>
         <image:image>
-          <image:loc>https://majordigest.com/us/2023/08/26/ap-bare-electrical-wire-and-poles-in-need-of-replacement-on-maui-were-little-match-for-strong-winds/ap-bare-electrical-wire-and-poles-in-need-of-replacement-on-maui-were-little-match-for-strong-winds.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/us/2023/08/26/ap-moscow-airports-suspend-flights-following-latest-reported-drone-strike/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-26T11:55:28.000Z</news:publication_date>
-          <news:title>Shelling kills civilians in Ukraine, fears of new invasion grow</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/us/2023/08/26/ap-moscow-airports-suspend-flights-following-latest-reported-drone-strike/ap-moscow-airports-suspend-flights-following-latest-reported-drone-strike.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/us/2023/08/26/beloved-wild-horses-that-roam-theodore-roosevelt-national-park-may-be-removed-many-oppose-the-plan/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-26T04:04:29.000Z</news:publication_date>
-          <news:title>Wild horses that roam Theodore Roosevelt National Park may be removed. Many oppose the plan</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/us/2023/08/26/beloved-wild-horses-that-roam-theodore-roosevelt-national-park-may-be-removed-many-oppose-the-plan/beloved-wild-horses-that-roam-theodore-roosevelt-national-park-may-be-removed-many-oppose-the-plan.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/us/2023/08/26/ap-bare-electrical-wire-and-poles-in-need-of-replacement-on-maui-were-little-match-for-strong-winds/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-26T15:46:32.000Z</news:publication_date>
-          <news:title>Bare electrical wire and leaning poles on Maui were possible cause of deadly fires</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/us/2023/08/26/ap-bare-electrical-wire-and-poles-in-need-of-replacement-on-maui-were-little-match-for-strong-winds/ap-bare-electrical-wire-and-poles-in-need-of-replacement-on-maui-were-little-match-for-strong-winds.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/us/2023/08/26/ap-beloved-wild-horses-that-roam-theodore-roosevelt-national-park-may-be-removed-many-oppose-the-plan/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-26T14:55:44.000Z</news:publication_date>
-          <news:title>Wild horses that roam Theodore Roosevelt National Park may be removed. Many oppose the plan</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/us/2023/08/26/ap-beloved-wild-horses-that-roam-theodore-roosevelt-national-park-may-be-removed-many-oppose-the-plan/ap-beloved-wild-horses-that-roam-theodore-roosevelt-national-park-may-be-removed-many-oppose-the-plan.webp</image:loc>
+          <image:loc>https://majordigest.com/us/2023/08/26/100-individuals-reported-missing-maui-confirmed-alive-fbi/100-individuals-reported-missing-maui-confirmed-alive-fbi.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -311,30 +171,114 @@
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/us/2023/08/26/ap-beloved-wild-horses-that-roam-theodore-roosevelt-national-park-may-be-removed-many-oppose-the-plan/</loc>
+        <loc>https://majordigest.com/us/2023/08/26/hawaiis-cherished-notion-of-family-the-ohana-endures-in-tragedys-aftermath/</loc>
         <news:news>
           <news:publication>
             <news:name>Major Digest</news:name>
             <news:language>en</news:language>
           </news:publication>
-          <news:publication_date>2023-08-26T14:55:44.000Z</news:publication_date>
-          <news:title>Wild horses that roam Theodore Roosevelt National Park may be removed. Many oppose the plan</news:title>
+          <news:publication_date>2023-08-26T10:00:19.000Z</news:publication_date>
+          <news:title>Hawaii's cherished notion of family, the 'ohana, endures in tragedy's aftermath</news:title>
         </news:news>
         <image:image>
-          <image:loc>https://majordigest.com/us/2023/08/26/ap-beloved-wild-horses-that-roam-theodore-roosevelt-national-park-may-be-removed-many-oppose-the-plan/ap-beloved-wild-horses-that-roam-theodore-roosevelt-national-park-may-be-removed-many-oppose-the-plan.webp</image:loc>
+          <image:loc>https://majordigest.com/us/2023/08/26/hawaiis-cherished-notion-of-family-the-ohana-endures-in-tragedys-aftermath/hawaiis-cherished-notion-of-family-the-ohana-endures-in-tragedys-aftermath.webp</image:loc>
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/us/2023/08/26/hot-air-balloon-lands-vermont-highway-median-mid-flight-stall-uncommon-and-unplanned-location/</loc>
+        <loc>https://majordigest.com/us/2023/08/26/porch-pirate-steals-package-directly-from-fedex-driver-video-shows-never-seen-anything-like-that/</loc>
         <news:news>
           <news:publication>
             <news:name>Major Digest</news:name>
             <news:language>en</news:language>
           </news:publication>
-          <news:publication_date>2023-08-26T00:55:09.000Z</news:publication_date>
-          <news:title>Hot air balloon lands on Vermont highway median after mid-flight stall: 'Uncommon and unplanned location'</news:title>
+          <news:publication_date>2023-08-26T13:49:22.000Z</news:publication_date>
+          <news:title>Porch pirate steals package directly from FedEx driver, video shows: 'Never seen anything like that'</news:title>
         </news:news>
         <image:image>
-          <image:loc>https://majordigest.com/us/2023/08/26/hot-air-balloon-lands-vermont-highway-median-mid-flight-stall-uncommon-and-unplanned-location/hot-air-balloon-lands-vermont-highway-median-mid-flight-stall-uncommon-and-unplanned-location.webp</image:loc>
+          <image:loc>https://majordigest.com/us/2023/08/26/porch-pirate-steals-package-directly-from-fedex-driver-video-shows-never-seen-anything-like-that/porch-pirate-steals-package-directly-from-fedex-driver-video-shows-never-seen-anything-like-that.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/us/2023/08/26/tornadoes-touch-down-michigan-five-dead-after-severe-storms-cause-flooding-power-outages-damage/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-26T01:20:39.000Z</news:publication_date>
+          <news:title>Tornadoes touch down in Michigan; 5 dead after severe storms cause flooding, power outages, damage</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/us/2023/08/26/tornadoes-touch-down-michigan-five-dead-after-severe-storms-cause-flooding-power-outages-damage/tornadoes-touch-down-michigan-five-dead-after-severe-storms-cause-flooding-power-outages-damage.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/us/2023/08/26/stingray-impales-florida-womans-back-misses-lung-by-centimeters-super-super-painful/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-26T15:45:52.000Z</news:publication_date>
+          <news:title>Stingray impales Florida woman's back, misses lung by centimeters: 'Super, super painful'</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/us/2023/08/26/stingray-impales-florida-womans-back-misses-lung-by-centimeters-super-super-painful/stingray-impales-florida-womans-back-misses-lung-by-centimeters-super-super-painful.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/us/2023/08/26/idaho-student-murders-kohbergers-legal-team-asks-judge-ban-cameras-from-courtroom/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-26T02:06:10.000Z</news:publication_date>
+          <news:title>Idaho student murders: Kohberger's legal team asks judge to ban cameras from courtroom</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/us/2023/08/26/idaho-student-murders-kohbergers-legal-team-asks-judge-ban-cameras-from-courtroom/idaho-student-murders-kohbergers-legal-team-asks-judge-ban-cameras-from-courtroom.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/us/2023/08/25/alabama-wants-to-be-the-1st-state-to-execute-a-prisoner-by-making-him-breathe-only-nitrogen/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-25T22:52:34.000Z</news:publication_date>
+          <news:title>Alabama wants to be the 1st state to execute a prisoner by making him breathe only nitrogen</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/us/2023/08/25/alabama-wants-to-be-the-1st-state-to-execute-a-prisoner-by-making-him-breathe-only-nitrogen/alabama-wants-to-be-the-1st-state-to-execute-a-prisoner-by-making-him-breathe-only-nitrogen.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/us/2023/08/25/maui-has-released-the-names-of-388-people-still-missing-after-deadly-wildfire/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-25T11:18:10.000Z</news:publication_date>
+          <news:title>After Maui officials named 388 people unaccounted for in fires, many called to say they're OK</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/us/2023/08/25/maui-has-released-the-names-of-388-people-still-missing-after-deadly-wildfire/maui-has-released-the-names-of-388-people-still-missing-after-deadly-wildfire.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/us/2023/08/26/multiple-victims-shooting-oklahoma-high-school-football-game-police/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-26T06:31:44.000Z</news:publication_date>
+          <news:title>Multiple victims in shooting at Oklahoma high school football game: police</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/us/2023/08/26/multiple-victims-shooting-oklahoma-high-school-football-game-police/multiple-victims-shooting-oklahoma-high-school-football-game-police.webp</image:loc>
         </image:image>
       </url></urlset>
