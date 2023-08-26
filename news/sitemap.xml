@@ -3,31 +3,171 @@
               xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
               xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
       <url>
-        <loc>https://majordigest.com/news/2023/08/26/beloved-wild-horses-that-roam-theodore-roosevelt-national-park-may-be-removed-many-oppose-the-plan/</loc>
+        <loc>https://majordigest.com/news/2023/08/25/ap-desantis-reports-raising-more-than-1-million-as-republicans-hope-for-post-debate-boosts/</loc>
         <news:news>
           <news:publication>
             <news:name>Major Digest</news:name>
             <news:language>en</news:language>
           </news:publication>
-          <news:publication_date>2023-08-26T04:04:29.000Z</news:publication_date>
-          <news:title>Wild horses that roam Theodore Roosevelt National Park may be removed. Many oppose the plan</news:title>
+          <news:publication_date>2023-08-25T17:33:40.000Z</news:publication_date>
+          <news:title>DeSantis reports raising more than $1 million as Republicans hope for post-debate boosts</news:title>
         </news:news>
         <image:image>
-          <image:loc>https://majordigest.com/news/2023/08/26/beloved-wild-horses-that-roam-theodore-roosevelt-national-park-may-be-removed-many-oppose-the-plan/beloved-wild-horses-that-roam-theodore-roosevelt-national-park-may-be-removed-many-oppose-the-plan.webp</image:loc>
+          <image:loc>https://majordigest.com/news/2023/08/25/ap-desantis-reports-raising-more-than-1-million-as-republicans-hope-for-post-debate-boosts/ap-desantis-reports-raising-more-than-1-million-as-republicans-hope-for-post-debate-boosts.webp</image:loc>
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/news/2023/08/25/ap-trump-and-all-18-others-charged-in-georgia-election-case-meet-the-deadline-to-surrender-at-jail/</loc>
+        <loc>https://majordigest.com/news/2023/08/21/fcc-wall-of-famers-talk-about-getting-hall-call/</loc>
         <news:news>
           <news:publication>
             <news:name>Major Digest</news:name>
             <news:language>en</news:language>
           </news:publication>
-          <news:publication_date>2023-08-25T20:36:28.000Z</news:publication_date>
-          <news:title>Trump and all 18 others charged in Georgia election case meet the deadline to surrender at jail</news:title>
+          <news:publication_date>2023-08-21T05:49:18.000Z</news:publication_date>
+          <news:title>FCC Wall of Famers talk about getting Wall call</news:title>
         </news:news>
         <image:image>
-          <image:loc>https://majordigest.com/news/2023/08/25/ap-trump-and-all-18-others-charged-in-georgia-election-case-meet-the-deadline-to-surrender-at-jail/ap-trump-and-all-18-others-charged-in-georgia-election-case-meet-the-deadline-to-surrender-at-jail.webp</image:loc>
+          <image:loc>https://majordigest.com/news/2023/08/21/fcc-wall-of-famers-talk-about-getting-hall-call/fcc-wall-of-famers-talk-about-getting-hall-call.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/news/2023/08/24/us-sues-spacex-for-alleged-hiring-discrimination-against-refugees-and-others/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-24T22:55:51.000Z</news:publication_date>
+          <news:title>US sues SpaceX for alleged hiring discrimination against refugees and others</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/news/2023/08/24/us-sues-spacex-for-alleged-hiring-discrimination-against-refugees-and-others/us-sues-spacex-for-alleged-hiring-discrimination-against-refugees-and-others.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/news/2023/08/26/its-game-over-what-prigozhins-end-means-for-wagner-group/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-26T15:12:29.000Z</news:publication_date>
+          <news:title>'It's game over': What Prigozhin's end means for Wagner Group</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/news/2023/08/26/its-game-over-what-prigozhins-end-means-for-wagner-group/its-game-over-what-prigozhins-end-means-for-wagner-group.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/news/2023/08/26/ramaswamy-faces-curiosity-and-skepticism-in-iowa-after-center-stage-performance-in-gop-debate/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-26T04:04:15.000Z</news:publication_date>
+          <news:title>Ramaswamy faces curiosity and skepticism in Iowa after center-stage performance in GOP debate</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/news/2023/08/26/ramaswamy-faces-curiosity-and-skepticism-in-iowa-after-center-stage-performance-in-gop-debate/ramaswamy-faces-curiosity-and-skepticism-in-iowa-after-center-stage-performance-in-gop-debate.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/news/2023/08/22/state-lawmaker-injured-during-legislative-softball-game-in-sacramento/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-22T23:09:29.000Z</news:publication_date>
+          <news:title>State lawmaker injured during legislative softball game in Sacramento</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/news/2023/08/22/state-lawmaker-injured-during-legislative-softball-game-in-sacramento/state-lawmaker-injured-during-legislative-softball-game-in-sacramento.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/news/2023/08/26/ap-fifa-suspends-spain-soccer-federation-president-luis-rubiales-for-90-days-after-world-cup-final-kiss/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-26T15:47:36.000Z</news:publication_date>
+          <news:title>FIFA suspends Spain soccer federation president Luis Rubiales for 90 days after World Cup final kiss</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/news/2023/08/26/ap-fifa-suspends-spain-soccer-federation-president-luis-rubiales-for-90-days-after-world-cup-final-kiss/ap-fifa-suspends-spain-soccer-federation-president-luis-rubiales-for-90-days-after-world-cup-final-kiss.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/news/2023/08/24/ap-t-mobile-will-lay-off-5000-employees-or-about-7-of-its-workforce-in-the-coming-weeks/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-24T17:25:01.000Z</news:publication_date>
+          <news:title>T-Mobile will lay off 5,000 employees, or about 7% of its workforce, in the coming weeks</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/news/2023/08/24/ap-t-mobile-will-lay-off-5000-employees-or-about-7-of-its-workforce-in-the-coming-weeks/ap-t-mobile-will-lay-off-5000-employees-or-about-7-of-its-workforce-in-the-coming-weeks.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/news/2023/08/25/white-house-now-says-biden-didnt-hear-wildfire-question-that-sparked-no-comment-response/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-25T23:12:37.000Z</news:publication_date>
+          <news:title>White House now says Biden didn't hear wildfire question that sparked 'no comment' response</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/news/2023/08/25/white-house-now-says-biden-didnt-hear-wildfire-question-that-sparked-no-comment-response/white-house-now-says-biden-didnt-hear-wildfire-question-that-sparked-no-comment-response.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/news/2023/08/26/the-pride-of-needville-in-photos-kprc-2-reporter-bryce-newberry-follows-needville-little-league-as-they-compete-in-llws/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-26T13:17:56.000Z</news:publication_date>
+          <news:title>The Pride of Needville in photos: KPRC 2 reporter Bryce Newberry follows Needville Little League as they compete in LLWS</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/news/2023/08/26/the-pride-of-needville-in-photos-kprc-2-reporter-bryce-newberry-follows-needville-little-league-as-they-compete-in-llws/the-pride-of-needville-in-photos-kprc-2-reporter-bryce-newberry-follows-needville-little-league-as-they-compete-in-llws.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/news/2023/08/25/early-apple-computer-that-helped-launch-3t-company-sells-at-auction-for-223000/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-25T17:04:30.000Z</news:publication_date>
+          <news:title>Early Apple computer that helped launch $3T company sells at auction for $223,000</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/news/2023/08/25/early-apple-computer-that-helped-launch-3t-company-sells-at-auction-for-223000/early-apple-computer-that-helped-launch-3t-company-sells-at-auction-for-223000.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/news/2023/08/26/abortion-providers-heartbeat-ban-south-carolina/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-26T00:56:53.000Z</news:publication_date>
+          <news:title>South Carolina abortion providers seek clarity on 'heartbeat' ban</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/news/2023/08/26/abortion-providers-heartbeat-ban-south-carolina/abortion-providers-heartbeat-ban-south-carolina.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -45,157 +185,31 @@
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/news/2023/08/22/steve-kerr-buys-stake-in-spanish-soccer-team/</loc>
+        <loc>https://majordigest.com/news/2023/08/26/ap-fifa-suspends-spain-soccer-federation-president-luis-rubiales-for-90-days-after-world-cup-final-kiss/</loc>
         <news:news>
           <news:publication>
             <news:name>Major Digest</news:name>
             <news:language>en</news:language>
           </news:publication>
-          <news:publication_date>2023-08-22T18:06:06.000Z</news:publication_date>
-          <news:title>Steve Kerr buys stake in Spanish soccer team</news:title>
+          <news:publication_date>2023-08-26T15:47:36.000Z</news:publication_date>
+          <news:title>FIFA suspends Spain soccer federation president Luis Rubiales for 90 days after World Cup final kiss</news:title>
         </news:news>
         <image:image>
-          <image:loc>https://majordigest.com/news/2023/08/22/steve-kerr-buys-stake-in-spanish-soccer-team/steve-kerr-buys-stake-in-spanish-soccer-team.webp</image:loc>
+          <image:loc>https://majordigest.com/news/2023/08/26/ap-fifa-suspends-spain-soccer-federation-president-luis-rubiales-for-90-days-after-world-cup-final-kiss/ap-fifa-suspends-spain-soccer-federation-president-luis-rubiales-for-90-days-after-world-cup-final-kiss.webp</image:loc>
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/news/2023/08/23/4167496-over-half-of-american-workers-say-theyd-consider-quitting-without-flexible-work-options-study/</loc>
+        <loc>https://majordigest.com/news/2023/08/25/4171262-foxs-kilmeade-grills-ramaswamy-over-foreign-policy-positions/</loc>
         <news:news>
           <news:publication>
             <news:name>Major Digest</news:name>
             <news:language>en</news:language>
           </news:publication>
-          <news:publication_date>2023-08-23T21:42:14.000Z</news:publication_date>
-          <news:title>Post-pandemic, many American workers say they'd consider quitting without flexible work options: study</news:title>
+          <news:publication_date>2023-08-25T16:12:26.000Z</news:publication_date>
+          <news:title>Fox's Kilmeade grills Ramaswamy over foreign policy positions</news:title>
         </news:news>
         <image:image>
-          <image:loc>https://majordigest.com/news/2023/08/23/4167496-over-half-of-american-workers-say-theyd-consider-quitting-without-flexible-work-options-study/4167496-over-half-of-american-workers-say-theyd-consider-quitting-without-flexible-work-options-study.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/news/2023/08/26/porch-pirate-steals-package-directly-from-fedex-driver-video-shows-never-seen-anything-like-that/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-26T13:49:17.000Z</news:publication_date>
-          <news:title>Porch pirate steals package directly from FedEx driver, video shows: 'Never seen anything like that'</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/news/2023/08/26/porch-pirate-steals-package-directly-from-fedex-driver-video-shows-never-seen-anything-like-that/porch-pirate-steals-package-directly-from-fedex-driver-video-shows-never-seen-anything-like-that.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/news/2023/08/26/brazils-marcelo-huertas-becomes-the-second-oldest-to-play-in-basketball-world-cup/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-26T11:51:45.000Z</news:publication_date>
-          <news:title>Brazil's Marcelo Huertas becomes the second oldest to play in basketball World Cup</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/news/2023/08/26/brazils-marcelo-huertas-becomes-the-second-oldest-to-play-in-basketball-world-cup/brazils-marcelo-huertas-becomes-the-second-oldest-to-play-in-basketball-world-cup.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/news/2023/08/26/2023-17-scoreboard-week-2-kern-county-bakersfield-high-school-football-games-scores/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-26T04:22:54.000Z</news:publication_date>
-          <news:title>17 Scoreboard: Week 2 of the high school football season in Kern County</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/news/2023/08/26/2023-17-scoreboard-week-2-kern-county-bakersfield-high-school-football-games-scores/2023-17-scoreboard-week-2-kern-county-bakersfield-high-school-football-games-scores.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/news/2023/08/24/trump-expected-to-surrender-at-fulton-county-jail-live-updates/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-24T19:08:14.000Z</news:publication_date>
-          <news:title>Trump surrenders for historic fourth arrest: see updates</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/news/2023/08/24/trump-expected-to-surrender-at-fulton-county-jail-live-updates/trump-expected-to-surrender-at-fulton-county-jail-live-updates.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/news/2023/08/26/ap-bare-electrical-wire-and-poles-in-need-of-replacement-on-maui-were-little-match-for-strong-winds/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-26T14:31:58.000Z</news:publication_date>
-          <news:title>Bare electrical wire and leaning poles on Maui were possible cause of deadly fires</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/news/2023/08/26/ap-bare-electrical-wire-and-poles-in-need-of-replacement-on-maui-were-little-match-for-strong-winds/ap-bare-electrical-wire-and-poles-in-need-of-replacement-on-maui-were-little-match-for-strong-winds.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/news/2023/08/26/ramaswamy-curiosity-skepticism-iowa-gop-debate/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-26T04:50:22.000Z</news:publication_date>
-          <news:title>Ramaswamy faces curiosity, skepticism in Iowa after GOP debate</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/news/2023/08/26/ramaswamy-curiosity-skepticism-iowa-gop-debate/ramaswamy-curiosity-skepticism-iowa-gop-debate.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/news/2023/08/21/basketball-world-cup-2023-how-to-watch-whos-playing-whos-favored-and-more/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-21T12:31:55.000Z</news:publication_date>
-          <news:title>Basketball World Cup 2023: How to watch, who's playing, who's favored and more</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/news/2023/08/21/basketball-world-cup-2023-how-to-watch-whos-playing-whos-favored-and-more/basketball-world-cup-2023-how-to-watch-whos-playing-whos-favored-and-more.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/news/2023/08/25/ap-one-image-one-face-one-american-moment-the-donald-trump-mug-shot/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-25T20:53:48.000Z</news:publication_date>
-          <news:title>One image, one face, one American moment: The Donald Trump mug shot</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/news/2023/08/25/ap-one-image-one-face-one-american-moment-the-donald-trump-mug-shot/ap-one-image-one-face-one-american-moment-the-donald-trump-mug-shot.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/news/2023/08/25/49ers-to-trade-qb-trey-lance-to-cowboys-reports/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-25T23:36:11.000Z</news:publication_date>
-          <news:title>49ers to trade QB Trey Lance to Cowboys: reports</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/news/2023/08/25/49ers-to-trade-qb-trey-lance-to-cowboys-reports/49ers-to-trade-qb-trey-lance-to-cowboys-reports.webp</image:loc>
+          <image:loc>https://majordigest.com/news/2023/08/25/4171262-foxs-kilmeade-grills-ramaswamy-over-foreign-policy-positions/4171262-foxs-kilmeade-grills-ramaswamy-over-foreign-policy-positions.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -213,58 +227,128 @@
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/news/2023/08/26/new-mexico-suspend-drivers-licenses-fines/</loc>
+        <loc>https://majordigest.com/news/2023/08/24/4169295-google-unveils-new-transparency-measures-as-eu-rule-goes-into-effect/</loc>
         <news:news>
           <news:publication>
             <news:name>Major Digest</news:name>
             <news:language>en</news:language>
           </news:publication>
-          <news:publication_date>2023-08-26T10:30:00.000Z</news:publication_date>
-          <news:title>New Mexico will no longer suspend drivers licenses for fines</news:title>
+          <news:publication_date>2023-08-24T15:59:23.000Z</news:publication_date>
+          <news:title>Google unveils new transparency measures as EU rule goes into effect</news:title>
         </news:news>
         <image:image>
-          <image:loc>https://majordigest.com/news/2023/08/26/new-mexico-suspend-drivers-licenses-fines/new-mexico-suspend-drivers-licenses-fines.webp</image:loc>
+          <image:loc>https://majordigest.com/news/2023/08/24/4169295-google-unveils-new-transparency-measures-as-eu-rule-goes-into-effect/4169295-google-unveils-new-transparency-measures-as-eu-rule-goes-into-effect.webp</image:loc>
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/news/2023/08/24/vivek-ramaswamy-takes-center-stage-plus-other-key-moments-from-first-republican-debate/</loc>
+        <loc>https://majordigest.com/news/2023/08/21/bulldog-insider-feature-rowing-the-san-joaquin-river/</loc>
         <news:news>
           <news:publication>
             <news:name>Major Digest</news:name>
             <news:language>en</news:language>
           </news:publication>
-          <news:publication_date>2023-08-24T11:00:00.000Z</news:publication_date>
-          <news:title>Vivek Ramaswamy takes center stage, plus other key moments from first Republican debate</news:title>
+          <news:publication_date>2023-08-21T02:04:06.000Z</news:publication_date>
+          <news:title>Bulldog Insider feature: Rowing the San Joaquin River</news:title>
         </news:news>
         <image:image>
-          <image:loc>https://majordigest.com/news/2023/08/24/vivek-ramaswamy-takes-center-stage-plus-other-key-moments-from-first-republican-debate/vivek-ramaswamy-takes-center-stage-plus-other-key-moments-from-first-republican-debate.webp</image:loc>
+          <image:loc>https://majordigest.com/news/2023/08/21/bulldog-insider-feature-rowing-the-san-joaquin-river/bulldog-insider-feature-rowing-the-san-joaquin-river.webp</image:loc>
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/news/2023/08/24/indias-lunar-rover-goes-down-a-ramp-to-the-moons-surface-and-takes-a-walk/</loc>
+        <loc>https://majordigest.com/news/2023/08/26/ap-hawaiis-cherished-notion-of-family-the-ohana-endures-in-tragedys-aftermath/</loc>
         <news:news>
           <news:publication>
             <news:name>Major Digest</news:name>
             <news:language>en</news:language>
           </news:publication>
-          <news:publication_date>2023-08-24T15:00:01.000Z</news:publication_date>
-          <news:title>India's lunar rover goes down a ramp to the moon's surface and takes a walk</news:title>
+          <news:publication_date>2023-08-26T16:07:18.000Z</news:publication_date>
+          <news:title>Hawaii's cherished notion of family, the 'ohana, endures in tragedy's aftermath</news:title>
         </news:news>
         <image:image>
-          <image:loc>https://majordigest.com/news/2023/08/24/indias-lunar-rover-goes-down-a-ramp-to-the-moons-surface-and-takes-a-walk/indias-lunar-rover-goes-down-a-ramp-to-the-moons-surface-and-takes-a-walk.webp</image:loc>
+          <image:loc>https://majordigest.com/news/2023/08/26/ap-hawaiis-cherished-notion-of-family-the-ohana-endures-in-tragedys-aftermath/ap-hawaiis-cherished-notion-of-family-the-ohana-endures-in-tragedys-aftermath.webp</image:loc>
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/news/2023/08/26/ramaswamy-faces-curiosity-and-skepticism-in-iowa-after-center-stage-performance-in-gop-debate/</loc>
+        <loc>https://majordigest.com/news/2023/08/25/4171861-musk-calls-trump-mug-shot-post-next-level-after-former-president-returns-to-x-platform/</loc>
         <news:news>
           <news:publication>
             <news:name>Major Digest</news:name>
             <news:language>en</news:language>
           </news:publication>
-          <news:publication_date>2023-08-26T04:04:15.000Z</news:publication_date>
-          <news:title>Ramaswamy faces curiosity and skepticism in Iowa after center-stage performance in GOP debate</news:title>
+          <news:publication_date>2023-08-25T20:18:25.000Z</news:publication_date>
+          <news:title>Musk calls Trump mug shot post 'next-level' after former president returns to 'X' platform</news:title>
         </news:news>
         <image:image>
-          <image:loc>https://majordigest.com/news/2023/08/26/ramaswamy-faces-curiosity-and-skepticism-in-iowa-after-center-stage-performance-in-gop-debate/ramaswamy-faces-curiosity-and-skepticism-in-iowa-after-center-stage-performance-in-gop-debate.webp</image:loc>
+          <image:loc>https://majordigest.com/news/2023/08/25/4171861-musk-calls-trump-mug-shot-post-next-level-after-former-president-returns-to-x-platform/4171861-musk-calls-trump-mug-shot-post-next-level-after-former-president-returns-to-x-platform.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/news/2023/08/26/ap-chicago-police-are-investigating-a-shooting-at-a-white-sox-game-at-guaranteed-rate-field/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-26T12:07:56.000Z</news:publication_date>
+          <news:title>Chicago police are investigating a shooting at White Sox game at Guaranteed Rate Field</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/news/2023/08/26/ap-chicago-police-are-investigating-a-shooting-at-a-white-sox-game-at-guaranteed-rate-field/ap-chicago-police-are-investigating-a-shooting-at-a-white-sox-game-at-guaranteed-rate-field.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/news/2023/08/26/bronny-james-cardiac-arrest-likely-caused-by-heart-defect-family-spokesperson-says/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-26T14:37:20.000Z</news:publication_date>
+          <news:title>Bronny James' cardiac arrest likely caused by heart defect, family spokesperson says</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/news/2023/08/26/bronny-james-cardiac-arrest-likely-caused-by-heart-defect-family-spokesperson-says/bronny-james-cardiac-arrest-likely-caused-by-heart-defect-family-spokesperson-says.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/news/2023/08/26/its-game-over-what-prigozhins-end-means-for-wagner-group/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-26T15:12:31.000Z</news:publication_date>
+          <news:title>'It's game over': What Prigozhin's end means for Wagner Group</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/news/2023/08/26/its-game-over-what-prigozhins-end-means-for-wagner-group/its-game-over-what-prigozhins-end-means-for-wagner-group.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/news/2023/08/26/ap-shankule-weathers-hot-conditions-to-lead-1-2-finish-by-ethiopia-in-the-womens-marathon-at-worlds/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-26T08:45:45.000Z</news:publication_date>
+          <news:title>Shankule weathers hot conditions to lead 1-2 finish by Ethiopia in the women's marathon at worlds</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/news/2023/08/26/ap-shankule-weathers-hot-conditions-to-lead-1-2-finish-by-ethiopia-in-the-womens-marathon-at-worlds/ap-shankule-weathers-hot-conditions-to-lead-1-2-finish-by-ethiopia-in-the-womens-marathon-at-worlds.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/news/2023/08/26/some-birds-may-be-less-afraid-of-humans-after-pandemic-study-suggests/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-26T13:02:23.000Z</news:publication_date>
+          <news:title>Some birds may be less afraid of humans after pandemic, study suggests</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/news/2023/08/26/some-birds-may-be-less-afraid-of-humans-after-pandemic-study-suggests/some-birds-may-be-less-afraid-of-humans-after-pandemic-study-suggests.webp</image:loc>
         </image:image>
       </url></urlset>
