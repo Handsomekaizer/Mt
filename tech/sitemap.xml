@@ -3,6 +3,62 @@
               xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
               xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
       <url>
+        <loc>https://majordigest.com/tech/2023/08/24/the-fukushima-nuclear-plant-is-ready-to-release-radioactive-wastewater-into-sea-later-thursday/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-24T01:56:41.000Z</news:publication_date>
+          <news:title>China bans seafood from Japan after the Fukushima nuclear plant begins its wastewater release</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/tech/2023/08/24/the-fukushima-nuclear-plant-is-ready-to-release-radioactive-wastewater-into-sea-later-thursday/the-fukushima-nuclear-plant-is-ready-to-release-radioactive-wastewater-into-sea-later-thursday.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/tech/2023/08/25/4171861-musk-calls-trump-mug-shot-post-next-level-after-former-president-returns-to-x-platform/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-25T20:18:25.000Z</news:publication_date>
+          <news:title>Musk calls Trump mug shot post 'next-level' after former president returns to 'X' platform</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/tech/2023/08/25/4171861-musk-calls-trump-mug-shot-post-next-level-after-former-president-returns-to-x-platform/4171861-musk-calls-trump-mug-shot-post-next-level-after-former-president-returns-to-x-platform.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/tech/2023/08/25/elias-contrary-to-some-claims-california-friendly-to-certain-businesses/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-25T12:00:31.000Z</news:publication_date>
+          <news:title>Elias: Contrary to some claims, California friendly to certain businesses</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/tech/2023/08/25/elias-contrary-to-some-claims-california-friendly-to-certain-businesses/elias-contrary-to-some-claims-california-friendly-to-certain-businesses.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/tech/2023/08/25/early-apple-computer-that-helped-launch-3t-company-sells-at-auction-for-223000/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-25T17:04:30.000Z</news:publication_date>
+          <news:title>Early Apple computer that helped launch $3T company sells at auction for $223,000</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/tech/2023/08/25/early-apple-computer-that-helped-launch-3t-company-sells-at-auction-for-223000/early-apple-computer-that-helped-launch-3t-company-sells-at-auction-for-223000.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
         <loc>https://majordigest.com/tech/2023/08/25/t-mobile-lay-off-5000-employees/</loc>
         <news:news>
           <news:publication>
@@ -17,73 +73,17 @@
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/tech/2023/08/22/how-to-set-up-earthquake-alerts-on-your-phone/</loc>
+        <loc>https://majordigest.com/tech/2023/08/24/us-sues-spacex-for-alleged-hiring-discrimination-against-refugees-and-others/</loc>
         <news:news>
           <news:publication>
             <news:name>Major Digest</news:name>
             <news:language>en</news:language>
           </news:publication>
-          <news:publication_date>2023-08-22T11:57:59.000Z</news:publication_date>
-          <news:title>How to set up earthquake alerts on your phone</news:title>
+          <news:publication_date>2023-08-24T22:55:51.000Z</news:publication_date>
+          <news:title>US sues SpaceX for alleged hiring discrimination against refugees and others</news:title>
         </news:news>
         <image:image>
-          <image:loc>https://majordigest.com/tech/2023/08/22/how-to-set-up-earthquake-alerts-on-your-phone/how-to-set-up-earthquake-alerts-on-your-phone.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/tech/2023/08/23/4167496-over-half-of-american-workers-say-theyd-consider-quitting-without-flexible-work-options-study/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-23T21:42:14.000Z</news:publication_date>
-          <news:title>Post-pandemic, many American workers say they'd consider quitting without flexible work options: study</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/tech/2023/08/23/4167496-over-half-of-american-workers-say-theyd-consider-quitting-without-flexible-work-options-study/4167496-over-half-of-american-workers-say-theyd-consider-quitting-without-flexible-work-options-study.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/tech/2023/08/25/replacing-your-phone-battery-worth-time-new-phone/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-25T15:09:05.000Z</news:publication_date>
-          <news:title>Replacing your phone&#8217;s battery &#8211; is it worth it or time for a new phone?&#8239;</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/tech/2023/08/25/replacing-your-phone-battery-worth-time-new-phone/replacing-your-phone-battery-worth-time-new-phone.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/tech/2023/08/23/controversial-ai-app-allows-text-jesus-satan/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-23T15:07:25.000Z</news:publication_date>
-          <news:title>Controversial new AI app allows you to text with Jesus &#8211; and Satan</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/tech/2023/08/23/controversial-ai-app-allows-text-jesus-satan/controversial-ai-app-allows-text-jesus-satan.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/tech/2023/08/24/4169669-doj-files-lawsuit-against-spacex-for-hiring-discrimination-against-refugees-asylees/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-24T18:03:56.000Z</news:publication_date>
-          <news:title>DOJ files lawsuit against SpaceX for hiring discrimination against refugees, asylees</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/tech/2023/08/24/4169669-doj-files-lawsuit-against-spacex-for-hiring-discrimination-against-refugees-asylees/4169669-doj-files-lawsuit-against-spacex-for-hiring-discrimination-against-refugees-asylees.webp</image:loc>
+          <image:loc>https://majordigest.com/tech/2023/08/24/us-sues-spacex-for-alleged-hiring-discrimination-against-refugees-and-others/us-sues-spacex-for-alleged-hiring-discrimination-against-refugees-and-others.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -101,72 +101,72 @@
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/tech/2023/08/23/editorial-puc-fails-to-keep-californians-safe-from-autonomous-vehicles/</loc>
+        <loc>https://majordigest.com/tech/2023/08/25/dont-fall-latest-antivirus-protection-scam/</loc>
         <news:news>
           <news:publication>
             <news:name>Major Digest</news:name>
             <news:language>en</news:language>
           </news:publication>
-          <news:publication_date>2023-08-23T12:30:55.000Z</news:publication_date>
-          <news:title>Editorial: CPUC incompetence lets autotaxis dangerously run amok</news:title>
+          <news:publication_date>2023-08-25T19:00:55.000Z</news:publication_date>
+          <news:title>Don't fall for this latest antivirus protection scam</news:title>
         </news:news>
         <image:image>
-          <image:loc>https://majordigest.com/tech/2023/08/23/editorial-puc-fails-to-keep-californians-safe-from-autonomous-vehicles/editorial-puc-fails-to-keep-californians-safe-from-autonomous-vehicles.webp</image:loc>
+          <image:loc>https://majordigest.com/tech/2023/08/25/dont-fall-latest-antivirus-protection-scam/dont-fall-latest-antivirus-protection-scam.webp</image:loc>
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/tech/2023/08/24/london-zoos-animals-from-tarantulas-to-tigers-get-their-annual-weigh-in/</loc>
+        <loc>https://majordigest.com/tech/2023/08/25/tiktoker-sounds-alarm-scary-online-trend-turns-children-bait-predators/</loc>
         <news:news>
           <news:publication>
             <news:name>Major Digest</news:name>
             <news:language>en</news:language>
           </news:publication>
-          <news:publication_date>2023-08-24T14:50:19.000Z</news:publication_date>
-          <news:title>From tarantulas to tigers, the animals at London Zoo step onto the scales for their annual weigh-in</news:title>
+          <news:publication_date>2023-08-25T17:14:36.000Z</news:publication_date>
+          <news:title>TikToker sounds alarm on this scary online trend that turns your children into bait for predators</news:title>
         </news:news>
         <image:image>
-          <image:loc>https://majordigest.com/tech/2023/08/24/london-zoos-animals-from-tarantulas-to-tigers-get-their-annual-weigh-in/london-zoos-animals-from-tarantulas-to-tigers-get-their-annual-weigh-in.webp</image:loc>
+          <image:loc>https://majordigest.com/tech/2023/08/25/tiktoker-sounds-alarm-scary-online-trend-turns-children-bait-predators/tiktoker-sounds-alarm-scary-online-trend-turns-children-bait-predators.webp</image:loc>
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/tech/2023/08/23/ask-kurt-how-activate-auto-reply-text-messages-iphone-android-easily/</loc>
+        <loc>https://majordigest.com/tech/2023/08/25/replacing-your-phone-battery-worth-time-new-phone/</loc>
         <news:news>
           <news:publication>
             <news:name>Major Digest</news:name>
             <news:language>en</news:language>
           </news:publication>
-          <news:publication_date>2023-08-23T20:25:20.000Z</news:publication_date>
-          <news:title>Ask Kurt: How to activate auto-reply for text messages on iPhone or Android easily</news:title>
+          <news:publication_date>2023-08-25T15:09:05.000Z</news:publication_date>
+          <news:title>Replacing your phone&#8217;s battery &#8211; is it worth it or time for a new phone?&#8239;</news:title>
         </news:news>
         <image:image>
-          <image:loc>https://majordigest.com/tech/2023/08/23/ask-kurt-how-activate-auto-reply-text-messages-iphone-android-easily/ask-kurt-how-activate-auto-reply-text-messages-iphone-android-easily.webp</image:loc>
+          <image:loc>https://majordigest.com/tech/2023/08/25/replacing-your-phone-battery-worth-time-new-phone/replacing-your-phone-battery-worth-time-new-phone.webp</image:loc>
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/tech/2023/08/24/why-wall-streets-obsession-with-a-company-you-probably-never-heard-of-is-sending-stocks-surging/</loc>
+        <loc>https://majordigest.com/tech/2023/08/24/4169669-doj-files-lawsuit-against-spacex-for-hiring-discrimination-against-refugees-asylees/</loc>
         <news:news>
           <news:publication>
             <news:name>Major Digest</news:name>
             <news:language>en</news:language>
           </news:publication>
-          <news:publication_date>2023-08-24T17:34:18.000Z</news:publication_date>
-          <news:title>Why Wall Street&#8217;s obsession with a Silicon Valley company most people never heard of is sending stocks surging</news:title>
+          <news:publication_date>2023-08-24T18:03:56.000Z</news:publication_date>
+          <news:title>DOJ files lawsuit against SpaceX for hiring discrimination against refugees, asylees</news:title>
         </news:news>
         <image:image>
-          <image:loc>https://majordigest.com/tech/2023/08/24/why-wall-streets-obsession-with-a-company-you-probably-never-heard-of-is-sending-stocks-surging/why-wall-streets-obsession-with-a-company-you-probably-never-heard-of-is-sending-stocks-surging.webp</image:loc>
+          <image:loc>https://majordigest.com/tech/2023/08/24/4169669-doj-files-lawsuit-against-spacex-for-hiring-discrimination-against-refugees-asylees/4169669-doj-files-lawsuit-against-spacex-for-hiring-discrimination-against-refugees-asylees.webp</image:loc>
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/tech/2023/08/24/are-ai-deepfakes-end-acting-know/</loc>
+        <loc>https://majordigest.com/tech/2023/08/25/trump-returns-to-twitter-under-its-new-moniker-x/</loc>
         <news:news>
           <news:publication>
             <news:name>Major Digest</news:name>
             <news:language>en</news:language>
           </news:publication>
-          <news:publication_date>2023-08-24T19:30:33.000Z</news:publication_date>
-          <news:title>Are AI deepfakes the end of acting as we know it?</news:title>
+          <news:publication_date>2023-08-25T02:13:08.000Z</news:publication_date>
+          <news:title>Trump returns to Twitter, under its new moniker X</news:title>
         </news:news>
         <image:image>
-          <image:loc>https://majordigest.com/tech/2023/08/24/are-ai-deepfakes-end-acting-know/are-ai-deepfakes-end-acting-know.webp</image:loc>
+          <image:loc>https://majordigest.com/tech/2023/08/25/trump-returns-to-twitter-under-its-new-moniker-x/trump-returns-to-twitter-under-its-new-moniker-x.webp</image:loc>
         </image:image>
       </url></urlset>

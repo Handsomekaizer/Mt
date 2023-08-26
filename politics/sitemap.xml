@@ -3,157 +3,59 @@
               xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
               xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
       <url>
-        <loc>https://majordigest.com/politics/2023/08/24/npr-trump-mug-shot-indicted-photo-fulton-county-atlanta/</loc>
+        <loc>https://majordigest.com/politics/2023/08/26/ramaswamy-curiosity-skepticism-iowa-gop-debate/</loc>
         <news:news>
           <news:publication>
             <news:name>Major Digest</news:name>
             <news:language>en</news:language>
           </news:publication>
-          <news:publication_date>2023-08-24T09:02:00.000Z</news:publication_date>
-          <news:title>Trump is likely to finally get a real mug shot. Does it matter?</news:title>
+          <news:publication_date>2023-08-26T04:50:22.000Z</news:publication_date>
+          <news:title>Ramaswamy faces curiosity, skepticism in Iowa after GOP debate</news:title>
         </news:news>
         <image:image>
-          <image:loc>https://majordigest.com/politics/2023/08/24/npr-trump-mug-shot-indicted-photo-fulton-county-atlanta/npr-trump-mug-shot-indicted-photo-fulton-county-atlanta.webp</image:loc>
+          <image:loc>https://majordigest.com/politics/2023/08/26/ramaswamy-curiosity-skepticism-iowa-gop-debate/ramaswamy-curiosity-skepticism-iowa-gop-debate.webp</image:loc>
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/politics/2023/08/25/texas-trial-over-biden-policy-letting-migrants-from-4-countries-into-us-to-wrap-up-friday/</loc>
+        <loc>https://majordigest.com/politics/2023/08/22/state-lawmaker-injured-during-legislative-softball-game-in-sacramento/</loc>
         <news:news>
           <news:publication>
             <news:name>Major Digest</news:name>
             <news:language>en</news:language>
           </news:publication>
-          <news:publication_date>2023-08-25T11:13:19.000Z</news:publication_date>
-          <news:title>Judge asks if poverty qualifies for Biden policy letting migrants from 4 countries into US</news:title>
+          <news:publication_date>2023-08-22T23:09:29.000Z</news:publication_date>
+          <news:title>State lawmaker injured during legislative softball game in Sacramento</news:title>
         </news:news>
         <image:image>
-          <image:loc>https://majordigest.com/politics/2023/08/25/texas-trial-over-biden-policy-letting-migrants-from-4-countries-into-us-to-wrap-up-friday/texas-trial-over-biden-policy-letting-migrants-from-4-countries-into-us-to-wrap-up-friday.webp</image:loc>
+          <image:loc>https://majordigest.com/politics/2023/08/22/state-lawmaker-injured-during-legislative-softball-game-in-sacramento/state-lawmaker-injured-during-legislative-softball-game-in-sacramento.webp</image:loc>
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/politics/2023/08/25/president-joe-biden-says-he-will-request-more-funding-for-a-new-coronavirus-vaccine/</loc>
+        <loc>https://majordigest.com/politics/2023/08/25/trump-and-all-18-others-charged-in-georgia-election-case-meet-the-deadline-to-surrender-at-jail/</loc>
         <news:news>
           <news:publication>
             <news:name>Major Digest</news:name>
             <news:language>en</news:language>
           </news:publication>
-          <news:publication_date>2023-08-25T21:37:38.000Z</news:publication_date>
-          <news:title>President Joe Biden says he will request more funding for a new coronavirus vaccine</news:title>
+          <news:publication_date>2023-08-25T16:08:21.000Z</news:publication_date>
+          <news:title>Trump and all 18 others charged in Georgia election case meet the deadline to surrender at jail</news:title>
         </news:news>
         <image:image>
-          <image:loc>https://majordigest.com/politics/2023/08/25/president-joe-biden-says-he-will-request-more-funding-for-a-new-coronavirus-vaccine/president-joe-biden-says-he-will-request-more-funding-for-a-new-coronavirus-vaccine.webp</image:loc>
+          <image:loc>https://majordigest.com/politics/2023/08/25/trump-and-all-18-others-charged-in-georgia-election-case-meet-the-deadline-to-surrender-at-jail/trump-and-all-18-others-charged-in-georgia-election-case-meet-the-deadline-to-surrender-at-jail.webp</image:loc>
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/politics/2023/08/26/abortion-providers-heartbeat-ban-south-carolina/</loc>
+        <loc>https://majordigest.com/politics/2023/08/25/white-house-now-says-biden-didnt-hear-wildfire-question-that-sparked-no-comment-response/</loc>
         <news:news>
           <news:publication>
             <news:name>Major Digest</news:name>
             <news:language>en</news:language>
           </news:publication>
-          <news:publication_date>2023-08-26T00:56:53.000Z</news:publication_date>
-          <news:title>South Carolina abortion providers seek clarity on 'heartbeat' ban</news:title>
+          <news:publication_date>2023-08-25T23:12:37.000Z</news:publication_date>
+          <news:title>White House now says Biden didn't hear wildfire question that sparked 'no comment' response</news:title>
         </news:news>
         <image:image>
-          <image:loc>https://majordigest.com/politics/2023/08/26/abortion-providers-heartbeat-ban-south-carolina/abortion-providers-heartbeat-ban-south-carolina.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/politics/2023/08/23/rudy-giuliani-surrenders-in-georgia-to-face-election-interference-charges/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-23T19:47:00.000Z</news:publication_date>
-          <news:title>Rudy Giuliani surrenders in Georgia to face election interference charges</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/politics/2023/08/23/rudy-giuliani-surrenders-in-georgia-to-face-election-interference-charges/rudy-giuliani-surrenders-in-georgia-to-face-election-interference-charges.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/politics/2023/08/21/president-biden-first-lady-to-arrive-on-maui-monday-morning/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-21T21:29:32.000Z</news:publication_date>
-          <news:title>President Biden, First Lady to arrive on Maui Monday morning</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/politics/2023/08/21/president-biden-first-lady-to-arrive-on-maui-monday-morning/president-biden-first-lady-to-arrive-on-maui-monday-morning.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/politics/2023/08/25/ukraine-aid-faces-a-stress-test-as-some-gop-2024-presidential-candidates-balk-at-continued-support/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-25T17:57:34.000Z</news:publication_date>
-          <news:title>Ukraine aid faces a stress test as some GOP 2024 presidential candidates balk at continued support</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/politics/2023/08/25/ukraine-aid-faces-a-stress-test-as-some-gop-2024-presidential-candidates-balk-at-continued-support/ukraine-aid-faces-a-stress-test-as-some-gop-2024-presidential-candidates-balk-at-continued-support.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/politics/2023/08/25/tiktok-influencers-campaigns-bowman/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-25T08:30:00.000Z</news:publication_date>
-          <news:title>Will Politicians Ban Their Best Way of Reaching Young Voters?</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/politics/2023/08/25/tiktok-influencers-campaigns-bowman/tiktok-influencers-campaigns-bowman.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/politics/2023/08/26/ap-ramaswamy-faces-curiosity-and-skepticism-in-iowa-after-center-stage-performance-in-gop-debate/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-26T04:04:15.000Z</news:publication_date>
-          <news:title>Ramaswamy faces curiosity and skepticism in Iowa after center-stage performance in GOP debate</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/politics/2023/08/26/ap-ramaswamy-faces-curiosity-and-skepticism-in-iowa-after-center-stage-performance-in-gop-debate/ap-ramaswamy-faces-curiosity-and-skepticism-in-iowa-after-center-stage-performance-in-gop-debate.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/politics/2023/08/25/ipsos-poll-trump-indictment/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-25T09:00:00.000Z</news:publication_date>
-          <news:title>Lock Him Up? A New Poll Has Some Bad News for Trump</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/politics/2023/08/25/ipsos-poll-trump-indictment/ipsos-poll-trump-indictment.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/politics/2023/08/26/ramaswamy-faces-curiosity-and-skepticism-in-iowa-after-center-stage-performance-in-gop-debate/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-26T04:04:15.000Z</news:publication_date>
-          <news:title>Ramaswamy faces curiosity and skepticism in Iowa after center-stage performance in GOP debate</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/politics/2023/08/26/ramaswamy-faces-curiosity-and-skepticism-in-iowa-after-center-stage-performance-in-gop-debate/ramaswamy-faces-curiosity-and-skepticism-in-iowa-after-center-stage-performance-in-gop-debate.webp</image:loc>
+          <image:loc>https://majordigest.com/politics/2023/08/25/white-house-now-says-biden-didnt-hear-wildfire-question-that-sparked-no-comment-response/white-house-now-says-biden-didnt-hear-wildfire-question-that-sparked-no-comment-response.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -171,157 +73,73 @@
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/politics/2023/08/25/ap-desantis-reports-raising-more-than-1-million-as-republicans-hope-for-post-debate-boosts/</loc>
+        <loc>https://majordigest.com/politics/2023/08/25/tiktok-influencers-campaigns-bowman/</loc>
         <news:news>
           <news:publication>
             <news:name>Major Digest</news:name>
             <news:language>en</news:language>
           </news:publication>
-          <news:publication_date>2023-08-25T17:33:40.000Z</news:publication_date>
-          <news:title>DeSantis reports raising more than $1 million as Republicans hope for post-debate boosts</news:title>
+          <news:publication_date>2023-08-25T08:30:00.000Z</news:publication_date>
+          <news:title>Will Politicians Ban Their Best Way of Reaching Young Voters?</news:title>
         </news:news>
         <image:image>
-          <image:loc>https://majordigest.com/politics/2023/08/25/ap-desantis-reports-raising-more-than-1-million-as-republicans-hope-for-post-debate-boosts/ap-desantis-reports-raising-more-than-1-million-as-republicans-hope-for-post-debate-boosts.webp</image:loc>
+          <image:loc>https://majordigest.com/politics/2023/08/25/tiktok-influencers-campaigns-bowman/tiktok-influencers-campaigns-bowman.webp</image:loc>
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/politics/2023/08/25/white-house-defends-biden-following-hawaii-no-comment-debacle-insists-didnt-hear-question/</loc>
+        <loc>https://majordigest.com/politics/2023/08/24/trump-arrives-at-atlanta-jail-to-surrender-on-charges/</loc>
         <news:news>
           <news:publication>
             <news:name>Major Digest</news:name>
             <news:language>en</news:language>
           </news:publication>
-          <news:publication_date>2023-08-25T19:13:34.000Z</news:publication_date>
-          <news:title>White House defends Biden following Hawaii 'no comment' debacle, insists he 'didn't hear the question'</news:title>
+          <news:publication_date>2023-08-24T23:52:10.000Z</news:publication_date>
+          <news:title>Trump surrenders at Atlanta jail on election charges, then is quickly released on $200,000 bond</news:title>
         </news:news>
         <image:image>
-          <image:loc>https://majordigest.com/politics/2023/08/25/white-house-defends-biden-following-hawaii-no-comment-debacle-insists-didnt-hear-question/white-house-defends-biden-following-hawaii-no-comment-debacle-insists-didnt-hear-question.webp</image:loc>
+          <image:loc>https://majordigest.com/politics/2023/08/24/trump-arrives-at-atlanta-jail-to-surrender-on-charges/trump-arrives-at-atlanta-jail-to-surrender-on-charges.webp</image:loc>
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/politics/2023/08/26/boston-plans-homeless-encampment-crackdown-calls-new-short-term-shelter/</loc>
+        <loc>https://majordigest.com/politics/2023/08/23/rudy-giuliani-surrenders-in-georgia-to-face-election-interference-charges/</loc>
         <news:news>
           <news:publication>
             <news:name>Major Digest</news:name>
             <news:language>en</news:language>
           </news:publication>
-          <news:publication_date>2023-08-26T00:07:26.000Z</news:publication_date>
-          <news:title>Boston plans homeless encampment crackdown, calls for new short-term shelter</news:title>
+          <news:publication_date>2023-08-23T19:47:00.000Z</news:publication_date>
+          <news:title>Rudy Giuliani surrenders in Georgia to face election interference charges</news:title>
         </news:news>
         <image:image>
-          <image:loc>https://majordigest.com/politics/2023/08/26/boston-plans-homeless-encampment-crackdown-calls-new-short-term-shelter/boston-plans-homeless-encampment-crackdown-calls-new-short-term-shelter.webp</image:loc>
+          <image:loc>https://majordigest.com/politics/2023/08/23/rudy-giuliani-surrenders-in-georgia-to-face-election-interference-charges/rudy-giuliani-surrenders-in-georgia-to-face-election-interference-charges.webp</image:loc>
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/politics/2023/08/25/former-north-dakota-governor-car-stolen-guest-hosting-radio-show/</loc>
+        <loc>https://majordigest.com/politics/2023/08/24/vivek-ramaswamy-takes-center-stage-plus-other-key-moments-from-first-republican-debate/</loc>
         <news:news>
           <news:publication>
             <news:name>Major Digest</news:name>
             <news:language>en</news:language>
           </news:publication>
-          <news:publication_date>2023-08-25T22:44:41.000Z</news:publication_date>
-          <news:title>Former North Dakota governor has car stolen while guest hosting radio show</news:title>
+          <news:publication_date>2023-08-24T11:00:00.000Z</news:publication_date>
+          <news:title>Vivek Ramaswamy takes center stage, plus other key moments from first Republican debate</news:title>
         </news:news>
         <image:image>
-          <image:loc>https://majordigest.com/politics/2023/08/25/former-north-dakota-governor-car-stolen-guest-hosting-radio-show/former-north-dakota-governor-car-stolen-guest-hosting-radio-show.webp</image:loc>
+          <image:loc>https://majordigest.com/politics/2023/08/24/vivek-ramaswamy-takes-center-stage-plus-other-key-moments-from-first-republican-debate/vivek-ramaswamy-takes-center-stage-plus-other-key-moments-from-first-republican-debate.webp</image:loc>
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/politics/2023/08/25/white-house-now-says-biden-didnt-hear-wildfire-question-that-sparked-no-comment-response/</loc>
+        <loc>https://majordigest.com/politics/2023/08/24/npr-republican-debate-candidates-trump-pence-ramaswamy-haley-christie-milwaukee-2024/</loc>
         <news:news>
           <news:publication>
             <news:name>Major Digest</news:name>
             <news:language>en</news:language>
           </news:publication>
-          <news:publication_date>2023-08-25T15:48:35.000Z</news:publication_date>
-          <news:title>White House now says Biden didn't hear wildfire question that sparked 'no comment' response</news:title>
+          <news:publication_date>2023-08-24T09:00:00.000Z</news:publication_date>
+          <news:title>5 takeaways from the first Republican primary debate</news:title>
         </news:news>
         <image:image>
-          <image:loc>https://majordigest.com/politics/2023/08/25/white-house-now-says-biden-didnt-hear-wildfire-question-that-sparked-no-comment-response/white-house-now-says-biden-didnt-hear-wildfire-question-that-sparked-no-comment-response.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/politics/2023/08/25/ap-one-image-one-face-one-american-moment-the-donald-trump-mug-shot/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-25T20:53:48.000Z</news:publication_date>
-          <news:title>One image, one face, one American moment: The Donald Trump mug shot</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/politics/2023/08/25/ap-one-image-one-face-one-american-moment-the-donald-trump-mug-shot/ap-one-image-one-face-one-american-moment-the-donald-trump-mug-shot.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/politics/2023/08/21/biden-campaign-launches-25m-ad-buy-in-battleground-states-including-nevada/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-21T19:47:58.000Z</news:publication_date>
-          <news:title>Biden campaign launches $25M ad buy in battleground states, including Nevada</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/politics/2023/08/21/biden-campaign-launches-25m-ad-buy-in-battleground-states-including-nevada/biden-campaign-launches-25m-ad-buy-in-battleground-states-including-nevada.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/politics/2023/08/25/oliver-anthony-rich-men-north-of-richmond-conservatives/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-25T22:14:43.000Z</news:publication_date>
-          <news:title>'Rich Men North of Richmond' singer blasts 'aggravating' conservatives</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/politics/2023/08/25/oliver-anthony-rich-men-north-of-richmond-conservatives/oliver-anthony-rich-men-north-of-richmond-conservatives.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/politics/2023/08/25/ap-trump-and-all-18-others-charged-in-georgia-election-case-meet-the-deadline-to-surrender-at-jail/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-25T20:36:28.000Z</news:publication_date>
-          <news:title>Trump and all 18 others charged in Georgia election case meet the deadline to surrender at jail</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/politics/2023/08/25/ap-trump-and-all-18-others-charged-in-georgia-election-case-meet-the-deadline-to-surrender-at-jail/ap-trump-and-all-18-others-charged-in-georgia-election-case-meet-the-deadline-to-surrender-at-jail.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/politics/2023/08/25/conservatives-hope-legal-case-can-bring-biden-migrant-parole-policies-tumbling-down/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-25T22:04:19.000Z</news:publication_date>
-          <news:title>Conservatives hope key legal case can bring Biden migrant parole policies &#8216;tumbling down&#8217;</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/politics/2023/08/25/conservatives-hope-legal-case-can-bring-biden-migrant-parole-policies-tumbling-down/conservatives-hope-legal-case-can-bring-biden-migrant-parole-policies-tumbling-down.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/politics/2023/08/25/npr-trump-trial-judge-tanya-chulkan/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-25T09:00:00.000Z</news:publication_date>
-          <news:title>Judge in Trump trial has a tough sentencing record in Jan. 6 cases </news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/politics/2023/08/25/npr-trump-trial-judge-tanya-chulkan/npr-trump-trial-judge-tanya-chulkan.webp</image:loc>
+          <image:loc>https://majordigest.com/politics/2023/08/24/npr-republican-debate-candidates-trump-pence-ramaswamy-haley-christie-milwaukee-2024/npr-republican-debate-candidates-trump-pence-ramaswamy-haley-christie-milwaukee-2024.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -339,16 +157,212 @@
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/politics/2023/08/25/sen-tommy-tuberville-indicates-hold-military-promotions-continue/</loc>
+        <loc>https://majordigest.com/politics/2023/08/26/new-york-man-sentenced-3-months-prison-threatening-phone-calls-against-marjorie-taylor-greene/</loc>
         <news:news>
           <news:publication>
             <news:name>Major Digest</news:name>
             <news:language>en</news:language>
           </news:publication>
-          <news:publication_date>2023-08-25T21:13:02.000Z</news:publication_date>
-          <news:title>Tuberville to maintain hold on military nominees over Pentagon abortion policy</news:title>
+          <news:publication_date>2023-08-26T04:49:44.000Z</news:publication_date>
+          <news:title>New York man sentenced 3 months in prison for threatening phone calls against Marjorie Taylor Greene</news:title>
         </news:news>
         <image:image>
-          <image:loc>https://majordigest.com/politics/2023/08/25/sen-tommy-tuberville-indicates-hold-military-promotions-continue/sen-tommy-tuberville-indicates-hold-military-promotions-continue.webp</image:loc>
+          <image:loc>https://majordigest.com/politics/2023/08/26/new-york-man-sentenced-3-months-prison-threatening-phone-calls-against-marjorie-taylor-greene/new-york-man-sentenced-3-months-prison-threatening-phone-calls-against-marjorie-taylor-greene.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/politics/2023/08/26/ap-tens-of-thousands-expected-for-march-on-washingtons-60th-anniversary-demonstration/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-26T04:11:53.000Z</news:publication_date>
+          <news:title>Tens of thousands expected for March on Washington&#8217;s 60th anniversary demonstration</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/politics/2023/08/26/ap-tens-of-thousands-expected-for-march-on-washingtons-60th-anniversary-demonstration/ap-tens-of-thousands-expected-for-march-on-washingtons-60th-anniversary-demonstration.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/politics/2023/08/25/ap-republicans-pick-houston-to-host-their-2028-national-convention/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-25T18:41:43.000Z</news:publication_date>
+          <news:title>Republicans pick Houston to host their 2028 national convention</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/politics/2023/08/25/ap-republicans-pick-houston-to-host-their-2028-national-convention/ap-republicans-pick-houston-to-host-their-2028-national-convention.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/politics/2023/08/26/boston-plans-homeless-encampment-crackdown-calls-new-short-term-shelter/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-26T00:07:26.000Z</news:publication_date>
+          <news:title>Boston plans homeless encampment crackdown, calls for new short-term shelter</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/politics/2023/08/26/boston-plans-homeless-encampment-crackdown-calls-new-short-term-shelter/boston-plans-homeless-encampment-crackdown-calls-new-short-term-shelter.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/politics/2023/08/21/assemblywoman-heidi-kasama-joins-republican-challengers-for-lees-seat-in-congress/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-21T19:16:18.000Z</news:publication_date>
+          <news:title>Assemblywoman Heidi Kasama joins Republican challengers for Lee's seat in Congress</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/politics/2023/08/21/assemblywoman-heidi-kasama-joins-republican-challengers-for-lees-seat-in-congress/assemblywoman-heidi-kasama-joins-republican-challengers-for-lees-seat-in-congress.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/politics/2023/08/25/former-kanye-west-publicist-trevian-kutti-smiles-mugshot-being-booked-trump-election-case/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-25T19:24:08.000Z</news:publication_date>
+          <news:title>Former Kanye West publicist Trevian Kutti grins in mugshot after being booked in Trump election case</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/politics/2023/08/25/former-kanye-west-publicist-trevian-kutti-smiles-mugshot-being-booked-trump-election-case/former-kanye-west-publicist-trevian-kutti-smiles-mugshot-being-booked-trump-election-case.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/politics/2023/08/21/biden-campaign-launches-25m-ad-buy-in-battleground-states-including-nevada/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-21T19:47:58.000Z</news:publication_date>
+          <news:title>Biden campaign launches $25M ad buy in battleground states, including Nevada</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/politics/2023/08/21/biden-campaign-launches-25m-ad-buy-in-battleground-states-including-nevada/biden-campaign-launches-25m-ad-buy-in-battleground-states-including-nevada.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/politics/2023/08/25/white-house-now-says-biden-didnt-hear-wildfire-question-that-sparked-no-comment-response/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-25T15:48:35.000Z</news:publication_date>
+          <news:title>White House now says Biden didn't hear wildfire question that sparked 'no comment' response</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/politics/2023/08/25/white-house-now-says-biden-didnt-hear-wildfire-question-that-sparked-no-comment-response/white-house-now-says-biden-didnt-hear-wildfire-question-that-sparked-no-comment-response.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/politics/2023/08/25/ap-desantis-reports-raising-more-than-1-million-as-republicans-hope-for-post-debate-boosts/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-25T17:33:40.000Z</news:publication_date>
+          <news:title>DeSantis reports raising more than $1 million as Republicans hope for post-debate boosts</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/politics/2023/08/25/ap-desantis-reports-raising-more-than-1-million-as-republicans-hope-for-post-debate-boosts/ap-desantis-reports-raising-more-than-1-million-as-republicans-hope-for-post-debate-boosts.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/politics/2023/08/26/biden-campaign-dark-brandon-meme-fox-news-ad/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-26T03:37:52.000Z</news:publication_date>
+          <news:title>Biden campaign uses &#8216;Dark Brandon&#8217; meme to advertise on Fox News</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/politics/2023/08/26/biden-campaign-dark-brandon-meme-fox-news-ad/biden-campaign-dark-brandon-meme-fox-news-ad.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/politics/2023/08/25/ap-trump-and-all-18-others-charged-in-georgia-election-case-meet-the-deadline-to-surrender-at-jail/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-25T20:36:28.000Z</news:publication_date>
+          <news:title>Trump and all 18 others charged in Georgia election case meet the deadline to surrender at jail</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/politics/2023/08/25/ap-trump-and-all-18-others-charged-in-georgia-election-case-meet-the-deadline-to-surrender-at-jail/ap-trump-and-all-18-others-charged-in-georgia-election-case-meet-the-deadline-to-surrender-at-jail.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/politics/2023/08/25/st-paul-conservative-legal-scholar-says-constitution-bars-trump-from-being-president/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-25T20:30:00.000Z</news:publication_date>
+          <news:title>MN legal scholar: Constitution bars Trump presidency</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/politics/2023/08/25/st-paul-conservative-legal-scholar-says-constitution-bars-trump-from-being-president/st-paul-conservative-legal-scholar-says-constitution-bars-trump-from-being-president.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/politics/2023/08/25/ipsos-poll-trump-indictment/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-25T09:00:00.000Z</news:publication_date>
+          <news:title>Lock Him Up? A New Poll Has Some Bad News for Trump</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/politics/2023/08/25/ipsos-poll-trump-indictment/ipsos-poll-trump-indictment.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/politics/2023/08/24/npr-planning-for-extreme-heat-climate/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-24T09:00:00.000Z</news:publication_date>
+          <news:title>This summer has been a scorcher. DHS wants communities to plan for more of them</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/politics/2023/08/24/npr-planning-for-extreme-heat-climate/npr-planning-for-extreme-heat-climate.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/politics/2023/08/25/biden-calls-trump-a-handsome-guy-mugshot-tv/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-25T21:42:54.000Z</news:publication_date>
+          <news:title>Biden calls Trump a 'handsome guy' after he saw former president's mugshot on TV</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/politics/2023/08/25/biden-calls-trump-a-handsome-guy-mugshot-tv/biden-calls-trump-a-handsome-guy-mugshot-tv.webp</image:loc>
         </image:image>
       </url></urlset>
