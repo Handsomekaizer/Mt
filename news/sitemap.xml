@@ -3,101 +3,17 @@
               xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
               xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
       <url>
-        <loc>https://majordigest.com/news/2023/08/26/a-broad-genetic-test-saved-one-newborns-life-research-suggests-it-could-help-millions-of-others/</loc>
+        <loc>https://majordigest.com/news/2023/08/24/4168779-cnns-parent-company-to-launch-new-streaming-news-service/</loc>
         <news:news>
           <news:publication>
             <news:name>Major Digest</news:name>
             <news:language>en</news:language>
           </news:publication>
-          <news:publication_date>2023-08-26T11:44:30.000Z</news:publication_date>
-          <news:title>A broad genetic test saved one newborn's life. Research suggests it could help millions of others</news:title>
+          <news:publication_date>2023-08-24T12:36:33.000Z</news:publication_date>
+          <news:title>CNN's parent company to relaunch streaming news service</news:title>
         </news:news>
         <image:image>
-          <image:loc>https://majordigest.com/news/2023/08/26/a-broad-genetic-test-saved-one-newborns-life-research-suggests-it-could-help-millions-of-others/a-broad-genetic-test-saved-one-newborns-life-research-suggests-it-could-help-millions-of-others.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/news/2023/08/26/ap-moscow-airports-suspend-flights-following-latest-reported-drone-strike/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-26T11:55:28.000Z</news:publication_date>
-          <news:title>Shelling kills civilians in Ukraine, fears of new invasion grow</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/news/2023/08/26/ap-moscow-airports-suspend-flights-following-latest-reported-drone-strike/ap-moscow-airports-suspend-flights-following-latest-reported-drone-strike.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/news/2023/08/26/ap-fifa-suspends-spain-soccer-federation-president-luis-rubiales-for-90-days-after-world-cup-final-kiss/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-26T16:22:50.000Z</news:publication_date>
-          <news:title>FIFA suspends Spain soccer federation president Luis Rubiales for 90 days after World Cup final kiss</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/news/2023/08/26/ap-fifa-suspends-spain-soccer-federation-president-luis-rubiales-for-90-days-after-world-cup-final-kiss/ap-fifa-suspends-spain-soccer-federation-president-luis-rubiales-for-90-days-after-world-cup-final-kiss.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/news/2023/08/23/former-bucs-wr-antonio-brown-faces-arrest-in-florida/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-23T18:19:29.000Z</news:publication_date>
-          <news:title>Former Bucs WR Antonio Brown faces arrest in Florida</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/news/2023/08/23/former-bucs-wr-antonio-brown-faces-arrest-in-florida/former-bucs-wr-antonio-brown-faces-arrest-in-florida.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/news/2023/08/26/rich-men-song-oliver-anthony-political-reaction/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-26T03:02:58.000Z</news:publication_date>
-          <news:title>&#8216;Rich Men North of Richmond&#8217; finds political embrace, criticism</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/news/2023/08/26/rich-men-song-oliver-anthony-political-reaction/rich-men-song-oliver-anthony-political-reaction.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/news/2023/08/26/bronny-james-cardiac-arrest-likely-caused-by-heart-defect-family-spokesperson-says/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-26T14:35:25.000Z</news:publication_date>
-          <news:title>Bronny James' cardiac arrest likely caused by heart defect, family spokesperson says</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/news/2023/08/26/bronny-james-cardiac-arrest-likely-caused-by-heart-defect-family-spokesperson-says/bronny-james-cardiac-arrest-likely-caused-by-heart-defect-family-spokesperson-says.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/news/2023/08/24/trump-is-set-to-surrender-at-a-georgia-jail-on-2020-election-charges/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-24T20:03:45.000Z</news:publication_date>
-          <news:title>Donald Trump mug shot shows former president scowling at Atlanta booking</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/news/2023/08/24/trump-is-set-to-surrender-at-a-georgia-jail-on-2020-election-charges/trump-is-set-to-surrender-at-a-georgia-jail-on-2020-election-charges.webp</image:loc>
+          <image:loc>https://majordigest.com/news/2023/08/24/4168779-cnns-parent-company-to-launch-new-streaming-news-service/4168779-cnns-parent-company-to-launch-new-streaming-news-service.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -107,7 +23,7 @@
             <news:name>Major Digest</news:name>
             <news:language>en</news:language>
           </news:publication>
-          <news:publication_date>2023-08-26T15:47:47.000Z</news:publication_date>
+          <news:publication_date>2023-08-26T15:47:45.000Z</news:publication_date>
           <news:title>Stingray impales Florida woman's back, misses lung by centimeters: 'Super, super painful'</news:title>
         </news:news>
         <image:image>
@@ -115,143 +31,59 @@
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/news/2023/08/26/ap-bare-electrical-wire-and-poles-in-need-of-replacement-on-maui-were-little-match-for-strong-winds/</loc>
+        <loc>https://majordigest.com/news/2023/08/24/california-bill-proposes-new-state-agency-to-handle-reparations-for-black-residents/</loc>
         <news:news>
           <news:publication>
             <news:name>Major Digest</news:name>
             <news:language>en</news:language>
           </news:publication>
-          <news:publication_date>2023-08-26T15:46:32.000Z</news:publication_date>
-          <news:title>Bare electrical wire and leaning poles on Maui were possible cause of deadly fires</news:title>
+          <news:publication_date>2023-08-24T03:28:41.000Z</news:publication_date>
+          <news:title>California bill proposes new state agency to handle reparations for Black residents</news:title>
         </news:news>
         <image:image>
-          <image:loc>https://majordigest.com/news/2023/08/26/ap-bare-electrical-wire-and-poles-in-need-of-replacement-on-maui-were-little-match-for-strong-winds/ap-bare-electrical-wire-and-poles-in-need-of-replacement-on-maui-were-little-match-for-strong-winds.webp</image:loc>
+          <image:loc>https://majordigest.com/news/2023/08/24/california-bill-proposes-new-state-agency-to-handle-reparations-for-black-residents/california-bill-proposes-new-state-agency-to-handle-reparations-for-black-residents.webp</image:loc>
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/news/2023/08/26/pre-med-florida-junior-leanne-wong-chases-a-spot-on-the-us-olympic-gymnastics-team/</loc>
+        <loc>https://majordigest.com/news/2023/08/26/abortion-providers-heartbeat-ban-south-carolina/</loc>
         <news:news>
           <news:publication>
             <news:name>Major Digest</news:name>
             <news:language>en</news:language>
           </news:publication>
-          <news:publication_date>2023-08-26T16:26:04.000Z</news:publication_date>
-          <news:title>Pre-med Florida junior Leanne Wong chases a spot on the US Olympic gymnastics team</news:title>
+          <news:publication_date>2023-08-26T00:56:53.000Z</news:publication_date>
+          <news:title>South Carolina abortion providers seek clarity on 'heartbeat' ban</news:title>
         </news:news>
         <image:image>
-          <image:loc>https://majordigest.com/news/2023/08/26/pre-med-florida-junior-leanne-wong-chases-a-spot-on-the-us-olympic-gymnastics-team/pre-med-florida-junior-leanne-wong-chases-a-spot-on-the-us-olympic-gymnastics-team.webp</image:loc>
+          <image:loc>https://majordigest.com/news/2023/08/26/abortion-providers-heartbeat-ban-south-carolina/abortion-providers-heartbeat-ban-south-carolina.webp</image:loc>
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/news/2023/08/25/harris-praises-2022-wnba-champion-las-vegas-aces-for-grit-and-determination-on-and-off-court/</loc>
+        <loc>https://majordigest.com/news/2023/08/23/cole-carrigg-has-three-hits-in-chukchansi-park-debut/</loc>
         <news:news>
           <news:publication>
             <news:name>Major Digest</news:name>
             <news:language>en</news:language>
           </news:publication>
-          <news:publication_date>2023-08-25T16:54:28.000Z</news:publication_date>
-          <news:title>Harris praises 2022 WNBA champion Las Vegas Aces for 'grit and determination' on and off court</news:title>
+          <news:publication_date>2023-08-23T06:47:48.000Z</news:publication_date>
+          <news:title>Cole Carrigg has three hits in Chukchansi Park debut</news:title>
         </news:news>
         <image:image>
-          <image:loc>https://majordigest.com/news/2023/08/25/harris-praises-2022-wnba-champion-las-vegas-aces-for-grit-and-determination-on-and-off-court/harris-praises-2022-wnba-champion-las-vegas-aces-for-grit-and-determination-on-and-off-court.webp</image:loc>
+          <image:loc>https://majordigest.com/news/2023/08/23/cole-carrigg-has-three-hits-in-chukchansi-park-debut/cole-carrigg-has-three-hits-in-chukchansi-park-debut.webp</image:loc>
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/news/2023/08/25/ap-workers-win-raises-at-general-motors-joint-venture-battery-plant-in-ohio-as-contract-talks-continue/</loc>
+        <loc>https://majordigest.com/news/2023/08/26/man-banned-from-yellowstone-grand-teton-after-allegedly-going-off-trail-suffering-thermal-burns/</loc>
         <news:news>
           <news:publication>
             <news:name>Major Digest</news:name>
             <news:language>en</news:language>
           </news:publication>
-          <news:publication_date>2023-08-25T00:12:09.000Z</news:publication_date>
-          <news:title>Workers win raises at General Motors joint venture battery plant in Ohio as contract talks continue</news:title>
+          <news:publication_date>2023-08-26T16:19:51.000Z</news:publication_date>
+          <news:title>Man banned from Yellowstone, Grand Teton after allegedly going off-trail, suffering thermal burns</news:title>
         </news:news>
         <image:image>
-          <image:loc>https://majordigest.com/news/2023/08/25/ap-workers-win-raises-at-general-motors-joint-venture-battery-plant-in-ohio-as-contract-talks-continue/ap-workers-win-raises-at-general-motors-joint-venture-battery-plant-in-ohio-as-contract-talks-continue.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/news/2023/08/26/report-longtime-the-price-is-right-host-bob-barker-dies-aged-99/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-26T16:44:28.000Z</news:publication_date>
-          <news:title>Report: Longtime 'The Price is Right' host Bob Barker dies aged 99</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/news/2023/08/26/report-longtime-the-price-is-right-host-bob-barker-dies-aged-99/report-longtime-the-price-is-right-host-bob-barker-dies-aged-99.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/news/2023/08/24/ap-t-mobile-will-lay-off-5000-employees-or-about-7-of-its-workforce-in-the-coming-weeks/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-24T17:25:01.000Z</news:publication_date>
-          <news:title>T-Mobile will lay off 5,000 employees, or about 7% of its workforce, in the coming weeks</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/news/2023/08/24/ap-t-mobile-will-lay-off-5000-employees-or-about-7-of-its-workforce-in-the-coming-weeks/ap-t-mobile-will-lay-off-5000-employees-or-about-7-of-its-workforce-in-the-coming-weeks.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/news/2023/08/24/ap-uber-raises-minimum-age-for-most-california-drivers-to-25-saying-insurance-costs-are-too-high/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-24T18:22:00.000Z</news:publication_date>
-          <news:title>Uber raises minimum age for most California drivers to 25, saying insurance costs are too high</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/news/2023/08/24/ap-uber-raises-minimum-age-for-most-california-drivers-to-25-saying-insurance-costs-are-too-high/ap-uber-raises-minimum-age-for-most-california-drivers-to-25-saying-insurance-costs-are-too-high.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/news/2023/08/26/tens-of-thousands-expected-for-march-on-washingtons-60th-anniversary-demonstration/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-26T04:11:52.000Z</news:publication_date>
-          <news:title>Tens of thousands expected for March on Washington&#8217;s 60th anniversary demonstration</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/news/2023/08/26/tens-of-thousands-expected-for-march-on-washingtons-60th-anniversary-demonstration/tens-of-thousands-expected-for-march-on-washingtons-60th-anniversary-demonstration.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/news/2023/08/26/ap-us-shakes-off-slow-start-and-tops-new-zealand-99-72-in-basketball-world-cup-opener/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-26T15:42:02.000Z</news:publication_date>
-          <news:title>US shakes off slow start and tops New Zealand 99-72 in Basketball World Cup opener</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/news/2023/08/26/ap-us-shakes-off-slow-start-and-tops-new-zealand-99-72-in-basketball-world-cup-opener/ap-us-shakes-off-slow-start-and-tops-new-zealand-99-72-in-basketball-world-cup-opener.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/news/2023/08/24/trump-arrives-at-atlanta-jail-to-surrender-on-charges/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-24T23:52:10.000Z</news:publication_date>
-          <news:title>Trump surrenders at Atlanta jail on election charges, then is quickly released on $200,000 bond</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/news/2023/08/24/trump-arrives-at-atlanta-jail-to-surrender-on-charges/trump-arrives-at-atlanta-jail-to-surrender-on-charges.webp</image:loc>
+          <image:loc>https://majordigest.com/news/2023/08/26/man-banned-from-yellowstone-grand-teton-after-allegedly-going-off-trail-suffering-thermal-burns/man-banned-from-yellowstone-grand-teton-after-allegedly-going-off-trail-suffering-thermal-burns.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -269,30 +101,184 @@
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/news/2023/08/26/some-birds-may-be-less-afraid-of-humans-after-pandemic-study-suggests-2/</loc>
+        <loc>https://majordigest.com/news/2023/08/25/former-cos-athlete-with-third-place-finish-at-world-athletics-championships/</loc>
         <news:news>
           <news:publication>
             <news:name>Major Digest</news:name>
             <news:language>en</news:language>
           </news:publication>
-          <news:publication_date>2023-08-26T13:00:45.000Z</news:publication_date>
-          <news:title>Some birds may be less afraid of humans after pandemic, study suggests</news:title>
+          <news:publication_date>2023-08-25T06:47:22.000Z</news:publication_date>
+          <news:title>Former COS athlete with third place finish at World Athletics Championships</news:title>
         </news:news>
         <image:image>
-          <image:loc>https://majordigest.com/news/2023/08/26/some-birds-may-be-less-afraid-of-humans-after-pandemic-study-suggests-2/some-birds-may-be-less-afraid-of-humans-after-pandemic-study-suggests-2.webp</image:loc>
+          <image:loc>https://majordigest.com/news/2023/08/25/former-cos-athlete-with-third-place-finish-at-world-athletics-championships/former-cos-athlete-with-third-place-finish-at-world-athletics-championships.webp</image:loc>
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/news/2023/08/23/terry-funk-beloved-hardcore-wrestling-icon-dead-at-79/</loc>
+        <loc>https://majordigest.com/news/2023/08/26/its-game-over-what-prigozhins-end-means-for-wagner-group/</loc>
         <news:news>
           <news:publication>
             <news:name>Major Digest</news:name>
             <news:language>en</news:language>
           </news:publication>
-          <news:publication_date>2023-08-23T22:15:31.000Z</news:publication_date>
-          <news:title>Terry Funk, beloved hardcore wrestling icon, dead at 79</news:title>
+          <news:publication_date>2023-08-26T15:12:14.000Z</news:publication_date>
+          <news:title>'It's game over': What Prigozhin's end means for Wagner Group</news:title>
         </news:news>
         <image:image>
-          <image:loc>https://majordigest.com/news/2023/08/23/terry-funk-beloved-hardcore-wrestling-icon-dead-at-79/terry-funk-beloved-hardcore-wrestling-icon-dead-at-79.webp</image:loc>
+          <image:loc>https://majordigest.com/news/2023/08/26/its-game-over-what-prigozhins-end-means-for-wagner-group/its-game-over-what-prigozhins-end-means-for-wagner-group.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/news/2023/08/24/doj-sues-spacex-asylees/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-24T18:35:38.000Z</news:publication_date>
+          <news:title>DOJ sues SpaceX for allegedly not hiring asylees, refugees</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/news/2023/08/24/doj-sues-spacex-asylees/doj-sues-spacex-asylees.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/news/2023/08/23/former-bucs-wr-antonio-brown-faces-arrest-in-florida/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-23T18:19:29.000Z</news:publication_date>
+          <news:title>Former Bucs WR Antonio Brown faces arrest in Florida</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/news/2023/08/23/former-bucs-wr-antonio-brown-faces-arrest-in-florida/former-bucs-wr-antonio-brown-faces-arrest-in-florida.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/news/2023/08/26/man-banned-from-yellowstone-grand-teton-after-allegedly-going-off-trail-suffering-thermal-burns/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-26T16:19:49.000Z</news:publication_date>
+          <news:title>Man banned from Yellowstone, Grand Teton after allegedly going off-trail, suffering thermal burns</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/news/2023/08/26/man-banned-from-yellowstone-grand-teton-after-allegedly-going-off-trail-suffering-thermal-burns/man-banned-from-yellowstone-grand-teton-after-allegedly-going-off-trail-suffering-thermal-burns.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/news/2023/08/25/trump-returns-to-twitter-under-its-new-moniker-x/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-25T02:13:08.000Z</news:publication_date>
+          <news:title>Trump returns to Twitter, under its new moniker X</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/news/2023/08/25/trump-returns-to-twitter-under-its-new-moniker-x/trump-returns-to-twitter-under-its-new-moniker-x.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/news/2023/08/26/pre-med-florida-junior-leanne-wong-chases-a-spot-on-the-us-olympic-gymnastics-team/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-26T16:26:04.000Z</news:publication_date>
+          <news:title>Pre-med Florida junior Leanne Wong chases a spot on the US Olympic gymnastics team</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/news/2023/08/26/pre-med-florida-junior-leanne-wong-chases-a-spot-on-the-us-olympic-gymnastics-team/pre-med-florida-junior-leanne-wong-chases-a-spot-on-the-us-olympic-gymnastics-team.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/news/2023/08/24/4168992-a-100-year-old-maui-home-is-still-standing-after-wildfires-devastated-every-other-house-in-the-area-why/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-24T16:54:35.000Z</news:publication_date>
+          <news:title>A 100-year-old Maui home is still standing after wildfires devastated every other house in the area. Why?</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/news/2023/08/24/4168992-a-100-year-old-maui-home-is-still-standing-after-wildfires-devastated-every-other-house-in-the-area-why/4168992-a-100-year-old-maui-home-is-still-standing-after-wildfires-devastated-every-other-house-in-the-area-why.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/news/2023/08/22/steve-kerr-buys-stake-in-spanish-soccer-team/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-22T18:06:06.000Z</news:publication_date>
+          <news:title>Steve Kerr buys stake in Spanish soccer team</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/news/2023/08/22/steve-kerr-buys-stake-in-spanish-soccer-team/steve-kerr-buys-stake-in-spanish-soccer-team.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/news/2023/08/25/indias-lunar-rover-keeps-walking-on-the-moon-days-after-spacecrafts-historic-touchdown/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-25T15:30:35.000Z</news:publication_date>
+          <news:title>India's lunar rover keeps walking on the moon, days after spacecraft's historic touchdown</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/news/2023/08/25/indias-lunar-rover-keeps-walking-on-the-moon-days-after-spacecrafts-historic-touchdown/indias-lunar-rover-keeps-walking-on-the-moon-days-after-spacecrafts-historic-touchdown.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/news/2023/08/25/biden-on-trump-mug-shot-handsome-guy/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-25T23:33:10.000Z</news:publication_date>
+          <news:title>Biden on Trump mug shot: &#8216;Handsome guy&#8217;</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/news/2023/08/25/biden-on-trump-mug-shot-handsome-guy/biden-on-trump-mug-shot-handsome-guy.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/news/2023/08/26/ap-fifa-suspends-spain-soccer-federation-president-luis-rubiales-for-90-days-after-world-cup-final-kiss/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-26T18:01:51.000Z</news:publication_date>
+          <news:title>FIFA suspends Spain soccer federation president Luis Rubiales for 90 days after World Cup final kiss</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/news/2023/08/26/ap-fifa-suspends-spain-soccer-federation-president-luis-rubiales-for-90-days-after-world-cup-final-kiss/ap-fifa-suspends-spain-soccer-federation-president-luis-rubiales-for-90-days-after-world-cup-final-kiss.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/news/2023/08/25/49ers-to-trade-qb-trey-lance-to-cowboys-reports/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-25T23:36:11.000Z</news:publication_date>
+          <news:title>49ers to trade QB Trey Lance to Cowboys: reports</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/news/2023/08/25/49ers-to-trade-qb-trey-lance-to-cowboys-reports/49ers-to-trade-qb-trey-lance-to-cowboys-reports.webp</image:loc>
         </image:image>
       </url></urlset>
