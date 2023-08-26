@@ -3,62 +3,6 @@
               xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
               xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
       <url>
-        <loc>https://majordigest.com/news/2023/08/24/london-zoos-animals-from-tarantulas-to-tigers-get-their-annual-weigh-in/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-24T14:50:19.000Z</news:publication_date>
-          <news:title>From tarantulas to tigers, the animals at London Zoo step onto the scales for their annual weigh-in</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/news/2023/08/24/london-zoos-animals-from-tarantulas-to-tigers-get-their-annual-weigh-in/london-zoos-animals-from-tarantulas-to-tigers-get-their-annual-weigh-in.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/news/2023/08/21/fcc-wall-of-famers-talk-about-getting-hall-call/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-21T05:49:18.000Z</news:publication_date>
-          <news:title>FCC Wall of Famers talk about getting Wall call</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/news/2023/08/21/fcc-wall-of-famers-talk-about-getting-hall-call/fcc-wall-of-famers-talk-about-getting-hall-call.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/news/2023/08/24/doj-sues-spacex-asylees/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-24T18:35:38.000Z</news:publication_date>
-          <news:title>DOJ sues SpaceX for allegedly not hiring asylees, refugees</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/news/2023/08/24/doj-sues-spacex-asylees/doj-sues-spacex-asylees.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/news/2023/08/24/trump-arrives-at-atlanta-jail-to-surrender-on-charges/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-24T23:52:10.000Z</news:publication_date>
-          <news:title>Trump surrenders at Atlanta jail on election charges, then is quickly released on $200,000 bond</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/news/2023/08/24/trump-arrives-at-atlanta-jail-to-surrender-on-charges/trump-arrives-at-atlanta-jail-to-surrender-on-charges.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
         <loc>https://majordigest.com/news/2023/08/22/steve-kerr-buys-stake-in-spanish-soccer-team/</loc>
         <news:news>
           <news:publication>
@@ -73,45 +17,73 @@
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/news/2023/08/25/military-promotions-leave-families-in-limbo/</loc>
+        <loc>https://majordigest.com/news/2023/08/25/ap-one-image-one-face-one-american-moment-the-donald-trump-mug-shot/</loc>
         <news:news>
           <news:publication>
             <news:name>Major Digest</news:name>
             <news:language>en</news:language>
           </news:publication>
-          <news:publication_date>2023-08-25T12:26:18.000Z</news:publication_date>
-          <news:title>Pending military promotions leave families in limbo</news:title>
+          <news:publication_date>2023-08-25T20:53:48.000Z</news:publication_date>
+          <news:title>One image, one face, one American moment: The Donald Trump mug shot</news:title>
         </news:news>
         <image:image>
-          <image:loc>https://majordigest.com/news/2023/08/25/military-promotions-leave-families-in-limbo/military-promotions-leave-families-in-limbo.webp</image:loc>
+          <image:loc>https://majordigest.com/news/2023/08/25/ap-one-image-one-face-one-american-moment-the-donald-trump-mug-shot/ap-one-image-one-face-one-american-moment-the-donald-trump-mug-shot.webp</image:loc>
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/news/2023/08/23/cole-carrigg-has-three-hits-in-chukchansi-park-debut/</loc>
+        <loc>https://majordigest.com/news/2023/08/25/49ers-to-trade-qb-trey-lance-to-cowboys-reports/</loc>
         <news:news>
           <news:publication>
             <news:name>Major Digest</news:name>
             <news:language>en</news:language>
           </news:publication>
-          <news:publication_date>2023-08-23T06:47:48.000Z</news:publication_date>
-          <news:title>Cole Carrigg has three hits in Chukchansi Park debut</news:title>
+          <news:publication_date>2023-08-25T23:36:11.000Z</news:publication_date>
+          <news:title>49ers to trade QB Trey Lance to Cowboys: reports</news:title>
         </news:news>
         <image:image>
-          <image:loc>https://majordigest.com/news/2023/08/23/cole-carrigg-has-three-hits-in-chukchansi-park-debut/cole-carrigg-has-three-hits-in-chukchansi-park-debut.webp</image:loc>
+          <image:loc>https://majordigest.com/news/2023/08/25/49ers-to-trade-qb-trey-lance-to-cowboys-reports/49ers-to-trade-qb-trey-lance-to-cowboys-reports.webp</image:loc>
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/news/2023/08/25/ap-president-joe-biden-says-he-will-request-more-funding-for-a-new-coronavirus-vaccine/</loc>
+        <loc>https://majordigest.com/news/2023/08/25/sf-prep-basketball-star-zion-sensley-commits-to-st-marys/</loc>
         <news:news>
           <news:publication>
             <news:name>Major Digest</news:name>
             <news:language>en</news:language>
           </news:publication>
-          <news:publication_date>2023-08-25T21:37:39.000Z</news:publication_date>
-          <news:title>President Joe Biden says he will request more funding for a new coronavirus vaccine</news:title>
+          <news:publication_date>2023-08-25T04:00:23.000Z</news:publication_date>
+          <news:title>SF prep basketball star Zion Sensley commits to St. Mary's</news:title>
         </news:news>
         <image:image>
-          <image:loc>https://majordigest.com/news/2023/08/25/ap-president-joe-biden-says-he-will-request-more-funding-for-a-new-coronavirus-vaccine/ap-president-joe-biden-says-he-will-request-more-funding-for-a-new-coronavirus-vaccine.webp</image:loc>
+          <image:loc>https://majordigest.com/news/2023/08/25/sf-prep-basketball-star-zion-sensley-commits-to-st-marys/sf-prep-basketball-star-zion-sensley-commits-to-st-marys.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/news/2023/08/25/ap-desantis-reports-raising-more-than-1-million-as-republicans-hope-for-post-debate-boosts/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-25T17:33:40.000Z</news:publication_date>
+          <news:title>DeSantis reports raising more than $1 million as Republicans hope for post-debate boosts</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/news/2023/08/25/ap-desantis-reports-raising-more-than-1-million-as-republicans-hope-for-post-debate-boosts/ap-desantis-reports-raising-more-than-1-million-as-republicans-hope-for-post-debate-boosts.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/news/2023/08/26/ap-maui-has-released-the-names-of-388-people-still-missing-after-deadly-wildfire/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-26T00:18:32.000Z</news:publication_date>
+          <news:title>Release of 388 names helps winnow list of those unaccounted for after devastating Maui fires</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/news/2023/08/26/ap-maui-has-released-the-names-of-388-people-still-missing-after-deadly-wildfire/ap-maui-has-released-the-names-of-388-people-still-missing-after-deadly-wildfire.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -129,45 +101,129 @@
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/news/2023/08/23/rudy-giuliani-surrenders-in-georgia-to-face-election-interference-charges/</loc>
+        <loc>https://majordigest.com/news/2023/08/26/astros-framber-valdez-holds-tigers-hitless-through-6-innings/</loc>
         <news:news>
           <news:publication>
             <news:name>Major Digest</news:name>
             <news:language>en</news:language>
           </news:publication>
-          <news:publication_date>2023-08-23T19:47:00.000Z</news:publication_date>
-          <news:title>Rudy Giuliani surrenders in Georgia to face election interference charges</news:title>
+          <news:publication_date>2023-08-26T00:18:09.000Z</news:publication_date>
+          <news:title>Astros' Framber Valdez holds Tigers hitless through 7 innings</news:title>
         </news:news>
         <image:image>
-          <image:loc>https://majordigest.com/news/2023/08/23/rudy-giuliani-surrenders-in-georgia-to-face-election-interference-charges/rudy-giuliani-surrenders-in-georgia-to-face-election-interference-charges.webp</image:loc>
+          <image:loc>https://majordigest.com/news/2023/08/26/astros-framber-valdez-holds-tigers-hitless-through-6-innings/astros-framber-valdez-holds-tigers-hitless-through-6-innings.webp</image:loc>
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/news/2023/08/25/flares-fired-as-civilian-aircraft-violates-flight-restriction-near-biden-vacation-spot-in-lake-tahoe/</loc>
+        <loc>https://majordigest.com/news/2023/08/23/cole-carrigg-has-three-hits-in-chukchansi-park-debut/</loc>
         <news:news>
           <news:publication>
             <news:name>Major Digest</news:name>
             <news:language>en</news:language>
           </news:publication>
-          <news:publication_date>2023-08-25T18:49:59.000Z</news:publication_date>
-          <news:title>Flares fired as civilian aircraft violates flight restriction near Biden vacation spot in Lake Tahoe</news:title>
+          <news:publication_date>2023-08-23T06:47:48.000Z</news:publication_date>
+          <news:title>Cole Carrigg has three hits in Chukchansi Park debut</news:title>
         </news:news>
         <image:image>
-          <image:loc>https://majordigest.com/news/2023/08/25/flares-fired-as-civilian-aircraft-violates-flight-restriction-near-biden-vacation-spot-in-lake-tahoe/flares-fired-as-civilian-aircraft-violates-flight-restriction-near-biden-vacation-spot-in-lake-tahoe.webp</image:loc>
+          <image:loc>https://majordigest.com/news/2023/08/23/cole-carrigg-has-three-hits-in-chukchansi-park-debut/cole-carrigg-has-three-hits-in-chukchansi-park-debut.webp</image:loc>
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/news/2023/08/21/ap-spain-wins-its-first-womens-world-cup-title-beating-england-1-0-in-the-final/</loc>
+        <loc>https://majordigest.com/news/2023/08/25/ap-ukraine-aid-faces-a-stress-test-as-some-gop-2024-presidential-candidates-balk-at-continued-support/</loc>
         <news:news>
           <news:publication>
             <news:name>Major Digest</news:name>
             <news:language>en</news:language>
           </news:publication>
-          <news:publication_date>2023-08-21T01:48:26.000Z</news:publication_date>
-          <news:title>From turmoil to triumph, Spain earns its first Women's World Cup title with a 1-0 win over England</news:title>
+          <news:publication_date>2023-08-25T20:28:16.000Z</news:publication_date>
+          <news:title>Ukraine aid faces a stress test as some GOP 2024 presidential candidates balk at continued support</news:title>
         </news:news>
         <image:image>
-          <image:loc>https://majordigest.com/news/2023/08/21/ap-spain-wins-its-first-womens-world-cup-title-beating-england-1-0-in-the-final/ap-spain-wins-its-first-womens-world-cup-title-beating-england-1-0-in-the-final.webp</image:loc>
+          <image:loc>https://majordigest.com/news/2023/08/25/ap-ukraine-aid-faces-a-stress-test-as-some-gop-2024-presidential-candidates-balk-at-continued-support/ap-ukraine-aid-faces-a-stress-test-as-some-gop-2024-presidential-candidates-balk-at-continued-support.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/news/2023/08/25/4170610-trump-returns-to-twitter-under-its-new-moniker-x/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-25T01:48:38.000Z</news:publication_date>
+          <news:title>Trump returns to Twitter, under its new moniker X</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/news/2023/08/25/4170610-trump-returns-to-twitter-under-its-new-moniker-x/4170610-trump-returns-to-twitter-under-its-new-moniker-x.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/news/2023/08/25/bronny-james-has-a-congenital-heart-defect-that-caused-his-cardiac-arrest-a-spokesperson-says/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-25T23:49:00.000Z</news:publication_date>
+          <news:title>Bronny James has a congenital heart defect that caused his cardiac arrest, a spokesperson says</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/news/2023/08/25/bronny-james-has-a-congenital-heart-defect-that-caused-his-cardiac-arrest-a-spokesperson-says/bronny-james-has-a-congenital-heart-defect-that-caused-his-cardiac-arrest-a-spokesperson-says.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/news/2023/08/24/npr-trump-mug-shot-indicted-photo-fulton-county-atlanta/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-24T09:02:00.000Z</news:publication_date>
+          <news:title>Trump is likely to finally get a real mug shot. Does it matter?</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/news/2023/08/24/npr-trump-mug-shot-indicted-photo-fulton-county-atlanta/npr-trump-mug-shot-indicted-photo-fulton-county-atlanta.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/news/2023/08/24/4169295-google-unveils-new-transparency-measures-as-eu-rule-goes-into-effect/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-24T15:59:23.000Z</news:publication_date>
+          <news:title>Google unveils new transparency measures as EU rule goes into effect</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/news/2023/08/24/4169295-google-unveils-new-transparency-measures-as-eu-rule-goes-into-effect/4169295-google-unveils-new-transparency-measures-as-eu-rule-goes-into-effect.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/news/2023/08/24/4170430-biden-zelensky-talk-training-ukrainian-fighter-pilots-on-f-16s-to-mark-18-months-since-russian-invasion/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-24T23:50:43.000Z</news:publication_date>
+          <news:title>Biden, Zelensky talk training Ukrainian fighter pilots on F-16s to mark 18 months since Russian invasion</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/news/2023/08/24/4170430-biden-zelensky-talk-training-ukrainian-fighter-pilots-on-f-16s-to-mark-18-months-since-russian-invasion/4170430-biden-zelensky-talk-training-ukrainian-fighter-pilots-on-f-16s-to-mark-18-months-since-russian-invasion.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/news/2023/08/24/california-bill-proposes-new-state-agency-to-handle-reparations-for-black-residents/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-24T03:28:41.000Z</news:publication_date>
+          <news:title>California bill proposes new state agency to handle reparations for Black residents</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/news/2023/08/24/california-bill-proposes-new-state-agency-to-handle-reparations-for-black-residents/california-bill-proposes-new-state-agency-to-handle-reparations-for-black-residents.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -185,16 +241,44 @@
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/news/2023/08/25/sports-gambling-rise-risks-addiction/</loc>
+        <loc>https://majordigest.com/news/2023/08/25/ap-democrats-accuse-tax-prep-firms-of-undermining-new-irs-effort-on-electronic-free-file-tax-returns/</loc>
         <news:news>
           <news:publication>
             <news:name>Major Digest</news:name>
             <news:language>en</news:language>
           </news:publication>
-          <news:publication_date>2023-08-25T22:19:14.000Z</news:publication_date>
-          <news:title>Sports gambling boom prompts addiction concerns</news:title>
+          <news:publication_date>2023-08-25T14:11:20.000Z</news:publication_date>
+          <news:title>Democrats accuse tax prep firms of undermining new IRS effort on electronic free file tax returns</news:title>
         </news:news>
         <image:image>
-          <image:loc>https://majordigest.com/news/2023/08/25/sports-gambling-rise-risks-addiction/sports-gambling-rise-risks-addiction.webp</image:loc>
+          <image:loc>https://majordigest.com/news/2023/08/25/ap-democrats-accuse-tax-prep-firms-of-undermining-new-irs-effort-on-electronic-free-file-tax-returns/ap-democrats-accuse-tax-prep-firms-of-undermining-new-irs-effort-on-electronic-free-file-tax-returns.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/news/2023/08/25/ap-texas-trial-over-biden-policy-letting-migrants-from-4-countries-into-us-to-wrap-up-friday/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-25T22:47:07.000Z</news:publication_date>
+          <news:title>Judge asks if poverty qualifies for Biden policy letting migrants from 4 countries into US</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/news/2023/08/25/ap-texas-trial-over-biden-policy-letting-migrants-from-4-countries-into-us-to-wrap-up-friday/ap-texas-trial-over-biden-policy-letting-migrants-from-4-countries-into-us-to-wrap-up-friday.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/news/2023/08/26/ap-angels-shohei-ohtani-batting-as-designated-hitter-vs-mets-after-tearing-elbow-ligament/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-26T00:04:43.000Z</news:publication_date>
+          <news:title>Angels' Shohei Ohtani batting as designated hitter vs Mets after tearing elbow ligament</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/news/2023/08/26/ap-angels-shohei-ohtani-batting-as-designated-hitter-vs-mets-after-tearing-elbow-ligament/ap-angels-shohei-ohtani-batting-as-designated-hitter-vs-mets-after-tearing-elbow-ligament.webp</image:loc>
         </image:image>
       </url></urlset>
