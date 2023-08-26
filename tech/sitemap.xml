@@ -3,62 +3,6 @@
               xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
               xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
       <url>
-        <loc>https://majordigest.com/tech/2023/08/25/los-angeles-solar-ev-chargers-ev-arc-beam-global/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-25T08:00:00.000Z</news:publication_date>
-          <news:title>Los Angeles installing solar-powered EV charging stations</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/tech/2023/08/25/los-angeles-solar-ev-chargers-ev-arc-beam-global/los-angeles-solar-ev-chargers-ev-arc-beam-global.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/tech/2023/08/23/4166818-biden-administration-investing-up-to-24-million-for-cancer-fighting-mrna-tech/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-23T17:37:15.000Z</news:publication_date>
-          <news:title>Biden administration investing up to $24 million for cancer-fighting mRNA tech</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/tech/2023/08/23/4166818-biden-administration-investing-up-to-24-million-for-cancer-fighting-mrna-tech/4166818-biden-administration-investing-up-to-24-million-for-cancer-fighting-mrna-tech.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/tech/2023/08/23/medical-professionals-utilizing-ai-judge-narcotics-prescriptions-report/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-23T17:07:41.000Z</news:publication_date>
-          <news:title>Medical professionals utilizing AI to judge narcotics prescriptions: report</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/tech/2023/08/23/medical-professionals-utilizing-ai-judge-narcotics-prescriptions-report/medical-professionals-utilizing-ai-judge-narcotics-prescriptions-report.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/tech/2023/08/24/are-ai-deepfakes-end-acting-know/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-24T19:30:33.000Z</news:publication_date>
-          <news:title>Are AI deepfakes the end of acting as we know it?</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/tech/2023/08/24/are-ai-deepfakes-end-acting-know/are-ai-deepfakes-end-acting-know.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
         <loc>https://majordigest.com/tech/2023/08/25/t-mobile-lay-off-5000-employees/</loc>
         <news:news>
           <news:publication>
@@ -70,34 +14,6 @@
         </news:news>
         <image:image>
           <image:loc>https://majordigest.com/tech/2023/08/25/t-mobile-lay-off-5000-employees/t-mobile-lay-off-5000-employees.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/tech/2023/08/24/indias-lunar-rover-goes-down-a-ramp-to-the-moons-surface-and-takes-a-walk/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-24T15:00:01.000Z</news:publication_date>
-          <news:title>India's lunar rover goes down a ramp to the moon's surface and takes a walk</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/tech/2023/08/24/indias-lunar-rover-goes-down-a-ramp-to-the-moons-surface-and-takes-a-walk/indias-lunar-rover-goes-down-a-ramp-to-the-moons-surface-and-takes-a-walk.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/tech/2023/08/24/uber-raises-minimum-age-for-most-california-drivers-to-25-saying-insurance-costs-are-too-high/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-24T14:21:06.000Z</news:publication_date>
-          <news:title>Uber raises minimum age for most California drivers to 25, saying insurance costs are too high</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/tech/2023/08/24/uber-raises-minimum-age-for-most-california-drivers-to-25-saying-insurance-costs-are-too-high/uber-raises-minimum-age-for-most-california-drivers-to-25-saying-insurance-costs-are-too-high.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -115,17 +31,101 @@
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/tech/2023/08/24/doj-sues-spacex-asylees/</loc>
+        <loc>https://majordigest.com/tech/2023/08/23/4167496-over-half-of-american-workers-say-theyd-consider-quitting-without-flexible-work-options-study/</loc>
         <news:news>
           <news:publication>
             <news:name>Major Digest</news:name>
             <news:language>en</news:language>
           </news:publication>
-          <news:publication_date>2023-08-24T18:35:38.000Z</news:publication_date>
-          <news:title>DOJ sues SpaceX for allegedly not hiring asylees, refugees</news:title>
+          <news:publication_date>2023-08-23T21:42:14.000Z</news:publication_date>
+          <news:title>Post-pandemic, many American workers say they'd consider quitting without flexible work options: study</news:title>
         </news:news>
         <image:image>
-          <image:loc>https://majordigest.com/tech/2023/08/24/doj-sues-spacex-asylees/doj-sues-spacex-asylees.webp</image:loc>
+          <image:loc>https://majordigest.com/tech/2023/08/23/4167496-over-half-of-american-workers-say-theyd-consider-quitting-without-flexible-work-options-study/4167496-over-half-of-american-workers-say-theyd-consider-quitting-without-flexible-work-options-study.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/tech/2023/08/25/replacing-your-phone-battery-worth-time-new-phone/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-25T15:09:05.000Z</news:publication_date>
+          <news:title>Replacing your phone&#8217;s battery &#8211; is it worth it or time for a new phone?&#8239;</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/tech/2023/08/25/replacing-your-phone-battery-worth-time-new-phone/replacing-your-phone-battery-worth-time-new-phone.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/tech/2023/08/23/controversial-ai-app-allows-text-jesus-satan/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-23T15:07:25.000Z</news:publication_date>
+          <news:title>Controversial new AI app allows you to text with Jesus &#8211; and Satan</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/tech/2023/08/23/controversial-ai-app-allows-text-jesus-satan/controversial-ai-app-allows-text-jesus-satan.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/tech/2023/08/24/4169669-doj-files-lawsuit-against-spacex-for-hiring-discrimination-against-refugees-asylees/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-24T18:03:56.000Z</news:publication_date>
+          <news:title>DOJ files lawsuit against SpaceX for hiring discrimination against refugees, asylees</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/tech/2023/08/24/4169669-doj-files-lawsuit-against-spacex-for-hiring-discrimination-against-refugees-asylees/4169669-doj-files-lawsuit-against-spacex-for-hiring-discrimination-against-refugees-asylees.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/tech/2023/08/24/ai-binge-lapd-bodycam-footage-weed-rude-tone-aggressive-language/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-24T06:00:01.000Z</news:publication_date>
+          <news:title>AI to binge LAPD bodycam footage to weed out rude tone, aggressive language</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/tech/2023/08/24/ai-binge-lapd-bodycam-footage-weed-rude-tone-aggressive-language/ai-binge-lapd-bodycam-footage-weed-rude-tone-aggressive-language.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/tech/2023/08/23/editorial-puc-fails-to-keep-californians-safe-from-autonomous-vehicles/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-23T12:30:55.000Z</news:publication_date>
+          <news:title>Editorial: CPUC incompetence lets autotaxis dangerously run amok</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/tech/2023/08/23/editorial-puc-fails-to-keep-californians-safe-from-autonomous-vehicles/editorial-puc-fails-to-keep-californians-safe-from-autonomous-vehicles.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/tech/2023/08/24/london-zoos-animals-from-tarantulas-to-tigers-get-their-annual-weigh-in/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-24T14:50:19.000Z</news:publication_date>
+          <news:title>From tarantulas to tigers, the animals at London Zoo step onto the scales for their annual weigh-in</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/tech/2023/08/24/london-zoos-animals-from-tarantulas-to-tigers-get-their-annual-weigh-in/london-zoos-animals-from-tarantulas-to-tigers-get-their-annual-weigh-in.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -143,30 +143,30 @@
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/tech/2023/08/25/doj-sues-spacex-alleging-it-discriminated-against-refugees-asylum-seekers/</loc>
+        <loc>https://majordigest.com/tech/2023/08/24/why-wall-streets-obsession-with-a-company-you-probably-never-heard-of-is-sending-stocks-surging/</loc>
         <news:news>
           <news:publication>
             <news:name>Major Digest</news:name>
             <news:language>en</news:language>
           </news:publication>
-          <news:publication_date>2023-08-25T14:06:52.000Z</news:publication_date>
-          <news:title>DOJ sues SpaceX, alleging it discriminated against refugees, asylum seekers</news:title>
+          <news:publication_date>2023-08-24T17:34:18.000Z</news:publication_date>
+          <news:title>Why Wall Street&#8217;s obsession with a Silicon Valley company most people never heard of is sending stocks surging</news:title>
         </news:news>
         <image:image>
-          <image:loc>https://majordigest.com/tech/2023/08/25/doj-sues-spacex-alleging-it-discriminated-against-refugees-asylum-seekers/doj-sues-spacex-alleging-it-discriminated-against-refugees-asylum-seekers.webp</image:loc>
+          <image:loc>https://majordigest.com/tech/2023/08/24/why-wall-streets-obsession-with-a-company-you-probably-never-heard-of-is-sending-stocks-surging/why-wall-streets-obsession-with-a-company-you-probably-never-heard-of-is-sending-stocks-surging.webp</image:loc>
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/tech/2023/08/24/us-sues-spacex-for-alleged-hiring-discrimination-against-refugees-and-others/</loc>
+        <loc>https://majordigest.com/tech/2023/08/24/are-ai-deepfakes-end-acting-know/</loc>
         <news:news>
           <news:publication>
             <news:name>Major Digest</news:name>
             <news:language>en</news:language>
           </news:publication>
-          <news:publication_date>2023-08-24T22:55:51.000Z</news:publication_date>
-          <news:title>US sues SpaceX for alleged hiring discrimination against refugees and others</news:title>
+          <news:publication_date>2023-08-24T19:30:33.000Z</news:publication_date>
+          <news:title>Are AI deepfakes the end of acting as we know it?</news:title>
         </news:news>
         <image:image>
-          <image:loc>https://majordigest.com/tech/2023/08/24/us-sues-spacex-for-alleged-hiring-discrimination-against-refugees-and-others/us-sues-spacex-for-alleged-hiring-discrimination-against-refugees-and-others.webp</image:loc>
+          <image:loc>https://majordigest.com/tech/2023/08/24/are-ai-deepfakes-end-acting-know/are-ai-deepfakes-end-acting-know.webp</image:loc>
         </image:image>
       </url></urlset>

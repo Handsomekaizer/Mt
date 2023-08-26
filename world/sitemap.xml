@@ -3,6 +3,20 @@
               xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
               xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
       <url>
+        <loc>https://majordigest.com/world/2023/08/25/4171029-us-to-train-ukrainian-pilots-on-f-16s-this-october-in-arizona/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-25T13:30:07.000Z</news:publication_date>
+          <news:title>US to train Ukrainian pilots on F-16s this October in Arizona</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/world/2023/08/25/4171029-us-to-train-ukrainian-pilots-on-f-16s-this-october-in-arizona/4171029-us-to-train-ukrainian-pilots-on-f-16s-this-october-in-arizona.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
         <loc>https://majordigest.com/world/2023/08/26/ap-the-us-and-allies-clash-with-north-korea-china-and-russia-over-failed-satellite-launch-and-tensions/</loc>
         <news:news>
           <news:publication>
@@ -17,45 +31,101 @@
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/world/2023/08/26/the-us-and-allies-clash-with-north-korea-china-and-russia-over-failed-satellite-launch-and-tensions/</loc>
+        <loc>https://majordigest.com/world/2023/08/25/uk-russian-mercenary-chiefs-likely-death-could-destabilize-his-private-army/</loc>
         <news:news>
           <news:publication>
             <news:name>Major Digest</news:name>
             <news:language>en</news:language>
           </news:publication>
-          <news:publication_date>2023-08-26T03:33:42.000Z</news:publication_date>
-          <news:title>The US and allies clash with North Korea, China and Russia over failed satellite launch and tensions</news:title>
+          <news:publication_date>2023-08-25T09:28:38.000Z</news:publication_date>
+          <news:title>Kremlin denies role in plane crash believed to have killed Russian mercenary leader Prigozhin</news:title>
         </news:news>
         <image:image>
-          <image:loc>https://majordigest.com/world/2023/08/26/the-us-and-allies-clash-with-north-korea-china-and-russia-over-failed-satellite-launch-and-tensions/the-us-and-allies-clash-with-north-korea-china-and-russia-over-failed-satellite-launch-and-tensions.webp</image:loc>
+          <image:loc>https://majordigest.com/world/2023/08/25/uk-russian-mercenary-chiefs-likely-death-could-destabilize-his-private-army/uk-russian-mercenary-chiefs-likely-death-could-destabilize-his-private-army.webp</image:loc>
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/world/2023/08/25/india-lands-moons-south-pole-search-water/</loc>
+        <loc>https://majordigest.com/world/2023/08/25/ap-legionnaires-disease-kills-7-people-in-a-strategic-polish-city-on-the-ukrainian-border/</loc>
         <news:news>
           <news:publication>
             <news:name>Major Digest</news:name>
             <news:language>en</news:language>
           </news:publication>
-          <news:publication_date>2023-08-25T13:57:16.000Z</news:publication_date>
-          <news:title>India lands on moon's south pole to search for water</news:title>
+          <news:publication_date>2023-08-25T13:44:14.000Z</news:publication_date>
+          <news:title>Legionnaires' disease kills 7 people in a strategic Polish city on the Ukrainian border</news:title>
         </news:news>
         <image:image>
-          <image:loc>https://majordigest.com/world/2023/08/25/india-lands-moons-south-pole-search-water/india-lands-moons-south-pole-search-water.webp</image:loc>
+          <image:loc>https://majordigest.com/world/2023/08/25/ap-legionnaires-disease-kills-7-people-in-a-strategic-polish-city-on-the-ukrainian-border/ap-legionnaires-disease-kills-7-people-in-a-strategic-polish-city-on-the-ukrainian-border.webp</image:loc>
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/world/2023/08/25/4170236-gop-talk-of-military-action-in-mexico-sparks-dire-warnings/</loc>
+        <loc>https://majordigest.com/world/2023/08/25/ap-firefighters-in-greece-discover-another-body-bringing-this-weeks-death-toll-from-wildfires-to-21/</loc>
         <news:news>
           <news:publication>
             <news:name>Major Digest</news:name>
             <news:language>en</news:language>
           </news:publication>
-          <news:publication_date>2023-08-25T09:00:00.000Z</news:publication_date>
-          <news:title>GOP talk of military action in Mexico sparks dire warnings</news:title>
+          <news:publication_date>2023-08-25T15:11:54.000Z</news:publication_date>
+          <news:title>The death toll from wildfires in Greece this week rises to 21 after another victim is found</news:title>
         </news:news>
         <image:image>
-          <image:loc>https://majordigest.com/world/2023/08/25/4170236-gop-talk-of-military-action-in-mexico-sparks-dire-warnings/4170236-gop-talk-of-military-action-in-mexico-sparks-dire-warnings.webp</image:loc>
+          <image:loc>https://majordigest.com/world/2023/08/25/ap-firefighters-in-greece-discover-another-body-bringing-this-weeks-death-toll-from-wildfires-to-21/ap-firefighters-in-greece-discover-another-body-bringing-this-weeks-death-toll-from-wildfires-to-21.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/world/2023/08/25/ap-nigers-junta-asks-the-french-ambassador-to-leave-the-country/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-25T21:17:12.000Z</news:publication_date>
+          <news:title>Niger&#8217;s junta invites Mali and Burkina Faso to aid its defense, asks the French ambassador to leave</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/world/2023/08/25/ap-nigers-junta-asks-the-french-ambassador-to-leave-the-country/ap-nigers-junta-asks-the-french-ambassador-to-leave-the-country.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/world/2023/08/25/prominent-lebanese-journalist-talal-salman-dies-age-85-long-illness/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-25T18:46:00.000Z</news:publication_date>
+          <news:title>Prominent Lebanese journalist Talal Salman dies at age 85 after long illness</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/world/2023/08/25/prominent-lebanese-journalist-talal-salman-dies-age-85-long-illness/prominent-lebanese-journalist-talal-salman-dies-age-85-long-illness.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/world/2023/08/25/ap-zimbabweans-anxiously-wait-for-election-results-as-armed-police-gather-with-water-cannons/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-25T16:32:34.000Z</news:publication_date>
+          <news:title>Zimbabweans anxiously wait for election results as African observer missions note voter intimidation</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/world/2023/08/25/ap-zimbabweans-anxiously-wait-for-election-results-as-armed-police-gather-with-water-cannons/ap-zimbabweans-anxiously-wait-for-election-results-as-armed-police-gather-with-water-cannons.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/world/2023/08/24/4170430-biden-zelensky-talk-training-ukrainian-fighter-pilots-on-f-16s-to-mark-18-months-since-russian-invasion/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-24T23:50:43.000Z</news:publication_date>
+          <news:title>Biden, Zelensky talk training Ukrainian fighter pilots on F-16s to mark 18 months since Russian invasion</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/world/2023/08/24/4170430-biden-zelensky-talk-training-ukrainian-fighter-pilots-on-f-16s-to-mark-18-months-since-russian-invasion/4170430-biden-zelensky-talk-training-ukrainian-fighter-pilots-on-f-16s-to-mark-18-months-since-russian-invasion.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -73,31 +143,45 @@
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/world/2023/08/26/ap-the-us-and-allies-clash-with-north-korea-china-and-russia-over-failed-satellite-launch-and-tensions/</loc>
+        <loc>https://majordigest.com/world/2023/08/24/texas-border-buoys-could-impact-u-s-mexico-water-treaty-agreement/</loc>
         <news:news>
           <news:publication>
             <news:name>Major Digest</news:name>
             <news:language>en</news:language>
           </news:publication>
-          <news:publication_date>2023-08-26T03:33:43.000Z</news:publication_date>
-          <news:title>The US and allies clash with North Korea, China and Russia over failed satellite launch and tensions</news:title>
+          <news:publication_date>2023-08-24T03:45:42.000Z</news:publication_date>
+          <news:title>Texas' border buoys could impact U.S., Mexico water treaty agreement</news:title>
         </news:news>
         <image:image>
-          <image:loc>https://majordigest.com/world/2023/08/26/ap-the-us-and-allies-clash-with-north-korea-china-and-russia-over-failed-satellite-launch-and-tensions/ap-the-us-and-allies-clash-with-north-korea-china-and-russia-over-failed-satellite-launch-and-tensions.webp</image:loc>
+          <image:loc>https://majordigest.com/world/2023/08/24/texas-border-buoys-could-impact-u-s-mexico-water-treaty-agreement/texas-border-buoys-could-impact-u-s-mexico-water-treaty-agreement.webp</image:loc>
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/world/2023/08/25/el-pasoan-witnesses-historic-guatemalan-presidential-election/</loc>
+        <loc>https://majordigest.com/world/2023/08/25/4171039-presumed-prigozhin-death-could-destabilize-wagner-uk/</loc>
         <news:news>
           <news:publication>
             <news:name>Major Digest</news:name>
             <news:language>en</news:language>
           </news:publication>
-          <news:publication_date>2023-08-25T09:34:09.000Z</news:publication_date>
-          <news:title>El Pasoan witnesses historic Guatemalan presidential election</news:title>
+          <news:publication_date>2023-08-25T14:43:10.000Z</news:publication_date>
+          <news:title>Presumed Prigozhin death could destabilize Wagner: UK</news:title>
         </news:news>
         <image:image>
-          <image:loc>https://majordigest.com/world/2023/08/25/el-pasoan-witnesses-historic-guatemalan-presidential-election/el-pasoan-witnesses-historic-guatemalan-presidential-election.webp</image:loc>
+          <image:loc>https://majordigest.com/world/2023/08/25/4171039-presumed-prigozhin-death-could-destabilize-wagner-uk/4171039-presumed-prigozhin-death-could-destabilize-wagner-uk.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/world/2023/08/24/ap-tropical-storm-franklin-nears-haiti-and-the-dominican-republic-bringing-fears-of-floods-landslides/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-24T05:07:15.000Z</news:publication_date>
+          <news:title>At least 1 person is dead and 2 are missing as Tropical Storm Franklin batters Dominican Republic</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/world/2023/08/24/ap-tropical-storm-franklin-nears-haiti-and-the-dominican-republic-bringing-fears-of-floods-landslides/ap-tropical-storm-franklin-nears-haiti-and-the-dominican-republic-bringing-fears-of-floods-landslides.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -115,16 +199,44 @@
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/world/2023/08/24/ap-tropical-storm-franklin-nears-haiti-and-the-dominican-republic-bringing-fears-of-floods-landslides/</loc>
+        <loc>https://majordigest.com/world/2023/08/25/estonias-pro-ukrainian-pm-faces-pressure-to-quit-over-husbands-indirect-russian-business-links/</loc>
         <news:news>
           <news:publication>
             <news:name>Major Digest</news:name>
             <news:language>en</news:language>
           </news:publication>
-          <news:publication_date>2023-08-24T05:07:15.000Z</news:publication_date>
-          <news:title>At least 1 person is dead and 2 are missing as Tropical Storm Franklin batters Dominican Republic</news:title>
+          <news:publication_date>2023-08-25T15:28:30.000Z</news:publication_date>
+          <news:title>Estonia's pro-Ukrainian PM faces pressure to quit over husband's indirect Russian business links</news:title>
         </news:news>
         <image:image>
-          <image:loc>https://majordigest.com/world/2023/08/24/ap-tropical-storm-franklin-nears-haiti-and-the-dominican-republic-bringing-fears-of-floods-landslides/ap-tropical-storm-franklin-nears-haiti-and-the-dominican-republic-bringing-fears-of-floods-landslides.webp</image:loc>
+          <image:loc>https://majordigest.com/world/2023/08/25/estonias-pro-ukrainian-pm-faces-pressure-to-quit-over-husbands-indirect-russian-business-links/estonias-pro-ukrainian-pm-faces-pressure-to-quit-over-husbands-indirect-russian-business-links.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/world/2023/08/25/ap-nigers-junta-asks-the-french-ambassador-to-leave-the-country/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-25T21:17:12.000Z</news:publication_date>
+          <news:title>Niger&#8217;s junta invites Mali and Burkina Faso to aid its defense, asks the French ambassador to leave</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/world/2023/08/25/ap-nigers-junta-asks-the-french-ambassador-to-leave-the-country/ap-nigers-junta-asks-the-french-ambassador-to-leave-the-country.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/world/2023/08/25/losing-guatemalan-presidential-candidate-files-voter-fraud-complaint/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-25T23:05:38.000Z</news:publication_date>
+          <news:title>Losing Guatemalan presidential candidate files voter fraud complaint</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/world/2023/08/25/losing-guatemalan-presidential-candidate-files-voter-fraud-complaint/losing-guatemalan-presidential-candidate-files-voter-fraud-complaint.webp</image:loc>
         </image:image>
       </url></urlset>
