@@ -3,20 +3,6 @@
               xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
               xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
       <url>
-        <loc>https://majordigest.com/news/2023/08/21/fcc-wall-of-famers-talk-about-getting-hall-call/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-21T05:49:18.000Z</news:publication_date>
-          <news:title>FCC Wall of Famers talk about getting Wall call</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/news/2023/08/21/fcc-wall-of-famers-talk-about-getting-hall-call/fcc-wall-of-famers-talk-about-getting-hall-call.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
         <loc>https://majordigest.com/news/2023/08/25/ap-nigers-junta-asks-the-french-ambassador-to-leave-the-country/</loc>
         <news:news>
           <news:publication>
@@ -31,59 +17,143 @@
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/news/2023/08/25/ap-legionnaires-disease-kills-7-people-in-a-strategic-polish-city-on-the-ukrainian-border/</loc>
+        <loc>https://majordigest.com/news/2023/08/24/wwe-wrestler-bray-wyatt-dies-at-36/</loc>
         <news:news>
           <news:publication>
             <news:name>Major Digest</news:name>
             <news:language>en</news:language>
           </news:publication>
-          <news:publication_date>2023-08-25T13:44:14.000Z</news:publication_date>
-          <news:title>Legionnaires' disease kills 7 people in a strategic Polish city on the Ukrainian border</news:title>
+          <news:publication_date>2023-08-24T23:59:51.000Z</news:publication_date>
+          <news:title>WWE wrestler Bray Wyatt dies at 36</news:title>
         </news:news>
         <image:image>
-          <image:loc>https://majordigest.com/news/2023/08/25/ap-legionnaires-disease-kills-7-people-in-a-strategic-polish-city-on-the-ukrainian-border/ap-legionnaires-disease-kills-7-people-in-a-strategic-polish-city-on-the-ukrainian-border.webp</image:loc>
+          <image:loc>https://majordigest.com/news/2023/08/24/wwe-wrestler-bray-wyatt-dies-at-36/wwe-wrestler-bray-wyatt-dies-at-36.webp</image:loc>
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/news/2023/08/22/as-rooker-performs-at-oakland-arena-after-crushing-walk-off-home-run/</loc>
+        <loc>https://majordigest.com/news/2023/08/24/rep-mike-levin-makes-stop-in-encinitas-to-talk-climate-following-first-tropical-storm-in-decades/</loc>
         <news:news>
           <news:publication>
             <news:name>Major Digest</news:name>
             <news:language>en</news:language>
           </news:publication>
-          <news:publication_date>2023-08-22T22:54:45.000Z</news:publication_date>
-          <news:title>A's Rooker performs at Oakland Arena after crushing walk-off home run</news:title>
+          <news:publication_date>2023-08-24T05:49:14.000Z</news:publication_date>
+          <news:title>Rep. Mike Levin makes stop in Encinitas to talk climate following first tropical storm in decades</news:title>
         </news:news>
         <image:image>
-          <image:loc>https://majordigest.com/news/2023/08/22/as-rooker-performs-at-oakland-arena-after-crushing-walk-off-home-run/as-rooker-performs-at-oakland-arena-after-crushing-walk-off-home-run.webp</image:loc>
+          <image:loc>https://majordigest.com/news/2023/08/24/rep-mike-levin-makes-stop-in-encinitas-to-talk-climate-following-first-tropical-storm-in-decades/rep-mike-levin-makes-stop-in-encinitas-to-talk-climate-following-first-tropical-storm-in-decades.webp</image:loc>
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/news/2023/08/26/ap-a-father-describes-rushing-his-7-month-old-to-safety-during-a-california-biker-bar-shooting/</loc>
+        <loc>https://majordigest.com/news/2023/08/26/ap-simone-biles-wows-on-vault-while-surging-to-the-lead-at-the-u-s-gymnastics-championships/</loc>
         <news:news>
           <news:publication>
             <news:name>Major Digest</news:name>
             <news:language>en</news:language>
           </news:publication>
-          <news:publication_date>2023-08-26T05:47:54.000Z</news:publication_date>
-          <news:title>A father describes rushing his 7-month-old to safety during a California biker bar shooting</news:title>
+          <news:publication_date>2023-08-26T04:08:04.000Z</news:publication_date>
+          <news:title>Simone Biles wows on vault while surging to the lead at the U.S. gymnastics championships</news:title>
         </news:news>
         <image:image>
-          <image:loc>https://majordigest.com/news/2023/08/26/ap-a-father-describes-rushing-his-7-month-old-to-safety-during-a-california-biker-bar-shooting/ap-a-father-describes-rushing-his-7-month-old-to-safety-during-a-california-biker-bar-shooting.webp</image:loc>
+          <image:loc>https://majordigest.com/news/2023/08/26/ap-simone-biles-wows-on-vault-while-surging-to-the-lead-at-the-u-s-gymnastics-championships/ap-simone-biles-wows-on-vault-while-surging-to-the-lead-at-the-u-s-gymnastics-championships.webp</image:loc>
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/news/2023/08/23/4166818-biden-administration-investing-up-to-24-million-for-cancer-fighting-mrna-tech/</loc>
+        <loc>https://majordigest.com/news/2023/08/24/california-bill-proposes-new-state-agency-to-handle-reparations-for-black-residents/</loc>
         <news:news>
           <news:publication>
             <news:name>Major Digest</news:name>
             <news:language>en</news:language>
           </news:publication>
-          <news:publication_date>2023-08-23T17:37:15.000Z</news:publication_date>
-          <news:title>Biden administration investing up to $24 million for cancer-fighting mRNA tech</news:title>
+          <news:publication_date>2023-08-24T03:28:41.000Z</news:publication_date>
+          <news:title>California bill proposes new state agency to handle reparations for Black residents</news:title>
         </news:news>
         <image:image>
-          <image:loc>https://majordigest.com/news/2023/08/23/4166818-biden-administration-investing-up-to-24-million-for-cancer-fighting-mrna-tech/4166818-biden-administration-investing-up-to-24-million-for-cancer-fighting-mrna-tech.webp</image:loc>
+          <image:loc>https://majordigest.com/news/2023/08/24/california-bill-proposes-new-state-agency-to-handle-reparations-for-black-residents/california-bill-proposes-new-state-agency-to-handle-reparations-for-black-residents.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/news/2023/08/26/ap-arizonas-pham-robbed-of-homer-by-fan-who-stole-the-ball-from-steer/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-26T04:24:30.000Z</news:publication_date>
+          <news:title>Arizona's Pham robbed of homer by fan who stole the ball from Steer</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/news/2023/08/26/ap-arizonas-pham-robbed-of-homer-by-fan-who-stole-the-ball-from-steer/ap-arizonas-pham-robbed-of-homer-by-fan-who-stole-the-ball-from-steer.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/news/2023/08/23/former-bucs-wr-antonio-brown-faces-arrest-in-florida/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-23T18:19:29.000Z</news:publication_date>
+          <news:title>Former Bucs WR Antonio Brown faces arrest in Florida</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/news/2023/08/23/former-bucs-wr-antonio-brown-faces-arrest-in-florida/former-bucs-wr-antonio-brown-faces-arrest-in-florida.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/news/2023/08/25/early-apple-computer-that-helped-launch-3t-company-sells-at-auction-for-223000/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-25T17:04:30.000Z</news:publication_date>
+          <news:title>Early Apple computer that helped launch $3T company sells at auction for $223,000</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/news/2023/08/25/early-apple-computer-that-helped-launch-3t-company-sells-at-auction-for-223000/early-apple-computer-that-helped-launch-3t-company-sells-at-auction-for-223000.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/news/2023/08/24/trump-expected-to-surrender-at-fulton-county-jail-live-updates/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-24T19:08:14.000Z</news:publication_date>
+          <news:title>Trump surrenders for historic fourth arrest: see updates</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/news/2023/08/24/trump-expected-to-surrender-at-fulton-county-jail-live-updates/trump-expected-to-surrender-at-fulton-county-jail-live-updates.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/news/2023/08/24/4167113-ohio-court-system-trading-ankle-bracelets-for-smartwatches/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-24T10:55:58.000Z</news:publication_date>
+          <news:title>Ohio court system trading ankle bracelets for smartwatches</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/news/2023/08/24/4167113-ohio-court-system-trading-ankle-bracelets-for-smartwatches/4167113-ohio-court-system-trading-ankle-bracelets-for-smartwatches.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/news/2023/08/26/west-jordan-man-9th-utahn-to-plead-guilty-in-connection-to-january-6-insurrection/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-26T02:05:29.000Z</news:publication_date>
+          <news:title>West Jordan man 9th Utahn to plead guilty in connection to January 6 insurrection</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/news/2023/08/26/west-jordan-man-9th-utahn-to-plead-guilty-in-connection-to-january-6-insurrection/west-jordan-man-9th-utahn-to-plead-guilty-in-connection-to-january-6-insurrection.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -101,87 +171,31 @@
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/news/2023/08/26/ap-chicago-police-are-investigating-a-shooting-at-a-white-sox-game-at-guaranteed-rate-field/</loc>
+        <loc>https://majordigest.com/news/2023/08/26/mystery-land-buyers-around-california-air-force-base-revealed/</loc>
         <news:news>
           <news:publication>
             <news:name>Major Digest</news:name>
             <news:language>en</news:language>
           </news:publication>
-          <news:publication_date>2023-08-26T06:16:15.000Z</news:publication_date>
-          <news:title>Chicago police are investigating a shooting at a White Sox game at Guaranteed Rate Field</news:title>
+          <news:publication_date>2023-08-26T03:25:10.000Z</news:publication_date>
+          <news:title>Mystery land buyers around California Air Force base revealed</news:title>
         </news:news>
         <image:image>
-          <image:loc>https://majordigest.com/news/2023/08/26/ap-chicago-police-are-investigating-a-shooting-at-a-white-sox-game-at-guaranteed-rate-field/ap-chicago-police-are-investigating-a-shooting-at-a-white-sox-game-at-guaranteed-rate-field.webp</image:loc>
+          <image:loc>https://majordigest.com/news/2023/08/26/mystery-land-buyers-around-california-air-force-base-revealed/mystery-land-buyers-around-california-air-force-base-revealed.webp</image:loc>
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/news/2023/08/26/ramaswamy-faces-curiosity-and-skepticism-in-iowa-after-center-stage-performance-in-gop-debate/</loc>
+        <loc>https://majordigest.com/news/2023/08/25/former-cos-athlete-with-third-place-finish-at-world-athletics-championships/</loc>
         <news:news>
           <news:publication>
             <news:name>Major Digest</news:name>
             <news:language>en</news:language>
           </news:publication>
-          <news:publication_date>2023-08-26T04:04:15.000Z</news:publication_date>
-          <news:title>Ramaswamy faces curiosity and skepticism in Iowa after center-stage performance in GOP debate</news:title>
+          <news:publication_date>2023-08-25T06:47:22.000Z</news:publication_date>
+          <news:title>Former COS athlete with third place finish at World Athletics Championships</news:title>
         </news:news>
         <image:image>
-          <image:loc>https://majordigest.com/news/2023/08/26/ramaswamy-faces-curiosity-and-skepticism-in-iowa-after-center-stage-performance-in-gop-debate/ramaswamy-faces-curiosity-and-skepticism-in-iowa-after-center-stage-performance-in-gop-debate.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/news/2023/08/26/ap-a-michigan-storm-with-75-mph-winds-downs-trees-and-power-lines-several-people-are-killed/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-26T01:25:45.000Z</news:publication_date>
-          <news:title>7 tornadoes confirmed as Michigan storms down trees and power lines; 5 people killed</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/news/2023/08/26/ap-a-michigan-storm-with-75-mph-winds-downs-trees-and-power-lines-several-people-are-killed/ap-a-michigan-storm-with-75-mph-winds-downs-trees-and-power-lines-several-people-are-killed.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/news/2023/08/25/oliver-anthony-rich-men-north-of-richmond-conservatives/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-25T22:14:43.000Z</news:publication_date>
-          <news:title>'Rich Men North of Richmond' singer blasts 'aggravating' conservatives</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/news/2023/08/25/oliver-anthony-rich-men-north-of-richmond-conservatives/oliver-anthony-rich-men-north-of-richmond-conservatives.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/news/2023/08/25/sports-gambling-rise-risks-addiction/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-25T22:19:14.000Z</news:publication_date>
-          <news:title>Sports gambling boom prompts addiction concerns</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/news/2023/08/25/sports-gambling-rise-risks-addiction/sports-gambling-rise-risks-addiction.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/news/2023/08/24/4169295-google-unveils-new-transparency-measures-as-eu-rule-goes-into-effect/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-24T15:59:23.000Z</news:publication_date>
-          <news:title>Google unveils new transparency measures as EU rule goes into effect</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/news/2023/08/24/4169295-google-unveils-new-transparency-measures-as-eu-rule-goes-into-effect/4169295-google-unveils-new-transparency-measures-as-eu-rule-goes-into-effect.webp</image:loc>
+          <image:loc>https://majordigest.com/news/2023/08/25/former-cos-athlete-with-third-place-finish-at-world-athletics-championships/former-cos-athlete-with-third-place-finish-at-world-athletics-championships.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -196,33 +210,5 @@
         </news:news>
         <image:image>
           <image:loc>https://majordigest.com/news/2023/08/21/bulldog-insider-feature-rowing-the-san-joaquin-river/bulldog-insider-feature-rowing-the-san-joaquin-river.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/news/2023/08/24/4170430-biden-zelensky-talk-training-ukrainian-fighter-pilots-on-f-16s-to-mark-18-months-since-russian-invasion/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-24T23:50:43.000Z</news:publication_date>
-          <news:title>Biden, Zelensky talk training Ukrainian fighter pilots on F-16s to mark 18 months since Russian invasion</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/news/2023/08/24/4170430-biden-zelensky-talk-training-ukrainian-fighter-pilots-on-f-16s-to-mark-18-months-since-russian-invasion/4170430-biden-zelensky-talk-training-ukrainian-fighter-pilots-on-f-16s-to-mark-18-months-since-russian-invasion.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/news/2023/08/24/london-zoos-animals-from-tarantulas-to-tigers-get-their-annual-weigh-in/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-24T14:50:19.000Z</news:publication_date>
-          <news:title>From tarantulas to tigers, the animals at London Zoo step onto the scales for their annual weigh-in</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/news/2023/08/24/london-zoos-animals-from-tarantulas-to-tigers-get-their-annual-weigh-in/london-zoos-animals-from-tarantulas-to-tigers-get-their-annual-weigh-in.webp</image:loc>
         </image:image>
       </url></urlset>
