@@ -3,17 +3,101 @@
               xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
               xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
       <url>
-        <loc>https://majordigest.com/us/2023/08/25/total-disbelief-mother-daughter-given-same-dorm-room-33-years-apart/</loc>
+        <loc>https://majordigest.com/us/2023/08/26/green-day-releases-nimrod-shirt-with-trump-mugshot-to-raise-money-for-maui/</loc>
         <news:news>
           <news:publication>
             <news:name>Major Digest</news:name>
             <news:language>en</news:language>
           </news:publication>
-          <news:publication_date>2023-08-25T22:54:06.000Z</news:publication_date>
-          <news:title>'Total disbelief': Mother, daughter given same dorm room 33 years apart</news:title>
+          <news:publication_date>2023-08-26T01:03:10.000Z</news:publication_date>
+          <news:title>Green Day releases 'Nimrod' shirt with Trump mugshot to raise money for Maui</news:title>
         </news:news>
         <image:image>
-          <image:loc>https://majordigest.com/us/2023/08/25/total-disbelief-mother-daughter-given-same-dorm-room-33-years-apart/total-disbelief-mother-daughter-given-same-dorm-room-33-years-apart.webp</image:loc>
+          <image:loc>https://majordigest.com/us/2023/08/26/green-day-releases-nimrod-shirt-with-trump-mugshot-to-raise-money-for-maui/green-day-releases-nimrod-shirt-with-trump-mugshot-to-raise-money-for-maui.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/us/2023/08/26/green-day-releases-nimrod-shirt-with-trump-mugshot-to-raise-money-for-maui/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-26T01:03:05.000Z</news:publication_date>
+          <news:title>Green Day releases 'Nimrod' shirt with Trump mugshot to raise money for Maui</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/us/2023/08/26/green-day-releases-nimrod-shirt-with-trump-mugshot-to-raise-money-for-maui/green-day-releases-nimrod-shirt-with-trump-mugshot-to-raise-money-for-maui.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/us/2023/08/25/biden-on-trump-mug-shot-handsome-guy/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-25T23:32:55.000Z</news:publication_date>
+          <news:title>Biden on Trump mug shot: &#8216;Handsome guy&#8217;</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/us/2023/08/25/biden-on-trump-mug-shot-handsome-guy/biden-on-trump-mug-shot-handsome-guy.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/us/2023/08/26/ap-a-michigan-storm-with-75-mph-winds-downs-trees-and-power-lines-several-people-are-killed/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-26T01:25:45.000Z</news:publication_date>
+          <news:title>7 tornadoes confirmed as Michigan storms down trees and power lines; 5 people killed</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/us/2023/08/26/ap-a-michigan-storm-with-75-mph-winds-downs-trees-and-power-lines-several-people-are-killed/ap-a-michigan-storm-with-75-mph-winds-downs-trees-and-power-lines-several-people-are-killed.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/us/2023/08/25/maui-has-released-the-names-of-388-people-still-missing-after-deadly-wildfire/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-25T11:18:10.000Z</news:publication_date>
+          <news:title>Release of 388 names helps winnow list of those unaccounted for after devastating Maui fires</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/us/2023/08/25/maui-has-released-the-names-of-388-people-still-missing-after-deadly-wildfire/maui-has-released-the-names-of-388-people-still-missing-after-deadly-wildfire.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/us/2023/08/25/vivek-ramaswamy-momentum-debate/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-25T19:22:08.000Z</news:publication_date>
+          <news:title>Vivek Ramaswamy gains momentum after debate performance&#160;</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/us/2023/08/25/vivek-ramaswamy-momentum-debate/vivek-ramaswamy-momentum-debate.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/us/2023/08/25/rich-men-north-of-richmond-singer-blasts-aggravating-conservatives/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-25T21:27:29.000Z</news:publication_date>
+          <news:title>'Rich Men North of Richmond' singer blasts 'aggravating' conservatives</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/us/2023/08/25/rich-men-north-of-richmond-singer-blasts-aggravating-conservatives/rich-men-north-of-richmond-singer-blasts-aggravating-conservatives.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -31,185 +115,17 @@
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/us/2023/08/25/ap-biden-and-harris-will-meet-with-the-king-family-on-the-60th-anniversary-of-the-march-on-washington/</loc>
+        <loc>https://majordigest.com/us/2023/08/26/ap-us-sues-spacex-for-alleged-hiring-discrimination-against-refugees-and-others/</loc>
         <news:news>
           <news:publication>
             <news:name>Major Digest</news:name>
             <news:language>en</news:language>
           </news:publication>
-          <news:publication_date>2023-08-25T21:58:55.000Z</news:publication_date>
-          <news:title>Biden and Harris will meet with King's family on the March on Washington's 60th anniversary</news:title>
+          <news:publication_date>2023-08-26T00:13:44.000Z</news:publication_date>
+          <news:title>US sues SpaceX for alleged hiring discrimination against refugees and others</news:title>
         </news:news>
         <image:image>
-          <image:loc>https://majordigest.com/us/2023/08/25/ap-biden-and-harris-will-meet-with-the-king-family-on-the-60th-anniversary-of-the-march-on-washington/ap-biden-and-harris-will-meet-with-the-king-family-on-the-60th-anniversary-of-the-march-on-washington.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/us/2023/08/25/total-disbelief-mother-daughter-given-same-dorm-room-33-years-apart/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-25T22:55:43.000Z</news:publication_date>
-          <news:title>'Total disbelief': Mother, daughter given same dorm room 33 years apart</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/us/2023/08/25/total-disbelief-mother-daughter-given-same-dorm-room-33-years-apart/total-disbelief-mother-daughter-given-same-dorm-room-33-years-apart.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/us/2023/08/25/ap-texas-ban-on-gender-affirming-health-care-for-minors-blocked-missouri-ban-allowed-to-take-effect/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-25T22:48:08.000Z</news:publication_date>
-          <news:title>Rulings in Texas, Missouri jumble again where US transgender youth can receive treatment</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/us/2023/08/25/ap-texas-ban-on-gender-affirming-health-care-for-minors-blocked-missouri-ban-allowed-to-take-effect/ap-texas-ban-on-gender-affirming-health-care-for-minors-blocked-missouri-ban-allowed-to-take-effect.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/us/2023/08/25/busch-light-releases-pumpkin-spice-drink-for-dogs/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-25T20:50:19.000Z</news:publication_date>
-          <news:title>Busch Light releases pumpkin spice drink for dogs</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/us/2023/08/25/busch-light-releases-pumpkin-spice-drink-for-dogs/busch-light-releases-pumpkin-spice-drink-for-dogs.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/us/2023/08/25/biden-on-trump-mug-shot-handsome-guy/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-25T23:33:12.000Z</news:publication_date>
-          <news:title>Biden on Trump mug shot: &#8216;Handsome guy&#8217;</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/us/2023/08/25/biden-on-trump-mug-shot-handsome-guy/biden-on-trump-mug-shot-handsome-guy.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/us/2023/08/25/a-father-describes-rushing-his-7-month-old-to-safety-during-a-california-biker-bar-shooting/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-25T21:30:13.000Z</news:publication_date>
-          <news:title>A father describes rushing his 7-month-old to safety during a California biker bar shooting</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/us/2023/08/25/a-father-describes-rushing-his-7-month-old-to-safety-during-a-california-biker-bar-shooting/a-father-describes-rushing-his-7-month-old-to-safety-during-a-california-biker-bar-shooting.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/us/2023/08/25/biden-and-harris-will-meet-with-the-king-family-on-the-60th-anniversary-of-the-march-on-washington/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-25T10:13:52.000Z</news:publication_date>
-          <news:title>Biden and Harris will meet with King's family on the March on Washington's 60th anniversary</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/us/2023/08/25/biden-and-harris-will-meet-with-the-king-family-on-the-60th-anniversary-of-the-march-on-washington/biden-and-harris-will-meet-with-the-king-family-on-the-60th-anniversary-of-the-march-on-washington.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/us/2023/08/24/4167179-study-links-childrens-screen-time-to-heart-damage-in-adulthood/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-24T16:11:14.000Z</news:publication_date>
-          <news:title>Study links children's screen time to heart damage in adulthood</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/us/2023/08/24/4167179-study-links-childrens-screen-time-to-heart-damage-in-adulthood/4167179-study-links-childrens-screen-time-to-heart-damage-in-adulthood.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/us/2023/08/26/green-day-releases-nimrod-shirt-with-trump-mugshot-to-raise-money-for-maui/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-26T01:01:32.000Z</news:publication_date>
-          <news:title>Green Day releases 'Nimrod' shirt with Trump mugshot to raise money for Maui</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/us/2023/08/26/green-day-releases-nimrod-shirt-with-trump-mugshot-to-raise-money-for-maui/green-day-releases-nimrod-shirt-with-trump-mugshot-to-raise-money-for-maui.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/us/2023/08/26/florida-man-charged-cold-case-killing-of-store-employee-stabbed-73-times-found-guilty/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-26T00:36:42.000Z</news:publication_date>
-          <news:title>Florida man charged in cold case killing of store employee stabbed 73 times found guilty</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/us/2023/08/26/florida-man-charged-cold-case-killing-of-store-employee-stabbed-73-times-found-guilty/florida-man-charged-cold-case-killing-of-store-employee-stabbed-73-times-found-guilty.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/us/2023/08/25/south-dakota-prisoners-charged-attempted-murder-attack-guards/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-25T22:40:59.000Z</news:publication_date>
-          <news:title>South Dakota prisoners charged with attempted murder for attack on guards</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/us/2023/08/25/south-dakota-prisoners-charged-attempted-murder-attack-guards/south-dakota-prisoners-charged-attempted-murder-attack-guards.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/us/2023/08/25/ap-texas-trial-over-biden-policy-letting-migrants-from-4-countries-into-us-to-wrap-up-friday/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-25T22:47:07.000Z</news:publication_date>
-          <news:title>Judge asks if poverty qualifies for Biden policy letting migrants from 4 countries into US</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/us/2023/08/25/ap-texas-trial-over-biden-policy-letting-migrants-from-4-countries-into-us-to-wrap-up-friday/ap-texas-trial-over-biden-policy-letting-migrants-from-4-countries-into-us-to-wrap-up-friday.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/us/2023/08/25/10k-reward-info-leading-conviction-of-rachel-morins-killer/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-25T17:26:15.000Z</news:publication_date>
-          <news:title>$10k reward for info leading to conviction of Rachel Morin's killer</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/us/2023/08/25/10k-reward-info-leading-conviction-of-rachel-morins-killer/10k-reward-info-leading-conviction-of-rachel-morins-killer.webp</image:loc>
+          <image:loc>https://majordigest.com/us/2023/08/26/ap-us-sues-spacex-for-alleged-hiring-discrimination-against-refugees-and-others/ap-us-sues-spacex-for-alleged-hiring-discrimination-against-refugees-and-others.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -219,109 +135,25 @@
             <news:name>Major Digest</news:name>
             <news:language>en</news:language>
           </news:publication>
-          <news:publication_date>2023-08-26T00:34:48.000Z</news:publication_date>
-          <news:title>6 tornadoes confirmed as Michigan storms down trees and power lines; 5 people killed</news:title>
+          <news:publication_date>2023-08-26T01:25:45.000Z</news:publication_date>
+          <news:title>7 tornadoes confirmed as Michigan storms down trees and power lines; 5 people killed</news:title>
         </news:news>
         <image:image>
           <image:loc>https://majordigest.com/us/2023/08/26/ap-a-michigan-storm-with-75-mph-winds-downs-trees-and-power-lines-several-people-are-killed/ap-a-michigan-storm-with-75-mph-winds-downs-trees-and-power-lines-several-people-are-killed.webp</image:loc>
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/us/2023/08/26/california-murder-suspect-charged-stabbing-death-six-year-old-boy-great-grandmother/</loc>
+        <loc>https://majordigest.com/us/2023/08/26/tornadoes-touch-down-michigan-five-dead-after-severe-storms-cause-flooding-power-outages-damage/</loc>
         <news:news>
           <news:publication>
             <news:name>Major Digest</news:name>
             <news:language>en</news:language>
           </news:publication>
-          <news:publication_date>2023-08-26T00:21:19.000Z</news:publication_date>
-          <news:title>California murder suspect charged in stabbing death of 6-year-old boy and his great-grandmother</news:title>
+          <news:publication_date>2023-08-26T01:20:39.000Z</news:publication_date>
+          <news:title>Tornadoes touch down in Michigan; 5 dead after severe storms cause flooding, power outages, damage</news:title>
         </news:news>
         <image:image>
-          <image:loc>https://majordigest.com/us/2023/08/26/california-murder-suspect-charged-stabbing-death-six-year-old-boy-great-grandmother/california-murder-suspect-charged-stabbing-death-six-year-old-boy-great-grandmother.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/us/2023/08/25/president-joe-biden-says-he-will-request-more-funding-for-a-new-coronavirus-vaccine/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-25T21:37:38.000Z</news:publication_date>
-          <news:title>President Joe Biden says he will request more funding for a new coronavirus vaccine</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/us/2023/08/25/president-joe-biden-says-he-will-request-more-funding-for-a-new-coronavirus-vaccine/president-joe-biden-says-he-will-request-more-funding-for-a-new-coronavirus-vaccine.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/us/2023/08/25/ap-texas-trial-over-biden-policy-letting-migrants-from-4-countries-into-us-to-wrap-up-friday/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-25T22:47:07.000Z</news:publication_date>
-          <news:title>Judge asks if poverty qualifies for Biden policy letting migrants from 4 countries into US</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/us/2023/08/25/ap-texas-trial-over-biden-policy-letting-migrants-from-4-countries-into-us-to-wrap-up-friday/ap-texas-trial-over-biden-policy-letting-migrants-from-4-countries-into-us-to-wrap-up-friday.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/us/2023/08/25/india-lands-moons-south-pole-search-water/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-25T13:57:16.000Z</news:publication_date>
-          <news:title>India lands on moon's south pole to search for water</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/us/2023/08/25/india-lands-moons-south-pole-search-water/india-lands-moons-south-pole-search-water.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/us/2023/08/25/ap-texas-ban-on-gender-affirming-health-care-for-minors-blocked-missouri-ban-allowed-to-take-effect/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-25T22:48:08.000Z</news:publication_date>
-          <news:title>Rulings in Texas, Missouri jumble again where US transgender youth can receive treatment</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/us/2023/08/25/ap-texas-ban-on-gender-affirming-health-care-for-minors-blocked-missouri-ban-allowed-to-take-effect/ap-texas-ban-on-gender-affirming-health-care-for-minors-blocked-missouri-ban-allowed-to-take-effect.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/us/2023/08/25/ap-biden-and-harris-will-meet-with-the-king-family-on-the-60th-anniversary-of-the-march-on-washington/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-25T21:58:55.000Z</news:publication_date>
-          <news:title>Biden and Harris will meet with King's family on the March on Washington's 60th anniversary</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/us/2023/08/25/ap-biden-and-harris-will-meet-with-the-king-family-on-the-60th-anniversary-of-the-march-on-washington/ap-biden-and-harris-will-meet-with-the-king-family-on-the-60th-anniversary-of-the-march-on-washington.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/us/2023/08/25/ap-president-joe-biden-says-he-will-request-more-funding-for-a-new-coronavirus-vaccine/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-25T23:27:56.000Z</news:publication_date>
-          <news:title>President Joe Biden says he will request more funding for a new coronavirus vaccine</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/us/2023/08/25/ap-president-joe-biden-says-he-will-request-more-funding-for-a-new-coronavirus-vaccine/ap-president-joe-biden-says-he-will-request-more-funding-for-a-new-coronavirus-vaccine.webp</image:loc>
+          <image:loc>https://majordigest.com/us/2023/08/26/tornadoes-touch-down-michigan-five-dead-after-severe-storms-cause-flooding-power-outages-damage/tornadoes-touch-down-michigan-five-dead-after-severe-storms-cause-flooding-power-outages-damage.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -331,7 +163,7 @@
             <news:name>Major Digest</news:name>
             <news:language>en</news:language>
           </news:publication>
-          <news:publication_date>2023-08-25T22:55:58.000Z</news:publication_date>
+          <news:publication_date>2023-08-25T22:54:54.000Z</news:publication_date>
           <news:title>'Total disbelief': Mother, daughter given same dorm room 33 years apart</news:title>
         </news:news>
         <image:image>
@@ -339,17 +171,73 @@
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/us/2023/08/25/ap-texas-ban-on-gender-affirming-health-care-for-minors-blocked-missouri-ban-allowed-to-take-effect/</loc>
+        <loc>https://majordigest.com/us/2023/08/26/ap-a-michigan-storm-with-75-mph-winds-downs-trees-and-power-lines-several-people-are-killed/</loc>
         <news:news>
           <news:publication>
             <news:name>Major Digest</news:name>
             <news:language>en</news:language>
           </news:publication>
-          <news:publication_date>2023-08-25T22:48:08.000Z</news:publication_date>
+          <news:publication_date>2023-08-26T01:25:45.000Z</news:publication_date>
+          <news:title>7 tornadoes confirmed as Michigan storms down trees and power lines; 5 people killed</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/us/2023/08/26/ap-a-michigan-storm-with-75-mph-winds-downs-trees-and-power-lines-several-people-are-killed/ap-a-michigan-storm-with-75-mph-winds-downs-trees-and-power-lines-several-people-are-killed.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/us/2023/08/26/ap-alabama-seeks-nations-1st-execution-by-nitrogen-hypoxia/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-26T01:30:30.000Z</news:publication_date>
+          <news:title>Alabama wants to be the 1st state to execute a prisoner by making him breathe only nitrogen</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/us/2023/08/26/ap-alabama-seeks-nations-1st-execution-by-nitrogen-hypoxia/ap-alabama-seeks-nations-1st-execution-by-nitrogen-hypoxia.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/us/2023/08/25/texas-ban-on-gender-affirming-health-care-for-minors-blocked-missouri-ban-allowed-to-take-effect/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-25T20:20:13.000Z</news:publication_date>
           <news:title>Rulings in Texas, Missouri jumble again where US transgender youth can receive treatment</news:title>
         </news:news>
         <image:image>
-          <image:loc>https://majordigest.com/us/2023/08/25/ap-texas-ban-on-gender-affirming-health-care-for-minors-blocked-missouri-ban-allowed-to-take-effect/ap-texas-ban-on-gender-affirming-health-care-for-minors-blocked-missouri-ban-allowed-to-take-effect.webp</image:loc>
+          <image:loc>https://majordigest.com/us/2023/08/25/texas-ban-on-gender-affirming-health-care-for-minors-blocked-missouri-ban-allowed-to-take-effect/texas-ban-on-gender-affirming-health-care-for-minors-blocked-missouri-ban-allowed-to-take-effect.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/us/2023/08/26/ap-a-michigan-storm-with-75-mph-winds-downs-trees-and-power-lines-several-people-are-killed/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-26T01:25:45.000Z</news:publication_date>
+          <news:title>7 tornadoes confirmed as Michigan storms down trees and power lines; 5 people killed</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/us/2023/08/26/ap-a-michigan-storm-with-75-mph-winds-downs-trees-and-power-lines-several-people-are-killed/ap-a-michigan-storm-with-75-mph-winds-downs-trees-and-power-lines-several-people-are-killed.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/us/2023/08/26/utah-county-opens-own-investigation-into-fbi-killing-of-provo-man-who-threatened-biden/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-26T01:39:04.000Z</news:publication_date>
+          <news:title>Utah County opens own investigation into FBI killing of Provo man who threatened Biden</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/us/2023/08/26/utah-county-opens-own-investigation-into-fbi-killing-of-provo-man-who-threatened-biden/utah-county-opens-own-investigation-into-fbi-killing-of-provo-man-who-threatened-biden.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -367,17 +255,73 @@
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/us/2023/08/25/thousands-of-veterans-disability-claims-delayed-some-for-years/</loc>
+        <loc>https://majordigest.com/us/2023/08/25/moms-are-cracking-eggs-on-kids-heads-on-tiktok-why/</loc>
         <news:news>
           <news:publication>
             <news:name>Major Digest</news:name>
             <news:language>en</news:language>
           </news:publication>
-          <news:publication_date>2023-08-25T19:12:30.000Z</news:publication_date>
-          <news:title>Thousands of veterans' disability claims delayed, some for years</news:title>
+          <news:publication_date>2023-08-25T20:56:45.000Z</news:publication_date>
+          <news:title>Moms are cracking eggs on kids' heads on TikTok. Why?</news:title>
         </news:news>
         <image:image>
-          <image:loc>https://majordigest.com/us/2023/08/25/thousands-of-veterans-disability-claims-delayed-some-for-years/thousands-of-veterans-disability-claims-delayed-some-for-years.webp</image:loc>
+          <image:loc>https://majordigest.com/us/2023/08/25/moms-are-cracking-eggs-on-kids-heads-on-tiktok-why/moms-are-cracking-eggs-on-kids-heads-on-tiktok-why.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/us/2023/08/26/ap-maui-has-released-the-names-of-388-people-still-missing-after-deadly-wildfire/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-26T02:06:53.000Z</news:publication_date>
+          <news:title>Release of 388 names helps winnow list of those unaccounted for after devastating Maui fires</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/us/2023/08/26/ap-maui-has-released-the-names-of-388-people-still-missing-after-deadly-wildfire/ap-maui-has-released-the-names-of-388-people-still-missing-after-deadly-wildfire.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/us/2023/08/26/west-jordan-man-9th-utahn-to-plead-guilty-in-connection-to-january-6-insurrection/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-26T02:05:29.000Z</news:publication_date>
+          <news:title>West Jordan man 9th Utahn to plead guilty in connection to January 6 insurrection</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/us/2023/08/26/west-jordan-man-9th-utahn-to-plead-guilty-in-connection-to-january-6-insurrection/west-jordan-man-9th-utahn-to-plead-guilty-in-connection-to-january-6-insurrection.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/us/2023/08/26/california-murder-suspect-charged-stabbing-death-six-year-old-boy-great-grandmother/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-26T00:21:19.000Z</news:publication_date>
+          <news:title>California murder suspect charged in stabbing death of 6-year-old boy and his great-grandmother</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/us/2023/08/26/california-murder-suspect-charged-stabbing-death-six-year-old-boy-great-grandmother/california-murder-suspect-charged-stabbing-death-six-year-old-boy-great-grandmother.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/us/2023/08/26/green-day-releases-nimrod-shirt-with-trump-mugshot-to-raise-money-for-maui/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-26T01:03:27.000Z</news:publication_date>
+          <news:title>Green Day releases 'Nimrod' shirt with Trump mugshot to raise money for Maui</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/us/2023/08/26/green-day-releases-nimrod-shirt-with-trump-mugshot-to-raise-money-for-maui/green-day-releases-nimrod-shirt-with-trump-mugshot-to-raise-money-for-maui.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -392,5 +336,47 @@
         </news:news>
         <image:image>
           <image:loc>https://majordigest.com/us/2023/08/25/new-hampshire-man-42-years-fatally-shooting-pastor/new-hampshire-man-42-years-fatally-shooting-pastor.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/us/2023/08/25/biden-and-harris-will-meet-with-the-king-family-on-the-60th-anniversary-of-the-march-on-washington/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-25T10:13:52.000Z</news:publication_date>
+          <news:title>Biden and Harris will meet with King's family on the March on Washington's 60th anniversary</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/us/2023/08/25/biden-and-harris-will-meet-with-the-king-family-on-the-60th-anniversary-of-the-march-on-washington/biden-and-harris-will-meet-with-the-king-family-on-the-60th-anniversary-of-the-march-on-washington.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/us/2023/08/25/ap-president-joe-biden-says-he-will-request-more-funding-for-a-new-coronavirus-vaccine/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-25T23:27:56.000Z</news:publication_date>
+          <news:title>President Joe Biden says he will request more funding for a new coronavirus vaccine</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/us/2023/08/25/ap-president-joe-biden-says-he-will-request-more-funding-for-a-new-coronavirus-vaccine/ap-president-joe-biden-says-he-will-request-more-funding-for-a-new-coronavirus-vaccine.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/us/2023/08/25/10k-reward-info-leading-conviction-of-rachel-morins-killer/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-25T17:26:15.000Z</news:publication_date>
+          <news:title>$10k reward for info leading to conviction of Rachel Morin's killer</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/us/2023/08/25/10k-reward-info-leading-conviction-of-rachel-morins-killer/10k-reward-info-leading-conviction-of-rachel-morins-killer.webp</image:loc>
         </image:image>
       </url></urlset>
