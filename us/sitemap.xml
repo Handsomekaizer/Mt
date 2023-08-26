@@ -3,41 +3,13 @@
               xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
               xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
       <url>
-        <loc>https://majordigest.com/us/2023/08/25/thousands-of-veterans-disability-claims-delayed-some-for-years/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-25T19:14:07.000Z</news:publication_date>
-          <news:title>Thousands of veterans' disability claims delayed, some for years</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/us/2023/08/25/thousands-of-veterans-disability-claims-delayed-some-for-years/thousands-of-veterans-disability-claims-delayed-some-for-years.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/us/2023/08/26/ap-a-father-describes-rushing-his-7-month-old-to-safety-during-a-california-biker-bar-shooting/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-26T05:47:54.000Z</news:publication_date>
-          <news:title>A father describes rushing his 7-month-old to safety during a California biker bar shooting</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/us/2023/08/26/ap-a-father-describes-rushing-his-7-month-old-to-safety-during-a-california-biker-bar-shooting/ap-a-father-describes-rushing-his-7-month-old-to-safety-during-a-california-biker-bar-shooting.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
         <loc>https://majordigest.com/us/2023/08/26/green-day-releases-nimrod-shirt-with-trump-mugshot-to-raise-money-for-maui/</loc>
         <news:news>
           <news:publication>
             <news:name>Major Digest</news:name>
             <news:language>en</news:language>
           </news:publication>
-          <news:publication_date>2023-08-26T01:03:10.000Z</news:publication_date>
+          <news:publication_date>2023-08-26T01:02:21.000Z</news:publication_date>
           <news:title>Green Day releases 'Nimrod' shirt with Trump mugshot to raise money for Maui</news:title>
         </news:news>
         <image:image>
@@ -59,143 +31,17 @@
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/us/2023/08/26/houston-police-searching-person-of-interest-2020-killing-boy-5-balcony-suspects-arrested/</loc>
+        <loc>https://majordigest.com/us/2023/08/25/biden-on-trump-mug-shot-handsome-guy/</loc>
         <news:news>
           <news:publication>
             <news:name>Major Digest</news:name>
             <news:language>en</news:language>
           </news:publication>
-          <news:publication_date>2023-08-26T01:40:55.000Z</news:publication_date>
-          <news:title>Houston police searching for person of interest in 2020 killing of boy, 5, on balcony; 2 suspects arrested</news:title>
+          <news:publication_date>2023-08-25T23:32:55.000Z</news:publication_date>
+          <news:title>Biden on Trump mug shot: &#8216;Handsome guy&#8217;</news:title>
         </news:news>
         <image:image>
-          <image:loc>https://majordigest.com/us/2023/08/26/houston-police-searching-person-of-interest-2020-killing-boy-5-balcony-suspects-arrested/houston-police-searching-person-of-interest-2020-killing-boy-5-balcony-suspects-arrested.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/us/2023/08/24/4168949-woman-in-tiktok-video-of-racist-outburst-at-california-mcdonalds-is-no-longer-employed/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-24T17:41:16.000Z</news:publication_date>
-          <news:title>Woman in TikTok video of racist outburst at California McDonald's is no longer employed</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/us/2023/08/24/4168949-woman-in-tiktok-video-of-racist-outburst-at-california-mcdonalds-is-no-longer-employed/4168949-woman-in-tiktok-video-of-racist-outburst-at-california-mcdonalds-is-no-longer-employed.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/us/2023/08/26/utah-county-opens-own-investigation-into-fbi-killing-of-provo-man-who-threatened-biden/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-26T01:40:08.000Z</news:publication_date>
-          <news:title>Utah County opens own investigation into FBI killing of Provo man who threatened Biden</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/us/2023/08/26/utah-county-opens-own-investigation-into-fbi-killing-of-provo-man-who-threatened-biden/utah-county-opens-own-investigation-into-fbi-killing-of-provo-man-who-threatened-biden.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/us/2023/08/25/texas-trial-over-biden-policy-letting-migrants-from-4-countries-into-us-to-wrap-up-friday/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-25T11:13:19.000Z</news:publication_date>
-          <news:title>Judge asks if poverty qualifies for Biden policy letting migrants from 4 countries into US</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/us/2023/08/25/texas-trial-over-biden-policy-letting-migrants-from-4-countries-into-us-to-wrap-up-friday/texas-trial-over-biden-policy-letting-migrants-from-4-countries-into-us-to-wrap-up-friday.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/us/2023/08/26/beloved-wild-horses-that-roam-theodore-roosevelt-national-park-may-be-removed-many-oppose-the-plan/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-26T04:04:29.000Z</news:publication_date>
-          <news:title>Beloved wild horses that roam Theodore Roosevelt National Park may be removed. Many oppose the plan</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/us/2023/08/26/beloved-wild-horses-that-roam-theodore-roosevelt-national-park-may-be-removed-many-oppose-the-plan/beloved-wild-horses-that-roam-theodore-roosevelt-national-park-may-be-removed-many-oppose-the-plan.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/us/2023/08/25/moms-are-cracking-eggs-on-kids-heads-on-tiktok-why/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-25T20:55:30.000Z</news:publication_date>
-          <news:title>Moms are cracking eggs on kids' heads on TikTok. Why?</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/us/2023/08/25/moms-are-cracking-eggs-on-kids-heads-on-tiktok-why/moms-are-cracking-eggs-on-kids-heads-on-tiktok-why.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/us/2023/08/26/utah-county-opens-own-investigation-into-fbi-killing-of-provo-man-who-threatened-biden-2/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-26T01:40:10.000Z</news:publication_date>
-          <news:title>Utah County opens own investigation into FBI killing of Provo man who threatened Biden</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/us/2023/08/26/utah-county-opens-own-investigation-into-fbi-killing-of-provo-man-who-threatened-biden-2/utah-county-opens-own-investigation-into-fbi-killing-of-provo-man-who-threatened-biden-2.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/us/2023/08/26/ap-new-crew-for-the-space-station-launches-with-4-astronauts-from-4-countries/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-26T08:03:38.000Z</news:publication_date>
-          <news:title>New crew for the space station launches with 4 astronauts from 4 countries</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/us/2023/08/26/ap-new-crew-for-the-space-station-launches-with-4-astronauts-from-4-countries/ap-new-crew-for-the-space-station-launches-with-4-astronauts-from-4-countries.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/us/2023/08/26/ap-maui-has-released-the-names-of-388-people-still-missing-after-deadly-wildfire/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-26T02:52:50.000Z</news:publication_date>
-          <news:title>After Maui officials named 388 people unaccounted for in fires, many called to say they're OK</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/us/2023/08/26/ap-maui-has-released-the-names-of-388-people-still-missing-after-deadly-wildfire/ap-maui-has-released-the-names-of-388-people-still-missing-after-deadly-wildfire.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/us/2023/08/25/former-residents-push-federal-probe-disgraced-nh-youth-detention-center/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-25T23:28:14.000Z</news:publication_date>
-          <news:title>Former residents push for federal probe into disgraced NH youth detention center</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/us/2023/08/25/former-residents-push-federal-probe-disgraced-nh-youth-detention-center/former-residents-push-federal-probe-disgraced-nh-youth-detention-center.webp</image:loc>
+          <image:loc>https://majordigest.com/us/2023/08/25/biden-on-trump-mug-shot-handsome-guy/biden-on-trump-mug-shot-handsome-guy.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -213,17 +59,115 @@
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/us/2023/08/26/california-murder-suspect-charged-stabbing-death-six-year-old-boy-great-grandmother/</loc>
+        <loc>https://majordigest.com/us/2023/08/26/green-day-releases-nimrod-shirt-with-trump-mugshot-to-raise-money-for-maui/</loc>
         <news:news>
           <news:publication>
             <news:name>Major Digest</news:name>
             <news:language>en</news:language>
           </news:publication>
-          <news:publication_date>2023-08-26T00:21:19.000Z</news:publication_date>
-          <news:title>California murder suspect charged in stabbing death of 6-year-old boy and his great-grandmother</news:title>
+          <news:publication_date>2023-08-26T01:01:32.000Z</news:publication_date>
+          <news:title>Green Day releases 'Nimrod' shirt with Trump mugshot to raise money for Maui</news:title>
         </news:news>
         <image:image>
-          <image:loc>https://majordigest.com/us/2023/08/26/california-murder-suspect-charged-stabbing-death-six-year-old-boy-great-grandmother/california-murder-suspect-charged-stabbing-death-six-year-old-boy-great-grandmother.webp</image:loc>
+          <image:loc>https://majordigest.com/us/2023/08/26/green-day-releases-nimrod-shirt-with-trump-mugshot-to-raise-money-for-maui/green-day-releases-nimrod-shirt-with-trump-mugshot-to-raise-money-for-maui.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/us/2023/08/26/schoolkids-in-8-states-can-now-eat-free-school-meals-advocates-urge-congress-for-nationwide-policy/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-26T04:13:53.000Z</news:publication_date>
+          <news:title>Schoolkids in 8 states can now eat free school meals, advocates urge Congress for nationwide policy</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/us/2023/08/26/schoolkids-in-8-states-can-now-eat-free-school-meals-advocates-urge-congress-for-nationwide-policy/schoolkids-in-8-states-can-now-eat-free-school-meals-advocates-urge-congress-for-nationwide-policy.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/us/2023/08/26/utah-county-opens-own-investigation-into-fbi-killing-of-provo-man-who-threatened-biden-2/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-26T01:40:10.000Z</news:publication_date>
+          <news:title>Utah County opens own investigation into FBI killing of Provo man who threatened Biden</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/us/2023/08/26/utah-county-opens-own-investigation-into-fbi-killing-of-provo-man-who-threatened-biden-2/utah-county-opens-own-investigation-into-fbi-killing-of-provo-man-who-threatened-biden-2.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/us/2023/08/26/ap-a-michigan-storm-with-75-mph-winds-downs-trees-and-power-lines-several-people-are-killed/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-26T01:25:45.000Z</news:publication_date>
+          <news:title>7 tornadoes confirmed as Michigan storms down trees and power lines; 5 people killed</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/us/2023/08/26/ap-a-michigan-storm-with-75-mph-winds-downs-trees-and-power-lines-several-people-are-killed/ap-a-michigan-storm-with-75-mph-winds-downs-trees-and-power-lines-several-people-are-killed.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/us/2023/08/26/multiple-victims-shooting-oklahoma-high-school-football-game-police/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-26T06:31:44.000Z</news:publication_date>
+          <news:title>Multiple victims in shooting at Oklahoma high school football game: police</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/us/2023/08/26/multiple-victims-shooting-oklahoma-high-school-football-game-police/multiple-victims-shooting-oklahoma-high-school-football-game-police.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/us/2023/08/25/texas-ban-on-gender-affirming-health-care-for-minors-blocked-missouri-ban-allowed-to-take-effect/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-25T20:20:13.000Z</news:publication_date>
+          <news:title>Rulings in Texas, Missouri jumble again where US transgender youth can receive treatment</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/us/2023/08/25/texas-ban-on-gender-affirming-health-care-for-minors-blocked-missouri-ban-allowed-to-take-effect/texas-ban-on-gender-affirming-health-care-for-minors-blocked-missouri-ban-allowed-to-take-effect.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/us/2023/08/25/john-cena-the-rock-and-more-remember-wwe-superstar-bray-wyatt/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-25T21:28:49.000Z</news:publication_date>
+          <news:title>John Cena, The Rock and more remember WWE superstar Bray Wyatt</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/us/2023/08/25/john-cena-the-rock-and-more-remember-wwe-superstar-bray-wyatt/john-cena-the-rock-and-more-remember-wwe-superstar-bray-wyatt.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/us/2023/08/26/biden-trump-mug-shot-handsome-guy/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-26T00:47:21.000Z</news:publication_date>
+          <news:title>Biden on Trump mug shot: &#8216;Handsome guy&#8217;</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/us/2023/08/26/biden-trump-mug-shot-handsome-guy/biden-trump-mug-shot-handsome-guy.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -241,76 +185,6 @@
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/us/2023/08/26/rich-men-song-oliver-anthony-political-reaction/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-26T03:02:58.000Z</news:publication_date>
-          <news:title>&#8216;Rich Men North of Richmond&#8217; finds political embrace, criticism</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/us/2023/08/26/rich-men-song-oliver-anthony-political-reaction/rich-men-song-oliver-anthony-political-reaction.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/us/2023/08/26/green-day-releases-nimrod-shirt-with-trump-mugshot-to-raise-money-for-maui/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-26T01:02:21.000Z</news:publication_date>
-          <news:title>Green Day releases 'Nimrod' shirt with Trump mugshot to raise money for Maui</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/us/2023/08/26/green-day-releases-nimrod-shirt-with-trump-mugshot-to-raise-money-for-maui/green-day-releases-nimrod-shirt-with-trump-mugshot-to-raise-money-for-maui.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/us/2023/08/25/rich-men-north-of-richmond-singer-blasts-aggravating-conservatives/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-25T21:27:29.000Z</news:publication_date>
-          <news:title>'Rich Men North of Richmond' singer blasts 'aggravating' conservatives</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/us/2023/08/25/rich-men-north-of-richmond-singer-blasts-aggravating-conservatives/rich-men-north-of-richmond-singer-blasts-aggravating-conservatives.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/us/2023/08/26/ap-beloved-wild-horses-that-roam-theodore-roosevelt-national-park-may-be-removed-many-oppose-the-plan/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-26T04:04:30.000Z</news:publication_date>
-          <news:title>Beloved wild horses that roam Theodore Roosevelt National Park may be removed. Many oppose the plan</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/us/2023/08/26/ap-beloved-wild-horses-that-roam-theodore-roosevelt-national-park-may-be-removed-many-oppose-the-plan/ap-beloved-wild-horses-that-roam-theodore-roosevelt-national-park-may-be-removed-many-oppose-the-plan.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/us/2023/08/24/4169221-national-cinema-day-major-theater-chains-offering-4-tickets-for-1-day-only/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-24T16:40:31.000Z</news:publication_date>
-          <news:title>National Cinema Day: Major theater chains offering $4 tickets for 1 day only</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/us/2023/08/24/4169221-national-cinema-day-major-theater-chains-offering-4-tickets-for-1-day-only/4169221-national-cinema-day-major-theater-chains-offering-4-tickets-for-1-day-only.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
         <loc>https://majordigest.com/us/2023/08/26/ap-maui-has-released-the-names-of-388-people-still-missing-after-deadly-wildfire/</loc>
         <news:news>
           <news:publication>
@@ -325,31 +199,17 @@
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/us/2023/08/25/moms-are-cracking-eggs-on-kids-heads-on-tiktok-why/</loc>
+        <loc>https://majordigest.com/us/2023/08/25/thousands-of-veterans-disability-claims-delayed-some-for-years/</loc>
         <news:news>
           <news:publication>
             <news:name>Major Digest</news:name>
             <news:language>en</news:language>
           </news:publication>
-          <news:publication_date>2023-08-25T20:56:45.000Z</news:publication_date>
-          <news:title>Moms are cracking eggs on kids' heads on TikTok. Why?</news:title>
+          <news:publication_date>2023-08-25T19:14:07.000Z</news:publication_date>
+          <news:title>Thousands of veterans' disability claims delayed, some for years</news:title>
         </news:news>
         <image:image>
-          <image:loc>https://majordigest.com/us/2023/08/25/moms-are-cracking-eggs-on-kids-heads-on-tiktok-why/moms-are-cracking-eggs-on-kids-heads-on-tiktok-why.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/us/2023/08/25/total-disbelief-mother-daughter-given-same-dorm-room-33-years-apart/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-25T22:55:43.000Z</news:publication_date>
-          <news:title>'Total disbelief': Mother, daughter given same dorm room 33 years apart</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/us/2023/08/25/total-disbelief-mother-daughter-given-same-dorm-room-33-years-apart/total-disbelief-mother-daughter-given-same-dorm-room-33-years-apart.webp</image:loc>
+          <image:loc>https://majordigest.com/us/2023/08/25/thousands-of-veterans-disability-claims-delayed-some-for-years/thousands-of-veterans-disability-claims-delayed-some-for-years.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -367,17 +227,73 @@
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/us/2023/08/25/busch-light-releases-pumpkin-spice-drink-for-dogs/</loc>
+        <loc>https://majordigest.com/us/2023/08/25/thousands-of-veterans-disability-claims-delayed-some-for-years/</loc>
         <news:news>
           <news:publication>
             <news:name>Major Digest</news:name>
             <news:language>en</news:language>
           </news:publication>
-          <news:publication_date>2023-08-25T20:50:19.000Z</news:publication_date>
-          <news:title>Busch Light releases pumpkin spice drink for dogs</news:title>
+          <news:publication_date>2023-08-25T19:12:30.000Z</news:publication_date>
+          <news:title>Thousands of veterans' disability claims delayed, some for years</news:title>
         </news:news>
         <image:image>
-          <image:loc>https://majordigest.com/us/2023/08/25/busch-light-releases-pumpkin-spice-drink-for-dogs/busch-light-releases-pumpkin-spice-drink-for-dogs.webp</image:loc>
+          <image:loc>https://majordigest.com/us/2023/08/25/thousands-of-veterans-disability-claims-delayed-some-for-years/thousands-of-veterans-disability-claims-delayed-some-for-years.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/us/2023/08/26/ap-new-crew-for-the-space-station-launches-with-4-astronauts-from-4-countries/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-26T08:03:38.000Z</news:publication_date>
+          <news:title>New crew for the space station launches with 4 astronauts from 4 countries</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/us/2023/08/26/ap-new-crew-for-the-space-station-launches-with-4-astronauts-from-4-countries/ap-new-crew-for-the-space-station-launches-with-4-astronauts-from-4-countries.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/us/2023/08/25/flares-fired-as-civilian-aircraft-violates-flight-restriction-near-biden-vacation-spot-in-lake-tahoe/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-25T18:49:59.000Z</news:publication_date>
+          <news:title>Flares fired as civilian aircraft violates flight restriction near Biden vacation spot in Lake Tahoe</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/us/2023/08/25/flares-fired-as-civilian-aircraft-violates-flight-restriction-near-biden-vacation-spot-in-lake-tahoe/flares-fired-as-civilian-aircraft-violates-flight-restriction-near-biden-vacation-spot-in-lake-tahoe.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/us/2023/08/26/rich-men-song-oliver-anthony-political-reaction/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-26T03:02:58.000Z</news:publication_date>
+          <news:title>&#8216;Rich Men North of Richmond&#8217; finds political embrace, criticism</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/us/2023/08/26/rich-men-song-oliver-anthony-political-reaction/rich-men-song-oliver-anthony-political-reaction.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/us/2023/08/26/ap-alabama-seeks-nations-1st-execution-by-nitrogen-hypoxia/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-26T01:30:30.000Z</news:publication_date>
+          <news:title>Alabama wants to be the 1st state to execute a prisoner by making him breathe only nitrogen</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/us/2023/08/26/ap-alabama-seeks-nations-1st-execution-by-nitrogen-hypoxia/ap-alabama-seeks-nations-1st-execution-by-nitrogen-hypoxia.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -387,10 +303,66 @@
             <news:name>Major Digest</news:name>
             <news:language>en</news:language>
           </news:publication>
-          <news:publication_date>2023-08-26T01:39:53.000Z</news:publication_date>
+          <news:publication_date>2023-08-26T01:40:08.000Z</news:publication_date>
           <news:title>Utah County opens own investigation into FBI killing of Provo man who threatened Biden</news:title>
         </news:news>
         <image:image>
           <image:loc>https://majordigest.com/us/2023/08/26/utah-county-opens-own-investigation-into-fbi-killing-of-provo-man-who-threatened-biden/utah-county-opens-own-investigation-into-fbi-killing-of-provo-man-who-threatened-biden.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/us/2023/08/25/rich-men-north-of-richmond-singer-blasts-aggravating-conservatives/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-25T21:27:29.000Z</news:publication_date>
+          <news:title>'Rich Men North of Richmond' singer blasts 'aggravating' conservatives</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/us/2023/08/25/rich-men-north-of-richmond-singer-blasts-aggravating-conservatives/rich-men-north-of-richmond-singer-blasts-aggravating-conservatives.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/us/2023/08/26/green-day-releases-nimrod-shirt-with-trump-mugshot-to-raise-money-for-maui/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-26T01:03:05.000Z</news:publication_date>
+          <news:title>Green Day releases 'Nimrod' shirt with Trump mugshot to raise money for Maui</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/us/2023/08/26/green-day-releases-nimrod-shirt-with-trump-mugshot-to-raise-money-for-maui/green-day-releases-nimrod-shirt-with-trump-mugshot-to-raise-money-for-maui.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/us/2023/08/26/utah-county-opens-own-investigation-into-fbi-killing-of-provo-man-who-threatened-biden/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-26T01:38:15.000Z</news:publication_date>
+          <news:title>Utah County opens own investigation into FBI killing of Provo man who threatened Biden</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/us/2023/08/26/utah-county-opens-own-investigation-into-fbi-killing-of-provo-man-who-threatened-biden/utah-county-opens-own-investigation-into-fbi-killing-of-provo-man-who-threatened-biden.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/us/2023/08/26/mystery-land-buyers-around-california-air-force-base-revealed/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-26T03:25:10.000Z</news:publication_date>
+          <news:title>Mystery land buyers around California Air Force base revealed</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/us/2023/08/26/mystery-land-buyers-around-california-air-force-base-revealed/mystery-land-buyers-around-california-air-force-base-revealed.webp</image:loc>
         </image:image>
       </url></urlset>

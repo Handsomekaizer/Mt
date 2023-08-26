@@ -3,118 +3,6 @@
               xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
               xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
       <url>
-        <loc>https://majordigest.com/tech/2023/08/24/uber-raises-minimum-age-for-most-california-drivers-to-25-saying-insurance-costs-are-too-high/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-24T14:21:06.000Z</news:publication_date>
-          <news:title>Uber raises minimum age for most California drivers to 25, saying insurance costs are too high</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/tech/2023/08/24/uber-raises-minimum-age-for-most-california-drivers-to-25-saying-insurance-costs-are-too-high/uber-raises-minimum-age-for-most-california-drivers-to-25-saying-insurance-costs-are-too-high.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/tech/2023/08/24/4168779-cnns-parent-company-to-launch-new-streaming-news-service/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-24T12:36:33.000Z</news:publication_date>
-          <news:title>CNN's parent company to relaunch streaming news service</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/tech/2023/08/24/4168779-cnns-parent-company-to-launch-new-streaming-news-service/4168779-cnns-parent-company-to-launch-new-streaming-news-service.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/tech/2023/08/24/doj-sues-spacex-asylees/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-24T18:35:38.000Z</news:publication_date>
-          <news:title>DOJ sues SpaceX for allegedly not hiring asylees, refugees</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/tech/2023/08/24/doj-sues-spacex-asylees/doj-sues-spacex-asylees.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/tech/2023/08/24/ap-uber-raises-minimum-age-for-most-california-drivers-to-25-saying-insurance-costs-are-too-high/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-24T18:22:00.000Z</news:publication_date>
-          <news:title>Uber raises minimum age for most California drivers to 25, saying insurance costs are too high</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/tech/2023/08/24/ap-uber-raises-minimum-age-for-most-california-drivers-to-25-saying-insurance-costs-are-too-high/ap-uber-raises-minimum-age-for-most-california-drivers-to-25-saying-insurance-costs-are-too-high.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/tech/2023/08/25/replacing-your-phone-battery-worth-time-new-phone/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-25T15:09:05.000Z</news:publication_date>
-          <news:title>Replacing your phone&#8217;s battery &#8211; is it worth it or time for a new phone?&#8239;</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/tech/2023/08/25/replacing-your-phone-battery-worth-time-new-phone/replacing-your-phone-battery-worth-time-new-phone.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/tech/2023/08/25/gop-stumbles-in-suit-claiming-google-censors-donation-emails/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-25T17:31:47.000Z</news:publication_date>
-          <news:title>GOP stumbles in suit claiming Google censors donation emails</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/tech/2023/08/25/gop-stumbles-in-suit-claiming-google-censors-donation-emails/gop-stumbles-in-suit-claiming-google-censors-donation-emails.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/tech/2023/08/25/indias-lunar-rover-keeps-walking-on-the-moon-days-after-spacecrafts-historic-touchdown/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-25T15:30:35.000Z</news:publication_date>
-          <news:title>India's lunar rover keeps walking on the moon, days after spacecraft's historic touchdown</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/tech/2023/08/25/indias-lunar-rover-keeps-walking-on-the-moon-days-after-spacecrafts-historic-touchdown/indias-lunar-rover-keeps-walking-on-the-moon-days-after-spacecrafts-historic-touchdown.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/tech/2023/08/24/ai-binge-lapd-bodycam-footage-weed-rude-tone-aggressive-language/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-24T06:00:01.000Z</news:publication_date>
-          <news:title>AI to binge LAPD bodycam footage to weed out rude tone, aggressive language</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/tech/2023/08/24/ai-binge-lapd-bodycam-footage-weed-rude-tone-aggressive-language/ai-binge-lapd-bodycam-footage-weed-rude-tone-aggressive-language.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
         <loc>https://majordigest.com/tech/2023/08/23/san-jose-chamber-business-economy-ceo-downtown-real-estate-covid-tech/</loc>
         <news:news>
           <news:publication>
@@ -129,45 +17,31 @@
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/tech/2023/08/25/trump-returns-to-twitter-under-its-new-moniker-x/</loc>
+        <loc>https://majordigest.com/tech/2023/08/25/early-apple-computer-that-helped-launch-3t-company-sells-at-auction-for-223000/</loc>
         <news:news>
           <news:publication>
             <news:name>Major Digest</news:name>
             <news:language>en</news:language>
           </news:publication>
-          <news:publication_date>2023-08-25T02:13:08.000Z</news:publication_date>
-          <news:title>Trump returns to Twitter, under its new moniker X</news:title>
+          <news:publication_date>2023-08-25T17:04:30.000Z</news:publication_date>
+          <news:title>Early Apple computer that helped launch $3T company sells at auction for $223,000</news:title>
         </news:news>
         <image:image>
-          <image:loc>https://majordigest.com/tech/2023/08/25/trump-returns-to-twitter-under-its-new-moniker-x/trump-returns-to-twitter-under-its-new-moniker-x.webp</image:loc>
+          <image:loc>https://majordigest.com/tech/2023/08/25/early-apple-computer-that-helped-launch-3t-company-sells-at-auction-for-223000/early-apple-computer-that-helped-launch-3t-company-sells-at-auction-for-223000.webp</image:loc>
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/tech/2023/08/22/europes-sweeping-rules-for-tech-giants-are-about-to-kick-in-heres-how-they-work/</loc>
+        <loc>https://majordigest.com/tech/2023/08/23/delete-app-mac-before-late/</loc>
         <news:news>
           <news:publication>
             <news:name>Major Digest</news:name>
             <news:language>en</news:language>
           </news:publication>
-          <news:publication_date>2023-08-22T06:19:57.000Z</news:publication_date>
-          <news:title>Europe's sweeping rules for tech giants have kicked in. Here's how they work</news:title>
+          <news:publication_date>2023-08-23T18:23:13.000Z</news:publication_date>
+          <news:title>Delete this app on your Mac before it's too late</news:title>
         </news:news>
         <image:image>
-          <image:loc>https://majordigest.com/tech/2023/08/22/europes-sweeping-rules-for-tech-giants-are-about-to-kick-in-heres-how-they-work/europes-sweeping-rules-for-tech-giants-are-about-to-kick-in-heres-how-they-work.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/tech/2023/08/24/kelly-blue-book-survey-shows-consumer-hesitation-toward-evs/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-24T09:41:37.000Z</news:publication_date>
-          <news:title>Kelly Blue Book survey shows consumer hesitation toward EVs</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/tech/2023/08/24/kelly-blue-book-survey-shows-consumer-hesitation-toward-evs/kelly-blue-book-survey-shows-consumer-hesitation-toward-evs.webp</image:loc>
+          <image:loc>https://majordigest.com/tech/2023/08/23/delete-app-mac-before-late/delete-app-mac-before-late.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -185,17 +59,45 @@
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/tech/2023/08/23/4167496-over-half-of-american-workers-say-theyd-consider-quitting-without-flexible-work-options-study/</loc>
+        <loc>https://majordigest.com/tech/2023/08/24/4169669-doj-files-lawsuit-against-spacex-for-hiring-discrimination-against-refugees-asylees/</loc>
         <news:news>
           <news:publication>
             <news:name>Major Digest</news:name>
             <news:language>en</news:language>
           </news:publication>
-          <news:publication_date>2023-08-23T21:42:14.000Z</news:publication_date>
-          <news:title>Post-pandemic, many American workers say they'd consider quitting without flexible work options: study</news:title>
+          <news:publication_date>2023-08-24T18:03:56.000Z</news:publication_date>
+          <news:title>DOJ files lawsuit against SpaceX for hiring discrimination against refugees, asylees</news:title>
         </news:news>
         <image:image>
-          <image:loc>https://majordigest.com/tech/2023/08/23/4167496-over-half-of-american-workers-say-theyd-consider-quitting-without-flexible-work-options-study/4167496-over-half-of-american-workers-say-theyd-consider-quitting-without-flexible-work-options-study.webp</image:loc>
+          <image:loc>https://majordigest.com/tech/2023/08/24/4169669-doj-files-lawsuit-against-spacex-for-hiring-discrimination-against-refugees-asylees/4169669-doj-files-lawsuit-against-spacex-for-hiring-discrimination-against-refugees-asylees.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/tech/2023/08/23/samsung-fold-5-versatile-but-with-compromises/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-23T12:17:56.000Z</news:publication_date>
+          <news:title>Samsung Fold 5: Versatile, but with compromises</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/tech/2023/08/23/samsung-fold-5-versatile-but-with-compromises/samsung-fold-5-versatile-but-with-compromises.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/tech/2023/08/23/spacex-successfully-launches-100th-starlink-mission/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-23T12:14:08.000Z</news:publication_date>
+          <news:title>SpaceX successfully launches 100th Starlink mission</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/tech/2023/08/23/spacex-successfully-launches-100th-starlink-mission/spacex-successfully-launches-100th-starlink-mission.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -213,16 +115,114 @@
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/tech/2023/08/23/editorial-puc-fails-to-keep-californians-safe-from-autonomous-vehicles/</loc>
+        <loc>https://majordigest.com/tech/2023/08/24/the-fukushima-nuclear-plant-is-ready-to-release-radioactive-wastewater-into-sea-later-thursday/</loc>
         <news:news>
           <news:publication>
             <news:name>Major Digest</news:name>
             <news:language>en</news:language>
           </news:publication>
-          <news:publication_date>2023-08-23T12:30:55.000Z</news:publication_date>
-          <news:title>Editorial: CPUC incompetence lets autotaxis dangerously run amok</news:title>
+          <news:publication_date>2023-08-24T01:56:41.000Z</news:publication_date>
+          <news:title>China bans seafood from Japan after the Fukushima nuclear plant begins its wastewater release</news:title>
         </news:news>
         <image:image>
-          <image:loc>https://majordigest.com/tech/2023/08/23/editorial-puc-fails-to-keep-californians-safe-from-autonomous-vehicles/editorial-puc-fails-to-keep-californians-safe-from-autonomous-vehicles.webp</image:loc>
+          <image:loc>https://majordigest.com/tech/2023/08/24/the-fukushima-nuclear-plant-is-ready-to-release-radioactive-wastewater-into-sea-later-thursday/the-fukushima-nuclear-plant-is-ready-to-release-radioactive-wastewater-into-sea-later-thursday.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/tech/2023/08/25/gop-stumbles-in-suit-claiming-google-censors-donation-emails/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-25T17:31:47.000Z</news:publication_date>
+          <news:title>GOP stumbles in suit claiming Google censors donation emails</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/tech/2023/08/25/gop-stumbles-in-suit-claiming-google-censors-donation-emails/gop-stumbles-in-suit-claiming-google-censors-donation-emails.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/tech/2023/08/25/ap-early-apple-computer-that-helped-launch-3t-company-sells-at-auction-for-223000/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-25T17:04:31.000Z</news:publication_date>
+          <news:title>Early Apple computer that helped launch $3T company sells at auction for $223,000</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/tech/2023/08/25/ap-early-apple-computer-that-helped-launch-3t-company-sells-at-auction-for-223000/ap-early-apple-computer-that-helped-launch-3t-company-sells-at-auction-for-223000.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/tech/2023/08/25/replacing-your-phone-battery-worth-time-new-phone/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-25T15:09:05.000Z</news:publication_date>
+          <news:title>Replacing your phone&#8217;s battery &#8211; is it worth it or time for a new phone?&#8239;</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/tech/2023/08/25/replacing-your-phone-battery-worth-time-new-phone/replacing-your-phone-battery-worth-time-new-phone.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/tech/2023/08/24/4168779-cnns-parent-company-to-launch-new-streaming-news-service/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-24T12:36:33.000Z</news:publication_date>
+          <news:title>CNN's parent company to relaunch streaming news service</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/tech/2023/08/24/4168779-cnns-parent-company-to-launch-new-streaming-news-service/4168779-cnns-parent-company-to-launch-new-streaming-news-service.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/tech/2023/08/24/dont-miss-the-deadline-to-claim-a-facebook-privacy-settlement-payment/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-24T16:31:26.000Z</news:publication_date>
+          <news:title>Don't miss the deadline to claim a Facebook privacy settlement payment</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/tech/2023/08/24/dont-miss-the-deadline-to-claim-a-facebook-privacy-settlement-payment/dont-miss-the-deadline-to-claim-a-facebook-privacy-settlement-payment.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/tech/2023/08/24/4167113-ohio-court-system-trading-ankle-bracelets-for-smartwatches/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-24T10:55:58.000Z</news:publication_date>
+          <news:title>Ohio court system trading ankle bracelets for smartwatches</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/tech/2023/08/24/4167113-ohio-court-system-trading-ankle-bracelets-for-smartwatches/4167113-ohio-court-system-trading-ankle-bracelets-for-smartwatches.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/tech/2023/08/25/dont-fall-latest-antivirus-protection-scam/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-25T19:00:55.000Z</news:publication_date>
+          <news:title>Don't fall for this latest antivirus protection scam</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/tech/2023/08/25/dont-fall-latest-antivirus-protection-scam/dont-fall-latest-antivirus-protection-scam.webp</image:loc>
         </image:image>
       </url></urlset>
