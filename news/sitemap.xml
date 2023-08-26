@@ -3,185 +3,17 @@
               xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
               xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
       <url>
-        <loc>https://majordigest.com/news/2023/08/25/bronny-james-cardiac-arrest-congenital-heart-defect-cause/</loc>
+        <loc>https://majordigest.com/news/2023/08/24/the-fukushima-nuclear-plant-is-ready-to-release-radioactive-wastewater-into-sea-later-thursday/</loc>
         <news:news>
           <news:publication>
             <news:name>Major Digest</news:name>
             <news:language>en</news:language>
           </news:publication>
-          <news:publication_date>2023-08-25T23:41:56.000Z</news:publication_date>
-          <news:title>Family: Bronny James' cardiac arrest due to congenital defect</news:title>
+          <news:publication_date>2023-08-24T01:56:41.000Z</news:publication_date>
+          <news:title>China bans seafood from Japan after the Fukushima nuclear plant begins its wastewater release</news:title>
         </news:news>
         <image:image>
-          <image:loc>https://majordigest.com/news/2023/08/25/bronny-james-cardiac-arrest-congenital-heart-defect-cause/bronny-james-cardiac-arrest-congenital-heart-defect-cause.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/news/2023/08/26/ap-fifa-suspends-spain-soccer-federation-president-luis-rubiales-for-90-days-after-world-cup-final-kiss/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-26T13:00:02.000Z</news:publication_date>
-          <news:title>FIFA suspends Spain soccer federation president Luis Rubiales for 90 days after World Cup final kiss</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/news/2023/08/26/ap-fifa-suspends-spain-soccer-federation-president-luis-rubiales-for-90-days-after-world-cup-final-kiss/ap-fifa-suspends-spain-soccer-federation-president-luis-rubiales-for-90-days-after-world-cup-final-kiss.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/news/2023/08/26/moscow-airports-suspend-flights-following-latest-reported-drone-strike/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-26T09:41:55.000Z</news:publication_date>
-          <news:title>Shelling kills civilians in Ukraine's northeast as fears grow of a second Russian takeover</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/news/2023/08/26/moscow-airports-suspend-flights-following-latest-reported-drone-strike/moscow-airports-suspend-flights-following-latest-reported-drone-strike.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/news/2023/08/25/harris-praises-2022-wnba-champion-las-vegas-aces-for-grit-and-determination-on-and-off-court/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-25T16:54:28.000Z</news:publication_date>
-          <news:title>Harris praises 2022 WNBA champion Las Vegas Aces for 'grit and determination' on and off court</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/news/2023/08/25/harris-praises-2022-wnba-champion-las-vegas-aces-for-grit-and-determination-on-and-off-court/harris-praises-2022-wnba-champion-las-vegas-aces-for-grit-and-determination-on-and-off-court.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/news/2023/08/25/a-michigan-storm-with-75-mph-winds-downs-trees-and-power-lines-several-people-are-killed/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-25T11:52:41.000Z</news:publication_date>
-          <news:title>7 tornadoes confirmed as Michigan storms down trees and power lines; 5 people killed</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/news/2023/08/25/a-michigan-storm-with-75-mph-winds-downs-trees-and-power-lines-several-people-are-killed/a-michigan-storm-with-75-mph-winds-downs-trees-and-power-lines-several-people-are-killed.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/news/2023/08/21/biden-campaign-launches-25m-ad-buy-in-battleground-states-including-nevada/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-21T19:47:58.000Z</news:publication_date>
-          <news:title>Biden campaign launches $25M ad buy in battleground states, including Nevada</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/news/2023/08/21/biden-campaign-launches-25m-ad-buy-in-battleground-states-including-nevada/biden-campaign-launches-25m-ad-buy-in-battleground-states-including-nevada.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/news/2023/08/26/ap-chicago-police-are-investigating-a-shooting-at-a-white-sox-game-at-guaranteed-rate-field/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-26T12:07:56.000Z</news:publication_date>
-          <news:title>Chicago police are investigating a shooting at White Sox game at Guaranteed Rate Field</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/news/2023/08/26/ap-chicago-police-are-investigating-a-shooting-at-a-white-sox-game-at-guaranteed-rate-field/ap-chicago-police-are-investigating-a-shooting-at-a-white-sox-game-at-guaranteed-rate-field.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/news/2023/08/21/fcc-wall-of-famers-talk-about-getting-hall-call/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-21T05:49:18.000Z</news:publication_date>
-          <news:title>FCC Wall of Famers talk about getting Wall call</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/news/2023/08/21/fcc-wall-of-famers-talk-about-getting-hall-call/fcc-wall-of-famers-talk-about-getting-hall-call.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/news/2023/08/26/broadband-subsidy-program-that-millions-use-will-expire-next-year-if-congress-doesnt-act/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-26T12:17:33.000Z</news:publication_date>
-          <news:title>Broadband subsidy program that millions use will expire next year if Congress doesn&#8217;t act</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/news/2023/08/26/broadband-subsidy-program-that-millions-use-will-expire-next-year-if-congress-doesnt-act/broadband-subsidy-program-that-millions-use-will-expire-next-year-if-congress-doesnt-act.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/news/2023/08/26/rich-men-song-oliver-anthony-political-reaction/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-26T03:02:58.000Z</news:publication_date>
-          <news:title>&#8216;Rich Men North of Richmond&#8217; finds political embrace, criticism</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/news/2023/08/26/rich-men-song-oliver-anthony-political-reaction/rich-men-song-oliver-anthony-political-reaction.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/news/2023/08/24/4170430-biden-zelensky-talk-training-ukrainian-fighter-pilots-on-f-16s-to-mark-18-months-since-russian-invasion/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-24T23:50:43.000Z</news:publication_date>
-          <news:title>Biden, Zelensky talk training Ukrainian fighter pilots on F-16s to mark 18 months since Russian invasion</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/news/2023/08/24/4170430-biden-zelensky-talk-training-ukrainian-fighter-pilots-on-f-16s-to-mark-18-months-since-russian-invasion/4170430-biden-zelensky-talk-training-ukrainian-fighter-pilots-on-f-16s-to-mark-18-months-since-russian-invasion.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/news/2023/08/25/biden-and-harris-will-meet-with-the-king-family-on-the-60th-anniversary-of-the-march-on-washington/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-25T10:13:52.000Z</news:publication_date>
-          <news:title>Biden and Harris will meet with King's family on the March on Washington's 60th anniversary</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/news/2023/08/25/biden-and-harris-will-meet-with-the-king-family-on-the-60th-anniversary-of-the-march-on-washington/biden-and-harris-will-meet-with-the-king-family-on-the-60th-anniversary-of-the-march-on-washington.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/news/2023/08/25/visitors-to-lincoln-memorial-say-america-has-its-flaws-but-see-gains-made-since-march-on-washington/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-25T04:25:30.000Z</news:publication_date>
-          <news:title>Visitors to Lincoln Memorial say America has its flaws but see gains made since March on Washington</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/news/2023/08/25/visitors-to-lincoln-memorial-say-america-has-its-flaws-but-see-gains-made-since-march-on-washington/visitors-to-lincoln-memorial-say-america-has-its-flaws-but-see-gains-made-since-march-on-washington.webp</image:loc>
+          <image:loc>https://majordigest.com/news/2023/08/24/the-fukushima-nuclear-plant-is-ready-to-release-radioactive-wastewater-into-sea-later-thursday/the-fukushima-nuclear-plant-is-ready-to-release-radioactive-wastewater-into-sea-later-thursday.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -191,7 +23,7 @@
             <news:name>Major Digest</news:name>
             <news:language>en</news:language>
           </news:publication>
-          <news:publication_date>2023-08-25T23:33:10.000Z</news:publication_date>
+          <news:publication_date>2023-08-25T23:32:55.000Z</news:publication_date>
           <news:title>Biden on Trump mug shot: &#8216;Handsome guy&#8217;</news:title>
         </news:news>
         <image:image>
@@ -199,86 +31,170 @@
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/news/2023/08/25/former-cos-athlete-with-third-place-finish-at-world-athletics-championships/</loc>
+        <loc>https://majordigest.com/news/2023/08/25/early-apple-computer-that-helped-launch-3t-company-sells-at-auction-for-223000/</loc>
         <news:news>
           <news:publication>
             <news:name>Major Digest</news:name>
             <news:language>en</news:language>
           </news:publication>
-          <news:publication_date>2023-08-25T06:47:22.000Z</news:publication_date>
-          <news:title>Former COS athlete with third place finish at World Athletics Championships</news:title>
+          <news:publication_date>2023-08-25T17:04:30.000Z</news:publication_date>
+          <news:title>Early Apple computer that helped launch $3T company sells at auction for $223,000</news:title>
         </news:news>
         <image:image>
-          <image:loc>https://majordigest.com/news/2023/08/25/former-cos-athlete-with-third-place-finish-at-world-athletics-championships/former-cos-athlete-with-third-place-finish-at-world-athletics-championships.webp</image:loc>
+          <image:loc>https://majordigest.com/news/2023/08/25/early-apple-computer-that-helped-launch-3t-company-sells-at-auction-for-223000/early-apple-computer-that-helped-launch-3t-company-sells-at-auction-for-223000.webp</image:loc>
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/news/2023/08/26/ramaswamy-curiosity-skepticism-iowa-gop-debate/</loc>
+        <loc>https://majordigest.com/news/2023/08/25/49ers-trade-quarterback-trey-lance-to-cowboys-ap-source-says/</loc>
         <news:news>
           <news:publication>
             <news:name>Major Digest</news:name>
             <news:language>en</news:language>
           </news:publication>
-          <news:publication_date>2023-08-26T04:50:22.000Z</news:publication_date>
-          <news:title>Ramaswamy faces curiosity, skepticism in Iowa after GOP debate</news:title>
+          <news:publication_date>2023-08-25T23:36:33.000Z</news:publication_date>
+          <news:title>49ers trade quarterback Trey Lance to Cowboys for 4th round pick</news:title>
         </news:news>
         <image:image>
-          <image:loc>https://majordigest.com/news/2023/08/26/ramaswamy-curiosity-skepticism-iowa-gop-debate/ramaswamy-curiosity-skepticism-iowa-gop-debate.webp</image:loc>
+          <image:loc>https://majordigest.com/news/2023/08/25/49ers-trade-quarterback-trey-lance-to-cowboys-ap-source-says/49ers-trade-quarterback-trey-lance-to-cowboys-ap-source-says.webp</image:loc>
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/news/2023/08/26/shankule-weathers-hot-conditions-to-lead-1-2-finish-by-ethiopia-in-the-womens-marathon-at-worlds/</loc>
+        <loc>https://majordigest.com/news/2023/08/24/indias-lunar-rover-goes-down-a-ramp-to-the-moons-surface-and-takes-a-walk/</loc>
         <news:news>
           <news:publication>
             <news:name>Major Digest</news:name>
             <news:language>en</news:language>
           </news:publication>
-          <news:publication_date>2023-08-26T08:45:44.000Z</news:publication_date>
+          <news:publication_date>2023-08-24T15:00:01.000Z</news:publication_date>
+          <news:title>India's lunar rover goes down a ramp to the moon's surface and takes a walk</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/news/2023/08/24/indias-lunar-rover-goes-down-a-ramp-to-the-moons-surface-and-takes-a-walk/indias-lunar-rover-goes-down-a-ramp-to-the-moons-surface-and-takes-a-walk.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/news/2023/08/21/basketball-world-cup-2023-how-to-watch-whos-playing-whos-favored-and-more/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-21T12:31:55.000Z</news:publication_date>
+          <news:title>Basketball World Cup 2023: How to watch, who's playing, who's favored and more</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/news/2023/08/21/basketball-world-cup-2023-how-to-watch-whos-playing-whos-favored-and-more/basketball-world-cup-2023-how-to-watch-whos-playing-whos-favored-and-more.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/news/2023/08/26/utah-county-opens-own-investigation-into-fbi-killing-of-provo-man-who-threatened-biden/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-26T01:38:15.000Z</news:publication_date>
+          <news:title>Utah County opens own investigation into FBI killing of Provo man who threatened Biden</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/news/2023/08/26/utah-county-opens-own-investigation-into-fbi-killing-of-provo-man-who-threatened-biden/utah-county-opens-own-investigation-into-fbi-killing-of-provo-man-who-threatened-biden.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/news/2023/08/26/ap-maui-has-released-the-names-of-388-people-still-missing-after-deadly-wildfire/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-26T02:52:50.000Z</news:publication_date>
+          <news:title>After Maui officials named 388 people unaccounted for in fires, many called to say they're OK</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/news/2023/08/26/ap-maui-has-released-the-names-of-388-people-still-missing-after-deadly-wildfire/ap-maui-has-released-the-names-of-388-people-still-missing-after-deadly-wildfire.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/news/2023/08/24/npr-planning-for-extreme-heat-climate/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-24T09:00:00.000Z</news:publication_date>
+          <news:title>This summer has been a scorcher. DHS wants communities to plan for more of them</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/news/2023/08/24/npr-planning-for-extreme-heat-climate/npr-planning-for-extreme-heat-climate.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/news/2023/08/24/4168992-a-100-year-old-maui-home-is-still-standing-after-wildfires-devastated-every-other-house-in-the-area-why/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-24T16:54:35.000Z</news:publication_date>
+          <news:title>A 100-year-old Maui home is still standing after wildfires devastated every other house in the area. Why?</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/news/2023/08/24/4168992-a-100-year-old-maui-home-is-still-standing-after-wildfires-devastated-every-other-house-in-the-area-why/4168992-a-100-year-old-maui-home-is-still-standing-after-wildfires-devastated-every-other-house-in-the-area-why.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/news/2023/08/26/2023-17-scoreboard-week-2-kern-county-bakersfield-high-school-football-games-scores/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-26T04:22:54.000Z</news:publication_date>
+          <news:title>17 Scoreboard: Week 2 of the high school football season in Kern County</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/news/2023/08/26/2023-17-scoreboard-week-2-kern-county-bakersfield-high-school-football-games-scores/2023-17-scoreboard-week-2-kern-county-bakersfield-high-school-football-games-scores.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/news/2023/08/24/california-bill-proposes-new-state-agency-to-handle-reparations-for-black-residents/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-24T03:28:41.000Z</news:publication_date>
+          <news:title>California bill proposes new state agency to handle reparations for Black residents</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/news/2023/08/24/california-bill-proposes-new-state-agency-to-handle-reparations-for-black-residents/california-bill-proposes-new-state-agency-to-handle-reparations-for-black-residents.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/news/2023/08/26/ap-shankule-weathers-hot-conditions-to-lead-1-2-finish-by-ethiopia-in-the-womens-marathon-at-worlds/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-26T08:45:45.000Z</news:publication_date>
           <news:title>Shankule weathers hot conditions to lead 1-2 finish by Ethiopia in the women's marathon at worlds</news:title>
         </news:news>
         <image:image>
-          <image:loc>https://majordigest.com/news/2023/08/26/shankule-weathers-hot-conditions-to-lead-1-2-finish-by-ethiopia-in-the-womens-marathon-at-worlds/shankule-weathers-hot-conditions-to-lead-1-2-finish-by-ethiopia-in-the-womens-marathon-at-worlds.webp</image:loc>
+          <image:loc>https://majordigest.com/news/2023/08/26/ap-shankule-weathers-hot-conditions-to-lead-1-2-finish-by-ethiopia-in-the-womens-marathon-at-worlds/ap-shankule-weathers-hot-conditions-to-lead-1-2-finish-by-ethiopia-in-the-womens-marathon-at-worlds.webp</image:loc>
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/news/2023/08/26/some-birds-may-be-less-afraid-of-humans-after-pandemic-study-suggests/</loc>
+        <loc>https://majordigest.com/news/2023/08/26/the-pride-of-needville-in-photos-kprc-2-reporter-bryce-newberry-follows-needville-little-league-as-they-compete-in-llws/</loc>
         <news:news>
           <news:publication>
             <news:name>Major Digest</news:name>
             <news:language>en</news:language>
           </news:publication>
-          <news:publication_date>2023-08-26T13:02:38.000Z</news:publication_date>
-          <news:title>Some birds may be less afraid of humans after pandemic, study suggests</news:title>
+          <news:publication_date>2023-08-26T13:17:56.000Z</news:publication_date>
+          <news:title>The Pride of Needville in photos: KPRC 2 reporter Bryce Newberry follows Needville Little League as they compete in LLWS</news:title>
         </news:news>
         <image:image>
-          <image:loc>https://majordigest.com/news/2023/08/26/some-birds-may-be-less-afraid-of-humans-after-pandemic-study-suggests/some-birds-may-be-less-afraid-of-humans-after-pandemic-study-suggests.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/news/2023/08/24/wwe-wrestler-bray-wyatt-dies-at-36/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-24T23:59:51.000Z</news:publication_date>
-          <news:title>WWE wrestler Bray Wyatt dies at 36</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/news/2023/08/24/wwe-wrestler-bray-wyatt-dies-at-36/wwe-wrestler-bray-wyatt-dies-at-36.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/news/2023/08/25/indias-lunar-rover-keeps-walking-on-the-moon-days-after-spacecrafts-historic-touchdown/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-25T15:30:35.000Z</news:publication_date>
-          <news:title>India's lunar rover keeps walking on the moon, days after spacecraft's historic touchdown</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/news/2023/08/25/indias-lunar-rover-keeps-walking-on-the-moon-days-after-spacecrafts-historic-touchdown/indias-lunar-rover-keeps-walking-on-the-moon-days-after-spacecrafts-historic-touchdown.webp</image:loc>
+          <image:loc>https://majordigest.com/news/2023/08/26/the-pride-of-needville-in-photos-kprc-2-reporter-bryce-newberry-follows-needville-little-league-as-they-compete-in-llws/the-pride-of-needville-in-photos-kprc-2-reporter-bryce-newberry-follows-needville-little-league-as-they-compete-in-llws.webp</image:loc>
         </image:image>
       </url></urlset>
