@@ -3,45 +3,185 @@
               xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
               xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
       <url>
-        <loc>https://majordigest.com/news/2023/08/26/brazils-marcelo-huertas-becomes-the-second-oldest-to-play-in-basketball-world-cup/</loc>
+        <loc>https://majordigest.com/news/2023/08/25/biden-on-trump-mug-shot-handsome-guy/</loc>
         <news:news>
           <news:publication>
             <news:name>Major Digest</news:name>
             <news:language>en</news:language>
           </news:publication>
-          <news:publication_date>2023-08-26T11:51:45.000Z</news:publication_date>
-          <news:title>Huertas 2nd-oldest to play in FIBA World Cup; Doncic leads Slovenia; Neto out with knee injury</news:title>
+          <news:publication_date>2023-08-25T23:33:10.000Z</news:publication_date>
+          <news:title>Biden on Trump mug shot: &#8216;Handsome guy&#8217;</news:title>
         </news:news>
         <image:image>
-          <image:loc>https://majordigest.com/news/2023/08/26/brazils-marcelo-huertas-becomes-the-second-oldest-to-play-in-basketball-world-cup/brazils-marcelo-huertas-becomes-the-second-oldest-to-play-in-basketball-world-cup.webp</image:loc>
+          <image:loc>https://majordigest.com/news/2023/08/25/biden-on-trump-mug-shot-handsome-guy/biden-on-trump-mug-shot-handsome-guy.webp</image:loc>
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/news/2023/08/26/ramaswamy-curiosity-skepticism-iowa-gop-debate/</loc>
+        <loc>https://majordigest.com/news/2023/08/26/hawaiis-cherished-notion-of-family-the-ohana-endures-in-tragedys-aftermath/</loc>
         <news:news>
           <news:publication>
             <news:name>Major Digest</news:name>
             <news:language>en</news:language>
           </news:publication>
-          <news:publication_date>2023-08-26T04:50:22.000Z</news:publication_date>
-          <news:title>Ramaswamy faces curiosity, skepticism in Iowa after GOP debate</news:title>
+          <news:publication_date>2023-08-26T10:00:19.000Z</news:publication_date>
+          <news:title>Hawaii's cherished notion of family, the ohana, endures in tragedy's aftermath</news:title>
         </news:news>
         <image:image>
-          <image:loc>https://majordigest.com/news/2023/08/26/ramaswamy-curiosity-skepticism-iowa-gop-debate/ramaswamy-curiosity-skepticism-iowa-gop-debate.webp</image:loc>
+          <image:loc>https://majordigest.com/news/2023/08/26/hawaiis-cherished-notion-of-family-the-ohana-endures-in-tragedys-aftermath/hawaiis-cherished-notion-of-family-the-ohana-endures-in-tragedys-aftermath.webp</image:loc>
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/news/2023/08/26/schoolkids-in-8-states-can-now-eat-free-school-meals-advocates-urge-congress-for-nationwide-policy/</loc>
+        <loc>https://majordigest.com/news/2023/08/26/broadband-subsidy-program-that-millions-use-will-expire-next-year-if-congress-doesnt-act/</loc>
         <news:news>
           <news:publication>
             <news:name>Major Digest</news:name>
             <news:language>en</news:language>
           </news:publication>
-          <news:publication_date>2023-08-26T04:13:53.000Z</news:publication_date>
-          <news:title>Schoolkids in 8 states can now eat free school meals, advocates urge Congress for nationwide policy</news:title>
+          <news:publication_date>2023-08-26T12:17:33.000Z</news:publication_date>
+          <news:title>Broadband subsidy program that millions use will expire next year if Congress doesn&#8217;t act</news:title>
         </news:news>
         <image:image>
-          <image:loc>https://majordigest.com/news/2023/08/26/schoolkids-in-8-states-can-now-eat-free-school-meals-advocates-urge-congress-for-nationwide-policy/schoolkids-in-8-states-can-now-eat-free-school-meals-advocates-urge-congress-for-nationwide-policy.webp</image:loc>
+          <image:loc>https://majordigest.com/news/2023/08/26/broadband-subsidy-program-that-millions-use-will-expire-next-year-if-congress-doesnt-act/broadband-subsidy-program-that-millions-use-will-expire-next-year-if-congress-doesnt-act.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/news/2023/08/25/sf-prep-basketball-star-zion-sensley-commits-to-st-marys/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-25T04:00:23.000Z</news:publication_date>
+          <news:title>SF prep basketball star Zion Sensley commits to St. Mary's</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/news/2023/08/25/sf-prep-basketball-star-zion-sensley-commits-to-st-marys/sf-prep-basketball-star-zion-sensley-commits-to-st-marys.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/news/2023/08/24/us-sues-spacex-for-alleged-hiring-discrimination-against-refugees-and-others/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-24T22:55:51.000Z</news:publication_date>
+          <news:title>US sues SpaceX for alleged hiring discrimination against refugees and others</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/news/2023/08/24/us-sues-spacex-for-alleged-hiring-discrimination-against-refugees-and-others/us-sues-spacex-for-alleged-hiring-discrimination-against-refugees-and-others.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/news/2023/08/24/trump-is-set-to-surrender-at-a-georgia-jail-on-2020-election-charges/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-24T20:03:45.000Z</news:publication_date>
+          <news:title>Donald Trump mug shot shows former president scowling at Atlanta booking</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/news/2023/08/24/trump-is-set-to-surrender-at-a-georgia-jail-on-2020-election-charges/trump-is-set-to-surrender-at-a-georgia-jail-on-2020-election-charges.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/news/2023/08/26/ap-man-united-recovers-from-horror-start-to-win-arsenal-held-to-draw-after-also-conceding-early/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-26T18:34:58.000Z</news:publication_date>
+          <news:title>Man United wins after horror start, Arsenal draws after also conceding early in EPL</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/news/2023/08/26/ap-man-united-recovers-from-horror-start-to-win-arsenal-held-to-draw-after-also-conceding-early/ap-man-united-recovers-from-horror-start-to-win-arsenal-held-to-draw-after-also-conceding-early.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/news/2023/08/22/as-rooker-performs-at-oakland-arena-after-crushing-walk-off-home-run/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-22T22:54:45.000Z</news:publication_date>
+          <news:title>A's Rooker performs at Oakland Arena after crushing walk-off home run</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/news/2023/08/22/as-rooker-performs-at-oakland-arena-after-crushing-walk-off-home-run/as-rooker-performs-at-oakland-arena-after-crushing-walk-off-home-run.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/news/2023/08/26/abortion-providers-heartbeat-ban-south-carolina/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-26T00:56:53.000Z</news:publication_date>
+          <news:title>South Carolina abortion providers seek clarity on 'heartbeat' ban</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/news/2023/08/26/abortion-providers-heartbeat-ban-south-carolina/abortion-providers-heartbeat-ban-south-carolina.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/news/2023/08/24/ap-t-mobile-will-lay-off-5000-employees-or-about-7-of-its-workforce-in-the-coming-weeks/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-24T17:25:01.000Z</news:publication_date>
+          <news:title>T-Mobile will lay off 5,000 employees, or about 7% of its workforce, in the coming weeks</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/news/2023/08/24/ap-t-mobile-will-lay-off-5000-employees-or-about-7-of-its-workforce-in-the-coming-weeks/ap-t-mobile-will-lay-off-5000-employees-or-about-7-of-its-workforce-in-the-coming-weeks.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/news/2023/08/26/the-49ers-heavy-investment-in-trey-lance-backfires-but-it-hasnt-destroyed-the-franchise/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-26T17:57:22.000Z</news:publication_date>
+          <news:title>The 49ers' heavy investment in Trey Lance backfires, but it hasn't destroyed the franchise</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/news/2023/08/26/the-49ers-heavy-investment-in-trey-lance-backfires-but-it-hasnt-destroyed-the-franchise/the-49ers-heavy-investment-in-trey-lance-backfires-but-it-hasnt-destroyed-the-franchise.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/news/2023/08/25/4171232-proposed-crypto-tax-rules-draw-ire-from-industry-groups/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-25T15:32:44.000Z</news:publication_date>
+          <news:title>Proposed crypto tax rules draw ire from industry groups</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/news/2023/08/25/4171232-proposed-crypto-tax-rules-draw-ire-from-industry-groups/4171232-proposed-crypto-tax-rules-draw-ire-from-industry-groups.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/news/2023/08/26/biden-trump-mug-shot-handsome-guy/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-26T00:47:21.000Z</news:publication_date>
+          <news:title>Biden on Trump mug shot: &#8216;Handsome guy&#8217;</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/news/2023/08/26/biden-trump-mug-shot-handsome-guy/biden-trump-mug-shot-handsome-guy.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -59,31 +199,73 @@
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/news/2023/08/25/4171861-musk-calls-trump-mug-shot-post-next-level-after-former-president-returns-to-x-platform/</loc>
+        <loc>https://majordigest.com/news/2023/08/26/mystery-land-buyers-around-california-air-force-base-revealed/</loc>
         <news:news>
           <news:publication>
             <news:name>Major Digest</news:name>
             <news:language>en</news:language>
           </news:publication>
-          <news:publication_date>2023-08-25T20:18:25.000Z</news:publication_date>
-          <news:title>Musk calls Trump mug shot post 'next-level' after former president returns to 'X' platform</news:title>
+          <news:publication_date>2023-08-26T19:22:19.000Z</news:publication_date>
+          <news:title>Mystery land buyers around California Air Force base revealed</news:title>
         </news:news>
         <image:image>
-          <image:loc>https://majordigest.com/news/2023/08/25/4171861-musk-calls-trump-mug-shot-post-next-level-after-former-president-returns-to-x-platform/4171861-musk-calls-trump-mug-shot-post-next-level-after-former-president-returns-to-x-platform.webp</image:loc>
+          <image:loc>https://majordigest.com/news/2023/08/26/mystery-land-buyers-around-california-air-force-base-revealed/mystery-land-buyers-around-california-air-force-base-revealed.webp</image:loc>
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/news/2023/08/25/encinitas-tackles-homelessness-issues-looks-at-possible-camping-ban/</loc>
+        <loc>https://majordigest.com/news/2023/08/26/ap-wall-street-journal-reporter-evan-gershkovich-appeals-extension-of-pretrial-detention-in-russia/</loc>
         <news:news>
           <news:publication>
             <news:name>Major Digest</news:name>
             <news:language>en</news:language>
           </news:publication>
-          <news:publication_date>2023-08-25T02:12:23.000Z</news:publication_date>
-          <news:title>Encinitas tackles homelessness issues, looks at possible camping ban</news:title>
+          <news:publication_date>2023-08-26T16:08:47.000Z</news:publication_date>
+          <news:title>Reporter Evan Gershkovich appeals extension of detention in Russia</news:title>
         </news:news>
         <image:image>
-          <image:loc>https://majordigest.com/news/2023/08/25/encinitas-tackles-homelessness-issues-looks-at-possible-camping-ban/encinitas-tackles-homelessness-issues-looks-at-possible-camping-ban.webp</image:loc>
+          <image:loc>https://majordigest.com/news/2023/08/26/ap-wall-street-journal-reporter-evan-gershkovich-appeals-extension-of-pretrial-detention-in-russia/ap-wall-street-journal-reporter-evan-gershkovich-appeals-extension-of-pretrial-detention-in-russia.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/news/2023/08/26/much-of-florida-under-state-of-emergency-as-possible-tropical-storm-forms-in-gulf-of-mexico/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-26T17:07:22.000Z</news:publication_date>
+          <news:title>Much of Florida under state of emergency as possible tropical storm forms in Gulf of Mexico</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/news/2023/08/26/much-of-florida-under-state-of-emergency-as-possible-tropical-storm-forms-in-gulf-of-mexico/much-of-florida-under-state-of-emergency-as-possible-tropical-storm-forms-in-gulf-of-mexico.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/news/2023/08/26/ap-wall-street-journal-reporter-evan-gershkovich-appeals-extension-of-pretrial-detention-in-russia/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-26T16:08:47.000Z</news:publication_date>
+          <news:title>Wall Street Journal reporter Evan Gershkovich appeals extension of pretrial detention in Russia</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/news/2023/08/26/ap-wall-street-journal-reporter-evan-gershkovich-appeals-extension-of-pretrial-detention-in-russia/ap-wall-street-journal-reporter-evan-gershkovich-appeals-extension-of-pretrial-detention-in-russia.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/news/2023/08/26/ap-curacao-defeats-taiwan-2-0-in-little-league-world-series-semifinal/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-26T19:12:25.000Z</news:publication_date>
+          <news:title>Curacao defeats Taiwan 2-0 in Little League World Series semifinal</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/news/2023/08/26/ap-curacao-defeats-taiwan-2-0-in-little-league-world-series-semifinal/ap-curacao-defeats-taiwan-2-0-in-little-league-world-series-semifinal.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -98,89 +280,5 @@
         </news:news>
         <image:image>
           <image:loc>https://majordigest.com/news/2023/08/22/troy-glaus-introduced-at-buchanan-high-school/troy-glaus-introduced-at-buchanan-high-school.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/news/2023/08/26/npr-china-us-trade-tensions-commerce-secretary-gina-raimondo/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-26T13:48:00.000Z</news:publication_date>
-          <news:title>How high tensions between China and the U.S. are impacting American companies</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/news/2023/08/26/npr-china-us-trade-tensions-commerce-secretary-gina-raimondo/npr-china-us-trade-tensions-commerce-secretary-gina-raimondo.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/news/2023/08/26/ap-bare-electrical-wire-and-poles-in-need-of-replacement-on-maui-were-little-match-for-strong-winds/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-26T18:37:46.000Z</news:publication_date>
-          <news:title>Bare electrical wire and leaning poles on Maui were possible cause of deadly fires</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/news/2023/08/26/ap-bare-electrical-wire-and-poles-in-need-of-replacement-on-maui-were-little-match-for-strong-winds/ap-bare-electrical-wire-and-poles-in-need-of-replacement-on-maui-were-little-match-for-strong-winds.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/news/2023/08/25/bronny-james-cardiac-arrest-congenital-heart-defect-cause/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-25T23:41:56.000Z</news:publication_date>
-          <news:title>Family: Bronny James' cardiac arrest due to congenital defect</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/news/2023/08/25/bronny-james-cardiac-arrest-congenital-heart-defect-cause/bronny-james-cardiac-arrest-congenital-heart-defect-cause.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/news/2023/08/26/broadband-subsidy-program-that-millions-use-will-expire-next-year-if-congress-doesnt-act/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-26T12:17:33.000Z</news:publication_date>
-          <news:title>Broadband subsidy program that millions use will expire next year if Congress doesn&#8217;t act</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/news/2023/08/26/broadband-subsidy-program-that-millions-use-will-expire-next-year-if-congress-doesnt-act/broadband-subsidy-program-that-millions-use-will-expire-next-year-if-congress-doesnt-act.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/news/2023/08/26/broadband-subsidy-program-that-millions-use-will-expire-next-year-if-congress-doesnt-act/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-26T12:17:33.000Z</news:publication_date>
-          <news:title>Broadband subsidy program that millions use will expire next year if Congress doesn&#8217;t act</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/news/2023/08/26/broadband-subsidy-program-that-millions-use-will-expire-next-year-if-congress-doesnt-act/broadband-subsidy-program-that-millions-use-will-expire-next-year-if-congress-doesnt-act.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/news/2023/08/25/maui-has-released-the-names-of-388-people-still-missing-after-deadly-wildfire/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-25T11:18:10.000Z</news:publication_date>
-          <news:title>After Maui officials named 388 people unaccounted for in fires, many called to say they're OK</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/news/2023/08/25/maui-has-released-the-names-of-388-people-still-missing-after-deadly-wildfire/maui-has-released-the-names-of-388-people-still-missing-after-deadly-wildfire.webp</image:loc>
         </image:image>
       </url></urlset>
