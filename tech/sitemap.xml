@@ -3,17 +3,87 @@
               xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
               xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
       <url>
-        <loc>https://majordigest.com/tech/2023/08/23/san-jose-chamber-business-economy-ceo-downtown-real-estate-covid-tech/</loc>
+        <loc>https://majordigest.com/tech/2023/08/23/delete-app-mac-before-late/</loc>
         <news:news>
           <news:publication>
             <news:name>Major Digest</news:name>
             <news:language>en</news:language>
           </news:publication>
-          <news:publication_date>2023-08-23T18:40:13.000Z</news:publication_date>
-          <news:title>San Jose Chamber seeks third CEO in three years amid downtown slump</news:title>
+          <news:publication_date>2023-08-23T18:23:13.000Z</news:publication_date>
+          <news:title>Delete this app on your Mac before it's too late</news:title>
         </news:news>
         <image:image>
-          <image:loc>https://majordigest.com/tech/2023/08/23/san-jose-chamber-business-economy-ceo-downtown-real-estate-covid-tech/san-jose-chamber-business-economy-ceo-downtown-real-estate-covid-tech.webp</image:loc>
+          <image:loc>https://majordigest.com/tech/2023/08/23/delete-app-mac-before-late/delete-app-mac-before-late.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/tech/2023/08/24/dont-miss-the-deadline-to-claim-a-facebook-privacy-settlement-payment/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-24T16:31:26.000Z</news:publication_date>
+          <news:title>Don't miss the deadline to claim a Facebook privacy settlement payment</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/tech/2023/08/24/dont-miss-the-deadline-to-claim-a-facebook-privacy-settlement-payment/dont-miss-the-deadline-to-claim-a-facebook-privacy-settlement-payment.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/tech/2023/08/23/4167496-over-half-of-american-workers-say-theyd-consider-quitting-without-flexible-work-options-study/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-23T21:42:14.000Z</news:publication_date>
+          <news:title>Post-pandemic, many American workers say they'd consider quitting without flexible work options: study</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/tech/2023/08/23/4167496-over-half-of-american-workers-say-theyd-consider-quitting-without-flexible-work-options-study/4167496-over-half-of-american-workers-say-theyd-consider-quitting-without-flexible-work-options-study.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/tech/2023/08/24/indias-lunar-rover-goes-down-a-ramp-to-the-moons-surface-and-takes-a-walk/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-24T15:00:01.000Z</news:publication_date>
+          <news:title>India's lunar rover goes down a ramp to the moon's surface and takes a walk</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/tech/2023/08/24/indias-lunar-rover-goes-down-a-ramp-to-the-moons-surface-and-takes-a-walk/indias-lunar-rover-goes-down-a-ramp-to-the-moons-surface-and-takes-a-walk.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/tech/2023/08/22/europes-sweeping-rules-for-tech-giants-are-about-to-kick-in-heres-how-they-work/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-22T06:19:57.000Z</news:publication_date>
+          <news:title>Europe's sweeping rules for tech giants have kicked in. Here's how they work</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/tech/2023/08/22/europes-sweeping-rules-for-tech-giants-are-about-to-kick-in-heres-how-they-work/europes-sweeping-rules-for-tech-giants-are-about-to-kick-in-heres-how-they-work.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/tech/2023/08/26/a-broad-genetic-test-saved-one-newborns-life-research-suggests-it-could-help-millions-of-others/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-26T11:44:30.000Z</news:publication_date>
+          <news:title>A broad genetic test saved one newborn's life. Research suggests it could help millions of others</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/tech/2023/08/26/a-broad-genetic-test-saved-one-newborns-life-research-suggests-it-could-help-millions-of-others/a-broad-genetic-test-saved-one-newborns-life-research-suggests-it-could-help-millions-of-others.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -31,48 +101,6 @@
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/tech/2023/08/25/doj-sues-spacex-alleging-it-discriminated-against-refugees-asylum-seekers/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-25T14:06:52.000Z</news:publication_date>
-          <news:title>DOJ sues SpaceX, alleging it discriminated against refugees, asylum seekers</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/tech/2023/08/25/doj-sues-spacex-alleging-it-discriminated-against-refugees-asylum-seekers/doj-sues-spacex-alleging-it-discriminated-against-refugees-asylum-seekers.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/tech/2023/08/25/gop-stumbles-in-suit-claiming-google-censors-donation-emails/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-25T17:31:47.000Z</news:publication_date>
-          <news:title>GOP stumbles in suit claiming Google censors donation emails</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/tech/2023/08/25/gop-stumbles-in-suit-claiming-google-censors-donation-emails/gop-stumbles-in-suit-claiming-google-censors-donation-emails.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/tech/2023/08/23/samsung-fold-5-versatile-but-with-compromises/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-23T12:17:56.000Z</news:publication_date>
-          <news:title>Samsung Fold 5: Versatile, but with compromises</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/tech/2023/08/23/samsung-fold-5-versatile-but-with-compromises/samsung-fold-5-versatile-but-with-compromises.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
         <loc>https://majordigest.com/tech/2023/08/24/us-sues-spacex-for-alleged-hiring-discrimination-against-refugees-and-others/</loc>
         <news:news>
           <news:publication>
@@ -87,59 +115,31 @@
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/tech/2023/08/24/are-ai-deepfakes-end-acting-know/</loc>
+        <loc>https://majordigest.com/tech/2023/08/25/early-apple-computer-that-helped-launch-3t-company-sells-at-auction-for-223000/</loc>
         <news:news>
           <news:publication>
             <news:name>Major Digest</news:name>
             <news:language>en</news:language>
           </news:publication>
-          <news:publication_date>2023-08-24T19:30:33.000Z</news:publication_date>
-          <news:title>Are AI deepfakes the end of acting as we know it?</news:title>
+          <news:publication_date>2023-08-25T17:04:30.000Z</news:publication_date>
+          <news:title>Early Apple computer that helped launch $3T company sells at auction for $223,000</news:title>
         </news:news>
         <image:image>
-          <image:loc>https://majordigest.com/tech/2023/08/24/are-ai-deepfakes-end-acting-know/are-ai-deepfakes-end-acting-know.webp</image:loc>
+          <image:loc>https://majordigest.com/tech/2023/08/25/early-apple-computer-that-helped-launch-3t-company-sells-at-auction-for-223000/early-apple-computer-that-helped-launch-3t-company-sells-at-auction-for-223000.webp</image:loc>
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/tech/2023/08/22/how-to-set-up-earthquake-alerts-on-your-phone/</loc>
+        <loc>https://majordigest.com/tech/2023/08/24/4169295-google-unveils-new-transparency-measures-as-eu-rule-goes-into-effect/</loc>
         <news:news>
           <news:publication>
             <news:name>Major Digest</news:name>
             <news:language>en</news:language>
           </news:publication>
-          <news:publication_date>2023-08-22T11:57:59.000Z</news:publication_date>
-          <news:title>How to set up earthquake alerts on your phone</news:title>
+          <news:publication_date>2023-08-24T15:59:23.000Z</news:publication_date>
+          <news:title>Google unveils new transparency measures as EU rule goes into effect</news:title>
         </news:news>
         <image:image>
-          <image:loc>https://majordigest.com/tech/2023/08/22/how-to-set-up-earthquake-alerts-on-your-phone/how-to-set-up-earthquake-alerts-on-your-phone.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/tech/2023/08/25/trump-returns-to-twitter-under-its-new-moniker-x/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-25T02:13:08.000Z</news:publication_date>
-          <news:title>Trump returns to Twitter, under its new moniker X</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/tech/2023/08/25/trump-returns-to-twitter-under-its-new-moniker-x/trump-returns-to-twitter-under-its-new-moniker-x.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/tech/2023/08/26/phone-tracks-everywhere-youve-been-see-delete-it/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-26T07:50:12.000Z</news:publication_date>
-          <news:title>Your phone tracks everywhere you&#8217;ve been - See (and delete) it</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/tech/2023/08/26/phone-tracks-everywhere-youve-been-see-delete-it/phone-tracks-everywhere-youve-been-see-delete-it.webp</image:loc>
+          <image:loc>https://majordigest.com/tech/2023/08/24/4169295-google-unveils-new-transparency-measures-as-eu-rule-goes-into-effect/4169295-google-unveils-new-transparency-measures-as-eu-rule-goes-into-effect.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -157,6 +157,48 @@
         </image:image>
       </url>
       <url>
+        <loc>https://majordigest.com/tech/2023/08/25/dont-fall-latest-antivirus-protection-scam/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-25T19:00:55.000Z</news:publication_date>
+          <news:title>Don't fall for this latest antivirus protection scam</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/tech/2023/08/25/dont-fall-latest-antivirus-protection-scam/dont-fall-latest-antivirus-protection-scam.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/tech/2023/08/22/how-to-set-up-earthquake-alerts-on-your-phone/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-22T11:57:59.000Z</news:publication_date>
+          <news:title>How to set up earthquake alerts on your phone</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/tech/2023/08/22/how-to-set-up-earthquake-alerts-on-your-phone/how-to-set-up-earthquake-alerts-on-your-phone.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/tech/2023/08/24/doj-sues-spacex-asylees/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-24T18:35:38.000Z</news:publication_date>
+          <news:title>DOJ sues SpaceX for allegedly not hiring asylees, refugees</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/tech/2023/08/24/doj-sues-spacex-asylees/doj-sues-spacex-asylees.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
         <loc>https://majordigest.com/tech/2023/08/24/ai-binge-lapd-bodycam-footage-weed-rude-tone-aggressive-language/</loc>
         <news:news>
           <news:publication>
@@ -171,30 +213,30 @@
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/tech/2023/08/24/fall-deceptive-email-asking-help/</loc>
+        <loc>https://majordigest.com/tech/2023/08/25/4171861-musk-calls-trump-mug-shot-post-next-level-after-former-president-returns-to-x-platform/</loc>
         <news:news>
           <news:publication>
             <news:name>Major Digest</news:name>
             <news:language>en</news:language>
           </news:publication>
-          <news:publication_date>2023-08-24T16:38:45.000Z</news:publication_date>
-          <news:title>Don't fall for that deceptive email asking for your help</news:title>
+          <news:publication_date>2023-08-25T20:18:25.000Z</news:publication_date>
+          <news:title>Musk calls Trump mug shot post 'next-level' after former president returns to 'X' platform</news:title>
         </news:news>
         <image:image>
-          <image:loc>https://majordigest.com/tech/2023/08/24/fall-deceptive-email-asking-help/fall-deceptive-email-asking-help.webp</image:loc>
+          <image:loc>https://majordigest.com/tech/2023/08/25/4171861-musk-calls-trump-mug-shot-post-next-level-after-former-president-returns-to-x-platform/4171861-musk-calls-trump-mug-shot-post-next-level-after-former-president-returns-to-x-platform.webp</image:loc>
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/tech/2023/08/25/indias-lunar-rover-keeps-walking-on-the-moon-days-after-spacecrafts-historic-touchdown/</loc>
+        <loc>https://majordigest.com/tech/2023/08/25/4170610-trump-returns-to-twitter-under-its-new-moniker-x/</loc>
         <news:news>
           <news:publication>
             <news:name>Major Digest</news:name>
             <news:language>en</news:language>
           </news:publication>
-          <news:publication_date>2023-08-25T15:30:35.000Z</news:publication_date>
-          <news:title>India's lunar rover keeps walking on the moon, days after spacecraft's historic touchdown</news:title>
+          <news:publication_date>2023-08-25T01:48:38.000Z</news:publication_date>
+          <news:title>Trump returns to Twitter, under its new moniker X</news:title>
         </news:news>
         <image:image>
-          <image:loc>https://majordigest.com/tech/2023/08/25/indias-lunar-rover-keeps-walking-on-the-moon-days-after-spacecrafts-historic-touchdown/indias-lunar-rover-keeps-walking-on-the-moon-days-after-spacecrafts-historic-touchdown.webp</image:loc>
+          <image:loc>https://majordigest.com/tech/2023/08/25/4170610-trump-returns-to-twitter-under-its-new-moniker-x/4170610-trump-returns-to-twitter-under-its-new-moniker-x.webp</image:loc>
         </image:image>
       </url></urlset>

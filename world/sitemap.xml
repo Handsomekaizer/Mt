@@ -3,199 +3,17 @@
               xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
               xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
       <url>
-        <loc>https://majordigest.com/world/2023/08/26/ap-russias-wagner-mercenaries-face-uncertainty-after-the-presumed-death-of-its-leader-in-a-plane-crash/</loc>
+        <loc>https://majordigest.com/world/2023/08/26/ap-power-returns-to-most-of-kenya-after-a-14-hour-outage-longest-in-recent-memory-shuts-down-airport/</loc>
         <news:news>
           <news:publication>
             <news:name>Major Digest</news:name>
             <news:language>en</news:language>
           </news:publication>
-          <news:publication_date>2023-08-26T12:16:59.000Z</news:publication_date>
-          <news:title>Russia's Wagner mercenaries face uncertainty after the presumed death of their leader in plane crash</news:title>
+          <news:publication_date>2023-08-26T09:20:16.000Z</news:publication_date>
+          <news:title>Power returns to most of Kenya after a 14-hour outage, longest in recent memory, shuts down airport</news:title>
         </news:news>
         <image:image>
-          <image:loc>https://majordigest.com/world/2023/08/26/ap-russias-wagner-mercenaries-face-uncertainty-after-the-presumed-death-of-its-leader-in-a-plane-crash/ap-russias-wagner-mercenaries-face-uncertainty-after-the-presumed-death-of-its-leader-in-a-plane-crash.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/world/2023/08/26/ap-a-crush-at-the-opening-ceremony-of-the-indian-ocean-island-games-in-madagascar-kills-at-least-12/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-26T11:22:00.000Z</news:publication_date>
-          <news:title>A crush at the opening ceremony of the Indian Ocean Island Games in Madagascar kills at least 12</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/world/2023/08/26/ap-a-crush-at-the-opening-ceremony-of-the-indian-ocean-island-games-in-madagascar-kills-at-least-12/ap-a-crush-at-the-opening-ceremony-of-the-indian-ocean-island-games-in-madagascar-kills-at-least-12.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/world/2023/08/26/moscow-airports-suspend-flights-following-latest-reported-drone-strike/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-26T09:41:55.000Z</news:publication_date>
-          <news:title>Shelling kills civilians in Ukraine's northeast as fears grow of a second Russian takeover</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/world/2023/08/26/moscow-airports-suspend-flights-following-latest-reported-drone-strike/moscow-airports-suspend-flights-following-latest-reported-drone-strike.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/world/2023/08/26/ap-china-sends-aircraft-and-vessels-toward-taiwan-days-after-us-approves-500-million-arms-sale/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-26T05:09:37.000Z</news:publication_date>
-          <news:title>China sends aircraft and vessels toward Taiwan days after US approves $500-million arms sale</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/world/2023/08/26/ap-china-sends-aircraft-and-vessels-toward-taiwan-days-after-us-approves-500-million-arms-sale/ap-china-sends-aircraft-and-vessels-toward-taiwan-days-after-us-approves-500-million-arms-sale.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/world/2023/08/25/4170236-gop-talk-of-military-action-in-mexico-sparks-dire-warnings/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-25T09:00:00.000Z</news:publication_date>
-          <news:title>GOP talk of military action in Mexico sparks dire warnings</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/world/2023/08/25/4170236-gop-talk-of-military-action-in-mexico-sparks-dire-warnings/4170236-gop-talk-of-military-action-in-mexico-sparks-dire-warnings.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/world/2023/08/26/ap-moscow-airports-suspend-flights-following-latest-reported-drone-strike/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-26T11:55:28.000Z</news:publication_date>
-          <news:title>Shelling kills civilians in Ukraine's northeast as fears grow of a second Russian takeover</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/world/2023/08/26/ap-moscow-airports-suspend-flights-following-latest-reported-drone-strike/ap-moscow-airports-suspend-flights-following-latest-reported-drone-strike.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/world/2023/08/25/4171039-presumed-prigozhin-death-could-destabilize-wagner-uk/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-25T14:43:10.000Z</news:publication_date>
-          <news:title>Presumed Prigozhin death could destabilize Wagner: UK</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/world/2023/08/25/4171039-presumed-prigozhin-death-could-destabilize-wagner-uk/4171039-presumed-prigozhin-death-could-destabilize-wagner-uk.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/world/2023/08/25/a-crush-at-the-opening-ceremony-of-the-indian-ocean-island-games-in-madagascar-kills-at-least-12/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-25T23:02:21.000Z</news:publication_date>
-          <news:title>A crush at the opening ceremony of the Indian Ocean Island Games in Madagascar kills at least 12</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/world/2023/08/25/a-crush-at-the-opening-ceremony-of-the-indian-ocean-island-games-in-madagascar-kills-at-least-12/a-crush-at-the-opening-ceremony-of-the-indian-ocean-island-games-in-madagascar-kills-at-least-12.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/world/2023/08/26/ap-new-crew-for-the-space-station-launches-with-4-astronauts-from-4-countries/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-26T10:22:31.000Z</news:publication_date>
-          <news:title>New space station crew launches, astronauts from 4 countries</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/world/2023/08/26/ap-new-crew-for-the-space-station-launches-with-4-astronauts-from-4-countries/ap-new-crew-for-the-space-station-launches-with-4-astronauts-from-4-countries.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/world/2023/08/25/niger-junta-authorizes-entry-troops-mali-burkina-faso-french-ambassador-dismissed/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-25T23:29:47.000Z</news:publication_date>
-          <news:title>Niger's junta authorizes entry of troops from Mali, Burkina Faso; French ambassador dismissed</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/world/2023/08/25/niger-junta-authorizes-entry-troops-mali-burkina-faso-french-ambassador-dismissed/niger-junta-authorizes-entry-troops-mali-burkina-faso-french-ambassador-dismissed.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/world/2023/08/26/ap-beloved-pets-in-canada-rescued-from-wildfires-by-volunteers-who-stayed-behind/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-26T06:43:43.000Z</news:publication_date>
-          <news:title>Pets rescued from Canadian wildfires by those who stayed behind</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/world/2023/08/26/ap-beloved-pets-in-canada-rescued-from-wildfires-by-volunteers-who-stayed-behind/ap-beloved-pets-in-canada-rescued-from-wildfires-by-volunteers-who-stayed-behind.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/world/2023/08/26/un-experts-say-islamic-state-group-almost-doubled-the-territory-they-control-in-mali-in-under-a-year/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-26T07:27:03.000Z</news:publication_date>
-          <news:title>UN experts say Islamic State group almost doubled the territory they control in Mali in under a year</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/world/2023/08/26/un-experts-say-islamic-state-group-almost-doubled-the-territory-they-control-in-mali-in-under-a-year/un-experts-say-islamic-state-group-almost-doubled-the-territory-they-control-in-mali-in-under-a-year.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/world/2023/08/26/ap-china-sends-aircraft-and-vessels-toward-taiwan-days-after-us-approves-500-million-arms-sale/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-26T05:09:37.000Z</news:publication_date>
-          <news:title>China sends aircraft and vessels toward Taiwan days after US approves $500-million arms sale</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/world/2023/08/26/ap-china-sends-aircraft-and-vessels-toward-taiwan-days-after-us-approves-500-million-arms-sale/ap-china-sends-aircraft-and-vessels-toward-taiwan-days-after-us-approves-500-million-arms-sale.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/world/2023/08/26/beloved-pets-in-canada-rescued-from-wildfires-by-volunteers-who-stayed-behind/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-26T06:43:42.000Z</news:publication_date>
-          <news:title>Beloved pets in Canada rescued from wildfires by volunteers who stayed behind</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/world/2023/08/26/beloved-pets-in-canada-rescued-from-wildfires-by-volunteers-who-stayed-behind/beloved-pets-in-canada-rescued-from-wildfires-by-volunteers-who-stayed-behind.webp</image:loc>
+          <image:loc>https://majordigest.com/world/2023/08/26/ap-power-returns-to-most-of-kenya-after-a-14-hour-outage-longest-in-recent-memory-shuts-down-airport/ap-power-returns-to-most-of-kenya-after-a-14-hour-outage-longest-in-recent-memory-shuts-down-airport.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -213,17 +31,31 @@
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/world/2023/08/25/ap-nerve-agents-poison-and-window-falls-over-the-years-kremlin-foes-have-been-attacked-or-killed/</loc>
+        <loc>https://majordigest.com/world/2023/08/25/4171039-presumed-prigozhin-death-could-destabilize-wagner-uk/</loc>
         <news:news>
           <news:publication>
             <news:name>Major Digest</news:name>
             <news:language>en</news:language>
           </news:publication>
-          <news:publication_date>2023-08-25T16:16:17.000Z</news:publication_date>
-          <news:title>Nerve agents, poison and window falls. Over the years, Kremlin foes have been attacked or killed</news:title>
+          <news:publication_date>2023-08-25T14:43:10.000Z</news:publication_date>
+          <news:title>Presumed Prigozhin death could destabilize Wagner: UK</news:title>
         </news:news>
         <image:image>
-          <image:loc>https://majordigest.com/world/2023/08/25/ap-nerve-agents-poison-and-window-falls-over-the-years-kremlin-foes-have-been-attacked-or-killed/ap-nerve-agents-poison-and-window-falls-over-the-years-kremlin-foes-have-been-attacked-or-killed.webp</image:loc>
+          <image:loc>https://majordigest.com/world/2023/08/25/4171039-presumed-prigozhin-death-could-destabilize-wagner-uk/4171039-presumed-prigozhin-death-could-destabilize-wagner-uk.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/world/2023/08/26/ap-a-crush-at-the-opening-ceremony-of-the-indian-ocean-island-games-in-madagascar-kills-at-least-12/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-26T11:22:00.000Z</news:publication_date>
+          <news:title>A crush at the opening ceremony of the Indian Ocean Island Games in Madagascar kills at least 12</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/world/2023/08/26/ap-a-crush-at-the-opening-ceremony-of-the-indian-ocean-island-games-in-madagascar-kills-at-least-12/ap-a-crush-at-the-opening-ceremony-of-the-indian-ocean-island-games-in-madagascar-kills-at-least-12.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -241,16 +73,184 @@
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/world/2023/08/24/4170150-prigozhins-fate-a-warning-shot-for-putins-critics/</loc>
+        <loc>https://majordigest.com/world/2023/08/25/niger-junta-authorizes-entry-troops-mali-burkina-faso-french-ambassador-dismissed/</loc>
         <news:news>
           <news:publication>
             <news:name>Major Digest</news:name>
             <news:language>en</news:language>
           </news:publication>
-          <news:publication_date>2023-08-24T22:11:09.000Z</news:publication_date>
-          <news:title>Prigozhin's fate a warning shot for Putin's critics</news:title>
+          <news:publication_date>2023-08-25T23:29:47.000Z</news:publication_date>
+          <news:title>Niger's junta authorizes entry of troops from Mali, Burkina Faso; French ambassador dismissed</news:title>
         </news:news>
         <image:image>
-          <image:loc>https://majordigest.com/world/2023/08/24/4170150-prigozhins-fate-a-warning-shot-for-putins-critics/4170150-prigozhins-fate-a-warning-shot-for-putins-critics.webp</image:loc>
+          <image:loc>https://majordigest.com/world/2023/08/25/niger-junta-authorizes-entry-troops-mali-burkina-faso-french-ambassador-dismissed/niger-junta-authorizes-entry-troops-mali-burkina-faso-french-ambassador-dismissed.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/world/2023/08/26/ap-a-crush-at-the-opening-ceremony-of-the-indian-ocean-island-games-in-madagascar-kills-at-least-12/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-26T11:22:00.000Z</news:publication_date>
+          <news:title>A crush at the opening ceremony of the Indian Ocean Island Games in Madagascar kills at least 12</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/world/2023/08/26/ap-a-crush-at-the-opening-ceremony-of-the-indian-ocean-island-games-in-madagascar-kills-at-least-12/ap-a-crush-at-the-opening-ceremony-of-the-indian-ocean-island-games-in-madagascar-kills-at-least-12.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/world/2023/08/26/un-experts-say-islamic-state-group-almost-doubled-the-territory-they-control-in-mali-in-under-a-year/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-26T07:27:03.000Z</news:publication_date>
+          <news:title>UN experts say Islamic State group almost doubled the territory they control in Mali in under a year</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/world/2023/08/26/un-experts-say-islamic-state-group-almost-doubled-the-territory-they-control-in-mali-in-under-a-year/un-experts-say-islamic-state-group-almost-doubled-the-territory-they-control-in-mali-in-under-a-year.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/world/2023/08/26/china-sends-aircraft-and-vessels-toward-taiwan-days-after-us-approves-500-million-arms-sale/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-26T05:09:36.000Z</news:publication_date>
+          <news:title>China sends aircraft and vessels toward Taiwan days after US approves $500-million arms sale</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/world/2023/08/26/china-sends-aircraft-and-vessels-toward-taiwan-days-after-us-approves-500-million-arms-sale/china-sends-aircraft-and-vessels-toward-taiwan-days-after-us-approves-500-million-arms-sale.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/world/2023/08/26/ap-moscow-airports-suspend-flights-following-latest-reported-drone-strike/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-26T11:55:28.000Z</news:publication_date>
+          <news:title>Shelling kills civilians in Ukraine's northeast as fears grow of a second Russian takeover</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/world/2023/08/26/ap-moscow-airports-suspend-flights-following-latest-reported-drone-strike/ap-moscow-airports-suspend-flights-following-latest-reported-drone-strike.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/world/2023/08/25/bahamas-eyes-legalizing-marijuana-medical-religious-use/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-25T18:37:18.000Z</news:publication_date>
+          <news:title>Bahamas eyes legalizing marijuana for medical, religious use</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/world/2023/08/25/bahamas-eyes-legalizing-marijuana-medical-religious-use/bahamas-eyes-legalizing-marijuana-medical-religious-use.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/world/2023/08/26/russias-wagner-mercenaries-face-uncertainty-after-the-presumed-death-of-its-leader-in-a-plane-crash/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-26T06:06:41.000Z</news:publication_date>
+          <news:title>Russia's Wagner mercenaries face uncertainty after the presumed death of their leader in plane crash</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/world/2023/08/26/russias-wagner-mercenaries-face-uncertainty-after-the-presumed-death-of-its-leader-in-a-plane-crash/russias-wagner-mercenaries-face-uncertainty-after-the-presumed-death-of-its-leader-in-a-plane-crash.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/world/2023/08/25/british-museum-director-resigns-alleged-apathy-toward-claims-potential-mass-art-theft/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-25T21:22:49.000Z</news:publication_date>
+          <news:title>British Museum director resigns over alleged apathy toward claims of potential mass art theft</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/world/2023/08/25/british-museum-director-resigns-alleged-apathy-toward-claims-potential-mass-art-theft/british-museum-director-resigns-alleged-apathy-toward-claims-potential-mass-art-theft.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/world/2023/08/26/beloved-pets-in-canada-rescued-from-wildfires-by-volunteers-who-stayed-behind/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-26T06:43:42.000Z</news:publication_date>
+          <news:title>Beloved pets in Canada rescued from wildfires by volunteers who stayed behind</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/world/2023/08/26/beloved-pets-in-canada-rescued-from-wildfires-by-volunteers-who-stayed-behind/beloved-pets-in-canada-rescued-from-wildfires-by-volunteers-who-stayed-behind.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/world/2023/08/24/4169608-europe-faces-decapitated-wagner-group-with-caution-questions/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-24T17:36:10.000Z</news:publication_date>
+          <news:title>Europe faces &#8216;decapitated&#8217; Wagner Group with caution, questions</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/world/2023/08/24/4169608-europe-faces-decapitated-wagner-group-with-caution-questions/4169608-europe-faces-decapitated-wagner-group-with-caution-questions.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/world/2023/08/26/pope-francis-urges-russian-children-artisans-peace-address/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-26T11:45:07.000Z</news:publication_date>
+          <news:title>Pope Francis urges Russian children to become &#8216;artisans of peace&#8217; in address</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/world/2023/08/26/pope-francis-urges-russian-children-artisans-peace-address/pope-francis-urges-russian-children-artisans-peace-address.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/world/2023/08/26/ap-russias-wagner-mercenaries-face-uncertainty-after-the-presumed-death-of-its-leader-in-a-plane-crash/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-26T12:16:59.000Z</news:publication_date>
+          <news:title>Russia's Wagner mercenaries face uncertainty after the presumed death of their leader in plane crash</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/world/2023/08/26/ap-russias-wagner-mercenaries-face-uncertainty-after-the-presumed-death-of-its-leader-in-a-plane-crash/ap-russias-wagner-mercenaries-face-uncertainty-after-the-presumed-death-of-its-leader-in-a-plane-crash.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/world/2023/08/26/ap-beloved-pets-in-canada-rescued-from-wildfires-by-volunteers-who-stayed-behind/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-26T06:43:43.000Z</news:publication_date>
+          <news:title>Beloved pets in Canada rescued from wildfires by volunteers who stayed behind</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/world/2023/08/26/ap-beloved-pets-in-canada-rescued-from-wildfires-by-volunteers-who-stayed-behind/ap-beloved-pets-in-canada-rescued-from-wildfires-by-volunteers-who-stayed-behind.webp</image:loc>
         </image:image>
       </url></urlset>
