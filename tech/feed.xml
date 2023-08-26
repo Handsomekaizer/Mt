@@ -7,7 +7,7 @@
         <title>Major Digest - Reliable and Comprehensive News Sources: tech</title>
         <description>Get the latest news online at Major Digest, the top online news resource for the most reliable news sources. Stay informed about the world around you!</description>
         <link>https://majordigest.com/?utm_medium=RSS</link>
-        <lastBuildDate>Sat, 26 Aug 2023 09:14:55 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 26 Aug 2023 10:17:17 GMT</lastBuildDate>
         <generator>https://majordigest.com/?v=1.1.4</generator>
         <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/" />
         <atom:link rel="self" href="https://majordigest.com/tech/feed.xml" type="application/rss+xml" />
@@ -19,26 +19,37 @@
           <link>https://majordigest.com/?utm_medium=RSS</link>
         </image>
       <item>
-        <title>San Jose Chamber seeks third CEO in three years amid downtown slump</title>
-        <description><![CDATA[The San Jose Chamber of Commerce is about to scout for its third leader in three years -- just as the downtown seeks to escape a "doom loop.]]></description>
-        <guid>https://majordigest.com/tech/2023/08/23/san-jose-chamber-business-economy-ceo-downtown-real-estate-covid-tech/</guid>
-        <link>https://majordigest.com/tech/2023/08/23/san-jose-chamber-business-economy-ceo-downtown-real-estate-covid-tech/</link>
-        <pubDate>Wed, 23 Aug 2023 18:40:13 +0000</pubDate>
+        <title>Proposed crypto tax rules draw ire from industry groups</title>
+        <description><![CDATA[New rules proposed by the Biden administration on Friday would require cryptocurrency brokers to report information on digital asset sales and exchanges to the Internal Revenue Service (IRS) and taxpayers.]]></description>
+        <guid>https://majordigest.com/tech/2023/08/25/4171232-proposed-crypto-tax-rules-draw-ire-from-industry-groups/</guid>
+        <link>https://majordigest.com/tech/2023/08/25/4171232-proposed-crypto-tax-rules-draw-ire-from-industry-groups/</link>
+        <pubDate>Fri, 25 Aug 2023 15:32:44 +0000</pubDate>
         <category>tech</category>
-        <media:content medium="image" url="https://majordigest.com/tech/2023/08/23/san-jose-chamber-business-economy-ceo-downtown-real-estate-covid-tech/san-jose-chamber-business-economy-ceo-downtown-real-estate-covid-tech.webp"/>
-        <media:thumbnail url="https://majordigest.com/tech/2023/08/23/san-jose-chamber-business-economy-ceo-downtown-real-estate-covid-tech/san-jose-chamber-business-economy-ceo-downtown-real-estate-covid-tech.webp"/>
-        <dc:creator>George Avalos, The Mercury News</dc:creator>
+        <media:content medium="image" url="https://majordigest.com/tech/2023/08/25/4171232-proposed-crypto-tax-rules-draw-ire-from-industry-groups/4171232-proposed-crypto-tax-rules-draw-ire-from-industry-groups.webp"/>
+        <media:thumbnail url="https://majordigest.com/tech/2023/08/25/4171232-proposed-crypto-tax-rules-draw-ire-from-industry-groups/4171232-proposed-crypto-tax-rules-draw-ire-from-industry-groups.webp"/>
+        <dc:creator>Taylor Giorno, The Hill</dc:creator>
       </item>
       <item>
-        <title>Early Apple computer that helped launch $3T company sells at auction for $223,000</title>
-        <description><![CDATA[One of the first personal computers built by Apple and signed by company co-founder Steve Wozniak has sold at auction for more than $223,000.]]></description>
-        <guid>https://majordigest.com/tech/2023/08/25/early-apple-computer-that-helped-launch-3t-company-sells-at-auction-for-223000/</guid>
-        <link>https://majordigest.com/tech/2023/08/25/early-apple-computer-that-helped-launch-3t-company-sells-at-auction-for-223000/</link>
-        <pubDate>Fri, 25 Aug 2023 17:04:30 +0000</pubDate>
+        <title>T-Mobile laying off 5,000 employees</title>
+        <description><![CDATA[T-Mobile plans to lay off close to 5,000 employees, about 7 percent of its workforce, by the end of September, the company’s president and CEO said in an email to employees Thursday.]]></description>
+        <guid>https://majordigest.com/tech/2023/08/24/4169686-t-mobile-laying-off-5000-employees/</guid>
+        <link>https://majordigest.com/tech/2023/08/24/4169686-t-mobile-laying-off-5000-employees/</link>
+        <pubDate>Thu, 24 Aug 2023 18:19:08 +0000</pubDate>
         <category>tech</category>
-        <media:content medium="image" url="https://majordigest.com/tech/2023/08/25/early-apple-computer-that-helped-launch-3t-company-sells-at-auction-for-223000/early-apple-computer-that-helped-launch-3t-company-sells-at-auction-for-223000.webp"/>
-        <media:thumbnail url="https://majordigest.com/tech/2023/08/25/early-apple-computer-that-helped-launch-3t-company-sells-at-auction-for-223000/early-apple-computer-that-helped-launch-3t-company-sells-at-auction-for-223000.webp"/>
-        <dc:creator>Associated Press, clickondetroit</dc:creator>
+        <media:content medium="image" url="https://majordigest.com/tech/2023/08/24/4169686-t-mobile-laying-off-5000-employees/4169686-t-mobile-laying-off-5000-employees.webp"/>
+        <media:thumbnail url="https://majordigest.com/tech/2023/08/24/4169686-t-mobile-laying-off-5000-employees/4169686-t-mobile-laying-off-5000-employees.webp"/>
+        <dc:creator>Julia Shapero, The Hill</dc:creator>
+      </item>
+      <item>
+        <title>Are AI deepfakes the end of acting as we know it?</title>
+        <description><![CDATA[Artificial intelligence and Hollywood&apos;s relationship is bittersweet because some are open to its growth while traditional actors perceive AI to be a threat.]]></description>
+        <guid>https://majordigest.com/tech/2023/08/24/are-ai-deepfakes-end-acting-know/</guid>
+        <link>https://majordigest.com/tech/2023/08/24/are-ai-deepfakes-end-acting-know/</link>
+        <pubDate>Thu, 24 Aug 2023 15:30:33 EDT</pubDate>
+        <category>tech</category>
+        <media:content medium="image" url="https://majordigest.com/tech/2023/08/24/are-ai-deepfakes-end-acting-know/are-ai-deepfakes-end-acting-know.webp"/>
+        <media:thumbnail url="https://majordigest.com/tech/2023/08/24/are-ai-deepfakes-end-acting-know/are-ai-deepfakes-end-acting-know.webp"/>
+        <dc:creator>Fox News</dc:creator>
       </item>
       <item>
         <title>Delete this app on your Mac before it's too late</title>
@@ -52,15 +63,15 @@
         <dc:creator>Fox News</dc:creator>
       </item>
       <item>
-        <title>Why Wall Street&#8217;s obsession with a Silicon Valley company most people never heard of is sending stocks surging</title>
-        <description><![CDATA[The Santa Clara based company posted year-over-year sales growth of 101% in the second quarter. Revenue went from $6.7 billion in the second quarter last year to $13.5 billion this year.]]></description>
-        <guid>https://majordigest.com/tech/2023/08/24/why-wall-streets-obsession-with-a-company-you-probably-never-heard-of-is-sending-stocks-surging/</guid>
-        <link>https://majordigest.com/tech/2023/08/24/why-wall-streets-obsession-with-a-company-you-probably-never-heard-of-is-sending-stocks-surging/</link>
-        <pubDate>Thu, 24 Aug 2023 17:34:18 +0000</pubDate>
+        <title>Medical professionals utilizing AI to judge narcotics prescriptions: report</title>
+        <description><![CDATA[Medical professionals are turning to artificial intelligence models to produce addiction risk assessments for the prescription of opioids.]]></description>
+        <guid>https://majordigest.com/tech/2023/08/23/medical-professionals-utilizing-ai-judge-narcotics-prescriptions-report/</guid>
+        <link>https://majordigest.com/tech/2023/08/23/medical-professionals-utilizing-ai-judge-narcotics-prescriptions-report/</link>
+        <pubDate>Wed, 23 Aug 2023 13:07:41 EDT</pubDate>
         <category>tech</category>
-        <media:content medium="image" url="https://majordigest.com/tech/2023/08/24/why-wall-streets-obsession-with-a-company-you-probably-never-heard-of-is-sending-stocks-surging/why-wall-streets-obsession-with-a-company-you-probably-never-heard-of-is-sending-stocks-surging.webp"/>
-        <media:thumbnail url="https://majordigest.com/tech/2023/08/24/why-wall-streets-obsession-with-a-company-you-probably-never-heard-of-is-sending-stocks-surging/why-wall-streets-obsession-with-a-company-you-probably-never-heard-of-is-sending-stocks-surging.webp"/>
-        <dc:creator>Cnn.Com Wire Service, The Mercury News</dc:creator>
+        <media:content medium="image" url="https://majordigest.com/tech/2023/08/23/medical-professionals-utilizing-ai-judge-narcotics-prescriptions-report/medical-professionals-utilizing-ai-judge-narcotics-prescriptions-report.webp"/>
+        <media:thumbnail url="https://majordigest.com/tech/2023/08/23/medical-professionals-utilizing-ai-judge-narcotics-prescriptions-report/medical-professionals-utilizing-ai-judge-narcotics-prescriptions-report.webp"/>
+        <dc:creator>Fox News</dc:creator>
       </item>
       <item>
         <title>DOJ files lawsuit against SpaceX for hiring discrimination against refugees, asylees</title>
@@ -74,70 +85,26 @@
         <dc:creator>Sarah Fortinsky, The Hill</dc:creator>
       </item>
       <item>
-        <title>Samsung Fold 5: Versatile, but with compromises</title>
-        <description><![CDATA[The Samsung Galaxy Z Fold 5 is multiple devices in one - a phone and a tablet. But if you want to join the flip side, it's not going to be cheap, and there are some compromises. It's hard not to appreciate what Samsung is doing with the Galaxy Z Fold 5.]]></description>
-        <guid>https://majordigest.com/tech/2023/08/23/samsung-fold-5-versatile-but-with-compromises/</guid>
-        <link>https://majordigest.com/tech/2023/08/23/samsung-fold-5-versatile-but-with-compromises/</link>
-        <pubDate>Wed, 23 Aug 2023 12:17:56 +0000</pubDate>
+        <title>San Jose Chamber seeks third CEO in three years amid downtown slump</title>
+        <description><![CDATA[The San Jose Chamber of Commerce is about to scout for its third leader in three years -- just as the downtown seeks to escape a "doom loop.]]></description>
+        <guid>https://majordigest.com/tech/2023/08/23/san-jose-chamber-business-economy-ceo-downtown-real-estate-covid-tech/</guid>
+        <link>https://majordigest.com/tech/2023/08/23/san-jose-chamber-business-economy-ceo-downtown-real-estate-covid-tech/</link>
+        <pubDate>Wed, 23 Aug 2023 18:40:13 +0000</pubDate>
         <category>tech</category>
-        <media:content medium="image" url="https://majordigest.com/tech/2023/08/23/samsung-fold-5-versatile-but-with-compromises/samsung-fold-5-versatile-but-with-compromises.webp"/>
-        <media:thumbnail url="https://majordigest.com/tech/2023/08/23/samsung-fold-5-versatile-but-with-compromises/samsung-fold-5-versatile-but-with-compromises.webp"/>
-        <dc:creator>Rich DeMuro, KTLA 5</dc:creator>
+        <media:content medium="image" url="https://majordigest.com/tech/2023/08/23/san-jose-chamber-business-economy-ceo-downtown-real-estate-covid-tech/san-jose-chamber-business-economy-ceo-downtown-real-estate-covid-tech.webp"/>
+        <media:thumbnail url="https://majordigest.com/tech/2023/08/23/san-jose-chamber-business-economy-ceo-downtown-real-estate-covid-tech/san-jose-chamber-business-economy-ceo-downtown-real-estate-covid-tech.webp"/>
+        <dc:creator>George Avalos, The Mercury News</dc:creator>
       </item>
       <item>
-        <title>SpaceX successfully launches 100th Starlink mission</title>
-        <description><![CDATA[SpaceX launched its 100th dedicated Starlink mission and brought the total number of Starlink satellites it boosted to low-earth orbit to nearly 5,000.]]></description>
-        <guid>https://majordigest.com/tech/2023/08/23/spacex-successfully-launches-100th-starlink-mission/</guid>
-        <link>https://majordigest.com/tech/2023/08/23/spacex-successfully-launches-100th-starlink-mission/</link>
-        <pubDate>Wed, 23 Aug 2023 12:14:08 +0000</pubDate>
+        <title>Kelly Blue Book survey shows consumer hesitation toward EVs</title>
+        <description><![CDATA[A Kelly Blue Book survey found most consumers would consider an electric vehicle but have some hesitations.]]></description>
+        <guid>https://majordigest.com/tech/2023/08/24/kelly-blue-book-survey-shows-consumer-hesitation-toward-evs/</guid>
+        <link>https://majordigest.com/tech/2023/08/24/kelly-blue-book-survey-shows-consumer-hesitation-toward-evs/</link>
+        <pubDate>Thu, 24 Aug 2023 09:41:37 +0000</pubDate>
         <category>tech</category>
-        <media:content medium="image" url="https://majordigest.com/tech/2023/08/23/spacex-successfully-launches-100th-starlink-mission/spacex-successfully-launches-100th-starlink-mission.webp"/>
-        <media:thumbnail url="https://majordigest.com/tech/2023/08/23/spacex-successfully-launches-100th-starlink-mission/spacex-successfully-launches-100th-starlink-mission.webp"/>
-        <dc:creator>Teresa Liu, The Mercury News</dc:creator>
-      </item>
-      <item>
-        <title>Don't fall for that deceptive email asking for your help</title>
-        <description><![CDATA[Hackers are using phishing email scams to try and steal your information. Kurt &quot;CyberGuy&quot; Knutsson explains how it works and what you can do to secure your tech.]]></description>
-        <guid>https://majordigest.com/tech/2023/08/24/fall-deceptive-email-asking-help/</guid>
-        <link>https://majordigest.com/tech/2023/08/24/fall-deceptive-email-asking-help/</link>
-        <pubDate>Thu, 24 Aug 2023 12:38:45 EDT</pubDate>
-        <category>tech</category>
-        <media:content medium="image" url="https://majordigest.com/tech/2023/08/24/fall-deceptive-email-asking-help/fall-deceptive-email-asking-help.webp"/>
-        <media:thumbnail url="https://majordigest.com/tech/2023/08/24/fall-deceptive-email-asking-help/fall-deceptive-email-asking-help.webp"/>
-        <dc:creator>Fox News</dc:creator>
-      </item>
-      <item>
-        <title>China bans seafood from Japan after the Fukushima nuclear plant begins its wastewater release</title>
-        <description><![CDATA[Japan’s tsunami-wrecked nuclear power plant in Fukushima is releasing its first batch of treated radioactive water into the Pacific Ocean.]]></description>
-        <guid>https://majordigest.com/tech/2023/08/24/the-fukushima-nuclear-plant-is-ready-to-release-radioactive-wastewater-into-sea-later-thursday/</guid>
-        <link>https://majordigest.com/tech/2023/08/24/the-fukushima-nuclear-plant-is-ready-to-release-radioactive-wastewater-into-sea-later-thursday/</link>
-        <pubDate>Thu, 24 Aug 2023 01:56:41 +0000</pubDate>
-        <category>tech</category>
-        <media:content medium="image" url="https://majordigest.com/tech/2023/08/24/the-fukushima-nuclear-plant-is-ready-to-release-radioactive-wastewater-into-sea-later-thursday/the-fukushima-nuclear-plant-is-ready-to-release-radioactive-wastewater-into-sea-later-thursday.webp"/>
-        <media:thumbnail url="https://majordigest.com/tech/2023/08/24/the-fukushima-nuclear-plant-is-ready-to-release-radioactive-wastewater-into-sea-later-thursday/the-fukushima-nuclear-plant-is-ready-to-release-radioactive-wastewater-into-sea-later-thursday.webp"/>
-        <dc:creator>Mari Yamaguchi, Associated Press, clickondetroit</dc:creator>
-      </item>
-      <item>
-        <title>GOP stumbles in suit claiming Google censors donation emails</title>
-        <description><![CDATA[A Republican National Committee lawsuit accusing Google of routing emails to Gmail users’ spam folders was tossed out by a judge who said the internet giant fairly concluded they were unwanted messages.]]></description>
-        <guid>https://majordigest.com/tech/2023/08/25/gop-stumbles-in-suit-claiming-google-censors-donation-emails/</guid>
-        <link>https://majordigest.com/tech/2023/08/25/gop-stumbles-in-suit-claiming-google-censors-donation-emails/</link>
-        <pubDate>Fri, 25 Aug 2023 17:31:47 +0000</pubDate>
-        <category>tech</category>
-        <media:content medium="image" url="https://majordigest.com/tech/2023/08/25/gop-stumbles-in-suit-claiming-google-censors-donation-emails/gop-stumbles-in-suit-claiming-google-censors-donation-emails.webp"/>
-        <media:thumbnail url="https://majordigest.com/tech/2023/08/25/gop-stumbles-in-suit-claiming-google-censors-donation-emails/gop-stumbles-in-suit-claiming-google-censors-donation-emails.webp"/>
-        <dc:creator>Bloomberg, The Mercury News</dc:creator>
-      </item>
-      <item>
-        <title>Early Apple computer that helped launch $3T company sells at auction for $223,000</title>
-        <description><![CDATA[BOSTON (AP) — One of the first personal computers built by Apple and signed by company co-founder Steve Wozniak has sold at auction for more than $223,000.]]></description>
-        <guid>https://majordigest.com/tech/2023/08/25/ap-early-apple-computer-that-helped-launch-3t-company-sells-at-auction-for-223000/</guid>
-        <link>https://majordigest.com/tech/2023/08/25/ap-early-apple-computer-that-helped-launch-3t-company-sells-at-auction-for-223000/</link>
-        <pubDate>Fri, 25 Aug 2023 17:04:31 +0000</pubDate>
-        <category>tech</category>
-        <media:content medium="image" url="https://majordigest.com/tech/2023/08/25/ap-early-apple-computer-that-helped-launch-3t-company-sells-at-auction-for-223000/ap-early-apple-computer-that-helped-launch-3t-company-sells-at-auction-for-223000.webp"/>
-        <media:thumbnail url="https://majordigest.com/tech/2023/08/25/ap-early-apple-computer-that-helped-launch-3t-company-sells-at-auction-for-223000/ap-early-apple-computer-that-helped-launch-3t-company-sells-at-auction-for-223000.webp"/>
-        <dc:creator>AP, newsnationnow</dc:creator>
+        <media:content medium="image" url="https://majordigest.com/tech/2023/08/24/kelly-blue-book-survey-shows-consumer-hesitation-toward-evs/kelly-blue-book-survey-shows-consumer-hesitation-toward-evs.webp"/>
+        <media:thumbnail url="https://majordigest.com/tech/2023/08/24/kelly-blue-book-survey-shows-consumer-hesitation-toward-evs/kelly-blue-book-survey-shows-consumer-hesitation-toward-evs.webp"/>
+        <dc:creator>Alexandra Limon, newsnationnow</dc:creator>
       </item>
       <item>
         <title>Replacing your phone&#8217;s battery &#8211; is it worth it or time for a new phone?&#8239;</title>
@@ -151,46 +118,46 @@
         <dc:creator>Fox News</dc:creator>
       </item>
       <item>
-        <title>CNN's parent company to relaunch streaming news service</title>
-        <description><![CDATA[Warner Bros. Discovery, the parent company of CNN, says it has plans to launch a new 24-hour streaming news service just more than a year after shuttering CNN+.]]></description>
-        <guid>https://majordigest.com/tech/2023/08/24/4168779-cnns-parent-company-to-launch-new-streaming-news-service/</guid>
-        <link>https://majordigest.com/tech/2023/08/24/4168779-cnns-parent-company-to-launch-new-streaming-news-service/</link>
-        <pubDate>Thu, 24 Aug 2023 12:36:33 +0000</pubDate>
+        <title>Don't fall for that deceptive email asking for your help</title>
+        <description><![CDATA[Hackers are using phishing email scams to try and steal your information. Kurt &quot;CyberGuy&quot; Knutsson explains how it works and what you can do to secure your tech.]]></description>
+        <guid>https://majordigest.com/tech/2023/08/24/fall-deceptive-email-asking-help/</guid>
+        <link>https://majordigest.com/tech/2023/08/24/fall-deceptive-email-asking-help/</link>
+        <pubDate>Thu, 24 Aug 2023 12:38:45 EDT</pubDate>
         <category>tech</category>
-        <media:content medium="image" url="https://majordigest.com/tech/2023/08/24/4168779-cnns-parent-company-to-launch-new-streaming-news-service/4168779-cnns-parent-company-to-launch-new-streaming-news-service.webp"/>
-        <media:thumbnail url="https://majordigest.com/tech/2023/08/24/4168779-cnns-parent-company-to-launch-new-streaming-news-service/4168779-cnns-parent-company-to-launch-new-streaming-news-service.webp"/>
-        <dc:creator>Dominick Mastrangelo, The Hill</dc:creator>
-      </item>
-      <item>
-        <title>Don't miss the deadline to claim a Facebook privacy settlement payment</title>
-        <description><![CDATA[Millions of Americans qualify – why put it off any longer? Here's what you need to know about getting your payment.]]></description>
-        <guid>https://majordigest.com/tech/2023/08/24/dont-miss-the-deadline-to-claim-a-facebook-privacy-settlement-payment/</guid>
-        <link>https://majordigest.com/tech/2023/08/24/dont-miss-the-deadline-to-claim-a-facebook-privacy-settlement-payment/</link>
-        <pubDate>Thu, 24 Aug 2023 16:31:26 +0000</pubDate>
-        <category>tech</category>
-        <media:content medium="image" url="https://majordigest.com/tech/2023/08/24/dont-miss-the-deadline-to-claim-a-facebook-privacy-settlement-payment/dont-miss-the-deadline-to-claim-a-facebook-privacy-settlement-payment.webp"/>
-        <media:thumbnail url="https://majordigest.com/tech/2023/08/24/dont-miss-the-deadline-to-claim-a-facebook-privacy-settlement-payment/dont-miss-the-deadline-to-claim-a-facebook-privacy-settlement-payment.webp"/>
-        <dc:creator>Alix Martichoux, newsnationnow</dc:creator>
-      </item>
-      <item>
-        <title>Ohio court system trading ankle bracelets for smartwatches</title>
-        <description><![CDATA[Smartwatches would still allow officials to monitor those who break the law, but in a more discreet way.]]></description>
-        <guid>https://majordigest.com/tech/2023/08/24/4167113-ohio-court-system-trading-ankle-bracelets-for-smartwatches/</guid>
-        <link>https://majordigest.com/tech/2023/08/24/4167113-ohio-court-system-trading-ankle-bracelets-for-smartwatches/</link>
-        <pubDate>Thu, 24 Aug 2023 10:55:58 +0000</pubDate>
-        <category>tech</category>
-        <media:content medium="image" url="https://majordigest.com/tech/2023/08/24/4167113-ohio-court-system-trading-ankle-bracelets-for-smartwatches/4167113-ohio-court-system-trading-ankle-bracelets-for-smartwatches.webp"/>
-        <media:thumbnail url="https://majordigest.com/tech/2023/08/24/4167113-ohio-court-system-trading-ankle-bracelets-for-smartwatches/4167113-ohio-court-system-trading-ankle-bracelets-for-smartwatches.webp"/>
-        <dc:creator>Mahvish Khan, The Hill</dc:creator>
-      </item>
-      <item>
-        <title>Don't fall for this latest antivirus protection scam</title>
-        <description><![CDATA[Protect your device from antivirus protection scams can come in all different forms on your devices such as deceptive pop-up messages and promotional emails]]></description>
-        <guid>https://majordigest.com/tech/2023/08/25/dont-fall-latest-antivirus-protection-scam/</guid>
-        <link>https://majordigest.com/tech/2023/08/25/dont-fall-latest-antivirus-protection-scam/</link>
-        <pubDate>Fri, 25 Aug 2023 15:00:55 EDT</pubDate>
-        <category>tech</category>
-        <media:content medium="image" url="https://majordigest.com/tech/2023/08/25/dont-fall-latest-antivirus-protection-scam/dont-fall-latest-antivirus-protection-scam.webp"/>
-        <media:thumbnail url="https://majordigest.com/tech/2023/08/25/dont-fall-latest-antivirus-protection-scam/dont-fall-latest-antivirus-protection-scam.webp"/>
+        <media:content medium="image" url="https://majordigest.com/tech/2023/08/24/fall-deceptive-email-asking-help/fall-deceptive-email-asking-help.webp"/>
+        <media:thumbnail url="https://majordigest.com/tech/2023/08/24/fall-deceptive-email-asking-help/fall-deceptive-email-asking-help.webp"/>
         <dc:creator>Fox News</dc:creator>
+      </item>
+      <item>
+        <title>Editorial: CPUC incompetence lets autotaxis dangerously run amok</title>
+        <description><![CDATA[Regulator of Cruise and Waymo admitted it didn't have sufficient safety data before critical vote to expand service.]]></description>
+        <guid>https://majordigest.com/tech/2023/08/23/editorial-puc-fails-to-keep-californians-safe-from-autonomous-vehicles/</guid>
+        <link>https://majordigest.com/tech/2023/08/23/editorial-puc-fails-to-keep-californians-safe-from-autonomous-vehicles/</link>
+        <pubDate>Wed, 23 Aug 2023 12:30:55 +0000</pubDate>
+        <category>tech</category>
+        <media:content medium="image" url="https://majordigest.com/tech/2023/08/23/editorial-puc-fails-to-keep-californians-safe-from-autonomous-vehicles/editorial-puc-fails-to-keep-californians-safe-from-autonomous-vehicles.webp"/>
+        <media:thumbnail url="https://majordigest.com/tech/2023/08/23/editorial-puc-fails-to-keep-californians-safe-from-autonomous-vehicles/editorial-puc-fails-to-keep-californians-safe-from-autonomous-vehicles.webp"/>
+        <dc:creator>Mercury News &amp; East Bay Times Editorial Boards, The Mercury News</dc:creator>
+      </item>
+      <item>
+        <title>India's lunar rover keeps walking on the moon, days after spacecraft's historic touchdown</title>
+        <description><![CDATA[India’s lunar rover is continuing its walk on the moon after the historic touch-down of India’s spacecraft near the moon’s south pole earlier this week.]]></description>
+        <guid>https://majordigest.com/tech/2023/08/25/indias-lunar-rover-keeps-walking-on-the-moon-days-after-spacecrafts-historic-touchdown/</guid>
+        <link>https://majordigest.com/tech/2023/08/25/indias-lunar-rover-keeps-walking-on-the-moon-days-after-spacecrafts-historic-touchdown/</link>
+        <pubDate>Fri, 25 Aug 2023 15:30:35 +0000</pubDate>
+        <category>tech</category>
+        <media:content medium="image" url="https://majordigest.com/tech/2023/08/25/indias-lunar-rover-keeps-walking-on-the-moon-days-after-spacecrafts-historic-touchdown/indias-lunar-rover-keeps-walking-on-the-moon-days-after-spacecrafts-historic-touchdown.webp"/>
+        <media:thumbnail url="https://majordigest.com/tech/2023/08/25/indias-lunar-rover-keeps-walking-on-the-moon-days-after-spacecrafts-historic-touchdown/indias-lunar-rover-keeps-walking-on-the-moon-days-after-spacecrafts-historic-touchdown.webp"/>
+        <dc:creator>Ashok Sharma, Associated Press, clickondetroit</dc:creator>
+      </item>
+      <item>
+        <title>T-Mobile will lay off 5,000 employees, or about 7% of its workforce, in the coming weeks</title>
+        <description><![CDATA[NEW YORK (AP) — Wireless carrier T-Mobile said Thursday it plans to cut 5,000 jobs, or about 7% of its workforce.]]></description>
+        <guid>https://majordigest.com/tech/2023/08/24/ap-t-mobile-will-lay-off-5000-employees-or-about-7-of-its-workforce-in-the-coming-weeks/</guid>
+        <link>https://majordigest.com/tech/2023/08/24/ap-t-mobile-will-lay-off-5000-employees-or-about-7-of-its-workforce-in-the-coming-weeks/</link>
+        <pubDate>Thu, 24 Aug 2023 17:25:01 +0000</pubDate>
+        <category>tech</category>
+        <media:content medium="image" url="https://majordigest.com/tech/2023/08/24/ap-t-mobile-will-lay-off-5000-employees-or-about-7-of-its-workforce-in-the-coming-weeks/ap-t-mobile-will-lay-off-5000-employees-or-about-7-of-its-workforce-in-the-coming-weeks.webp"/>
+        <media:thumbnail url="https://majordigest.com/tech/2023/08/24/ap-t-mobile-will-lay-off-5000-employees-or-about-7-of-its-workforce-in-the-coming-weeks/ap-t-mobile-will-lay-off-5000-employees-or-about-7-of-its-workforce-in-the-coming-weeks.webp"/>
+        <dc:creator>WYATTE GRANTHAM-PHILIPS, Associated Press, newsnationnow</dc:creator>
       </item></channel></rss>
