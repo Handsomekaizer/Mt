@@ -3,17 +3,59 @@
               xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
               xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
       <url>
-        <loc>https://majordigest.com/news/2023/08/22/steve-kerr-buys-stake-in-spanish-soccer-team/</loc>
+        <loc>https://majordigest.com/news/2023/08/21/this-day-in-bulldog-history-august-20th/</loc>
         <news:news>
           <news:publication>
             <news:name>Major Digest</news:name>
             <news:language>en</news:language>
           </news:publication>
-          <news:publication_date>2023-08-22T18:06:06.000Z</news:publication_date>
-          <news:title>Steve Kerr buys stake in Spanish soccer team</news:title>
+          <news:publication_date>2023-08-21T02:06:59.000Z</news:publication_date>
+          <news:title>This Day in Bulldog History: August 20th</news:title>
         </news:news>
         <image:image>
-          <image:loc>https://majordigest.com/news/2023/08/22/steve-kerr-buys-stake-in-spanish-soccer-team/steve-kerr-buys-stake-in-spanish-soccer-team.webp</image:loc>
+          <image:loc>https://majordigest.com/news/2023/08/21/this-day-in-bulldog-history-august-20th/this-day-in-bulldog-history-august-20th.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/news/2023/08/26/ap-ramaswamy-faces-curiosity-and-skepticism-in-iowa-after-center-stage-performance-in-gop-debate/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-26T04:04:15.000Z</news:publication_date>
+          <news:title>Ramaswamy faces curiosity and skepticism in Iowa after center-stage performance in GOP debate</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/news/2023/08/26/ap-ramaswamy-faces-curiosity-and-skepticism-in-iowa-after-center-stage-performance-in-gop-debate/ap-ramaswamy-faces-curiosity-and-skepticism-in-iowa-after-center-stage-performance-in-gop-debate.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/news/2023/08/25/sports-gambling-rise-risks-addiction/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-25T22:19:14.000Z</news:publication_date>
+          <news:title>Sports gambling boom prompts addiction concerns</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/news/2023/08/25/sports-gambling-rise-risks-addiction/sports-gambling-rise-risks-addiction.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/news/2023/08/23/4167496-over-half-of-american-workers-say-theyd-consider-quitting-without-flexible-work-options-study/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-23T21:42:14.000Z</news:publication_date>
+          <news:title>Post-pandemic, many American workers say they'd consider quitting without flexible work options: study</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/news/2023/08/23/4167496-over-half-of-american-workers-say-theyd-consider-quitting-without-flexible-work-options-study/4167496-over-half-of-american-workers-say-theyd-consider-quitting-without-flexible-work-options-study.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -31,156 +73,226 @@
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/news/2023/08/25/ap-trump-and-all-18-others-charged-in-georgia-election-case-meet-the-deadline-to-surrender-at-jail/</loc>
+        <loc>https://majordigest.com/news/2023/08/25/encinitas-tackles-homelessness-issues-looks-at-possible-camping-ban/</loc>
         <news:news>
           <news:publication>
             <news:name>Major Digest</news:name>
             <news:language>en</news:language>
           </news:publication>
-          <news:publication_date>2023-08-25T20:36:28.000Z</news:publication_date>
-          <news:title>Trump and all 18 others charged in Georgia election case meet the deadline to surrender at jail</news:title>
+          <news:publication_date>2023-08-25T02:12:23.000Z</news:publication_date>
+          <news:title>Encinitas tackles homelessness issues, looks at possible camping ban</news:title>
         </news:news>
         <image:image>
-          <image:loc>https://majordigest.com/news/2023/08/25/ap-trump-and-all-18-others-charged-in-georgia-election-case-meet-the-deadline-to-surrender-at-jail/ap-trump-and-all-18-others-charged-in-georgia-election-case-meet-the-deadline-to-surrender-at-jail.webp</image:loc>
+          <image:loc>https://majordigest.com/news/2023/08/25/encinitas-tackles-homelessness-issues-looks-at-possible-camping-ban/encinitas-tackles-homelessness-issues-looks-at-possible-camping-ban.webp</image:loc>
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/news/2023/08/26/ramaswamy-curiosity-skepticism-iowa-gop-debate/</loc>
+        <loc>https://majordigest.com/news/2023/08/26/abortion-providers-heartbeat-ban-south-carolina/</loc>
         <news:news>
           <news:publication>
             <news:name>Major Digest</news:name>
             <news:language>en</news:language>
           </news:publication>
-          <news:publication_date>2023-08-26T04:50:22.000Z</news:publication_date>
-          <news:title>Ramaswamy faces curiosity, skepticism in Iowa after GOP debate</news:title>
+          <news:publication_date>2023-08-26T00:56:53.000Z</news:publication_date>
+          <news:title>South Carolina abortion providers seek clarity on 'heartbeat' ban</news:title>
         </news:news>
         <image:image>
-          <image:loc>https://majordigest.com/news/2023/08/26/ramaswamy-curiosity-skepticism-iowa-gop-debate/ramaswamy-curiosity-skepticism-iowa-gop-debate.webp</image:loc>
+          <image:loc>https://majordigest.com/news/2023/08/26/abortion-providers-heartbeat-ban-south-carolina/abortion-providers-heartbeat-ban-south-carolina.webp</image:loc>
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/news/2023/08/25/ap-one-image-one-face-one-american-moment-the-donald-trump-mug-shot/</loc>
+        <loc>https://majordigest.com/news/2023/08/26/shankule-weathers-hot-conditions-to-lead-1-2-finish-by-ethiopia-in-the-womens-marathon-at-worlds/</loc>
         <news:news>
           <news:publication>
             <news:name>Major Digest</news:name>
             <news:language>en</news:language>
           </news:publication>
-          <news:publication_date>2023-08-25T20:53:48.000Z</news:publication_date>
-          <news:title>One image, one face, one American moment: The Donald Trump mug shot</news:title>
+          <news:publication_date>2023-08-26T08:45:44.000Z</news:publication_date>
+          <news:title>Shankule weathers hot conditions to lead 1-2 finish by Ethiopia in the women's marathon at worlds</news:title>
         </news:news>
         <image:image>
-          <image:loc>https://majordigest.com/news/2023/08/25/ap-one-image-one-face-one-american-moment-the-donald-trump-mug-shot/ap-one-image-one-face-one-american-moment-the-donald-trump-mug-shot.webp</image:loc>
+          <image:loc>https://majordigest.com/news/2023/08/26/shankule-weathers-hot-conditions-to-lead-1-2-finish-by-ethiopia-in-the-womens-marathon-at-worlds/shankule-weathers-hot-conditions-to-lead-1-2-finish-by-ethiopia-in-the-womens-marathon-at-worlds.webp</image:loc>
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/news/2023/08/21/bulldog-insider-feature-rowing-the-san-joaquin-river/</loc>
+        <loc>https://majordigest.com/news/2023/08/23/rudy-giuliani-surrenders-in-georgia-to-face-election-interference-charges/</loc>
         <news:news>
           <news:publication>
             <news:name>Major Digest</news:name>
             <news:language>en</news:language>
           </news:publication>
-          <news:publication_date>2023-08-21T02:04:06.000Z</news:publication_date>
-          <news:title>Bulldog Insider feature: Rowing the San Joaquin River</news:title>
+          <news:publication_date>2023-08-23T19:47:00.000Z</news:publication_date>
+          <news:title>Rudy Giuliani surrenders in Georgia to face election interference charges</news:title>
         </news:news>
         <image:image>
-          <image:loc>https://majordigest.com/news/2023/08/21/bulldog-insider-feature-rowing-the-san-joaquin-river/bulldog-insider-feature-rowing-the-san-joaquin-river.webp</image:loc>
+          <image:loc>https://majordigest.com/news/2023/08/23/rudy-giuliani-surrenders-in-georgia-to-face-election-interference-charges/rudy-giuliani-surrenders-in-georgia-to-face-election-interference-charges.webp</image:loc>
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/news/2023/08/26/green-day-releases-nimrod-shirt-with-trump-mugshot-to-raise-money-for-maui/</loc>
+        <loc>https://majordigest.com/news/2023/08/26/ramaswamy-faces-curiosity-and-skepticism-in-iowa-after-center-stage-performance-in-gop-debate/</loc>
         <news:news>
           <news:publication>
             <news:name>Major Digest</news:name>
             <news:language>en</news:language>
           </news:publication>
-          <news:publication_date>2023-08-26T01:01:32.000Z</news:publication_date>
-          <news:title>Green Day releases 'Nimrod' shirt with Trump mugshot to raise money for Maui</news:title>
+          <news:publication_date>2023-08-26T04:04:15.000Z</news:publication_date>
+          <news:title>Ramaswamy faces curiosity and skepticism in Iowa after center-stage performance in GOP debate</news:title>
         </news:news>
         <image:image>
-          <image:loc>https://majordigest.com/news/2023/08/26/green-day-releases-nimrod-shirt-with-trump-mugshot-to-raise-money-for-maui/green-day-releases-nimrod-shirt-with-trump-mugshot-to-raise-money-for-maui.webp</image:loc>
+          <image:loc>https://majordigest.com/news/2023/08/26/ramaswamy-faces-curiosity-and-skepticism-in-iowa-after-center-stage-performance-in-gop-debate/ramaswamy-faces-curiosity-and-skepticism-in-iowa-after-center-stage-performance-in-gop-debate.webp</image:loc>
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/news/2023/08/25/texas-trial-over-biden-policy-letting-migrants-from-4-countries-into-us-to-wrap-up-friday/</loc>
+        <loc>https://majordigest.com/news/2023/08/22/steve-kerr-buys-stake-in-spanish-soccer-team/</loc>
         <news:news>
           <news:publication>
             <news:name>Major Digest</news:name>
             <news:language>en</news:language>
           </news:publication>
-          <news:publication_date>2023-08-25T11:13:19.000Z</news:publication_date>
-          <news:title>Judge asks if poverty qualifies for Biden policy letting migrants from 4 countries into US</news:title>
+          <news:publication_date>2023-08-22T18:06:06.000Z</news:publication_date>
+          <news:title>Steve Kerr buys stake in Spanish soccer team</news:title>
         </news:news>
         <image:image>
-          <image:loc>https://majordigest.com/news/2023/08/25/texas-trial-over-biden-policy-letting-migrants-from-4-countries-into-us-to-wrap-up-friday/texas-trial-over-biden-policy-letting-migrants-from-4-countries-into-us-to-wrap-up-friday.webp</image:loc>
+          <image:loc>https://majordigest.com/news/2023/08/22/steve-kerr-buys-stake-in-spanish-soccer-team/steve-kerr-buys-stake-in-spanish-soccer-team.webp</image:loc>
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/news/2023/08/26/ap-purdy-runs-for-a-td-before-chargers-backups-roll-past-49ers-23-12/</loc>
+        <loc>https://majordigest.com/news/2023/08/25/total-disbelief-mother-daughter-given-same-dorm-room-33-years-apart/</loc>
         <news:news>
           <news:publication>
             <news:name>Major Digest</news:name>
             <news:language>en</news:language>
           </news:publication>
-          <news:publication_date>2023-08-26T06:08:25.000Z</news:publication_date>
-          <news:title>Purdy runs for a TD before Chargers backups roll past 49ers 23-12</news:title>
+          <news:publication_date>2023-08-25T22:54:06.000Z</news:publication_date>
+          <news:title>'Total disbelief': Mother, daughter given same dorm room 33 years apart</news:title>
         </news:news>
         <image:image>
-          <image:loc>https://majordigest.com/news/2023/08/26/ap-purdy-runs-for-a-td-before-chargers-backups-roll-past-49ers-23-12/ap-purdy-runs-for-a-td-before-chargers-backups-roll-past-49ers-23-12.webp</image:loc>
+          <image:loc>https://majordigest.com/news/2023/08/25/total-disbelief-mother-daughter-given-same-dorm-room-33-years-apart/total-disbelief-mother-daughter-given-same-dorm-room-33-years-apart.webp</image:loc>
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/news/2023/08/24/vivek-ramaswamy-takes-center-stage-plus-other-key-moments-from-first-republican-debate/</loc>
+        <loc>https://majordigest.com/news/2023/08/23/4166818-biden-administration-investing-up-to-24-million-for-cancer-fighting-mrna-tech/</loc>
         <news:news>
           <news:publication>
             <news:name>Major Digest</news:name>
             <news:language>en</news:language>
           </news:publication>
-          <news:publication_date>2023-08-24T11:00:00.000Z</news:publication_date>
-          <news:title>Vivek Ramaswamy takes center stage, plus other key moments from first Republican debate</news:title>
+          <news:publication_date>2023-08-23T17:37:15.000Z</news:publication_date>
+          <news:title>Biden administration investing up to $24 million for cancer-fighting mRNA tech</news:title>
         </news:news>
         <image:image>
-          <image:loc>https://majordigest.com/news/2023/08/24/vivek-ramaswamy-takes-center-stage-plus-other-key-moments-from-first-republican-debate/vivek-ramaswamy-takes-center-stage-plus-other-key-moments-from-first-republican-debate.webp</image:loc>
+          <image:loc>https://majordigest.com/news/2023/08/23/4166818-biden-administration-investing-up-to-24-million-for-cancer-fighting-mrna-tech/4166818-biden-administration-investing-up-to-24-million-for-cancer-fighting-mrna-tech.webp</image:loc>
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/news/2023/08/23/stearns-county-board-rejects-proposal-to-help-property-owners-get-rid-of-racial-covenants/</loc>
+        <loc>https://majordigest.com/news/2023/08/25/npr-trump-trial-judge-tanya-chulkan/</loc>
         <news:news>
           <news:publication>
             <news:name>Major Digest</news:name>
             <news:language>en</news:language>
           </news:publication>
-          <news:publication_date>2023-08-23T18:43:00.000Z</news:publication_date>
-          <news:title>Stearns County rejects plan to address racial covenants</news:title>
+          <news:publication_date>2023-08-25T09:00:00.000Z</news:publication_date>
+          <news:title>Judge in Trump trial has a tough sentencing record in Jan. 6 cases </news:title>
         </news:news>
         <image:image>
-          <image:loc>https://majordigest.com/news/2023/08/23/stearns-county-board-rejects-proposal-to-help-property-owners-get-rid-of-racial-covenants/stearns-county-board-rejects-proposal-to-help-property-owners-get-rid-of-racial-covenants.webp</image:loc>
+          <image:loc>https://majordigest.com/news/2023/08/25/npr-trump-trial-judge-tanya-chulkan/npr-trump-trial-judge-tanya-chulkan.webp</image:loc>
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/news/2023/08/25/ap-uk-russian-mercenary-chiefs-likely-death-could-destabilize-his-private-army/</loc>
+        <loc>https://majordigest.com/news/2023/08/22/europes-sweeping-rules-for-tech-giants-are-about-to-kick-in-heres-how-they-work/</loc>
         <news:news>
           <news:publication>
             <news:name>Major Digest</news:name>
             <news:language>en</news:language>
           </news:publication>
-          <news:publication_date>2023-08-25T21:49:57.000Z</news:publication_date>
-          <news:title>Kremlin denies role in plane crash believed to have killed Russian mercenary leader Prigozhin</news:title>
+          <news:publication_date>2023-08-22T06:19:57.000Z</news:publication_date>
+          <news:title>Europe's sweeping rules for tech giants have kicked in. Here's how they work</news:title>
         </news:news>
         <image:image>
-          <image:loc>https://majordigest.com/news/2023/08/25/ap-uk-russian-mercenary-chiefs-likely-death-could-destabilize-his-private-army/ap-uk-russian-mercenary-chiefs-likely-death-could-destabilize-his-private-army.webp</image:loc>
+          <image:loc>https://majordigest.com/news/2023/08/22/europes-sweeping-rules-for-tech-giants-are-about-to-kick-in-heres-how-they-work/europes-sweeping-rules-for-tech-giants-are-about-to-kick-in-heres-how-they-work.webp</image:loc>
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/news/2023/08/25/angels-shohei-ohtani-batting-as-designated-hitter-vs-mets-after-tearing-elbow-ligament/</loc>
+        <loc>https://majordigest.com/news/2023/08/25/49ers-trade-quarterback-trey-lance-to-cowboys-ap-source-says/</loc>
         <news:news>
           <news:publication>
             <news:name>Major Digest</news:name>
             <news:language>en</news:language>
           </news:publication>
-          <news:publication_date>2023-08-25T20:10:41.000Z</news:publication_date>
-          <news:title>Shohei Ohtani doubles to key 2-run inning as designated hitter vs Mets after tearing elbow ligament</news:title>
+          <news:publication_date>2023-08-25T23:36:33.000Z</news:publication_date>
+          <news:title>49ers trade quarterback Trey Lance to Cowboys for 4th round pick</news:title>
         </news:news>
         <image:image>
-          <image:loc>https://majordigest.com/news/2023/08/25/angels-shohei-ohtani-batting-as-designated-hitter-vs-mets-after-tearing-elbow-ligament/angels-shohei-ohtani-batting-as-designated-hitter-vs-mets-after-tearing-elbow-ligament.webp</image:loc>
+          <image:loc>https://majordigest.com/news/2023/08/25/49ers-trade-quarterback-trey-lance-to-cowboys-ap-source-says/49ers-trade-quarterback-trey-lance-to-cowboys-ap-source-says.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/news/2023/08/24/indias-lunar-rover-goes-down-a-ramp-to-the-moons-surface-and-takes-a-walk/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-24T15:00:01.000Z</news:publication_date>
+          <news:title>India's lunar rover goes down a ramp to the moon's surface and takes a walk</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/news/2023/08/24/indias-lunar-rover-goes-down-a-ramp-to-the-moons-surface-and-takes-a-walk/indias-lunar-rover-goes-down-a-ramp-to-the-moons-surface-and-takes-a-walk.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/news/2023/08/26/pham-loses-homer-on-bizarre-fan-interference-diamondbacks-beat-reds-10-8/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-26T04:51:32.000Z</news:publication_date>
+          <news:title>Pham loses homer on bizarre fan interference, Diamondbacks beat Reds 10-8</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/news/2023/08/26/pham-loses-homer-on-bizarre-fan-interference-diamondbacks-beat-reds-10-8/pham-loses-homer-on-bizarre-fan-interference-diamondbacks-beat-reds-10-8.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/news/2023/08/24/doj-sues-spacex-asylees/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-24T18:35:38.000Z</news:publication_date>
+          <news:title>DOJ sues SpaceX for allegedly not hiring asylees, refugees</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/news/2023/08/24/doj-sues-spacex-asylees/doj-sues-spacex-asylees.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/news/2023/08/21/ap-spain-wins-its-first-womens-world-cup-title-beating-england-1-0-in-the-final/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-21T01:48:26.000Z</news:publication_date>
+          <news:title>From turmoil to triumph, Spain earns its first Women's World Cup title with a 1-0 win over England</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/news/2023/08/21/ap-spain-wins-its-first-womens-world-cup-title-beating-england-1-0-in-the-final/ap-spain-wins-its-first-womens-world-cup-title-beating-england-1-0-in-the-final.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/news/2023/08/24/4167113-ohio-court-system-trading-ankle-bracelets-for-smartwatches/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-24T10:55:58.000Z</news:publication_date>
+          <news:title>Ohio court system trading ankle bracelets for smartwatches</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/news/2023/08/24/4167113-ohio-court-system-trading-ankle-bracelets-for-smartwatches/4167113-ohio-court-system-trading-ankle-bracelets-for-smartwatches.webp</image:loc>
         </image:image>
       </url></urlset>
