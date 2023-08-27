@@ -3,6 +3,34 @@
               xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
               xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
       <url>
+        <loc>https://majordigest.com/politics/2023/08/23/thc-gummy-money-starts-rolling-into-minnesota-tax-coffers/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-23T16:29:00.000Z</news:publication_date>
+          <news:title>THC gummy money starts to roll into Minnesota tax coffers</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/politics/2023/08/23/thc-gummy-money-starts-rolling-into-minnesota-tax-coffers/thc-gummy-money-starts-rolling-into-minnesota-tax-coffers.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/politics/2023/08/23/stearns-county-board-rejects-proposal-to-help-property-owners-get-rid-of-racial-covenants/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-23T18:43:00.000Z</news:publication_date>
+          <news:title>Stearns County rejects plan to address racial covenants</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/politics/2023/08/23/stearns-county-board-rejects-proposal-to-help-property-owners-get-rid-of-racial-covenants/stearns-county-board-rejects-proposal-to-help-property-owners-get-rid-of-racial-covenants.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
         <loc>https://majordigest.com/politics/2023/08/24/trump-is-set-to-surrender-at-a-georgia-jail-on-2020-election-charges/</loc>
         <news:news>
           <news:publication>
@@ -17,59 +45,31 @@
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/politics/2023/08/24/trump-expected-to-surrender-at-fulton-county-jail-live-updates/</loc>
+        <loc>https://majordigest.com/politics/2023/08/24/us-postal-service-to-unveil-stamp-honoring-ruth-bader-ginsburg/</loc>
         <news:news>
           <news:publication>
             <news:name>Major Digest</news:name>
             <news:language>en</news:language>
           </news:publication>
-          <news:publication_date>2023-08-24T19:08:14.000Z</news:publication_date>
-          <news:title>Trump surrenders for historic fourth arrest: see updates</news:title>
+          <news:publication_date>2023-08-24T21:06:03.000Z</news:publication_date>
+          <news:title>US Postal Service to unveil stamp honoring Ruth Bader Ginsburg</news:title>
         </news:news>
         <image:image>
-          <image:loc>https://majordigest.com/politics/2023/08/24/trump-expected-to-surrender-at-fulton-county-jail-live-updates/trump-expected-to-surrender-at-fulton-county-jail-live-updates.webp</image:loc>
+          <image:loc>https://majordigest.com/politics/2023/08/24/us-postal-service-to-unveil-stamp-honoring-ruth-bader-ginsburg/us-postal-service-to-unveil-stamp-honoring-ruth-bader-ginsburg.webp</image:loc>
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/politics/2023/08/24/military-fight-drug-cartels/</loc>
+        <loc>https://majordigest.com/politics/2023/08/23/north-dakota-gov-burgum-may-miss-gop-presidential-debate-basketball-injury/</loc>
         <news:news>
           <news:publication>
             <news:name>Major Digest</news:name>
             <news:language>en</news:language>
           </news:publication>
-          <news:publication_date>2023-08-24T22:03:24.000Z</news:publication_date>
-          <news:title>How would the US military fight drug cartels, and would it work?</news:title>
+          <news:publication_date>2023-08-23T16:38:49.000Z</news:publication_date>
+          <news:title>North Dakota Gov. Burgum may miss GOP presidential debate after hurting himself playing basketball</news:title>
         </news:news>
         <image:image>
-          <image:loc>https://majordigest.com/politics/2023/08/24/military-fight-drug-cartels/military-fight-drug-cartels.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/politics/2023/08/25/texas-trial-over-biden-policy-letting-migrants-from-4-countries-into-us-to-wrap-up-friday/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-25T11:13:19.000Z</news:publication_date>
-          <news:title>Judge asks if poverty qualifies for Biden policy letting migrants from 4 countries into US</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/politics/2023/08/25/texas-trial-over-biden-policy-letting-migrants-from-4-countries-into-us-to-wrap-up-friday/texas-trial-over-biden-policy-letting-migrants-from-4-countries-into-us-to-wrap-up-friday.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/politics/2023/08/23/vivek-ramaswamy-republican-candidate-profile/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-23T09:00:00.000Z</news:publication_date>
-          <news:title>The Astonishing, Unexpected and Completely Modern Rise of Vivek Ramaswamy</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/politics/2023/08/23/vivek-ramaswamy-republican-candidate-profile/vivek-ramaswamy-republican-candidate-profile.webp</image:loc>
+          <image:loc>https://majordigest.com/politics/2023/08/23/north-dakota-gov-burgum-may-miss-gop-presidential-debate-basketball-injury/north-dakota-gov-burgum-may-miss-gop-presidential-debate-basketball-injury.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -87,45 +87,31 @@
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/politics/2023/08/23/thc-gummy-money-starts-rolling-into-minnesota-tax-coffers/</loc>
+        <loc>https://majordigest.com/politics/2023/08/25/judge-temporarily-blocks-texas-ban-on-puberty-blockers-and-hormone-therapy-for-trans-kids/</loc>
         <news:news>
           <news:publication>
             <news:name>Major Digest</news:name>
             <news:language>en</news:language>
           </news:publication>
-          <news:publication_date>2023-08-23T16:29:00.000Z</news:publication_date>
-          <news:title>THC gummy money starts to roll into Minnesota tax coffers</news:title>
+          <news:publication_date>2023-08-25T20:46:43.000Z</news:publication_date>
+          <news:title>Texas ban on puberty blockers and hormone therapy for trans kids will go into effect despite legal fight</news:title>
         </news:news>
         <image:image>
-          <image:loc>https://majordigest.com/politics/2023/08/23/thc-gummy-money-starts-rolling-into-minnesota-tax-coffers/thc-gummy-money-starts-rolling-into-minnesota-tax-coffers.webp</image:loc>
+          <image:loc>https://majordigest.com/politics/2023/08/25/judge-temporarily-blocks-texas-ban-on-puberty-blockers-and-hormone-therapy-for-trans-kids/judge-temporarily-blocks-texas-ban-on-puberty-blockers-and-hormone-therapy-for-trans-kids.webp</image:loc>
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/politics/2023/08/21/assemblywoman-heidi-kasama-joins-republican-challengers-for-lees-seat-in-congress/</loc>
+        <loc>https://majordigest.com/politics/2023/08/24/ramaswamys-debate-performance-fuels-veepstakes-talk/</loc>
         <news:news>
           <news:publication>
             <news:name>Major Digest</news:name>
             <news:language>en</news:language>
           </news:publication>
-          <news:publication_date>2023-08-21T19:16:18.000Z</news:publication_date>
-          <news:title>Assemblywoman Heidi Kasama joins Republican challengers for Lee's seat in Congress</news:title>
+          <news:publication_date>2023-08-24T17:43:00.000Z</news:publication_date>
+          <news:title>'Big possibility': Ramaswamy's debate performance fuels veepstakes talk</news:title>
         </news:news>
         <image:image>
-          <image:loc>https://majordigest.com/politics/2023/08/21/assemblywoman-heidi-kasama-joins-republican-challengers-for-lees-seat-in-congress/assemblywoman-heidi-kasama-joins-republican-challengers-for-lees-seat-in-congress.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/politics/2023/08/24/ap-former-ap-transportation-writer-joan-lowy-dies-at-66/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-24T23:08:17.000Z</news:publication_date>
-          <news:title>Former AP transportation writer Joan Lowy dies at 66</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/politics/2023/08/24/ap-former-ap-transportation-writer-joan-lowy-dies-at-66/ap-former-ap-transportation-writer-joan-lowy-dies-at-66.webp</image:loc>
+          <image:loc>https://majordigest.com/politics/2023/08/24/ramaswamys-debate-performance-fuels-veepstakes-talk/ramaswamys-debate-performance-fuels-veepstakes-talk.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -143,59 +129,17 @@
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/politics/2023/08/24/6-american-mayors-who-were-convicted-of-crimes/</loc>
+        <loc>https://majordigest.com/politics/2023/08/26/mccarthy-us-capitol-flags-lowered-half-staff-honors-lives-lost-afghanistan-evacuation/</loc>
         <news:news>
           <news:publication>
             <news:name>Major Digest</news:name>
             <news:language>en</news:language>
           </news:publication>
-          <news:publication_date>2023-08-24T21:01:18.000Z</news:publication_date>
-          <news:title>6 American mayors who were convicted of crimes</news:title>
+          <news:publication_date>2023-08-26T22:52:39.000Z</news:publication_date>
+          <news:title>McCarthy has US Capitol flags lowered half-staff, honors 13 lives lost in Afghanistan evacuation</news:title>
         </news:news>
         <image:image>
-          <image:loc>https://majordigest.com/politics/2023/08/24/6-american-mayors-who-were-convicted-of-crimes/6-american-mayors-who-were-convicted-of-crimes.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/politics/2023/08/24/trump-supporters-gather-outside-georgia-jail-where-he-is-expected-to-surrender/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-24T19:55:06.000Z</news:publication_date>
-          <news:title>Trump supporters gather outside Georgia jail where he is expected to surrender</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/politics/2023/08/24/trump-supporters-gather-outside-georgia-jail-where-he-is-expected-to-surrender/trump-supporters-gather-outside-georgia-jail-where-he-is-expected-to-surrender.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/politics/2023/08/24/california-bill-proposes-new-state-agency-to-handle-reparations-for-black-residents/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-24T03:28:41.000Z</news:publication_date>
-          <news:title>California bill proposes new state agency to handle reparations for Black residents</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/politics/2023/08/24/california-bill-proposes-new-state-agency-to-handle-reparations-for-black-residents/california-bill-proposes-new-state-agency-to-handle-reparations-for-black-residents.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/politics/2023/08/25/trump-and-all-18-others-charged-in-georgia-election-case-meet-the-deadline-to-surrender-at-jail/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-25T16:08:21.000Z</news:publication_date>
-          <news:title>Trump and all 18 others charged in Georgia election case meet the deadline to surrender at jail</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/politics/2023/08/25/trump-and-all-18-others-charged-in-georgia-election-case-meet-the-deadline-to-surrender-at-jail/trump-and-all-18-others-charged-in-georgia-election-case-meet-the-deadline-to-surrender-at-jail.webp</image:loc>
+          <image:loc>https://majordigest.com/politics/2023/08/26/mccarthy-us-capitol-flags-lowered-half-staff-honors-lives-lost-afghanistan-evacuation/mccarthy-us-capitol-flags-lowered-half-staff-honors-lives-lost-afghanistan-evacuation.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -213,17 +157,87 @@
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/politics/2023/08/23/walz-picks-natalie-hudson-as-new-minnesota-chief-justice/</loc>
+        <loc>https://majordigest.com/politics/2023/08/24/california-bill-proposes-new-state-agency-to-handle-reparations-for-black-residents/</loc>
         <news:news>
           <news:publication>
             <news:name>Major Digest</news:name>
             <news:language>en</news:language>
           </news:publication>
-          <news:publication_date>2023-08-23T11:18:00.000Z</news:publication_date>
-          <news:title>Walz picks Natalie Hudson as new Minnesota chief justice</news:title>
+          <news:publication_date>2023-08-24T03:28:41.000Z</news:publication_date>
+          <news:title>California bill proposes new state agency to handle reparations for Black residents</news:title>
         </news:news>
         <image:image>
-          <image:loc>https://majordigest.com/politics/2023/08/23/walz-picks-natalie-hudson-as-new-minnesota-chief-justice/walz-picks-natalie-hudson-as-new-minnesota-chief-justice.webp</image:loc>
+          <image:loc>https://majordigest.com/politics/2023/08/24/california-bill-proposes-new-state-agency-to-handle-reparations-for-black-residents/california-bill-proposes-new-state-agency-to-handle-reparations-for-black-residents.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/politics/2023/08/24/spacex-discrimination-complaint/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-24T18:13:06.000Z</news:publication_date>
+          <news:title>Feds accuse SpaceX of discrimination against asylum recipients and refugees</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/politics/2023/08/24/spacex-discrimination-complaint/spacex-discrimination-complaint.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/politics/2023/08/24/veterans-disability-claims-glitch/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-24T20:59:45.000Z</news:publication_date>
+          <news:title>Thousands of veterans' disability claims delayed, some for years</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/politics/2023/08/24/veterans-disability-claims-glitch/veterans-disability-claims-glitch.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/politics/2023/08/24/ap-pence-says-elections-are-about-choices-after-combative-first-debate-performance/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-24T21:08:55.000Z</news:publication_date>
+          <news:title>Pence says 'elections are about choices' after combative first debate performance</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/politics/2023/08/24/ap-pence-says-elections-are-about-choices-after-combative-first-debate-performance/ap-pence-says-elections-are-about-choices-after-combative-first-debate-performance.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/politics/2023/08/24/rep-mike-levin-makes-stop-in-encinitas-to-talk-climate-following-first-tropical-storm-in-decades/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-24T05:49:14.000Z</news:publication_date>
+          <news:title>Rep. Mike Levin makes stop in Encinitas to talk climate following first tropical storm in decades</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/politics/2023/08/24/rep-mike-levin-makes-stop-in-encinitas-to-talk-climate-following-first-tropical-storm-in-decades/rep-mike-levin-makes-stop-in-encinitas-to-talk-climate-following-first-tropical-storm-in-decades.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/politics/2023/08/24/pressure-mounts-on-texas-senators-ahead-of-ken-paxton-impeachment-trial/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-24T22:45:45.000Z</news:publication_date>
+          <news:title>Pressure mounts on Texas senators ahead of Ken Paxton impeachment trial</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/politics/2023/08/24/pressure-mounts-on-texas-senators-ahead-of-ken-paxton-impeachment-trial/pressure-mounts-on-texas-senators-ahead-of-ken-paxton-impeachment-trial.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -241,59 +255,87 @@
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/politics/2023/08/27/trump-campaign-raises-million-fundraising-mugshot-taken-thursday-fox-news-confirms/</loc>
+        <loc>https://majordigest.com/politics/2023/08/23/georgia-trump-racketeering-case-state-court/</loc>
         <news:news>
           <news:publication>
             <news:name>Major Digest</news:name>
             <news:language>en</news:language>
           </news:publication>
-          <news:publication_date>2023-08-27T01:36:38.000Z</news:publication_date>
-          <news:title>Trump campaign raises $7.1 million in fundraising since mugshot was taken Thursday, Fox News confirms</news:title>
+          <news:publication_date>2023-08-23T19:29:41.000Z</news:publication_date>
+          <news:title>Federal judge rejects bids to halt Georgia prosecution of Trump aides over 2020 election</news:title>
         </news:news>
         <image:image>
-          <image:loc>https://majordigest.com/politics/2023/08/27/trump-campaign-raises-million-fundraising-mugshot-taken-thursday-fox-news-confirms/trump-campaign-raises-million-fundraising-mugshot-taken-thursday-fox-news-confirms.webp</image:loc>
+          <image:loc>https://majordigest.com/politics/2023/08/23/georgia-trump-racketeering-case-state-court/georgia-trump-racketeering-case-state-court.webp</image:loc>
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/politics/2023/08/24/ap-campaign-money-flows-to-gop-presidential-candidates-after-their-debate-ramaswamy-raises-450000/</loc>
+        <loc>https://majordigest.com/politics/2023/08/24/apple-backs-californias-right-to-repair-bill-in-major-policy-shift/</loc>
         <news:news>
           <news:publication>
             <news:name>Major Digest</news:name>
             <news:language>en</news:language>
           </news:publication>
-          <news:publication_date>2023-08-24T22:19:14.000Z</news:publication_date>
-          <news:title>Ramaswamy raises $450,000 in first hours after Republican debate as campaigns try to seize momentum</news:title>
+          <news:publication_date>2023-08-24T21:36:45.000Z</news:publication_date>
+          <news:title>Apple backs California's 'Right to Repair' bill in major policy shift</news:title>
         </news:news>
         <image:image>
-          <image:loc>https://majordigest.com/politics/2023/08/24/ap-campaign-money-flows-to-gop-presidential-candidates-after-their-debate-ramaswamy-raises-450000/ap-campaign-money-flows-to-gop-presidential-candidates-after-their-debate-ramaswamy-raises-450000.webp</image:loc>
+          <image:loc>https://majordigest.com/politics/2023/08/24/apple-backs-californias-right-to-repair-bill-in-major-policy-shift/apple-backs-californias-right-to-repair-bill-in-major-policy-shift.webp</image:loc>
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/politics/2023/08/21/biden-campaign-launches-25m-ad-buy-in-battleground-states-including-nevada/</loc>
+        <loc>https://majordigest.com/politics/2023/08/24/trump-supporters-gather-outside-georgia-jail-where-he-is-expected-to-surrender/</loc>
         <news:news>
           <news:publication>
             <news:name>Major Digest</news:name>
             <news:language>en</news:language>
           </news:publication>
-          <news:publication_date>2023-08-21T19:47:58.000Z</news:publication_date>
-          <news:title>Biden campaign launches $25M ad buy in battleground states, including Nevada</news:title>
+          <news:publication_date>2023-08-24T19:55:06.000Z</news:publication_date>
+          <news:title>Trump supporters gather outside Georgia jail where he is expected to surrender</news:title>
         </news:news>
         <image:image>
-          <image:loc>https://majordigest.com/politics/2023/08/21/biden-campaign-launches-25m-ad-buy-in-battleground-states-including-nevada/biden-campaign-launches-25m-ad-buy-in-battleground-states-including-nevada.webp</image:loc>
+          <image:loc>https://majordigest.com/politics/2023/08/24/trump-supporters-gather-outside-georgia-jail-where-he-is-expected-to-surrender/trump-supporters-gather-outside-georgia-jail-where-he-is-expected-to-surrender.webp</image:loc>
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/politics/2023/08/24/ostrich-egg-stunt-pits-tennessee-house-senate-republicans-against-each-other/</loc>
+        <loc>https://majordigest.com/politics/2023/08/25/trump-and-all-18-others-charged-in-georgia-election-case-meet-the-deadline-to-surrender-at-jail/</loc>
         <news:news>
           <news:publication>
             <news:name>Major Digest</news:name>
             <news:language>en</news:language>
           </news:publication>
-          <news:publication_date>2023-08-24T19:56:49.000Z</news:publication_date>
-          <news:title>Ostrich egg stunt pits Tennessee House, Senate Republicans against each other</news:title>
+          <news:publication_date>2023-08-25T16:08:21.000Z</news:publication_date>
+          <news:title>Trump and all 18 others charged in Georgia election case meet the deadline to surrender at jail</news:title>
         </news:news>
         <image:image>
-          <image:loc>https://majordigest.com/politics/2023/08/24/ostrich-egg-stunt-pits-tennessee-house-senate-republicans-against-each-other/ostrich-egg-stunt-pits-tennessee-house-senate-republicans-against-each-other.webp</image:loc>
+          <image:loc>https://majordigest.com/politics/2023/08/25/trump-and-all-18-others-charged-in-georgia-election-case-meet-the-deadline-to-surrender-at-jail/trump-and-all-18-others-charged-in-georgia-election-case-meet-the-deadline-to-surrender-at-jail.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/politics/2023/08/21/assemblywoman-heidi-kasama-joins-republican-challengers-for-lees-seat-in-congress/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-21T19:16:18.000Z</news:publication_date>
+          <news:title>Assemblywoman Heidi Kasama joins Republican challengers for Lee's seat in Congress</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/politics/2023/08/21/assemblywoman-heidi-kasama-joins-republican-challengers-for-lees-seat-in-congress/assemblywoman-heidi-kasama-joins-republican-challengers-for-lees-seat-in-congress.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/politics/2023/08/26/biden-admin-launches-push-expand-voter-registration-citizenship-ceremonies/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-26T20:53:41.000Z</news:publication_date>
+          <news:title>Biden admin launches push to expand voter registration at citizenship ceremonies</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/politics/2023/08/26/biden-admin-launches-push-expand-voter-registration-citizenship-ceremonies/biden-admin-launches-push-expand-voter-registration-citizenship-ceremonies.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -325,73 +367,59 @@
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/politics/2023/08/25/texans-asked-to-conserve-energy-for-a-third-time-this-week/</loc>
+        <loc>https://majordigest.com/politics/2023/08/25/texas-trial-over-biden-policy-letting-migrants-from-4-countries-into-us-to-wrap-up-friday/</loc>
         <news:news>
           <news:publication>
             <news:name>Major Digest</news:name>
             <news:language>en</news:language>
           </news:publication>
-          <news:publication_date>2023-08-25T18:06:40.000Z</news:publication_date>
-          <news:title>Texans asked to conserve energy for fifth time in 10 days</news:title>
+          <news:publication_date>2023-08-25T11:13:19.000Z</news:publication_date>
+          <news:title>Judge asks if poverty qualifies for Biden policy letting migrants from 4 countries into US</news:title>
         </news:news>
         <image:image>
-          <image:loc>https://majordigest.com/politics/2023/08/25/texans-asked-to-conserve-energy-for-a-third-time-this-week/texans-asked-to-conserve-energy-for-a-third-time-this-week.webp</image:loc>
+          <image:loc>https://majordigest.com/politics/2023/08/25/texas-trial-over-biden-policy-letting-migrants-from-4-countries-into-us-to-wrap-up-friday/texas-trial-over-biden-policy-letting-migrants-from-4-countries-into-us-to-wrap-up-friday.webp</image:loc>
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/politics/2023/08/25/harris-praises-2022-wnba-champion-las-vegas-aces-for-grit-and-determination-on-and-off-court/</loc>
+        <loc>https://majordigest.com/politics/2023/08/24/6-american-mayors-who-were-convicted-of-crimes/</loc>
         <news:news>
           <news:publication>
             <news:name>Major Digest</news:name>
             <news:language>en</news:language>
           </news:publication>
-          <news:publication_date>2023-08-25T16:54:28.000Z</news:publication_date>
-          <news:title>Harris praises 2022 WNBA champion Las Vegas Aces for 'grit and determination' on and off court</news:title>
+          <news:publication_date>2023-08-24T21:01:18.000Z</news:publication_date>
+          <news:title>6 American mayors who were convicted of crimes</news:title>
         </news:news>
         <image:image>
-          <image:loc>https://majordigest.com/politics/2023/08/25/harris-praises-2022-wnba-champion-las-vegas-aces-for-grit-and-determination-on-and-off-court/harris-praises-2022-wnba-champion-las-vegas-aces-for-grit-and-determination-on-and-off-court.webp</image:loc>
+          <image:loc>https://majordigest.com/politics/2023/08/24/6-american-mayors-who-were-convicted-of-crimes/6-american-mayors-who-were-convicted-of-crimes.webp</image:loc>
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/politics/2023/08/23/georgia-trump-racketeering-case-state-court/</loc>
+        <loc>https://majordigest.com/politics/2023/08/23/npr-republican-debate-milwaukee-trump-desantis-fox-news-gop-primary/</loc>
         <news:news>
           <news:publication>
             <news:name>Major Digest</news:name>
             <news:language>en</news:language>
           </news:publication>
-          <news:publication_date>2023-08-23T19:29:41.000Z</news:publication_date>
-          <news:title>Federal judge rejects bids to halt Georgia prosecution of Trump aides over 2020 election</news:title>
+          <news:publication_date>2023-08-23T09:01:00.000Z</news:publication_date>
+          <news:title>5 questions ahead of the first GOP primary debate of the 2024 election cycle</news:title>
         </news:news>
         <image:image>
-          <image:loc>https://majordigest.com/politics/2023/08/23/georgia-trump-racketeering-case-state-court/georgia-trump-racketeering-case-state-court.webp</image:loc>
+          <image:loc>https://majordigest.com/politics/2023/08/23/npr-republican-debate-milwaukee-trump-desantis-fox-news-gop-primary/npr-republican-debate-milwaukee-trump-desantis-fox-news-gop-primary.webp</image:loc>
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/politics/2023/08/24/spacex-discrimination-complaint/</loc>
+        <loc>https://majordigest.com/politics/2023/08/27/trump-campaign-raises-million-fundraising-mugshot-taken-thursday-fox-news-confirms/</loc>
         <news:news>
           <news:publication>
             <news:name>Major Digest</news:name>
             <news:language>en</news:language>
           </news:publication>
-          <news:publication_date>2023-08-24T18:13:06.000Z</news:publication_date>
-          <news:title>Feds accuse SpaceX of discrimination against asylum recipients and refugees</news:title>
+          <news:publication_date>2023-08-27T01:36:38.000Z</news:publication_date>
+          <news:title>Trump campaign raises $7.1 million in fundraising since mugshot was taken Thursday, Fox News confirms</news:title>
         </news:news>
         <image:image>
-          <image:loc>https://majordigest.com/politics/2023/08/24/spacex-discrimination-complaint/spacex-discrimination-complaint.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/politics/2023/08/26/ramaswamy-faces-curiosity-and-skepticism-in-iowa-after-center-stage-performance-in-gop-debate/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-26T04:04:15.000Z</news:publication_date>
-          <news:title>Ramaswamy faces curiosity and skepticism in Iowa after center-stage performance in GOP debate</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/politics/2023/08/26/ramaswamy-faces-curiosity-and-skepticism-in-iowa-after-center-stage-performance-in-gop-debate/ramaswamy-faces-curiosity-and-skepticism-in-iowa-after-center-stage-performance-in-gop-debate.webp</image:loc>
+          <image:loc>https://majordigest.com/politics/2023/08/27/trump-campaign-raises-million-fundraising-mugshot-taken-thursday-fox-news-confirms/trump-campaign-raises-million-fundraising-mugshot-taken-thursday-fox-news-confirms.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -409,59 +437,73 @@
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/politics/2023/08/25/biden-and-harris-will-meet-with-the-king-family-on-the-60th-anniversary-of-the-march-on-washington/</loc>
+        <loc>https://majordigest.com/politics/2023/08/25/trump-posts-x-twitter/</loc>
         <news:news>
           <news:publication>
             <news:name>Major Digest</news:name>
             <news:language>en</news:language>
           </news:publication>
-          <news:publication_date>2023-08-25T10:13:52.000Z</news:publication_date>
-          <news:title>Biden and Harris will meet with King's family on the March on Washington's 60th anniversary</news:title>
+          <news:publication_date>2023-08-25T02:22:31.000Z</news:publication_date>
+          <news:title>Trump posts on X for first time in over 2 years</news:title>
         </news:news>
         <image:image>
-          <image:loc>https://majordigest.com/politics/2023/08/25/biden-and-harris-will-meet-with-the-king-family-on-the-60th-anniversary-of-the-march-on-washington/biden-and-harris-will-meet-with-the-king-family-on-the-60th-anniversary-of-the-march-on-washington.webp</image:loc>
+          <image:loc>https://majordigest.com/politics/2023/08/25/trump-posts-x-twitter/trump-posts-x-twitter.webp</image:loc>
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/politics/2023/08/24/ramaswamys-debate-performance-fuels-veepstakes-talk/</loc>
+        <loc>https://majordigest.com/politics/2023/08/26/ramaswamy-faces-curiosity-and-skepticism-in-iowa-after-center-stage-performance-in-gop-debate/</loc>
         <news:news>
           <news:publication>
             <news:name>Major Digest</news:name>
             <news:language>en</news:language>
           </news:publication>
-          <news:publication_date>2023-08-24T17:43:00.000Z</news:publication_date>
-          <news:title>'Big possibility': Ramaswamy's debate performance fuels veepstakes talk</news:title>
+          <news:publication_date>2023-08-26T04:04:15.000Z</news:publication_date>
+          <news:title>Ramaswamy faces curiosity and skepticism in Iowa after center-stage performance in GOP debate</news:title>
         </news:news>
         <image:image>
-          <image:loc>https://majordigest.com/politics/2023/08/24/ramaswamys-debate-performance-fuels-veepstakes-talk/ramaswamys-debate-performance-fuels-veepstakes-talk.webp</image:loc>
+          <image:loc>https://majordigest.com/politics/2023/08/26/ramaswamy-faces-curiosity-and-skepticism-in-iowa-after-center-stage-performance-in-gop-debate/ramaswamy-faces-curiosity-and-skepticism-in-iowa-after-center-stage-performance-in-gop-debate.webp</image:loc>
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/politics/2023/08/24/veterans-disability-claims-glitch/</loc>
+        <loc>https://majordigest.com/politics/2023/08/24/trump-expected-to-surrender-at-fulton-county-jail-live-updates/</loc>
         <news:news>
           <news:publication>
             <news:name>Major Digest</news:name>
             <news:language>en</news:language>
           </news:publication>
-          <news:publication_date>2023-08-24T20:59:45.000Z</news:publication_date>
-          <news:title>Thousands of veterans' disability claims delayed, some for years</news:title>
+          <news:publication_date>2023-08-24T19:08:14.000Z</news:publication_date>
+          <news:title>Trump surrenders for historic fourth arrest: see updates</news:title>
         </news:news>
         <image:image>
-          <image:loc>https://majordigest.com/politics/2023/08/24/veterans-disability-claims-glitch/veterans-disability-claims-glitch.webp</image:loc>
+          <image:loc>https://majordigest.com/politics/2023/08/24/trump-expected-to-surrender-at-fulton-county-jail-live-updates/trump-expected-to-surrender-at-fulton-county-jail-live-updates.webp</image:loc>
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/politics/2023/08/24/ap-democrats-in-pennsylvania-want-to-keep-a-supreme-court-majority-theyre-talking-up-abortion-rights/</loc>
+        <loc>https://majordigest.com/politics/2023/08/24/ap-former-ap-transportation-writer-joan-lowy-dies-at-66/</loc>
         <news:news>
           <news:publication>
             <news:name>Major Digest</news:name>
             <news:language>en</news:language>
           </news:publication>
-          <news:publication_date>2023-08-24T21:25:42.000Z</news:publication_date>
-          <news:title>Democrats in Pennsylvania want to keep a Supreme Court majority. They are talking up abortion rights</news:title>
+          <news:publication_date>2023-08-24T23:08:17.000Z</news:publication_date>
+          <news:title>Former AP transportation writer Joan Lowy dies at 66</news:title>
         </news:news>
         <image:image>
-          <image:loc>https://majordigest.com/politics/2023/08/24/ap-democrats-in-pennsylvania-want-to-keep-a-supreme-court-majority-theyre-talking-up-abortion-rights/ap-democrats-in-pennsylvania-want-to-keep-a-supreme-court-majority-theyre-talking-up-abortion-rights.webp</image:loc>
+          <image:loc>https://majordigest.com/politics/2023/08/24/ap-former-ap-transportation-writer-joan-lowy-dies-at-66/ap-former-ap-transportation-writer-joan-lowy-dies-at-66.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/politics/2023/08/24/ap-us-will-start-training-ukrainian-pilots-on-f-16s-at-air-base-in-arizona/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-24T23:46:10.000Z</news:publication_date>
+          <news:title>US will start training Ukrainian pilots on F-16s at air base in Arizona</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/politics/2023/08/24/ap-us-will-start-training-ukrainian-pilots-on-f-16s-at-air-base-in-arizona/ap-us-will-start-training-ukrainian-pilots-on-f-16s-at-air-base-in-arizona.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -476,47 +518,5 @@
         </news:news>
         <image:image>
           <image:loc>https://majordigest.com/politics/2023/08/27/former-top-ukraine-prosecutor-comes-out-swinging-against-joe-hunter-biden-exclusive-interview/former-top-ukraine-prosecutor-comes-out-swinging-against-joe-hunter-biden-exclusive-interview.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/politics/2023/08/26/mccarthy-us-capitol-flags-lowered-half-staff-honors-lives-lost-afghanistan-evacuation/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-26T22:52:39.000Z</news:publication_date>
-          <news:title>McCarthy has US Capitol flags lowered half-staff, honors 13 lives lost in Afghanistan evacuation</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/politics/2023/08/26/mccarthy-us-capitol-flags-lowered-half-staff-honors-lives-lost-afghanistan-evacuation/mccarthy-us-capitol-flags-lowered-half-staff-honors-lives-lost-afghanistan-evacuation.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/politics/2023/08/24/rep-mike-levin-makes-stop-in-encinitas-to-talk-climate-following-first-tropical-storm-in-decades/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-24T05:49:14.000Z</news:publication_date>
-          <news:title>Rep. Mike Levin makes stop in Encinitas to talk climate following first tropical storm in decades</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/politics/2023/08/24/rep-mike-levin-makes-stop-in-encinitas-to-talk-climate-following-first-tropical-storm-in-decades/rep-mike-levin-makes-stop-in-encinitas-to-talk-climate-following-first-tropical-storm-in-decades.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/politics/2023/08/25/judge-temporarily-blocks-texas-ban-on-puberty-blockers-and-hormone-therapy-for-trans-kids/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-25T20:46:43.000Z</news:publication_date>
-          <news:title>Texas ban on puberty blockers and hormone therapy for trans kids will go into effect despite legal fight</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/politics/2023/08/25/judge-temporarily-blocks-texas-ban-on-puberty-blockers-and-hormone-therapy-for-trans-kids/judge-temporarily-blocks-texas-ban-on-puberty-blockers-and-hormone-therapy-for-trans-kids.webp</image:loc>
         </image:image>
       </url></urlset>
