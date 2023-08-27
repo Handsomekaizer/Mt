@@ -3,17 +3,87 @@
               xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
               xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
       <url>
-        <loc>https://majordigest.com/sports/2023/08/27/ap-victor-kiplangat-of-uganda-pulls-away-late-to-win-mens-marathon-on-last-day-at-worlds/</loc>
+        <loc>https://majordigest.com/sports/2023/08/27/ap-roberto-mancini-appointed-saudi-arabia-coach-2-weeks-after-quitting-job-in-charge-of-italy/</loc>
         <news:news>
           <news:publication>
             <news:name>Major Digest</news:name>
             <news:language>en</news:language>
           </news:publication>
-          <news:publication_date>2023-08-27T20:35:50.000Z</news:publication_date>
-          <news:title>Ukrainian high jumper Mahuchikh takes gold in emotional close to world championships</news:title>
+          <news:publication_date>2023-08-27T22:07:46.000Z</news:publication_date>
+          <news:title>Roberto Mancini appointed Saudi Arabia coach 2 weeks after quitting job in charge of Italy</news:title>
         </news:news>
         <image:image>
-          <image:loc>https://majordigest.com/sports/2023/08/27/ap-victor-kiplangat-of-uganda-pulls-away-late-to-win-mens-marathon-on-last-day-at-worlds/ap-victor-kiplangat-of-uganda-pulls-away-late-to-win-mens-marathon-on-last-day-at-worlds.webp</image:loc>
+          <image:loc>https://majordigest.com/sports/2023/08/27/ap-roberto-mancini-appointed-saudi-arabia-coach-2-weeks-after-quitting-job-in-charge-of-italy/ap-roberto-mancini-appointed-saudi-arabia-coach-2-weeks-after-quitting-job-in-charge-of-italy.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/sports/2023/08/27/ap-california-wins-little-league-world-series-6-5-over-curacao-on-walk-off-homer/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-27T21:47:32.000Z</news:publication_date>
+          <news:title>California wins Little League World Series 6-5 over Curacao on walk-off homer</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/sports/2023/08/27/ap-california-wins-little-league-world-series-6-5-over-curacao-on-walk-off-homer/ap-california-wins-little-league-world-series-6-5-over-curacao-on-walk-off-homer.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/sports/2023/08/27/california-wins-little-league-world-series-6-5-over-curacao-on-walk-off-homer/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-27T21:47:31.000Z</news:publication_date>
+          <news:title>California wins Little League World Series 6-5 over Curacao on walk-off homer</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/sports/2023/08/27/california-wins-little-league-world-series-6-5-over-curacao-on-walk-off-homer/california-wins-little-league-world-series-6-5-over-curacao-on-walk-off-homer.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/sports/2023/08/27/el-segundo-12u-all-stars-win-little-league-world-series/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-27T21:43:45.000Z</news:publication_date>
+          <news:title>El Segundo 12U All Stars win Little League World Series&#160;</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/sports/2023/08/27/el-segundo-12u-all-stars-win-little-league-world-series/el-segundo-12u-all-stars-win-little-league-world-series.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/sports/2023/08/27/california-hits-walk-off-homer-win-little-league-world-series/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-27T21:29:46.000Z</news:publication_date>
+          <news:title>California hits walk-off home run to win Little League World Series</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/sports/2023/08/27/california-hits-walk-off-homer-win-little-league-world-series/california-hits-walk-off-homer-win-little-league-world-series.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/sports/2023/08/27/aew-star-cm-punk-poses-trans-rights-human-rights-sign-all-in-event/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-27T21:04:14.000Z</news:publication_date>
+          <news:title>AEW star CM Punk poses with 'trans rights are human rights' sign at All In event</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/sports/2023/08/27/aew-star-cm-punk-poses-trans-rights-human-rights-sign-all-in-event/aew-star-cm-punk-poses-trans-rights-human-rights-sign-all-in-event.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -31,59 +101,31 @@
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/sports/2023/08/27/ap-mookie-betts-caps-boston-return-with-another-homer-as-dodgers-beat-red-sox-7-4/</loc>
+        <loc>https://majordigest.com/sports/2023/08/27/mookie-betts-caps-boston-return-with-another-homer-as-dodgers-beat-red-sox-7-4/</loc>
         <news:news>
           <news:publication>
             <news:name>Major Digest</news:name>
             <news:language>en</news:language>
           </news:publication>
-          <news:publication_date>2023-08-27T20:28:04.000Z</news:publication_date>
+          <news:publication_date>2023-08-27T20:28:03.000Z</news:publication_date>
           <news:title>Mookie Betts caps Boston return with another homer as Dodgers beat Red Sox 7-4</news:title>
         </news:news>
         <image:image>
-          <image:loc>https://majordigest.com/sports/2023/08/27/ap-mookie-betts-caps-boston-return-with-another-homer-as-dodgers-beat-red-sox-7-4/ap-mookie-betts-caps-boston-return-with-another-homer-as-dodgers-beat-red-sox-7-4.webp</image:loc>
+          <image:loc>https://majordigest.com/sports/2023/08/27/mookie-betts-caps-boston-return-with-another-homer-as-dodgers-beat-red-sox-7-4/mookie-betts-caps-boston-return-with-another-homer-as-dodgers-beat-red-sox-7-4.webp</image:loc>
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/sports/2023/08/27/ap-one-week-after-sullying-the-womens-world-cup-luis-rubiales-is-now-a-spanish-soccer-outcast/</loc>
+        <loc>https://majordigest.com/sports/2023/08/27/tom-brady-explicit-message-cowboys-micah-parsons/</loc>
         <news:news>
           <news:publication>
             <news:name>Major Digest</news:name>
             <news:language>en</news:language>
           </news:publication>
-          <news:publication_date>2023-08-27T19:47:29.000Z</news:publication_date>
-          <news:title>One week after sullying the Women's World Cup, Luis Rubiales is now a Spanish soccer outcast</news:title>
+          <news:publication_date>2023-08-27T20:22:45.000Z</news:publication_date>
+          <news:title>Tom Brady has explicit message for Cowboys' Micah Parsons</news:title>
         </news:news>
         <image:image>
-          <image:loc>https://majordigest.com/sports/2023/08/27/ap-one-week-after-sullying-the-womens-world-cup-luis-rubiales-is-now-a-spanish-soccer-outcast/ap-one-week-after-sullying-the-womens-world-cup-luis-rubiales-is-now-a-spanish-soccer-outcast.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/sports/2023/08/27/nba-star-luka-doncic-startled-north-korea-rocket-launch-crazy/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-27T19:38:15.000Z</news:publication_date>
-          <news:title>NBA star Luka Doncic startled over North Korea rocket launch: 'It was crazy'</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/sports/2023/08/27/nba-star-luka-doncic-startled-north-korea-rocket-launch-crazy/nba-star-luka-doncic-startled-north-korea-rocket-launch-crazy.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/sports/2023/08/27/brittany-mahomes-blasts-critics-could-give-two-peoples-opinion-me/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-27T19:12:16.000Z</news:publication_date>
-          <news:title>Brittany Mahomes blasts critics: 'I could give two s---s about people&#8217;s opinion of me'</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/sports/2023/08/27/brittany-mahomes-blasts-critics-could-give-two-peoples-opinion-me/brittany-mahomes-blasts-critics-could-give-two-peoples-opinion-me.webp</image:loc>
+          <image:loc>https://majordigest.com/sports/2023/08/27/tom-brady-explicit-message-cowboys-micah-parsons/tom-brady-explicit-message-cowboys-micah-parsons.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -101,45 +143,17 @@
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/sports/2023/08/27/ap-verstappen-wins-rainy-dutch-gp-to-equal-vettels-f1-record-with-9th-straight-victory/</loc>
+        <loc>https://majordigest.com/sports/2023/08/27/dolphins-wr-daewood-davis-released-from-hospital-after-being-carted-off-with-injury-vs-jaguars/</loc>
         <news:news>
           <news:publication>
             <news:name>Major Digest</news:name>
             <news:language>en</news:language>
           </news:publication>
-          <news:publication_date>2023-08-27T17:22:54.000Z</news:publication_date>
-          <news:title>Verstappen wins rainy Dutch GP to equal Vettel's F1 record with 9th straight victory</news:title>
+          <news:publication_date>2023-08-27T15:42:41.000Z</news:publication_date>
+          <news:title>Dolphins WR Daewood Davis released from hospital after being carted off with injury vs. Jaguars</news:title>
         </news:news>
         <image:image>
-          <image:loc>https://majordigest.com/sports/2023/08/27/ap-verstappen-wins-rainy-dutch-gp-to-equal-vettels-f1-record-with-9th-straight-victory/ap-verstappen-wins-rainy-dutch-gp-to-equal-vettels-f1-record-with-9th-straight-victory.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/sports/2023/08/27/community-gathers-to-support-el-segundo-little-league-teams-world-series-championship-run/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-27T16:06:16.000Z</news:publication_date>
-          <news:title>Community gathers to support El Segundo Little League team&#8217;s World Series championship run&#160;</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/sports/2023/08/27/community-gathers-to-support-el-segundo-little-league-teams-world-series-championship-run/community-gathers-to-support-el-segundo-little-league-teams-world-series-championship-run.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/sports/2023/08/27/sports-illustrated-says-bucs-are-overmatched-this-year-predicts-team-to-win-2-out-of-17-games/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-27T16:05:36.000Z</news:publication_date>
-          <news:title>Sports Illustrated says Bucs are 'overmatched' this year, predicts team to win 2 out of 17 games</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/sports/2023/08/27/sports-illustrated-says-bucs-are-overmatched-this-year-predicts-team-to-win-2-out-of-17-games/sports-illustrated-says-bucs-are-overmatched-this-year-predicts-team-to-win-2-out-of-17-games.webp</image:loc>
+          <image:loc>https://majordigest.com/sports/2023/08/27/dolphins-wr-daewood-davis-released-from-hospital-after-being-carted-off-with-injury-vs-jaguars/dolphins-wr-daewood-davis-released-from-hospital-after-being-carted-off-with-injury-vs-jaguars.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -171,31 +185,31 @@
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/sports/2023/08/27/rsl-gets-shut-out-by-houston-3-0/</loc>
+        <loc>https://majordigest.com/sports/2023/08/27/one-week-after-sullying-the-womens-world-cup-luis-rubiales-is-now-a-spanish-soccer-outcast/</loc>
         <news:news>
           <news:publication>
             <news:name>Major Digest</news:name>
             <news:language>en</news:language>
           </news:publication>
-          <news:publication_date>2023-08-27T06:35:32.000Z</news:publication_date>
-          <news:title>RSL gets shut out by Houston, 3-0</news:title>
+          <news:publication_date>2023-08-27T12:57:12.000Z</news:publication_date>
+          <news:title>One week after sullying the Women's World Cup, Luis Rubiales is now a Spanish soccer outcast</news:title>
         </news:news>
         <image:image>
-          <image:loc>https://majordigest.com/sports/2023/08/27/rsl-gets-shut-out-by-houston-3-0/rsl-gets-shut-out-by-houston-3-0.webp</image:loc>
+          <image:loc>https://majordigest.com/sports/2023/08/27/one-week-after-sullying-the-womens-world-cup-luis-rubiales-is-now-a-spanish-soccer-outcast/one-week-after-sullying-the-womens-world-cup-luis-rubiales-is-now-a-spanish-soccer-outcast.webp</image:loc>
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/sports/2023/08/27/san-jose-state-keeps-pace-with-no-6-usc-early-but-upset-bid-falls-short-in-opener/</loc>
+        <loc>https://majordigest.com/sports/2023/08/27/victor-kiplangat-of-uganda-pulls-away-late-to-win-mens-marathon-on-last-day-at-worlds/</loc>
         <news:news>
           <news:publication>
             <news:name>Major Digest</news:name>
             <news:language>en</news:language>
           </news:publication>
-          <news:publication_date>2023-08-27T03:53:08.000Z</news:publication_date>
-          <news:title>San Jose State keeps pace with No. 6 USC early, but upset bid falls short in opener</news:title>
+          <news:publication_date>2023-08-27T08:39:47.000Z</news:publication_date>
+          <news:title>Ukrainian high jumper Mahuchikh takes gold in emotional close to world championships</news:title>
         </news:news>
         <image:image>
-          <image:loc>https://majordigest.com/sports/2023/08/27/san-jose-state-keeps-pace-with-no-6-usc-early-but-upset-bid-falls-short-in-opener/san-jose-state-keeps-pace-with-no-6-usc-early-but-upset-bid-falls-short-in-opener.webp</image:loc>
+          <image:loc>https://majordigest.com/sports/2023/08/27/victor-kiplangat-of-uganda-pulls-away-late-to-win-mens-marathon-on-last-day-at-worlds/victor-kiplangat-of-uganda-pulls-away-late-to-win-mens-marathon-on-last-day-at-worlds.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -241,6 +255,20 @@
         </image:image>
       </url>
       <url>
+        <loc>https://majordigest.com/sports/2023/08/26/chicago-triathlon-weekend-kicks-off-at-foster-beach/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-26T22:57:28.000Z</news:publication_date>
+          <news:title>Chicago Triathlon weekend kicks off at Foster Beach</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/sports/2023/08/26/chicago-triathlon-weekend-kicks-off-at-foster-beach/chicago-triathlon-weekend-kicks-off-at-foster-beach.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
         <loc>https://majordigest.com/sports/2023/08/26/tampa-bay-buccaneers-fans-can-meet-wr-chris-godwin-on-sunday-heres-where/</loc>
         <news:news>
           <news:publication>
@@ -252,20 +280,6 @@
         </news:news>
         <image:image>
           <image:loc>https://majordigest.com/sports/2023/08/26/tampa-bay-buccaneers-fans-can-meet-wr-chris-godwin-on-sunday-heres-where/tampa-bay-buccaneers-fans-can-meet-wr-chris-godwin-on-sunday-heres-where.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/sports/2023/08/26/ap-hartman-throws-4-td-passes-as-no-13-notre-dame-opens-with-a-42-3-win-over-navy-in-ireland/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-26T21:53:25.000Z</news:publication_date>
-          <news:title>Hartman throws 4 TD passes as No. 13 Notre Dame opens with a 42-3 win over Navy in Ireland</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/sports/2023/08/26/ap-hartman-throws-4-td-passes-as-no-13-notre-dame-opens-with-a-42-3-win-over-navy-in-ireland/ap-hartman-throws-4-td-passes-as-no-13-notre-dame-opens-with-a-42-3-win-over-navy-in-ireland.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -283,6 +297,20 @@
         </image:image>
       </url>
       <url>
+        <loc>https://majordigest.com/sports/2023/08/26/high-school-hot-shot-cvcs-bryson-donelson/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-26T06:54:36.000Z</news:publication_date>
+          <news:title>High School Hot Shot: CVC's Bryson Donelson</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/sports/2023/08/26/high-school-hot-shot-cvcs-bryson-donelson/high-school-hot-shot-cvcs-bryson-donelson.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
         <loc>https://majordigest.com/sports/2023/08/25/ap-bronny-james-has-a-congenital-heart-defect-that-caused-his-cardiac-arrest-a-spokesperson-says/</loc>
         <news:news>
           <news:publication>
@@ -294,34 +322,6 @@
         </news:news>
         <image:image>
           <image:loc>https://majordigest.com/sports/2023/08/25/ap-bronny-james-has-a-congenital-heart-defect-that-caused-his-cardiac-arrest-a-spokesperson-says/ap-bronny-james-has-a-congenital-heart-defect-that-caused-his-cardiac-arrest-a-spokesperson-says.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/sports/2023/08/25/bronny-james-cardiac-arrest-congenital-heart-defect-cause/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-25T23:41:56.000Z</news:publication_date>
-          <news:title>Family: Bronny James' cardiac arrest due to congenital defect</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/sports/2023/08/25/bronny-james-cardiac-arrest-congenital-heart-defect-cause/bronny-james-cardiac-arrest-congenital-heart-defect-cause.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/sports/2023/08/25/49ers-to-trade-qb-trey-lance-to-cowboys-reports/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-25T23:36:11.000Z</news:publication_date>
-          <news:title>49ers to trade QB Trey Lance to Cowboys: reports</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/sports/2023/08/25/49ers-to-trade-qb-trey-lance-to-cowboys-reports/49ers-to-trade-qb-trey-lance-to-cowboys-reports.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -350,34 +350,6 @@
         </news:news>
         <image:image>
           <image:loc>https://majordigest.com/sports/2023/08/25/former-snow-canyon-basketball-player-scoring-big-at-the-bowling-alley/former-snow-canyon-basketball-player-scoring-big-at-the-bowling-alley.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/sports/2023/08/25/college-football-ticket-prices/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-25T15:10:19.000Z</news:publication_date>
-          <news:title>College football starts Saturday with ticket prices on the rise</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/sports/2023/08/25/college-football-ticket-prices/college-football-ticket-prices.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/sports/2023/08/25/former-cos-athlete-with-third-place-finish-at-world-athletics-championships/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-25T06:47:22.000Z</news:publication_date>
-          <news:title>Former COS athlete with third place finish at World Athletics Championships</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/sports/2023/08/25/former-cos-athlete-with-third-place-finish-at-world-athletics-championships/former-cos-athlete-with-third-place-finish-at-world-athletics-championships.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -423,17 +395,17 @@
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/sports/2023/08/24/wwe-wrestler-bray-wyatt-dies-at-36/</loc>
+        <loc>https://majordigest.com/sports/2023/08/24/sd-wave-vs-orlando-pride-a-preview-with-meggie-dougherty/</loc>
         <news:news>
           <news:publication>
             <news:name>Major Digest</news:name>
             <news:language>en</news:language>
           </news:publication>
-          <news:publication_date>2023-08-24T23:09:08.000Z</news:publication_date>
-          <news:title>WWE wrestler Bray Wyatt dies at 36</news:title>
+          <news:publication_date>2023-08-24T20:29:58.000Z</news:publication_date>
+          <news:title>SD Wave vs. Orlando Pride: A preview with Meggie Dougherty</news:title>
         </news:news>
         <image:image>
-          <image:loc>https://majordigest.com/sports/2023/08/24/wwe-wrestler-bray-wyatt-dies-at-36/wwe-wrestler-bray-wyatt-dies-at-36.webp</image:loc>
+          <image:loc>https://majordigest.com/sports/2023/08/24/sd-wave-vs-orlando-pride-a-preview-with-meggie-dougherty/sd-wave-vs-orlando-pride-a-preview-with-meggie-dougherty.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -465,31 +437,31 @@
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/sports/2023/08/24/rsl-eliminated-from-u-s-open-cup-by-houston-3-1/</loc>
+        <loc>https://majordigest.com/sports/2023/08/24/central-vs-fruita-the-battle-is-on-tomorrow/</loc>
         <news:news>
           <news:publication>
             <news:name>Major Digest</news:name>
             <news:language>en</news:language>
           </news:publication>
-          <news:publication_date>2023-08-24T04:56:59.000Z</news:publication_date>
-          <news:title>RSL eliminated from U.S. Open Cup by Houston, 3-1</news:title>
+          <news:publication_date>2023-08-24T04:48:59.000Z</news:publication_date>
+          <news:title>Central vs Fruita. The battle is on tomorrow.</news:title>
         </news:news>
         <image:image>
-          <image:loc>https://majordigest.com/sports/2023/08/24/rsl-eliminated-from-u-s-open-cup-by-houston-3-1/rsl-eliminated-from-u-s-open-cup-by-houston-3-1.webp</image:loc>
+          <image:loc>https://majordigest.com/sports/2023/08/24/central-vs-fruita-the-battle-is-on-tomorrow/central-vs-fruita-the-battle-is-on-tomorrow.webp</image:loc>
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/sports/2023/08/23/anderson-scores-winning-run-in-the-10th-as-the-white-sox-end-mariners-8-game-win-streak/</loc>
+        <loc>https://majordigest.com/sports/2023/08/23/ap-yankees-general-manager-brian-cashman-calls-this-season-a-disaster/</loc>
         <news:news>
           <news:publication>
             <news:name>Major Digest</news:name>
             <news:language>en</news:language>
           </news:publication>
-          <news:publication_date>2023-08-23T22:52:47.000Z</news:publication_date>
-          <news:title>Anderson scores winning run in the 10th as the White Sox end Mariners' 8-game win streak</news:title>
+          <news:publication_date>2023-08-23T23:05:48.000Z</news:publication_date>
+          <news:title>Yankees general manager Brian Cashman calls this season 'a disaster'</news:title>
         </news:news>
         <image:image>
-          <image:loc>https://majordigest.com/sports/2023/08/23/anderson-scores-winning-run-in-the-10th-as-the-white-sox-end-mariners-8-game-win-streak/anderson-scores-winning-run-in-the-10th-as-the-white-sox-end-mariners-8-game-win-streak.webp</image:loc>
+          <image:loc>https://majordigest.com/sports/2023/08/23/ap-yankees-general-manager-brian-cashman-calls-this-season-a-disaster/ap-yankees-general-manager-brian-cashman-calls-this-season-a-disaster.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -507,16 +479,44 @@
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/sports/2023/08/22/big-league-utah-public-survey-provides-insights-on-potential-mlb-stadium/</loc>
+        <loc>https://majordigest.com/sports/2023/08/22/as-rooker-performs-at-oakland-arena-after-crushing-walk-off-home-run/</loc>
         <news:news>
           <news:publication>
             <news:name>Major Digest</news:name>
             <news:language>en</news:language>
           </news:publication>
-          <news:publication_date>2023-08-22T17:57:53.000Z</news:publication_date>
-          <news:title>Big League Utah public survey provides insights on potential MLB stadium</news:title>
+          <news:publication_date>2023-08-22T22:54:45.000Z</news:publication_date>
+          <news:title>A's Rooker performs at Oakland Arena after crushing walk-off home run</news:title>
         </news:news>
         <image:image>
-          <image:loc>https://majordigest.com/sports/2023/08/22/big-league-utah-public-survey-provides-insights-on-potential-mlb-stadium/big-league-utah-public-survey-provides-insights-on-potential-mlb-stadium.webp</image:loc>
+          <image:loc>https://majordigest.com/sports/2023/08/22/as-rooker-performs-at-oakland-arena-after-crushing-walk-off-home-run/as-rooker-performs-at-oakland-arena-after-crushing-walk-off-home-run.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/sports/2023/08/22/troy-glaus-introduced-at-buchanan-high-school/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-22T06:23:42.000Z</news:publication_date>
+          <news:title>Troy Glaus introduced at Buchanan High School</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/sports/2023/08/22/troy-glaus-introduced-at-buchanan-high-school/troy-glaus-introduced-at-buchanan-high-school.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/sports/2023/08/21/basketball-world-cup-2023-how-to-watch-whos-playing-whos-favored-and-more/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-21T12:31:55.000Z</news:publication_date>
+          <news:title>Basketball World Cup 2023: How to watch, who's playing, who's favored and more</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/sports/2023/08/21/basketball-world-cup-2023-how-to-watch-whos-playing-whos-favored-and-more/basketball-world-cup-2023-how-to-watch-whos-playing-whos-favored-and-more.webp</image:loc>
         </image:image>
       </url></urlset>

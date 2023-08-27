@@ -3,6 +3,20 @@
               xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
               xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
       <url>
+        <loc>https://majordigest.com/world/2023/08/27/north-korea-allowing-citizens-abroad-return-home-first-time-since-2020-state-media-says/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-27T19:17:23.000Z</news:publication_date>
+          <news:title>North Korea allowing citizens abroad to return home for first time since 2020, state media says</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/world/2023/08/27/north-korea-allowing-citizens-abroad-return-home-first-time-since-2020-state-media-says/north-korea-allowing-citizens-abroad-return-home-first-time-since-2020-state-media-says.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
         <loc>https://majordigest.com/world/2023/08/27/ap-russia-says-it-has-confirmed-prigozhin-died-in-the-plane-crash/</loc>
         <news:news>
           <news:publication>
@@ -28,6 +42,20 @@
         </news:news>
         <image:image>
           <image:loc>https://majordigest.com/world/2023/08/27/ap-more-than-600-firefighters-backed-by-water-dropping-aircraft-struggle-to-control-wildfires-in-greece/ap-more-than-600-firefighters-backed-by-water-dropping-aircraft-struggle-to-control-wildfires-in-greece.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/world/2023/08/27/ap-ukraine-investigates-incident-that-killed-3-pilots-while-russia-attacks-with-cruise-missiles/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-27T14:56:40.000Z</news:publication_date>
+          <news:title>Ukraine investigates incident that killed 3 pilots while Russia attacks with cruise missiles</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/world/2023/08/27/ap-ukraine-investigates-incident-that-killed-3-pilots-while-russia-attacks-with-cruise-missiles/ap-ukraine-investigates-incident-that-killed-3-pilots-while-russia-attacks-with-cruise-missiles.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -269,6 +297,20 @@
         </image:image>
       </url>
       <url>
+        <loc>https://majordigest.com/world/2023/08/27/elite-unit-of-mexican-cartel-using-drones-to-drop-bombs-report/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-27T01:26:02.000Z</news:publication_date>
+          <news:title>Elite unit of Mexican cartel using drones to drop bombs: Report</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/world/2023/08/27/elite-unit-of-mexican-cartel-using-drones-to-drop-bombs-report/elite-unit-of-mexican-cartel-using-drones-to-drop-bombs-report.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
         <loc>https://majordigest.com/world/2023/08/26/biden-honors-service-members-killed-during-afghanistan-withdrawal/</loc>
         <news:news>
           <news:publication>
@@ -322,20 +364,6 @@
         </news:news>
         <image:image>
           <image:loc>https://majordigest.com/world/2023/08/26/mexico-99-9-certain-to-elect-first-female-president-expert-says/mexico-99-9-certain-to-elect-first-female-president-expert-says.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/world/2023/08/26/gershkovich-appeals-russian-extension-of-pretrial-detention/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-26T18:27:48.000Z</news:publication_date>
-          <news:title>Reporter Evan Gershkovich appeals Russia's extension of pretrial detention</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/world/2023/08/26/gershkovich-appeals-russian-extension-of-pretrial-detention/gershkovich-appeals-russian-extension-of-pretrial-detention.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -395,45 +423,17 @@
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/world/2023/08/26/ap-with-drones-and-webcams-volunteer-hunters-join-a-new-search-for-the-mythical-loch-ness-monster/</loc>
+        <loc>https://majordigest.com/world/2023/08/25/ap-indias-lunar-rover-keeps-walking-on-the-moon-days-after-spacecrafts-historic-touchdown/</loc>
         <news:news>
           <news:publication>
             <news:name>Major Digest</news:name>
             <news:language>en</news:language>
           </news:publication>
-          <news:publication_date>2023-08-26T14:07:48.000Z</news:publication_date>
-          <news:title>With new tech, volunteers join a search for the Loch Ness Monster</news:title>
+          <news:publication_date>2023-08-25T15:30:36.000Z</news:publication_date>
+          <news:title>India's lunar rover keeps walking on the moon, days after spacecraft's historic touchdown</news:title>
         </news:news>
         <image:image>
-          <image:loc>https://majordigest.com/world/2023/08/26/ap-with-drones-and-webcams-volunteer-hunters-join-a-new-search-for-the-mythical-loch-ness-monster/ap-with-drones-and-webcams-volunteer-hunters-join-a-new-search-for-the-mythical-loch-ness-monster.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/world/2023/08/26/ap-new-crew-for-the-space-station-launches-with-4-astronauts-from-4-countries/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-26T10:22:31.000Z</news:publication_date>
-          <news:title>New space station crew launches, astronauts from 4 countries</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/world/2023/08/26/ap-new-crew-for-the-space-station-launches-with-4-astronauts-from-4-countries/ap-new-crew-for-the-space-station-launches-with-4-astronauts-from-4-countries.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/world/2023/08/25/from-tarantulas-to-tigers-zoo-animals-step-onto-scales-for-annual-weigh-in/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-25T13:11:05.000Z</news:publication_date>
-          <news:title>From tarantulas to tigers, zoo animals step onto scales for annual weigh-in</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/world/2023/08/25/from-tarantulas-to-tigers-zoo-animals-step-onto-scales-for-annual-weigh-in/from-tarantulas-to-tigers-zoo-animals-step-onto-scales-for-annual-weigh-in.webp</image:loc>
+          <image:loc>https://majordigest.com/world/2023/08/25/ap-indias-lunar-rover-keeps-walking-on-the-moon-days-after-spacecrafts-historic-touchdown/ap-indias-lunar-rover-keeps-walking-on-the-moon-days-after-spacecrafts-historic-touchdown.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -479,17 +479,17 @@
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/world/2023/08/23/jet-crash-in-russia-kills-10-and-wagner-chief-was-on-passenger-list-officials-say/</loc>
+        <loc>https://majordigest.com/world/2023/08/23/india-lands-a-spacecraft-near-the-moons-south-pole-a-first-for-the-world-as-it-joins-elite-club/</loc>
         <news:news>
           <news:publication>
             <news:name>Major Digest</news:name>
             <news:language>en</news:language>
           </news:publication>
-          <news:publication_date>2023-08-23T17:38:57.000Z</news:publication_date>
-          <news:title>Jet crash in Russia kills 10 and Wagner chief was on passenger list, officials say</news:title>
+          <news:publication_date>2023-08-23T15:40:35.000Z</news:publication_date>
+          <news:title>India lands a spacecraft near the moon's south pole, a first for the world as it joins elite club</news:title>
         </news:news>
         <image:image>
-          <image:loc>https://majordigest.com/world/2023/08/23/jet-crash-in-russia-kills-10-and-wagner-chief-was-on-passenger-list-officials-say/jet-crash-in-russia-kills-10-and-wagner-chief-was-on-passenger-list-officials-say.webp</image:loc>
+          <image:loc>https://majordigest.com/world/2023/08/23/india-lands-a-spacecraft-near-the-moons-south-pole-a-first-for-the-world-as-it-joins-elite-club/india-lands-a-spacecraft-near-the-moons-south-pole-a-first-for-the-world-as-it-joins-elite-club.webp</image:loc>
         </image:image>
       </url>
       <url>

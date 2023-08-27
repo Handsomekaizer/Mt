@@ -3,6 +3,34 @@
               xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
               xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
       <url>
+        <loc>https://majordigest.com/politics/2023/08/27/biden-harris-advisers-irked-newsoms-plan-debate-desantis-disrespectful/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-27T21:48:44.000Z</news:publication_date>
+          <news:title>Biden, Harris advisers irked by Newsom's plan to debate DeSantis: 'Disrespectful'</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/politics/2023/08/27/biden-harris-advisers-irked-newsoms-plan-debate-desantis-disrespectful/biden-harris-advisers-irked-newsoms-plan-debate-desantis-disrespectful.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/politics/2023/08/27/desantis-pauses-campaigning-as-florida-faces-duel-crises/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-27T21:13:36.000Z</news:publication_date>
+          <news:title>DeSantis pauses campaigning as Florida faces dual crises</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/politics/2023/08/27/desantis-pauses-campaigning-as-florida-faces-duel-crises/desantis-pauses-campaigning-as-florida-faces-duel-crises.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
         <loc>https://majordigest.com/politics/2023/08/27/ap-us-congress-members-make-a-rare-visit-to-opposition-held-northwest-syria/</loc>
         <news:news>
           <news:publication>
@@ -14,6 +42,20 @@
         </news:news>
         <image:image>
           <image:loc>https://majordigest.com/politics/2023/08/27/ap-us-congress-members-make-a-rare-visit-to-opposition-held-northwest-syria/ap-us-congress-members-make-a-rare-visit-to-opposition-held-northwest-syria.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/politics/2023/08/27/ap-former-2-term-republican-tennessee-gov-don-sundquist-dies-at-87/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-27T18:59:44.000Z</news:publication_date>
+          <news:title>Former 2-term Republican Tennessee Gov. Don Sundquist dies at 87</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/politics/2023/08/27/ap-former-2-term-republican-tennessee-gov-don-sundquist-dies-at-87/ap-former-2-term-republican-tennessee-gov-don-sundquist-dies-at-87.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -45,6 +87,20 @@
         </image:image>
       </url>
       <url>
+        <loc>https://majordigest.com/politics/2023/08/27/a-house-impeachment-inquiry-of-president-biden-is-a-natural-step-forward-speaker-mccarthy-says/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-27T18:34:44.000Z</news:publication_date>
+          <news:title>A House impeachment inquiry of President Biden is a 'natural step forward,' Speaker McCarthy says</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/politics/2023/08/27/a-house-impeachment-inquiry-of-president-biden-is-a-natural-step-forward-speaker-mccarthy-says/a-house-impeachment-inquiry-of-president-biden-is-a-natural-step-forward-speaker-mccarthy-says.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
         <loc>https://majordigest.com/politics/2023/08/27/bernie-sanders-sticks-up-fellow-octogenarian-biden-seemed-fine-me/</loc>
         <news:news>
           <news:publication>
@@ -56,20 +112,6 @@
         </news:news>
         <image:image>
           <image:loc>https://majordigest.com/politics/2023/08/27/bernie-sanders-sticks-up-fellow-octogenarian-biden-seemed-fine-me/bernie-sanders-sticks-up-fellow-octogenarian-biden-seemed-fine-me.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/politics/2023/08/27/mike-pence-dredges-vivek-ramaswamys-past-january-6-statements-stain-american-history/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-27T18:30:10.000Z</news:publication_date>
-          <news:title>Mike Pence dredges up Vivek Ramaswamy's past January 6 statements: 'A stain on American history'</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/politics/2023/08/27/mike-pence-dredges-vivek-ramaswamys-past-january-6-statements-stain-american-history/mike-pence-dredges-vivek-ramaswamys-past-january-6-statements-stain-american-history.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -87,6 +129,20 @@
         </image:image>
       </url>
       <url>
+        <loc>https://majordigest.com/politics/2023/08/27/mike-pence-debate-support-jan6/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-27T16:00:00.000Z</news:publication_date>
+          <news:title>Support from fellow GOP candidates over Jan. 6 was &#8216;heartening,&#8217; Pence says</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/politics/2023/08/27/mike-pence-debate-support-jan6/mike-pence-debate-support-jan6.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
         <loc>https://majordigest.com/politics/2023/08/27/biden-campaign-trump-policies-richmond/</loc>
         <news:news>
           <news:publication>
@@ -98,20 +154,6 @@
         </news:news>
         <image:image>
           <image:loc>https://majordigest.com/politics/2023/08/27/biden-campaign-trump-policies-richmond/biden-campaign-trump-policies-richmond.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/politics/2023/08/27/sanders-biden-cornel-west/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-27T14:53:25.000Z</news:publication_date>
-          <news:title>Sanders hits at Cornel West over criticism of Biden</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/politics/2023/08/27/sanders-biden-cornel-west/sanders-biden-cornel-west.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -157,20 +199,6 @@
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/politics/2023/08/27/ap-trumps-drumbeat-of-lies-about-the-2020-election-keeps-getting-louder-here-are-the-facts/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-27T13:43:21.000Z</news:publication_date>
-          <news:title>Trump's drumbeat of lies about the 2020 election keeps getting louder. Here are the facts</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/politics/2023/08/27/ap-trumps-drumbeat-of-lies-about-the-2020-election-keeps-getting-louder-here-are-the-facts/ap-trumps-drumbeat-of-lies-about-the-2020-election-keeps-getting-louder-here-are-the-facts.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
         <loc>https://majordigest.com/politics/2023/08/27/trumps-drumbeat-of-lies-about-the-2020-election-keeps-getting-louder-here-are-the-facts/</loc>
         <news:news>
           <news:publication>
@@ -213,20 +241,6 @@
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/politics/2023/08/26/al-sharpton-elections/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-26T21:08:44.000Z</news:publication_date>
-          <news:title>Sharpton, Black leaders contrast civil rights fight with efforts to overturn elections</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/politics/2023/08/26/al-sharpton-elections/al-sharpton-elections.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
         <loc>https://majordigest.com/politics/2023/08/26/wild-horses-that-roam-theodore-roosevelt-national-park-may-be-removed-many-oppose-the-plan/</loc>
         <news:news>
           <news:publication>
@@ -255,20 +269,6 @@
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/politics/2023/08/26/new-mexico-suspend-drivers-licenses-fines/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-26T10:30:00.000Z</news:publication_date>
-          <news:title>New Mexico will no longer suspend drivers licenses for fines</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/politics/2023/08/26/new-mexico-suspend-drivers-licenses-fines/new-mexico-suspend-drivers-licenses-fines.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
         <loc>https://majordigest.com/politics/2023/08/26/alabama-prisoner-execution-nitrogen-hypoxia-inhalation/</loc>
         <news:news>
           <news:publication>
@@ -294,62 +294,6 @@
         </news:news>
         <image:image>
           <image:loc>https://majordigest.com/politics/2023/08/26/tens-of-thousands-expected-for-march-on-washingtons-60th-anniversary-demonstration/tens-of-thousands-expected-for-march-on-washingtons-60th-anniversary-demonstration.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/politics/2023/08/26/ramaswamy-faces-curiosity-and-skepticism-in-iowa-after-center-stage-performance-in-gop-debate/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-26T04:04:15.000Z</news:publication_date>
-          <news:title>Ramaswamy faces curiosity and skepticism in Iowa after center-stage performance in GOP debate</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/politics/2023/08/26/ramaswamy-faces-curiosity-and-skepticism-in-iowa-after-center-stage-performance-in-gop-debate/ramaswamy-faces-curiosity-and-skepticism-in-iowa-after-center-stage-performance-in-gop-debate.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/politics/2023/08/26/biden-campaign-dark-brandon-meme-fox-news-ad/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-26T03:37:52.000Z</news:publication_date>
-          <news:title>Biden campaign uses &#8216;Dark Brandon&#8217; meme to advertise on Fox News</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/politics/2023/08/26/biden-campaign-dark-brandon-meme-fox-news-ad/biden-campaign-dark-brandon-meme-fox-news-ad.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/politics/2023/08/25/new-york-man-sentenced-to-3-months-in-prison-for-making-threatening-phone-calls-to-rep-marjorie-taylor-greene/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-25T19:49:09.000Z</news:publication_date>
-          <news:title>NY man sentenced to prison for making threatening&#160;phone calls to Rep. Marjorie Taylor Greene</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/politics/2023/08/25/new-york-man-sentenced-to-3-months-in-prison-for-making-threatening-phone-calls-to-rep-marjorie-taylor-greene/new-york-man-sentenced-to-3-months-in-prison-for-making-threatening-phone-calls-to-rep-marjorie-taylor-greene.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/politics/2023/08/25/carlos-santana-issues-apology-for-anti-trans-remarks-on-stage/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-25T15:43:31.000Z</news:publication_date>
-          <news:title>Carlos Santana issues apology for anti-trans remarks on stage</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/politics/2023/08/25/carlos-santana-issues-apology-for-anti-trans-remarks-on-stage/carlos-santana-issues-apology-for-anti-trans-remarks-on-stage.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -395,6 +339,20 @@
         </image:image>
       </url>
       <url>
+        <loc>https://majordigest.com/politics/2023/08/24/does-the-georgia-case-pose-greatest-threat-to-former-president-trump/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-24T23:38:30.000Z</news:publication_date>
+          <news:title>Does the Georgia case pose greatest threat to former President Trump?</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/politics/2023/08/24/does-the-georgia-case-pose-greatest-threat-to-former-president-trump/does-the-georgia-case-pose-greatest-threat-to-former-president-trump.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
         <loc>https://majordigest.com/politics/2023/08/24/gov-desantis-target-claims-miss-their-mark-in-gop-primary-debate/</loc>
         <news:news>
           <news:publication>
@@ -437,6 +395,20 @@
         </image:image>
       </url>
       <url>
+        <loc>https://majordigest.com/politics/2023/08/24/us-postal-service-to-unveil-stamp-honoring-ruth-bader-ginsburg/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-24T20:05:53.000Z</news:publication_date>
+          <news:title>US Postal Service to unveil stamp honoring Ruth Bader Ginsburg</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/politics/2023/08/24/us-postal-service-to-unveil-stamp-honoring-ruth-bader-ginsburg/us-postal-service-to-unveil-stamp-honoring-ruth-bader-ginsburg.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
         <loc>https://majordigest.com/politics/2023/08/24/trump-is-set-to-surrender-at-a-georgia-jail-on-2020-election-charges/</loc>
         <news:news>
           <news:publication>
@@ -448,6 +420,34 @@
         </news:news>
         <image:image>
           <image:loc>https://majordigest.com/politics/2023/08/24/trump-is-set-to-surrender-at-a-georgia-jail-on-2020-election-charges/trump-is-set-to-surrender-at-a-georgia-jail-on-2020-election-charges.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/politics/2023/08/24/rep-mike-levin-makes-stop-in-encinitas-to-talk-climate-following-first-tropical-storm-in-decades/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-24T05:49:14.000Z</news:publication_date>
+          <news:title>Rep. Mike Levin makes stop in Encinitas to talk climate following first tropical storm in decades</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/politics/2023/08/24/rep-mike-levin-makes-stop-in-encinitas-to-talk-climate-following-first-tropical-storm-in-decades/rep-mike-levin-makes-stop-in-encinitas-to-talk-climate-following-first-tropical-storm-in-decades.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/politics/2023/08/23/kelly-blue-book-survey-shows-consumer-hesitation-towards-electric-vehicles/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-23T23:01:08.000Z</news:publication_date>
+          <news:title>Kelly Blue Book survey shows consumer hesitation towards electric vehicles</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/politics/2023/08/23/kelly-blue-book-survey-shows-consumer-hesitation-towards-electric-vehicles/kelly-blue-book-survey-shows-consumer-hesitation-towards-electric-vehicles.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -465,20 +465,6 @@
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/politics/2023/08/23/rudy-giuliani-surrenders-on-georgia-charges-alleging-an-illegal-plot-to-subvert-2020-election-jail-records-show/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-23T19:26:31.000Z</news:publication_date>
-          <news:title>Rudy Giuliani surrenders on Georgia charges alleging an illegal plot to subvert 2020 election, jail records show</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/politics/2023/08/23/rudy-giuliani-surrenders-on-georgia-charges-alleging-an-illegal-plot-to-subvert-2020-election-jail-records-show/rudy-giuliani-surrenders-on-georgia-charges-alleging-an-illegal-plot-to-subvert-2020-election-jail-records-show.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
         <loc>https://majordigest.com/politics/2023/08/21/biden-campaign-launches-25m-ad-buy-in-battleground-states-including-nevada/</loc>
         <news:news>
           <news:publication>
@@ -493,17 +479,17 @@
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/politics/2023/08/21/how-to-watch-the-first-republican-presidential-primary-debate/</loc>
+        <loc>https://majordigest.com/politics/2023/08/21/assemblywoman-heidi-kasama-joins-republican-challengers-for-lees-seat-in-congress/</loc>
         <news:news>
           <news:publication>
             <news:name>Major Digest</news:name>
             <news:language>en</news:language>
           </news:publication>
-          <news:publication_date>2023-08-21T18:26:03.000Z</news:publication_date>
-          <news:title>How to watch the first Republican presidential primary debate</news:title>
+          <news:publication_date>2023-08-21T19:16:18.000Z</news:publication_date>
+          <news:title>Assemblywoman Heidi Kasama joins Republican challengers for Lee's seat in Congress</news:title>
         </news:news>
         <image:image>
-          <image:loc>https://majordigest.com/politics/2023/08/21/how-to-watch-the-first-republican-presidential-primary-debate/how-to-watch-the-first-republican-presidential-primary-debate.webp</image:loc>
+          <image:loc>https://majordigest.com/politics/2023/08/21/assemblywoman-heidi-kasama-joins-republican-challengers-for-lees-seat-in-congress/assemblywoman-heidi-kasama-joins-republican-challengers-for-lees-seat-in-congress.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -518,5 +504,19 @@
         </news:news>
         <image:image>
           <image:loc>https://majordigest.com/politics/2023/08/21/biden-campaign-targets-battleground-states-with-25m-ad-campaign/biden-campaign-targets-battleground-states-with-25m-ad-campaign.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/politics/2023/08/20/trump-says-he-wont-attend-first-gop-presidential-debate/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-20T22:55:46.000Z</news:publication_date>
+          <news:title>Trump says he won't attend first GOP presidential debate</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/politics/2023/08/20/trump-says-he-wont-attend-first-gop-presidential-debate/trump-says-he-wont-attend-first-gop-presidential-debate.webp</image:loc>
         </image:image>
       </url></urlset>
