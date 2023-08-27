@@ -82,8 +82,10 @@
   function init_() {
     if (!nav.userAgent.startsWith("Puppeteer")) {
       updateHeader_();
-      initIOSInstallPrompt_(initConsentBanner_());
-      "serviceWorker" in nav && nav.serviceWorker.register("/sw.js");
+      if ("majordigest.com" === location.hostname) {
+        initIOSInstallPrompt_(initConsentBanner_());
+        "serviceWorker" in nav && nav.serviceWorker.register("/sw.js");
+      }
     }
 
     doc

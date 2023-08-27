@@ -3,20 +3,6 @@
               xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
               xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
       <url>
-        <loc>https://majordigest.com/world/2023/08/27/north-korea-allowing-citizens-abroad-return-home-first-time-since-2020-state-media-says/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-27T19:17:23.000Z</news:publication_date>
-          <news:title>North Korea allowing citizens abroad to return home for first time since 2020, state media says</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/world/2023/08/27/north-korea-allowing-citizens-abroad-return-home-first-time-since-2020-state-media-says/north-korea-allowing-citizens-abroad-return-home-first-time-since-2020-state-media-says.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
         <loc>https://majordigest.com/world/2023/08/27/ap-russia-says-it-has-confirmed-prigozhin-died-in-the-plane-crash/</loc>
         <news:news>
           <news:publication>
@@ -42,20 +28,6 @@
         </news:news>
         <image:image>
           <image:loc>https://majordigest.com/world/2023/08/27/ap-more-than-600-firefighters-backed-by-water-dropping-aircraft-struggle-to-control-wildfires-in-greece/ap-more-than-600-firefighters-backed-by-water-dropping-aircraft-struggle-to-control-wildfires-in-greece.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/world/2023/08/27/ap-ukraine-investigates-incident-that-killed-3-pilots-while-russia-attacks-with-cruise-missiles/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-27T14:56:40.000Z</news:publication_date>
-          <news:title>Ukraine investigates incident that killed 3 pilots while Russia attacks with cruise missiles</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/world/2023/08/27/ap-ukraine-investigates-incident-that-killed-3-pilots-while-russia-attacks-with-cruise-missiles/ap-ukraine-investigates-incident-that-killed-3-pilots-while-russia-attacks-with-cruise-missiles.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -129,6 +101,20 @@
         </image:image>
       </url>
       <url>
+        <loc>https://majordigest.com/world/2023/08/27/ap-prigozhins-final-months-were-overshadowed-by-questions-about-what-the-kremlin-had-in-store-for-him/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-27T11:20:32.000Z</news:publication_date>
+          <news:title>Prigozhin's final months were overshadowed by questions about what the Kremlin had in store for him</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/world/2023/08/27/ap-prigozhins-final-months-were-overshadowed-by-questions-about-what-the-kremlin-had-in-store-for-him/ap-prigozhins-final-months-were-overshadowed-by-questions-about-what-the-kremlin-had-in-store-for-him.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
         <loc>https://majordigest.com/world/2023/08/27/zimbabwes-opposition-alleges-gigantic-fraud-in-vote-that-extends-the-zanu-pf-partys-43-year-rule/</loc>
         <news:news>
           <news:publication>
@@ -196,6 +182,20 @@
         </news:news>
         <image:image>
           <image:loc>https://majordigest.com/world/2023/08/27/ap-zimbabwean-president-emmerson-mnangagwa-wins-re-election-after-troubled-vote/ap-zimbabwean-president-emmerson-mnangagwa-wins-re-election-after-troubled-vote.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/world/2023/08/27/us-military-aircraft-carrying-about-20-marines-crashes-over-australia-killing-3-injuring-others/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-27T06:50:34.000Z</news:publication_date>
+          <news:title>US military aircraft carrying more than 20 Marines crashes over Australia, killing 3 and injuring others</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/world/2023/08/27/us-military-aircraft-carrying-about-20-marines-crashes-over-australia-killing-3-injuring-others/us-military-aircraft-carrying-about-20-marines-crashes-over-australia-killing-3-injuring-others.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -294,6 +294,20 @@
         </news:news>
         <image:image>
           <image:loc>https://majordigest.com/world/2023/08/26/zimbabwean-president-emmerson-mnangagwa-wins-re-election-after-troubled-vote/zimbabwean-president-emmerson-mnangagwa-wins-re-election-after-troubled-vote.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/world/2023/08/26/ap-un-experts-say-islamic-state-group-almost-doubled-the-territory-they-control-in-mali-in-under-a-year/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-26T21:14:27.000Z</news:publication_date>
+          <news:title>UN experts say Islamic State group almost doubled the territory they control in Mali in under a year</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/world/2023/08/26/ap-un-experts-say-islamic-state-group-almost-doubled-the-territory-they-control-in-mali-in-under-a-year/ap-un-experts-say-islamic-state-group-almost-doubled-the-territory-they-control-in-mali-in-under-a-year.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -409,20 +423,6 @@
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/world/2023/08/25/ap-indias-lunar-rover-keeps-walking-on-the-moon-days-after-spacecrafts-historic-touchdown/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-25T15:30:36.000Z</news:publication_date>
-          <news:title>India's lunar rover keeps walking on the moon, days after spacecraft's historic touchdown</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/world/2023/08/25/ap-indias-lunar-rover-keeps-walking-on-the-moon-days-after-spacecrafts-historic-touchdown/ap-indias-lunar-rover-keeps-walking-on-the-moon-days-after-spacecrafts-historic-touchdown.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
         <loc>https://majordigest.com/world/2023/08/25/from-tarantulas-to-tigers-zoo-animals-step-onto-scales-for-annual-weigh-in/</loc>
         <news:news>
           <news:publication>
@@ -493,20 +493,6 @@
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/world/2023/08/23/india-lands-a-spacecraft-near-the-moons-south-pole-a-first-for-the-world-as-it-joins-elite-club/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-23T15:40:35.000Z</news:publication_date>
-          <news:title>India lands a spacecraft near the moon's south pole, a first for the world as it joins elite club</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/world/2023/08/23/india-lands-a-spacecraft-near-the-moons-south-pole-a-first-for-the-world-as-it-joins-elite-club/india-lands-a-spacecraft-near-the-moons-south-pole-a-first-for-the-world-as-it-joins-elite-club.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
         <loc>https://majordigest.com/world/2023/08/23/ap-indias-spacecraft-is-preparing-to-land-on-the-moon-in-the-countrys-second-attempt-in-4-years/</loc>
         <news:news>
           <news:publication>
@@ -518,5 +504,19 @@
         </news:news>
         <image:image>
           <image:loc>https://majordigest.com/world/2023/08/23/ap-indias-spacecraft-is-preparing-to-land-on-the-moon-in-the-countrys-second-attempt-in-4-years/ap-indias-spacecraft-is-preparing-to-land-on-the-moon-in-the-countrys-second-attempt-in-4-years.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/world/2023/08/21/search-continues-for-cuban-coach-who-disappeared-from-little-league-world-series/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-21T21:09:24.000Z</news:publication_date>
+          <news:title>Search continues for Cuban coach who disappeared from Little League World Series</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/world/2023/08/21/search-continues-for-cuban-coach-who-disappeared-from-little-league-world-series/search-continues-for-cuban-coach-who-disappeared-from-little-league-world-series.webp</image:loc>
         </image:image>
       </url></urlset>
