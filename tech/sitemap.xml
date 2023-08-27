@@ -3,171 +3,17 @@
               xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
               xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
       <url>
-        <loc>https://majordigest.com/tech/2023/08/25/doj-sues-spacex-alleging-it-discriminated-against-refugees-asylum-seekers/</loc>
+        <loc>https://majordigest.com/tech/2023/08/24/uber-raises-minimum-age-for-most-california-drivers-to-25-saying-insurance-costs-are-too-high/</loc>
         <news:news>
           <news:publication>
             <news:name>Major Digest</news:name>
             <news:language>en</news:language>
           </news:publication>
-          <news:publication_date>2023-08-25T14:06:52.000Z</news:publication_date>
-          <news:title>DOJ sues SpaceX, alleging it discriminated against refugees, asylum seekers</news:title>
+          <news:publication_date>2023-08-24T14:21:06.000Z</news:publication_date>
+          <news:title>Uber raises minimum age for most California drivers to 25, saying insurance costs are too high</news:title>
         </news:news>
         <image:image>
-          <image:loc>https://majordigest.com/tech/2023/08/25/doj-sues-spacex-alleging-it-discriminated-against-refugees-asylum-seekers/doj-sues-spacex-alleging-it-discriminated-against-refugees-asylum-seekers.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/tech/2023/08/23/educators-said-using-chatgpt-cheating-now-using-ai-write-syllabi-exams-professor/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-23T06:00:41.000Z</news:publication_date>
-          <news:title>Educators have said using ChatGPT is cheating, but now they are using AI to write syllabi and exams: Professor</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/tech/2023/08/23/educators-said-using-chatgpt-cheating-now-using-ai-write-syllabi-exams-professor/educators-said-using-chatgpt-cheating-now-using-ai-write-syllabi-exams-professor.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/tech/2023/08/24/indias-lunar-rover-goes-down-a-ramp-to-the-moons-surface-and-takes-a-walk/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-24T15:00:01.000Z</news:publication_date>
-          <news:title>India's lunar rover goes down a ramp to the moon's surface and takes a walk</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/tech/2023/08/24/indias-lunar-rover-goes-down-a-ramp-to-the-moons-surface-and-takes-a-walk/indias-lunar-rover-goes-down-a-ramp-to-the-moons-surface-and-takes-a-walk.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/tech/2023/08/25/los-angeles-solar-ev-chargers-ev-arc-beam-global/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-25T08:00:00.000Z</news:publication_date>
-          <news:title>Los Angeles installing solar-powered EV charging stations</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/tech/2023/08/25/los-angeles-solar-ev-chargers-ev-arc-beam-global/los-angeles-solar-ev-chargers-ev-arc-beam-global.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/tech/2023/08/23/controversial-ai-app-allows-text-jesus-satan/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-23T15:07:25.000Z</news:publication_date>
-          <news:title>Controversial new AI app allows you to text with Jesus &#38;#8211; and Satan</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/tech/2023/08/23/controversial-ai-app-allows-text-jesus-satan/controversial-ai-app-allows-text-jesus-satan.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/tech/2023/08/23/medical-professionals-utilizing-ai-judge-narcotics-prescriptions-report/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-23T17:07:41.000Z</news:publication_date>
-          <news:title>Medical professionals utilizing AI to judge narcotics prescriptions: report</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/tech/2023/08/23/medical-professionals-utilizing-ai-judge-narcotics-prescriptions-report/medical-professionals-utilizing-ai-judge-narcotics-prescriptions-report.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/tech/2023/08/22/europes-sweeping-rules-for-tech-giants-are-about-to-kick-in-heres-how-they-work/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-22T06:19:57.000Z</news:publication_date>
-          <news:title>Europe's sweeping rules for tech giants have kicked in. Here's how they work</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/tech/2023/08/22/europes-sweeping-rules-for-tech-giants-are-about-to-kick-in-heres-how-they-work/europes-sweeping-rules-for-tech-giants-are-about-to-kick-in-heres-how-they-work.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/tech/2023/08/23/san-jose-chamber-business-economy-ceo-downtown-real-estate-covid-tech/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-23T18:40:13.000Z</news:publication_date>
-          <news:title>San Jose Chamber seeks third CEO in three years amid downtown slump</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/tech/2023/08/23/san-jose-chamber-business-economy-ceo-downtown-real-estate-covid-tech/san-jose-chamber-business-economy-ceo-downtown-real-estate-covid-tech.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/tech/2023/08/26/a-broad-genetic-test-saved-one-newborns-life-research-suggests-it-could-help-millions-of-others/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-26T11:44:30.000Z</news:publication_date>
-          <news:title>A broad genetic test saved one newborn's life. Research suggests it could help millions of others</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/tech/2023/08/26/a-broad-genetic-test-saved-one-newborns-life-research-suggests-it-could-help-millions-of-others/a-broad-genetic-test-saved-one-newborns-life-research-suggests-it-could-help-millions-of-others.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/tech/2023/08/25/gop-stumbles-in-suit-claiming-google-censors-donation-emails/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-25T17:31:47.000Z</news:publication_date>
-          <news:title>GOP stumbles in suit claiming Google censors donation emails</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/tech/2023/08/25/gop-stumbles-in-suit-claiming-google-censors-donation-emails/gop-stumbles-in-suit-claiming-google-censors-donation-emails.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/tech/2023/08/23/youtube-under-fire-over-handling-of-ads-on-childrens-content/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-23T10:00:00.000Z</news:publication_date>
-          <news:title>YouTube under fire over handling of ads on children&#38;#8217;s content&#38;#160;</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/tech/2023/08/23/youtube-under-fire-over-handling-of-ads-on-childrens-content/youtube-under-fire-over-handling-of-ads-on-childrens-content.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/tech/2023/08/22/say-goodbye-photobombs-easy-ways-remove-unwanted-background-objects/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-22T17:29:00.000Z</news:publication_date>
-          <news:title>Say goodbye to photobombs: easy ways to remove unwanted background objects</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/tech/2023/08/22/say-goodbye-photobombs-easy-ways-remove-unwanted-background-objects/say-goodbye-photobombs-easy-ways-remove-unwanted-background-objects.webp</image:loc>
+          <image:loc>https://majordigest.com/tech/2023/08/24/uber-raises-minimum-age-for-most-california-drivers-to-25-saying-insurance-costs-are-too-high/uber-raises-minimum-age-for-most-california-drivers-to-25-saying-insurance-costs-are-too-high.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -185,254 +31,492 @@
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/tech/2023/08/23/delete-app-mac-before-late/</loc>
+        <loc>https://majordigest.com/tech/2023/08/24/uber-raises-minimum-age-for-most-california-drivers-to-25-saying-insurance-costs-are-too-high/</loc>
         <news:news>
           <news:publication>
             <news:name>Major Digest</news:name>
             <news:language>en</news:language>
           </news:publication>
-          <news:publication_date>2023-08-23T18:23:13.000Z</news:publication_date>
-          <news:title>Delete this app on your Mac before it's too late</news:title>
+          <news:publication_date>2023-08-24T14:21:06.000Z</news:publication_date>
+          <news:title>Uber raises minimum age for most California drivers to 25, saying insurance costs are too high</news:title>
         </news:news>
         <image:image>
-          <image:loc>https://majordigest.com/tech/2023/08/23/delete-app-mac-before-late/delete-app-mac-before-late.webp</image:loc>
+          <image:loc>https://majordigest.com/tech/2023/08/24/uber-raises-minimum-age-for-most-california-drivers-to-25-saying-insurance-costs-are-too-high/uber-raises-minimum-age-for-most-california-drivers-to-25-saying-insurance-costs-are-too-high.webp</image:loc>
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/tech/2023/08/22/musk-x-twitter-strip-headlines-news-articles/</loc>
+        <loc>https://majordigest.com/tech/2023/08/24/uber-raises-minimum-age-for-most-california-drivers-to-25-saying-insurance-costs-are-too-high/</loc>
         <news:news>
           <news:publication>
             <news:name>Major Digest</news:name>
             <news:language>en</news:language>
           </news:publication>
-          <news:publication_date>2023-08-22T16:33:41.000Z</news:publication_date>
-          <news:title>Musk plans to strip headlines from news articles on X</news:title>
+          <news:publication_date>2023-08-24T14:21:06.000Z</news:publication_date>
+          <news:title>Uber raises minimum age for most California drivers to 25, saying insurance costs are too high</news:title>
         </news:news>
         <image:image>
-          <image:loc>https://majordigest.com/tech/2023/08/22/musk-x-twitter-strip-headlines-news-articles/musk-x-twitter-strip-headlines-news-articles.webp</image:loc>
+          <image:loc>https://majordigest.com/tech/2023/08/24/uber-raises-minimum-age-for-most-california-drivers-to-25-saying-insurance-costs-are-too-high/uber-raises-minimum-age-for-most-california-drivers-to-25-saying-insurance-costs-are-too-high.webp</image:loc>
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/tech/2023/08/22/web-based-threads-version-available-soon-zuckerberg-says/</loc>
+        <loc>https://majordigest.com/tech/2023/08/24/uber-raises-minimum-age-for-most-california-drivers-to-25-saying-insurance-costs-are-too-high/</loc>
         <news:news>
           <news:publication>
             <news:name>Major Digest</news:name>
             <news:language>en</news:language>
           </news:publication>
-          <news:publication_date>2023-08-22T16:29:20.000Z</news:publication_date>
-          <news:title>Web-based Threads version available soon, Zuckerberg says&#38;#160;</news:title>
+          <news:publication_date>2023-08-24T14:21:06.000Z</news:publication_date>
+          <news:title>Uber raises minimum age for most California drivers to 25, saying insurance costs are too high</news:title>
         </news:news>
         <image:image>
-          <image:loc>https://majordigest.com/tech/2023/08/22/web-based-threads-version-available-soon-zuckerberg-says/web-based-threads-version-available-soon-zuckerberg-says.webp</image:loc>
+          <image:loc>https://majordigest.com/tech/2023/08/24/uber-raises-minimum-age-for-most-california-drivers-to-25-saying-insurance-costs-are-too-high/uber-raises-minimum-age-for-most-california-drivers-to-25-saying-insurance-costs-are-too-high.webp</image:loc>
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/tech/2023/08/25/early-apple-computer-that-helped-launch-3t-company-sells-at-auction-for-223000/</loc>
+        <loc>https://majordigest.com/tech/2023/08/24/uber-raises-minimum-age-for-most-california-drivers-to-25-saying-insurance-costs-are-too-high/</loc>
         <news:news>
           <news:publication>
             <news:name>Major Digest</news:name>
             <news:language>en</news:language>
           </news:publication>
-          <news:publication_date>2023-08-25T17:04:30.000Z</news:publication_date>
-          <news:title>Early Apple computer that helped launch $3T company sells at auction for $223,000</news:title>
+          <news:publication_date>2023-08-24T14:21:06.000Z</news:publication_date>
+          <news:title>Uber raises minimum age for most California drivers to 25, saying insurance costs are too high</news:title>
         </news:news>
         <image:image>
-          <image:loc>https://majordigest.com/tech/2023/08/25/early-apple-computer-that-helped-launch-3t-company-sells-at-auction-for-223000/early-apple-computer-that-helped-launch-3t-company-sells-at-auction-for-223000.webp</image:loc>
+          <image:loc>https://majordigest.com/tech/2023/08/24/uber-raises-minimum-age-for-most-california-drivers-to-25-saying-insurance-costs-are-too-high/uber-raises-minimum-age-for-most-california-drivers-to-25-saying-insurance-costs-are-too-high.webp</image:loc>
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/tech/2023/08/26/bay-area-software-ceo-pleads-guilty-to-tax-pandemic-relief-fraud/</loc>
+        <loc>https://majordigest.com/tech/2023/08/24/uber-raises-minimum-age-for-most-california-drivers-to-25-saying-insurance-costs-are-too-high/</loc>
         <news:news>
           <news:publication>
             <news:name>Major Digest</news:name>
             <news:language>en</news:language>
           </news:publication>
-          <news:publication_date>2023-08-26T20:32:15.000Z</news:publication_date>
-          <news:title>Bay Area software CEO pleads guilty to tax, pandemic relief fraud</news:title>
+          <news:publication_date>2023-08-24T14:21:06.000Z</news:publication_date>
+          <news:title>Uber raises minimum age for most California drivers to 25, saying insurance costs are too high</news:title>
         </news:news>
         <image:image>
-          <image:loc>https://majordigest.com/tech/2023/08/26/bay-area-software-ceo-pleads-guilty-to-tax-pandemic-relief-fraud/bay-area-software-ceo-pleads-guilty-to-tax-pandemic-relief-fraud.webp</image:loc>
+          <image:loc>https://majordigest.com/tech/2023/08/24/uber-raises-minimum-age-for-most-california-drivers-to-25-saying-insurance-costs-are-too-high/uber-raises-minimum-age-for-most-california-drivers-to-25-saying-insurance-costs-are-too-high.webp</image:loc>
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/tech/2023/08/22/how-to-set-up-earthquake-alerts-on-your-phone/</loc>
+        <loc>https://majordigest.com/tech/2023/08/24/uber-raises-minimum-age-for-most-california-drivers-to-25-saying-insurance-costs-are-too-high/</loc>
         <news:news>
           <news:publication>
             <news:name>Major Digest</news:name>
             <news:language>en</news:language>
           </news:publication>
-          <news:publication_date>2023-08-22T11:57:59.000Z</news:publication_date>
-          <news:title>How to set up earthquake alerts on your phone</news:title>
+          <news:publication_date>2023-08-24T14:21:06.000Z</news:publication_date>
+          <news:title>Uber raises minimum age for most California drivers to 25, saying insurance costs are too high</news:title>
         </news:news>
         <image:image>
-          <image:loc>https://majordigest.com/tech/2023/08/22/how-to-set-up-earthquake-alerts-on-your-phone/how-to-set-up-earthquake-alerts-on-your-phone.webp</image:loc>
+          <image:loc>https://majordigest.com/tech/2023/08/24/uber-raises-minimum-age-for-most-california-drivers-to-25-saying-insurance-costs-are-too-high/uber-raises-minimum-age-for-most-california-drivers-to-25-saying-insurance-costs-are-too-high.webp</image:loc>
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/tech/2023/08/23/biden-administration-investing-up-to-24-million-for-cancer-fighting-mrna-tech/</loc>
+        <loc>https://majordigest.com/tech/2023/08/24/uber-raises-minimum-age-for-most-california-drivers-to-25-saying-insurance-costs-are-too-high/</loc>
         <news:news>
           <news:publication>
             <news:name>Major Digest</news:name>
             <news:language>en</news:language>
           </news:publication>
-          <news:publication_date>2023-08-23T17:37:15.000Z</news:publication_date>
-          <news:title>Biden administration investing up to $24 million for cancer-fighting mRNA tech</news:title>
+          <news:publication_date>2023-08-24T14:21:06.000Z</news:publication_date>
+          <news:title>Uber raises minimum age for most California drivers to 25, saying insurance costs are too high</news:title>
         </news:news>
         <image:image>
-          <image:loc>https://majordigest.com/tech/2023/08/23/biden-administration-investing-up-to-24-million-for-cancer-fighting-mrna-tech/biden-administration-investing-up-to-24-million-for-cancer-fighting-mrna-tech.webp</image:loc>
+          <image:loc>https://majordigest.com/tech/2023/08/24/uber-raises-minimum-age-for-most-california-drivers-to-25-saying-insurance-costs-are-too-high/uber-raises-minimum-age-for-most-california-drivers-to-25-saying-insurance-costs-are-too-high.webp</image:loc>
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/tech/2023/08/25/indias-lunar-rover-keeps-walking-on-the-moon-days-after-spacecrafts-historic-touchdown/</loc>
+        <loc>https://majordigest.com/tech/2023/08/24/uber-raises-minimum-age-for-most-california-drivers-to-25-saying-insurance-costs-are-too-high/</loc>
         <news:news>
           <news:publication>
             <news:name>Major Digest</news:name>
             <news:language>en</news:language>
           </news:publication>
-          <news:publication_date>2023-08-25T15:30:35.000Z</news:publication_date>
-          <news:title>India's lunar rover keeps walking on the moon, days after spacecraft's historic touchdown</news:title>
+          <news:publication_date>2023-08-24T14:21:06.000Z</news:publication_date>
+          <news:title>Uber raises minimum age for most California drivers to 25, saying insurance costs are too high</news:title>
         </news:news>
         <image:image>
-          <image:loc>https://majordigest.com/tech/2023/08/25/indias-lunar-rover-keeps-walking-on-the-moon-days-after-spacecrafts-historic-touchdown/indias-lunar-rover-keeps-walking-on-the-moon-days-after-spacecrafts-historic-touchdown.webp</image:loc>
+          <image:loc>https://majordigest.com/tech/2023/08/24/uber-raises-minimum-age-for-most-california-drivers-to-25-saying-insurance-costs-are-too-high/uber-raises-minimum-age-for-most-california-drivers-to-25-saying-insurance-costs-are-too-high.webp</image:loc>
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/tech/2023/08/24/why-wall-streets-obsession-with-a-company-you-probably-never-heard-of-is-sending-stocks-surging/</loc>
+        <loc>https://majordigest.com/tech/2023/08/24/uber-raises-minimum-age-for-most-california-drivers-to-25-saying-insurance-costs-are-too-high/</loc>
         <news:news>
           <news:publication>
             <news:name>Major Digest</news:name>
             <news:language>en</news:language>
           </news:publication>
-          <news:publication_date>2023-08-24T17:34:18.000Z</news:publication_date>
-          <news:title>Why Wall Street&#38;#8217;s obsession with a Silicon Valley company most people never heard of is sending stocks surging</news:title>
+          <news:publication_date>2023-08-24T14:21:06.000Z</news:publication_date>
+          <news:title>Uber raises minimum age for most California drivers to 25, saying insurance costs are too high</news:title>
         </news:news>
         <image:image>
-          <image:loc>https://majordigest.com/tech/2023/08/24/why-wall-streets-obsession-with-a-company-you-probably-never-heard-of-is-sending-stocks-surging/why-wall-streets-obsession-with-a-company-you-probably-never-heard-of-is-sending-stocks-surging.webp</image:loc>
+          <image:loc>https://majordigest.com/tech/2023/08/24/uber-raises-minimum-age-for-most-california-drivers-to-25-saying-insurance-costs-are-too-high/uber-raises-minimum-age-for-most-california-drivers-to-25-saying-insurance-costs-are-too-high.webp</image:loc>
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/tech/2023/08/23/editorial-puc-fails-to-keep-californians-safe-from-autonomous-vehicles/</loc>
+        <loc>https://majordigest.com/tech/2023/08/24/uber-raises-minimum-age-for-most-california-drivers-to-25-saying-insurance-costs-are-too-high/</loc>
         <news:news>
           <news:publication>
             <news:name>Major Digest</news:name>
             <news:language>en</news:language>
           </news:publication>
-          <news:publication_date>2023-08-23T12:30:55.000Z</news:publication_date>
-          <news:title>Editorial: CPUC incompetence lets autotaxis dangerously run amok</news:title>
+          <news:publication_date>2023-08-24T14:21:06.000Z</news:publication_date>
+          <news:title>Uber raises minimum age for most California drivers to 25, saying insurance costs are too high</news:title>
         </news:news>
         <image:image>
-          <image:loc>https://majordigest.com/tech/2023/08/23/editorial-puc-fails-to-keep-californians-safe-from-autonomous-vehicles/editorial-puc-fails-to-keep-californians-safe-from-autonomous-vehicles.webp</image:loc>
+          <image:loc>https://majordigest.com/tech/2023/08/24/uber-raises-minimum-age-for-most-california-drivers-to-25-saying-insurance-costs-are-too-high/uber-raises-minimum-age-for-most-california-drivers-to-25-saying-insurance-costs-are-too-high.webp</image:loc>
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/tech/2023/08/24/the-fukushima-nuclear-plant-is-ready-to-release-radioactive-wastewater-into-sea-later-thursday/</loc>
+        <loc>https://majordigest.com/tech/2023/08/24/uber-raises-minimum-age-for-most-california-drivers-to-25-saying-insurance-costs-are-too-high/</loc>
         <news:news>
           <news:publication>
             <news:name>Major Digest</news:name>
             <news:language>en</news:language>
           </news:publication>
-          <news:publication_date>2023-08-24T01:56:41.000Z</news:publication_date>
-          <news:title>China bans seafood from Japan after the Fukushima nuclear plant begins its wastewater release</news:title>
+          <news:publication_date>2023-08-24T14:21:06.000Z</news:publication_date>
+          <news:title>Uber raises minimum age for most California drivers to 25, saying insurance costs are too high</news:title>
         </news:news>
         <image:image>
-          <image:loc>https://majordigest.com/tech/2023/08/24/the-fukushima-nuclear-plant-is-ready-to-release-radioactive-wastewater-into-sea-later-thursday/the-fukushima-nuclear-plant-is-ready-to-release-radioactive-wastewater-into-sea-later-thursday.webp</image:loc>
+          <image:loc>https://majordigest.com/tech/2023/08/24/uber-raises-minimum-age-for-most-california-drivers-to-25-saying-insurance-costs-are-too-high/uber-raises-minimum-age-for-most-california-drivers-to-25-saying-insurance-costs-are-too-high.webp</image:loc>
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/tech/2023/08/22/bankman-fried-subsisting-on-bread-water-and-peanut-butter-in-jail-lawyer/</loc>
+        <loc>https://majordigest.com/tech/2023/08/24/uber-raises-minimum-age-for-most-california-drivers-to-25-saying-insurance-costs-are-too-high/</loc>
         <news:news>
           <news:publication>
             <news:name>Major Digest</news:name>
             <news:language>en</news:language>
           </news:publication>
-          <news:publication_date>2023-08-22T22:42:25.000Z</news:publication_date>
-          <news:title>Bankman-Fried subsisting on bread, water and peanut butter in jail: lawyer</news:title>
+          <news:publication_date>2023-08-24T14:21:06.000Z</news:publication_date>
+          <news:title>Uber raises minimum age for most California drivers to 25, saying insurance costs are too high</news:title>
         </news:news>
         <image:image>
-          <image:loc>https://majordigest.com/tech/2023/08/22/bankman-fried-subsisting-on-bread-water-and-peanut-butter-in-jail-lawyer/bankman-fried-subsisting-on-bread-water-and-peanut-butter-in-jail-lawyer.webp</image:loc>
+          <image:loc>https://majordigest.com/tech/2023/08/24/uber-raises-minimum-age-for-most-california-drivers-to-25-saying-insurance-costs-are-too-high/uber-raises-minimum-age-for-most-california-drivers-to-25-saying-insurance-costs-are-too-high.webp</image:loc>
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/tech/2023/08/23/faa-spending-millions-at-airports-to-fight-near-collisions/</loc>
+        <loc>https://majordigest.com/tech/2023/08/24/uber-raises-minimum-age-for-most-california-drivers-to-25-saying-insurance-costs-are-too-high/</loc>
         <news:news>
           <news:publication>
             <news:name>Major Digest</news:name>
             <news:language>en</news:language>
           </news:publication>
-          <news:publication_date>2023-08-23T15:24:47.000Z</news:publication_date>
-          <news:title>FAA spending millions at airports to address near collisions</news:title>
+          <news:publication_date>2023-08-24T14:21:06.000Z</news:publication_date>
+          <news:title>Uber raises minimum age for most California drivers to 25, saying insurance costs are too high</news:title>
         </news:news>
         <image:image>
-          <image:loc>https://majordigest.com/tech/2023/08/23/faa-spending-millions-at-airports-to-fight-near-collisions/faa-spending-millions-at-airports-to-fight-near-collisions.webp</image:loc>
+          <image:loc>https://majordigest.com/tech/2023/08/24/uber-raises-minimum-age-for-most-california-drivers-to-25-saying-insurance-costs-are-too-high/uber-raises-minimum-age-for-most-california-drivers-to-25-saying-insurance-costs-are-too-high.webp</image:loc>
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/tech/2023/08/23/ask-kurt-how-activate-auto-reply-text-messages-iphone-android-easily/</loc>
+        <loc>https://majordigest.com/tech/2023/08/24/uber-raises-minimum-age-for-most-california-drivers-to-25-saying-insurance-costs-are-too-high/</loc>
         <news:news>
           <news:publication>
             <news:name>Major Digest</news:name>
             <news:language>en</news:language>
           </news:publication>
-          <news:publication_date>2023-08-23T20:25:20.000Z</news:publication_date>
-          <news:title>Ask Kurt: How to activate auto-reply for text messages on iPhone or Android easily</news:title>
+          <news:publication_date>2023-08-24T14:21:06.000Z</news:publication_date>
+          <news:title>Uber raises minimum age for most California drivers to 25, saying insurance costs are too high</news:title>
         </news:news>
         <image:image>
-          <image:loc>https://majordigest.com/tech/2023/08/23/ask-kurt-how-activate-auto-reply-text-messages-iphone-android-easily/ask-kurt-how-activate-auto-reply-text-messages-iphone-android-easily.webp</image:loc>
+          <image:loc>https://majordigest.com/tech/2023/08/24/uber-raises-minimum-age-for-most-california-drivers-to-25-saying-insurance-costs-are-too-high/uber-raises-minimum-age-for-most-california-drivers-to-25-saying-insurance-costs-are-too-high.webp</image:loc>
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/tech/2023/08/24/us-sues-spacex-for-alleged-hiring-discrimination-against-refugees-and-others/</loc>
+        <loc>https://majordigest.com/tech/2023/08/24/uber-raises-minimum-age-for-most-california-drivers-to-25-saying-insurance-costs-are-too-high/</loc>
         <news:news>
           <news:publication>
             <news:name>Major Digest</news:name>
             <news:language>en</news:language>
           </news:publication>
-          <news:publication_date>2023-08-24T22:55:51.000Z</news:publication_date>
-          <news:title>US sues SpaceX for alleged hiring discrimination against refugees and others</news:title>
+          <news:publication_date>2023-08-24T14:21:06.000Z</news:publication_date>
+          <news:title>Uber raises minimum age for most California drivers to 25, saying insurance costs are too high</news:title>
         </news:news>
         <image:image>
-          <image:loc>https://majordigest.com/tech/2023/08/24/us-sues-spacex-for-alleged-hiring-discrimination-against-refugees-and-others/us-sues-spacex-for-alleged-hiring-discrimination-against-refugees-and-others.webp</image:loc>
+          <image:loc>https://majordigest.com/tech/2023/08/24/uber-raises-minimum-age-for-most-california-drivers-to-25-saying-insurance-costs-are-too-high/uber-raises-minimum-age-for-most-california-drivers-to-25-saying-insurance-costs-are-too-high.webp</image:loc>
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/tech/2023/08/23/samsung-fold-5-versatile-but-with-compromises/</loc>
+        <loc>https://majordigest.com/tech/2023/08/24/uber-raises-minimum-age-for-most-california-drivers-to-25-saying-insurance-costs-are-too-high/</loc>
         <news:news>
           <news:publication>
             <news:name>Major Digest</news:name>
             <news:language>en</news:language>
           </news:publication>
-          <news:publication_date>2023-08-23T12:17:56.000Z</news:publication_date>
-          <news:title>Samsung Fold 5: Versatile, but with compromises</news:title>
+          <news:publication_date>2023-08-24T14:21:06.000Z</news:publication_date>
+          <news:title>Uber raises minimum age for most California drivers to 25, saying insurance costs are too high</news:title>
         </news:news>
         <image:image>
-          <image:loc>https://majordigest.com/tech/2023/08/23/samsung-fold-5-versatile-but-with-compromises/samsung-fold-5-versatile-but-with-compromises.webp</image:loc>
+          <image:loc>https://majordigest.com/tech/2023/08/24/uber-raises-minimum-age-for-most-california-drivers-to-25-saying-insurance-costs-are-too-high/uber-raises-minimum-age-for-most-california-drivers-to-25-saying-insurance-costs-are-too-high.webp</image:loc>
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/tech/2023/08/23/fox-news-ai-newsletter-teachers-go-back-school-ai-cheating-concerns/</loc>
+        <loc>https://majordigest.com/tech/2023/08/24/uber-raises-minimum-age-for-most-california-drivers-to-25-saying-insurance-costs-are-too-high/</loc>
         <news:news>
           <news:publication>
             <news:name>Major Digest</news:name>
             <news:language>en</news:language>
           </news:publication>
-          <news:publication_date>2023-08-23T14:03:55.000Z</news:publication_date>
-          <news:title>Fox News AI Newsletter: Teachers go back to school with AI amid cheating concerns</news:title>
+          <news:publication_date>2023-08-24T14:21:06.000Z</news:publication_date>
+          <news:title>Uber raises minimum age for most California drivers to 25, saying insurance costs are too high</news:title>
         </news:news>
         <image:image>
-          <image:loc>https://majordigest.com/tech/2023/08/23/fox-news-ai-newsletter-teachers-go-back-school-ai-cheating-concerns/fox-news-ai-newsletter-teachers-go-back-school-ai-cheating-concerns.webp</image:loc>
+          <image:loc>https://majordigest.com/tech/2023/08/24/uber-raises-minimum-age-for-most-california-drivers-to-25-saying-insurance-costs-are-too-high/uber-raises-minimum-age-for-most-california-drivers-to-25-saying-insurance-costs-are-too-high.webp</image:loc>
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/tech/2023/08/23/over-half-of-american-workers-say-theyd-consider-quitting-without-flexible-work-options-study/</loc>
+        <loc>https://majordigest.com/tech/2023/08/24/uber-raises-minimum-age-for-most-california-drivers-to-25-saying-insurance-costs-are-too-high/</loc>
         <news:news>
           <news:publication>
             <news:name>Major Digest</news:name>
             <news:language>en</news:language>
           </news:publication>
-          <news:publication_date>2023-08-23T21:42:14.000Z</news:publication_date>
-          <news:title>Post-pandemic, many American workers say they'd consider quitting without flexible work options: study</news:title>
+          <news:publication_date>2023-08-24T14:21:06.000Z</news:publication_date>
+          <news:title>Uber raises minimum age for most California drivers to 25, saying insurance costs are too high</news:title>
         </news:news>
         <image:image>
-          <image:loc>https://majordigest.com/tech/2023/08/23/over-half-of-american-workers-say-theyd-consider-quitting-without-flexible-work-options-study/over-half-of-american-workers-say-theyd-consider-quitting-without-flexible-work-options-study.webp</image:loc>
+          <image:loc>https://majordigest.com/tech/2023/08/24/uber-raises-minimum-age-for-most-california-drivers-to-25-saying-insurance-costs-are-too-high/uber-raises-minimum-age-for-most-california-drivers-to-25-saying-insurance-costs-are-too-high.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/tech/2023/08/24/uber-raises-minimum-age-for-most-california-drivers-to-25-saying-insurance-costs-are-too-high/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-24T14:21:06.000Z</news:publication_date>
+          <news:title>Uber raises minimum age for most California drivers to 25, saying insurance costs are too high</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/tech/2023/08/24/uber-raises-minimum-age-for-most-california-drivers-to-25-saying-insurance-costs-are-too-high/uber-raises-minimum-age-for-most-california-drivers-to-25-saying-insurance-costs-are-too-high.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/tech/2023/08/24/uber-raises-minimum-age-for-most-california-drivers-to-25-saying-insurance-costs-are-too-high/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-24T14:21:06.000Z</news:publication_date>
+          <news:title>Uber raises minimum age for most California drivers to 25, saying insurance costs are too high</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/tech/2023/08/24/uber-raises-minimum-age-for-most-california-drivers-to-25-saying-insurance-costs-are-too-high/uber-raises-minimum-age-for-most-california-drivers-to-25-saying-insurance-costs-are-too-high.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/tech/2023/08/24/uber-raises-minimum-age-for-most-california-drivers-to-25-saying-insurance-costs-are-too-high/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-24T14:21:06.000Z</news:publication_date>
+          <news:title>Uber raises minimum age for most California drivers to 25, saying insurance costs are too high</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/tech/2023/08/24/uber-raises-minimum-age-for-most-california-drivers-to-25-saying-insurance-costs-are-too-high/uber-raises-minimum-age-for-most-california-drivers-to-25-saying-insurance-costs-are-too-high.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/tech/2023/08/24/uber-raises-minimum-age-for-most-california-drivers-to-25-saying-insurance-costs-are-too-high/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-24T14:21:06.000Z</news:publication_date>
+          <news:title>Uber raises minimum age for most California drivers to 25, saying insurance costs are too high</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/tech/2023/08/24/uber-raises-minimum-age-for-most-california-drivers-to-25-saying-insurance-costs-are-too-high/uber-raises-minimum-age-for-most-california-drivers-to-25-saying-insurance-costs-are-too-high.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/tech/2023/08/24/uber-raises-minimum-age-for-most-california-drivers-to-25-saying-insurance-costs-are-too-high/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-24T14:21:06.000Z</news:publication_date>
+          <news:title>Uber raises minimum age for most California drivers to 25, saying insurance costs are too high</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/tech/2023/08/24/uber-raises-minimum-age-for-most-california-drivers-to-25-saying-insurance-costs-are-too-high/uber-raises-minimum-age-for-most-california-drivers-to-25-saying-insurance-costs-are-too-high.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/tech/2023/08/24/uber-raises-minimum-age-for-most-california-drivers-to-25-saying-insurance-costs-are-too-high/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-24T14:21:06.000Z</news:publication_date>
+          <news:title>Uber raises minimum age for most California drivers to 25, saying insurance costs are too high</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/tech/2023/08/24/uber-raises-minimum-age-for-most-california-drivers-to-25-saying-insurance-costs-are-too-high/uber-raises-minimum-age-for-most-california-drivers-to-25-saying-insurance-costs-are-too-high.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/tech/2023/08/24/uber-raises-minimum-age-for-most-california-drivers-to-25-saying-insurance-costs-are-too-high/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-24T14:21:06.000Z</news:publication_date>
+          <news:title>Uber raises minimum age for most California drivers to 25, saying insurance costs are too high</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/tech/2023/08/24/uber-raises-minimum-age-for-most-california-drivers-to-25-saying-insurance-costs-are-too-high/uber-raises-minimum-age-for-most-california-drivers-to-25-saying-insurance-costs-are-too-high.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/tech/2023/08/24/uber-raises-minimum-age-for-most-california-drivers-to-25-saying-insurance-costs-are-too-high/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-24T14:21:06.000Z</news:publication_date>
+          <news:title>Uber raises minimum age for most California drivers to 25, saying insurance costs are too high</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/tech/2023/08/24/uber-raises-minimum-age-for-most-california-drivers-to-25-saying-insurance-costs-are-too-high/uber-raises-minimum-age-for-most-california-drivers-to-25-saying-insurance-costs-are-too-high.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/tech/2023/08/24/uber-raises-minimum-age-for-most-california-drivers-to-25-saying-insurance-costs-are-too-high/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-24T14:21:06.000Z</news:publication_date>
+          <news:title>Uber raises minimum age for most California drivers to 25, saying insurance costs are too high</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/tech/2023/08/24/uber-raises-minimum-age-for-most-california-drivers-to-25-saying-insurance-costs-are-too-high/uber-raises-minimum-age-for-most-california-drivers-to-25-saying-insurance-costs-are-too-high.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/tech/2023/08/24/uber-raises-minimum-age-for-most-california-drivers-to-25-saying-insurance-costs-are-too-high/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-24T14:21:06.000Z</news:publication_date>
+          <news:title>Uber raises minimum age for most California drivers to 25, saying insurance costs are too high</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/tech/2023/08/24/uber-raises-minimum-age-for-most-california-drivers-to-25-saying-insurance-costs-are-too-high/uber-raises-minimum-age-for-most-california-drivers-to-25-saying-insurance-costs-are-too-high.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/tech/2023/08/24/uber-raises-minimum-age-for-most-california-drivers-to-25-saying-insurance-costs-are-too-high/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-24T14:21:06.000Z</news:publication_date>
+          <news:title>Uber raises minimum age for most California drivers to 25, saying insurance costs are too high</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/tech/2023/08/24/uber-raises-minimum-age-for-most-california-drivers-to-25-saying-insurance-costs-are-too-high/uber-raises-minimum-age-for-most-california-drivers-to-25-saying-insurance-costs-are-too-high.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/tech/2023/08/24/uber-raises-minimum-age-for-most-california-drivers-to-25-saying-insurance-costs-are-too-high/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-24T14:21:06.000Z</news:publication_date>
+          <news:title>Uber raises minimum age for most California drivers to 25, saying insurance costs are too high</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/tech/2023/08/24/uber-raises-minimum-age-for-most-california-drivers-to-25-saying-insurance-costs-are-too-high/uber-raises-minimum-age-for-most-california-drivers-to-25-saying-insurance-costs-are-too-high.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/tech/2023/08/24/uber-raises-minimum-age-for-most-california-drivers-to-25-saying-insurance-costs-are-too-high/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-24T14:21:06.000Z</news:publication_date>
+          <news:title>Uber raises minimum age for most California drivers to 25, saying insurance costs are too high</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/tech/2023/08/24/uber-raises-minimum-age-for-most-california-drivers-to-25-saying-insurance-costs-are-too-high/uber-raises-minimum-age-for-most-california-drivers-to-25-saying-insurance-costs-are-too-high.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/tech/2023/08/24/uber-raises-minimum-age-for-most-california-drivers-to-25-saying-insurance-costs-are-too-high/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-24T14:21:06.000Z</news:publication_date>
+          <news:title>Uber raises minimum age for most California drivers to 25, saying insurance costs are too high</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/tech/2023/08/24/uber-raises-minimum-age-for-most-california-drivers-to-25-saying-insurance-costs-are-too-high/uber-raises-minimum-age-for-most-california-drivers-to-25-saying-insurance-costs-are-too-high.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/tech/2023/08/24/uber-raises-minimum-age-for-most-california-drivers-to-25-saying-insurance-costs-are-too-high/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-24T14:21:06.000Z</news:publication_date>
+          <news:title>Uber raises minimum age for most California drivers to 25, saying insurance costs are too high</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/tech/2023/08/24/uber-raises-minimum-age-for-most-california-drivers-to-25-saying-insurance-costs-are-too-high/uber-raises-minimum-age-for-most-california-drivers-to-25-saying-insurance-costs-are-too-high.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/tech/2023/08/24/uber-raises-minimum-age-for-most-california-drivers-to-25-saying-insurance-costs-are-too-high/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-24T14:21:06.000Z</news:publication_date>
+          <news:title>Uber raises minimum age for most California drivers to 25, saying insurance costs are too high</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/tech/2023/08/24/uber-raises-minimum-age-for-most-california-drivers-to-25-saying-insurance-costs-are-too-high/uber-raises-minimum-age-for-most-california-drivers-to-25-saying-insurance-costs-are-too-high.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/tech/2023/08/24/uber-raises-minimum-age-for-most-california-drivers-to-25-saying-insurance-costs-are-too-high/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-24T14:21:06.000Z</news:publication_date>
+          <news:title>Uber raises minimum age for most California drivers to 25, saying insurance costs are too high</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/tech/2023/08/24/uber-raises-minimum-age-for-most-california-drivers-to-25-saying-insurance-costs-are-too-high/uber-raises-minimum-age-for-most-california-drivers-to-25-saying-insurance-costs-are-too-high.webp</image:loc>
         </image:image>
       </url></urlset>
