@@ -3,20 +3,6 @@
               xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
               xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
       <url>
-        <loc>https://majordigest.com/world/2023/08/22/ap-pakistan-mounts-efforts-to-rescue-6-children-and-2-men-trapped-in-a-chairlift/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-22T18:10:45.000Z</news:publication_date>
-          <news:title>Rescuers save 8 people trapped in cable car dangling above canyon in Pakistan</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/world/2023/08/22/ap-pakistan-mounts-efforts-to-rescue-6-children-and-2-men-trapped-in-a-chairlift/ap-pakistan-mounts-efforts-to-rescue-6-children-and-2-men-trapped-in-a-chairlift.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
         <loc>https://majordigest.com/world/2023/08/21/ap-canadian-firefighters-make-progress-battling-some-blazes-but-others-push-thousands-from-their-homes/</loc>
         <news:news>
           <news:publication>
@@ -31,31 +17,59 @@
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/world/2023/08/22/cuban-little-league-coach-jose-perez-goes-missing-at-world-series/</loc>
+        <loc>https://majordigest.com/world/2023/08/27/us-military-aircraft-carrying-about-20-marines-crashes-over-australia-killing-3-injuring-others/</loc>
         <news:news>
           <news:publication>
             <news:name>Major Digest</news:name>
             <news:language>en</news:language>
           </news:publication>
-          <news:publication_date>2023-08-22T15:54:16.000Z</news:publication_date>
-          <news:title>Cuban Little League coach Jose Perez goes missing at World Series</news:title>
+          <news:publication_date>2023-08-27T06:50:34.000Z</news:publication_date>
+          <news:title>US military aircraft carrying more than 20 Marines crashes over Australia, killing 3 and injuring others</news:title>
         </news:news>
         <image:image>
-          <image:loc>https://majordigest.com/world/2023/08/22/cuban-little-league-coach-jose-perez-goes-missing-at-world-series/cuban-little-league-coach-jose-perez-goes-missing-at-world-series.webp</image:loc>
+          <image:loc>https://majordigest.com/world/2023/08/27/us-military-aircraft-carrying-about-20-marines-crashes-over-australia-killing-3-injuring-others/us-military-aircraft-carrying-about-20-marines-crashes-over-australia-killing-3-injuring-others.webp</image:loc>
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/world/2023/08/26/biden-honors-service-members-killed-during-afghanistan-withdrawal/</loc>
+        <loc>https://majordigest.com/world/2023/08/26/gershkovich-appeals-russian-extension-of-pretrial-detention/</loc>
         <news:news>
           <news:publication>
             <news:name>Major Digest</news:name>
             <news:language>en</news:language>
           </news:publication>
-          <news:publication_date>2023-08-26T22:03:42.000Z</news:publication_date>
-          <news:title>Biden honors service members killed during Afghanistan withdrawal</news:title>
+          <news:publication_date>2023-08-26T18:27:48.000Z</news:publication_date>
+          <news:title>Reporter Evan Gershkovich appeals Russia's extension of pretrial detention</news:title>
         </news:news>
         <image:image>
-          <image:loc>https://majordigest.com/world/2023/08/26/biden-honors-service-members-killed-during-afghanistan-withdrawal/biden-honors-service-members-killed-during-afghanistan-withdrawal.webp</image:loc>
+          <image:loc>https://majordigest.com/world/2023/08/26/gershkovich-appeals-russian-extension-of-pretrial-detention/gershkovich-appeals-russian-extension-of-pretrial-detention.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/world/2023/08/27/zimbabwes-opposition-alleges-gigantic-fraud-in-vote-that-extends-the-zanu-pf-partys-43-year-rule/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-27T11:00:28.000Z</news:publication_date>
+          <news:title>Zimbabwe's opposition alleges 'gigantic fraud' in vote that extends the ZANU-PF party's 43-year rule</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/world/2023/08/27/zimbabwes-opposition-alleges-gigantic-fraud-in-vote-that-extends-the-zanu-pf-partys-43-year-rule/zimbabwes-opposition-alleges-gigantic-fraud-in-vote-that-extends-the-zanu-pf-partys-43-year-rule.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/world/2023/08/27/wagner-boss-confirmed-dead-by-russian-officials/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-27T12:10:42.000Z</news:publication_date>
+          <news:title>Wagner boss confirmed dead by Russian officials</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/world/2023/08/27/wagner-boss-confirmed-dead-by-russian-officials/wagner-boss-confirmed-dead-by-russian-officials.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -87,185 +101,17 @@
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/world/2023/08/24/biden-zelensky-talk-training-ukrainian-fighter-pilots-on-f-16s-to-mark-18-months-since-russian-invasion/</loc>
+        <loc>https://majordigest.com/world/2023/08/23/study-osteoarthritis-2050-estimate-1-billion/</loc>
         <news:news>
           <news:publication>
             <news:name>Major Digest</news:name>
             <news:language>en</news:language>
           </news:publication>
-          <news:publication_date>2023-08-24T23:50:43.000Z</news:publication_date>
-          <news:title>Biden, Zelensky talk training Ukrainian fighter pilots on F-16s to mark 18 months since Russian invasion</news:title>
+          <news:publication_date>2023-08-23T04:11:15.000Z</news:publication_date>
+          <news:title>Study: More than 1B likely to have osteoarthritis by 2050</news:title>
         </news:news>
         <image:image>
-          <image:loc>https://majordigest.com/world/2023/08/24/biden-zelensky-talk-training-ukrainian-fighter-pilots-on-f-16s-to-mark-18-months-since-russian-invasion/biden-zelensky-talk-training-ukrainian-fighter-pilots-on-f-16s-to-mark-18-months-since-russian-invasion.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/world/2023/08/26/pope-francis-urges-russian-children-artisans-peace-address/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-26T11:45:07.000Z</news:publication_date>
-          <news:title>Pope Francis urges Russian children to become &#38;#8216;artisans of peace&#38;#8217; in address</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/world/2023/08/26/pope-francis-urges-russian-children-artisans-peace-address/pope-francis-urges-russian-children-artisans-peace-address.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/world/2023/08/26/ap-un-experts-say-islamic-state-group-almost-doubled-the-territory-they-control-in-mali-in-under-a-year/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-26T21:14:27.000Z</news:publication_date>
-          <news:title>UN experts say Islamic State group almost doubled the territory they control in Mali in under a year</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/world/2023/08/26/ap-un-experts-say-islamic-state-group-almost-doubled-the-territory-they-control-in-mali-in-under-a-year/ap-un-experts-say-islamic-state-group-almost-doubled-the-territory-they-control-in-mali-in-under-a-year.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/world/2023/08/27/takeaways-from-aps-investigation-into-sexual-harassment-and-assault-at-antarcticas-mcmurdo-station/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-27T04:08:17.000Z</news:publication_date>
-          <news:title>Takeaways from AP's investigation into sexual harassment and assault at Antarctica's McMurdo Station</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/world/2023/08/27/takeaways-from-aps-investigation-into-sexual-harassment-and-assault-at-antarcticas-mcmurdo-station/takeaways-from-aps-investigation-into-sexual-harassment-and-assault-at-antarcticas-mcmurdo-station.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/world/2023/08/21/ap-uk-judge-set-to-sentence-lucy-letby-the-most-prolific-child-killer-in-modern-uk-history/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-21T12:25:51.000Z</news:publication_date>
-          <news:title>British nurse Lucy Letby imprisoned for life for the murders of 7 babies and attempted murders of 6</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/world/2023/08/21/ap-uk-judge-set-to-sentence-lucy-letby-the-most-prolific-child-killer-in-modern-uk-history/ap-uk-judge-set-to-sentence-lucy-letby-the-most-prolific-child-killer-in-modern-uk-history.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/world/2023/08/23/jet-crash-in-russia-kills-10-and-wagner-chief-was-on-passenger-list-officials-say/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-23T17:38:57.000Z</news:publication_date>
-          <news:title>Jet crash in Russia kills 10 and Wagner chief was on passenger list, officials say</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/world/2023/08/23/jet-crash-in-russia-kills-10-and-wagner-chief-was-on-passenger-list-officials-say/jet-crash-in-russia-kills-10-and-wagner-chief-was-on-passenger-list-officials-say.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/world/2023/08/26/zimbabwean-president-emmerson-mnangagwa-wins-re-election-after-troubled-vote/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-26T21:48:49.000Z</news:publication_date>
-          <news:title>Zimbabwean President Emmerson Mnangagwa wins re-election after troubled vote, officials say</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/world/2023/08/26/zimbabwean-president-emmerson-mnangagwa-wins-re-election-after-troubled-vote/zimbabwean-president-emmerson-mnangagwa-wins-re-election-after-troubled-vote.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/world/2023/08/26/gershkovich-appeals-russian-extension-of-pretrial-detention/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-26T18:27:48.000Z</news:publication_date>
-          <news:title>Reporter Evan Gershkovich appeals Russia's extension of pretrial detention</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/world/2023/08/26/gershkovich-appeals-russian-extension-of-pretrial-detention/gershkovich-appeals-russian-extension-of-pretrial-detention.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/world/2023/08/27/ukraine-investigates-incident-that-killed-3-pilots-while-russia-attacks-with-cruise-missiles/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-27T09:23:19.000Z</news:publication_date>
-          <news:title>Ukraine investigates incident that killed 3 pilots while Russia attacks with cruise missiles</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/world/2023/08/27/ukraine-investigates-incident-that-killed-3-pilots-while-russia-attacks-with-cruise-missiles/ukraine-investigates-incident-that-killed-3-pilots-while-russia-attacks-with-cruise-missiles.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/world/2023/08/26/ap-fukushima-residents-react-cautiously-after-start-of-treated-water-release-from-wrecked-nuclear-plant/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-26T20:22:48.000Z</news:publication_date>
-          <news:title>Fukushima residents are cautious after the wrecked nuclear plant began releasing treated wastewater</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/world/2023/08/26/ap-fukushima-residents-react-cautiously-after-start-of-treated-water-release-from-wrecked-nuclear-plant/ap-fukushima-residents-react-cautiously-after-start-of-treated-water-release-from-wrecked-nuclear-plant.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/world/2023/08/24/fifa-opens-case-against-spanish-soccer-official-who-kissed-player-on-lips-at-womens-world-cup/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-24T20:20:35.000Z</news:publication_date>
-          <news:title>FIFA opens case against Spanish soccer official who kissed player on lips at Women's World Cup</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/world/2023/08/24/fifa-opens-case-against-spanish-soccer-official-who-kissed-player-on-lips-at-womens-world-cup/fifa-opens-case-against-spanish-soccer-official-who-kissed-player-on-lips-at-womens-world-cup.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/world/2023/08/21/ap-spanish-soccer-leaders-behavior-at-womens-world-cup-final-provokes-angry-reaction/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-21T17:27:08.000Z</news:publication_date>
-          <news:title>Angry reaction after Spanish soccer leader kissed a Women&#38;#8217;s World Cup star on the mouth</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/world/2023/08/21/ap-spanish-soccer-leaders-behavior-at-womens-world-cup-final-provokes-angry-reaction/ap-spanish-soccer-leaders-behavior-at-womens-world-cup-final-provokes-angry-reaction.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/world/2023/08/27/us-military-aircraft-carrying-about-20-marines-crashes-over-australia-killing-3-injuring-others/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-27T06:50:34.000Z</news:publication_date>
-          <news:title>US military aircraft carrying more than 20 Marines crashes over Australia, killing 3 and injuring others</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/world/2023/08/27/us-military-aircraft-carrying-about-20-marines-crashes-over-australia-killing-3-injuring-others/us-military-aircraft-carrying-about-20-marines-crashes-over-australia-killing-3-injuring-others.webp</image:loc>
+          <image:loc>https://majordigest.com/world/2023/08/23/study-osteoarthritis-2050-estimate-1-billion/study-osteoarthritis-2050-estimate-1-billion.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -283,73 +129,59 @@
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/world/2023/08/27/women-working-in-antarctica-say-they-were-left-to-fend-for-themselves-against-sexual-harassers/</loc>
+        <loc>https://majordigest.com/world/2023/08/27/ukraine-investigates-incident-that-killed-3-pilots-while-russia-attacks-with-cruise-missiles/</loc>
         <news:news>
           <news:publication>
             <news:name>Major Digest</news:name>
             <news:language>en</news:language>
           </news:publication>
-          <news:publication_date>2023-08-27T04:04:20.000Z</news:publication_date>
-          <news:title>Women working in Antarctica say they were left to fend for themselves against sexual harassers</news:title>
+          <news:publication_date>2023-08-27T09:23:19.000Z</news:publication_date>
+          <news:title>Ukraine investigates incident that killed 3 pilots while Russia attacks with cruise missiles</news:title>
         </news:news>
         <image:image>
-          <image:loc>https://majordigest.com/world/2023/08/27/women-working-in-antarctica-say-they-were-left-to-fend-for-themselves-against-sexual-harassers/women-working-in-antarctica-say-they-were-left-to-fend-for-themselves-against-sexual-harassers.webp</image:loc>
+          <image:loc>https://majordigest.com/world/2023/08/27/ukraine-investigates-incident-that-killed-3-pilots-while-russia-attacks-with-cruise-missiles/ukraine-investigates-incident-that-killed-3-pilots-while-russia-attacks-with-cruise-missiles.webp</image:loc>
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/world/2023/08/27/zimbabwes-opposition-alleges-gigantic-fraud-in-vote-that-extends-the-zanu-pf-partys-43-year-rule/</loc>
+        <loc>https://majordigest.com/world/2023/08/24/fifa-opens-case-against-spanish-soccer-official-who-kissed-player-on-lips-at-womens-world-cup/</loc>
         <news:news>
           <news:publication>
             <news:name>Major Digest</news:name>
             <news:language>en</news:language>
           </news:publication>
-          <news:publication_date>2023-08-27T11:00:28.000Z</news:publication_date>
-          <news:title>Zimbabwe's opposition alleges 'gigantic fraud' in vote that extends the ZANU-PF party's 43-year rule</news:title>
+          <news:publication_date>2023-08-24T20:20:35.000Z</news:publication_date>
+          <news:title>FIFA opens case against Spanish soccer official who kissed player on lips at Women's World Cup</news:title>
         </news:news>
         <image:image>
-          <image:loc>https://majordigest.com/world/2023/08/27/zimbabwes-opposition-alleges-gigantic-fraud-in-vote-that-extends-the-zanu-pf-partys-43-year-rule/zimbabwes-opposition-alleges-gigantic-fraud-in-vote-that-extends-the-zanu-pf-partys-43-year-rule.webp</image:loc>
+          <image:loc>https://majordigest.com/world/2023/08/24/fifa-opens-case-against-spanish-soccer-official-who-kissed-player-on-lips-at-womens-world-cup/fifa-opens-case-against-spanish-soccer-official-who-kissed-player-on-lips-at-womens-world-cup.webp</image:loc>
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/world/2023/08/27/ap-zimbabwean-president-emmerson-mnangagwa-wins-re-election-after-troubled-vote/</loc>
+        <loc>https://majordigest.com/world/2023/08/26/biden-honors-service-members-killed-during-afghanistan-withdrawal/</loc>
         <news:news>
           <news:publication>
             <news:name>Major Digest</news:name>
             <news:language>en</news:language>
           </news:publication>
-          <news:publication_date>2023-08-27T07:30:51.000Z</news:publication_date>
-          <news:title>Zimbabwean President Emmerson Mnangagwa wins re-election after troubled vote, officials say</news:title>
+          <news:publication_date>2023-08-26T22:03:42.000Z</news:publication_date>
+          <news:title>Biden honors service members killed during Afghanistan withdrawal</news:title>
         </news:news>
         <image:image>
-          <image:loc>https://majordigest.com/world/2023/08/27/ap-zimbabwean-president-emmerson-mnangagwa-wins-re-election-after-troubled-vote/ap-zimbabwean-president-emmerson-mnangagwa-wins-re-election-after-troubled-vote.webp</image:loc>
+          <image:loc>https://majordigest.com/world/2023/08/26/biden-honors-service-members-killed-during-afghanistan-withdrawal/biden-honors-service-members-killed-during-afghanistan-withdrawal.webp</image:loc>
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/world/2023/08/23/study-osteoarthritis-2050-estimate-1-billion/</loc>
+        <loc>https://majordigest.com/world/2023/08/22/ap-pakistan-mounts-efforts-to-rescue-6-children-and-2-men-trapped-in-a-chairlift/</loc>
         <news:news>
           <news:publication>
             <news:name>Major Digest</news:name>
             <news:language>en</news:language>
           </news:publication>
-          <news:publication_date>2023-08-23T04:11:15.000Z</news:publication_date>
-          <news:title>Study: More than 1B likely to have osteoarthritis by 2050</news:title>
+          <news:publication_date>2023-08-22T18:10:45.000Z</news:publication_date>
+          <news:title>Rescuers save 8 people trapped in cable car dangling above canyon in Pakistan</news:title>
         </news:news>
         <image:image>
-          <image:loc>https://majordigest.com/world/2023/08/23/study-osteoarthritis-2050-estimate-1-billion/study-osteoarthritis-2050-estimate-1-billion.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/world/2023/08/23/prigozhins-death-russians-against-govt/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-23T21:53:48.000Z</news:publication_date>
-          <news:title>Prigozhin's death could turn Russians against gov't: Ret. Lt. Col.</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/world/2023/08/23/prigozhins-death-russians-against-govt/prigozhins-death-russians-against-govt.webp</image:loc>
+          <image:loc>https://majordigest.com/world/2023/08/22/ap-pakistan-mounts-efforts-to-rescue-6-children-and-2-men-trapped-in-a-chairlift/ap-pakistan-mounts-efforts-to-rescue-6-children-and-2-men-trapped-in-a-chairlift.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -367,101 +199,31 @@
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/world/2023/08/26/spacex-nasa-launch-international-crew-to-space-station-a-united-team-with-a-common-mission/</loc>
+        <loc>https://majordigest.com/world/2023/08/22/cuban-little-league-coach-jose-perez-goes-missing-at-world-series/</loc>
         <news:news>
           <news:publication>
             <news:name>Major Digest</news:name>
             <news:language>en</news:language>
           </news:publication>
-          <news:publication_date>2023-08-26T17:46:38.000Z</news:publication_date>
-          <news:title>SpaceX, NASA launch international crew to space station: 'A united team with a common mission'</news:title>
+          <news:publication_date>2023-08-22T15:54:16.000Z</news:publication_date>
+          <news:title>Cuban Little League coach Jose Perez goes missing at World Series</news:title>
         </news:news>
         <image:image>
-          <image:loc>https://majordigest.com/world/2023/08/26/spacex-nasa-launch-international-crew-to-space-station-a-united-team-with-a-common-mission/spacex-nasa-launch-international-crew-to-space-station-a-united-team-with-a-common-mission.webp</image:loc>
+          <image:loc>https://majordigest.com/world/2023/08/22/cuban-little-league-coach-jose-perez-goes-missing-at-world-series/cuban-little-league-coach-jose-perez-goes-missing-at-world-series.webp</image:loc>
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/world/2023/08/22/shacarri-richardson-caps-comeback-by-winning-100-meter-title-at-worlds/</loc>
+        <loc>https://majordigest.com/world/2023/08/26/zimbabwean-president-emmerson-mnangagwa-wins-re-election-after-troubled-vote/</loc>
         <news:news>
           <news:publication>
             <news:name>Major Digest</news:name>
             <news:language>en</news:language>
           </news:publication>
-          <news:publication_date>2023-08-22T23:39:56.000Z</news:publication_date>
-          <news:title>Sha&#38;#8217;Carri Richardson caps comeback by winning 100-meter title at worlds</news:title>
+          <news:publication_date>2023-08-26T21:48:49.000Z</news:publication_date>
+          <news:title>Zimbabwean President Emmerson Mnangagwa wins re-election after troubled vote, officials say</news:title>
         </news:news>
         <image:image>
-          <image:loc>https://majordigest.com/world/2023/08/22/shacarri-richardson-caps-comeback-by-winning-100-meter-title-at-worlds/shacarri-richardson-caps-comeback-by-winning-100-meter-title-at-worlds.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/world/2023/08/27/russia-says-it-has-confirmed-prigozhin-died-in-the-plane-crash/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-27T10:50:02.000Z</news:publication_date>
-          <news:title>Russia says it confirmed Wagner leader Prigozhin died in a plane crash</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/world/2023/08/27/russia-says-it-has-confirmed-prigozhin-died-in-the-plane-crash/russia-says-it-has-confirmed-prigozhin-died-in-the-plane-crash.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/world/2023/08/26/putin-ally-claims-wagner-boss-dismissed-warnings-safety-following-mutiny-hell/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-26T15:10:27.000Z</news:publication_date>
-          <news:title>Putin ally claims Wagner boss dismissed warnings about safety following mutiny: 'To hell with it'</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/world/2023/08/26/putin-ally-claims-wagner-boss-dismissed-warnings-safety-following-mutiny-hell/putin-ally-claims-wagner-boss-dismissed-warnings-safety-following-mutiny-hell.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/world/2023/08/21/search-continues-for-cuban-coach-who-disappeared-from-little-league-world-series/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-21T21:09:24.000Z</news:publication_date>
-          <news:title>Search continues for Cuban coach who disappeared from Little League World Series</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/world/2023/08/21/search-continues-for-cuban-coach-who-disappeared-from-little-league-world-series/search-continues-for-cuban-coach-who-disappeared-from-little-league-world-series.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/world/2023/08/24/putin-breaks-silence-on-plane-crash-that-presumably-killed-wagner-leaders/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-24T16:33:08.000Z</news:publication_date>
-          <news:title>Putin breaks silence on plane crash that presumably killed Wagner leaders</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/world/2023/08/24/putin-breaks-silence-on-plane-crash-that-presumably-killed-wagner-leaders/putin-breaks-silence-on-plane-crash-that-presumably-killed-wagner-leaders.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/world/2023/08/27/ap-more-than-600-firefighters-backed-by-water-dropping-aircraft-struggle-to-control-wildfires-in-greece/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-27T08:56:21.000Z</news:publication_date>
-          <news:title>More than 600 firefighters backed by water-dropping aircraft struggle to control wildfires in Greece</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/world/2023/08/27/ap-more-than-600-firefighters-backed-by-water-dropping-aircraft-struggle-to-control-wildfires-in-greece/ap-more-than-600-firefighters-backed-by-water-dropping-aircraft-struggle-to-control-wildfires-in-greece.webp</image:loc>
+          <image:loc>https://majordigest.com/world/2023/08/26/zimbabwean-president-emmerson-mnangagwa-wins-re-election-after-troubled-vote/zimbabwean-president-emmerson-mnangagwa-wins-re-election-after-troubled-vote.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -479,31 +241,31 @@
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/world/2023/08/26/putins-hope-ai-increase-information-control-end-western-tech-dependence-largely-aspirational/</loc>
+        <loc>https://majordigest.com/world/2023/08/24/biden-zelensky-talk-training-ukrainian-fighter-pilots-on-f-16s-to-mark-18-months-since-russian-invasion/</loc>
         <news:news>
           <news:publication>
             <news:name>Major Digest</news:name>
             <news:language>en</news:language>
           </news:publication>
-          <news:publication_date>2023-08-26T06:00:20.000Z</news:publication_date>
-          <news:title>Putin's hope for AI to increase information control, end Western tech dependence largely 'aspirational'</news:title>
+          <news:publication_date>2023-08-24T23:50:43.000Z</news:publication_date>
+          <news:title>Biden, Zelensky talk training Ukrainian fighter pilots on F-16s to mark 18 months since Russian invasion</news:title>
         </news:news>
         <image:image>
-          <image:loc>https://majordigest.com/world/2023/08/26/putins-hope-ai-increase-information-control-end-western-tech-dependence-largely-aspirational/putins-hope-ai-increase-information-control-end-western-tech-dependence-largely-aspirational.webp</image:loc>
+          <image:loc>https://majordigest.com/world/2023/08/24/biden-zelensky-talk-training-ukrainian-fighter-pilots-on-f-16s-to-mark-18-months-since-russian-invasion/biden-zelensky-talk-training-ukrainian-fighter-pilots-on-f-16s-to-mark-18-months-since-russian-invasion.webp</image:loc>
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/world/2023/08/24/prigozhins-fate-a-warning-shot-for-putins-critics/</loc>
+        <loc>https://majordigest.com/world/2023/08/26/ap-un-experts-say-islamic-state-group-almost-doubled-the-territory-they-control-in-mali-in-under-a-year/</loc>
         <news:news>
           <news:publication>
             <news:name>Major Digest</news:name>
             <news:language>en</news:language>
           </news:publication>
-          <news:publication_date>2023-08-24T22:11:09.000Z</news:publication_date>
-          <news:title>Prigozhin's fate a warning shot for Putin's critics</news:title>
+          <news:publication_date>2023-08-26T21:14:27.000Z</news:publication_date>
+          <news:title>UN experts say Islamic State group almost doubled the territory they control in Mali in under a year</news:title>
         </news:news>
         <image:image>
-          <image:loc>https://majordigest.com/world/2023/08/24/prigozhins-fate-a-warning-shot-for-putins-critics/prigozhins-fate-a-warning-shot-for-putins-critics.webp</image:loc>
+          <image:loc>https://majordigest.com/world/2023/08/26/ap-un-experts-say-islamic-state-group-almost-doubled-the-territory-they-control-in-mali-in-under-a-year/ap-un-experts-say-islamic-state-group-almost-doubled-the-territory-they-control-in-mali-in-under-a-year.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -518,5 +280,243 @@
         </news:news>
         <image:image>
           <image:loc>https://majordigest.com/world/2023/08/27/more-than-600-firefighters-backed-by-water-dropping-aircraft-struggle-to-control-wildfires-in-greece/more-than-600-firefighters-backed-by-water-dropping-aircraft-struggle-to-control-wildfires-in-greece.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/world/2023/08/26/putin-ally-claims-wagner-boss-dismissed-warnings-safety-following-mutiny-hell/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-26T15:10:27.000Z</news:publication_date>
+          <news:title>Putin ally claims Wagner boss dismissed warnings about safety following mutiny: 'To hell with it'</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/world/2023/08/26/putin-ally-claims-wagner-boss-dismissed-warnings-safety-following-mutiny-hell/putin-ally-claims-wagner-boss-dismissed-warnings-safety-following-mutiny-hell.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/world/2023/08/21/ap-spanish-soccer-leaders-behavior-at-womens-world-cup-final-provokes-angry-reaction/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-21T17:27:08.000Z</news:publication_date>
+          <news:title>Angry reaction after Spanish soccer leader kissed a Women&#38;#8217;s World Cup star on the mouth</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/world/2023/08/21/ap-spanish-soccer-leaders-behavior-at-womens-world-cup-final-provokes-angry-reaction/ap-spanish-soccer-leaders-behavior-at-womens-world-cup-final-provokes-angry-reaction.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/world/2023/08/26/spacex-nasa-launch-international-crew-to-space-station-a-united-team-with-a-common-mission/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-26T17:46:38.000Z</news:publication_date>
+          <news:title>SpaceX, NASA launch international crew to space station: 'A united team with a common mission'</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/world/2023/08/26/spacex-nasa-launch-international-crew-to-space-station-a-united-team-with-a-common-mission/spacex-nasa-launch-international-crew-to-space-station-a-united-team-with-a-common-mission.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/world/2023/08/21/ap-uk-judge-set-to-sentence-lucy-letby-the-most-prolific-child-killer-in-modern-uk-history/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-21T12:25:51.000Z</news:publication_date>
+          <news:title>British nurse Lucy Letby imprisoned for life for the murders of 7 babies and attempted murders of 6</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/world/2023/08/21/ap-uk-judge-set-to-sentence-lucy-letby-the-most-prolific-child-killer-in-modern-uk-history/ap-uk-judge-set-to-sentence-lucy-letby-the-most-prolific-child-killer-in-modern-uk-history.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/world/2023/08/23/prigozhins-death-russians-against-govt/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-23T21:53:48.000Z</news:publication_date>
+          <news:title>Prigozhin's death could turn Russians against gov't: Ret. Lt. Col.</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/world/2023/08/23/prigozhins-death-russians-against-govt/prigozhins-death-russians-against-govt.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/world/2023/08/27/ap-zimbabwean-president-emmerson-mnangagwa-wins-re-election-after-troubled-vote/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-27T07:30:51.000Z</news:publication_date>
+          <news:title>Zimbabwean President Emmerson Mnangagwa wins re-election after troubled vote, officials say</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/world/2023/08/27/ap-zimbabwean-president-emmerson-mnangagwa-wins-re-election-after-troubled-vote/ap-zimbabwean-president-emmerson-mnangagwa-wins-re-election-after-troubled-vote.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/world/2023/08/26/ap-fukushima-residents-react-cautiously-after-start-of-treated-water-release-from-wrecked-nuclear-plant/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-26T20:22:48.000Z</news:publication_date>
+          <news:title>Fukushima residents are cautious after the wrecked nuclear plant began releasing treated wastewater</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/world/2023/08/26/ap-fukushima-residents-react-cautiously-after-start-of-treated-water-release-from-wrecked-nuclear-plant/ap-fukushima-residents-react-cautiously-after-start-of-treated-water-release-from-wrecked-nuclear-plant.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/world/2023/08/27/ap-prigozhins-final-months-were-overshadowed-by-questions-about-what-the-kremlin-had-in-store-for-him/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-27T11:20:32.000Z</news:publication_date>
+          <news:title>Prigozhin's final months were overshadowed by questions about what the Kremlin had in store for him</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/world/2023/08/27/ap-prigozhins-final-months-were-overshadowed-by-questions-about-what-the-kremlin-had-in-store-for-him/ap-prigozhins-final-months-were-overshadowed-by-questions-about-what-the-kremlin-had-in-store-for-him.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/world/2023/08/26/pope-francis-urges-russian-children-artisans-peace-address/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-26T11:45:07.000Z</news:publication_date>
+          <news:title>Pope Francis urges Russian children to become &#38;#8216;artisans of peace&#38;#8217; in address</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/world/2023/08/26/pope-francis-urges-russian-children-artisans-peace-address/pope-francis-urges-russian-children-artisans-peace-address.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/world/2023/08/23/jet-crash-in-russia-kills-10-and-wagner-chief-was-on-passenger-list-officials-say/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-23T17:38:57.000Z</news:publication_date>
+          <news:title>Jet crash in Russia kills 10 and Wagner chief was on passenger list, officials say</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/world/2023/08/23/jet-crash-in-russia-kills-10-and-wagner-chief-was-on-passenger-list-officials-say/jet-crash-in-russia-kills-10-and-wagner-chief-was-on-passenger-list-officials-say.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/world/2023/08/26/putins-hope-ai-increase-information-control-end-western-tech-dependence-largely-aspirational/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-26T06:00:20.000Z</news:publication_date>
+          <news:title>Putin's hope for AI to increase information control, end Western tech dependence largely 'aspirational'</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/world/2023/08/26/putins-hope-ai-increase-information-control-end-western-tech-dependence-largely-aspirational/putins-hope-ai-increase-information-control-end-western-tech-dependence-largely-aspirational.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/world/2023/08/27/russia-says-it-has-confirmed-prigozhin-died-in-the-plane-crash/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-27T10:50:02.000Z</news:publication_date>
+          <news:title>Russia says it confirmed Wagner leader Prigozhin died in a plane crash</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/world/2023/08/27/russia-says-it-has-confirmed-prigozhin-died-in-the-plane-crash/russia-says-it-has-confirmed-prigozhin-died-in-the-plane-crash.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/world/2023/08/22/shacarri-richardson-caps-comeback-by-winning-100-meter-title-at-worlds/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-22T23:39:56.000Z</news:publication_date>
+          <news:title>Sha&#38;#8217;Carri Richardson caps comeback by winning 100-meter title at worlds</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/world/2023/08/22/shacarri-richardson-caps-comeback-by-winning-100-meter-title-at-worlds/shacarri-richardson-caps-comeback-by-winning-100-meter-title-at-worlds.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/world/2023/08/27/ap-russia-says-it-has-confirmed-prigozhin-died-in-the-plane-crash/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-27T11:39:23.000Z</news:publication_date>
+          <news:title>Russia says it confirmed Wagner leader Prigozhin died in a plane crash</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/world/2023/08/27/ap-russia-says-it-has-confirmed-prigozhin-died-in-the-plane-crash/ap-russia-says-it-has-confirmed-prigozhin-died-in-the-plane-crash.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/world/2023/08/27/women-working-in-antarctica-say-they-were-left-to-fend-for-themselves-against-sexual-harassers/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-27T04:04:20.000Z</news:publication_date>
+          <news:title>Women working in Antarctica say they were left to fend for themselves against sexual harassers</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/world/2023/08/27/women-working-in-antarctica-say-they-were-left-to-fend-for-themselves-against-sexual-harassers/women-working-in-antarctica-say-they-were-left-to-fend-for-themselves-against-sexual-harassers.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/world/2023/08/24/putin-breaks-silence-on-plane-crash-that-presumably-killed-wagner-leaders/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-24T16:33:08.000Z</news:publication_date>
+          <news:title>Putin breaks silence on plane crash that presumably killed Wagner leaders</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/world/2023/08/24/putin-breaks-silence-on-plane-crash-that-presumably-killed-wagner-leaders/putin-breaks-silence-on-plane-crash-that-presumably-killed-wagner-leaders.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/world/2023/08/27/takeaways-from-aps-investigation-into-sexual-harassment-and-assault-at-antarcticas-mcmurdo-station/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-27T04:08:17.000Z</news:publication_date>
+          <news:title>Takeaways from AP's investigation into sexual harassment and assault at Antarctica's McMurdo Station</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/world/2023/08/27/takeaways-from-aps-investigation-into-sexual-harassment-and-assault-at-antarcticas-mcmurdo-station/takeaways-from-aps-investigation-into-sexual-harassment-and-assault-at-antarcticas-mcmurdo-station.webp</image:loc>
         </image:image>
       </url></urlset>
