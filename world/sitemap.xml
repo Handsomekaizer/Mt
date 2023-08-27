@@ -3,20 +3,6 @@
               xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
               xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
       <url>
-        <loc>https://majordigest.com/world/2023/08/27/north-korea-allowing-citizens-abroad-return-home-first-time-since-2020-state-media-says/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-27T19:17:23.000Z</news:publication_date>
-          <news:title>North Korea allowing citizens abroad to return home for first time since 2020, state media says</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/world/2023/08/27/north-korea-allowing-citizens-abroad-return-home-first-time-since-2020-state-media-says/north-korea-allowing-citizens-abroad-return-home-first-time-since-2020-state-media-says.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
         <loc>https://majordigest.com/world/2023/08/27/ap-russia-says-it-has-confirmed-prigozhin-died-in-the-plane-crash/</loc>
         <news:news>
           <news:publication>
@@ -42,20 +28,6 @@
         </news:news>
         <image:image>
           <image:loc>https://majordigest.com/world/2023/08/27/ap-more-than-600-firefighters-backed-by-water-dropping-aircraft-struggle-to-control-wildfires-in-greece/ap-more-than-600-firefighters-backed-by-water-dropping-aircraft-struggle-to-control-wildfires-in-greece.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/world/2023/08/27/ap-ukraine-investigates-incident-that-killed-3-pilots-while-russia-attacks-with-cruise-missiles/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-27T14:56:40.000Z</news:publication_date>
-          <news:title>Ukraine investigates incident that killed 3 pilots while Russia attacks with cruise missiles</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/world/2023/08/27/ap-ukraine-investigates-incident-that-killed-3-pilots-while-russia-attacks-with-cruise-missiles/ap-ukraine-investigates-incident-that-killed-3-pilots-while-russia-attacks-with-cruise-missiles.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -367,6 +339,20 @@
         </image:image>
       </url>
       <url>
+        <loc>https://majordigest.com/world/2023/08/26/gershkovich-appeals-russian-extension-of-pretrial-detention/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-26T18:27:48.000Z</news:publication_date>
+          <news:title>Reporter Evan Gershkovich appeals Russia's extension of pretrial detention</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/world/2023/08/26/gershkovich-appeals-russian-extension-of-pretrial-detention/gershkovich-appeals-russian-extension-of-pretrial-detention.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
         <loc>https://majordigest.com/world/2023/08/26/spacex-nasa-launch-international-crew-to-space-station-a-united-team-with-a-common-mission/</loc>
         <news:news>
           <news:publication>
@@ -423,6 +409,20 @@
         </image:image>
       </url>
       <url>
+        <loc>https://majordigest.com/world/2023/08/26/ap-with-drones-and-webcams-volunteer-hunters-join-a-new-search-for-the-mythical-loch-ness-monster/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-26T14:07:48.000Z</news:publication_date>
+          <news:title>With new tech, volunteers join a search for the Loch Ness Monster</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/world/2023/08/26/ap-with-drones-and-webcams-volunteer-hunters-join-a-new-search-for-the-mythical-loch-ness-monster/ap-with-drones-and-webcams-volunteer-hunters-join-a-new-search-for-the-mythical-loch-ness-monster.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
         <loc>https://majordigest.com/world/2023/08/25/ap-indias-lunar-rover-keeps-walking-on-the-moon-days-after-spacecrafts-historic-touchdown/</loc>
         <news:news>
           <news:publication>
@@ -437,17 +437,17 @@
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/world/2023/08/25/ap-dutch-brewer-heineken-sells-its-russian-operations-for-1-euro-taking-a-300-million-euro-hit/</loc>
+        <loc>https://majordigest.com/world/2023/08/25/from-tarantulas-to-tigers-zoo-animals-step-onto-scales-for-annual-weigh-in/</loc>
         <news:news>
           <news:publication>
             <news:name>Major Digest</news:name>
             <news:language>en</news:language>
           </news:publication>
-          <news:publication_date>2023-08-25T08:07:09.000Z</news:publication_date>
-          <news:title>Dutch brewer Heineken sells its Russian operations for 1 euro, taking a 300-million-euro hit</news:title>
+          <news:publication_date>2023-08-25T13:11:05.000Z</news:publication_date>
+          <news:title>From tarantulas to tigers, zoo animals step onto scales for annual weigh-in</news:title>
         </news:news>
         <image:image>
-          <image:loc>https://majordigest.com/world/2023/08/25/ap-dutch-brewer-heineken-sells-its-russian-operations-for-1-euro-taking-a-300-million-euro-hit/ap-dutch-brewer-heineken-sells-its-russian-operations-for-1-euro-taking-a-300-million-euro-hit.webp</image:loc>
+          <image:loc>https://majordigest.com/world/2023/08/25/from-tarantulas-to-tigers-zoo-animals-step-onto-scales-for-annual-weigh-in/from-tarantulas-to-tigers-zoo-animals-step-onto-scales-for-annual-weigh-in.webp</image:loc>
         </image:image>
       </url>
       <url>
