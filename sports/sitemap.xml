@@ -3,62 +3,6 @@
               xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
               xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
       <url>
-        <loc>https://majordigest.com/sports/2023/08/25/sf-prep-basketball-star-zion-sensley-commits-to-st-marys/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-25T04:00:23.000Z</news:publication_date>
-          <news:title>SF prep basketball star Zion Sensley commits to St. Mary's</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/sports/2023/08/25/sf-prep-basketball-star-zion-sensley-commits-to-st-marys/sf-prep-basketball-star-zion-sensley-commits-to-st-marys.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/sports/2023/08/26/white-sox-say-they-werent-aware-at-first-that-a-woman-injured-at-game-was-shot/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-26T23:16:31.000Z</news:publication_date>
-          <news:title>White Sox say they weren't aware at first that a woman injured at game was shot</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/sports/2023/08/26/white-sox-say-they-werent-aware-at-first-that-a-woman-injured-at-game-was-shot/white-sox-say-they-werent-aware-at-first-that-a-woman-injured-at-game-was-shot.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/sports/2023/08/25/fruitas-lethal-rushing-attack-helps-dominate-central/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-25T05:04:10.000Z</news:publication_date>
-          <news:title>Fruita's lethal rushing attack helps dominate Central</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/sports/2023/08/25/fruitas-lethal-rushing-attack-helps-dominate-central/fruitas-lethal-rushing-attack-helps-dominate-central.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/sports/2023/08/27/ap-messi-scores-dazzling-goal-in-mls-debut-leads-miami-over-new-york-red-bulls/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-27T02:09:43.000Z</news:publication_date>
-          <news:title>Messi scores dazzling goal in MLS debut, leads Miami over New York Red Bulls</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/sports/2023/08/27/ap-messi-scores-dazzling-goal-in-mls-debut-leads-miami-over-new-york-red-bulls/ap-messi-scores-dazzling-goal-in-mls-debut-leads-miami-over-new-york-red-bulls.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
         <loc>https://majordigest.com/sports/2023/08/27/ryan-preece-flips-10-times-violent-nascar-crash-coke-zero-sugar-400/</loc>
         <news:news>
           <news:publication>
@@ -70,342 +14,6 @@
         </news:news>
         <image:image>
           <image:loc>https://majordigest.com/sports/2023/08/27/ryan-preece-flips-10-times-violent-nascar-crash-coke-zero-sugar-400/ryan-preece-flips-10-times-violent-nascar-crash-coke-zero-sugar-400.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/sports/2023/08/27/us-sprint-star-noah-lyles-criticizes-nba-teams-declaring-themselves-world-champions/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-27T00:28:16.000Z</news:publication_date>
-          <news:title>US sprint star Noah Lyles criticizes NBA teams for declaring themselves world champions</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/sports/2023/08/27/us-sprint-star-noah-lyles-criticizes-nba-teams-declaring-themselves-world-champions/us-sprint-star-noah-lyles-criticizes-nba-teams-declaring-themselves-world-champions.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/sports/2023/08/24/rsl-eliminated-from-u-s-open-cup-by-houston-3-1/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-24T04:56:59.000Z</news:publication_date>
-          <news:title>RSL eliminated from U.S. Open Cup by Houston, 3-1</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/sports/2023/08/24/rsl-eliminated-from-u-s-open-cup-by-houston-3-1/rsl-eliminated-from-u-s-open-cup-by-houston-3-1.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/sports/2023/08/27/ap-white-sox-say-they-werent-aware-at-first-that-a-woman-injured-at-game-was-shot/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-27T01:32:20.000Z</news:publication_date>
-          <news:title>White Sox say they weren't aware at first that a woman injured at game was shot</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/sports/2023/08/27/ap-white-sox-say-they-werent-aware-at-first-that-a-woman-injured-at-game-was-shot/ap-white-sox-say-they-werent-aware-at-first-that-a-woman-injured-at-game-was-shot.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/sports/2023/08/26/messi-not-in-miamis-starting-lineup-misses-warmups-for-first-major-league-soccer-match/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-26T23:03:25.000Z</news:publication_date>
-          <news:title>Lionel Messi makes MLS debut, enters in 60th minute for Miami against New York Red Bulls</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/sports/2023/08/26/messi-not-in-miamis-starting-lineup-misses-warmups-for-first-major-league-soccer-match/messi-not-in-miamis-starting-lineup-misses-warmups-for-first-major-league-soccer-match.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/sports/2023/08/24/sd-wave-vs-orlando-pride-a-preview-with-meggie-dougherty/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-24T20:29:58.000Z</news:publication_date>
-          <news:title>SD Wave vs. Orlando Pride: A preview with Meggie Dougherty</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/sports/2023/08/24/sd-wave-vs-orlando-pride-a-preview-with-meggie-dougherty/sd-wave-vs-orlando-pride-a-preview-with-meggie-dougherty.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/sports/2023/08/27/ap-heisman-winner-caleb-williams-throws-4-td-passes-leads-no-6-usc-past-san-jose-state-56-28/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-27T03:46:38.000Z</news:publication_date>
-          <news:title>Heisman winner Caleb Williams throws 4 TD passes, leads No. 6 USC past San Jose State 56-28</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/sports/2023/08/27/ap-heisman-winner-caleb-williams-throws-4-td-passes-leads-no-6-usc-past-san-jose-state-56-28/ap-heisman-winner-caleb-williams-throws-4-td-passes-leads-no-6-usc-past-san-jose-state-56-28.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/sports/2023/08/26/high-school-hot-shot-cvcs-bryson-donelson/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-26T06:54:36.000Z</news:publication_date>
-          <news:title>High School Hot Shot: CVC's Bryson Donelson</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/sports/2023/08/26/high-school-hot-shot-cvcs-bryson-donelson/high-school-hot-shot-cvcs-bryson-donelson.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/sports/2023/08/21/healthy-again-isaac-rex-poised-for-big-season/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-21T21:25:49.000Z</news:publication_date>
-          <news:title>Healthy again, Isaac Rex poised for big season</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/sports/2023/08/21/healthy-again-isaac-rex-poised-for-big-season/healthy-again-isaac-rex-poised-for-big-season.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/sports/2023/08/26/serra-erupts-early-holds-off-folsom-to-win-norcal-football-showdown/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-26T23:25:47.000Z</news:publication_date>
-          <news:title>Serra erupts early, holds off Folsom to win NorCal football showdown</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/sports/2023/08/26/serra-erupts-early-holds-off-folsom-to-win-norcal-football-showdown/serra-erupts-early-holds-off-folsom-to-win-norcal-football-showdown.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/sports/2023/08/23/delta-football-the-redemption-year/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-23T05:14:41.000Z</news:publication_date>
-          <news:title>Delta Football: The Redemption Year</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/sports/2023/08/23/delta-football-the-redemption-year/delta-football-the-redemption-year.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/sports/2023/08/22/big-league-utah-public-survey-provides-insights-on-potential-mlb-stadium/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-22T17:57:53.000Z</news:publication_date>
-          <news:title>Big League Utah public survey provides insights on potential MLB stadium</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/sports/2023/08/22/big-league-utah-public-survey-provides-insights-on-potential-mlb-stadium/big-league-utah-public-survey-provides-insights-on-potential-mlb-stadium.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/sports/2023/08/27/daewood-davis-of-dolphins-carted-off-field-after-collision-preseason-game-vs-jaguars-halted/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-27T02:09:34.000Z</news:publication_date>
-          <news:title>Daewood Davis of Dolphins carted off field after collision; preseason game vs. Jaguars halted</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/sports/2023/08/27/daewood-davis-of-dolphins-carted-off-field-after-collision-preseason-game-vs-jaguars-halted/daewood-davis-of-dolphins-carted-off-field-after-collision-preseason-game-vs-jaguars-halted.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/sports/2023/08/27/ap-josh-jacobs-agrees-to-one-year-deal-worth-up-to-12-million-with-the-raiders-ap-source-says/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-27T03:38:59.000Z</news:publication_date>
-          <news:title>Josh Jacobs agrees to one-year deal worth up to $12 million with the Raiders, AP source says</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/sports/2023/08/27/ap-josh-jacobs-agrees-to-one-year-deal-worth-up-to-12-million-with-the-raiders-ap-source-says/ap-josh-jacobs-agrees-to-one-year-deal-worth-up-to-12-million-with-the-raiders-ap-source-says.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/sports/2023/08/22/as-rooker-performs-at-oakland-arena-after-crushing-walk-off-home-run/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-22T22:54:45.000Z</news:publication_date>
-          <news:title>A's Rooker performs at Oakland Arena after crushing walk-off home run</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/sports/2023/08/22/as-rooker-performs-at-oakland-arena-after-crushing-walk-off-home-run/as-rooker-performs-at-oakland-arena-after-crushing-walk-off-home-run.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/sports/2023/08/21/fcc-wall-of-famers-talk-about-getting-hall-call/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-21T05:49:18.000Z</news:publication_date>
-          <news:title>FCC Wall of Famers talk about getting Wall call</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/sports/2023/08/21/fcc-wall-of-famers-talk-about-getting-hall-call/fcc-wall-of-famers-talk-about-getting-hall-call.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/sports/2023/08/27/buescher-wins-at-daytona-eliminating-elliott-and-helping-wallace-land-final-nascar-playoff-berth/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-27T02:46:58.000Z</news:publication_date>
-          <news:title>Buescher wins at Daytona, eliminating Elliott and helping Wallace land final NASCAR playoff berth</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/sports/2023/08/27/buescher-wins-at-daytona-eliminating-elliott-and-helping-wallace-land-final-nascar-playoff-berth/buescher-wins-at-daytona-eliminating-elliott-and-helping-wallace-land-final-nascar-playoff-berth.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/sports/2023/08/24/ap-shohei-ohtani-leaves-the-mound-abruptly-in-2nd-inning-after-26-pitches-for-the-angels/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-24T06:45:52.000Z</news:publication_date>
-          <news:title>Shohei Ohtani won't pitch for rest of season, Angels GM says</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/sports/2023/08/24/ap-shohei-ohtani-leaves-the-mound-abruptly-in-2nd-inning-after-26-pitches-for-the-angels/ap-shohei-ohtani-leaves-the-mound-abruptly-in-2nd-inning-after-26-pitches-for-the-angels.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/sports/2023/08/27/nascars-coke-zero-sugar-400-features-massive-wreck-ryan-blaney-crashes-hard-into-wall/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-27T01:49:38.000Z</news:publication_date>
-          <news:title>NASCAR's Coke Zero Sugar 400 features massive wreck; Ryan Blaney crashes hard into wall</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/sports/2023/08/27/nascars-coke-zero-sugar-400-features-massive-wreck-ryan-blaney-crashes-hard-into-wall/nascars-coke-zero-sugar-400-features-massive-wreck-ryan-blaney-crashes-hard-into-wall.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/sports/2023/08/22/steve-kerr-buys-stake-in-spanish-soccer-team/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-22T18:06:06.000Z</news:publication_date>
-          <news:title>Steve Kerr buys stake in Spanish soccer team</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/sports/2023/08/22/steve-kerr-buys-stake-in-spanish-soccer-team/steve-kerr-buys-stake-in-spanish-soccer-team.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/sports/2023/08/27/ap-daewood-davis-of-dolphins-carted-off-field-after-collision-preseason-game-vs-jaguars-halted/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-27T03:18:41.000Z</news:publication_date>
-          <news:title>Daewood Davis of Dolphins carted off field after collision; preseason game vs. Jaguars halted</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/sports/2023/08/27/ap-daewood-davis-of-dolphins-carted-off-field-after-collision-preseason-game-vs-jaguars-halted/ap-daewood-davis-of-dolphins-carted-off-field-after-collision-preseason-game-vs-jaguars-halted.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/sports/2023/08/27/day-after-chicago-ballpark-shooting-as-kotsay-recalls-own-experience-with-gunfire/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-27T03:28:52.000Z</news:publication_date>
-          <news:title>Day after Chicago ballpark shooting, A&#38;#8217;s Kotsay recalls own experience with gunfire</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/sports/2023/08/27/day-after-chicago-ballpark-shooting-as-kotsay-recalls-own-experience-with-gunfire/day-after-chicago-ballpark-shooting-as-kotsay-recalls-own-experience-with-gunfire.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/sports/2023/08/27/chris-buescher-wins-coke-zero-sugar-400-daytona-bubba-wallace-clinches-playoff-spot/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-27T02:57:49.000Z</news:publication_date>
-          <news:title>Chris Buescher wins Coke Zero Sugar 400 at Daytona, Bubba Wallace clinches playoff spot</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/sports/2023/08/27/chris-buescher-wins-coke-zero-sugar-400-daytona-bubba-wallace-clinches-playoff-spot/chris-buescher-wins-coke-zero-sugar-400-daytona-bubba-wallace-clinches-playoff-spot.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/sports/2023/08/27/messi-scores-dazzling-goal-in-mls-debut-leads-miami-over-new-york-red-bulls/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-27T01:42:09.000Z</news:publication_date>
-          <news:title>Messi scores dazzling goal in MLS debut, leads Miami over New York Red Bulls</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/sports/2023/08/27/messi-scores-dazzling-goal-in-mls-debut-leads-miami-over-new-york-red-bulls/messi-scores-dazzling-goal-in-mls-debut-leads-miami-over-new-york-red-bulls.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/sports/2023/08/23/padres-pitcher-robert-suarez-ejected-after-sticky-substance-check/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-23T23:08:37.000Z</news:publication_date>
-          <news:title>Padres pitcher Robert Su&#38;#225;rez ejected after sticky substance check</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/sports/2023/08/23/padres-pitcher-robert-suarez-ejected-after-sticky-substance-check/padres-pitcher-robert-suarez-ejected-after-sticky-substance-check.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -423,73 +31,31 @@
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/sports/2023/08/25/49ers-to-trade-qb-trey-lance-to-cowboys-reports/</loc>
+        <loc>https://majordigest.com/sports/2023/08/24/rsl-eliminated-from-u-s-open-cup-by-houston-3-1/</loc>
         <news:news>
           <news:publication>
             <news:name>Major Digest</news:name>
             <news:language>en</news:language>
           </news:publication>
-          <news:publication_date>2023-08-25T23:36:11.000Z</news:publication_date>
-          <news:title>49ers to trade QB Trey Lance to Cowboys: reports</news:title>
+          <news:publication_date>2023-08-24T04:56:59.000Z</news:publication_date>
+          <news:title>RSL eliminated from U.S. Open Cup by Houston, 3-1</news:title>
         </news:news>
         <image:image>
-          <image:loc>https://majordigest.com/sports/2023/08/25/49ers-to-trade-qb-trey-lance-to-cowboys-reports/49ers-to-trade-qb-trey-lance-to-cowboys-reports.webp</image:loc>
+          <image:loc>https://majordigest.com/sports/2023/08/24/rsl-eliminated-from-u-s-open-cup-by-houston-3-1/rsl-eliminated-from-u-s-open-cup-by-houston-3-1.webp</image:loc>
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/sports/2023/08/27/angels-chase-silseth-gets-nailed-back-head-teammates-errant-throw/</loc>
+        <loc>https://majordigest.com/sports/2023/08/26/high-school-hot-shot-cvcs-bryson-donelson/</loc>
         <news:news>
           <news:publication>
             <news:name>Major Digest</news:name>
             <news:language>en</news:language>
           </news:publication>
-          <news:publication_date>2023-08-27T02:00:01.000Z</news:publication_date>
-          <news:title>Angels' Chase Silseth gets nailed in the back of the head by teammate's errant throw</news:title>
+          <news:publication_date>2023-08-26T06:54:36.000Z</news:publication_date>
+          <news:title>High School Hot Shot: CVC's Bryson Donelson</news:title>
         </news:news>
         <image:image>
-          <image:loc>https://majordigest.com/sports/2023/08/27/angels-chase-silseth-gets-nailed-back-head-teammates-errant-throw/angels-chase-silseth-gets-nailed-back-head-teammates-errant-throw.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/sports/2023/08/26/sf-giants-small-wins-no-match-for-dominant-braves/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-26T22:48:11.000Z</news:publication_date>
-          <news:title>What we learned from SF Giants&#38;#8217; seventh-straight series loss</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/sports/2023/08/26/sf-giants-small-wins-no-match-for-dominant-braves/sf-giants-small-wins-no-match-for-dominant-braves.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/sports/2023/08/22/troy-glaus-introduced-at-buchanan-high-school/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-22T06:23:42.000Z</news:publication_date>
-          <news:title>Troy Glaus introduced at Buchanan High School</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/sports/2023/08/22/troy-glaus-introduced-at-buchanan-high-school/troy-glaus-introduced-at-buchanan-high-school.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/sports/2023/08/27/alex-bregman-drives-in-4-runs-to-help-lead-the-astros-to-a-9-2-win-over-the-tigers/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-27T02:32:04.000Z</news:publication_date>
-          <news:title>Alex Bregman drives in 4 runs to help lead the Astros to a 9-2 win over the Tigers</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/sports/2023/08/27/alex-bregman-drives-in-4-runs-to-help-lead-the-astros-to-a-9-2-win-over-the-tigers/alex-bregman-drives-in-4-runs-to-help-lead-the-astros-to-a-9-2-win-over-the-tigers.webp</image:loc>
+          <image:loc>https://majordigest.com/sports/2023/08/26/high-school-hot-shot-cvcs-bryson-donelson/high-school-hot-shot-cvcs-bryson-donelson.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -507,16 +73,450 @@
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/sports/2023/08/23/cole-carrigg-has-three-hits-in-chukchansi-park-debut/</loc>
+        <loc>https://majordigest.com/sports/2023/08/23/yan-gomes-single-breaks-an-8th-inning-tie-as-the-wild-card-contending-cubs-beat-the-tigers-6-4/</loc>
         <news:news>
           <news:publication>
             <news:name>Major Digest</news:name>
             <news:language>en</news:language>
           </news:publication>
-          <news:publication_date>2023-08-23T06:47:48.000Z</news:publication_date>
-          <news:title>Cole Carrigg has three hits in Chukchansi Park debut</news:title>
+          <news:publication_date>2023-08-23T21:12:18.000Z</news:publication_date>
+          <news:title>Yan Gomes' single breaks an 8th-inning tie as the wild card-contending Cubs beat the Tigers 6-4</news:title>
         </news:news>
         <image:image>
-          <image:loc>https://majordigest.com/sports/2023/08/23/cole-carrigg-has-three-hits-in-chukchansi-park-debut/cole-carrigg-has-three-hits-in-chukchansi-park-debut.webp</image:loc>
+          <image:loc>https://majordigest.com/sports/2023/08/23/yan-gomes-single-breaks-an-8th-inning-tie-as-the-wild-card-contending-cubs-beat-the-tigers-6-4/yan-gomes-single-breaks-an-8th-inning-tie-as-the-wild-card-contending-cubs-beat-the-tigers-6-4.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/sports/2023/08/22/new-field-donated-to-new-jersey-baseball-league-for-people-with-special-needs-after-tornado/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-22T23:09:52.000Z</news:publication_date>
+          <news:title>New field donated to New Jersey baseball league for people with special needs after tornado</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/sports/2023/08/22/new-field-donated-to-new-jersey-baseball-league-for-people-with-special-needs-after-tornado/new-field-donated-to-new-jersey-baseball-league-for-people-with-special-needs-after-tornado.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/sports/2023/08/27/chris-buescher-wins-coke-zero-sugar-400-daytona-bubba-wallace-clinches-playoff-spot/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-27T02:57:49.000Z</news:publication_date>
+          <news:title>Chris Buescher wins Coke Zero Sugar 400 at Daytona, Bubba Wallace clinches playoff spot</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/sports/2023/08/27/chris-buescher-wins-coke-zero-sugar-400-daytona-bubba-wallace-clinches-playoff-spot/chris-buescher-wins-coke-zero-sugar-400-daytona-bubba-wallace-clinches-playoff-spot.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/sports/2023/08/22/utes-quarterback-situation-still-unsettled/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-22T02:38:42.000Z</news:publication_date>
+          <news:title>Utes quarterback situation still unsettled</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/sports/2023/08/22/utes-quarterback-situation-still-unsettled/utes-quarterback-situation-still-unsettled.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/sports/2023/08/21/ap-spain-wins-its-first-womens-world-cup-title-beating-england-1-0-in-the-final/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-21T01:48:26.000Z</news:publication_date>
+          <news:title>From turmoil to triumph, Spain earns its first Women's World Cup title with a 1-0 win over England</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/sports/2023/08/21/ap-spain-wins-its-first-womens-world-cup-title-beating-england-1-0-in-the-final/ap-spain-wins-its-first-womens-world-cup-title-beating-england-1-0-in-the-final.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/sports/2023/08/23/rays-spanish-translator-manny-navarro-lives-dream-of-being-in-the-mlb/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-23T18:12:26.000Z</news:publication_date>
+          <news:title>Rays spanish translator, Manny Navarro, lives dream of being in the MLB</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/sports/2023/08/23/rays-spanish-translator-manny-navarro-lives-dream-of-being-in-the-mlb/rays-spanish-translator-manny-navarro-lives-dream-of-being-in-the-mlb.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/sports/2023/08/24/ap-shohei-ohtani-leaves-the-mound-abruptly-in-2nd-inning-after-26-pitches-for-the-angels/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-24T06:45:52.000Z</news:publication_date>
+          <news:title>Shohei Ohtani won't pitch for rest of season, Angels GM says</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/sports/2023/08/24/ap-shohei-ohtani-leaves-the-mound-abruptly-in-2nd-inning-after-26-pitches-for-the-angels/ap-shohei-ohtani-leaves-the-mound-abruptly-in-2nd-inning-after-26-pitches-for-the-angels.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/sports/2023/08/27/angels-chase-silseth-gets-nailed-back-head-teammates-errant-throw/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-27T02:00:01.000Z</news:publication_date>
+          <news:title>Angels' Chase Silseth gets nailed in the back of the head by teammate's errant throw</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/sports/2023/08/27/angels-chase-silseth-gets-nailed-back-head-teammates-errant-throw/angels-chase-silseth-gets-nailed-back-head-teammates-errant-throw.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/sports/2023/08/25/fruitas-lethal-rushing-attack-helps-dominate-central/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-25T05:04:10.000Z</news:publication_date>
+          <news:title>Fruita's lethal rushing attack helps dominate Central</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/sports/2023/08/25/fruitas-lethal-rushing-attack-helps-dominate-central/fruitas-lethal-rushing-attack-helps-dominate-central.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/sports/2023/08/23/padres-pitcher-robert-suarez-ejected-after-sticky-substance-check/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-23T23:08:37.000Z</news:publication_date>
+          <news:title>Padres pitcher Robert Su&#38;#225;rez ejected after sticky substance check</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/sports/2023/08/23/padres-pitcher-robert-suarez-ejected-after-sticky-substance-check/padres-pitcher-robert-suarez-ejected-after-sticky-substance-check.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/sports/2023/08/24/central-vs-fruita-the-battle-is-on-tomorrow/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-24T04:48:59.000Z</news:publication_date>
+          <news:title>Central vs Fruita. The battle is on tomorrow.</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/sports/2023/08/24/central-vs-fruita-the-battle-is-on-tomorrow/central-vs-fruita-the-battle-is-on-tomorrow.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/sports/2023/08/23/ap-former-usc-star-reggie-bush-plans-defamation-lawsuit-against-ncaa/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-23T20:23:13.000Z</news:publication_date>
+          <news:title>Former USC star Reggie Bush plans defamation lawsuit against NCAA</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/sports/2023/08/23/ap-former-usc-star-reggie-bush-plans-defamation-lawsuit-against-ncaa/ap-former-usc-star-reggie-bush-plans-defamation-lawsuit-against-ncaa.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/sports/2023/08/27/daewood-davis-of-dolphins-carted-off-field-after-collision-preseason-game-vs-jaguars-halted/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-27T02:09:34.000Z</news:publication_date>
+          <news:title>Daewood Davis of Dolphins carted off field after collision; preseason game vs. Jaguars halted</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/sports/2023/08/27/daewood-davis-of-dolphins-carted-off-field-after-collision-preseason-game-vs-jaguars-halted/daewood-davis-of-dolphins-carted-off-field-after-collision-preseason-game-vs-jaguars-halted.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/sports/2023/08/26/white-sox-say-they-werent-aware-at-first-that-a-woman-injured-at-game-was-shot/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-26T23:16:31.000Z</news:publication_date>
+          <news:title>White Sox say they weren't aware at first that a woman injured at game was shot</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/sports/2023/08/26/white-sox-say-they-werent-aware-at-first-that-a-woman-injured-at-game-was-shot/white-sox-say-they-werent-aware-at-first-that-a-woman-injured-at-game-was-shot.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/sports/2023/08/27/day-after-chicago-ballpark-shooting-as-kotsay-recalls-own-experience-with-gunfire/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-27T03:28:52.000Z</news:publication_date>
+          <news:title>Day after Chicago ballpark shooting, A&#38;#8217;s Kotsay recalls own experience with gunfire</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/sports/2023/08/27/day-after-chicago-ballpark-shooting-as-kotsay-recalls-own-experience-with-gunfire/day-after-chicago-ballpark-shooting-as-kotsay-recalls-own-experience-with-gunfire.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/sports/2023/08/22/as-rooker-performs-at-oakland-arena-after-crushing-walk-off-home-run/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-22T22:54:45.000Z</news:publication_date>
+          <news:title>A's Rooker performs at Oakland Arena after crushing walk-off home run</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/sports/2023/08/22/as-rooker-performs-at-oakland-arena-after-crushing-walk-off-home-run/as-rooker-performs-at-oakland-arena-after-crushing-walk-off-home-run.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/sports/2023/08/26/hartman-throws-4-td-passes-as-no-13-notre-dame-opens-with-a-42-3-win-over-navy-in-ireland/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-26T21:53:24.000Z</news:publication_date>
+          <news:title>Hartman throws 4 TD passes as No. 13 Notre Dame opens with a 42-3 win over Navy in Ireland</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/sports/2023/08/26/hartman-throws-4-td-passes-as-no-13-notre-dame-opens-with-a-42-3-win-over-navy-in-ireland/hartman-throws-4-td-passes-as-no-13-notre-dame-opens-with-a-42-3-win-over-navy-in-ireland.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/sports/2023/08/26/shooting-investigation-underway-at-guaranteed-rate-field/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-26T03:50:08.000Z</news:publication_date>
+          <news:title>2 women shot at Chicago White Sox game at Guaranteed Rate Field</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/sports/2023/08/26/shooting-investigation-underway-at-guaranteed-rate-field/shooting-investigation-underway-at-guaranteed-rate-field.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/sports/2023/08/23/anderson-scores-winning-run-in-the-10th-as-the-white-sox-end-mariners-8-game-win-streak/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-23T22:52:47.000Z</news:publication_date>
+          <news:title>Anderson scores winning run in the 10th as the White Sox end Mariners' 8-game win streak</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/sports/2023/08/23/anderson-scores-winning-run-in-the-10th-as-the-white-sox-end-mariners-8-game-win-streak/anderson-scores-winning-run-in-the-10th-as-the-white-sox-end-mariners-8-game-win-streak.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/sports/2023/08/22/big-league-utah-public-survey-provides-insights-on-potential-mlb-stadium/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-22T17:57:53.000Z</news:publication_date>
+          <news:title>Big League Utah public survey provides insights on potential MLB stadium</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/sports/2023/08/22/big-league-utah-public-survey-provides-insights-on-potential-mlb-stadium/big-league-utah-public-survey-provides-insights-on-potential-mlb-stadium.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/sports/2023/08/22/t-rexes-race-to-photo-finish-at-washington-state-track/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-22T21:43:31.000Z</news:publication_date>
+          <news:title>'T. rexes' race to photo finish at Washington state track</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/sports/2023/08/22/t-rexes-race-to-photo-finish-at-washington-state-track/t-rexes-race-to-photo-finish-at-washington-state-track.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/sports/2023/08/21/fcc-wall-of-famers-talk-about-getting-hall-call/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-21T05:49:18.000Z</news:publication_date>
+          <news:title>FCC Wall of Famers talk about getting Wall call</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/sports/2023/08/21/fcc-wall-of-famers-talk-about-getting-hall-call/fcc-wall-of-famers-talk-about-getting-hall-call.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/sports/2023/08/26/arcangelo-wins-125m-travers-for-trainer-jena-antonucci-two-horse-euthanized-at-saratoga/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-26T23:52:34.000Z</news:publication_date>
+          <news:title>Arcangelo wins $1.25M Travers for trainer Jena Antonucci. Two horses euthanized at Saratoga</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/sports/2023/08/26/arcangelo-wins-125m-travers-for-trainer-jena-antonucci-two-horse-euthanized-at-saratoga/arcangelo-wins-125m-travers-for-trainer-jena-antonucci-two-horse-euthanized-at-saratoga.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/sports/2023/08/23/jets-wide-receiver-corey-davis-announces-hes-stepping-away-from-football/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-23T19:46:06.000Z</news:publication_date>
+          <news:title>Jets wide receiver Corey Davis announces he's stepping away from football</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/sports/2023/08/23/jets-wide-receiver-corey-davis-announces-hes-stepping-away-from-football/jets-wide-receiver-corey-davis-announces-hes-stepping-away-from-football.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/sports/2023/08/25/el-segundo-little-league-team-punches-ticket-to-little-league-world-series-u-s-championship/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-25T04:54:24.000Z</news:publication_date>
+          <news:title>El Segundo Little League team punches ticket to Little League World Series U.S. championship&#38;#160;</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/sports/2023/08/25/el-segundo-little-league-team-punches-ticket-to-little-league-world-series-u-s-championship/el-segundo-little-league-team-punches-ticket-to-little-league-world-series-u-s-championship.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/sports/2023/08/27/ap-josh-jacobs-agrees-to-one-year-deal-worth-up-to-12-million-with-the-raiders-ap-source-says/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-27T03:38:59.000Z</news:publication_date>
+          <news:title>Josh Jacobs agrees to one-year deal worth up to $12 million with the Raiders, AP source says</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/sports/2023/08/27/ap-josh-jacobs-agrees-to-one-year-deal-worth-up-to-12-million-with-the-raiders-ap-source-says/ap-josh-jacobs-agrees-to-one-year-deal-worth-up-to-12-million-with-the-raiders-ap-source-says.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/sports/2023/08/27/ap-messi-not-in-miamis-starting-lineup-misses-warmups-for-first-major-league-soccer-match/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-27T01:00:44.000Z</news:publication_date>
+          <news:title>Lionel Messi makes MLS debut, enters in 60th minute for Miami against New York Red Bulls</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/sports/2023/08/27/ap-messi-not-in-miamis-starting-lineup-misses-warmups-for-first-major-league-soccer-match/ap-messi-not-in-miamis-starting-lineup-misses-warmups-for-first-major-league-soccer-match.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/sports/2023/08/27/nascars-coke-zero-sugar-400-features-massive-wreck-ryan-blaney-crashes-hard-into-wall/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-27T01:49:38.000Z</news:publication_date>
+          <news:title>NASCAR's Coke Zero Sugar 400 features massive wreck; Ryan Blaney crashes hard into wall</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/sports/2023/08/27/nascars-coke-zero-sugar-400-features-massive-wreck-ryan-blaney-crashes-hard-into-wall/nascars-coke-zero-sugar-400-features-massive-wreck-ryan-blaney-crashes-hard-into-wall.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/sports/2023/08/26/serra-erupts-early-holds-off-folsom-to-win-norcal-football-showdown/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-26T23:25:47.000Z</news:publication_date>
+          <news:title>Serra erupts early, holds off Folsom to win NorCal football showdown</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/sports/2023/08/26/serra-erupts-early-holds-off-folsom-to-win-norcal-football-showdown/serra-erupts-early-holds-off-folsom-to-win-norcal-football-showdown.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/sports/2023/08/24/ap-cardinals-trade-isaiah-simmons-the-no-8-overall-pick-in-the-2020-draft-to-the-ny-giants/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-24T20:18:53.000Z</news:publication_date>
+          <news:title>Cardinals trade Isaiah Simmons, the No. 8 overall pick in the 2020 draft, to the NY Giants</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/sports/2023/08/24/ap-cardinals-trade-isaiah-simmons-the-no-8-overall-pick-in-the-2020-draft-to-the-ny-giants/ap-cardinals-trade-isaiah-simmons-the-no-8-overall-pick-in-the-2020-draft-to-the-ny-giants.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/sports/2023/08/25/49ers-to-trade-qb-trey-lance-to-cowboys-reports/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-25T23:36:11.000Z</news:publication_date>
+          <news:title>49ers to trade QB Trey Lance to Cowboys: reports</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/sports/2023/08/25/49ers-to-trade-qb-trey-lance-to-cowboys-reports/49ers-to-trade-qb-trey-lance-to-cowboys-reports.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/sports/2023/08/23/delta-football-the-redemption-year/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-23T05:14:41.000Z</news:publication_date>
+          <news:title>Delta Football: The Redemption Year</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/sports/2023/08/23/delta-football-the-redemption-year/delta-football-the-redemption-year.webp</image:loc>
         </image:image>
       </url></urlset>
