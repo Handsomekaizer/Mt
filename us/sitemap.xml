@@ -3,31 +3,87 @@
               xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
               xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
       <url>
-        <loc>https://majordigest.com/us/2023/08/28/police-searching-for-missing-tennessee-teen-last-seen-on-aug-9/</loc>
+        <loc>https://majordigest.com/us/2023/08/28/chicago-kia-hyundai-car-thefts/</loc>
         <news:news>
           <news:publication>
             <news:name>Major Digest</news:name>
             <news:language>en</news:language>
           </news:publication>
-          <news:publication_date>2023-08-28T17:14:32.000Z</news:publication_date>
-          <news:title>Police searching for missing Tennessee teen last seen on Aug. 9</news:title>
+          <news:publication_date>2023-08-28T18:10:16.000Z</news:publication_date>
+          <news:title>Chicago latest city to sue Kia, Hyundai over rampant car thefts</news:title>
         </news:news>
         <image:image>
-          <image:loc>https://majordigest.com/us/2023/08/28/police-searching-for-missing-tennessee-teen-last-seen-on-aug-9/police-searching-for-missing-tennessee-teen-last-seen-on-aug-9.webp</image:loc>
+          <image:loc>https://majordigest.com/us/2023/08/28/chicago-kia-hyundai-car-thefts/chicago-kia-hyundai-car-thefts.webp</image:loc>
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/us/2023/08/28/woman-arrested-for-dui-after-crash-on-tennessee-school-property/</loc>
+        <loc>https://majordigest.com/us/2023/08/28/judge-to-hear-arguments-on-mark-meadows-request-to-move-georgia-election-case-to-federal-court/</loc>
         <news:news>
           <news:publication>
             <news:name>Major Digest</news:name>
             <news:language>en</news:language>
           </news:publication>
-          <news:publication_date>2023-08-28T17:11:44.000Z</news:publication_date>
-          <news:title>Woman arrested for DUI after crash on Tennessee school property</news:title>
+          <news:publication_date>2023-08-28T18:07:50.000Z</news:publication_date>
+          <news:title>Mark Meadows takes the stand at hearing over request to move Georgia election case to federal court</news:title>
         </news:news>
         <image:image>
-          <image:loc>https://majordigest.com/us/2023/08/28/woman-arrested-for-dui-after-crash-on-tennessee-school-property/woman-arrested-for-dui-after-crash-on-tennessee-school-property.webp</image:loc>
+          <image:loc>https://majordigest.com/us/2023/08/28/judge-to-hear-arguments-on-mark-meadows-request-to-move-georgia-election-case-to-federal-court/judge-to-hear-arguments-on-mark-meadows-request-to-move-georgia-election-case-to-federal-court.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/us/2023/08/28/former-al-deputy-who-sexually-assaulted-detained-woman-desolate-area-gets-12-years/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-28T18:03:42.000Z</news:publication_date>
+          <news:title>Former AL deputy, who sexually assaulted a detained woman in desolate area, gets 12 years</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/us/2023/08/28/former-al-deputy-who-sexually-assaulted-detained-woman-desolate-area-gets-12-years/former-al-deputy-who-sexually-assaulted-detained-woman-desolate-area-gets-12-years.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/us/2023/08/28/hawaii-power-utility-takes-responsibility-for-first-fire-on-maui-but-faults-county-firefighters/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-28T18:01:30.000Z</news:publication_date>
+          <news:title>Hawaii power utility takes responsibility for first fire on Maui, but faults county firefighters</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/us/2023/08/28/hawaii-power-utility-takes-responsibility-for-first-fire-on-maui-but-faults-county-firefighters/hawaii-power-utility-takes-responsibility-for-first-fire-on-maui-but-faults-county-firefighters.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/us/2023/08/28/trump-lawyers-back-in-dc-court-as-two-sides-differ-over-trial-date-in-election-subversion-case/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-28T17:58:08.000Z</news:publication_date>
+          <news:title>Trump trial set for March 4, 2024, in federal case charging him with plotting to overturn election</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/us/2023/08/28/trump-lawyers-back-in-dc-court-as-two-sides-differ-over-trial-date-in-election-subversion-case/trump-lawyers-back-in-dc-court-as-two-sides-differ-over-trial-date-in-election-subversion-case.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/us/2023/08/28/lds-church-announces-bangkok-thailand-temple-open-house/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-28T17:52:26.000Z</news:publication_date>
+          <news:title>LDS Church announces Bangkok Thailand Temple Open House</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/us/2023/08/28/lds-church-announces-bangkok-thailand-temple-open-house/lds-church-announces-bangkok-thailand-temple-open-house.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -37,11 +93,109 @@
             <news:name>Major Digest</news:name>
             <news:language>en</news:language>
           </news:publication>
-          <news:publication_date>2023-08-28T17:10:46.000Z</news:publication_date>
+          <news:publication_date>2023-08-28T17:45:27.000Z</news:publication_date>
           <news:title>Biden and Harris will meet with King's family on 60th anniversary of the March on Washington</news:title>
         </news:news>
         <image:image>
           <image:loc>https://majordigest.com/us/2023/08/28/biden-and-harris-will-meet-with-kings-family-on-60th-anniversary-of-the-march-on-washington/biden-and-harris-will-meet-with-kings-family-on-60th-anniversary-of-the-march-on-washington.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/us/2023/08/28/suspect-wanted-for-assaulting-woman-after-anti-lgbtq-remark-nypd/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-28T17:39:37.000Z</news:publication_date>
+          <news:title>Suspect wanted for assaulting woman after anti-LGBTQ remark: NYPD</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/us/2023/08/28/suspect-wanted-for-assaulting-woman-after-anti-lgbtq-remark-nypd/suspect-wanted-for-assaulting-woman-after-anti-lgbtq-remark-nypd.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/us/2023/08/28/mullen-automotives-electric-car-factory-mississippi-marks-milestone-debut-class-3-ev-truck/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-28T17:36:50.000Z</news:publication_date>
+          <news:title>Mullen Automotive's new electric car factory in Mississippi marks milestone with debut of class 3 EV truck</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/us/2023/08/28/mullen-automotives-electric-car-factory-mississippi-marks-milestone-debut-class-3-ev-truck/mullen-automotives-electric-car-factory-mississippi-marks-milestone-debut-class-3-ev-truck.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/us/2023/08/28/sherri-papini-faked-own-kidnapping-released-prison/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-28T17:36:07.000Z</news:publication_date>
+          <news:title>Sherri Papini, who faked her own kidnapping, released from prison</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/us/2023/08/28/sherri-papini-faked-own-kidnapping-released-prison/sherri-papini-faked-own-kidnapping-released-prison.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/us/2023/08/28/police-fatally-shoot-pregnant-ohio-woman-shoplifting-confrontation/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-28T17:32:49.000Z</news:publication_date>
+          <news:title>Police fatally shoot pregnant Ohio woman in shoplifting confrontation</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/us/2023/08/28/police-fatally-shoot-pregnant-ohio-woman-shoplifting-confrontation/police-fatally-shoot-pregnant-ohio-woman-shoplifting-confrontation.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/us/2023/08/28/alligator-spotted-in-new-jersey-brook-police/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-28T17:32:03.000Z</news:publication_date>
+          <news:title>Alligator spotted in New Jersey brook: police</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/us/2023/08/28/alligator-spotted-in-new-jersey-brook-police/alligator-spotted-in-new-jersey-brook-police.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/us/2023/08/28/grandmother-dies-after-high-water-forces-vehicle-off-kentucky-road/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-28T17:29:31.000Z</news:publication_date>
+          <news:title>Grandmother dies after high water forces vehicle off Kentucky road</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/us/2023/08/28/grandmother-dies-after-high-water-forces-vehicle-off-kentucky-road/grandmother-dies-after-high-water-forces-vehicle-off-kentucky-road.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/us/2023/08/28/biden-and-the-first-lady-head-to-district-of-columbia-public-middle-school-to-welcome-back-students/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-28T17:13:00.000Z</news:publication_date>
+          <news:title>Biden and the first lady drop by a DC middle school math class and lunch to welcome back students</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/us/2023/08/28/biden-and-the-first-lady-head-to-district-of-columbia-public-middle-school-to-welcome-back-students/biden-and-the-first-lady-head-to-district-of-columbia-public-middle-school-to-welcome-back-students.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -59,48 +213,6 @@
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/us/2023/08/28/former-fbi-contractor-accused-coercing-minors-sending-explicit-images-social-media/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-28T16:48:56.000Z</news:publication_date>
-          <news:title>Former FBI contractor accused of coercing minors into sending explicit images on social media</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/us/2023/08/28/former-fbi-contractor-accused-coercing-minors-sending-explicit-images-social-media/former-fbi-contractor-accused-coercing-minors-sending-explicit-images-social-media.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/us/2023/08/28/biden-is-widely-seen-as-too-old-for-office-an-ap-norc-poll-finds-trumps-got-other-problems/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-28T16:45:38.000Z</news:publication_date>
-          <news:title>Biden is widely seen as too old for office, an AP-NORC poll finds. Trump has problems of his own</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/us/2023/08/28/biden-is-widely-seen-as-too-old-for-office-an-ap-norc-poll-finds-trumps-got-other-problems/biden-is-widely-seen-as-too-old-for-office-an-ap-norc-poll-finds-trumps-got-other-problems.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/us/2023/08/28/california-jury-awards-3-75-millions-protester-hit-lapd-projectile-during-2020-protests/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-28T16:45:13.000Z</news:publication_date>
-          <news:title>California jury awards $3.75 million to protester hit by LAPD projectile during 2020 protestss</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/us/2023/08/28/california-jury-awards-3-75-millions-protester-hit-lapd-projectile-during-2020-protests/california-jury-awards-3-75-millions-protester-hit-lapd-projectile-during-2020-protests.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
         <loc>https://majordigest.com/us/2023/08/28/tropical-storm-idalia-is-expected-to-become-a-hurricane-and-move-toward-florida-forecasters-say/</loc>
         <news:news>
           <news:publication>
@@ -115,55 +227,13 @@
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/us/2023/08/28/pets-left-behind-canada-during-wildfire-evacuations-rescued-volunteers-reunited-families/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-28T16:42:55.000Z</news:publication_date>
-          <news:title>Pets left behind in Canada during wildfire evacuations rescued by volunteers, to be reunited with families</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/us/2023/08/28/pets-left-behind-canada-during-wildfire-evacuations-rescued-volunteers-reunited-families/pets-left-behind-canada-during-wildfire-evacuations-rescued-volunteers-reunited-families.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/us/2023/08/28/indiana-police-officer-fatally-shoots-machete-wielding-man-indianapolis/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-28T16:37:39.000Z</news:publication_date>
-          <news:title>Indiana police officer fatally shoots machete-wielding man in Indianapolis</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/us/2023/08/28/indiana-police-officer-fatally-shoots-machete-wielding-man-indianapolis/indiana-police-officer-fatally-shoots-machete-wielding-man-indianapolis.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/us/2023/08/28/gran-turismo-takes-weekend-box-office-crown-over-barbie-after-all/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-28T16:28:52.000Z</news:publication_date>
-          <news:title>&#8216;Gran Turismo&#8217; takes weekend box office crown over &#8216;Barbie&#8217; after all</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/us/2023/08/28/gran-turismo-takes-weekend-box-office-crown-over-barbie-after-all/gran-turismo-takes-weekend-box-office-crown-over-barbie-after-all.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
         <loc>https://majordigest.com/us/2023/08/28/puppy-recovered-from-wreckage-day-after-its-owner-was-killed-in-a-storm/</loc>
         <news:news>
           <news:publication>
             <news:name>Major Digest</news:name>
             <news:language>en</news:language>
           </news:publication>
-          <news:publication_date>2023-08-28T16:21:19.000Z</news:publication_date>
+          <news:publication_date>2023-08-28T16:21:02.000Z</news:publication_date>
           <news:title>Puppy recovered from wreckage day after its owner was killed in a storm</news:title>
         </news:news>
         <image:image>
@@ -185,17 +255,45 @@
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/us/2023/08/28/pope-says-backward-u-s-conservatives-have-replaced-faith-with-ideology/</loc>
+        <loc>https://majordigest.com/us/2023/08/28/trump-federal-jan-6-case-set-for-trial-in-march-2024/</loc>
         <news:news>
           <news:publication>
             <news:name>Major Digest</news:name>
             <news:language>en</news:language>
           </news:publication>
-          <news:publication_date>2023-08-28T15:23:16.000Z</news:publication_date>
-          <news:title>Pope says 'backward' U.S. conservatives have replaced faith with ideology</news:title>
+          <news:publication_date>2023-08-28T15:31:26.000Z</news:publication_date>
+          <news:title>Trump's federal Jan. 6 case set for trial on March 4</news:title>
         </news:news>
         <image:image>
-          <image:loc>https://majordigest.com/us/2023/08/28/pope-says-backward-u-s-conservatives-have-replaced-faith-with-ideology/pope-says-backward-u-s-conservatives-have-replaced-faith-with-ideology.webp</image:loc>
+          <image:loc>https://majordigest.com/us/2023/08/28/trump-federal-jan-6-case-set-for-trial-in-march-2024/trump-federal-jan-6-case-set-for-trial-in-march-2024.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/us/2023/08/28/need-to-know-about-live-saving-cpr-a-new-study-says-its-probably-wise-not-to-ask-alexa-or-siri/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-28T15:16:41.000Z</news:publication_date>
+          <news:title>Need to know about lifesaving CPR? A new study says it's probably wise not to ask Alexa or Siri</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/us/2023/08/28/need-to-know-about-live-saving-cpr-a-new-study-says-its-probably-wise-not-to-ask-alexa-or-siri/need-to-know-about-live-saving-cpr-a-new-study-says-its-probably-wise-not-to-ask-alexa-or-siri.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/us/2023/08/28/study-suggests-global-warming-set-to-worsen-snow-shortages-on-europes-ski-slopes/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-28T15:02:37.000Z</news:publication_date>
+          <news:title>Study suggests global warming set to worsen snow shortages on Europe's ski slopes</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/us/2023/08/28/study-suggests-global-warming-set-to-worsen-snow-shortages-on-europes-ski-slopes/study-suggests-global-warming-set-to-worsen-snow-shortages-on-europes-ski-slopes.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -247,11 +345,25 @@
             <news:name>Major Digest</news:name>
             <news:language>en</news:language>
           </news:publication>
-          <news:publication_date>2023-08-28T12:32:38.000Z</news:publication_date>
+          <news:publication_date>2023-08-28T12:31:00.000Z</news:publication_date>
           <news:title>Snow day, meet heat day: Summer weather takes bites from school calendars</news:title>
         </news:news>
         <image:image>
           <image:loc>https://majordigest.com/us/2023/08/28/snow-day-meet-heat-day-summer-weather-takes-bites-from-school-calendars/snow-day-meet-heat-day-summer-weather-takes-bites-from-school-calendars.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/us/2023/08/28/son-stolen-from-mothers-arms-at-birth-42-years-ago-hugs-her-for-first-time/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-28T11:55:31.000Z</news:publication_date>
+          <news:title>Son stolen from mother's arms at birth 42 years ago hugs her for first time</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/us/2023/08/28/son-stolen-from-mothers-arms-at-birth-42-years-ago-hugs-her-for-first-time/son-stolen-from-mothers-arms-at-birth-42-years-ago-hugs-her-for-first-time.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -266,20 +378,6 @@
         </news:news>
         <image:image>
           <image:loc>https://majordigest.com/us/2023/08/28/8-us-marines-remain-in-hospital-after-fiery-aircraft-crash-killed-3-in-australia/8-us-marines-remain-in-hospital-after-fiery-aircraft-crash-killed-3-in-australia.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/us/2023/08/28/son-stolen-from-mothers-arms-at-birth-42-years-ago-hugs-her-for-first-time/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-28T11:53:59.000Z</news:publication_date>
-          <news:title>Son stolen from mother's arms at birth 42 years ago hugs her for first time</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/us/2023/08/28/son-stolen-from-mothers-arms-at-birth-42-years-ago-hugs-her-for-first-time/son-stolen-from-mothers-arms-at-birth-42-years-ago-hugs-her-for-first-time.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -303,25 +401,11 @@
             <news:name>Major Digest</news:name>
             <news:language>en</news:language>
           </news:publication>
-          <news:publication_date>2023-08-28T10:28:08.000Z</news:publication_date>
+          <news:publication_date>2023-08-28T10:26:47.000Z</news:publication_date>
           <news:title>Idalia to become major hurricane before hitting Florida's coast</news:title>
         </news:news>
         <image:image>
           <image:loc>https://majordigest.com/us/2023/08/28/idalia-on-track-to-hit-us-as-a-hurricane-forecasters-say/idalia-on-track-to-hit-us-as-a-hurricane-forecasters-say.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/us/2023/08/28/biden-and-the-first-lady-head-to-district-of-columbia-public-middle-school-to-welcome-back-students/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-28T10:14:40.000Z</news:publication_date>
-          <news:title>Biden and the first lady head to District of Columbia public middle school to welcome back students</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/us/2023/08/28/biden-and-the-first-lady-head-to-district-of-columbia-public-middle-school-to-welcome-back-students/biden-and-the-first-lady-head-to-district-of-columbia-public-middle-school-to-welcome-back-students.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -331,53 +415,11 @@
             <news:name>Major Digest</news:name>
             <news:language>en</news:language>
           </news:publication>
-          <news:publication_date>2023-08-28T10:06:16.000Z</news:publication_date>
+          <news:publication_date>2023-08-28T10:04:54.000Z</news:publication_date>
           <news:title>Georgia courtroom battles begin Monday in next stage of Trump case</news:title>
         </news:news>
         <image:image>
           <image:loc>https://majordigest.com/us/2023/08/28/georgia-courtroom-battles-begin-monday-in-next-stage-of-trump-case/georgia-courtroom-battles-begin-monday-in-next-stage-of-trump-case.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/us/2023/08/28/simone-biles-wins-record-8th-us-gymnastics-title-a-full-decade-after-her-first/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-28T09:58:58.000Z</news:publication_date>
-          <news:title>Simone Biles wins record 8th US Gymnastics title - a full decade after her first</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/us/2023/08/28/simone-biles-wins-record-8th-us-gymnastics-title-a-full-decade-after-her-first/simone-biles-wins-record-8th-us-gymnastics-title-a-full-decade-after-her-first.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/us/2023/08/27/1-dead-in-shooting-at-ohio-mall-as-police-investigate-active-situation/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-27T23:50:00.000Z</news:publication_date>
-          <news:title>1 killed in shooting at Ohio mall; 2 teens arrested</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/us/2023/08/27/1-dead-in-shooting-at-ohio-mall-as-police-investigate-active-situation/1-dead-in-shooting-at-ohio-mall-as-police-investigate-active-situation.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/us/2023/08/27/san-francisco-restaurant-bans-armed-officers-police-union-responds/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-27T23:26:10.000Z</news:publication_date>
-          <news:title>San Francisco restaurant bans armed officers, police union responds</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/us/2023/08/27/san-francisco-restaurant-bans-armed-officers-police-union-responds/san-francisco-restaurant-bans-armed-officers-police-union-responds.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -395,59 +437,31 @@
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/us/2023/08/27/less-sleep-less-exercise-and-less-relaxation-heres-the-data-on-just-how-much-parents-sacrifice-during-the-school-year/</loc>
+        <loc>https://majordigest.com/us/2023/08/27/biggest-brightest-rare-blue-supermoon-can-be-seen-this-week-what-to-know/</loc>
         <news:news>
           <news:publication>
             <news:name>Major Digest</news:name>
             <news:language>en</news:language>
           </news:publication>
-          <news:publication_date>2023-08-27T20:53:22.000Z</news:publication_date>
-          <news:title>Less sleep, less exercise and less relaxation &#8211; here&#8217;s the data on just how much parents sacrifice during the school&#160;year</news:title>
+          <news:publication_date>2023-08-27T18:16:39.000Z</news:publication_date>
+          <news:title>'Biggest, brightest' rare blue supermoon can be seen this week: What to know</news:title>
         </news:news>
         <image:image>
-          <image:loc>https://majordigest.com/us/2023/08/27/less-sleep-less-exercise-and-less-relaxation-heres-the-data-on-just-how-much-parents-sacrifice-during-the-school-year/less-sleep-less-exercise-and-less-relaxation-heres-the-data-on-just-how-much-parents-sacrifice-during-the-school-year.webp</image:loc>
+          <image:loc>https://majordigest.com/us/2023/08/27/biggest-brightest-rare-blue-supermoon-can-be-seen-this-week-what-to-know/biggest-brightest-rare-blue-supermoon-can-be-seen-this-week-what-to-know.webp</image:loc>
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/us/2023/08/27/is-your-dog-at-risk-for-t-cruzi-infection-which-can-lead-to-heart-problems-and-sudden-death/</loc>
+        <loc>https://majordigest.com/us/2023/08/26/green-day-releases-nimrod-shirt-with-trump-mugshot-to-raise-money-for-maui/</loc>
         <news:news>
           <news:publication>
             <news:name>Major Digest</news:name>
             <news:language>en</news:language>
           </news:publication>
-          <news:publication_date>2023-08-27T16:05:30.000Z</news:publication_date>
-          <news:title>Is your dog at risk for T. cruzi infection, which can lead to heart problems and sudden death?</news:title>
+          <news:publication_date>2023-08-26T01:01:33.000Z</news:publication_date>
+          <news:title>Green Day releases 'Nimrod' shirt with Trump mugshot to raise money for Maui</news:title>
         </news:news>
         <image:image>
-          <image:loc>https://majordigest.com/us/2023/08/27/is-your-dog-at-risk-for-t-cruzi-infection-which-can-lead-to-heart-problems-and-sudden-death/is-your-dog-at-risk-for-t-cruzi-infection-which-can-lead-to-heart-problems-and-sudden-death.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/us/2023/08/27/nascar-driver-awake-alert-and-mobile-following-terrifying-crash-at-daytona/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-27T14:13:40.000Z</news:publication_date>
-          <news:title>NASCAR driver 'awake, alert and mobile' following terrifying crash at Daytona</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/us/2023/08/27/nascar-driver-awake-alert-and-mobile-following-terrifying-crash-at-daytona/nascar-driver-awake-alert-and-mobile-following-terrifying-crash-at-daytona.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/us/2023/08/27/white-shooter-kills-3-black-people-in-florida-hate-crime-as-washington-celebrates-kings-dream/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-27T09:35:46.000Z</news:publication_date>
-          <news:title>Florida Gov. Ron DeSantis booed at vigil as hundreds mourn more racist killings</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/us/2023/08/27/white-shooter-kills-3-black-people-in-florida-hate-crime-as-washington-celebrates-kings-dream/white-shooter-kills-3-black-people-in-florida-hate-crime-as-washington-celebrates-kings-dream.webp</image:loc>
+          <image:loc>https://majordigest.com/us/2023/08/26/green-day-releases-nimrod-shirt-with-trump-mugshot-to-raise-money-for-maui/green-day-releases-nimrod-shirt-with-trump-mugshot-to-raise-money-for-maui.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -504,19 +518,5 @@
         </news:news>
         <image:image>
           <image:loc>https://majordigest.com/us/2023/08/24/national-cinema-day-major-theater-chains-offering-4-tickets-for-1-day-only/national-cinema-day-major-theater-chains-offering-4-tickets-for-1-day-only.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/us/2023/08/24/study-links-childrens-screen-time-to-heart-damage-in-adulthood/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-24T16:11:14.000Z</news:publication_date>
-          <news:title>Study links children's screen time to heart damage in adulthood</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/us/2023/08/24/study-links-childrens-screen-time-to-heart-damage-in-adulthood/study-links-childrens-screen-time-to-heart-damage-in-adulthood.webp</image:loc>
         </image:image>
       </url></urlset>

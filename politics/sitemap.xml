@@ -3,17 +3,73 @@
               xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
               xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
       <url>
-        <loc>https://majordigest.com/politics/2023/08/28/biden-to-observe-911-anniversary-in-alaska-missing-nyc-virginia-and-pennsylvania-observances/</loc>
+        <loc>https://majordigest.com/politics/2023/08/28/whitmer-push-obamacares-enshrinement-michigan-law/</loc>
         <news:news>
           <news:publication>
             <news:name>Major Digest</news:name>
             <news:language>en</news:language>
           </news:publication>
-          <news:publication_date>2023-08-28T17:12:36.000Z</news:publication_date>
-          <news:title>Biden to observe 9/11 anniversary in Alaska, missing NYC, Virginia and Pennsylvania observances</news:title>
+          <news:publication_date>2023-08-28T18:16:00.000Z</news:publication_date>
+          <news:title>Whitmer to push for ObamaCare's enshrinement into Michigan law</news:title>
         </news:news>
         <image:image>
-          <image:loc>https://majordigest.com/politics/2023/08/28/biden-to-observe-911-anniversary-in-alaska-missing-nyc-virginia-and-pennsylvania-observances/biden-to-observe-911-anniversary-in-alaska-missing-nyc-virginia-and-pennsylvania-observances.webp</image:loc>
+          <image:loc>https://majordigest.com/politics/2023/08/28/whitmer-push-obamacares-enshrinement-michigan-law/whitmer-push-obamacares-enshrinement-michigan-law.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/politics/2023/08/28/biden-approves-federal-disaster-emergency-florida-calls-desantis-storm-jacksonville-shooting/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-28T17:53:11.000Z</news:publication_date>
+          <news:title>Biden approves federal disaster emergency for Florida, calls DeSantis regarding storm, Jacksonville shooting</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/politics/2023/08/28/biden-approves-federal-disaster-emergency-florida-calls-desantis-storm-jacksonville-shooting/biden-approves-federal-disaster-emergency-florida-calls-desantis-storm-jacksonville-shooting.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/politics/2023/08/28/trump-is-already-selling-merch-with-his-mug-shot-on-it/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-28T17:42:56.000Z</news:publication_date>
+          <news:title>Trump is already selling merch with his mug shot on it </news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/politics/2023/08/28/trump-is-already-selling-merch-with-his-mug-shot-on-it/trump-is-already-selling-merch-with-his-mug-shot-on-it.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/politics/2023/08/28/judge-sets-march-4-2024-as-trump-trial-date-in-election-interference-case/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-28T16:57:00.000Z</news:publication_date>
+          <news:title>Judge sets March 4, 2024 as Trump trial date in election interference case</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/politics/2023/08/28/judge-sets-march-4-2024-as-trump-trial-date-in-election-interference-case/judge-sets-march-4-2024-as-trump-trial-date-in-election-interference-case.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/politics/2023/08/28/biden-is-widely-seen-as-too-old-for-office-an-ap-norc-poll-finds-trumps-got-other-problems/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-28T16:45:38.000Z</news:publication_date>
+          <news:title>Biden is widely seen as too old for office, an AP-NORC poll finds. Trump has problems of his own</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/politics/2023/08/28/biden-is-widely-seen-as-too-old-for-office-an-ap-norc-poll-finds-trumps-got-other-problems/biden-is-widely-seen-as-too-old-for-office-an-ap-norc-poll-finds-trumps-got-other-problems.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -28,6 +84,20 @@
         </news:news>
         <image:image>
           <image:loc>https://majordigest.com/politics/2023/08/28/ramaswamy-floated-mandatory-voting-casting-electronic-ballots-home/ramaswamy-floated-mandatory-voting-casting-electronic-ballots-home.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/politics/2023/08/28/biden-approves-emergency-declaration-for-florida-ahead-of-t-s-idalia/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-28T16:30:03.000Z</news:publication_date>
+          <news:title>Biden approves Emergency Declaration for Florida ahead of T.S. Idalia</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/politics/2023/08/28/biden-approves-emergency-declaration-for-florida-ahead-of-t-s-idalia/biden-approves-emergency-declaration-for-florida-ahead-of-t-s-idalia.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -59,45 +129,17 @@
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/politics/2023/08/28/trump-lawyers-back-in-dc-court-as-two-sides-differ-over-trial-date-in-election-subversion-case/</loc>
+        <loc>https://majordigest.com/politics/2023/08/28/trump-trial-date-election-subversion-2020/</loc>
         <news:news>
           <news:publication>
             <news:name>Major Digest</news:name>
             <news:language>en</news:language>
           </news:publication>
-          <news:publication_date>2023-08-28T16:21:49.000Z</news:publication_date>
-          <news:title>Trump trial set for March 4, 2024, in federal case charging him with plotting to overturn election</news:title>
+          <news:publication_date>2023-08-28T15:28:48.000Z</news:publication_date>
+          <news:title>Trump&#8217;s federal trial for subverting election is scheduled for March</news:title>
         </news:news>
         <image:image>
-          <image:loc>https://majordigest.com/politics/2023/08/28/trump-lawyers-back-in-dc-court-as-two-sides-differ-over-trial-date-in-election-subversion-case/trump-lawyers-back-in-dc-court-as-two-sides-differ-over-trial-date-in-election-subversion-case.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/politics/2023/08/28/oregon-gop-senators-sue-run-reelection-following-walkout-led-disqualification/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-28T16:04:31.000Z</news:publication_date>
-          <news:title>Oregon GOP senators sue to run for reelection following walkout that led to their disqualification</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/politics/2023/08/28/oregon-gop-senators-sue-run-reelection-following-walkout-led-disqualification/oregon-gop-senators-sue-run-reelection-following-walkout-led-disqualification.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/politics/2023/08/28/trial-trump/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-28T15:33:56.000Z</news:publication_date>
-          <news:title>Trump Jan. 6 trial to begin March 4, amid GOP primaries</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/politics/2023/08/28/trial-trump/trial-trump.webp</image:loc>
+          <image:loc>https://majordigest.com/politics/2023/08/28/trump-trial-date-election-subversion-2020/trump-trial-date-election-subversion-2020.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -157,20 +199,6 @@
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/politics/2023/08/28/rural-texas-sheriffs-stretched-thin-are-getting-an-injection-of-cash-from-state-lawmakers/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-28T10:00:00.000Z</news:publication_date>
-          <news:title>Rural Texas sheriffs, stretched thin, are getting an injection of cash from state lawmakers</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/politics/2023/08/28/rural-texas-sheriffs-stretched-thin-are-getting-an-injection-of-cash-from-state-lawmakers/rural-texas-sheriffs-stretched-thin-are-getting-an-injection-of-cash-from-state-lawmakers.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
         <loc>https://majordigest.com/politics/2023/08/28/republicans-gas-prices-oil-production/</loc>
         <news:news>
           <news:publication>
@@ -196,20 +224,6 @@
         </news:news>
         <image:image>
           <image:loc>https://majordigest.com/politics/2023/08/28/georgia-trump-removal-hearing-federal-court/georgia-trump-removal-hearing-federal-court.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/politics/2023/08/28/judge-to-hear-arguments-on-mark-meadows-request-to-move-georgia-election-case-to-federal-court/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-28T04:06:23.000Z</news:publication_date>
-          <news:title>Judge to hear arguments on Mark Meadows' request to move Georgia election case to federal court</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/politics/2023/08/28/judge-to-hear-arguments-on-mark-meadows-request-to-move-georgia-election-case-to-federal-court/judge-to-hear-arguments-on-mark-meadows-request-to-move-georgia-election-case-to-federal-court.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -255,6 +269,20 @@
         </image:image>
       </url>
       <url>
+        <loc>https://majordigest.com/politics/2023/08/27/desantis-pauses-campaigning-as-florida-faces-duel-crises/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-27T21:13:36.000Z</news:publication_date>
+          <news:title>DeSantis pauses campaigning as Florida faces dual crises</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/politics/2023/08/27/desantis-pauses-campaigning-as-florida-faces-duel-crises/desantis-pauses-campaigning-as-florida-faces-duel-crises.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
         <loc>https://majordigest.com/politics/2023/08/27/us-congress-members-make-a-rare-visit-to-opposition-held-northwest-syria/</loc>
         <news:news>
           <news:publication>
@@ -269,17 +297,17 @@
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/politics/2023/08/26/trump-campaign-reports-raising-more-than-7-million-after-georgia-booking/</loc>
+        <loc>https://majordigest.com/politics/2023/08/27/npr-minnesota-felon-voting-rights-restoration/</loc>
         <news:news>
           <news:publication>
             <news:name>Major Digest</news:name>
             <news:language>en</news:language>
           </news:publication>
-          <news:publication_date>2023-08-26T23:44:03.000Z</news:publication_date>
-          <news:title>Trump campaign reports raising more than $7 million after Georgia booking</news:title>
+          <news:publication_date>2023-08-27T09:00:00.000Z</news:publication_date>
+          <news:title>Minnesota returns voting power to thousands. The question is whether they'll use it</news:title>
         </news:news>
         <image:image>
-          <image:loc>https://majordigest.com/politics/2023/08/26/trump-campaign-reports-raising-more-than-7-million-after-georgia-booking/trump-campaign-reports-raising-more-than-7-million-after-georgia-booking.webp</image:loc>
+          <image:loc>https://majordigest.com/politics/2023/08/27/npr-minnesota-felon-voting-rights-restoration/npr-minnesota-felon-voting-rights-restoration.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -294,6 +322,20 @@
         </news:news>
         <image:image>
           <image:loc>https://majordigest.com/politics/2023/08/26/gop-presidential-candidate-vivek-ramaswamy-is-an-unaffiliated-voter-nbc-reports/gop-presidential-candidate-vivek-ramaswamy-is-an-unaffiliated-voter-nbc-reports.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/politics/2023/08/26/wild-horses-that-roam-theodore-roosevelt-national-park-may-be-removed-many-oppose-the-plan/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-26T15:01:48.000Z</news:publication_date>
+          <news:title>Wild horses that roam Theodore Roosevelt National Park may be removed. Many oppose the plan</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/politics/2023/08/26/wild-horses-that-roam-theodore-roosevelt-national-park-may-be-removed-many-oppose-the-plan/wild-horses-that-roam-theodore-roosevelt-national-park-may-be-removed-many-oppose-the-plan.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -339,20 +381,6 @@
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/politics/2023/08/25/carlos-santana-issues-apology-for-anti-trans-remarks-on-stage/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-25T15:43:31.000Z</news:publication_date>
-          <news:title>Carlos Santana issues apology for anti-trans remarks on stage</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/politics/2023/08/25/carlos-santana-issues-apology-for-anti-trans-remarks-on-stage/carlos-santana-issues-apology-for-anti-trans-remarks-on-stage.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
         <loc>https://majordigest.com/politics/2023/08/25/trump-recounts-terrible-experience-of-being-booked-in-georgia/</loc>
         <news:news>
           <news:publication>
@@ -367,31 +395,17 @@
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/politics/2023/08/24/does-the-georgia-case-pose-greatest-threat-to-former-president-trump/</loc>
+        <loc>https://majordigest.com/politics/2023/08/25/encinitas-tackles-homelessness-issues-looks-at-possible-camping-ban/</loc>
         <news:news>
           <news:publication>
             <news:name>Major Digest</news:name>
             <news:language>en</news:language>
           </news:publication>
-          <news:publication_date>2023-08-24T23:38:30.000Z</news:publication_date>
-          <news:title>Does the Georgia case pose greatest threat to former President Trump?</news:title>
+          <news:publication_date>2023-08-25T02:12:23.000Z</news:publication_date>
+          <news:title>Encinitas tackles homelessness issues, looks at possible camping ban</news:title>
         </news:news>
         <image:image>
-          <image:loc>https://majordigest.com/politics/2023/08/24/does-the-georgia-case-pose-greatest-threat-to-former-president-trump/does-the-georgia-case-pose-greatest-threat-to-former-president-trump.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/politics/2023/08/24/covid-19-cases-rise-cdc-recommends-updated-vaccine/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-24T20:37:19.000Z</news:publication_date>
-          <news:title>COVID-19 cases rise, CDC recommends updated vaccine</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/politics/2023/08/24/covid-19-cases-rise-cdc-recommends-updated-vaccine/covid-19-cases-rise-cdc-recommends-updated-vaccine.webp</image:loc>
+          <image:loc>https://majordigest.com/politics/2023/08/25/encinitas-tackles-homelessness-issues-looks-at-possible-camping-ban/encinitas-tackles-homelessness-issues-looks-at-possible-camping-ban.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -490,20 +504,6 @@
         </news:news>
         <image:image>
           <image:loc>https://majordigest.com/politics/2023/08/21/biden-campaign-launches-25m-ad-buy-in-battleground-states-including-nevada/biden-campaign-launches-25m-ad-buy-in-battleground-states-including-nevada.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/politics/2023/08/21/assemblywoman-heidi-kasama-joins-republican-challengers-for-lees-seat-in-congress/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-21T19:16:18.000Z</news:publication_date>
-          <news:title>Assemblywoman Heidi Kasama joins Republican challengers for Lee's seat in Congress</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/politics/2023/08/21/assemblywoman-heidi-kasama-joins-republican-challengers-for-lees-seat-in-congress/assemblywoman-heidi-kasama-joins-republican-challengers-for-lees-seat-in-congress.webp</image:loc>
         </image:image>
       </url>
       <url>
