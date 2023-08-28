@@ -7,7 +7,7 @@
         <title>Major Digest - Reliable and Comprehensive News Sources: tech</title>
         <description>Get the latest news online at Major Digest, the top online news resource for the most reliable news sources. Stay informed about the world around you!</description>
         <link>https://majordigest.com/?utm_medium=RSS</link>
-        <lastBuildDate>Mon, 28 Aug 2023 18:23:25 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 28 Aug 2023 19:15:30 GMT</lastBuildDate>
         <generator>https://majordigest.com/?v=1.1.4</generator>
         <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/" />
         <atom:link rel="self" href="https://majordigest.com/tech/feed.xml" type="application/rss+xml" />
@@ -19,15 +19,26 @@
           <link>https://majordigest.com/?utm_medium=RSS</link>
         </image>
       <item>
-        <title>Ex-Goldman Trader building new Bay Area city will need to appease local opponents</title>
-        <description><![CDATA[The mystery surrounding a project to convert farmland into a new green city in the Bay Area is finally being unraveled. The would-be “mega-city” is the brainchild of a novice developer backed by some of Silicon Valley’s most prominent names.]]></description>
-        <guid>https://majordigest.com/tech/2023/08/28/ex-goldman-trader-building-new-california-city-will-need-to-appease-local-opponents/</guid>
-        <link>https://majordigest.com/tech/2023/08/28/ex-goldman-trader-building-new-california-city-will-need-to-appease-local-opponents/</link>
-        <pubDate>Mon, 28 Aug 2023 17:01:07 +0000</pubDate>
+        <title>How to maximize screen space on your desktop and laptop to be more productive</title>
+        <description><![CDATA[Sometimes computer screens can be so cluttered with icons and multiple windows open. Kurt &quot;CyberGuy&quot; Knutsson shows you how to maximize your screen space.]]></description>
+        <guid>https://majordigest.com/tech/2023/08/28/maximize-screen-space-desktop-laptop-productive/</guid>
+        <link>https://majordigest.com/tech/2023/08/28/maximize-screen-space-desktop-laptop-productive/</link>
+        <pubDate>Mon, 28 Aug 2023 15:09:44 EDT</pubDate>
         <category>tech</category>
-        <media:content medium="image" url="https://majordigest.com/tech/2023/08/28/ex-goldman-trader-building-new-california-city-will-need-to-appease-local-opponents/ex-goldman-trader-building-new-california-city-will-need-to-appease-local-opponents.webp"/>
-        <media:thumbnail url="https://majordigest.com/tech/2023/08/28/ex-goldman-trader-building-new-california-city-will-need-to-appease-local-opponents/ex-goldman-trader-building-new-california-city-will-need-to-appease-local-opponents.webp"/>
-        <dc:creator>Bloomberg, The Mercury News</dc:creator>
+        <media:content medium="image" url="https://majordigest.com/tech/2023/08/28/maximize-screen-space-desktop-laptop-productive/maximize-screen-space-desktop-laptop-productive.webp"/>
+        <media:thumbnail url="https://majordigest.com/tech/2023/08/28/maximize-screen-space-desktop-laptop-productive/maximize-screen-space-desktop-laptop-productive.webp"/>
+        <dc:creator>Fox News</dc:creator>
+      </item>
+      <item>
+        <title>Google makes it easier to remove personal info</title>
+        <description><![CDATA[Google recently updated a powerful privacy feature called Results About You. The improvements make it even easier to find and remove your personal information from Google Search Results. This can include information like your phone number, email and home address.]]></description>
+        <guid>https://majordigest.com/tech/2023/08/28/how-to-use-google-results-about-you-privacy-remove-personal-data/</guid>
+        <link>https://majordigest.com/tech/2023/08/28/how-to-use-google-results-about-you-privacy-remove-personal-data/</link>
+        <pubDate>Mon, 28 Aug 2023 12:01:36 +0000</pubDate>
+        <category>tech</category>
+        <media:content medium="image" url="https://majordigest.com/tech/2023/08/28/how-to-use-google-results-about-you-privacy-remove-personal-data/how-to-use-google-results-about-you-privacy-remove-personal-data.webp"/>
+        <media:thumbnail url="https://majordigest.com/tech/2023/08/28/how-to-use-google-results-about-you-privacy-remove-personal-data/how-to-use-google-results-about-you-privacy-remove-personal-data.webp"/>
+        <dc:creator>Rich DeMuro, KTLA 5</dc:creator>
       </item>
       <item>
         <title>How PayPal is using AI to combat fraud, and make it easier to pay</title>
@@ -118,17 +129,6 @@
         <dc:creator>Fox News</dc:creator>
       </item>
       <item>
-        <title>How to stop someone from tracking you on your phone</title>
-        <description><![CDATA[Worried that your phone could be hacked, and someone&apos;s tracking your location? Kurt &quot;The CyberGuy&quot; Knutsson shares steps on what you should do and how to protect your information.]]></description>
-        <guid>https://majordigest.com/tech/2023/08/26/how-stop-someone-tracking-you-your-phone/</guid>
-        <link>https://majordigest.com/tech/2023/08/26/how-stop-someone-tracking-you-your-phone/</link>
-        <pubDate>Sat, 26 Aug 2023 13:21:40 EDT</pubDate>
-        <category>tech</category>
-        <media:content medium="image" url="https://majordigest.com/tech/2023/08/26/how-stop-someone-tracking-you-your-phone/how-stop-someone-tracking-you-your-phone.webp"/>
-        <media:thumbnail url="https://majordigest.com/tech/2023/08/26/how-stop-someone-tracking-you-your-phone/how-stop-someone-tracking-you-your-phone.webp"/>
-        <dc:creator>Fox News</dc:creator>
-      </item>
-      <item>
         <title>Much of Florida under state of emergency as possible tropical storm forms in Gulf of Mexico</title>
         <description><![CDATA[Forecasters are warning of possible flash flooding and landslides across the eastern Yucatan peninsula and western Cuba, and Florida is bracing for a possible hurricane by midweek, as a weather system off the coast of Mexico is expected to become a tropical storm by Sunday.]]></description>
         <guid>https://majordigest.com/tech/2023/08/26/much-of-florida-under-state-of-emergency-as-possible-tropical-storm-forms-in-gulf-of-mexico/</guid>
@@ -173,15 +173,15 @@
         <dc:creator>Laura Ungar, Associated Press, Local 4</dc:creator>
       </item>
       <item>
-        <title>Your phone tracks everywhere you&#8217;ve been - See (and delete) it</title>
-        <description><![CDATA[Your phone likely knows more than you realize, including your frequented locations, the time of day you arrive or leave, and the routes you take – but the feature can be disabled.]]></description>
-        <guid>https://majordigest.com/tech/2023/08/26/phone-tracks-everywhere-youve-been-see-delete-it/</guid>
-        <link>https://majordigest.com/tech/2023/08/26/phone-tracks-everywhere-youve-been-see-delete-it/</link>
-        <pubDate>Sat, 26 Aug 2023 03:50:12 EDT</pubDate>
+        <title>Appeals court revives bribery charge for Apple security exec in Santa Clara County concealed-gun permit scandal</title>
+        <description><![CDATA[Thomas Moyer convinced a judge two years ago that his offer of iPads to the sheriff's office was not a bribe to speed up getting the permits for his security agents; a ruling published Friday reversed that judge's decision]]></description>
+        <guid>https://majordigest.com/tech/2023/08/25/appeals-court-revives-bribery-charge-for-apple-security-exec-in-santa-clara-county-concealed-gun-permit-scandal/</guid>
+        <link>https://majordigest.com/tech/2023/08/25/appeals-court-revives-bribery-charge-for-apple-security-exec-in-santa-clara-county-concealed-gun-permit-scandal/</link>
+        <pubDate>Fri, 25 Aug 2023 23:02:56 +0000</pubDate>
         <category>tech</category>
-        <media:content medium="image" url="https://majordigest.com/tech/2023/08/26/phone-tracks-everywhere-youve-been-see-delete-it/phone-tracks-everywhere-youve-been-see-delete-it.webp"/>
-        <media:thumbnail url="https://majordigest.com/tech/2023/08/26/phone-tracks-everywhere-youve-been-see-delete-it/phone-tracks-everywhere-youve-been-see-delete-it.webp"/>
-        <dc:creator>Fox News</dc:creator>
+        <media:content medium="image" url="https://majordigest.com/tech/2023/08/25/appeals-court-revives-bribery-charge-for-apple-security-exec-in-santa-clara-county-concealed-gun-permit-scandal/appeals-court-revives-bribery-charge-for-apple-security-exec-in-santa-clara-county-concealed-gun-permit-scandal.webp"/>
+        <media:thumbnail url="https://majordigest.com/tech/2023/08/25/appeals-court-revives-bribery-charge-for-apple-security-exec-in-santa-clara-county-concealed-gun-permit-scandal/appeals-court-revives-bribery-charge-for-apple-security-exec-in-santa-clara-county-concealed-gun-permit-scandal.webp"/>
+        <dc:creator>Robert Salonga, The Mercury News</dc:creator>
       </item>
       <item>
         <title>Musk calls Trump mug shot post 'next-level' after former president returns to 'X' platform</title>
@@ -195,15 +195,26 @@
         <dc:creator>Tara Suter, The Hill</dc:creator>
       </item>
       <item>
-        <title>Los Angeles installing solar-powered EV charging stations</title>
-        <description><![CDATA[One of the biggest reasons people don’t buy electric cars is because they’re worried about where they’ll charge them. One company has a unique answer with a solar charger that fits into a standard parking spot. San Diego based Beam Global has a solution for putting more chargers in more places.]]></description>
-        <guid>https://majordigest.com/tech/2023/08/25/los-angeles-solar-ev-chargers-ev-arc-beam-global/</guid>
-        <link>https://majordigest.com/tech/2023/08/25/los-angeles-solar-ev-chargers-ev-arc-beam-global/</link>
-        <pubDate>Fri, 25 Aug 2023 08:00:00 +0000</pubDate>
+        <title>Early Apple computer that helped launch $3T company sells at auction for $223,000</title>
+        <description><![CDATA[BOSTON (AP) — One of the first personal computers built by Apple and signed by company co-founder Steve Wozniak has sold at auction for more than $223,000.]]></description>
+        <guid>https://majordigest.com/tech/2023/08/25/early-apple-computer-that-helped-launch-3t-company-sells-at-auction-for-223000/</guid>
+        <link>https://majordigest.com/tech/2023/08/25/early-apple-computer-that-helped-launch-3t-company-sells-at-auction-for-223000/</link>
+        <pubDate>Fri, 25 Aug 2023 17:04:31 +0000</pubDate>
         <category>tech</category>
-        <media:content medium="image" url="https://majordigest.com/tech/2023/08/25/los-angeles-solar-ev-chargers-ev-arc-beam-global/los-angeles-solar-ev-chargers-ev-arc-beam-global.webp"/>
-        <media:thumbnail url="https://majordigest.com/tech/2023/08/25/los-angeles-solar-ev-chargers-ev-arc-beam-global/los-angeles-solar-ev-chargers-ev-arc-beam-global.webp"/>
-        <dc:creator>Rich DeMuro, KTLA 5</dc:creator>
+        <media:content medium="image" url="https://majordigest.com/tech/2023/08/25/early-apple-computer-that-helped-launch-3t-company-sells-at-auction-for-223000/early-apple-computer-that-helped-launch-3t-company-sells-at-auction-for-223000.webp"/>
+        <media:thumbnail url="https://majordigest.com/tech/2023/08/25/early-apple-computer-that-helped-launch-3t-company-sells-at-auction-for-223000/early-apple-computer-that-helped-launch-3t-company-sells-at-auction-for-223000.webp"/>
+        <dc:creator>AP, ABC 4</dc:creator>
+      </item>
+      <item>
+        <title>Proposed crypto tax rules draw ire from industry groups</title>
+        <description><![CDATA[New rules proposed by the Biden administration on Friday would require cryptocurrency brokers to report information on digital asset sales and exchanges to the Internal Revenue Service (IRS) and taxpayers.]]></description>
+        <guid>https://majordigest.com/tech/2023/08/25/proposed-crypto-tax-rules-draw-ire-from-industry-groups/</guid>
+        <link>https://majordigest.com/tech/2023/08/25/proposed-crypto-tax-rules-draw-ire-from-industry-groups/</link>
+        <pubDate>Fri, 25 Aug 2023 15:32:44 +0000</pubDate>
+        <category>tech</category>
+        <media:content medium="image" url="https://majordigest.com/tech/2023/08/25/proposed-crypto-tax-rules-draw-ire-from-industry-groups/proposed-crypto-tax-rules-draw-ire-from-industry-groups.webp"/>
+        <media:thumbnail url="https://majordigest.com/tech/2023/08/25/proposed-crypto-tax-rules-draw-ire-from-industry-groups/proposed-crypto-tax-rules-draw-ire-from-industry-groups.webp"/>
+        <dc:creator>Taylor Giorno, The Hill</dc:creator>
       </item>
       <item>
         <title>Trump returns to Twitter, under its new moniker X</title>
@@ -237,17 +248,6 @@
         <media:content medium="image" url="https://majordigest.com/tech/2023/08/25/workers-win-raises-at-general-motors-joint-venture-battery-plant-in-ohio-as-contract-talks-continue/workers-win-raises-at-general-motors-joint-venture-battery-plant-in-ohio-as-contract-talks-continue.webp"/>
         <media:thumbnail url="https://majordigest.com/tech/2023/08/25/workers-win-raises-at-general-motors-joint-venture-battery-plant-in-ohio-as-contract-talks-continue/workers-win-raises-at-general-motors-joint-venture-battery-plant-in-ohio-as-contract-talks-continue.webp"/>
         <dc:creator>AP, ABC 4</dc:creator>
-      </item>
-      <item>
-        <title>US sues SpaceX for alleged hiring discrimination against refugees and others</title>
-        <description><![CDATA[The U.S. Department of Justice has sued SpaceX, the rocket company founded and run by Elon Musk, for alleged hiring discrimination against refugees and people granted asylum.]]></description>
-        <guid>https://majordigest.com/tech/2023/08/24/us-sues-spacex-for-alleged-hiring-discrimination-against-refugees-and-others/</guid>
-        <link>https://majordigest.com/tech/2023/08/24/us-sues-spacex-for-alleged-hiring-discrimination-against-refugees-and-others/</link>
-        <pubDate>Thu, 24 Aug 2023 22:55:51 +0000</pubDate>
-        <category>tech</category>
-        <media:content medium="image" url="https://majordigest.com/tech/2023/08/24/us-sues-spacex-for-alleged-hiring-discrimination-against-refugees-and-others/us-sues-spacex-for-alleged-hiring-discrimination-against-refugees-and-others.webp"/>
-        <media:thumbnail url="https://majordigest.com/tech/2023/08/24/us-sues-spacex-for-alleged-hiring-discrimination-against-refugees-and-others/us-sues-spacex-for-alleged-hiring-discrimination-against-refugees-and-others.webp"/>
-        <dc:creator>Associated Press, Local 4</dc:creator>
       </item>
       <item>
         <title>DOJ sues SpaceX for allegedly not hiring asylees, refugees</title>
