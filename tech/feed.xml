@@ -7,7 +7,7 @@
         <title>Major Digest - Reliable and Comprehensive News Sources: tech</title>
         <description>Get the latest news online at Major Digest, the top online news resource for the most reliable news sources. Stay informed about the world around you!</description>
         <link>https://majordigest.com/?utm_medium=RSS</link>
-        <lastBuildDate>Mon, 28 Aug 2023 21:16:37 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 28 Aug 2023 22:17:07 GMT</lastBuildDate>
         <generator>https://majordigest.com/?v=1.1.4</generator>
         <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/" />
         <atom:link rel="self" href="https://majordigest.com/tech/feed.xml" type="application/rss+xml" />
@@ -18,6 +18,17 @@
           <url>https://majordigest.com/assets/icons/logo-512x512.png</url>
           <link>https://majordigest.com/?utm_medium=RSS</link>
         </image>
+      <item>
+        <title>Musk, tech CEOs to attend Schumer's AI Senate forum</title>
+        <description><![CDATA[The top executives at tech companies, including the world's richest man Elon Musk, are among the confirmed guests at Senate Majority Leader Chuck Schumer’s (D-N.Y.) first scheduled “Insight Forum” about artificial intelligence (AI), the senator’s office said Monday.]]></description>
+        <guid>https://majordigest.com/tech/2023/08/28/musk-tech-ceos-to-attend-schumers-ai-senate-forum/</guid>
+        <link>https://majordigest.com/tech/2023/08/28/musk-tech-ceos-to-attend-schumers-ai-senate-forum/</link>
+        <pubDate>Mon, 28 Aug 2023 21:37:48 +0000</pubDate>
+        <category>tech</category>
+        <media:content medium="image" url="https://majordigest.com/tech/2023/08/28/musk-tech-ceos-to-attend-schumers-ai-senate-forum/musk-tech-ceos-to-attend-schumers-ai-senate-forum.webp"/>
+        <media:thumbnail url="https://majordigest.com/tech/2023/08/28/musk-tech-ceos-to-attend-schumers-ai-senate-forum/musk-tech-ceos-to-attend-schumers-ai-senate-forum.webp"/>
+        <dc:creator>Rebecca Klar, The Hill</dc:creator>
+      </item>
       <item>
         <title>Amazon is raising free-shipping minimums for some customers who don't have Prime memberships</title>
         <description><![CDATA[NEW YORK (AP) — Amazon has been quietly raising the amount some customers must spend on its site to get free shipping. To qualify for no-cost deliveries, some Amazon customers who don’t have Prime memberships now need to spend $35, up from $25 previously.]]></description>
@@ -30,6 +41,17 @@
         <dc:creator>HALELUYA HADERO, Associated Press, ABC 4</dc:creator>
       </item>
       <item>
+        <title>Beware of this Mac malware masquerading as an office productivity app</title>
+        <description><![CDATA[Malware is always lurking around the corner. Kurt &quot;CyberGuy&quot; Knutsson explains how this malware is disguised and what you can do to keep your data safe.]]></description>
+        <guid>https://majordigest.com/tech/2023/08/28/beware-mac-malware-masquerading-office-productivity-app/</guid>
+        <link>https://majordigest.com/tech/2023/08/28/beware-mac-malware-masquerading-office-productivity-app/</link>
+        <pubDate>Mon, 28 Aug 2023 15:28:35 EDT</pubDate>
+        <category>tech</category>
+        <media:content medium="image" url="https://majordigest.com/tech/2023/08/28/beware-mac-malware-masquerading-office-productivity-app/beware-mac-malware-masquerading-office-productivity-app.webp"/>
+        <media:thumbnail url="https://majordigest.com/tech/2023/08/28/beware-mac-malware-masquerading-office-productivity-app/beware-mac-malware-masquerading-office-productivity-app.webp"/>
+        <dc:creator>Fox News</dc:creator>
+      </item>
+      <item>
         <title>How to maximize screen space on your desktop and laptop to be more productive</title>
         <description><![CDATA[Sometimes computer screens can be so cluttered with icons and multiple windows open. Kurt &quot;CyberGuy&quot; Knutsson shows you how to maximize your screen space.]]></description>
         <guid>https://majordigest.com/tech/2023/08/28/maximize-screen-space-desktop-laptop-productive/</guid>
@@ -39,6 +61,17 @@
         <media:content medium="image" url="https://majordigest.com/tech/2023/08/28/maximize-screen-space-desktop-laptop-productive/maximize-screen-space-desktop-laptop-productive.webp"/>
         <media:thumbnail url="https://majordigest.com/tech/2023/08/28/maximize-screen-space-desktop-laptop-productive/maximize-screen-space-desktop-laptop-productive.webp"/>
         <dc:creator>Fox News</dc:creator>
+      </item>
+      <item>
+        <title>Ex-Goldman Trader building new Bay Area city will need to appease local opponents</title>
+        <description><![CDATA[The mystery surrounding a project to convert farmland into a new green city in the Bay Area is finally being unraveled. The would-be “mega-city” is the brainchild of a novice developer backed by some of Silicon Valley’s most prominent names.]]></description>
+        <guid>https://majordigest.com/tech/2023/08/28/ex-goldman-trader-building-new-california-city-will-need-to-appease-local-opponents/</guid>
+        <link>https://majordigest.com/tech/2023/08/28/ex-goldman-trader-building-new-california-city-will-need-to-appease-local-opponents/</link>
+        <pubDate>Mon, 28 Aug 2023 17:01:07 +0000</pubDate>
+        <category>tech</category>
+        <media:content medium="image" url="https://majordigest.com/tech/2023/08/28/ex-goldman-trader-building-new-california-city-will-need-to-appease-local-opponents/ex-goldman-trader-building-new-california-city-will-need-to-appease-local-opponents.webp"/>
+        <media:thumbnail url="https://majordigest.com/tech/2023/08/28/ex-goldman-trader-building-new-california-city-will-need-to-appease-local-opponents/ex-goldman-trader-building-new-california-city-will-need-to-appease-local-opponents.webp"/>
+        <dc:creator>Bloomberg, The Mercury News</dc:creator>
       </item>
       <item>
         <title>Google makes it easier to remove personal info</title>
@@ -61,17 +94,6 @@
         <media:content medium="image" url="https://majordigest.com/tech/2023/08/28/how-paypal-is-using-ai-to-combat-fraud-and-make-it-easier-to-pay/how-paypal-is-using-ai-to-combat-fraud-and-make-it-easier-to-pay.webp"/>
         <media:thumbnail url="https://majordigest.com/tech/2023/08/28/how-paypal-is-using-ai-to-combat-fraud-and-make-it-easier-to-pay/how-paypal-is-using-ai-to-combat-fraud-and-make-it-easier-to-pay.webp"/>
         <dc:creator>Ken Sweet, Associated Press, KPRC 2</dc:creator>
-      </item>
-      <item>
-        <title>How an AI 'gold rush' is reviving the tech industry</title>
-        <description><![CDATA[The recent surge in generative artificial intelligence (AI) technology is boosting the tech industry after growth slowed across the sector earlier this year.]]></description>
-        <guid>https://majordigest.com/tech/2023/08/28/how-an-ai-gold-rush-is-reviving-the-tech-industry/</guid>
-        <link>https://majordigest.com/tech/2023/08/28/how-an-ai-gold-rush-is-reviving-the-tech-industry/</link>
-        <pubDate>Mon, 28 Aug 2023 10:00:00 +0000</pubDate>
-        <category>tech</category>
-        <media:content medium="image" url="https://majordigest.com/tech/2023/08/28/how-an-ai-gold-rush-is-reviving-the-tech-industry/how-an-ai-gold-rush-is-reviving-the-tech-industry.webp"/>
-        <media:thumbnail url="https://majordigest.com/tech/2023/08/28/how-an-ai-gold-rush-is-reviving-the-tech-industry/how-an-ai-gold-rush-is-reviving-the-tech-industry.webp"/>
-        <dc:creator>Rebecca Klar, The Hill</dc:creator>
       </item>
       <item>
         <title>How to make your devices impossible to snoop on with a privacy screen</title>
@@ -118,17 +140,6 @@
         <dc:creator>Mari Yamaguchi, Associated Press, KPRC 2</dc:creator>
       </item>
       <item>
-        <title>Bay Area software CEO pleads guilty to tax, pandemic relief fraud</title>
-        <description><![CDATA[Some of the CEO's employees were subjected to IRS audits, authorities said, because the income they reported did not line up with the pay information the company gave to the government.]]></description>
-        <guid>https://majordigest.com/tech/2023/08/26/bay-area-software-ceo-pleads-guilty-to-tax-pandemic-relief-fraud/</guid>
-        <link>https://majordigest.com/tech/2023/08/26/bay-area-software-ceo-pleads-guilty-to-tax-pandemic-relief-fraud/</link>
-        <pubDate>Sat, 26 Aug 2023 20:32:15 +0000</pubDate>
-        <category>tech</category>
-        <media:content medium="image" url="https://majordigest.com/tech/2023/08/26/bay-area-software-ceo-pleads-guilty-to-tax-pandemic-relief-fraud/bay-area-software-ceo-pleads-guilty-to-tax-pandemic-relief-fraud.webp"/>
-        <media:thumbnail url="https://majordigest.com/tech/2023/08/26/bay-area-software-ceo-pleads-guilty-to-tax-pandemic-relief-fraud/bay-area-software-ceo-pleads-guilty-to-tax-pandemic-relief-fraud.webp"/>
-        <dc:creator>Will McCarthy, The Mercury News</dc:creator>
-      </item>
-      <item>
         <title>Zoom&#8217;s reversal after backlash over AI fiasco</title>
         <description><![CDATA[Zoom has reportedly updated its terms on its website without sending a notification to its users, while using their data and content without consent.]]></description>
         <guid>https://majordigest.com/tech/2023/08/26/zooms-reversal-backlash-over-ai-fiasco/</guid>
@@ -162,15 +173,26 @@
         <dc:creator>Shomik Mukherjee, The Mercury News</dc:creator>
       </item>
       <item>
-        <title>Broadband subsidy program that millions use will expire next year if Congress doesn&#8217;t act</title>
-        <description><![CDATA[LOS ANGELES (AP) — One of the features that President Joe Biden cited in his plan to bring internet to every home and business in the United States by 2030 was affordability.]]></description>
-        <guid>https://majordigest.com/tech/2023/08/26/broadband-subsidy-program-that-millions-use-will-expire-next-year-if-congress-doesnt-act/</guid>
-        <link>https://majordigest.com/tech/2023/08/26/broadband-subsidy-program-that-millions-use-will-expire-next-year-if-congress-doesnt-act/</link>
-        <pubDate>Sat, 26 Aug 2023 12:17:34 +0000</pubDate>
+        <title>A broad genetic test saved one newborn's life. Research suggests it could help millions of others</title>
+        <description><![CDATA[A recent study showed that tests for sick newborns that look at their full genetic blueprints are nearly twice as good at finding genetic problems as narrower, more commonly used tests.]]></description>
+        <guid>https://majordigest.com/tech/2023/08/26/a-broad-genetic-test-saved-one-newborns-life-research-suggests-it-could-help-millions-of-others/</guid>
+        <link>https://majordigest.com/tech/2023/08/26/a-broad-genetic-test-saved-one-newborns-life-research-suggests-it-could-help-millions-of-others/</link>
+        <pubDate>Sat, 26 Aug 2023 11:44:30 +0000</pubDate>
         <category>tech</category>
-        <media:content medium="image" url="https://majordigest.com/tech/2023/08/26/broadband-subsidy-program-that-millions-use-will-expire-next-year-if-congress-doesnt-act/broadband-subsidy-program-that-millions-use-will-expire-next-year-if-congress-doesnt-act.webp"/>
-        <media:thumbnail url="https://majordigest.com/tech/2023/08/26/broadband-subsidy-program-that-millions-use-will-expire-next-year-if-congress-doesnt-act/broadband-subsidy-program-that-millions-use-will-expire-next-year-if-congress-doesnt-act.webp"/>
-        <dc:creator>KAVISH HARJAI, Associated Press, ABC 4</dc:creator>
+        <media:content medium="image" url="https://majordigest.com/tech/2023/08/26/a-broad-genetic-test-saved-one-newborns-life-research-suggests-it-could-help-millions-of-others/a-broad-genetic-test-saved-one-newborns-life-research-suggests-it-could-help-millions-of-others.webp"/>
+        <media:thumbnail url="https://majordigest.com/tech/2023/08/26/a-broad-genetic-test-saved-one-newborns-life-research-suggests-it-could-help-millions-of-others/a-broad-genetic-test-saved-one-newborns-life-research-suggests-it-could-help-millions-of-others.webp"/>
+        <dc:creator>Laura Ungar, Associated Press, Local 4</dc:creator>
+      </item>
+      <item>
+        <title>Appeals court revives bribery charge for Apple security exec in Santa Clara County concealed-gun permit scandal</title>
+        <description><![CDATA[Thomas Moyer convinced a judge two years ago that his offer of iPads to the sheriff's office was not a bribe to speed up getting the permits for his security agents; a ruling published Friday reversed that judge's decision]]></description>
+        <guid>https://majordigest.com/tech/2023/08/25/appeals-court-revives-bribery-charge-for-apple-security-exec-in-santa-clara-county-concealed-gun-permit-scandal/</guid>
+        <link>https://majordigest.com/tech/2023/08/25/appeals-court-revives-bribery-charge-for-apple-security-exec-in-santa-clara-county-concealed-gun-permit-scandal/</link>
+        <pubDate>Fri, 25 Aug 2023 23:02:56 +0000</pubDate>
+        <category>tech</category>
+        <media:content medium="image" url="https://majordigest.com/tech/2023/08/25/appeals-court-revives-bribery-charge-for-apple-security-exec-in-santa-clara-county-concealed-gun-permit-scandal/appeals-court-revives-bribery-charge-for-apple-security-exec-in-santa-clara-county-concealed-gun-permit-scandal.webp"/>
+        <media:thumbnail url="https://majordigest.com/tech/2023/08/25/appeals-court-revives-bribery-charge-for-apple-security-exec-in-santa-clara-county-concealed-gun-permit-scandal/appeals-court-revives-bribery-charge-for-apple-security-exec-in-santa-clara-county-concealed-gun-permit-scandal.webp"/>
+        <dc:creator>Robert Salonga, The Mercury News</dc:creator>
       </item>
       <item>
         <title>Musk calls Trump mug shot post 'next-level' after former president returns to 'X' platform</title>
@@ -221,11 +243,11 @@
         <description><![CDATA[Former President Trump on Thursday posted on X, the platform formerly known as Twitter, for the first time since January 2021 to share an image of his mug shot following his surrender in Fulton County, Ga., on Thursday evening.]]></description>
         <guid>https://majordigest.com/tech/2023/08/25/trump-returns-to-twitter-under-its-new-moniker-x/</guid>
         <link>https://majordigest.com/tech/2023/08/25/trump-returns-to-twitter-under-its-new-moniker-x/</link>
-        <pubDate>Fri, 25 Aug 2023 01:48:38 +0000</pubDate>
+        <pubDate>Fri, 25 Aug 2023 02:13:08 +0000</pubDate>
         <category>tech</category>
         <media:content medium="image" url="https://majordigest.com/tech/2023/08/25/trump-returns-to-twitter-under-its-new-moniker-x/trump-returns-to-twitter-under-its-new-moniker-x.webp"/>
         <media:thumbnail url="https://majordigest.com/tech/2023/08/25/trump-returns-to-twitter-under-its-new-moniker-x/trump-returns-to-twitter-under-its-new-moniker-x.webp"/>
-        <dc:creator>Brett Samuels, The Hill</dc:creator>
+        <dc:creator>Brett Samuels, NewsNation</dc:creator>
       </item>
       <item>
         <title>T-Mobile to lay off 5,000 employees</title>
@@ -270,17 +292,6 @@
         <media:content medium="image" url="https://majordigest.com/tech/2023/08/24/doj-sues-spacex-asylees/doj-sues-spacex-asylees.webp"/>
         <media:thumbnail url="https://majordigest.com/tech/2023/08/24/doj-sues-spacex-asylees/doj-sues-spacex-asylees.webp"/>
         <dc:creator>Andrew Dorn, NewsNation</dc:creator>
-      </item>
-      <item>
-        <title>Uber raises minimum age for most California drivers to 25, saying insurance costs are too high</title>
-        <description><![CDATA[SAN FRANCISCO (AP) — Uber raised the minimum age requirement for most of its new drivers in California to 25 on Thursday under rules the company said are necessary because of the rising costs of commercial auto insurance in the state.]]></description>
-        <guid>https://majordigest.com/tech/2023/08/24/uber-raises-minimum-age-for-most-california-drivers-to-25-saying-insurance-costs-are-too-high/</guid>
-        <link>https://majordigest.com/tech/2023/08/24/uber-raises-minimum-age-for-most-california-drivers-to-25-saying-insurance-costs-are-too-high/</link>
-        <pubDate>Thu, 24 Aug 2023 18:22:00 +0000</pubDate>
-        <category>tech</category>
-        <media:content medium="image" url="https://majordigest.com/tech/2023/08/24/uber-raises-minimum-age-for-most-california-drivers-to-25-saying-insurance-costs-are-too-high/uber-raises-minimum-age-for-most-california-drivers-to-25-saying-insurance-costs-are-too-high.webp"/>
-        <media:thumbnail url="https://majordigest.com/tech/2023/08/24/uber-raises-minimum-age-for-most-california-drivers-to-25-saying-insurance-costs-are-too-high/uber-raises-minimum-age-for-most-california-drivers-to-25-saying-insurance-costs-are-too-high.webp"/>
-        <dc:creator>AP, KRON4</dc:creator>
       </item>
       <item>
         <title>T-Mobile will lay off 5,000 employees, or about 7% of its workforce, in the coming weeks</title>
@@ -369,17 +380,6 @@
         <media:content medium="image" url="https://majordigest.com/tech/2023/08/22/ibm-is-selling-the-weather-company-assets-to-private-equity-firm-francisco-partners/ibm-is-selling-the-weather-company-assets-to-private-equity-firm-francisco-partners.webp"/>
         <media:thumbnail url="https://majordigest.com/tech/2023/08/22/ibm-is-selling-the-weather-company-assets-to-private-equity-firm-francisco-partners/ibm-is-selling-the-weather-company-assets-to-private-equity-firm-francisco-partners.webp"/>
         <dc:creator>AP, KGET 17, NBC</dc:creator>
-      </item>
-      <item>
-        <title>Mark Zuckerberg says a web version of Threads will be available in the next few days</title>
-        <description><![CDATA[NEW YORK (AP) — Threads users, get happy – you will finally be able to use the social media platform without an app. Meta CEO Mark Zuckerberg said in a Threads post on Tuesday morning that a web version of the app will be rolling out over the next few days.]]></description>
-        <guid>https://majordigest.com/tech/2023/08/22/mark-zuckerberg-says-a-web-version-of-threads-will-be-available-in-the-next-few-days/</guid>
-        <link>https://majordigest.com/tech/2023/08/22/mark-zuckerberg-says-a-web-version-of-threads-will-be-available-in-the-next-few-days/</link>
-        <pubDate>Tue, 22 Aug 2023 15:07:57 +0000</pubDate>
-        <category>tech</category>
-        <media:content medium="image" url="https://majordigest.com/tech/2023/08/22/mark-zuckerberg-says-a-web-version-of-threads-will-be-available-in-the-next-few-days/mark-zuckerberg-says-a-web-version-of-threads-will-be-available-in-the-next-few-days.webp"/>
-        <media:thumbnail url="https://majordigest.com/tech/2023/08/22/mark-zuckerberg-says-a-web-version-of-threads-will-be-available-in-the-next-few-days/mark-zuckerberg-says-a-web-version-of-threads-will-be-available-in-the-next-few-days.webp"/>
-        <dc:creator>Associated Press, KGET 17, NBC</dc:creator>
       </item>
       <item>
         <title>Microsoft budges on video game streaming rights in push for UK to approve Activision Blizzard deal</title>

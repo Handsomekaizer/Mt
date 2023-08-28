@@ -3,17 +3,45 @@
               xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
               xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
       <url>
-        <loc>https://majordigest.com/sports/2023/08/28/the-sharks-top-prospect-started-college-today-heres-when-could-turn-pro/</loc>
+        <loc>https://majordigest.com/sports/2023/08/28/giants-legend-justin-tuck-believes-pac-12-decimation-only-beginning-path-college-football-super-league/</loc>
         <news:news>
           <news:publication>
             <news:name>Major Digest</news:name>
             <news:language>en</news:language>
           </news:publication>
-          <news:publication_date>2023-08-28T21:13:47.000Z</news:publication_date>
-          <news:title>The San Jose Sharks&#8217; top prospect started college today. Here&#8217;s when could turn pro</news:title>
+          <news:publication_date>2023-08-28T22:10:39.000Z</news:publication_date>
+          <news:title>Giants legend Justin Tuck believes Pac-12 decimation only beginning of path to college football &#8216;super league'</news:title>
         </news:news>
         <image:image>
-          <image:loc>https://majordigest.com/sports/2023/08/28/the-sharks-top-prospect-started-college-today-heres-when-could-turn-pro/the-sharks-top-prospect-started-college-today-heres-when-could-turn-pro.webp</image:loc>
+          <image:loc>https://majordigest.com/sports/2023/08/28/giants-legend-justin-tuck-believes-pac-12-decimation-only-beginning-path-college-football-super-league/giants-legend-justin-tuck-believes-pac-12-decimation-only-beginning-path-college-football-super-league.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/sports/2023/08/28/mother-of-beleaguered-spanish-football-federation-chief-starts-hunger-strike-in-church-to-defend-him/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-28T21:48:30.000Z</news:publication_date>
+          <news:title>Mother of beleaguered Spanish soccer chief starts hunger strike as calls mount for his resignation</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/sports/2023/08/28/mother-of-beleaguered-spanish-football-federation-chief-starts-hunger-strike-in-church-to-defend-him/mother-of-beleaguered-spanish-football-federation-chief-starts-hunger-strike-in-church-to-defend-him.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/sports/2023/08/28/bronny-james-is-doing-well-and-we-just-have-to-be-patient-says-usc-coach-andy-enfield/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-28T21:36:01.000Z</news:publication_date>
+          <news:title>Bronny James is doing well and 'we just have to be patient,' says USC coach Andy Enfield</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/sports/2023/08/28/bronny-james-is-doing-well-and-we-just-have-to-be-patient-says-usc-coach-andy-enfield/bronny-james-is-doing-well-and-we-just-have-to-be-patient-says-usc-coach-andy-enfield.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -23,8 +51,8 @@
             <news:name>Major Digest</news:name>
             <news:language>en</news:language>
           </news:publication>
-          <news:publication_date>2023-08-28T21:04:12.000Z</news:publication_date>
-          <news:title>Spanish soccer federation asks president Rubiales to resign after kissing player on the lips</news:title>
+          <news:publication_date>2023-08-28T21:28:55.000Z</news:publication_date>
+          <news:title>Spanish soccer federation leaders asks president Rubiales to resign after kissing player on the lips</news:title>
         </news:news>
         <image:image>
           <image:loc>https://majordigest.com/sports/2023/08/28/spanish-soccer-federation-asks-president-rubiales-to-resign-after-kissing-player-on-the-lips/spanish-soccer-federation-asks-president-rubiales-to-resign-after-kissing-player-on-the-lips.webp</image:loc>
@@ -45,17 +73,17 @@
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/sports/2023/08/28/fiona-ferro-a-tennis-player-who-accused-her-ex-coach-of-sexual-assault-returned-to-the-us-open/</loc>
+        <loc>https://majordigest.com/sports/2023/08/28/chicago-police-white-sox-fan-likely-shot-from-inside-the-ballpark/</loc>
         <news:news>
           <news:publication>
             <news:name>Major Digest</news:name>
             <news:language>en</news:language>
           </news:publication>
-          <news:publication_date>2023-08-28T20:41:42.000Z</news:publication_date>
-          <news:title>Fiona Ferro, a tennis player who accused her ex-coach of sexual assault, returned to the US Open</news:title>
+          <news:publication_date>2023-08-28T20:25:34.000Z</news:publication_date>
+          <news:title>Chicago Police: White Sox fan likely shot from inside the ballpark&#160;</news:title>
         </news:news>
         <image:image>
-          <image:loc>https://majordigest.com/sports/2023/08/28/fiona-ferro-a-tennis-player-who-accused-her-ex-coach-of-sexual-assault-returned-to-the-us-open/fiona-ferro-a-tennis-player-who-accused-her-ex-coach-of-sexual-assault-returned-to-the-us-open.webp</image:loc>
+          <image:loc>https://majordigest.com/sports/2023/08/28/chicago-police-white-sox-fan-likely-shot-from-inside-the-ballpark/chicago-police-white-sox-fan-likely-shot-from-inside-the-ballpark.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -73,20 +101,6 @@
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/sports/2023/08/28/the-us-open-starts-monday-iga-swiatek-coco-gauff-novak-djokovic-and-frances-tiafoe-are-in-action/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-28T20:15:07.000Z</news:publication_date>
-          <news:title>No. 4 seed Holger Rune is biggest upset victim so far on US Open's first day</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/sports/2023/08/28/the-us-open-starts-monday-iga-swiatek-coco-gauff-novak-djokovic-and-frances-tiafoe-are-in-action/the-us-open-starts-monday-iga-swiatek-coco-gauff-novak-djokovic-and-frances-tiafoe-are-in-action.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
         <loc>https://majordigest.com/sports/2023/08/28/college-athlete-reporting-platform-expands-include-gambling-concerns-amidst-us-integrity-collaboration/</loc>
         <news:news>
           <news:publication>
@@ -101,45 +115,17 @@
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/sports/2023/08/28/marijuana-odor-bothers-maria-sakkari-during-her-loss-in-the-us-opens-first-round/</loc>
+        <loc>https://majordigest.com/sports/2023/08/28/see-the-blackhawks-2023-2024-promotional-schedule/</loc>
         <news:news>
           <news:publication>
             <news:name>Major Digest</news:name>
             <news:language>en</news:language>
           </news:publication>
-          <news:publication_date>2023-08-28T19:26:47.000Z</news:publication_date>
-          <news:title>Marijuana odor bothers Maria Sakkari during her loss in the US Open's first round</news:title>
+          <news:publication_date>2023-08-28T19:38:49.000Z</news:publication_date>
+          <news:title>See the Blackhawks' 2023-2024 promotional schedule</news:title>
         </news:news>
         <image:image>
-          <image:loc>https://majordigest.com/sports/2023/08/28/marijuana-odor-bothers-maria-sakkari-during-her-loss-in-the-us-opens-first-round/marijuana-odor-bothers-maria-sakkari-during-her-loss-in-the-us-opens-first-round.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/sports/2023/08/28/patrick-mahomes-is-unanimous-choice-by-ap-for-the-top-spot-among-nfl-quarterbacks/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-28T19:02:48.000Z</news:publication_date>
-          <news:title>Patrick Mahomes is unanimous choice by AP for the top spot among NFL quarterbacks</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/sports/2023/08/28/patrick-mahomes-is-unanimous-choice-by-ap-for-the-top-spot-among-nfl-quarterbacks/patrick-mahomes-is-unanimous-choice-by-ap-for-the-top-spot-among-nfl-quarterbacks.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/sports/2023/08/28/jets-cj-uzomah-lays-out-high-expectations-2023-season-go-playoffs-win-super-bowl/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-28T18:25:28.000Z</news:publication_date>
-          <news:title>Jets&#8217; CJ Uzomah lays out high expectations for 2023 season: &#8216;Go to the playoffs and win a Super Bowl&#8217;</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/sports/2023/08/28/jets-cj-uzomah-lays-out-high-expectations-2023-season-go-playoffs-win-super-bowl/jets-cj-uzomah-lays-out-high-expectations-2023-season-go-playoffs-win-super-bowl.webp</image:loc>
+          <image:loc>https://majordigest.com/sports/2023/08/28/see-the-blackhawks-2023-2024-promotional-schedule/see-the-blackhawks-2023-2024-promotional-schedule.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -157,62 +143,6 @@
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/sports/2023/08/28/mother-of-beleaguered-spanish-football-federation-chief-starts-hunger-strike-in-church-to-defend-him/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-28T18:11:25.000Z</news:publication_date>
-          <news:title>Mother of beleaguered Spanish soccer federation chief starts hunger strike in church to defend him</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/sports/2023/08/28/mother-of-beleaguered-spanish-football-federation-chief-starts-hunger-strike-in-church-to-defend-him/mother-of-beleaguered-spanish-football-federation-chief-starts-hunger-strike-in-church-to-defend-him.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/sports/2023/08/28/snls-heidi-gardner-kelces-mother-to-take-part-in-world-largest-tailgate-before-nfl-kickoff-game/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-28T18:01:16.000Z</news:publication_date>
-          <news:title>SNL's Heidi Gardner, Kelce's mother to take part in 'World Largest Tailgate' before NFL kickoff game</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/sports/2023/08/28/snls-heidi-gardner-kelces-mother-to-take-part-in-world-largest-tailgate-before-nfl-kickoff-game/snls-heidi-gardner-kelces-mother-to-take-part-in-world-largest-tailgate-before-nfl-kickoff-game.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/sports/2023/08/28/pac-12-preview-assessing-the-impact-newcomers-players-and-coaches-for-the-2023-season/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-28T17:17:37.000Z</news:publication_date>
-          <news:title>Pac-12 preview: Assessing the impact newcomers (players and coaches) for the 2023 season</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/sports/2023/08/28/pac-12-preview-assessing-the-impact-newcomers-players-and-coaches-for-the-2023-season/pac-12-preview-assessing-the-impact-newcomers-players-and-coaches-for-the-2023-season.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/sports/2023/08/28/free-agent-qb-former-first-round-pick-among-bears-early-cuts/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-28T15:45:13.000Z</news:publication_date>
-          <news:title>Free agent QB, former first round pick among Bears' early cuts</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/sports/2023/08/28/free-agent-qb-former-first-round-pick-among-bears-early-cuts/free-agent-qb-former-first-round-pick-among-bears-early-cuts.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
         <loc>https://majordigest.com/sports/2023/08/28/escondido-basketball-player-becomes-viral-tiktok-sensation/</loc>
         <news:news>
           <news:publication>
@@ -224,20 +154,6 @@
         </news:news>
         <image:image>
           <image:loc>https://majordigest.com/sports/2023/08/28/escondido-basketball-player-becomes-viral-tiktok-sensation/escondido-basketball-player-becomes-viral-tiktok-sensation.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/sports/2023/08/28/one-year-before-paralympics-paris-trying-to-make-city-more-accessible-to-those-with-disabilities/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-28T14:56:38.000Z</news:publication_date>
-          <news:title>One year before Paralympics, Paris trying to make city more accessible to those with disabilities</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/sports/2023/08/28/one-year-before-paralympics-paris-trying-to-make-city-more-accessible-to-those-with-disabilities/one-year-before-paralympics-paris-trying-to-make-city-more-accessible-to-those-with-disabilities.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -255,6 +171,48 @@
         </image:image>
       </url>
       <url>
+        <loc>https://majordigest.com/sports/2023/08/28/simone-biles-wins-a-record-8th-us-gymnastics-title-a-full-decade-after-her-first/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-28T03:36:49.000Z</news:publication_date>
+          <news:title>Simone Biles wins a record 8th US Gymnastics title a full decade after her first</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/sports/2023/08/28/simone-biles-wins-a-record-8th-us-gymnastics-title-a-full-decade-after-her-first/simone-biles-wins-a-record-8th-us-gymnastics-title-a-full-decade-after-her-first.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/sports/2023/08/28/ex-bulldogs-evans-burse-helping-with-youth-program/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-28T02:04:20.000Z</news:publication_date>
+          <news:title>Bulldog Insider feature: ex-Bulldogs Evans, Burse helping with youth program</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/sports/2023/08/28/ex-bulldogs-evans-burse-helping-with-youth-program/ex-bulldogs-evans-burse-helping-with-youth-program.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/sports/2023/08/28/local-sports-teams-react-to-el-segundo-winning-little-league-world-series/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-28T01:41:48.000Z</news:publication_date>
+          <news:title>Local sports teams react to El Segundo winning Little League World Series</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/sports/2023/08/28/local-sports-teams-react-to-el-segundo-winning-little-league-world-series/local-sports-teams-react-to-el-segundo-winning-little-league-world-series.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
         <loc>https://majordigest.com/sports/2023/08/28/bulldog-insider-feature-former-bulldogs-madden-nfl-24-ratings/</loc>
         <news:news>
           <news:publication>
@@ -269,6 +227,20 @@
         </image:image>
       </url>
       <url>
+        <loc>https://majordigest.com/sports/2023/08/27/california-wins-little-league-world-series-6-5-over-curacao-on-walk-off-homer/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-27T22:50:39.000Z</news:publication_date>
+          <news:title>California wins Little League World Series 6-5 over Curacao on walk-off homer</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/sports/2023/08/27/california-wins-little-league-world-series-6-5-over-curacao-on-walk-off-homer/california-wins-little-league-world-series-6-5-over-curacao-on-walk-off-homer.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
         <loc>https://majordigest.com/sports/2023/08/27/el-segundo-12u-all-stars-win-little-league-world-series/</loc>
         <news:news>
           <news:publication>
@@ -280,6 +252,34 @@
         </news:news>
         <image:image>
           <image:loc>https://majordigest.com/sports/2023/08/27/el-segundo-12u-all-stars-win-little-league-world-series/el-segundo-12u-all-stars-win-little-league-world-series.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/sports/2023/08/27/community-gathers-to-support-el-segundo-little-league-teams-world-series-championship-run/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-27T16:06:16.000Z</news:publication_date>
+          <news:title>Community gathers to support El Segundo Little League team&#8217;s World Series championship run&#160;</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/sports/2023/08/27/community-gathers-to-support-el-segundo-little-league-teams-world-series-championship-run/community-gathers-to-support-el-segundo-little-league-teams-world-series-championship-run.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/sports/2023/08/27/sports-illustrated-says-bucs-are-overmatched-this-year-predicts-team-to-win-2-out-of-17-games/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-27T16:05:36.000Z</news:publication_date>
+          <news:title>Sports Illustrated says Bucs are 'overmatched' this year, predicts team to win 2 out of 17 games</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/sports/2023/08/27/sports-illustrated-says-bucs-are-overmatched-this-year-predicts-team-to-win-2-out-of-17-games/sports-illustrated-says-bucs-are-overmatched-this-year-predicts-team-to-win-2-out-of-17-games.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -311,20 +311,6 @@
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/sports/2023/08/27/bucs-center-ryan-jensen-will-not-return-for-2023-season-due-to-injury/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-27T01:04:40.000Z</news:publication_date>
-          <news:title>'It breaks my heart': Bucs' center Ryan Jensen placed on injured reserve list, will miss entire 2023 season</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/sports/2023/08/27/bucs-center-ryan-jensen-will-not-return-for-2023-season-due-to-injury/bucs-center-ryan-jensen-will-not-return-for-2023-season-due-to-injury.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
         <loc>https://majordigest.com/sports/2023/08/26/fifa-suspends-spain-soccer-federation-president-luis-rubiales-for-90-days-after-world-cup-final-kiss/</loc>
         <news:news>
           <news:publication>
@@ -336,34 +322,6 @@
         </news:news>
         <image:image>
           <image:loc>https://majordigest.com/sports/2023/08/26/fifa-suspends-spain-soccer-federation-president-luis-rubiales-for-90-days-after-world-cup-final-kiss/fifa-suspends-spain-soccer-federation-president-luis-rubiales-for-90-days-after-world-cup-final-kiss.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/sports/2023/08/26/tampa-bay-buccaneers-fans-can-meet-wr-chris-godwin-on-sunday-heres-where/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-26T22:53:50.000Z</news:publication_date>
-          <news:title>Tampa Bay Buccaneers fans can meet WR Chris Godwin on Sunday. Here's where</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/sports/2023/08/26/tampa-bay-buccaneers-fans-can-meet-wr-chris-godwin-on-sunday-heres-where/tampa-bay-buccaneers-fans-can-meet-wr-chris-godwin-on-sunday-heres-where.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/sports/2023/08/26/congress-eyes-college-sports-fixes-are-student-athletes-on-board/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-26T20:13:38.000Z</news:publication_date>
-          <news:title>Congress eyes college sports fixes. Are student-athletes on board?</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/sports/2023/08/26/congress-eyes-college-sports-fixes-are-student-athletes-on-board/congress-eyes-college-sports-fixes-are-student-athletes-on-board.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -381,20 +339,6 @@
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/sports/2023/08/26/high-school-hot-shot-cvcs-bryson-donelson/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-26T06:54:36.000Z</news:publication_date>
-          <news:title>High School Hot Shot: CVC's Bryson Donelson</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/sports/2023/08/26/high-school-hot-shot-cvcs-bryson-donelson/high-school-hot-shot-cvcs-bryson-donelson.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
         <loc>https://majordigest.com/sports/2023/08/25/bronny-james-has-a-congenital-heart-defect-that-caused-his-cardiac-arrest-a-spokesperson-says/</loc>
         <news:news>
           <news:publication>
@@ -406,6 +350,48 @@
         </news:news>
         <image:image>
           <image:loc>https://majordigest.com/sports/2023/08/25/bronny-james-has-a-congenital-heart-defect-that-caused-his-cardiac-arrest-a-spokesperson-says/bronny-james-has-a-congenital-heart-defect-that-caused-his-cardiac-arrest-a-spokesperson-says.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/sports/2023/08/25/49ers-to-trade-qb-trey-lance-to-cowboys-reports/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-25T23:36:11.000Z</news:publication_date>
+          <news:title>49ers to trade QB Trey Lance to Cowboys: reports</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/sports/2023/08/25/49ers-to-trade-qb-trey-lance-to-cowboys-reports/49ers-to-trade-qb-trey-lance-to-cowboys-reports.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/sports/2023/08/25/padres-reliever-robert-suarez-suspended-for-10-games-6th-pitcher-penalized-for-sticky-stuff/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-25T21:50:22.000Z</news:publication_date>
+          <news:title>Padres reliever Robert Su&#225;rez suspended for 10 games, 6th pitcher penalized for sticky stuff</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/sports/2023/08/25/padres-reliever-robert-suarez-suspended-for-10-games-6th-pitcher-penalized-for-sticky-stuff/padres-reliever-robert-suarez-suspended-for-10-games-6th-pitcher-penalized-for-sticky-stuff.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/sports/2023/08/25/former-cos-athlete-with-third-place-finish-at-world-athletics-championships/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-25T06:47:22.000Z</news:publication_date>
+          <news:title>Former COS athlete with third place finish at World Athletics Championships</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/sports/2023/08/25/former-cos-athlete-with-third-place-finish-at-world-athletics-championships/former-cos-athlete-with-third-place-finish-at-world-athletics-championships.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -465,6 +451,20 @@
         </image:image>
       </url>
       <url>
+        <loc>https://majordigest.com/sports/2023/08/24/mets-to-retire-goodens-no-16-and-strawberrys-no-18-next-season/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-24T20:16:18.000Z</news:publication_date>
+          <news:title>Mets to retire Gooden's No. 16 and Strawberry's No. 18 next season</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/sports/2023/08/24/mets-to-retire-goodens-no-16-and-strawberrys-no-18-next-season/mets-to-retire-goodens-no-16-and-strawberrys-no-18-next-season.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
         <loc>https://majordigest.com/sports/2023/08/24/rsl-eliminated-from-u-s-open-cup-by-houston-3-1/</loc>
         <news:news>
           <news:publication>
@@ -476,20 +476,6 @@
         </news:news>
         <image:image>
           <image:loc>https://majordigest.com/sports/2023/08/24/rsl-eliminated-from-u-s-open-cup-by-houston-3-1/rsl-eliminated-from-u-s-open-cup-by-houston-3-1.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/sports/2023/08/24/central-vs-fruita-the-battle-is-on-tomorrow/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-24T04:48:59.000Z</news:publication_date>
-          <news:title>Central vs Fruita. The battle is on tomorrow.</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/sports/2023/08/24/central-vs-fruita-the-battle-is-on-tomorrow/central-vs-fruita-the-battle-is-on-tomorrow.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -518,5 +504,19 @@
         </news:news>
         <image:image>
           <image:loc>https://majordigest.com/sports/2023/08/22/as-rooker-performs-at-oakland-arena-after-crushing-walk-off-home-run/as-rooker-performs-at-oakland-arena-after-crushing-walk-off-home-run.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/sports/2023/08/22/steve-kerr-buys-stake-in-spanish-soccer-team/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-22T18:06:06.000Z</news:publication_date>
+          <news:title>Steve Kerr buys stake in Spanish soccer team</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/sports/2023/08/22/steve-kerr-buys-stake-in-spanish-soccer-team/steve-kerr-buys-stake-in-spanish-soccer-team.webp</image:loc>
         </image:image>
       </url></urlset>

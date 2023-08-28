@@ -3,6 +3,20 @@
               xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
               xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
       <url>
+        <loc>https://majordigest.com/tech/2023/08/28/musk-tech-ceos-to-attend-schumers-ai-senate-forum/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-28T21:37:48.000Z</news:publication_date>
+          <news:title>Musk, tech CEOs to attend Schumer's AI Senate forum</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/tech/2023/08/28/musk-tech-ceos-to-attend-schumers-ai-senate-forum/musk-tech-ceos-to-attend-schumers-ai-senate-forum.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
         <loc>https://majordigest.com/tech/2023/08/28/amazon-is-raising-free-shipping-minimums-for-some-customers-who-dont-have-prime-memberships/</loc>
         <news:news>
           <news:publication>
@@ -17,6 +31,20 @@
         </image:image>
       </url>
       <url>
+        <loc>https://majordigest.com/tech/2023/08/28/beware-mac-malware-masquerading-office-productivity-app/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-28T19:28:35.000Z</news:publication_date>
+          <news:title>Beware of this Mac malware masquerading as an office productivity app</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/tech/2023/08/28/beware-mac-malware-masquerading-office-productivity-app/beware-mac-malware-masquerading-office-productivity-app.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
         <loc>https://majordigest.com/tech/2023/08/28/maximize-screen-space-desktop-laptop-productive/</loc>
         <news:news>
           <news:publication>
@@ -28,6 +56,20 @@
         </news:news>
         <image:image>
           <image:loc>https://majordigest.com/tech/2023/08/28/maximize-screen-space-desktop-laptop-productive/maximize-screen-space-desktop-laptop-productive.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/tech/2023/08/28/ex-goldman-trader-building-new-california-city-will-need-to-appease-local-opponents/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-28T17:01:07.000Z</news:publication_date>
+          <news:title>Ex-Goldman Trader building new Bay Area city will need to appease local opponents</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/tech/2023/08/28/ex-goldman-trader-building-new-california-city-will-need-to-appease-local-opponents/ex-goldman-trader-building-new-california-city-will-need-to-appease-local-opponents.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -56,20 +98,6 @@
         </news:news>
         <image:image>
           <image:loc>https://majordigest.com/tech/2023/08/28/how-paypal-is-using-ai-to-combat-fraud-and-make-it-easier-to-pay/how-paypal-is-using-ai-to-combat-fraud-and-make-it-easier-to-pay.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/tech/2023/08/28/how-an-ai-gold-rush-is-reviving-the-tech-industry/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-28T10:00:00.000Z</news:publication_date>
-          <news:title>How an AI 'gold rush' is reviving the tech industry</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/tech/2023/08/28/how-an-ai-gold-rush-is-reviving-the-tech-industry/how-an-ai-gold-rush-is-reviving-the-tech-industry.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -129,20 +157,6 @@
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/tech/2023/08/26/bay-area-software-ceo-pleads-guilty-to-tax-pandemic-relief-fraud/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-26T20:32:15.000Z</news:publication_date>
-          <news:title>Bay Area software CEO pleads guilty to tax, pandemic relief fraud</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/tech/2023/08/26/bay-area-software-ceo-pleads-guilty-to-tax-pandemic-relief-fraud/bay-area-software-ceo-pleads-guilty-to-tax-pandemic-relief-fraud.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
         <loc>https://majordigest.com/tech/2023/08/26/zooms-reversal-backlash-over-ai-fiasco/</loc>
         <news:news>
           <news:publication>
@@ -185,17 +199,31 @@
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/tech/2023/08/26/broadband-subsidy-program-that-millions-use-will-expire-next-year-if-congress-doesnt-act/</loc>
+        <loc>https://majordigest.com/tech/2023/08/26/a-broad-genetic-test-saved-one-newborns-life-research-suggests-it-could-help-millions-of-others/</loc>
         <news:news>
           <news:publication>
             <news:name>Major Digest</news:name>
             <news:language>en</news:language>
           </news:publication>
-          <news:publication_date>2023-08-26T12:17:34.000Z</news:publication_date>
-          <news:title>Broadband subsidy program that millions use will expire next year if Congress doesn&#8217;t act</news:title>
+          <news:publication_date>2023-08-26T11:44:30.000Z</news:publication_date>
+          <news:title>A broad genetic test saved one newborn's life. Research suggests it could help millions of others</news:title>
         </news:news>
         <image:image>
-          <image:loc>https://majordigest.com/tech/2023/08/26/broadband-subsidy-program-that-millions-use-will-expire-next-year-if-congress-doesnt-act/broadband-subsidy-program-that-millions-use-will-expire-next-year-if-congress-doesnt-act.webp</image:loc>
+          <image:loc>https://majordigest.com/tech/2023/08/26/a-broad-genetic-test-saved-one-newborns-life-research-suggests-it-could-help-millions-of-others/a-broad-genetic-test-saved-one-newborns-life-research-suggests-it-could-help-millions-of-others.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/tech/2023/08/25/appeals-court-revives-bribery-charge-for-apple-security-exec-in-santa-clara-county-concealed-gun-permit-scandal/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-25T23:02:56.000Z</news:publication_date>
+          <news:title>Appeals court revives bribery charge for Apple security exec in Santa Clara County concealed-gun permit scandal</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/tech/2023/08/25/appeals-court-revives-bribery-charge-for-apple-security-exec-in-santa-clara-county-concealed-gun-permit-scandal/appeals-court-revives-bribery-charge-for-apple-security-exec-in-santa-clara-county-concealed-gun-permit-scandal.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -261,7 +289,7 @@
             <news:name>Major Digest</news:name>
             <news:language>en</news:language>
           </news:publication>
-          <news:publication_date>2023-08-25T01:48:38.000Z</news:publication_date>
+          <news:publication_date>2023-08-25T02:13:08.000Z</news:publication_date>
           <news:title>Trump returns to Twitter, under its new moniker X</news:title>
         </news:news>
         <image:image>
@@ -322,20 +350,6 @@
         </news:news>
         <image:image>
           <image:loc>https://majordigest.com/tech/2023/08/24/doj-sues-spacex-asylees/doj-sues-spacex-asylees.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/tech/2023/08/24/uber-raises-minimum-age-for-most-california-drivers-to-25-saying-insurance-costs-are-too-high/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-24T18:22:00.000Z</news:publication_date>
-          <news:title>Uber raises minimum age for most California drivers to 25, saying insurance costs are too high</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/tech/2023/08/24/uber-raises-minimum-age-for-most-california-drivers-to-25-saying-insurance-costs-are-too-high/uber-raises-minimum-age-for-most-california-drivers-to-25-saying-insurance-costs-are-too-high.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -448,20 +462,6 @@
         </news:news>
         <image:image>
           <image:loc>https://majordigest.com/tech/2023/08/22/ibm-is-selling-the-weather-company-assets-to-private-equity-firm-francisco-partners/ibm-is-selling-the-weather-company-assets-to-private-equity-firm-francisco-partners.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/tech/2023/08/22/mark-zuckerberg-says-a-web-version-of-threads-will-be-available-in-the-next-few-days/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-22T15:07:57.000Z</news:publication_date>
-          <news:title>Mark Zuckerberg says a web version of Threads will be available in the next few days</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/tech/2023/08/22/mark-zuckerberg-says-a-web-version-of-threads-will-be-available-in-the-next-few-days/mark-zuckerberg-says-a-web-version-of-threads-will-be-available-in-the-next-few-days.webp</image:loc>
         </image:image>
       </url>
       <url>
