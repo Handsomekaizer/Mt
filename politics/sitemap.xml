@@ -3,6 +3,34 @@
               xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
               xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
       <url>
+        <loc>https://majordigest.com/politics/2023/08/28/what-to-know-medicare-drug-price-negotiations/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-28T22:25:32.000Z</news:publication_date>
+          <news:title>5 things you need to know about Medicare drug price negotiations</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/politics/2023/08/28/what-to-know-medicare-drug-price-negotiations/what-to-know-medicare-drug-price-negotiations.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/politics/2023/08/28/biden-admin-hit-legal-challenge-green-lighting-massive-plan-take-ag-lands-out-production/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-28T22:19:29.000Z</news:publication_date>
+          <news:title>Biden admin hit with legal challenge for green-lighting massive plan to take ag lands out of production</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/politics/2023/08/28/biden-admin-hit-legal-challenge-green-lighting-massive-plan-take-ag-lands-out-production/biden-admin-hit-legal-challenge-green-lighting-massive-plan-take-ag-lands-out-production.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
         <loc>https://majordigest.com/politics/2023/08/28/hunter-biden-buckles-up-ritzy-la-neighborhood-questions-possible-fara-violations/</loc>
         <news:news>
           <news:publication>
@@ -101,17 +129,17 @@
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/politics/2023/08/28/tammy-baldwin-repays-taxpayer-funded-november-2020-nyc-trip-see-partner/</loc>
+        <loc>https://majordigest.com/politics/2023/08/28/senate-candidates-visit-stockton-to-support-rep-josh-harder-reelection-campaign/</loc>
         <news:news>
           <news:publication>
             <news:name>Major Digest</news:name>
             <news:language>en</news:language>
           </news:publication>
-          <news:publication_date>2023-08-28T20:45:29.000Z</news:publication_date>
-          <news:title>Sen. Tammy Baldwin repays taxpayer-funded November 2020 NYC trip to see partner</news:title>
+          <news:publication_date>2023-08-28T20:42:55.000Z</news:publication_date>
+          <news:title>Senate candidates visit Stockton to support Rep. Josh Harder reelection campaign</news:title>
         </news:news>
         <image:image>
-          <image:loc>https://majordigest.com/politics/2023/08/28/tammy-baldwin-repays-taxpayer-funded-november-2020-nyc-trip-see-partner/tammy-baldwin-repays-taxpayer-funded-november-2020-nyc-trip-see-partner.webp</image:loc>
+          <image:loc>https://majordigest.com/politics/2023/08/28/senate-candidates-visit-stockton-to-support-rep-josh-harder-reelection-campaign/senate-candidates-visit-stockton-to-support-rep-josh-harder-reelection-campaign.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -171,20 +199,6 @@
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/politics/2023/08/28/dot-fines-american-airlines-tarmac-delays/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-28T19:31:05.000Z</news:publication_date>
-          <news:title>DOT levies largest-ever penalty against American Airlines for tarmac delays</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/politics/2023/08/28/dot-fines-american-airlines-tarmac-delays/dot-fines-american-airlines-tarmac-delays.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
         <loc>https://majordigest.com/politics/2023/08/28/12-8-million-documents-of-discovery-shared-in-trump-jan-6-case-prosecutors-say/</loc>
         <news:news>
           <news:publication>
@@ -227,31 +241,31 @@
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/politics/2023/08/28/meadows-testimony-georgia-hearing/</loc>
+        <loc>https://majordigest.com/politics/2023/08/28/joe-the-plumber-obama/</loc>
         <news:news>
           <news:publication>
             <news:name>Major Digest</news:name>
             <news:language>en</news:language>
           </news:publication>
-          <news:publication_date>2023-08-28T18:31:15.000Z</news:publication_date>
-          <news:title>Mark Meadows takes stand in bid to derail Georgia criminal charges</news:title>
+          <news:publication_date>2023-08-28T18:31:45.000Z</news:publication_date>
+          <news:title>Joe the Plumber, who questioned Obama's tax policies during the 2008 campaign, has died at 49</news:title>
         </news:news>
         <image:image>
-          <image:loc>https://majordigest.com/politics/2023/08/28/meadows-testimony-georgia-hearing/meadows-testimony-georgia-hearing.webp</image:loc>
+          <image:loc>https://majordigest.com/politics/2023/08/28/joe-the-plumber-obama/joe-the-plumber-obama.webp</image:loc>
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/politics/2023/08/28/trump-is-already-selling-merch-with-his-mug-shot-on-it/</loc>
+        <loc>https://majordigest.com/politics/2023/08/28/biden-to-observe-911-anniversary-in-alaska-missing-nyc-virginia-and-pennsylvania-observances/</loc>
         <news:news>
           <news:publication>
             <news:name>Major Digest</news:name>
             <news:language>en</news:language>
           </news:publication>
-          <news:publication_date>2023-08-28T17:42:56.000Z</news:publication_date>
-          <news:title>Trump is already selling merch with his mug shot on it </news:title>
+          <news:publication_date>2023-08-28T17:12:36.000Z</news:publication_date>
+          <news:title>Biden will observe 9/11 in Alaska instead of the traditional NYC, Virginia or Pennsylvania events</news:title>
         </news:news>
         <image:image>
-          <image:loc>https://majordigest.com/politics/2023/08/28/trump-is-already-selling-merch-with-his-mug-shot-on-it/trump-is-already-selling-merch-with-his-mug-shot-on-it.webp</image:loc>
+          <image:loc>https://majordigest.com/politics/2023/08/28/biden-to-observe-911-anniversary-in-alaska-missing-nyc-virginia-and-pennsylvania-observances/biden-to-observe-911-anniversary-in-alaska-missing-nyc-virginia-and-pennsylvania-observances.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -266,20 +280,6 @@
         </news:news>
         <image:image>
           <image:loc>https://majordigest.com/politics/2023/08/28/judge-sets-march-4-2024-as-trump-trial-date-in-election-interference-case/judge-sets-march-4-2024-as-trump-trial-date-in-election-interference-case.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/politics/2023/08/28/biden-approves-emergency-declaration-for-florida-ahead-of-t-s-idalia/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-28T16:30:03.000Z</news:publication_date>
-          <news:title>Biden approves Emergency Declaration for Florida ahead of T.S. Idalia</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/politics/2023/08/28/biden-approves-emergency-declaration-for-florida-ahead-of-t-s-idalia/biden-approves-emergency-declaration-for-florida-ahead-of-t-s-idalia.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -395,17 +395,17 @@
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/politics/2023/08/25/carlos-santana-issues-apology-for-anti-trans-remarks-on-stage/</loc>
+        <loc>https://majordigest.com/politics/2023/08/25/trump-recounts-terrible-experience-of-being-booked-in-georgia/</loc>
         <news:news>
           <news:publication>
             <news:name>Major Digest</news:name>
             <news:language>en</news:language>
           </news:publication>
-          <news:publication_date>2023-08-25T15:43:31.000Z</news:publication_date>
-          <news:title>Carlos Santana issues apology for anti-trans remarks on stage</news:title>
+          <news:publication_date>2023-08-25T12:58:40.000Z</news:publication_date>
+          <news:title>Trump recounts 'terrible experience' of being booked in Georgia</news:title>
         </news:news>
         <image:image>
-          <image:loc>https://majordigest.com/politics/2023/08/25/carlos-santana-issues-apology-for-anti-trans-remarks-on-stage/carlos-santana-issues-apology-for-anti-trans-remarks-on-stage.webp</image:loc>
+          <image:loc>https://majordigest.com/politics/2023/08/25/trump-recounts-terrible-experience-of-being-booked-in-georgia/trump-recounts-terrible-experience-of-being-booked-in-georgia.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -465,6 +465,20 @@
         </image:image>
       </url>
       <url>
+        <loc>https://majordigest.com/politics/2023/08/24/trump-expected-to-surrender-at-fulton-county-jail-live-updates/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-24T19:08:14.000Z</news:publication_date>
+          <news:title>Trump surrenders for historic fourth arrest: see updates</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/politics/2023/08/24/trump-expected-to-surrender-at-fulton-county-jail-live-updates/trump-expected-to-surrender-at-fulton-county-jail-live-updates.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
         <loc>https://majordigest.com/politics/2023/08/24/trump-set-to-surrender-at-georgia-jail-on-charges-that-he-sought-to-overturn-2020-election/</loc>
         <news:news>
           <news:publication>
@@ -504,19 +518,5 @@
         </news:news>
         <image:image>
           <image:loc>https://majordigest.com/politics/2023/08/23/who-takes-advantage-of-donald-trumps-absence-and-other-things-to-watch-in-the-republican-debate/who-takes-advantage-of-donald-trumps-absence-and-other-things-to-watch-in-the-republican-debate.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/politics/2023/08/23/rudy-giuliani-surrenders-on-georgia-charges-alleging-an-illegal-plot-to-subvert-2020-election-jail-records-show/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-23T19:26:31.000Z</news:publication_date>
-          <news:title>Rudy Giuliani surrenders on Georgia charges alleging an illegal plot to subvert 2020 election, jail records show</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/politics/2023/08/23/rudy-giuliani-surrenders-on-georgia-charges-alleging-an-illegal-plot-to-subvert-2020-election-jail-records-show/rudy-giuliani-surrenders-on-georgia-charges-alleging-an-illegal-plot-to-subvert-2020-election-jail-records-show.webp</image:loc>
         </image:image>
       </url></urlset>
