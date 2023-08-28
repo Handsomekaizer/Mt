@@ -3,17 +3,17 @@
               xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
               xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
       <url>
-        <loc>https://majordigest.com/tech/2023/08/28/beware-mac-malware-masquerading-office-productivity-app/</loc>
+        <loc>https://majordigest.com/tech/2023/08/28/amazon-is-raising-free-shipping-minimums-for-some-customers-who-dont-have-prime-memberships/</loc>
         <news:news>
           <news:publication>
             <news:name>Major Digest</news:name>
             <news:language>en</news:language>
           </news:publication>
-          <news:publication_date>2023-08-28T19:28:35.000Z</news:publication_date>
-          <news:title>Beware of this Mac malware masquerading as an office productivity app</news:title>
+          <news:publication_date>2023-08-28T20:43:30.000Z</news:publication_date>
+          <news:title>Amazon is raising free-shipping minimums for some customers who don't have Prime memberships</news:title>
         </news:news>
         <image:image>
-          <image:loc>https://majordigest.com/tech/2023/08/28/beware-mac-malware-masquerading-office-productivity-app/beware-mac-malware-masquerading-office-productivity-app.webp</image:loc>
+          <image:loc>https://majordigest.com/tech/2023/08/28/amazon-is-raising-free-shipping-minimums-for-some-customers-who-dont-have-prime-memberships/amazon-is-raising-free-shipping-minimums-for-some-customers-who-dont-have-prime-memberships.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -28,20 +28,6 @@
         </news:news>
         <image:image>
           <image:loc>https://majordigest.com/tech/2023/08/28/maximize-screen-space-desktop-laptop-productive/maximize-screen-space-desktop-laptop-productive.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/tech/2023/08/28/ex-goldman-trader-building-new-california-city-will-need-to-appease-local-opponents/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-28T17:01:07.000Z</news:publication_date>
-          <news:title>Ex-Goldman Trader building new Bay Area city will need to appease local opponents</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/tech/2023/08/28/ex-goldman-trader-building-new-california-city-will-need-to-appease-local-opponents/ex-goldman-trader-building-new-california-city-will-need-to-appease-local-opponents.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -213,34 +199,6 @@
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/tech/2023/08/26/a-broad-genetic-test-saved-one-newborns-life-research-suggests-it-could-help-millions-of-others/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-26T11:44:30.000Z</news:publication_date>
-          <news:title>A broad genetic test saved one newborn's life. Research suggests it could help millions of others</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/tech/2023/08/26/a-broad-genetic-test-saved-one-newborns-life-research-suggests-it-could-help-millions-of-others/a-broad-genetic-test-saved-one-newborns-life-research-suggests-it-could-help-millions-of-others.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/tech/2023/08/25/appeals-court-revives-bribery-charge-for-apple-security-exec-in-santa-clara-county-concealed-gun-permit-scandal/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-25T23:02:56.000Z</news:publication_date>
-          <news:title>Appeals court revives bribery charge for Apple security exec in Santa Clara County concealed-gun permit scandal</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/tech/2023/08/25/appeals-court-revives-bribery-charge-for-apple-security-exec-in-santa-clara-county-concealed-gun-permit-scandal/appeals-court-revives-bribery-charge-for-apple-security-exec-in-santa-clara-county-concealed-gun-permit-scandal.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
         <loc>https://majordigest.com/tech/2023/08/25/musk-calls-trump-mug-shot-post-next-level-after-former-president-returns-to-x-platform/</loc>
         <news:news>
           <news:publication>
@@ -280,6 +238,20 @@
         </news:news>
         <image:image>
           <image:loc>https://majordigest.com/tech/2023/08/25/proposed-crypto-tax-rules-draw-ire-from-industry-groups/proposed-crypto-tax-rules-draw-ire-from-industry-groups.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/tech/2023/08/25/los-angeles-solar-ev-chargers-ev-arc-beam-global/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-25T08:00:00.000Z</news:publication_date>
+          <news:title>Los Angeles installing solar-powered EV charging stations</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/tech/2023/08/25/los-angeles-solar-ev-chargers-ev-arc-beam-global/los-angeles-solar-ev-chargers-ev-arc-beam-global.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -395,17 +367,17 @@
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/tech/2023/08/24/kelly-blue-book-survey-shows-consumer-hesitation-toward-evs/</loc>
+        <loc>https://majordigest.com/tech/2023/08/23/study-links-childrens-screen-time-to-heart-damage-in-adulthood/</loc>
         <news:news>
           <news:publication>
             <news:name>Major Digest</news:name>
             <news:language>en</news:language>
           </news:publication>
-          <news:publication_date>2023-08-24T09:41:37.000Z</news:publication_date>
-          <news:title>Kelly Blue Book survey shows consumer hesitation toward EVs</news:title>
+          <news:publication_date>2023-08-23T19:21:19.000Z</news:publication_date>
+          <news:title>Study links children's screen time to heart damage in adulthood</news:title>
         </news:news>
         <image:image>
-          <image:loc>https://majordigest.com/tech/2023/08/24/kelly-blue-book-survey-shows-consumer-hesitation-toward-evs/kelly-blue-book-survey-shows-consumer-hesitation-toward-evs.webp</image:loc>
+          <image:loc>https://majordigest.com/tech/2023/08/23/study-links-childrens-screen-time-to-heart-damage-in-adulthood/study-links-childrens-screen-time-to-heart-damage-in-adulthood.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -507,6 +479,20 @@
         </image:image>
       </url>
       <url>
+        <loc>https://majordigest.com/tech/2023/08/22/how-to-set-up-earthquake-alerts-on-your-phone/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-22T11:57:59.000Z</news:publication_date>
+          <news:title>How to set up earthquake alerts on your phone</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/tech/2023/08/22/how-to-set-up-earthquake-alerts-on-your-phone/how-to-set-up-earthquake-alerts-on-your-phone.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
         <loc>https://majordigest.com/tech/2023/08/22/iran-unveils-armed-drone-resembling-americas-mq-9-reaper-and-says-it-could-potentially-reach-israel/</loc>
         <news:news>
           <news:publication>
@@ -518,5 +504,19 @@
         </news:news>
         <image:image>
           <image:loc>https://majordigest.com/tech/2023/08/22/iran-unveils-armed-drone-resembling-americas-mq-9-reaper-and-says-it-could-potentially-reach-israel/iran-unveils-armed-drone-resembling-americas-mq-9-reaper-and-says-it-could-potentially-reach-israel.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/tech/2023/08/22/prime-minister-justin-trudeau-slams-facebook-for-blocking-canada-wildfire-news/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-22T03:43:51.000Z</news:publication_date>
+          <news:title>Prime Minister Justin Trudeau slams Facebook for blocking Canada wildfire news</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/tech/2023/08/22/prime-minister-justin-trudeau-slams-facebook-for-blocking-canada-wildfire-news/prime-minister-justin-trudeau-slams-facebook-for-blocking-canada-wildfire-news.webp</image:loc>
         </image:image>
       </url></urlset>
