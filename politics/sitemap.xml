@@ -3,6 +3,34 @@
               xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
               xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
       <url>
+        <loc>https://majordigest.com/politics/2023/08/28/gop-lawmaker-unveils-push-block-funding-trump-prosecutions/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-28T14:39:48.000Z</news:publication_date>
+          <news:title>GOP lawmaker unveils push to block funding for Trump prosecutions</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/politics/2023/08/28/gop-lawmaker-unveils-push-block-funding-trump-prosecutions/gop-lawmaker-unveils-push-block-funding-trump-prosecutions.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/politics/2023/08/28/multiple-hospitalized-fire-rescue-chopper-crashes-florida/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-28T14:02:16.000Z</news:publication_date>
+          <news:title>Multiple hospitalized after fire rescue chopper crashes in Florida</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/politics/2023/08/28/multiple-hospitalized-fire-rescue-chopper-crashes-florida/multiple-hospitalized-fire-rescue-chopper-crashes-florida.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
         <loc>https://majordigest.com/politics/2023/08/28/pro-student-group-propose-three-ca-ballot-initiatives-protect-female-sports-prohibit-puberty-blockers/</loc>
         <news:news>
           <news:publication>
@@ -17,73 +45,17 @@
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/politics/2023/08/28/jacksonville-democrat-councilwoman-defends-desantis-boos-shooting-victim-vigil-put-parties-aside/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-28T13:40:29.000Z</news:publication_date>
-          <news:title>Jacksonville Democrat councilwoman defends DeSantis amid boos at shooting victims vigil: 'Put parties aside'</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/politics/2023/08/28/jacksonville-democrat-councilwoman-defends-desantis-boos-shooting-victim-vigil-put-parties-aside/jacksonville-democrat-councilwoman-defends-desantis-boos-shooting-victim-vigil-put-parties-aside.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/politics/2023/08/28/overwhelming-majority-americans-say-biden-too-old-effective-second-term-poll-finds/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-28T12:23:51.000Z</news:publication_date>
-          <news:title>Overwhelming majority of Americans say Biden is too old to be effective in a second term, poll finds</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/politics/2023/08/28/overwhelming-majority-americans-say-biden-too-old-effective-second-term-poll-finds/overwhelming-majority-americans-say-biden-too-old-effective-second-term-poll-finds.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/politics/2023/08/28/rep-stefanik-reportedly-plans-100m-guerilla-warfare-campaign-push-hold-new-york-democrats-offensive/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-28T11:17:08.000Z</news:publication_date>
-          <news:title>Rep. Stefanik reportedly plans $100M 'guerilla warfare' campaign push to hold off New York Democrats offensive</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/politics/2023/08/28/rep-stefanik-reportedly-plans-100m-guerilla-warfare-campaign-push-hold-new-york-democrats-offensive/rep-stefanik-reportedly-plans-100m-guerilla-warfare-campaign-push-hold-new-york-democrats-offensive.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/politics/2023/08/28/rural-texas-sheriffs-stretched-thin-are-getting-an-injection-of-cash-from-state-lawmakers/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-28T10:00:00.000Z</news:publication_date>
-          <news:title>Rural Texas sheriffs, stretched thin, are getting an injection of cash from state lawmakers</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/politics/2023/08/28/rural-texas-sheriffs-stretched-thin-are-getting-an-injection-of-cash-from-state-lawmakers/rural-texas-sheriffs-stretched-thin-are-getting-an-injection-of-cash-from-state-lawmakers.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/politics/2023/08/28/republicans-gas-prices-oil-production/</loc>
+        <loc>https://majordigest.com/politics/2023/08/28/georgia-trump-removal-hearing-federal-court/</loc>
         <news:news>
           <news:publication>
             <news:name>Major Digest</news:name>
             <news:language>en</news:language>
           </news:publication>
           <news:publication_date>2023-08-28T08:30:00.000Z</news:publication_date>
-          <news:title>The U.S. is pumping oil faster than ever. Republicans don't care</news:title>
+          <news:title>First test in Georgia v. Trump: Can prosecutors keep home-court advantage?</news:title>
         </news:news>
         <image:image>
-          <image:loc>https://majordigest.com/politics/2023/08/28/republicans-gas-prices-oil-production/republicans-gas-prices-oil-production.webp</image:loc>
+          <image:loc>https://majordigest.com/politics/2023/08/28/georgia-trump-removal-hearing-federal-court/georgia-trump-removal-hearing-federal-court.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -171,6 +143,34 @@
         </image:image>
       </url>
       <url>
+        <loc>https://majordigest.com/politics/2023/08/27/mike-pence-debate-support-jan6/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-27T16:00:00.000Z</news:publication_date>
+          <news:title>Support from fellow GOP candidates over Jan. 6 was &#8216;heartening,&#8217; Pence says</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/politics/2023/08/27/mike-pence-debate-support-jan6/mike-pence-debate-support-jan6.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/politics/2023/08/27/biden-campaign-trump-policies-richmond/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-27T15:12:45.000Z</news:publication_date>
+          <news:title>Biden campaign: It might not be Trump, but it&#8217;ll still be his policies in the general election</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/politics/2023/08/27/biden-campaign-trump-policies-richmond/biden-campaign-trump-policies-richmond.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
         <loc>https://majordigest.com/politics/2023/08/27/npr-minnesota-felon-voting-rights-restoration/</loc>
         <news:news>
           <news:publication>
@@ -196,20 +196,6 @@
         </news:news>
         <image:image>
           <image:loc>https://majordigest.com/politics/2023/08/26/desantis-ramaswamy-claim-victory-after-gop-debate/desantis-ramaswamy-claim-victory-after-gop-debate.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/politics/2023/08/26/cohen-on-georgia-bookings-if-any-co-defendants-turn-on-trump-its-destruction-for-the-rest/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-26T22:29:09.000Z</news:publication_date>
-          <news:title>Cohen on Georgia bookings: If any co-defendants turn on Trump, it's 'destruction for the rest'</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/politics/2023/08/26/cohen-on-georgia-bookings-if-any-co-defendants-turn-on-trump-its-destruction-for-the-rest/cohen-on-georgia-bookings-if-any-co-defendants-turn-on-trump-its-destruction-for-the-rest.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -241,17 +227,31 @@
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/politics/2023/08/26/new-mexico-suspend-drivers-licenses-fines/</loc>
+        <loc>https://majordigest.com/politics/2023/08/26/npr-china-us-trade-tensions-commerce-secretary-gina-raimondo/</loc>
         <news:news>
           <news:publication>
             <news:name>Major Digest</news:name>
             <news:language>en</news:language>
           </news:publication>
-          <news:publication_date>2023-08-26T10:30:00.000Z</news:publication_date>
-          <news:title>New Mexico will no longer suspend drivers licenses for fines</news:title>
+          <news:publication_date>2023-08-26T13:48:00.000Z</news:publication_date>
+          <news:title>How high tensions between China and the U.S. are impacting American companies</news:title>
         </news:news>
         <image:image>
-          <image:loc>https://majordigest.com/politics/2023/08/26/new-mexico-suspend-drivers-licenses-fines/new-mexico-suspend-drivers-licenses-fines.webp</image:loc>
+          <image:loc>https://majordigest.com/politics/2023/08/26/npr-china-us-trade-tensions-commerce-secretary-gina-raimondo/npr-china-us-trade-tensions-commerce-secretary-gina-raimondo.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/politics/2023/08/26/ramaswamy-curiosity-skepticism-iowa-gop-debate/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-26T04:50:22.000Z</news:publication_date>
+          <news:title>Ramaswamy faces curiosity, skepticism in Iowa after GOP debate</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/politics/2023/08/26/ramaswamy-curiosity-skepticism-iowa-gop-debate/ramaswamy-curiosity-skepticism-iowa-gop-debate.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -280,34 +280,6 @@
         </news:news>
         <image:image>
           <image:loc>https://majordigest.com/politics/2023/08/25/new-york-man-sentenced-to-3-months-in-prison-for-making-threatening-phone-calls-to-rep-marjorie-taylor-greene/new-york-man-sentenced-to-3-months-in-prison-for-making-threatening-phone-calls-to-rep-marjorie-taylor-greene.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/politics/2023/08/25/texans-asked-to-conserve-energy-for-a-third-time-this-week/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-25T18:06:40.000Z</news:publication_date>
-          <news:title>Texas asked residents to conserve power for four consecutive days amid intense heat</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/politics/2023/08/25/texans-asked-to-conserve-energy-for-a-third-time-this-week/texans-asked-to-conserve-energy-for-a-third-time-this-week.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/politics/2023/08/25/carlos-santana-issues-apology-for-anti-trans-remarks-on-stage/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-25T15:43:31.000Z</news:publication_date>
-          <news:title>Carlos Santana issues apology for anti-trans remarks on stage</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/politics/2023/08/25/carlos-santana-issues-apology-for-anti-trans-remarks-on-stage/carlos-santana-issues-apology-for-anti-trans-remarks-on-stage.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -364,6 +336,20 @@
         </news:news>
         <image:image>
           <image:loc>https://majordigest.com/politics/2023/08/24/does-the-georgia-case-pose-greatest-threat-to-former-president-trump/does-the-georgia-case-pose-greatest-threat-to-former-president-trump.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/politics/2023/08/24/gov-desantis-target-claims-miss-their-mark-in-gop-primary-debate/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-24T23:28:06.000Z</news:publication_date>
+          <news:title>Gov. DeSantis&#8217; target claims miss their mark in GOP primary debate</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/politics/2023/08/24/gov-desantis-target-claims-miss-their-mark-in-gop-primary-debate/gov-desantis-target-claims-miss-their-mark-in-gop-primary-debate.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -437,6 +423,20 @@
         </image:image>
       </url>
       <url>
+        <loc>https://majordigest.com/politics/2023/08/24/rep-mike-levin-makes-stop-in-encinitas-to-talk-climate-following-first-tropical-storm-in-decades/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-24T05:49:14.000Z</news:publication_date>
+          <news:title>Rep. Mike Levin makes stop in Encinitas to talk climate following first tropical storm in decades</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/politics/2023/08/24/rep-mike-levin-makes-stop-in-encinitas-to-talk-climate-following-first-tropical-storm-in-decades/rep-mike-levin-makes-stop-in-encinitas-to-talk-climate-following-first-tropical-storm-in-decades.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
         <loc>https://majordigest.com/politics/2023/08/23/kelly-blue-book-survey-shows-consumer-hesitation-towards-electric-vehicles/</loc>
         <news:news>
           <news:publication>
@@ -493,17 +493,17 @@
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/politics/2023/08/21/how-to-watch-the-first-republican-presidential-primary-debate/</loc>
+        <loc>https://majordigest.com/politics/2023/08/21/assemblywoman-heidi-kasama-joins-republican-challengers-for-lees-seat-in-congress/</loc>
         <news:news>
           <news:publication>
             <news:name>Major Digest</news:name>
             <news:language>en</news:language>
           </news:publication>
-          <news:publication_date>2023-08-21T18:26:03.000Z</news:publication_date>
-          <news:title>How to watch the first Republican presidential primary debate</news:title>
+          <news:publication_date>2023-08-21T19:16:18.000Z</news:publication_date>
+          <news:title>Assemblywoman Heidi Kasama joins Republican challengers for Lee's seat in Congress</news:title>
         </news:news>
         <image:image>
-          <image:loc>https://majordigest.com/politics/2023/08/21/how-to-watch-the-first-republican-presidential-primary-debate/how-to-watch-the-first-republican-presidential-primary-debate.webp</image:loc>
+          <image:loc>https://majordigest.com/politics/2023/08/21/assemblywoman-heidi-kasama-joins-republican-challengers-for-lees-seat-in-congress/assemblywoman-heidi-kasama-joins-republican-challengers-for-lees-seat-in-congress.webp</image:loc>
         </image:image>
       </url>
       <url>
