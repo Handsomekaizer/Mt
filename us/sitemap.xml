@@ -3,6 +3,34 @@
               xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
               xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
       <url>
+        <loc>https://majordigest.com/us/2023/08/28/son-stolen-at-birth-hugs-chilean-mother-for-first-time-in-42-years/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-28T04:10:38.000Z</news:publication_date>
+          <news:title>Son stolen at birth hugs Chilean mother for first time in 42 years</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/us/2023/08/28/son-stolen-at-birth-hugs-chilean-mother-for-first-time-in-42-years/son-stolen-at-birth-hugs-chilean-mother-for-first-time-in-42-years.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/us/2023/08/28/ap-forecasters-tropical-storm-idalia-forms-in-gulf-of-mexico/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-28T03:48:19.000Z</news:publication_date>
+          <news:title>Tropical Storm Idalia takes aim at Gulf of Mexico on a possible track toward the US, forecasters say</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/us/2023/08/28/ap-forecasters-tropical-storm-idalia-forms-in-gulf-of-mexico/ap-forecasters-tropical-storm-idalia-forms-in-gulf-of-mexico.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
         <loc>https://majordigest.com/us/2023/08/28/ap-jacksonville-killings-what-we-know-about-the-hate-crime/</loc>
         <news:news>
           <news:publication>
@@ -14,20 +42,6 @@
         </news:news>
         <image:image>
           <image:loc>https://majordigest.com/us/2023/08/28/ap-jacksonville-killings-what-we-know-about-the-hate-crime/ap-jacksonville-killings-what-we-know-about-the-hate-crime.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/us/2023/08/28/ap-forecasters-tropical-storm-idalia-forms-in-gulf-of-mexico/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-28T02:48:23.000Z</news:publication_date>
-          <news:title>Tropical Storm Idalia takes aim at Gulf of Mexico on a possible track toward the US, forecasters say</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/us/2023/08/28/ap-forecasters-tropical-storm-idalia-forms-in-gulf-of-mexico/ap-forecasters-tropical-storm-idalia-forms-in-gulf-of-mexico.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -115,31 +129,17 @@
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/us/2023/08/27/1-dead-in-shooting-at-ohio-mall-as-police-investigate-active-situation/</loc>
+        <loc>https://majordigest.com/us/2023/08/27/suspect-fully-conscious-drug-arrest-crack-cocaine-seat-state-police/</loc>
         <news:news>
           <news:publication>
             <news:name>Major Digest</news:name>
             <news:language>en</news:language>
           </news:publication>
-          <news:publication_date>2023-08-27T23:51:43.000Z</news:publication_date>
-          <news:title>At least 1 killed in shooting at Ohio mall</news:title>
+          <news:publication_date>2023-08-27T23:11:36.000Z</news:publication_date>
+          <news:title>Suspect 'not fully conscious' during drug arrest, had crack cocaine on driver's seat: state police</news:title>
         </news:news>
         <image:image>
-          <image:loc>https://majordigest.com/us/2023/08/27/1-dead-in-shooting-at-ohio-mall-as-police-investigate-active-situation/1-dead-in-shooting-at-ohio-mall-as-police-investigate-active-situation.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/us/2023/08/27/san-francisco-restaurant-bans-armed-officers-police-union-responds/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-27T23:27:52.000Z</news:publication_date>
-          <news:title>San Francisco restaurant bans armed officers, police union responds</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/us/2023/08/27/san-francisco-restaurant-bans-armed-officers-police-union-responds/san-francisco-restaurant-bans-armed-officers-police-union-responds.webp</image:loc>
+          <image:loc>https://majordigest.com/us/2023/08/27/suspect-fully-conscious-drug-arrest-crack-cocaine-seat-state-police/suspect-fully-conscious-drug-arrest-crack-cocaine-seat-state-police.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -171,31 +171,17 @@
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/us/2023/08/27/ap-some-wildfire-evacuations-end-in-british-columbia-but-fire-threatens-community-farther-north/</loc>
+        <loc>https://majordigest.com/us/2023/08/27/teachers-arrested-at-nevada-school-board-meeting/</loc>
         <news:news>
           <news:publication>
             <news:name>Major Digest</news:name>
             <news:language>en</news:language>
           </news:publication>
-          <news:publication_date>2023-08-27T22:55:26.000Z</news:publication_date>
-          <news:title>Some wildfire evacuations end in British Columbia, but fire threatens community farther north</news:title>
+          <news:publication_date>2023-08-27T22:10:02.000Z</news:publication_date>
+          <news:title>Teachers arrested at Nevada school board meeting</news:title>
         </news:news>
         <image:image>
-          <image:loc>https://majordigest.com/us/2023/08/27/ap-some-wildfire-evacuations-end-in-british-columbia-but-fire-threatens-community-farther-north/ap-some-wildfire-evacuations-end-in-british-columbia-but-fire-threatens-community-farther-north.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/us/2023/08/27/less-sleep-less-exercise-and-less-relaxation-heres-the-data-on-just-how-much-parents-sacrifice-during-the-school-year/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-27T20:54:48.000Z</news:publication_date>
-          <news:title>Less sleep, less exercise and less relaxation &#8211; here&#8217;s the data on just how much parents sacrifice during the school&#160;year</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/us/2023/08/27/less-sleep-less-exercise-and-less-relaxation-heres-the-data-on-just-how-much-parents-sacrifice-during-the-school-year/less-sleep-less-exercise-and-less-relaxation-heres-the-data-on-just-how-much-parents-sacrifice-during-the-school-year.webp</image:loc>
+          <image:loc>https://majordigest.com/us/2023/08/27/teachers-arrested-at-nevada-school-board-meeting/teachers-arrested-at-nevada-school-board-meeting.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -241,20 +227,6 @@
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/us/2023/08/27/ap-military-identifies-marine-corps-pilot-killed-in-jet-crash-near-san-diego-base/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-27T18:55:44.000Z</news:publication_date>
-          <news:title>Military identifies Marine Corps pilot killed in jet crash near San Diego base</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/us/2023/08/27/ap-military-identifies-marine-corps-pilot-killed-in-jet-crash-near-san-diego-base/ap-military-identifies-marine-corps-pilot-killed-in-jet-crash-near-san-diego-base.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
         <loc>https://majordigest.com/us/2023/08/27/military-identifies-marine-corps-pilot-killed-in-jet-crash-near-san-diego-base/</loc>
         <news:news>
           <news:publication>
@@ -266,20 +238,6 @@
         </news:news>
         <image:image>
           <image:loc>https://majordigest.com/us/2023/08/27/military-identifies-marine-corps-pilot-killed-in-jet-crash-near-san-diego-base/military-identifies-marine-corps-pilot-killed-in-jet-crash-near-san-diego-base.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/us/2023/08/27/biggest-brightest-rare-blue-supermoon-can-be-seen-this-week-what-to-know/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-27T18:16:14.000Z</news:publication_date>
-          <news:title>'Biggest, brightest' rare blue supermoon can be seen this week: What to know</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/us/2023/08/27/biggest-brightest-rare-blue-supermoon-can-be-seen-this-week-what-to-know/biggest-brightest-rare-blue-supermoon-can-be-seen-this-week-what-to-know.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -297,17 +255,31 @@
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/us/2023/08/27/sun-drunk-what-it-is-and-how-to-avoid-it/</loc>
+        <loc>https://majordigest.com/us/2023/08/27/is-your-dog-at-risk-for-t-cruzi-infection-which-can-lead-to-heart-problems-and-sudden-death/</loc>
         <news:news>
           <news:publication>
             <news:name>Major Digest</news:name>
             <news:language>en</news:language>
           </news:publication>
-          <news:publication_date>2023-08-27T17:08:30.000Z</news:publication_date>
-          <news:title>Sun drunk: What it is and how to avoid it</news:title>
+          <news:publication_date>2023-08-27T16:05:04.000Z</news:publication_date>
+          <news:title>Is your dog at risk for T. cruzi infection, which can lead to heart problems and sudden death?</news:title>
         </news:news>
         <image:image>
-          <image:loc>https://majordigest.com/us/2023/08/27/sun-drunk-what-it-is-and-how-to-avoid-it/sun-drunk-what-it-is-and-how-to-avoid-it.webp</image:loc>
+          <image:loc>https://majordigest.com/us/2023/08/27/is-your-dog-at-risk-for-t-cruzi-infection-which-can-lead-to-heart-problems-and-sudden-death/is-your-dog-at-risk-for-t-cruzi-infection-which-can-lead-to-heart-problems-and-sudden-death.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/us/2023/08/27/tropical-storm-idalia-forms-in-the-gulf-of-mexico-on-a-possible-track-toward-the-us-forecasters-say/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-27T15:50:50.000Z</news:publication_date>
+          <news:title>Tropical Storm Idalia takes aim at Gulf of Mexico on a possible track toward the US, forecasters say</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/us/2023/08/27/tropical-storm-idalia-forms-in-the-gulf-of-mexico-on-a-possible-track-toward-the-us-forecasters-say/tropical-storm-idalia-forms-in-the-gulf-of-mexico-on-a-possible-track-toward-the-us-forecasters-say.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -325,17 +297,17 @@
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/us/2023/08/27/tropical-storm-idalia-forms-in-the-gulf-of-mexico-on-a-possible-track-toward-the-us-forecasters-say/</loc>
+        <loc>https://majordigest.com/us/2023/08/27/nascar-driver-awake-alert-and-mobile-following-terrifying-crash-at-daytona/</loc>
         <news:news>
           <news:publication>
             <news:name>Major Digest</news:name>
             <news:language>en</news:language>
           </news:publication>
-          <news:publication_date>2023-08-27T15:50:50.000Z</news:publication_date>
-          <news:title>Tropical Storm Idalia takes aim at Gulf of Mexico on a possible track toward the US, forecasters say</news:title>
+          <news:publication_date>2023-08-27T14:15:08.000Z</news:publication_date>
+          <news:title>NASCAR driver 'awake, alert and mobile' following terrifying crash at Daytona</news:title>
         </news:news>
         <image:image>
-          <image:loc>https://majordigest.com/us/2023/08/27/tropical-storm-idalia-forms-in-the-gulf-of-mexico-on-a-possible-track-toward-the-us-forecasters-say/tropical-storm-idalia-forms-in-the-gulf-of-mexico-on-a-possible-track-toward-the-us-forecasters-say.webp</image:loc>
+          <image:loc>https://majordigest.com/us/2023/08/27/nascar-driver-awake-alert-and-mobile-following-terrifying-crash-at-daytona/nascar-driver-awake-alert-and-mobile-following-terrifying-crash-at-daytona.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -367,6 +339,48 @@
         </image:image>
       </url>
       <url>
+        <loc>https://majordigest.com/us/2023/08/27/3-us-marines-killed-20-injured-during-a-training-exercise-in-australia/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-27T13:05:22.000Z</news:publication_date>
+          <news:title>3 US Marines killed, 20 injured during a training exercise in Australia</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/us/2023/08/27/3-us-marines-killed-20-injured-during-a-training-exercise-in-australia/3-us-marines-killed-20-injured-during-a-training-exercise-in-australia.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/us/2023/08/27/corn-sweat-and-why-its-heaping-on-the-humidity/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-27T13:01:54.000Z</news:publication_date>
+          <news:title>'Corn sweat' and why it's heaping on the humidity</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/us/2023/08/27/corn-sweat-and-why-its-heaping-on-the-humidity/corn-sweat-and-why-its-heaping-on-the-humidity.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/us/2023/08/27/uaw-strike-where-things-stand-after-members-overwhelmingly-favor-strike-authorization/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-27T12:23:31.000Z</news:publication_date>
+          <news:title>UAW strike: Where things stand after members overwhelmingly favor strike authorization</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/us/2023/08/27/uaw-strike-where-things-stand-after-members-overwhelmingly-favor-strike-authorization/uaw-strike-where-things-stand-after-members-overwhelmingly-favor-strike-authorization.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
         <loc>https://majordigest.com/us/2023/08/27/white-shooter-kills-3-black-people-in-florida-hate-crime-as-washington-celebrates-kings-dream/</loc>
         <news:news>
           <news:publication>
@@ -378,20 +392,6 @@
         </news:news>
         <image:image>
           <image:loc>https://majordigest.com/us/2023/08/27/white-shooter-kills-3-black-people-in-florida-hate-crime-as-washington-celebrates-kings-dream/white-shooter-kills-3-black-people-in-florida-hate-crime-as-washington-celebrates-kings-dream.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/us/2023/08/27/ap-environmental-groups-recruit-people-of-color-into-overwhelmingly-white-conservation-world/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-27T04:39:09.000Z</news:publication_date>
-          <news:title>Environmental groups recruit people of color into overwhelmingly white conservation world</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/us/2023/08/27/ap-environmental-groups-recruit-people-of-color-into-overwhelmingly-white-conservation-world/ap-environmental-groups-recruit-people-of-color-into-overwhelmingly-white-conservation-world.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -423,17 +423,17 @@
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/us/2023/08/26/jacksonville-dollar-general-shooting-multiple-people-killed/</loc>
+        <loc>https://majordigest.com/us/2023/08/27/pete-the-peacock-adored-by-neighborhood-fatally-shot-by-bow-and-arrow/</loc>
         <news:news>
           <news:publication>
             <news:name>Major Digest</news:name>
             <news:language>en</news:language>
           </news:publication>
-          <news:publication_date>2023-08-26T21:23:04.000Z</news:publication_date>
-          <news:title>Florida Dollar General shooting: 3 Black people killed by white man in hate crime</news:title>
+          <news:publication_date>2023-08-27T00:46:38.000Z</news:publication_date>
+          <news:title>Pete the peacock, adored by neighborhood, fatally shot by bow and arrow</news:title>
         </news:news>
         <image:image>
-          <image:loc>https://majordigest.com/us/2023/08/26/jacksonville-dollar-general-shooting-multiple-people-killed/jacksonville-dollar-general-shooting-multiple-people-killed.webp</image:loc>
+          <image:loc>https://majordigest.com/us/2023/08/27/pete-the-peacock-adored-by-neighborhood-fatally-shot-by-bow-and-arrow/pete-the-peacock-adored-by-neighborhood-fatally-shot-by-bow-and-arrow.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -451,6 +451,34 @@
         </image:image>
       </url>
       <url>
+        <loc>https://majordigest.com/us/2023/08/26/cohen-on-georgia-bookings-if-any-co-defendants-turn-on-trump-its-destruction-for-the-rest/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-26T20:29:01.000Z</news:publication_date>
+          <news:title>Cohen on Georgia bookings: If any co-defendants turn on Trump, it's 'destruction for the rest'</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/us/2023/08/26/cohen-on-georgia-bookings-if-any-co-defendants-turn-on-trump-its-destruction-for-the-rest/cohen-on-georgia-bookings-if-any-co-defendants-turn-on-trump-its-destruction-for-the-rest.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/us/2023/08/26/shooting-at-oklahoma-high-school-football-game-leaves-1-teen-dead-police-confirm/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-26T19:24:00.000Z</news:publication_date>
+          <news:title>Shooting at Oklahoma high school football game leaves 1 teen dead, police confirm</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/us/2023/08/26/shooting-at-oklahoma-high-school-football-game-leaves-1-teen-dead-police-confirm/shooting-at-oklahoma-high-school-football-game-leaves-1-teen-dead-police-confirm.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
         <loc>https://majordigest.com/us/2023/08/25/biden-on-trump-mug-shot-handsome-guy/</loc>
         <news:news>
           <news:publication>
@@ -462,34 +490,6 @@
         </news:news>
         <image:image>
           <image:loc>https://majordigest.com/us/2023/08/25/biden-on-trump-mug-shot-handsome-guy/biden-on-trump-mug-shot-handsome-guy.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/us/2023/08/25/vice-chair-of-cpac-steps-down/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-25T23:09:30.000Z</news:publication_date>
-          <news:title>Vice chair of CPAC steps down&#160;</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/us/2023/08/25/vice-chair-of-cpac-steps-down/vice-chair-of-cpac-steps-down.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/us/2023/08/24/woman-in-tiktok-video-of-racist-outburst-at-california-mcdonalds-is-no-longer-employed/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-24T17:41:16.000Z</news:publication_date>
-          <news:title>Woman in TikTok video of racist outburst at California McDonald's is no longer employed</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/us/2023/08/24/woman-in-tiktok-video-of-racist-outburst-at-california-mcdonalds-is-no-longer-employed/woman-in-tiktok-video-of-racist-outburst-at-california-mcdonalds-is-no-longer-employed.webp</image:loc>
         </image:image>
       </url>
       <url>
