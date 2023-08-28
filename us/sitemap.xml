@@ -3,6 +3,48 @@
               xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
               xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
       <url>
+        <loc>https://majordigest.com/us/2023/08/28/georgia-courtroom-battles-begin-monday-in-next-stage-of-trump-case/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-28T10:06:38.000Z</news:publication_date>
+          <news:title>Georgia courtroom battles begin Monday in next stage of Trump case</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/us/2023/08/28/georgia-courtroom-battles-begin-monday-in-next-stage-of-trump-case/georgia-courtroom-battles-begin-monday-in-next-stage-of-trump-case.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/us/2023/08/28/china-wont-require-covid-19-testing-for-incoming-travelers-starting-wednesday/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-28T10:00:42.000Z</news:publication_date>
+          <news:title>China won't require COVID-19 tests for incoming travelers in a milestone in its reopening</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/us/2023/08/28/china-wont-require-covid-19-testing-for-incoming-travelers-starting-wednesday/china-wont-require-covid-19-testing-for-incoming-travelers-starting-wednesday.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/us/2023/08/28/forecasters-tropical-storm-idalia-forms-in-gulf-of-mexico/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-28T09:12:36.000Z</news:publication_date>
+          <news:title>Tropical Storm Idalia takes aim at Gulf of Mexico on a possible track toward the US, forecasters say</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/us/2023/08/28/forecasters-tropical-storm-idalia-forms-in-gulf-of-mexico/forecasters-tropical-storm-idalia-forms-in-gulf-of-mexico.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
         <loc>https://majordigest.com/us/2023/08/28/at-japanese-nuclear-plant-controversial-treated-water-release-just-the-beginning-of-decommissioning/</loc>
         <news:news>
           <news:publication>
@@ -59,20 +101,6 @@
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/us/2023/08/28/the-ukraine-war-propaganda-style-is-coming-to-russian-movie-screens-will-people-watch/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-28T04:50:48.000Z</news:publication_date>
-          <news:title>The Ukraine war, propaganda-style, is coming to Russian movie screens. Will people watch?</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/us/2023/08/28/the-ukraine-war-propaganda-style-is-coming-to-russian-movie-screens-will-people-watch/the-ukraine-war-propaganda-style-is-coming-to-russian-movie-screens-will-people-watch.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
         <loc>https://majordigest.com/us/2023/08/28/texas-takeover-raises-back-to-school-anxiety-for-houston-students-parents-and-teachers/</loc>
         <news:news>
           <news:publication>
@@ -87,17 +115,31 @@
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/us/2023/08/28/forecasters-tropical-storm-idalia-forms-in-gulf-of-mexico/</loc>
+        <loc>https://majordigest.com/us/2023/08/28/son-stolen-at-birth-hugs-chilean-mother-for-first-time-in-42-years/</loc>
         <news:news>
           <news:publication>
             <news:name>Major Digest</news:name>
             <news:language>en</news:language>
           </news:publication>
-          <news:publication_date>2023-08-28T03:48:19.000Z</news:publication_date>
-          <news:title>Tropical Storm Idalia takes aim at Gulf of Mexico on a possible track toward the US, forecasters say</news:title>
+          <news:publication_date>2023-08-28T04:10:39.000Z</news:publication_date>
+          <news:title>Son stolen at birth hugs Chilean mother for first time in 42 years</news:title>
         </news:news>
         <image:image>
-          <image:loc>https://majordigest.com/us/2023/08/28/forecasters-tropical-storm-idalia-forms-in-gulf-of-mexico/forecasters-tropical-storm-idalia-forms-in-gulf-of-mexico.webp</image:loc>
+          <image:loc>https://majordigest.com/us/2023/08/28/son-stolen-at-birth-hugs-chilean-mother-for-first-time-in-42-years/son-stolen-at-birth-hugs-chilean-mother-for-first-time-in-42-years.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/us/2023/08/28/maui-resident-were-not-being-treated-like-were-us-citizens/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-28T04:02:11.000Z</news:publication_date>
+          <news:title>Maui resident: 'We're not being treated like we're US citizens'</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/us/2023/08/28/maui-resident-were-not-being-treated-like-were-us-citizens/maui-resident-were-not-being-treated-like-were-us-citizens.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -143,59 +185,17 @@
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/us/2023/08/28/dana-bash-spars-with-ramaswamy-over-race-remarks/</loc>
+        <loc>https://majordigest.com/us/2023/08/28/people-in-various-states-of-undress-cruise-philadelphia-streets-in-naked-bike-ride/</loc>
         <news:news>
           <news:publication>
             <news:name>Major Digest</news:name>
             <news:language>en</news:language>
           </news:publication>
-          <news:publication_date>2023-08-28T00:52:22.000Z</news:publication_date>
-          <news:title>Dana Bash spars with Vivek Ramaswamy over race remarks</news:title>
+          <news:publication_date>2023-08-28T00:02:23.000Z</news:publication_date>
+          <news:title>People in various states of undress cruise Philadelphia streets in naked bike ride</news:title>
         </news:news>
         <image:image>
-          <image:loc>https://majordigest.com/us/2023/08/28/dana-bash-spars-with-ramaswamy-over-race-remarks/dana-bash-spars-with-ramaswamy-over-race-remarks.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/us/2023/08/28/oregon-inmate-kidnapping-locking-woman-cinder-block-cell-escape-jail/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-28T00:21:45.000Z</news:publication_date>
-          <news:title>Oregon inmate accused of kidnapping, locking woman in cinder block cell tries to escape jail</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/us/2023/08/28/oregon-inmate-kidnapping-locking-woman-cinder-block-cell-escape-jail/oregon-inmate-kidnapping-locking-woman-cinder-block-cell-escape-jail.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/us/2023/08/28/at-least-1-killed-in-shooting-at-ohio-mall/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-28T00:00:16.000Z</news:publication_date>
-          <news:title>At least 1 killed in shooting at Ohio mall</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/us/2023/08/28/at-least-1-killed-in-shooting-at-ohio-mall/at-least-1-killed-in-shooting-at-ohio-mall.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/us/2023/08/27/1-dead-in-shooting-at-ohio-mall-as-police-investigate-active-situation/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-27T23:51:26.000Z</news:publication_date>
-          <news:title>At least 1 killed in shooting at Ohio mall</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/us/2023/08/27/1-dead-in-shooting-at-ohio-mall-as-police-investigate-active-situation/1-dead-in-shooting-at-ohio-mall-as-police-investigate-active-situation.webp</image:loc>
+          <image:loc>https://majordigest.com/us/2023/08/28/people-in-various-states-of-undress-cruise-philadelphia-streets-in-naked-bike-ride/people-in-various-states-of-undress-cruise-philadelphia-streets-in-naked-bike-ride.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -227,17 +227,17 @@
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/us/2023/08/27/less-sleep-less-exercise-and-less-relaxation-heres-the-data-on-just-how-much-parents-sacrifice-during-the-school-year/</loc>
+        <loc>https://majordigest.com/us/2023/08/27/teachers-arrested-at-nevada-school-board-meeting/</loc>
         <news:news>
           <news:publication>
             <news:name>Major Digest</news:name>
             <news:language>en</news:language>
           </news:publication>
-          <news:publication_date>2023-08-27T20:54:48.000Z</news:publication_date>
-          <news:title>Less sleep, less exercise and less relaxation &#8211; here&#8217;s the data on just how much parents sacrifice during the school&#160;year</news:title>
+          <news:publication_date>2023-08-27T22:10:02.000Z</news:publication_date>
+          <news:title>Teachers arrested at Nevada school board meeting</news:title>
         </news:news>
         <image:image>
-          <image:loc>https://majordigest.com/us/2023/08/27/less-sleep-less-exercise-and-less-relaxation-heres-the-data-on-just-how-much-parents-sacrifice-during-the-school-year/less-sleep-less-exercise-and-less-relaxation-heres-the-data-on-just-how-much-parents-sacrifice-during-the-school-year.webp</image:loc>
+          <image:loc>https://majordigest.com/us/2023/08/27/teachers-arrested-at-nevada-school-board-meeting/teachers-arrested-at-nevada-school-board-meeting.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -252,6 +252,20 @@
         </news:news>
         <image:image>
           <image:loc>https://majordigest.com/us/2023/08/27/sheriff-gives-first-details-of-how-a-white-man-killed-3-black-people-at-a-florida-store/sheriff-gives-first-details-of-how-a-white-man-killed-3-black-people-at-a-florida-store.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/us/2023/08/27/publicist-says-popular-game-show-host-bob-barker-has-died/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-27T19:17:26.000Z</news:publication_date>
+          <news:title>Bob Barker, dapper &#8216;Price Is Right&#8217; and &#8216;Truth or Consequences&#8217; host and animal advocate, dies at 99</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/us/2023/08/27/publicist-says-popular-game-show-host-bob-barker-has-died/publicist-says-popular-game-show-host-bob-barker-has-died.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -297,31 +311,45 @@
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/us/2023/08/27/sun-drunk-what-it-is-and-how-to-avoid-it/</loc>
+        <loc>https://majordigest.com/us/2023/08/27/is-your-dog-at-risk-for-t-cruzi-infection-which-can-lead-to-heart-problems-and-sudden-death/</loc>
         <news:news>
           <news:publication>
             <news:name>Major Digest</news:name>
             <news:language>en</news:language>
           </news:publication>
-          <news:publication_date>2023-08-27T17:10:23.000Z</news:publication_date>
-          <news:title>Sun drunk: What it is and how to avoid it</news:title>
+          <news:publication_date>2023-08-27T16:06:37.000Z</news:publication_date>
+          <news:title>Is your dog at risk for T. cruzi infection, which can lead to heart problems and sudden death?</news:title>
         </news:news>
         <image:image>
-          <image:loc>https://majordigest.com/us/2023/08/27/sun-drunk-what-it-is-and-how-to-avoid-it/sun-drunk-what-it-is-and-how-to-avoid-it.webp</image:loc>
+          <image:loc>https://majordigest.com/us/2023/08/27/is-your-dog-at-risk-for-t-cruzi-infection-which-can-lead-to-heart-problems-and-sudden-death/is-your-dog-at-risk-for-t-cruzi-infection-which-can-lead-to-heart-problems-and-sudden-death.webp</image:loc>
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/us/2023/08/27/members-of-us-congress-make-a-rare-visit-to-opposition-held-northwest-syria/</loc>
+        <loc>https://majordigest.com/us/2023/08/27/tropical-storm-idalia-forms-in-the-gulf-of-mexico-on-a-possible-track-toward-the-us-forecasters-say/</loc>
         <news:news>
           <news:publication>
             <news:name>Major Digest</news:name>
             <news:language>en</news:language>
           </news:publication>
-          <news:publication_date>2023-08-27T15:29:22.000Z</news:publication_date>
-          <news:title>Members of US Congress make a rare visit to opposition-held northwest Syria</news:title>
+          <news:publication_date>2023-08-27T15:50:50.000Z</news:publication_date>
+          <news:title>Tropical Storm Idalia takes aim at Gulf of Mexico on a possible track toward the US, forecasters say</news:title>
         </news:news>
         <image:image>
-          <image:loc>https://majordigest.com/us/2023/08/27/members-of-us-congress-make-a-rare-visit-to-opposition-held-northwest-syria/members-of-us-congress-make-a-rare-visit-to-opposition-held-northwest-syria.webp</image:loc>
+          <image:loc>https://majordigest.com/us/2023/08/27/tropical-storm-idalia-forms-in-the-gulf-of-mexico-on-a-possible-track-toward-the-us-forecasters-say/tropical-storm-idalia-forms-in-the-gulf-of-mexico-on-a-possible-track-toward-the-us-forecasters-say.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/us/2023/08/27/is-it-time-to-bring-back-the-covid-mask-we-asked-3-doctors/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-27T14:35:35.000Z</news:publication_date>
+          <news:title>Is it time to bring back the COVID mask? We asked 3 doctors</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/us/2023/08/27/is-it-time-to-bring-back-the-covid-mask-we-asked-3-doctors/is-it-time-to-bring-back-the-covid-mask-we-asked-3-doctors.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -331,7 +359,7 @@
             <news:name>Major Digest</news:name>
             <news:language>en</news:language>
           </news:publication>
-          <news:publication_date>2023-08-27T14:14:47.000Z</news:publication_date>
+          <news:publication_date>2023-08-27T14:13:26.000Z</news:publication_date>
           <news:title>NASCAR driver 'awake, alert and mobile' following terrifying crash at Daytona</news:title>
         </news:news>
         <image:image>
@@ -345,7 +373,7 @@
             <news:name>Major Digest</news:name>
             <news:language>en</news:language>
           </news:publication>
-          <news:publication_date>2023-08-27T14:04:03.000Z</news:publication_date>
+          <news:publication_date>2023-08-27T14:02:42.000Z</news:publication_date>
           <news:title>Map: Air quality is the worst in these counties, study finds</news:title>
         </news:news>
         <image:image>
@@ -367,34 +395,6 @@
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/us/2023/08/27/3-us-marines-killed-20-injured-during-a-training-exercise-in-australia/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-27T13:04:01.000Z</news:publication_date>
-          <news:title>3 US Marines killed, 20 injured during a training exercise in Australia</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/us/2023/08/27/3-us-marines-killed-20-injured-during-a-training-exercise-in-australia/3-us-marines-killed-20-injured-during-a-training-exercise-in-australia.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/us/2023/08/27/corn-sweat-and-why-its-heaping-on-the-humidity/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-27T13:00:33.000Z</news:publication_date>
-          <news:title>'Corn sweat' and why it's heaping on the humidity</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/us/2023/08/27/corn-sweat-and-why-its-heaping-on-the-humidity/corn-sweat-and-why-its-heaping-on-the-humidity.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
         <loc>https://majordigest.com/us/2023/08/27/uaw-strike-where-things-stand-after-members-overwhelmingly-favor-strike-authorization/</loc>
         <news:news>
           <news:publication>
@@ -406,20 +406,6 @@
         </news:news>
         <image:image>
           <image:loc>https://majordigest.com/us/2023/08/27/uaw-strike-where-things-stand-after-members-overwhelmingly-favor-strike-authorization/uaw-strike-where-things-stand-after-members-overwhelmingly-favor-strike-authorization.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/us/2023/08/27/3-people-are-injured-1-critically-in-a-us-military-aircraft-crash-in-australia-officials-say/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-27T06:09:32.000Z</news:publication_date>
-          <news:title>A US Marine Osprey crashes during drills in Australia, killing 3 and injuring 20, some critically</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/us/2023/08/27/3-people-are-injured-1-critically-in-a-us-military-aircraft-crash-in-australia-officials-say/3-people-are-injured-1-critically-in-a-us-military-aircraft-crash-in-australia-officials-say.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -437,6 +423,20 @@
         </image:image>
       </url>
       <url>
+        <loc>https://majordigest.com/us/2023/08/27/motorcyclist-dies-in-crash-after-nyc-police-sergeant-throws-cooler-at-his-head/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-27T00:58:36.000Z</news:publication_date>
+          <news:title>Motorcyclist dies in crash after NYC police sergeant throws cooler at his head</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/us/2023/08/27/motorcyclist-dies-in-crash-after-nyc-police-sergeant-throws-cooler-at-his-head/motorcyclist-dies-in-crash-after-nyc-police-sergeant-throws-cooler-at-his-head.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
         <loc>https://majordigest.com/us/2023/08/27/pete-the-peacock-adored-by-neighborhood-fatally-shot-by-bow-and-arrow/</loc>
         <news:news>
           <news:publication>
@@ -448,34 +448,6 @@
         </news:news>
         <image:image>
           <image:loc>https://majordigest.com/us/2023/08/27/pete-the-peacock-adored-by-neighborhood-fatally-shot-by-bow-and-arrow/pete-the-peacock-adored-by-neighborhood-fatally-shot-by-bow-and-arrow.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/us/2023/08/26/jacksonville-dollar-general-shooting-multiple-people-killed/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-26T21:23:04.000Z</news:publication_date>
-          <news:title>Florida Dollar General shooting: 3 Black people killed by white man in hate crime</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/us/2023/08/26/jacksonville-dollar-general-shooting-multiple-people-killed/jacksonville-dollar-general-shooting-multiple-people-killed.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/us/2023/08/26/gop-presidential-candidate-vivek-ramaswamy-is-an-unaffiliated-voter-nbc-reports/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-26T20:33:41.000Z</news:publication_date>
-          <news:title>GOP presidential candidate Vivek Ramaswamy is an 'unaffiliated' voter, NBC reports</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/us/2023/08/26/gop-presidential-candidate-vivek-ramaswamy-is-an-unaffiliated-voter-nbc-reports/gop-presidential-candidate-vivek-ramaswamy-is-an-unaffiliated-voter-nbc-reports.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -493,17 +465,31 @@
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/us/2023/08/24/woman-in-tiktok-video-of-racist-outburst-at-california-mcdonalds-is-no-longer-employed/</loc>
+        <loc>https://majordigest.com/us/2023/08/25/biden-on-trump-mug-shot-handsome-guy/</loc>
         <news:news>
           <news:publication>
             <news:name>Major Digest</news:name>
             <news:language>en</news:language>
           </news:publication>
-          <news:publication_date>2023-08-24T17:41:16.000Z</news:publication_date>
-          <news:title>Woman in TikTok video of racist outburst at California McDonald's is no longer employed</news:title>
+          <news:publication_date>2023-08-25T23:31:18.000Z</news:publication_date>
+          <news:title>Biden on Trump mug shot: &#8216;Handsome guy&#8217;</news:title>
         </news:news>
         <image:image>
-          <image:loc>https://majordigest.com/us/2023/08/24/woman-in-tiktok-video-of-racist-outburst-at-california-mcdonalds-is-no-longer-employed/woman-in-tiktok-video-of-racist-outburst-at-california-mcdonalds-is-no-longer-employed.webp</image:loc>
+          <image:loc>https://majordigest.com/us/2023/08/25/biden-on-trump-mug-shot-handsome-guy/biden-on-trump-mug-shot-handsome-guy.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/us/2023/08/25/vice-chair-of-cpac-steps-down/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-25T23:09:30.000Z</news:publication_date>
+          <news:title>Vice chair of CPAC steps down&#160;</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/us/2023/08/25/vice-chair-of-cpac-steps-down/vice-chair-of-cpac-steps-down.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -518,5 +504,19 @@
         </news:news>
         <image:image>
           <image:loc>https://majordigest.com/us/2023/08/24/a-100-year-old-maui-home-is-still-standing-after-wildfires-devastated-every-other-house-in-the-area-why/a-100-year-old-maui-home-is-still-standing-after-wildfires-devastated-every-other-house-in-the-area-why.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/us/2023/08/24/study-links-childrens-screen-time-to-heart-damage-in-adulthood/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-24T16:11:14.000Z</news:publication_date>
+          <news:title>Study links children's screen time to heart damage in adulthood</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/us/2023/08/24/study-links-childrens-screen-time-to-heart-damage-in-adulthood/study-links-childrens-screen-time-to-heart-damage-in-adulthood.webp</image:loc>
         </image:image>
       </url></urlset>

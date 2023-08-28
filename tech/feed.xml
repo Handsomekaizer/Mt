@@ -7,7 +7,7 @@
         <title>Major Digest - Reliable and Comprehensive News Sources: tech</title>
         <description>Get the latest news online at Major Digest, the top online news resource for the most reliable news sources. Stay informed about the world around you!</description>
         <link>https://majordigest.com/?utm_medium=RSS</link>
-        <lastBuildDate>Mon, 28 Aug 2023 09:18:15 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 28 Aug 2023 10:20:11 GMT</lastBuildDate>
         <generator>https://majordigest.com/?v=1.1.4</generator>
         <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/" />
         <atom:link rel="self" href="https://majordigest.com/tech/feed.xml" type="application/rss+xml" />
@@ -18,6 +18,17 @@
           <url>https://majordigest.com/assets/icons/logo-512x512.png</url>
           <link>https://majordigest.com/?utm_medium=RSS</link>
         </image>
+      <item>
+        <title>How an AI 'gold rush' is reviving the tech industry</title>
+        <description><![CDATA[The recent surge in generative artificial intelligence (AI) technology is boosting the tech industry after growth slowed across the sector earlier this year.]]></description>
+        <guid>https://majordigest.com/tech/2023/08/28/how-an-ai-gold-rush-is-reviving-the-tech-industry/</guid>
+        <link>https://majordigest.com/tech/2023/08/28/how-an-ai-gold-rush-is-reviving-the-tech-industry/</link>
+        <pubDate>Mon, 28 Aug 2023 10:00:00 +0000</pubDate>
+        <category>tech</category>
+        <media:content medium="image" url="https://majordigest.com/tech/2023/08/28/how-an-ai-gold-rush-is-reviving-the-tech-industry/how-an-ai-gold-rush-is-reviving-the-tech-industry.webp"/>
+        <media:thumbnail url="https://majordigest.com/tech/2023/08/28/how-an-ai-gold-rush-is-reviving-the-tech-industry/how-an-ai-gold-rush-is-reviving-the-tech-industry.webp"/>
+        <dc:creator>Rebecca Klar, The Hill</dc:creator>
+      </item>
       <item>
         <title>How to make your devices impossible to snoop on with a privacy screen</title>
         <description><![CDATA[You may find yourself in a situation in which you are in public and a stranger is looking at your phone, Kurt &quot;CyberGuy&quot; Knutsson shows you the best privacy screen protectors.]]></description>
@@ -94,6 +105,17 @@
         <media:content medium="image" url="https://majordigest.com/tech/2023/08/26/how-stop-someone-tracking-you-your-phone/how-stop-someone-tracking-you-your-phone.webp"/>
         <media:thumbnail url="https://majordigest.com/tech/2023/08/26/how-stop-someone-tracking-you-your-phone/how-stop-someone-tracking-you-your-phone.webp"/>
         <dc:creator>Fox News</dc:creator>
+      </item>
+      <item>
+        <title>Much of Florida under state of emergency as possible tropical storm forms in Gulf of Mexico</title>
+        <description><![CDATA[Forecasters are warning of possible flash flooding and landslides across the eastern Yucatan peninsula and western Cuba, and Florida is bracing for a possible hurricane by midweek, as a weather system off the coast of Mexico is expected to become a tropical storm by Sunday.]]></description>
+        <guid>https://majordigest.com/tech/2023/08/26/much-of-florida-under-state-of-emergency-as-possible-tropical-storm-forms-in-gulf-of-mexico/</guid>
+        <link>https://majordigest.com/tech/2023/08/26/much-of-florida-under-state-of-emergency-as-possible-tropical-storm-forms-in-gulf-of-mexico/</link>
+        <pubDate>Sat, 26 Aug 2023 17:07:22 +0000</pubDate>
+        <category>tech</category>
+        <media:content medium="image" url="https://majordigest.com/tech/2023/08/26/much-of-florida-under-state-of-emergency-as-possible-tropical-storm-forms-in-gulf-of-mexico/much-of-florida-under-state-of-emergency-as-possible-tropical-storm-forms-in-gulf-of-mexico.webp"/>
+        <media:thumbnail url="https://majordigest.com/tech/2023/08/26/much-of-florida-under-state-of-emergency-as-possible-tropical-storm-forms-in-gulf-of-mexico/much-of-florida-under-state-of-emergency-as-possible-tropical-storm-forms-in-gulf-of-mexico.webp"/>
+        <dc:creator>Terry Spencer, Associated Press, KPRC 2</dc:creator>
       </item>
       <item>
         <title>Broadband subsidy program that millions use will expire next year if Congress doesn&#8217;t act</title>
@@ -184,17 +206,6 @@
         <dc:creator>Associated Press, The Mercury News</dc:creator>
       </item>
       <item>
-        <title>Elias: Contrary to some claims, California friendly to certain businesses</title>
-        <description><![CDATA[The state gives lots of benefits to companies, depending on their owners, operators and the industries they're in.]]></description>
-        <guid>https://majordigest.com/tech/2023/08/25/elias-contrary-to-some-claims-california-friendly-to-certain-businesses/</guid>
-        <link>https://majordigest.com/tech/2023/08/25/elias-contrary-to-some-claims-california-friendly-to-certain-businesses/</link>
-        <pubDate>Fri, 25 Aug 2023 12:00:31 +0000</pubDate>
-        <category>tech</category>
-        <media:content medium="image" url="https://majordigest.com/tech/2023/08/25/elias-contrary-to-some-claims-california-friendly-to-certain-businesses/elias-contrary-to-some-claims-california-friendly-to-certain-businesses.webp"/>
-        <media:thumbnail url="https://majordigest.com/tech/2023/08/25/elias-contrary-to-some-claims-california-friendly-to-certain-businesses/elias-contrary-to-some-claims-california-friendly-to-certain-businesses.webp"/>
-        <dc:creator>Thomas Elias, The Mercury News</dc:creator>
-      </item>
-      <item>
         <title>Los Angeles installing solar-powered EV charging stations</title>
         <description><![CDATA[One of the biggest reasons people don’t buy electric cars is because they’re worried about where they’ll charge them. One company has a unique answer with a solar charger that fits into a standard parking spot. San Diego based Beam Global has a solution for putting more chargers in more places.]]></description>
         <guid>https://majordigest.com/tech/2023/08/25/los-angeles-solar-ev-chargers-ev-arc-beam-global/</guid>
@@ -217,17 +228,6 @@
         <dc:creator>Brett Samuels, The Hill</dc:creator>
       </item>
       <item>
-        <title>T-Mobile to lay off 5,000 employees</title>
-        <description><![CDATA["What it takes to attract and retain customers is materially more expensive than it was just a few quarters ago," Sievert wrote.]]></description>
-        <guid>https://majordigest.com/tech/2023/08/25/t-mobile-lay-off-5000-employees/</guid>
-        <link>https://majordigest.com/tech/2023/08/25/t-mobile-lay-off-5000-employees/</link>
-        <pubDate>Fri, 25 Aug 2023 01:39:17 +0000</pubDate>
-        <category>tech</category>
-        <media:content medium="image" url="https://majordigest.com/tech/2023/08/25/t-mobile-lay-off-5000-employees/t-mobile-lay-off-5000-employees.webp"/>
-        <media:thumbnail url="https://majordigest.com/tech/2023/08/25/t-mobile-lay-off-5000-employees/t-mobile-lay-off-5000-employees.webp"/>
-        <dc:creator>The Associated Press, NewsNation</dc:creator>
-      </item>
-      <item>
         <title>Workers win raises at General Motors joint venture battery plant in Ohio as contract talks continue</title>
         <description><![CDATA[DETROIT (AP) — Unionized workers at a General Motors joint venture electric vehicle battery plant in Ohio will see pay raises while they continue to negotiate a contract, if they ratify an interim deal announced Thursday.]]></description>
         <guid>https://majordigest.com/tech/2023/08/25/workers-win-raises-at-general-motors-joint-venture-battery-plant-in-ohio-as-contract-talks-continue/</guid>
@@ -237,6 +237,17 @@
         <media:content medium="image" url="https://majordigest.com/tech/2023/08/25/workers-win-raises-at-general-motors-joint-venture-battery-plant-in-ohio-as-contract-talks-continue/workers-win-raises-at-general-motors-joint-venture-battery-plant-in-ohio-as-contract-talks-continue.webp"/>
         <media:thumbnail url="https://majordigest.com/tech/2023/08/25/workers-win-raises-at-general-motors-joint-venture-battery-plant-in-ohio-as-contract-talks-continue/workers-win-raises-at-general-motors-joint-venture-battery-plant-in-ohio-as-contract-talks-continue.webp"/>
         <dc:creator>AP, ABC 4</dc:creator>
+      </item>
+      <item>
+        <title>US sues SpaceX for alleged hiring discrimination against refugees and others</title>
+        <description><![CDATA[The U.S. Department of Justice has sued SpaceX, the rocket company founded and run by Elon Musk, for alleged hiring discrimination against refugees and people granted asylum.]]></description>
+        <guid>https://majordigest.com/tech/2023/08/24/us-sues-spacex-for-alleged-hiring-discrimination-against-refugees-and-others/</guid>
+        <link>https://majordigest.com/tech/2023/08/24/us-sues-spacex-for-alleged-hiring-discrimination-against-refugees-and-others/</link>
+        <pubDate>Thu, 24 Aug 2023 22:55:51 +0000</pubDate>
+        <category>tech</category>
+        <media:content medium="image" url="https://majordigest.com/tech/2023/08/24/us-sues-spacex-for-alleged-hiring-discrimination-against-refugees-and-others/us-sues-spacex-for-alleged-hiring-discrimination-against-refugees-and-others.webp"/>
+        <media:thumbnail url="https://majordigest.com/tech/2023/08/24/us-sues-spacex-for-alleged-hiring-discrimination-against-refugees-and-others/us-sues-spacex-for-alleged-hiring-discrimination-against-refugees-and-others.webp"/>
+        <dc:creator>Associated Press, Local 4</dc:creator>
       </item>
       <item>
         <title>DOJ sues SpaceX for allegedly not hiring asylees, refugees</title>
@@ -250,28 +261,6 @@
         <dc:creator>Andrew Dorn, NewsNation</dc:creator>
       </item>
       <item>
-        <title>Uber raises minimum age for most California drivers to 25, saying insurance costs are too high</title>
-        <description><![CDATA[SAN FRANCISCO (AP) — Uber raised the minimum age requirement for most of its new drivers in California to 25 on Thursday under rules the company said are necessary because of the rising costs of commercial auto insurance in the state.]]></description>
-        <guid>https://majordigest.com/tech/2023/08/24/uber-raises-minimum-age-for-most-california-drivers-to-25-saying-insurance-costs-are-too-high/</guid>
-        <link>https://majordigest.com/tech/2023/08/24/uber-raises-minimum-age-for-most-california-drivers-to-25-saying-insurance-costs-are-too-high/</link>
-        <pubDate>Thu, 24 Aug 2023 18:22:00 +0000</pubDate>
-        <category>tech</category>
-        <media:content medium="image" url="https://majordigest.com/tech/2023/08/24/uber-raises-minimum-age-for-most-california-drivers-to-25-saying-insurance-costs-are-too-high/uber-raises-minimum-age-for-most-california-drivers-to-25-saying-insurance-costs-are-too-high.webp"/>
-        <media:thumbnail url="https://majordigest.com/tech/2023/08/24/uber-raises-minimum-age-for-most-california-drivers-to-25-saying-insurance-costs-are-too-high/uber-raises-minimum-age-for-most-california-drivers-to-25-saying-insurance-costs-are-too-high.webp"/>
-        <dc:creator>AP, ABC 4</dc:creator>
-      </item>
-      <item>
-        <title>T-Mobile laying off 5,000 employees</title>
-        <description><![CDATA[T-Mobile plans to lay off close to 5,000 employees, about 7 percent of its workforce, by the end of September, the company’s president and CEO said in an email to employees Thursday.]]></description>
-        <guid>https://majordigest.com/tech/2023/08/24/t-mobile-laying-off-5000-employees/</guid>
-        <link>https://majordigest.com/tech/2023/08/24/t-mobile-laying-off-5000-employees/</link>
-        <pubDate>Thu, 24 Aug 2023 18:19:08 +0000</pubDate>
-        <category>tech</category>
-        <media:content medium="image" url="https://majordigest.com/tech/2023/08/24/t-mobile-laying-off-5000-employees/t-mobile-laying-off-5000-employees.webp"/>
-        <media:thumbnail url="https://majordigest.com/tech/2023/08/24/t-mobile-laying-off-5000-employees/t-mobile-laying-off-5000-employees.webp"/>
-        <dc:creator>Julia Shapero, The Hill</dc:creator>
-      </item>
-      <item>
         <title>T-Mobile will lay off 5,000 employees, or about 7% of its workforce, in the coming weeks</title>
         <description><![CDATA[NEW YORK (AP) — Wireless carrier T-Mobile said Thursday it plans to cut 5,000 jobs, or about 7% of its workforce.]]></description>
         <guid>https://majordigest.com/tech/2023/08/24/t-mobile-will-lay-off-5000-employees-or-about-7-of-its-workforce-in-the-coming-weeks/</guid>
@@ -281,6 +270,17 @@
         <media:content medium="image" url="https://majordigest.com/tech/2023/08/24/t-mobile-will-lay-off-5000-employees-or-about-7-of-its-workforce-in-the-coming-weeks/t-mobile-will-lay-off-5000-employees-or-about-7-of-its-workforce-in-the-coming-weeks.webp"/>
         <media:thumbnail url="https://majordigest.com/tech/2023/08/24/t-mobile-will-lay-off-5000-employees-or-about-7-of-its-workforce-in-the-coming-weeks/t-mobile-will-lay-off-5000-employees-or-about-7-of-its-workforce-in-the-coming-weeks.webp"/>
         <dc:creator>WYATTE GRANTHAM-PHILIPS, Associated Press, KRON4</dc:creator>
+      </item>
+      <item>
+        <title>Don't miss the deadline to claim a Facebook privacy settlement payment</title>
+        <description><![CDATA[Millions of Americans qualify – why put it off any longer? Here's what you need to know about getting your payment.]]></description>
+        <guid>https://majordigest.com/tech/2023/08/24/dont-miss-the-deadline-to-claim-a-facebook-privacy-settlement-payment/</guid>
+        <link>https://majordigest.com/tech/2023/08/24/dont-miss-the-deadline-to-claim-a-facebook-privacy-settlement-payment/</link>
+        <pubDate>Thu, 24 Aug 2023 16:31:26 +0000</pubDate>
+        <category>tech</category>
+        <media:content medium="image" url="https://majordigest.com/tech/2023/08/24/dont-miss-the-deadline-to-claim-a-facebook-privacy-settlement-payment/dont-miss-the-deadline-to-claim-a-facebook-privacy-settlement-payment.webp"/>
+        <media:thumbnail url="https://majordigest.com/tech/2023/08/24/dont-miss-the-deadline-to-claim-a-facebook-privacy-settlement-payment/dont-miss-the-deadline-to-claim-a-facebook-privacy-settlement-payment.webp"/>
+        <dc:creator>Alix Martichoux, NewsNation</dc:creator>
       </item>
       <item>
         <title>Kelly Blue Book survey shows consumer hesitation toward EVs</title>
@@ -349,17 +349,6 @@
         <dc:creator>The Associated Press, KRON4</dc:creator>
       </item>
       <item>
-        <title>IBM is selling The Weather Company assets to private equity firm Francisco Partners</title>
-        <description><![CDATA[NEW YORK (AP) — IBM is selling assets of The Weather Company — including Weather.com and The Weather Channel mobile app — to private equity firm Francisco Partners.]]></description>
-        <guid>https://majordigest.com/tech/2023/08/22/ibm-is-selling-the-weather-company-assets-to-private-equity-firm-francisco-partners/</guid>
-        <link>https://majordigest.com/tech/2023/08/22/ibm-is-selling-the-weather-company-assets-to-private-equity-firm-francisco-partners/</link>
-        <pubDate>Tue, 22 Aug 2023 17:36:52 +0000</pubDate>
-        <category>tech</category>
-        <media:content medium="image" url="https://majordigest.com/tech/2023/08/22/ibm-is-selling-the-weather-company-assets-to-private-equity-firm-francisco-partners/ibm-is-selling-the-weather-company-assets-to-private-equity-firm-francisco-partners.webp"/>
-        <media:thumbnail url="https://majordigest.com/tech/2023/08/22/ibm-is-selling-the-weather-company-assets-to-private-equity-firm-francisco-partners/ibm-is-selling-the-weather-company-assets-to-private-equity-firm-francisco-partners.webp"/>
-        <dc:creator>AP, KGET 17, NBC</dc:creator>
-      </item>
-      <item>
         <title>Mark Zuckerberg says a web version of Threads will be available in the next few days</title>
         <description><![CDATA[NEW YORK (AP) — Threads users, get happy – you will finally be able to use the social media platform without an app. Meta CEO Mark Zuckerberg said in a Threads post on Tuesday morning that a web version of the app will be rolling out over the next few days.]]></description>
         <guid>https://majordigest.com/tech/2023/08/22/mark-zuckerberg-says-a-web-version-of-threads-will-be-available-in-the-next-few-days/</guid>
@@ -391,6 +380,17 @@
         <media:content medium="image" url="https://majordigest.com/tech/2023/08/22/how-to-set-up-earthquake-alerts-on-your-phone/how-to-set-up-earthquake-alerts-on-your-phone.webp"/>
         <media:thumbnail url="https://majordigest.com/tech/2023/08/22/how-to-set-up-earthquake-alerts-on-your-phone/how-to-set-up-earthquake-alerts-on-your-phone.webp"/>
         <dc:creator>Rich DeMuro, KTLA 5</dc:creator>
+      </item>
+      <item>
+        <title>Iran unveils armed drone resembling America's MQ-9 Reaper and says it could potentially reach Israel</title>
+        <description><![CDATA[TEHRAN, Iran (AP) — Iran's Defense Ministry unveiled a drone on Tuesday resembling America's armed MQ-9 Reaper, claiming that the aircraft is capable of staying airborne for 24 hours and has the range to reach the country's archenemy Israel.]]></description>
+        <guid>https://majordigest.com/tech/2023/08/22/iran-unveils-armed-drone-resembling-americas-mq-9-reaper-and-says-it-could-potentially-reach-israel/</guid>
+        <link>https://majordigest.com/tech/2023/08/22/iran-unveils-armed-drone-resembling-americas-mq-9-reaper-and-says-it-could-potentially-reach-israel/</link>
+        <pubDate>Tue, 22 Aug 2023 10:53:22 +0000</pubDate>
+        <category>tech</category>
+        <media:content medium="image" url="https://majordigest.com/tech/2023/08/22/iran-unveils-armed-drone-resembling-americas-mq-9-reaper-and-says-it-could-potentially-reach-israel/iran-unveils-armed-drone-resembling-americas-mq-9-reaper-and-says-it-could-potentially-reach-israel.webp"/>
+        <media:thumbnail url="https://majordigest.com/tech/2023/08/22/iran-unveils-armed-drone-resembling-americas-mq-9-reaper-and-says-it-could-potentially-reach-israel/iran-unveils-armed-drone-resembling-americas-mq-9-reaper-and-says-it-could-potentially-reach-israel.webp"/>
+        <dc:creator>NASSER KARIMI and JON GAMBRELL, Associated Press, KGET 17, NBC</dc:creator>
       </item>
       <item>
         <title>Prime Minister Justin Trudeau slams Facebook for blocking Canada wildfire news</title>

@@ -3,6 +3,48 @@
               xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
               xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
       <url>
+        <loc>https://majordigest.com/world/2023/08/28/us-marines-hospitalized-deadly-aircraft-crash-australia/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-28T09:43:35.000Z</news:publication_date>
+          <news:title>8 US Marines remain hospitalized after deadly aircraft crash over Australia</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/world/2023/08/28/us-marines-hospitalized-deadly-aircraft-crash-australia/us-marines-hospitalized-deadly-aircraft-crash-australia.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/world/2023/08/28/libyas-foreign-minister-suspended-after-meeting-with-israels-chief-diplomat/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-28T08:04:25.000Z</news:publication_date>
+          <news:title>Libya&#8217;s foreign minister suspended after meeting with Israel&#8217;s chief diplomat</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/world/2023/08/28/libyas-foreign-minister-suspended-after-meeting-with-israels-chief-diplomat/libyas-foreign-minister-suspended-after-meeting-with-israels-chief-diplomat.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/world/2023/08/28/the-ukraine-war-propaganda-style-is-coming-to-russian-movie-screens-will-people-watch/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-28T04:50:47.000Z</news:publication_date>
+          <news:title>The Ukraine war, propaganda-style, is coming to Russian movie screens. Will people watch?</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/world/2023/08/28/the-ukraine-war-propaganda-style-is-coming-to-russian-movie-screens-will-people-watch/the-ukraine-war-propaganda-style-is-coming-to-russian-movie-screens-will-people-watch.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
         <loc>https://majordigest.com/world/2023/08/28/france-to-ban-islamic-dress-in-schools/</loc>
         <news:news>
           <news:publication>
@@ -28,20 +70,6 @@
         </news:news>
         <image:image>
           <image:loc>https://majordigest.com/world/2023/08/28/archaeologists-northern-peru-unearth-tomb-honor-priest/archaeologists-northern-peru-unearth-tomb-honor-priest.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/world/2023/08/28/greek-authorities-arrest-79-arsonist-scum-connection-devastating-wildfires/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-28T01:43:39.000Z</news:publication_date>
-          <news:title>Greek authorities arrest 79 &#8216;arsonist scum&#8217; in connection with devastating wildfires</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/world/2023/08/28/greek-authorities-arrest-79-arsonist-scum-connection-devastating-wildfires/greek-authorities-arrest-79-arsonist-scum-connection-devastating-wildfires.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -185,34 +213,6 @@
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/world/2023/08/27/us-military-aircraft-carrying-about-20-marines-crashes-over-australia-killing-3-injuring-others/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-27T06:50:34.000Z</news:publication_date>
-          <news:title>US military aircraft carrying more than 20 Marines crashes over Australia, killing 3 and injuring others</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/world/2023/08/27/us-military-aircraft-carrying-about-20-marines-crashes-over-australia-killing-3-injuring-others/us-military-aircraft-carrying-about-20-marines-crashes-over-australia-killing-3-injuring-others.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/world/2023/08/27/us-military-aircraft-carrying-about-20-marines-crashes-over-australia-killing-3-injuring-others/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-27T06:50:34.000Z</news:publication_date>
-          <news:title>US military aircraft carrying more than 20 Marines crashes over Australia, killing 3 and injuring others</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/world/2023/08/27/us-military-aircraft-carrying-about-20-marines-crashes-over-australia-killing-3-injuring-others/us-military-aircraft-carrying-about-20-marines-crashes-over-australia-killing-3-injuring-others.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
         <loc>https://majordigest.com/world/2023/08/27/with-drones-and-webcams-volunteer-hunters-join-new-search-for-mythical-loch-ness-monster/</loc>
         <news:news>
           <news:publication>
@@ -255,17 +255,17 @@
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/world/2023/08/26/biden-honors-service-members-killed-during-afghanistan-withdrawal/</loc>
+        <loc>https://majordigest.com/world/2023/08/26/mexico-99-9-certain-to-elect-first-female-president-expert-says/</loc>
         <news:news>
           <news:publication>
             <news:name>Major Digest</news:name>
             <news:language>en</news:language>
           </news:publication>
-          <news:publication_date>2023-08-26T22:03:42.000Z</news:publication_date>
-          <news:title>Biden honors service members killed during Afghanistan withdrawal</news:title>
+          <news:publication_date>2023-08-26T18:56:22.000Z</news:publication_date>
+          <news:title>Mexico '99.9% certain' to elect first female president, expert says</news:title>
         </news:news>
         <image:image>
-          <image:loc>https://majordigest.com/world/2023/08/26/biden-honors-service-members-killed-during-afghanistan-withdrawal/biden-honors-service-members-killed-during-afghanistan-withdrawal.webp</image:loc>
+          <image:loc>https://majordigest.com/world/2023/08/26/mexico-99-9-certain-to-elect-first-female-president-expert-says/mexico-99-9-certain-to-elect-first-female-president-expert-says.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -353,6 +353,20 @@
         </image:image>
       </url>
       <url>
+        <loc>https://majordigest.com/world/2023/08/26/with-drones-and-webcams-volunteer-hunters-join-a-new-search-for-the-mythical-loch-ness-monster/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-26T14:07:48.000Z</news:publication_date>
+          <news:title>With new tech, volunteers join a search for the Loch Ness Monster</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/world/2023/08/26/with-drones-and-webcams-volunteer-hunters-join-a-new-search-for-the-mythical-loch-ness-monster/with-drones-and-webcams-volunteer-hunters-join-a-new-search-for-the-mythical-loch-ness-monster.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
         <loc>https://majordigest.com/world/2023/08/25/indias-lunar-rover-keeps-walking-on-the-moon-days-after-spacecrafts-historic-touchdown/</loc>
         <news:news>
           <news:publication>
@@ -378,20 +392,6 @@
         </news:news>
         <image:image>
           <image:loc>https://majordigest.com/world/2023/08/25/from-tarantulas-to-tigers-zoo-animals-step-onto-scales-for-annual-weigh-in/from-tarantulas-to-tigers-zoo-animals-step-onto-scales-for-annual-weigh-in.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/world/2023/08/25/dutch-brewer-heineken-sells-its-russian-operations-for-1-euro-taking-a-300-million-euro-hit/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-25T08:07:09.000Z</news:publication_date>
-          <news:title>Dutch brewer Heineken sells its Russian operations for 1 euro, taking a 300-million-euro hit</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/world/2023/08/25/dutch-brewer-heineken-sells-its-russian-operations-for-1-euro-taking-a-300-million-euro-hit/dutch-brewer-heineken-sells-its-russian-operations-for-1-euro-taking-a-300-million-euro-hit.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -437,20 +437,6 @@
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/world/2023/08/24/putin-breaks-silence-on-plane-crash-that-presumably-killed-wagner-leaders/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-24T16:33:08.000Z</news:publication_date>
-          <news:title>Putin breaks silence on plane crash that presumably killed Wagner leaders</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/world/2023/08/24/putin-breaks-silence-on-plane-crash-that-presumably-killed-wagner-leaders/putin-breaks-silence-on-plane-crash-that-presumably-killed-wagner-leaders.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
         <loc>https://majordigest.com/world/2023/08/23/jet-crash-in-russia-kills-10-and-wagner-chief-was-on-passenger-list-officials-say/</loc>
         <news:news>
           <news:publication>
@@ -476,6 +462,20 @@
         </news:news>
         <image:image>
           <image:loc>https://majordigest.com/world/2023/08/23/jet-crash-in-russia-kills-10-and-wagner-chief-was-on-passenger-list-officials-say/jet-crash-in-russia-kills-10-and-wagner-chief-was-on-passenger-list-officials-say.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/world/2023/08/23/india-lands-a-spacecraft-near-the-moons-south-pole-a-first-for-the-world-as-it-joins-elite-club/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-23T15:40:35.000Z</news:publication_date>
+          <news:title>India lands a spacecraft near the moon's south pole, a first for the world as it joins elite club</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/world/2023/08/23/india-lands-a-spacecraft-near-the-moons-south-pole-a-first-for-the-world-as-it-joins-elite-club/india-lands-a-spacecraft-near-the-moons-south-pole-a-first-for-the-world-as-it-joins-elite-club.webp</image:loc>
         </image:image>
       </url>
       <url>
