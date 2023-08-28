@@ -3,6 +3,62 @@
               xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
               xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
       <url>
+        <loc>https://majordigest.com/world/2023/08/28/fukushima-wastewater-released-other-challenges-like-removing-melted-nuclear-fuel-remain/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-28T13:56:18.000Z</news:publication_date>
+          <news:title>Fukushima wastewater has been released, but other challenges, like removing melted nuclear fuel, remain</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/world/2023/08/28/fukushima-wastewater-released-other-challenges-like-removing-melted-nuclear-fuel-remain/fukushima-wastewater-released-other-challenges-like-removing-melted-nuclear-fuel-remain.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/world/2023/08/28/loch-ness-monster-hunters-converge-scotland-largest-nessie-search-decades/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-28T13:39:18.000Z</news:publication_date>
+          <news:title>Loch Ness monster hunters converge in Scotland for largest Nessie search in decades</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/world/2023/08/28/loch-ness-monster-hunters-converge-scotland-largest-nessie-search-decades/loch-ness-monster-hunters-converge-scotland-largest-nessie-search-decades.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/world/2023/08/28/china-drops-covid-testing-for-international-arrivals/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-28T13:24:21.000Z</news:publication_date>
+          <news:title>China drops COVID testing for international arrivals</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/world/2023/08/28/china-drops-covid-testing-for-international-arrivals/china-drops-covid-testing-for-international-arrivals.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/world/2023/08/28/moscow-accuses-russian-citizen-of-collecting-information-for-us-diplomats/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-28T12:47:50.000Z</news:publication_date>
+          <news:title>Moscow accuses Russian citizen of collecting information for US diplomats</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/world/2023/08/28/moscow-accuses-russian-citizen-of-collecting-information-for-us-diplomats/moscow-accuses-russian-citizen-of-collecting-information-for-us-diplomats.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
         <loc>https://majordigest.com/world/2023/08/28/moscow-accuses-russian-citizen-of-collecting-information-for-us-diplomats/</loc>
         <news:news>
           <news:publication>
@@ -59,31 +115,17 @@
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/world/2023/08/28/ukraine-war-takes-dramatic-turn-russian-soldiers-push-recapture-northeast-kharkiv-territory/</loc>
+        <loc>https://majordigest.com/world/2023/08/28/iran-summons-swiss-diplomat-over-us-seizure-of-iranian-crude-oil-thats-now-at-port-in-houston/</loc>
         <news:news>
           <news:publication>
             <news:name>Major Digest</news:name>
             <news:language>en</news:language>
           </news:publication>
-          <news:publication_date>2023-08-28T11:30:53.000Z</news:publication_date>
-          <news:title>Ukraine war takes dramatic turn as Russian soldiers push to recapture northeast Kharkiv territory</news:title>
+          <news:publication_date>2023-08-28T11:52:04.000Z</news:publication_date>
+          <news:title>Iran summons Swiss diplomat over US seizure of Iranian crude oil that's now at port in Houston</news:title>
         </news:news>
         <image:image>
-          <image:loc>https://majordigest.com/world/2023/08/28/ukraine-war-takes-dramatic-turn-russian-soldiers-push-recapture-northeast-kharkiv-territory/ukraine-war-takes-dramatic-turn-russian-soldiers-push-recapture-northeast-kharkiv-territory.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/world/2023/08/28/4-dead-18-rescued-greek-island-migrant-boat-sinks/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-28T11:29:11.000Z</news:publication_date>
-          <news:title>4 dead, 18 rescued off Greek island after migrant boat sinks</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/world/2023/08/28/4-dead-18-rescued-greek-island-migrant-boat-sinks/4-dead-18-rescued-greek-island-migrant-boat-sinks.webp</image:loc>
+          <image:loc>https://majordigest.com/world/2023/08/28/iran-summons-swiss-diplomat-over-us-seizure-of-iranian-crude-oil-thats-now-at-port-in-houston/iran-summons-swiss-diplomat-over-us-seizure-of-iranian-crude-oil-thats-now-at-port-in-houston.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -115,6 +157,34 @@
         </image:image>
       </url>
       <url>
+        <loc>https://majordigest.com/world/2023/08/28/at-japanese-nuclear-plant-controversial-treated-water-release-just-the-beginning-of-decommissioning/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-28T07:20:07.000Z</news:publication_date>
+          <news:title>Removing Fukushima's melted nuclear fuel will be harder than the release of plant's wastewater</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/world/2023/08/28/at-japanese-nuclear-plant-controversial-treated-water-release-just-the-beginning-of-decommissioning/at-japanese-nuclear-plant-controversial-treated-water-release-just-the-beginning-of-decommissioning.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/world/2023/08/28/illegal-logging-thrives-in-mexico-citys-forest-covered-boroughs-as-locals-strive-to-plant-trees/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-28T05:00:55.000Z</news:publication_date>
+          <news:title>Illegal logging thrives in Mexico City's forest-covered boroughs, as locals strive to plant trees</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/world/2023/08/28/illegal-logging-thrives-in-mexico-citys-forest-covered-boroughs-as-locals-strive-to-plant-trees/illegal-logging-thrives-in-mexico-citys-forest-covered-boroughs-as-locals-strive-to-plant-trees.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
         <loc>https://majordigest.com/world/2023/08/28/illegal-logging-thrives-in-mexico-citys-forest-covered-boroughs-as-locals-strive-to-plant-trees/</loc>
         <news:news>
           <news:publication>
@@ -140,20 +210,6 @@
         </news:news>
         <image:image>
           <image:loc>https://majordigest.com/world/2023/08/28/the-ukraine-war-propaganda-style-is-coming-to-russian-movie-screens-will-people-watch/the-ukraine-war-propaganda-style-is-coming-to-russian-movie-screens-will-people-watch.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/world/2023/08/28/france-to-ban-islamic-dress-in-schools/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-28T02:01:47.000Z</news:publication_date>
-          <news:title>France to ban Islamic dress in schools&#160;</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/world/2023/08/28/france-to-ban-islamic-dress-in-schools/france-to-ban-islamic-dress-in-schools.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -241,20 +297,6 @@
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/world/2023/08/27/wagner-boss-confirmed-dead-by-russian-officials/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-27T12:10:42.000Z</news:publication_date>
-          <news:title>Wagner boss confirmed dead by Russian officials</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/world/2023/08/27/wagner-boss-confirmed-dead-by-russian-officials/wagner-boss-confirmed-dead-by-russian-officials.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
         <loc>https://majordigest.com/world/2023/08/27/zimbabwes-opposition-alleges-gigantic-fraud-in-vote-that-extends-the-zanu-pf-partys-43-year-rule/</loc>
         <news:news>
           <news:publication>
@@ -325,20 +367,6 @@
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/world/2023/08/26/gershkovich-appeals-russian-extension-of-pretrial-detention/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-26T18:27:48.000Z</news:publication_date>
-          <news:title>Reporter Evan Gershkovich appeals Russia's extension of pretrial detention</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/world/2023/08/26/gershkovich-appeals-russian-extension-of-pretrial-detention/gershkovich-appeals-russian-extension-of-pretrial-detention.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
         <loc>https://majordigest.com/world/2023/08/26/wall-street-journal-reporter-evan-gershkovich-appeals-extension-of-pretrial-detention-in-russia/</loc>
         <news:news>
           <news:publication>
@@ -364,34 +392,6 @@
         </news:news>
         <image:image>
           <image:loc>https://majordigest.com/world/2023/08/26/a-crush-at-the-opening-ceremony-of-the-indian-ocean-island-games-in-madagascar-kills-at-least-12/a-crush-at-the-opening-ceremony-of-the-indian-ocean-island-games-in-madagascar-kills-at-least-12.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/world/2023/08/26/with-drones-and-webcams-volunteer-hunters-join-a-new-search-for-the-mythical-loch-ness-monster/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-26T14:07:48.000Z</news:publication_date>
-          <news:title>With new tech, volunteers join a search for the Loch Ness Monster</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/world/2023/08/26/with-drones-and-webcams-volunteer-hunters-join-a-new-search-for-the-mythical-loch-ness-monster/with-drones-and-webcams-volunteer-hunters-join-a-new-search-for-the-mythical-loch-ness-monster.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/world/2023/08/25/indias-lunar-rover-keeps-walking-on-the-moon-days-after-spacecrafts-historic-touchdown/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-25T15:30:36.000Z</news:publication_date>
-          <news:title>India's lunar rover keeps walking on the moon, days after spacecraft's historic touchdown</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/world/2023/08/25/indias-lunar-rover-keeps-walking-on-the-moon-days-after-spacecrafts-historic-touchdown/indias-lunar-rover-keeps-walking-on-the-moon-days-after-spacecrafts-historic-touchdown.webp</image:loc>
         </image:image>
       </url>
       <url>
