@@ -3,6 +3,20 @@
               xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
               xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
       <url>
+        <loc>https://majordigest.com/tech/2023/08/28/ex-goldman-trader-building-new-california-city-will-need-to-appease-local-opponents/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-28T17:01:07.000Z</news:publication_date>
+          <news:title>Ex-Goldman Trader building new Bay Area city will need to appease local opponents</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/tech/2023/08/28/ex-goldman-trader-building-new-california-city-will-need-to-appease-local-opponents/ex-goldman-trader-building-new-california-city-will-need-to-appease-local-opponents.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
         <loc>https://majordigest.com/tech/2023/08/28/how-paypal-is-using-ai-to-combat-fraud-and-make-it-easier-to-pay/</loc>
         <news:news>
           <news:publication>
@@ -143,20 +157,6 @@
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/tech/2023/08/26/good-old-fashioned-redlining-why-was-oakland-cut-out-of-state-plan-for-high-speed-internet/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-26T12:45:09.000Z</news:publication_date>
-          <news:title>&#8220;Good old-fashioned redlining&#8221;: Why was Oakland cut out of state plan for high-speed internet?</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/tech/2023/08/26/good-old-fashioned-redlining-why-was-oakland-cut-out-of-state-plan-for-high-speed-internet/good-old-fashioned-redlining-why-was-oakland-cut-out-of-state-plan-for-high-speed-internet.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
         <loc>https://majordigest.com/tech/2023/08/26/broadband-subsidy-program-that-millions-use-will-expire-next-year-if-congress-doesnt-act/</loc>
         <news:news>
           <news:publication>
@@ -227,20 +227,6 @@
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/tech/2023/08/25/gop-stumbles-in-suit-claiming-google-censors-donation-emails/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-25T17:31:47.000Z</news:publication_date>
-          <news:title>GOP stumbles in suit claiming Google censors donation emails</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/tech/2023/08/25/gop-stumbles-in-suit-claiming-google-censors-donation-emails/gop-stumbles-in-suit-claiming-google-censors-donation-emails.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
         <loc>https://majordigest.com/tech/2023/08/25/early-apple-computer-that-helped-launch-3t-company-sells-at-auction-for-223000/</loc>
         <news:news>
           <news:publication>
@@ -252,6 +238,20 @@
         </news:news>
         <image:image>
           <image:loc>https://majordigest.com/tech/2023/08/25/early-apple-computer-that-helped-launch-3t-company-sells-at-auction-for-223000/early-apple-computer-that-helped-launch-3t-company-sells-at-auction-for-223000.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/tech/2023/08/25/proposed-crypto-tax-rules-draw-ire-from-industry-groups/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-25T15:32:44.000Z</news:publication_date>
+          <news:title>Proposed crypto tax rules draw ire from industry groups</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/tech/2023/08/25/proposed-crypto-tax-rules-draw-ire-from-industry-groups/proposed-crypto-tax-rules-draw-ire-from-industry-groups.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -367,6 +367,20 @@
         </image:image>
       </url>
       <url>
+        <loc>https://majordigest.com/tech/2023/08/24/dont-miss-the-deadline-to-claim-a-facebook-privacy-settlement-payment/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-24T16:31:26.000Z</news:publication_date>
+          <news:title>Don't miss the deadline to claim a Facebook privacy settlement payment</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/tech/2023/08/24/dont-miss-the-deadline-to-claim-a-facebook-privacy-settlement-payment/dont-miss-the-deadline-to-claim-a-facebook-privacy-settlement-payment.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
         <loc>https://majordigest.com/tech/2023/08/24/the-fukushima-nuclear-plant-is-ready-to-release-radioactive-wastewater-into-sea-later-thursday/</loc>
         <news:news>
           <news:publication>
@@ -420,6 +434,20 @@
         </news:news>
         <image:image>
           <image:loc>https://majordigest.com/tech/2023/08/23/samsung-fold-5-versatile-but-with-compromises/samsung-fold-5-versatile-but-with-compromises.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/tech/2023/08/23/a-failed-lunar-mission-dents-russian-pride-and-reflects-deeper-problems-with-moscows-space-industry/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-23T00:47:08.000Z</news:publication_date>
+          <news:title>A failed lunar mission dents Russian pride and reflects deeper problems with Moscow's space industry</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/tech/2023/08/23/a-failed-lunar-mission-dents-russian-pride-and-reflects-deeper-problems-with-moscows-space-industry/a-failed-lunar-mission-dents-russian-pride-and-reflects-deeper-problems-with-moscows-space-industry.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -479,20 +507,6 @@
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/tech/2023/08/22/iran-unveils-armed-drone-resembling-americas-mq-9-reaper-and-says-it-could-potentially-reach-israel/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-22T10:53:22.000Z</news:publication_date>
-          <news:title>Iran unveils armed drone resembling America's MQ-9 Reaper and says it could potentially reach Israel</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/tech/2023/08/22/iran-unveils-armed-drone-resembling-americas-mq-9-reaper-and-says-it-could-potentially-reach-israel/iran-unveils-armed-drone-resembling-americas-mq-9-reaper-and-says-it-could-potentially-reach-israel.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
         <loc>https://majordigest.com/tech/2023/08/22/prime-minister-justin-trudeau-slams-facebook-for-blocking-canada-wildfire-news/</loc>
         <news:news>
           <news:publication>
@@ -504,19 +518,5 @@
         </news:news>
         <image:image>
           <image:loc>https://majordigest.com/tech/2023/08/22/prime-minister-justin-trudeau-slams-facebook-for-blocking-canada-wildfire-news/prime-minister-justin-trudeau-slams-facebook-for-blocking-canada-wildfire-news.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/tech/2023/08/21/charles-martinet-the-voice-of-nintendos-beloved-mario-character-steps-down/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-21T17:01:40.000Z</news:publication_date>
-          <news:title>Charles Martinet, the voice of Nintendo's beloved Mario character, steps down</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/tech/2023/08/21/charles-martinet-the-voice-of-nintendos-beloved-mario-character-steps-down/charles-martinet-the-voice-of-nintendos-beloved-mario-character-steps-down.webp</image:loc>
         </image:image>
       </url></urlset>
