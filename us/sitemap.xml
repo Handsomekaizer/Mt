@@ -3,6 +3,34 @@
               xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
               xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
       <url>
+        <loc>https://majordigest.com/us/2023/08/28/ap-jacksonville-killings-what-we-know-about-the-hate-crime/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-28T03:02:37.000Z</news:publication_date>
+          <news:title>Jacksonville killings: What we know about the hate crime</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/us/2023/08/28/ap-jacksonville-killings-what-we-know-about-the-hate-crime/ap-jacksonville-killings-what-we-know-about-the-hate-crime.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/us/2023/08/28/ap-forecasters-tropical-storm-idalia-forms-in-gulf-of-mexico/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-28T02:48:23.000Z</news:publication_date>
+          <news:title>Tropical Storm Idalia takes aim at Gulf of Mexico on a possible track toward the US, forecasters say</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/us/2023/08/28/ap-forecasters-tropical-storm-idalia-forms-in-gulf-of-mexico/ap-forecasters-tropical-storm-idalia-forms-in-gulf-of-mexico.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
         <loc>https://majordigest.com/us/2023/08/28/ap-at-japanese-nuclear-plant-controversial-treated-water-release-just-the-beginning-of-decommissioning/</loc>
         <news:news>
           <news:publication>
@@ -73,31 +101,31 @@
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/us/2023/08/28/ap-jacksonville-killings-what-we-know-about-the-hate-crime/</loc>
+        <loc>https://majordigest.com/us/2023/08/28/people-in-various-states-of-undress-cruise-philadelphia-streets-in-naked-bike-ride/</loc>
         <news:news>
           <news:publication>
             <news:name>Major Digest</news:name>
             <news:language>en</news:language>
           </news:publication>
-          <news:publication_date>2023-08-28T00:19:15.000Z</news:publication_date>
-          <news:title>Jacksonville killings: What we know about the hate crime</news:title>
+          <news:publication_date>2023-08-28T00:02:23.000Z</news:publication_date>
+          <news:title>People in various states of undress cruise Philadelphia streets in naked bike ride</news:title>
         </news:news>
         <image:image>
-          <image:loc>https://majordigest.com/us/2023/08/28/ap-jacksonville-killings-what-we-know-about-the-hate-crime/ap-jacksonville-killings-what-we-know-about-the-hate-crime.webp</image:loc>
+          <image:loc>https://majordigest.com/us/2023/08/28/people-in-various-states-of-undress-cruise-philadelphia-streets-in-naked-bike-ride/people-in-various-states-of-undress-cruise-philadelphia-streets-in-naked-bike-ride.webp</image:loc>
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/us/2023/08/28/at-least-1-killed-in-shooting-at-ohio-mall/</loc>
+        <loc>https://majordigest.com/us/2023/08/27/1-dead-in-shooting-at-ohio-mall-as-police-investigate-active-situation/</loc>
         <news:news>
           <news:publication>
             <news:name>Major Digest</news:name>
             <news:language>en</news:language>
           </news:publication>
-          <news:publication_date>2023-08-28T00:00:16.000Z</news:publication_date>
+          <news:publication_date>2023-08-27T23:51:43.000Z</news:publication_date>
           <news:title>At least 1 killed in shooting at Ohio mall</news:title>
         </news:news>
         <image:image>
-          <image:loc>https://majordigest.com/us/2023/08/28/at-least-1-killed-in-shooting-at-ohio-mall/at-least-1-killed-in-shooting-at-ohio-mall.webp</image:loc>
+          <image:loc>https://majordigest.com/us/2023/08/27/1-dead-in-shooting-at-ohio-mall-as-police-investigate-active-situation/1-dead-in-shooting-at-ohio-mall-as-police-investigate-active-situation.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -112,20 +140,6 @@
         </news:news>
         <image:image>
           <image:loc>https://majordigest.com/us/2023/08/27/san-francisco-restaurant-bans-armed-officers-police-union-responds/san-francisco-restaurant-bans-armed-officers-police-union-responds.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/us/2023/08/27/suspect-fully-conscious-drug-arrest-crack-cocaine-seat-state-police/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-27T23:11:36.000Z</news:publication_date>
-          <news:title>Suspect 'not fully conscious' during drug arrest, had crack cocaine on driver's seat: state police</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/us/2023/08/27/suspect-fully-conscious-drug-arrest-crack-cocaine-seat-state-police/suspect-fully-conscious-drug-arrest-crack-cocaine-seat-state-police.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -157,31 +171,31 @@
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/us/2023/08/27/parent-on-oklahoma-football-game-shooting/</loc>
+        <loc>https://majordigest.com/us/2023/08/27/ap-some-wildfire-evacuations-end-in-british-columbia-but-fire-threatens-community-farther-north/</loc>
         <news:news>
           <news:publication>
             <news:name>Major Digest</news:name>
             <news:language>en</news:language>
           </news:publication>
-          <news:publication_date>2023-08-27T22:47:52.000Z</news:publication_date>
-          <news:title>Okla. football game shooting 'going to change our culture': Parent</news:title>
+          <news:publication_date>2023-08-27T22:55:26.000Z</news:publication_date>
+          <news:title>Some wildfire evacuations end in British Columbia, but fire threatens community farther north</news:title>
         </news:news>
         <image:image>
-          <image:loc>https://majordigest.com/us/2023/08/27/parent-on-oklahoma-football-game-shooting/parent-on-oklahoma-football-game-shooting.webp</image:loc>
+          <image:loc>https://majordigest.com/us/2023/08/27/ap-some-wildfire-evacuations-end-in-british-columbia-but-fire-threatens-community-farther-north/ap-some-wildfire-evacuations-end-in-british-columbia-but-fire-threatens-community-farther-north.webp</image:loc>
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/us/2023/08/27/ap-riders-in-various-states-of-undress-cruise-philadelphia-streets-in-14th-naked-bike-ride/</loc>
+        <loc>https://majordigest.com/us/2023/08/27/less-sleep-less-exercise-and-less-relaxation-heres-the-data-on-just-how-much-parents-sacrifice-during-the-school-year/</loc>
         <news:news>
           <news:publication>
             <news:name>Major Digest</news:name>
             <news:language>en</news:language>
           </news:publication>
-          <news:publication_date>2023-08-27T21:08:09.000Z</news:publication_date>
-          <news:title>Riders in various states of undress cruise Philadelphia streets in 14th naked bike ride</news:title>
+          <news:publication_date>2023-08-27T20:54:48.000Z</news:publication_date>
+          <news:title>Less sleep, less exercise and less relaxation &#8211; here&#8217;s the data on just how much parents sacrifice during the school&#160;year</news:title>
         </news:news>
         <image:image>
-          <image:loc>https://majordigest.com/us/2023/08/27/ap-riders-in-various-states-of-undress-cruise-philadelphia-streets-in-14th-naked-bike-ride/ap-riders-in-various-states-of-undress-cruise-philadelphia-streets-in-14th-naked-bike-ride.webp</image:loc>
+          <image:loc>https://majordigest.com/us/2023/08/27/less-sleep-less-exercise-and-less-relaxation-heres-the-data-on-just-how-much-parents-sacrifice-during-the-school-year/less-sleep-less-exercise-and-less-relaxation-heres-the-data-on-just-how-much-parents-sacrifice-during-the-school-year.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -210,6 +224,20 @@
         </news:news>
         <image:image>
           <image:loc>https://majordigest.com/us/2023/08/27/ap-publicist-says-popular-game-show-host-bob-barker-has-died/ap-publicist-says-popular-game-show-host-bob-barker-has-died.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/us/2023/08/27/parents-worst-nightmare-south-dakota-boy-battling-rare-form-of-cancer/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-27T19:11:26.000Z</news:publication_date>
+          <news:title>'Parent's worst nightmare': South Dakota boy battling rare form of cancer</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/us/2023/08/27/parents-worst-nightmare-south-dakota-boy-battling-rare-form-of-cancer/parents-worst-nightmare-south-dakota-boy-battling-rare-form-of-cancer.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -297,17 +325,17 @@
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/us/2023/08/27/members-of-us-congress-make-a-rare-visit-to-opposition-held-northwest-syria/</loc>
+        <loc>https://majordigest.com/us/2023/08/27/tropical-storm-idalia-forms-in-the-gulf-of-mexico-on-a-possible-track-toward-the-us-forecasters-say/</loc>
         <news:news>
           <news:publication>
             <news:name>Major Digest</news:name>
             <news:language>en</news:language>
           </news:publication>
-          <news:publication_date>2023-08-27T15:29:22.000Z</news:publication_date>
-          <news:title>Members of US Congress make a rare visit to opposition-held northwest Syria</news:title>
+          <news:publication_date>2023-08-27T15:50:50.000Z</news:publication_date>
+          <news:title>Tropical Storm Idalia takes aim at Gulf of Mexico on a possible track toward the US, forecasters say</news:title>
         </news:news>
         <image:image>
-          <image:loc>https://majordigest.com/us/2023/08/27/members-of-us-congress-make-a-rare-visit-to-opposition-held-northwest-syria/members-of-us-congress-make-a-rare-visit-to-opposition-held-northwest-syria.webp</image:loc>
+          <image:loc>https://majordigest.com/us/2023/08/27/tropical-storm-idalia-forms-in-the-gulf-of-mexico-on-a-possible-track-toward-the-us-forecasters-say/tropical-storm-idalia-forms-in-the-gulf-of-mexico-on-a-possible-track-toward-the-us-forecasters-say.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -325,31 +353,17 @@
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/us/2023/08/27/3-us-marines-killed-20-injured-during-a-training-exercise-in-australia/</loc>
+        <loc>https://majordigest.com/us/2023/08/27/2024-republicans-want-to-eliminate-the-education-department-what-would-that-look-like/</loc>
         <news:news>
           <news:publication>
             <news:name>Major Digest</news:name>
             <news:language>en</news:language>
           </news:publication>
-          <news:publication_date>2023-08-27T13:05:22.000Z</news:publication_date>
-          <news:title>3 US Marines killed, 20 injured during a training exercise in Australia</news:title>
+          <news:publication_date>2023-08-27T13:11:57.000Z</news:publication_date>
+          <news:title>2024 Republicans want to eliminate the Education Department. What would that look like?</news:title>
         </news:news>
         <image:image>
-          <image:loc>https://majordigest.com/us/2023/08/27/3-us-marines-killed-20-injured-during-a-training-exercise-in-australia/3-us-marines-killed-20-injured-during-a-training-exercise-in-australia.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/us/2023/08/27/corn-sweat-and-why-its-heaping-on-the-humidity/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-27T13:01:54.000Z</news:publication_date>
-          <news:title>'Corn sweat' and why it's heaping on the humidity</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/us/2023/08/27/corn-sweat-and-why-its-heaping-on-the-humidity/corn-sweat-and-why-its-heaping-on-the-humidity.webp</image:loc>
+          <image:loc>https://majordigest.com/us/2023/08/27/2024-republicans-want-to-eliminate-the-education-department-what-would-that-look-like/2024-republicans-want-to-eliminate-the-education-department-what-would-that-look-like.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -409,6 +423,20 @@
         </image:image>
       </url>
       <url>
+        <loc>https://majordigest.com/us/2023/08/26/jacksonville-dollar-general-shooting-multiple-people-killed/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-26T21:23:04.000Z</news:publication_date>
+          <news:title>Florida Dollar General shooting: 3 Black people killed by white man in hate crime</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/us/2023/08/26/jacksonville-dollar-general-shooting-multiple-people-killed/jacksonville-dollar-general-shooting-multiple-people-killed.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
         <loc>https://majordigest.com/us/2023/08/26/gotta-steal-em-all-5500-worth-of-items-stolen-in-florida-pokemon-heist/</loc>
         <news:news>
           <news:publication>
@@ -420,34 +448,6 @@
         </news:news>
         <image:image>
           <image:loc>https://majordigest.com/us/2023/08/26/gotta-steal-em-all-5500-worth-of-items-stolen-in-florida-pokemon-heist/gotta-steal-em-all-5500-worth-of-items-stolen-in-florida-pokemon-heist.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/us/2023/08/26/gop-presidential-candidate-vivek-ramaswamy-is-an-unaffiliated-voter-nbc-reports/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-26T20:33:41.000Z</news:publication_date>
-          <news:title>GOP presidential candidate Vivek Ramaswamy is an 'unaffiliated' voter, NBC reports</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/us/2023/08/26/gop-presidential-candidate-vivek-ramaswamy-is-an-unaffiliated-voter-nbc-reports/gop-presidential-candidate-vivek-ramaswamy-is-an-unaffiliated-voter-nbc-reports.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/us/2023/08/26/green-day-releases-nimrod-shirt-with-trump-mugshot-to-raise-money-for-maui/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-26T01:01:33.000Z</news:publication_date>
-          <news:title>Green Day releases 'Nimrod' shirt with Trump mugshot to raise money for Maui</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/us/2023/08/26/green-day-releases-nimrod-shirt-with-trump-mugshot-to-raise-money-for-maui/green-day-releases-nimrod-shirt-with-trump-mugshot-to-raise-money-for-maui.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -479,6 +479,20 @@
         </image:image>
       </url>
       <url>
+        <loc>https://majordigest.com/us/2023/08/24/woman-in-tiktok-video-of-racist-outburst-at-california-mcdonalds-is-no-longer-employed/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-24T17:41:16.000Z</news:publication_date>
+          <news:title>Woman in TikTok video of racist outburst at California McDonald's is no longer employed</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/us/2023/08/24/woman-in-tiktok-video-of-racist-outburst-at-california-mcdonalds-is-no-longer-employed/woman-in-tiktok-video-of-racist-outburst-at-california-mcdonalds-is-no-longer-employed.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
         <loc>https://majordigest.com/us/2023/08/24/a-100-year-old-maui-home-is-still-standing-after-wildfires-devastated-every-other-house-in-the-area-why/</loc>
         <news:news>
           <news:publication>
@@ -490,20 +504,6 @@
         </news:news>
         <image:image>
           <image:loc>https://majordigest.com/us/2023/08/24/a-100-year-old-maui-home-is-still-standing-after-wildfires-devastated-every-other-house-in-the-area-why/a-100-year-old-maui-home-is-still-standing-after-wildfires-devastated-every-other-house-in-the-area-why.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/us/2023/08/24/national-cinema-day-major-theater-chains-offering-4-tickets-for-1-day-only/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-24T16:40:31.000Z</news:publication_date>
-          <news:title>National Cinema Day: Major theater chains offering $4 tickets for 1 day only</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/us/2023/08/24/national-cinema-day-major-theater-chains-offering-4-tickets-for-1-day-only/national-cinema-day-major-theater-chains-offering-4-tickets-for-1-day-only.webp</image:loc>
         </image:image>
       </url>
       <url>

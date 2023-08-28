@@ -3,6 +3,20 @@
               xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
               xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
       <url>
+        <loc>https://majordigest.com/tech/2023/08/27/how-make-devices-impossible-snoop-privacy-screen/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-27T18:59:48.000Z</news:publication_date>
+          <news:title>How to make your devices impossible to snoop on with a privacy screen</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/tech/2023/08/27/how-make-devices-impossible-snoop-privacy-screen/how-make-devices-impossible-snoop-privacy-screen.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
         <loc>https://majordigest.com/tech/2023/08/27/takeaways-from-aps-investigation-into-sexual-harassment-and-assault-at-antarcticas-mcmurdo-station/</loc>
         <news:news>
           <news:publication>
@@ -14,6 +28,20 @@
         </news:news>
         <image:image>
           <image:loc>https://majordigest.com/tech/2023/08/27/takeaways-from-aps-investigation-into-sexual-harassment-and-assault-at-antarcticas-mcmurdo-station/takeaways-from-aps-investigation-into-sexual-harassment-and-assault-at-antarcticas-mcmurdo-station.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/tech/2023/08/27/at-fukushima-daiichi-decommissioning-the-nuclear-plant-is-far-more-challenging-than-water-release/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-27T02:47:08.000Z</news:publication_date>
+          <news:title>At Fukushima Daiichi, decommissioning the nuclear plant is far more challenging than water release</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/tech/2023/08/27/at-fukushima-daiichi-decommissioning-the-nuclear-plant-is-far-more-challenging-than-water-release/at-fukushima-daiichi-decommissioning-the-nuclear-plant-is-far-more-challenging-than-water-release.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -87,6 +115,20 @@
         </image:image>
       </url>
       <url>
+        <loc>https://majordigest.com/tech/2023/08/26/broadband-subsidy-program-that-millions-use-will-expire-next-year-if-congress-doesnt-act/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-26T12:17:33.000Z</news:publication_date>
+          <news:title>Broadband subsidy program that millions use will expire next year if Congress doesn&#8217;t act</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/tech/2023/08/26/broadband-subsidy-program-that-millions-use-will-expire-next-year-if-congress-doesnt-act/broadband-subsidy-program-that-millions-use-will-expire-next-year-if-congress-doesnt-act.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
         <loc>https://majordigest.com/tech/2023/08/26/a-broad-genetic-test-saved-one-newborns-life-research-suggests-it-could-help-millions-of-others/</loc>
         <news:news>
           <news:publication>
@@ -143,6 +185,20 @@
         </image:image>
       </url>
       <url>
+        <loc>https://majordigest.com/tech/2023/08/25/ap-early-apple-computer-that-helped-launch-3t-company-sells-at-auction-for-223000/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-25T17:04:31.000Z</news:publication_date>
+          <news:title>Early Apple computer that helped launch $3T company sells at auction for $223,000</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/tech/2023/08/25/ap-early-apple-computer-that-helped-launch-3t-company-sells-at-auction-for-223000/ap-early-apple-computer-that-helped-launch-3t-company-sells-at-auction-for-223000.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
         <loc>https://majordigest.com/tech/2023/08/25/early-apple-computer-that-helped-launch-3t-company-sells-at-auction-for-223000/</loc>
         <news:news>
           <news:publication>
@@ -182,20 +238,6 @@
         </news:news>
         <image:image>
           <image:loc>https://majordigest.com/tech/2023/08/25/indias-lunar-rover-keeps-walking-on-the-moon-days-after-spacecrafts-historic-touchdown/indias-lunar-rover-keeps-walking-on-the-moon-days-after-spacecrafts-historic-touchdown.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/tech/2023/08/25/doj-sues-spacex-alleging-it-discriminated-against-refugees-asylum-seekers/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-25T14:06:52.000Z</news:publication_date>
-          <news:title>DOJ sues SpaceX, alleging it discriminated against refugees, asylum seekers</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/tech/2023/08/25/doj-sues-spacex-alleging-it-discriminated-against-refugees-asylum-seekers/doj-sues-spacex-alleging-it-discriminated-against-refugees-asylum-seekers.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -255,17 +297,17 @@
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/tech/2023/08/24/us-sues-spacex-for-alleged-hiring-discrimination-against-refugees-and-others/</loc>
+        <loc>https://majordigest.com/tech/2023/08/25/ap-workers-win-raises-at-general-motors-joint-venture-battery-plant-in-ohio-as-contract-talks-continue/</loc>
         <news:news>
           <news:publication>
             <news:name>Major Digest</news:name>
             <news:language>en</news:language>
           </news:publication>
-          <news:publication_date>2023-08-24T22:55:51.000Z</news:publication_date>
-          <news:title>US sues SpaceX for alleged hiring discrimination against refugees and others</news:title>
+          <news:publication_date>2023-08-25T00:12:09.000Z</news:publication_date>
+          <news:title>Workers win raises at General Motors joint venture battery plant in Ohio as contract talks continue</news:title>
         </news:news>
         <image:image>
-          <image:loc>https://majordigest.com/tech/2023/08/24/us-sues-spacex-for-alleged-hiring-discrimination-against-refugees-and-others/us-sues-spacex-for-alleged-hiring-discrimination-against-refugees-and-others.webp</image:loc>
+          <image:loc>https://majordigest.com/tech/2023/08/25/ap-workers-win-raises-at-general-motors-joint-venture-battery-plant-in-ohio-as-contract-talks-continue/ap-workers-win-raises-at-general-motors-joint-venture-battery-plant-in-ohio-as-contract-talks-continue.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -308,20 +350,6 @@
         </news:news>
         <image:image>
           <image:loc>https://majordigest.com/tech/2023/08/24/t-mobile-laying-off-5000-employees/t-mobile-laying-off-5000-employees.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/tech/2023/08/24/ap-t-mobile-will-lay-off-5000-employees-or-about-7-of-its-workforce-in-the-coming-weeks/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-24T17:25:01.000Z</news:publication_date>
-          <news:title>T-Mobile will lay off 5,000 employees, or about 7% of its workforce, in the coming weeks</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/tech/2023/08/24/ap-t-mobile-will-lay-off-5000-employees-or-about-7-of-its-workforce-in-the-coming-weeks/ap-t-mobile-will-lay-off-5000-employees-or-about-7-of-its-workforce-in-the-coming-weeks.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -395,20 +423,6 @@
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/tech/2023/08/22/ap-ibm-is-selling-the-weather-company-assets-to-private-equity-firm-francisco-partners/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-22T17:36:52.000Z</news:publication_date>
-          <news:title>IBM is selling The Weather Company assets to private equity firm Francisco Partners</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/tech/2023/08/22/ap-ibm-is-selling-the-weather-company-assets-to-private-equity-firm-francisco-partners/ap-ibm-is-selling-the-weather-company-assets-to-private-equity-firm-francisco-partners.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
         <loc>https://majordigest.com/tech/2023/08/22/ap-mark-zuckerberg-says-a-web-version-of-threads-will-be-available-in-the-next-few-days/</loc>
         <news:news>
           <news:publication>
@@ -434,20 +448,6 @@
         </news:news>
         <image:image>
           <image:loc>https://majordigest.com/tech/2023/08/22/ap-microsoft-revamps-deal-for-video-game-maker-activision-blizzard-to-meet-uk-demands/ap-microsoft-revamps-deal-for-video-game-maker-activision-blizzard-to-meet-uk-demands.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/tech/2023/08/22/how-to-set-up-earthquake-alerts-on-your-phone/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-22T11:57:59.000Z</news:publication_date>
-          <news:title>How to set up earthquake alerts on your phone</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/tech/2023/08/22/how-to-set-up-earthquake-alerts-on-your-phone/how-to-set-up-earthquake-alerts-on-your-phone.webp</image:loc>
         </image:image>
       </url>
       <url>
