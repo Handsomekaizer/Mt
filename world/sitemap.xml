@@ -3,6 +3,48 @@
               xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
               xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
       <url>
+        <loc>https://majordigest.com/world/2023/08/28/moscow-accuses-russian-citizen-of-collecting-information-for-us-diplomats/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-28T12:47:50.000Z</news:publication_date>
+          <news:title>Moscow accuses Russian citizen of collecting information for US diplomats</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/world/2023/08/28/moscow-accuses-russian-citizen-of-collecting-information-for-us-diplomats/moscow-accuses-russian-citizen-of-collecting-information-for-us-diplomats.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/world/2023/08/28/clashes-between-us-backed-groups-syria-leave-3-dead-raise-tensions-area-occupied-american-troops/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-28T12:39:04.000Z</news:publication_date>
+          <news:title>Clashes between US-backed groups in Syria leave 3 dead, raise tensions in area occupied by American troops</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/world/2023/08/28/clashes-between-us-backed-groups-syria-leave-3-dead-raise-tensions-area-occupied-american-troops/clashes-between-us-backed-groups-syria-leave-3-dead-raise-tensions-area-occupied-american-troops.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/world/2023/08/28/supreme-court-justice-seen-trading-friendship-bracelets-taylor-swift-concert-mexico-city/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-28T12:37:20.000Z</news:publication_date>
+          <news:title>WATCH: Supreme Court justice seen trading friendship bracelets at Taylor Swift concert in Mexico City</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/world/2023/08/28/supreme-court-justice-seen-trading-friendship-bracelets-taylor-swift-concert-mexico-city/supreme-court-justice-seen-trading-friendship-bracelets-taylor-swift-concert-mexico-city.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
         <loc>https://majordigest.com/world/2023/08/28/austria-police-finds-small-truck-crammed-53-migrants-including-children/</loc>
         <news:news>
           <news:publication>
@@ -45,20 +87,6 @@
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/world/2023/08/28/2-masked-gunmen-copenhagen-open-fire-building-killin-man-injuring-4-others/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-28T11:16:28.000Z</news:publication_date>
-          <news:title>2 masked gunmen in Copenhagen open fire inside building, killing a man and injuring 4 others</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/world/2023/08/28/2-masked-gunmen-copenhagen-open-fire-building-killin-man-injuring-4-others/2-masked-gunmen-copenhagen-open-fire-building-killin-man-injuring-4-others.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
         <loc>https://majordigest.com/world/2023/08/28/china-wont-require-covid-19-testing-for-incoming-travelers-starting-wednesday/</loc>
         <news:news>
           <news:publication>
@@ -70,48 +98,6 @@
         </news:news>
         <image:image>
           <image:loc>https://majordigest.com/world/2023/08/28/china-wont-require-covid-19-testing-for-incoming-travelers-starting-wednesday/china-wont-require-covid-19-testing-for-incoming-travelers-starting-wednesday.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/world/2023/08/28/china-will-no-longer-require-negative-covid-19-test-for-incoming-travelers/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-28T10:56:58.000Z</news:publication_date>
-          <news:title>China will no longer require negative COVID-19 test for incoming travelers</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/world/2023/08/28/china-will-no-longer-require-negative-covid-19-test-for-incoming-travelers/china-will-no-longer-require-negative-covid-19-test-for-incoming-travelers.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/world/2023/08/28/china-will-no-longer-require-negative-covid-19-test-for-incoming-travelers/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-28T10:56:58.000Z</news:publication_date>
-          <news:title>China will no longer require negative COVID-19 test for incoming travelers</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/world/2023/08/28/china-will-no-longer-require-negative-covid-19-test-for-incoming-travelers/china-will-no-longer-require-negative-covid-19-test-for-incoming-travelers.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/world/2023/08/28/at-japanese-nuclear-plant-controversial-treated-water-release-just-the-beginning-of-decommissioning/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-28T07:20:07.000Z</news:publication_date>
-          <news:title>Removing Fukushima's melted nuclear fuel will be harder than the release of plant's wastewater</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/world/2023/08/28/at-japanese-nuclear-plant-controversial-treated-water-release-just-the-beginning-of-decommissioning/at-japanese-nuclear-plant-controversial-treated-water-release-just-the-beginning-of-decommissioning.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -154,6 +140,20 @@
         </news:news>
         <image:image>
           <image:loc>https://majordigest.com/world/2023/08/28/the-ukraine-war-propaganda-style-is-coming-to-russian-movie-screens-will-people-watch/the-ukraine-war-propaganda-style-is-coming-to-russian-movie-screens-will-people-watch.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/world/2023/08/28/france-to-ban-islamic-dress-in-schools/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-28T02:01:47.000Z</news:publication_date>
+          <news:title>France to ban Islamic dress in schools&#160;</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/world/2023/08/28/france-to-ban-islamic-dress-in-schools/france-to-ban-islamic-dress-in-schools.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -224,6 +224,20 @@
         </news:news>
         <image:image>
           <image:loc>https://majordigest.com/world/2023/08/27/ukraine-investigates-incident-that-killed-3-pilots-while-russia-attacks-with-cruise-missiles/ukraine-investigates-incident-that-killed-3-pilots-while-russia-attacks-with-cruise-missiles.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/world/2023/08/27/wagner-boss-confirmed-dead-by-russian-officials/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-27T12:10:42.000Z</news:publication_date>
+          <news:title>Wagner boss confirmed dead by Russian officials</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/world/2023/08/27/wagner-boss-confirmed-dead-by-russian-officials/wagner-boss-confirmed-dead-by-russian-officials.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -325,20 +339,6 @@
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/world/2023/08/26/spacex-nasa-launch-international-crew-to-space-station-a-united-team-with-a-common-mission/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-26T17:46:38.000Z</news:publication_date>
-          <news:title>SpaceX, NASA launch international crew to space station: 'A united team with a common mission'</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/world/2023/08/26/spacex-nasa-launch-international-crew-to-space-station-a-united-team-with-a-common-mission/spacex-nasa-launch-international-crew-to-space-station-a-united-team-with-a-common-mission.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
         <loc>https://majordigest.com/world/2023/08/26/wall-street-journal-reporter-evan-gershkovich-appeals-extension-of-pretrial-detention-in-russia/</loc>
         <news:news>
           <news:publication>
@@ -378,6 +378,20 @@
         </news:news>
         <image:image>
           <image:loc>https://majordigest.com/world/2023/08/26/with-drones-and-webcams-volunteer-hunters-join-a-new-search-for-the-mythical-loch-ness-monster/with-drones-and-webcams-volunteer-hunters-join-a-new-search-for-the-mythical-loch-ness-monster.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/world/2023/08/25/indias-lunar-rover-keeps-walking-on-the-moon-days-after-spacecrafts-historic-touchdown/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-25T15:30:36.000Z</news:publication_date>
+          <news:title>India's lunar rover keeps walking on the moon, days after spacecraft's historic touchdown</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/world/2023/08/25/indias-lunar-rover-keeps-walking-on-the-moon-days-after-spacecrafts-historic-touchdown/indias-lunar-rover-keeps-walking-on-the-moon-days-after-spacecrafts-historic-touchdown.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -448,20 +462,6 @@
         </news:news>
         <image:image>
           <image:loc>https://majordigest.com/world/2023/08/24/putin-breaks-silence-on-plane-crash-that-presumably-killed-wagner-leaders/putin-breaks-silence-on-plane-crash-that-presumably-killed-wagner-leaders.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/world/2023/08/23/jet-crash-in-russia-kills-10-and-wagner-chief-was-on-passenger-list-officials-say/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-23T17:38:57.000Z</news:publication_date>
-          <news:title>Jet crash in Russia kills 10 and Wagner chief was on passenger list, officials say</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/world/2023/08/23/jet-crash-in-russia-kills-10-and-wagner-chief-was-on-passenger-list-officials-say/jet-crash-in-russia-kills-10-and-wagner-chief-was-on-passenger-list-officials-say.webp</image:loc>
         </image:image>
       </url>
       <url>
