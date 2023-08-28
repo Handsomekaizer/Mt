@@ -3,6 +3,34 @@
               xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
               xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
       <url>
+        <loc>https://majordigest.com/politics/2023/08/28/house-gop-memo-mccarthy-congress-spending-fight/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-28T20:00:59.000Z</news:publication_date>
+          <news:title>Internal House GOP memo paints red lines for McCarthy in Congress' spending fight</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/politics/2023/08/28/house-gop-memo-mccarthy-congress-spending-fight/house-gop-memo-mccarthy-congress-spending-fight.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/politics/2023/08/28/dot-fines-american-airlines-tarmac-delays/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-28T19:31:05.000Z</news:publication_date>
+          <news:title>DOT levies largest-ever penalty against American Airlines for tarmac delays</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/politics/2023/08/28/dot-fines-american-airlines-tarmac-delays/dot-fines-american-airlines-tarmac-delays.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
         <loc>https://majordigest.com/politics/2023/08/28/desantis-directs-1m-secure-historically-black-college-100k-families-jacksonville-shooting-victims/</loc>
         <news:news>
           <news:publication>
@@ -14,6 +42,20 @@
         </news:news>
         <image:image>
           <image:loc>https://majordigest.com/politics/2023/08/28/desantis-directs-1m-secure-historically-black-college-100k-families-jacksonville-shooting-victims/desantis-directs-1m-secure-historically-black-college-100k-families-jacksonville-shooting-victims.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/politics/2023/08/28/white-house-suggests-desantis-education-bill-contributes-racial-violence-dont-think-stretch/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-28T19:01:31.000Z</news:publication_date>
+          <news:title>White House suggests DeSantis education reform may contribute to racial violence: 'Don't think it's a stretch'</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/politics/2023/08/28/white-house-suggests-desantis-education-bill-contributes-racial-violence-dont-think-stretch/white-house-suggests-desantis-education-bill-contributes-racial-violence-dont-think-stretch.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -42,20 +84,6 @@
         </news:news>
         <image:image>
           <image:loc>https://majordigest.com/politics/2023/08/28/mark-meadows-taking-stand-in-georgia-hearing-reports/mark-meadows-taking-stand-in-georgia-hearing-reports.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/politics/2023/08/28/joe-the-plumber-obama/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-28T18:31:45.000Z</news:publication_date>
-          <news:title>Joe the Plumber, who questioned Obama's tax policies during the 2008 campaign, has died at 49</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/politics/2023/08/28/joe-the-plumber-obama/joe-the-plumber-obama.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -101,31 +129,31 @@
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/politics/2023/08/28/biden-approves-federal-disaster-emergency-florida-calls-desantis-storm-jacksonville-shooting/</loc>
+        <loc>https://majordigest.com/politics/2023/08/28/trump-lawyers-back-in-dc-court-as-two-sides-differ-over-trial-date-in-election-subversion-case/</loc>
         <news:news>
           <news:publication>
             <news:name>Major Digest</news:name>
             <news:language>en</news:language>
           </news:publication>
-          <news:publication_date>2023-08-28T17:53:11.000Z</news:publication_date>
-          <news:title>Biden approves federal disaster emergency for Florida, calls DeSantis regarding storm, Jacksonville shooting</news:title>
+          <news:publication_date>2023-08-28T17:58:08.000Z</news:publication_date>
+          <news:title>Trump trial set for March 4, 2024, in federal case charging him with plotting to overturn election</news:title>
         </news:news>
         <image:image>
-          <image:loc>https://majordigest.com/politics/2023/08/28/biden-approves-federal-disaster-emergency-florida-calls-desantis-storm-jacksonville-shooting/biden-approves-federal-disaster-emergency-florida-calls-desantis-storm-jacksonville-shooting.webp</image:loc>
+          <image:loc>https://majordigest.com/politics/2023/08/28/trump-lawyers-back-in-dc-court-as-two-sides-differ-over-trial-date-in-election-subversion-case/trump-lawyers-back-in-dc-court-as-two-sides-differ-over-trial-date-in-election-subversion-case.webp</image:loc>
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/politics/2023/08/28/biden-and-harris-will-meet-with-kings-family-on-60th-anniversary-of-the-march-on-washington/</loc>
+        <loc>https://majordigest.com/politics/2023/08/28/joe-the-plumber-who-questioned-obamas-tax-policies-during-the-2008-campaign-has-died-at-49/</loc>
         <news:news>
           <news:publication>
             <news:name>Major Digest</news:name>
             <news:language>en</news:language>
           </news:publication>
-          <news:publication_date>2023-08-28T17:45:27.000Z</news:publication_date>
-          <news:title>Biden and Harris will meet with King's family on 60th anniversary of the March on Washington</news:title>
+          <news:publication_date>2023-08-28T17:42:12.000Z</news:publication_date>
+          <news:title>Joe the Plumber, who questioned Obama's tax policies during the 2008 campaign, has died at 49</news:title>
         </news:news>
         <image:image>
-          <image:loc>https://majordigest.com/politics/2023/08/28/biden-and-harris-will-meet-with-kings-family-on-60th-anniversary-of-the-march-on-washington/biden-and-harris-will-meet-with-kings-family-on-60th-anniversary-of-the-march-on-washington.webp</image:loc>
+          <image:loc>https://majordigest.com/politics/2023/08/28/joe-the-plumber-who-questioned-obamas-tax-policies-during-the-2008-campaign-has-died-at-49/joe-the-plumber-who-questioned-obamas-tax-policies-during-the-2008-campaign-has-died-at-49.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -185,6 +213,20 @@
         </image:image>
       </url>
       <url>
+        <loc>https://majordigest.com/politics/2023/08/28/trump-trial-date-election-subversion-2020/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-28T15:28:48.000Z</news:publication_date>
+          <news:title>Trump&#8217;s federal trial for subverting election is scheduled for March</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/politics/2023/08/28/trump-trial-date-election-subversion-2020/trump-trial-date-election-subversion-2020.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
         <loc>https://majordigest.com/politics/2023/08/28/biden-administration-new-york-migrant-influx/</loc>
         <news:news>
           <news:publication>
@@ -199,31 +241,17 @@
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/politics/2023/08/28/republicans-gas-prices-oil-production/</loc>
+        <loc>https://majordigest.com/politics/2023/08/28/shooting-storm-give-desantis-a-chance-to-govern-on-national-stage/</loc>
         <news:news>
           <news:publication>
             <news:name>Major Digest</news:name>
             <news:language>en</news:language>
           </news:publication>
-          <news:publication_date>2023-08-28T08:30:00.000Z</news:publication_date>
-          <news:title>The U.S. is pumping oil faster than ever. Republicans don't care.</news:title>
+          <news:publication_date>2023-08-28T15:21:46.000Z</news:publication_date>
+          <news:title>Shooting, storm give DeSantis a chance to govern on national stage</news:title>
         </news:news>
         <image:image>
-          <image:loc>https://majordigest.com/politics/2023/08/28/republicans-gas-prices-oil-production/republicans-gas-prices-oil-production.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/politics/2023/08/28/dana-bash-spars-with-ramaswamy-over-race-remarks/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-28T00:52:22.000Z</news:publication_date>
-          <news:title>Dana Bash spars with Vivek Ramaswamy over race remarks</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/politics/2023/08/28/dana-bash-spars-with-ramaswamy-over-race-remarks/dana-bash-spars-with-ramaswamy-over-race-remarks.webp</image:loc>
+          <image:loc>https://majordigest.com/politics/2023/08/28/shooting-storm-give-desantis-a-chance-to-govern-on-national-stage/shooting-storm-give-desantis-a-chance-to-govern-on-national-stage.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -252,6 +280,20 @@
         </news:news>
         <image:image>
           <image:loc>https://majordigest.com/politics/2023/08/27/us-congress-members-make-a-rare-visit-to-opposition-held-northwest-syria/us-congress-members-make-a-rare-visit-to-opposition-held-northwest-syria.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/politics/2023/08/27/2024-republicans-want-to-eliminate-the-education-department-what-would-that-look-like/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-27T14:02:15.000Z</news:publication_date>
+          <news:title>2024 Republicans want to eliminate the Education Department. What would that look like?</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/politics/2023/08/27/2024-republicans-want-to-eliminate-the-education-department-what-would-that-look-like/2024-republicans-want-to-eliminate-the-education-department-what-would-that-look-like.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -353,6 +395,20 @@
         </image:image>
       </url>
       <url>
+        <loc>https://majordigest.com/politics/2023/08/25/encinitas-tackles-homelessness-issues-looks-at-possible-camping-ban/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-25T02:12:23.000Z</news:publication_date>
+          <news:title>Encinitas tackles homelessness issues, looks at possible camping ban</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/politics/2023/08/25/encinitas-tackles-homelessness-issues-looks-at-possible-camping-ban/encinitas-tackles-homelessness-issues-looks-at-possible-camping-ban.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
         <loc>https://majordigest.com/politics/2023/08/24/does-the-georgia-case-pose-greatest-threat-to-former-president-trump/</loc>
         <news:news>
           <news:publication>
@@ -378,20 +434,6 @@
         </news:news>
         <image:image>
           <image:loc>https://majordigest.com/politics/2023/08/24/apple-backs-californias-right-to-repair-bill-in-major-policy-shift/apple-backs-californias-right-to-repair-bill-in-major-policy-shift.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/politics/2023/08/24/covid-19-cases-rise-cdc-recommends-updated-vaccine/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-24T20:37:19.000Z</news:publication_date>
-          <news:title>COVID-19 cases rise, CDC recommends updated vaccine</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/politics/2023/08/24/covid-19-cases-rise-cdc-recommends-updated-vaccine/covid-19-cases-rise-cdc-recommends-updated-vaccine.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -476,47 +518,5 @@
         </news:news>
         <image:image>
           <image:loc>https://majordigest.com/politics/2023/08/23/who-takes-advantage-of-donald-trumps-absence-and-other-things-to-watch-in-the-republican-debate/who-takes-advantage-of-donald-trumps-absence-and-other-things-to-watch-in-the-republican-debate.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/politics/2023/08/23/rudy-giuliani-surrenders-on-georgia-charges-alleging-an-illegal-plot-to-subvert-2020-election-jail-records-show/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-23T19:26:31.000Z</news:publication_date>
-          <news:title>Rudy Giuliani surrenders on Georgia charges alleging an illegal plot to subvert 2020 election, jail records show</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/politics/2023/08/23/rudy-giuliani-surrenders-on-georgia-charges-alleging-an-illegal-plot-to-subvert-2020-election-jail-records-show/rudy-giuliani-surrenders-on-georgia-charges-alleging-an-illegal-plot-to-subvert-2020-election-jail-records-show.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/politics/2023/08/21/biden-campaign-launches-25m-ad-buy-in-battleground-states-including-nevada/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-21T19:47:58.000Z</news:publication_date>
-          <news:title>Biden campaign launches $25M ad buy in battleground states, including Nevada</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/politics/2023/08/21/biden-campaign-launches-25m-ad-buy-in-battleground-states-including-nevada/biden-campaign-launches-25m-ad-buy-in-battleground-states-including-nevada.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/politics/2023/08/21/assemblywoman-heidi-kasama-joins-republican-challengers-for-lees-seat-in-congress/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-21T19:16:18.000Z</news:publication_date>
-          <news:title>Assemblywoman Heidi Kasama joins Republican challengers for Lee's seat in Congress</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/politics/2023/08/21/assemblywoman-heidi-kasama-joins-republican-challengers-for-lees-seat-in-congress/assemblywoman-heidi-kasama-joins-republican-challengers-for-lees-seat-in-congress.webp</image:loc>
         </image:image>
       </url></urlset>

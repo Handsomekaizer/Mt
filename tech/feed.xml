@@ -7,7 +7,7 @@
         <title>Major Digest - Reliable and Comprehensive News Sources: tech</title>
         <description>Get the latest news online at Major Digest, the top online news resource for the most reliable news sources. Stay informed about the world around you!</description>
         <link>https://majordigest.com/?utm_medium=RSS</link>
-        <lastBuildDate>Mon, 28 Aug 2023 19:15:30 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 28 Aug 2023 20:20:33 GMT</lastBuildDate>
         <generator>https://majordigest.com/?v=1.1.4</generator>
         <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/" />
         <atom:link rel="self" href="https://majordigest.com/tech/feed.xml" type="application/rss+xml" />
@@ -19,6 +19,17 @@
           <link>https://majordigest.com/?utm_medium=RSS</link>
         </image>
       <item>
+        <title>Beware of this Mac malware masquerading as an office productivity app</title>
+        <description><![CDATA[Malware is always lurking around the corner. Kurt &quot;CyberGuy&quot; Knutsson explains how this malware is disguised and what you can do to keep your data safe.]]></description>
+        <guid>https://majordigest.com/tech/2023/08/28/beware-mac-malware-masquerading-office-productivity-app/</guid>
+        <link>https://majordigest.com/tech/2023/08/28/beware-mac-malware-masquerading-office-productivity-app/</link>
+        <pubDate>Mon, 28 Aug 2023 15:28:35 EDT</pubDate>
+        <category>tech</category>
+        <media:content medium="image" url="https://majordigest.com/tech/2023/08/28/beware-mac-malware-masquerading-office-productivity-app/beware-mac-malware-masquerading-office-productivity-app.webp"/>
+        <media:thumbnail url="https://majordigest.com/tech/2023/08/28/beware-mac-malware-masquerading-office-productivity-app/beware-mac-malware-masquerading-office-productivity-app.webp"/>
+        <dc:creator>Fox News</dc:creator>
+      </item>
+      <item>
         <title>How to maximize screen space on your desktop and laptop to be more productive</title>
         <description><![CDATA[Sometimes computer screens can be so cluttered with icons and multiple windows open. Kurt &quot;CyberGuy&quot; Knutsson shows you how to maximize your screen space.]]></description>
         <guid>https://majordigest.com/tech/2023/08/28/maximize-screen-space-desktop-laptop-productive/</guid>
@@ -28,6 +39,17 @@
         <media:content medium="image" url="https://majordigest.com/tech/2023/08/28/maximize-screen-space-desktop-laptop-productive/maximize-screen-space-desktop-laptop-productive.webp"/>
         <media:thumbnail url="https://majordigest.com/tech/2023/08/28/maximize-screen-space-desktop-laptop-productive/maximize-screen-space-desktop-laptop-productive.webp"/>
         <dc:creator>Fox News</dc:creator>
+      </item>
+      <item>
+        <title>Ex-Goldman Trader building new Bay Area city will need to appease local opponents</title>
+        <description><![CDATA[The mystery surrounding a project to convert farmland into a new green city in the Bay Area is finally being unraveled. The would-be “mega-city” is the brainchild of a novice developer backed by some of Silicon Valley’s most prominent names.]]></description>
+        <guid>https://majordigest.com/tech/2023/08/28/ex-goldman-trader-building-new-california-city-will-need-to-appease-local-opponents/</guid>
+        <link>https://majordigest.com/tech/2023/08/28/ex-goldman-trader-building-new-california-city-will-need-to-appease-local-opponents/</link>
+        <pubDate>Mon, 28 Aug 2023 17:01:07 +0000</pubDate>
+        <category>tech</category>
+        <media:content medium="image" url="https://majordigest.com/tech/2023/08/28/ex-goldman-trader-building-new-california-city-will-need-to-appease-local-opponents/ex-goldman-trader-building-new-california-city-will-need-to-appease-local-opponents.webp"/>
+        <media:thumbnail url="https://majordigest.com/tech/2023/08/28/ex-goldman-trader-building-new-california-city-will-need-to-appease-local-opponents/ex-goldman-trader-building-new-california-city-will-need-to-appease-local-opponents.webp"/>
+        <dc:creator>Bloomberg, The Mercury News</dc:creator>
       </item>
       <item>
         <title>Google makes it easier to remove personal info</title>
@@ -250,6 +272,17 @@
         <dc:creator>AP, ABC 4</dc:creator>
       </item>
       <item>
+        <title>US sues SpaceX for alleged hiring discrimination against refugees and others</title>
+        <description><![CDATA[The U.S. Department of Justice has sued SpaceX, the rocket company founded and run by Elon Musk, for alleged hiring discrimination against refugees and people granted asylum.]]></description>
+        <guid>https://majordigest.com/tech/2023/08/24/us-sues-spacex-for-alleged-hiring-discrimination-against-refugees-and-others/</guid>
+        <link>https://majordigest.com/tech/2023/08/24/us-sues-spacex-for-alleged-hiring-discrimination-against-refugees-and-others/</link>
+        <pubDate>Thu, 24 Aug 2023 22:55:51 +0000</pubDate>
+        <category>tech</category>
+        <media:content medium="image" url="https://majordigest.com/tech/2023/08/24/us-sues-spacex-for-alleged-hiring-discrimination-against-refugees-and-others/us-sues-spacex-for-alleged-hiring-discrimination-against-refugees-and-others.webp"/>
+        <media:thumbnail url="https://majordigest.com/tech/2023/08/24/us-sues-spacex-for-alleged-hiring-discrimination-against-refugees-and-others/us-sues-spacex-for-alleged-hiring-discrimination-against-refugees-and-others.webp"/>
+        <dc:creator>Associated Press, Local 4</dc:creator>
+      </item>
+      <item>
         <title>DOJ sues SpaceX for allegedly not hiring asylees, refugees</title>
         <description><![CDATA[The DOJ says SpaceX violated federal law when it "wrongly claimed" the company could only hire U.S. citizens and lawful permanent residents.]]></description>
         <guid>https://majordigest.com/tech/2023/08/24/doj-sues-spacex-asylees/</guid>
@@ -303,17 +336,6 @@
         <media:content medium="image" url="https://majordigest.com/tech/2023/08/24/kelly-blue-book-survey-shows-consumer-hesitation-toward-evs/kelly-blue-book-survey-shows-consumer-hesitation-toward-evs.webp"/>
         <media:thumbnail url="https://majordigest.com/tech/2023/08/24/kelly-blue-book-survey-shows-consumer-hesitation-toward-evs/kelly-blue-book-survey-shows-consumer-hesitation-toward-evs.webp"/>
         <dc:creator>Alexandra Limon, NewsNation</dc:creator>
-      </item>
-      <item>
-        <title>China bans seafood from Japan after the Fukushima nuclear plant begins its wastewater release</title>
-        <description><![CDATA[Japan’s tsunami-wrecked nuclear power plant in Fukushima is releasing its first batch of treated radioactive water into the Pacific Ocean.]]></description>
-        <guid>https://majordigest.com/tech/2023/08/24/the-fukushima-nuclear-plant-is-ready-to-release-radioactive-wastewater-into-sea-later-thursday/</guid>
-        <link>https://majordigest.com/tech/2023/08/24/the-fukushima-nuclear-plant-is-ready-to-release-radioactive-wastewater-into-sea-later-thursday/</link>
-        <pubDate>Thu, 24 Aug 2023 01:56:41 +0000</pubDate>
-        <category>tech</category>
-        <media:content medium="image" url="https://majordigest.com/tech/2023/08/24/the-fukushima-nuclear-plant-is-ready-to-release-radioactive-wastewater-into-sea-later-thursday/the-fukushima-nuclear-plant-is-ready-to-release-radioactive-wastewater-into-sea-later-thursday.webp"/>
-        <media:thumbnail url="https://majordigest.com/tech/2023/08/24/the-fukushima-nuclear-plant-is-ready-to-release-radioactive-wastewater-into-sea-later-thursday/the-fukushima-nuclear-plant-is-ready-to-release-radioactive-wastewater-into-sea-later-thursday.webp"/>
-        <dc:creator>Mari Yamaguchi, Associated Press, Local 4</dc:creator>
       </item>
       <item>
         <title>John Warnock, who helped invent the PDF and co-founded Adobe Systems, dies at age 82</title>
@@ -393,17 +415,6 @@
         <dc:creator>KELVIN CHAN, Associated Press, KGET 17, NBC</dc:creator>
       </item>
       <item>
-        <title>How to set up earthquake alerts on your phone</title>
-        <description><![CDATA[Did you get an earthquake alert on your phone Sunday? There are several ways to make sure they're delivered to your smartphone. Here's how. First off, there are two types of earthquake alerts: early warning alerts and notifications that an earthquake just happened.]]></description>
-        <guid>https://majordigest.com/tech/2023/08/22/how-to-set-up-earthquake-alerts-on-your-phone/</guid>
-        <link>https://majordigest.com/tech/2023/08/22/how-to-set-up-earthquake-alerts-on-your-phone/</link>
-        <pubDate>Tue, 22 Aug 2023 11:57:59 +0000</pubDate>
-        <category>tech</category>
-        <media:content medium="image" url="https://majordigest.com/tech/2023/08/22/how-to-set-up-earthquake-alerts-on-your-phone/how-to-set-up-earthquake-alerts-on-your-phone.webp"/>
-        <media:thumbnail url="https://majordigest.com/tech/2023/08/22/how-to-set-up-earthquake-alerts-on-your-phone/how-to-set-up-earthquake-alerts-on-your-phone.webp"/>
-        <dc:creator>Rich DeMuro, KTLA 5</dc:creator>
-      </item>
-      <item>
         <title>Iran unveils armed drone resembling America's MQ-9 Reaper and says it could potentially reach Israel</title>
         <description><![CDATA[TEHRAN, Iran (AP) — Iran's Defense Ministry unveiled a drone on Tuesday resembling America's armed MQ-9 Reaper, claiming that the aircraft is capable of staying airborne for 24 hours and has the range to reach the country's archenemy Israel.]]></description>
         <guid>https://majordigest.com/tech/2023/08/22/iran-unveils-armed-drone-resembling-americas-mq-9-reaper-and-says-it-could-potentially-reach-israel/</guid>
@@ -413,15 +424,4 @@
         <media:content medium="image" url="https://majordigest.com/tech/2023/08/22/iran-unveils-armed-drone-resembling-americas-mq-9-reaper-and-says-it-could-potentially-reach-israel/iran-unveils-armed-drone-resembling-americas-mq-9-reaper-and-says-it-could-potentially-reach-israel.webp"/>
         <media:thumbnail url="https://majordigest.com/tech/2023/08/22/iran-unveils-armed-drone-resembling-americas-mq-9-reaper-and-says-it-could-potentially-reach-israel/iran-unveils-armed-drone-resembling-americas-mq-9-reaper-and-says-it-could-potentially-reach-israel.webp"/>
         <dc:creator>NASSER KARIMI and JON GAMBRELL, Associated Press, KGET 17, NBC</dc:creator>
-      </item>
-      <item>
-        <title>Prime Minister Justin Trudeau slams Facebook for blocking Canada wildfire news</title>
-        <description><![CDATA[TORONTO (AP) — Canadian Prime Minister Justin Trudeau on Monday accused Facebook of putting profits over people’s safety during the emergencies created by Canada’s record wildfire season.]]></description>
-        <guid>https://majordigest.com/tech/2023/08/22/prime-minister-justin-trudeau-slams-facebook-for-blocking-canada-wildfire-news/</guid>
-        <link>https://majordigest.com/tech/2023/08/22/prime-minister-justin-trudeau-slams-facebook-for-blocking-canada-wildfire-news/</link>
-        <pubDate>Tue, 22 Aug 2023 03:43:51 +0000</pubDate>
-        <category>tech</category>
-        <media:content medium="image" url="https://majordigest.com/tech/2023/08/22/prime-minister-justin-trudeau-slams-facebook-for-blocking-canada-wildfire-news/prime-minister-justin-trudeau-slams-facebook-for-blocking-canada-wildfire-news.webp"/>
-        <media:thumbnail url="https://majordigest.com/tech/2023/08/22/prime-minister-justin-trudeau-slams-facebook-for-blocking-canada-wildfire-news/prime-minister-justin-trudeau-slams-facebook-for-blocking-canada-wildfire-news.webp"/>
-        <dc:creator>ROB GILLIES, Associated Press, KLAS, CBS News</dc:creator>
       </item></channel></rss>
