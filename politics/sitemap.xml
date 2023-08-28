@@ -3,6 +3,20 @@
               xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
               xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
       <url>
+        <loc>https://majordigest.com/politics/2023/08/28/judge-to-hear-arguments-on-mark-meadows-request-to-move-georgia-election-case-to-federal-court/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-28T04:06:23.000Z</news:publication_date>
+          <news:title>Judge to hear arguments on Mark Meadows' request to move Georgia election case to federal court</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/politics/2023/08/28/judge-to-hear-arguments-on-mark-meadows-request-to-move-georgia-election-case-to-federal-court/judge-to-hear-arguments-on-mark-meadows-request-to-move-georgia-election-case-to-federal-court.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
         <loc>https://majordigest.com/politics/2023/08/28/desantis-leaves-campaign-trail-and-returns-to-florida-facing-tropical-storm-and-shooting-aftermath/</loc>
         <news:news>
           <news:publication>
@@ -59,20 +73,6 @@
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/politics/2023/08/27/house-republicans-barrel-toward-biden-impeachment-inquiry-but-some-hesitate/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-27T21:28:01.000Z</news:publication_date>
-          <news:title>House Republicans barrel toward Biden impeachment inquiry &#8212; but some hesitate</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/politics/2023/08/27/house-republicans-barrel-toward-biden-impeachment-inquiry-but-some-hesitate/house-republicans-barrel-toward-biden-impeachment-inquiry-but-some-hesitate.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
         <loc>https://majordigest.com/politics/2023/08/27/desantis-pauses-campaigning-as-florida-faces-duel-crises/</loc>
         <news:news>
           <news:publication>
@@ -98,20 +98,6 @@
         </news:news>
         <image:image>
           <image:loc>https://majordigest.com/politics/2023/08/27/trump-campaign-reports-raising-more-than-7-million-after-georgia-booking/trump-campaign-reports-raising-more-than-7-million-after-georgia-booking.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/politics/2023/08/27/us-congress-members-make-a-rare-visit-to-opposition-held-northwest-syria/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-27T19:24:33.000Z</news:publication_date>
-          <news:title>Members of US Congress make a rare visit to opposition-held northwest Syria</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/politics/2023/08/27/us-congress-members-make-a-rare-visit-to-opposition-held-northwest-syria/us-congress-members-make-a-rare-visit-to-opposition-held-northwest-syria.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -143,17 +129,17 @@
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/politics/2023/08/27/mike-pence-debate-support-jan6/</loc>
+        <loc>https://majordigest.com/politics/2023/08/27/biden-campaign-trump-policies-richmond/</loc>
         <news:news>
           <news:publication>
             <news:name>Major Digest</news:name>
             <news:language>en</news:language>
           </news:publication>
-          <news:publication_date>2023-08-27T16:00:00.000Z</news:publication_date>
-          <news:title>Support from fellow GOP candidates over Jan. 6 was &#8216;heartening,&#8217; Pence says</news:title>
+          <news:publication_date>2023-08-27T15:12:45.000Z</news:publication_date>
+          <news:title>Biden campaign: It might not be Trump, but it&#8217;ll still be his policies in the general election</news:title>
         </news:news>
         <image:image>
-          <image:loc>https://majordigest.com/politics/2023/08/27/mike-pence-debate-support-jan6/mike-pence-debate-support-jan6.webp</image:loc>
+          <image:loc>https://majordigest.com/politics/2023/08/27/biden-campaign-trump-policies-richmond/biden-campaign-trump-policies-richmond.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -182,6 +168,20 @@
         </news:news>
         <image:image>
           <image:loc>https://majordigest.com/politics/2023/08/27/ramaswamy-pressley-modern-kkk/ramaswamy-pressley-modern-kkk.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/politics/2023/08/27/npr-minnesota-felon-voting-rights-restoration/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-27T09:00:00.000Z</news:publication_date>
+          <news:title>Minnesota returns voting power to thousands. The question is whether they'll use it</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/politics/2023/08/27/npr-minnesota-felon-voting-rights-restoration/npr-minnesota-felon-voting-rights-restoration.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -227,6 +227,20 @@
         </image:image>
       </url>
       <url>
+        <loc>https://majordigest.com/politics/2023/08/26/new-mexico-suspend-drivers-licenses-fines/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-26T10:30:00.000Z</news:publication_date>
+          <news:title>New Mexico will no longer suspend drivers licenses for fines</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/politics/2023/08/26/new-mexico-suspend-drivers-licenses-fines/new-mexico-suspend-drivers-licenses-fines.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
         <loc>https://majordigest.com/politics/2023/08/26/ramaswamy-curiosity-skepticism-iowa-gop-debate/</loc>
         <news:news>
           <news:publication>
@@ -238,20 +252,6 @@
         </news:news>
         <image:image>
           <image:loc>https://majordigest.com/politics/2023/08/26/ramaswamy-curiosity-skepticism-iowa-gop-debate/ramaswamy-curiosity-skepticism-iowa-gop-debate.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/politics/2023/08/25/st-paul-conservative-legal-scholar-says-constitution-bars-trump-from-being-president/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-25T20:30:00.000Z</news:publication_date>
-          <news:title>MN legal scholar: Constitution bars Trump presidency</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/politics/2023/08/25/st-paul-conservative-legal-scholar-says-constitution-bars-trump-from-being-president/st-paul-conservative-legal-scholar-says-constitution-bars-trump-from-being-president.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -269,17 +269,31 @@
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/politics/2023/08/25/texans-asked-to-conserve-energy-for-a-third-time-this-week/</loc>
+        <loc>https://majordigest.com/politics/2023/08/25/carlos-santana-issues-apology-for-anti-trans-remarks-on-stage/</loc>
         <news:news>
           <news:publication>
             <news:name>Major Digest</news:name>
             <news:language>en</news:language>
           </news:publication>
-          <news:publication_date>2023-08-25T18:06:40.000Z</news:publication_date>
-          <news:title>Texas asked residents to conserve power for four consecutive days amid intense heat</news:title>
+          <news:publication_date>2023-08-25T15:43:31.000Z</news:publication_date>
+          <news:title>Carlos Santana issues apology for anti-trans remarks on stage</news:title>
         </news:news>
         <image:image>
-          <image:loc>https://majordigest.com/politics/2023/08/25/texans-asked-to-conserve-energy-for-a-third-time-this-week/texans-asked-to-conserve-energy-for-a-third-time-this-week.webp</image:loc>
+          <image:loc>https://majordigest.com/politics/2023/08/25/carlos-santana-issues-apology-for-anti-trans-remarks-on-stage/carlos-santana-issues-apology-for-anti-trans-remarks-on-stage.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/politics/2023/08/25/trump-recounts-terrible-experience-of-being-booked-in-georgia/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-25T12:58:40.000Z</news:publication_date>
+          <news:title>Trump recounts 'terrible experience' of being booked in Georgia</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/politics/2023/08/25/trump-recounts-terrible-experience-of-being-booked-in-georgia/trump-recounts-terrible-experience-of-being-booked-in-georgia.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -297,17 +311,17 @@
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/politics/2023/08/25/encinitas-tackles-homelessness-issues-looks-at-possible-camping-ban/</loc>
+        <loc>https://majordigest.com/politics/2023/08/24/does-the-georgia-case-pose-greatest-threat-to-former-president-trump/</loc>
         <news:news>
           <news:publication>
             <news:name>Major Digest</news:name>
             <news:language>en</news:language>
           </news:publication>
-          <news:publication_date>2023-08-25T02:12:23.000Z</news:publication_date>
-          <news:title>Encinitas tackles homelessness issues, looks at possible camping ban</news:title>
+          <news:publication_date>2023-08-24T23:38:30.000Z</news:publication_date>
+          <news:title>Does the Georgia case pose greatest threat to former President Trump?</news:title>
         </news:news>
         <image:image>
-          <image:loc>https://majordigest.com/politics/2023/08/25/encinitas-tackles-homelessness-issues-looks-at-possible-camping-ban/encinitas-tackles-homelessness-issues-looks-at-possible-camping-ban.webp</image:loc>
+          <image:loc>https://majordigest.com/politics/2023/08/24/does-the-georgia-case-pose-greatest-threat-to-former-president-trump/does-the-georgia-case-pose-greatest-threat-to-former-president-trump.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -350,20 +364,6 @@
         </news:news>
         <image:image>
           <image:loc>https://majordigest.com/politics/2023/08/24/covid-19-cases-rise-cdc-recommends-updated-vaccine/covid-19-cases-rise-cdc-recommends-updated-vaccine.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/politics/2023/08/24/us-postal-service-to-unveil-stamp-honoring-ruth-bader-ginsburg/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-24T20:05:53.000Z</news:publication_date>
-          <news:title>US Postal Service to unveil stamp honoring Ruth Bader Ginsburg</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/politics/2023/08/24/us-postal-service-to-unveil-stamp-honoring-ruth-bader-ginsburg/us-postal-service-to-unveil-stamp-honoring-ruth-bader-ginsburg.webp</image:loc>
         </image:image>
       </url>
       <url>
