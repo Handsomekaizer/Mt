@@ -3,6 +3,76 @@
               xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
               xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
       <url>
+        <loc>https://majordigest.com/world/2023/08/28/austria-police-finds-small-truck-crammed-53-migrants-including-children/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-28T12:25:03.000Z</news:publication_date>
+          <news:title>Austria police finds small truck crammed with 53 migrants, including children</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/world/2023/08/28/austria-police-finds-small-truck-crammed-53-migrants-including-children/austria-police-finds-small-truck-crammed-53-migrants-including-children.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/world/2023/08/28/ukraine-war-takes-dramatic-turn-russian-soldiers-push-recapture-northeast-kharkiv-territory/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-28T11:30:53.000Z</news:publication_date>
+          <news:title>Ukraine war takes dramatic turn as Russian soldiers push to recapture northeast Kharkiv territory</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/world/2023/08/28/ukraine-war-takes-dramatic-turn-russian-soldiers-push-recapture-northeast-kharkiv-territory/ukraine-war-takes-dramatic-turn-russian-soldiers-push-recapture-northeast-kharkiv-territory.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/world/2023/08/28/4-dead-18-rescued-greek-island-migrant-boat-sinks/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-28T11:29:11.000Z</news:publication_date>
+          <news:title>4 dead, 18 rescued off Greek island after migrant boat sinks</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/world/2023/08/28/4-dead-18-rescued-greek-island-migrant-boat-sinks/4-dead-18-rescued-greek-island-migrant-boat-sinks.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/world/2023/08/28/2-masked-gunmen-copenhagen-open-fire-building-killin-man-injuring-4-others/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-28T11:16:28.000Z</news:publication_date>
+          <news:title>2 masked gunmen in Copenhagen open fire inside building, killing a man and injuring 4 others</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/world/2023/08/28/2-masked-gunmen-copenhagen-open-fire-building-killin-man-injuring-4-others/2-masked-gunmen-copenhagen-open-fire-building-killin-man-injuring-4-others.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/world/2023/08/28/china-wont-require-covid-19-testing-for-incoming-travelers-starting-wednesday/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-28T11:07:52.000Z</news:publication_date>
+          <news:title>China won't require COVID-19 tests for incoming travelers in a milestone in its reopening</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/world/2023/08/28/china-wont-require-covid-19-testing-for-incoming-travelers-starting-wednesday/china-wont-require-covid-19-testing-for-incoming-travelers-starting-wednesday.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
         <loc>https://majordigest.com/world/2023/08/28/china-will-no-longer-require-negative-covid-19-test-for-incoming-travelers/</loc>
         <news:news>
           <news:publication>
@@ -17,31 +87,45 @@
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/world/2023/08/28/us-marines-hospitalized-deadly-aircraft-crash-australia/</loc>
+        <loc>https://majordigest.com/world/2023/08/28/china-will-no-longer-require-negative-covid-19-test-for-incoming-travelers/</loc>
         <news:news>
           <news:publication>
             <news:name>Major Digest</news:name>
             <news:language>en</news:language>
           </news:publication>
-          <news:publication_date>2023-08-28T09:43:35.000Z</news:publication_date>
-          <news:title>8 US Marines remain hospitalized after deadly aircraft crash over Australia</news:title>
+          <news:publication_date>2023-08-28T10:56:58.000Z</news:publication_date>
+          <news:title>China will no longer require negative COVID-19 test for incoming travelers</news:title>
         </news:news>
         <image:image>
-          <image:loc>https://majordigest.com/world/2023/08/28/us-marines-hospitalized-deadly-aircraft-crash-australia/us-marines-hospitalized-deadly-aircraft-crash-australia.webp</image:loc>
+          <image:loc>https://majordigest.com/world/2023/08/28/china-will-no-longer-require-negative-covid-19-test-for-incoming-travelers/china-will-no-longer-require-negative-covid-19-test-for-incoming-travelers.webp</image:loc>
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/world/2023/08/28/us-marines-hospitalized-deadly-aircraft-crash-australia/</loc>
+        <loc>https://majordigest.com/world/2023/08/28/at-japanese-nuclear-plant-controversial-treated-water-release-just-the-beginning-of-decommissioning/</loc>
         <news:news>
           <news:publication>
             <news:name>Major Digest</news:name>
             <news:language>en</news:language>
           </news:publication>
-          <news:publication_date>2023-08-28T09:43:35.000Z</news:publication_date>
-          <news:title>8 US Marines remain hospitalized after deadly aircraft crash over Australia</news:title>
+          <news:publication_date>2023-08-28T07:20:07.000Z</news:publication_date>
+          <news:title>Removing Fukushima's melted nuclear fuel will be harder than the release of plant's wastewater</news:title>
         </news:news>
         <image:image>
-          <image:loc>https://majordigest.com/world/2023/08/28/us-marines-hospitalized-deadly-aircraft-crash-australia/us-marines-hospitalized-deadly-aircraft-crash-australia.webp</image:loc>
+          <image:loc>https://majordigest.com/world/2023/08/28/at-japanese-nuclear-plant-controversial-treated-water-release-just-the-beginning-of-decommissioning/at-japanese-nuclear-plant-controversial-treated-water-release-just-the-beginning-of-decommissioning.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/world/2023/08/28/at-japanese-nuclear-plant-controversial-treated-water-release-just-the-beginning-of-decommissioning/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-28T07:20:07.000Z</news:publication_date>
+          <news:title>Removing Fukushima's melted nuclear fuel will be harder than the release of plant's wastewater</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/world/2023/08/28/at-japanese-nuclear-plant-controversial-treated-water-release-just-the-beginning-of-decommissioning/at-japanese-nuclear-plant-controversial-treated-water-release-just-the-beginning-of-decommissioning.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -87,48 +171,6 @@
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/world/2023/08/28/archaeologists-northern-peru-unearth-tomb-honor-priest/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-28T01:49:19.000Z</news:publication_date>
-          <news:title>Archaeologists in northern Peru unearth 3,000-year-old tomb believed to honor priest</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/world/2023/08/28/archaeologists-northern-peru-unearth-tomb-honor-priest/archaeologists-northern-peru-unearth-tomb-honor-priest.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/world/2023/08/28/greek-authorities-arrest-79-arsonist-scum-connection-devastating-wildfires/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-28T01:43:39.000Z</news:publication_date>
-          <news:title>Greek authorities arrest 79 &#8216;arsonist scum&#8217; in connection with devastating wildfires</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/world/2023/08/28/greek-authorities-arrest-79-arsonist-scum-connection-devastating-wildfires/greek-authorities-arrest-79-arsonist-scum-connection-devastating-wildfires.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/world/2023/08/28/greek-authorities-arrest-79-arsonist-scum-connection-devastating-wildfires/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-28T01:43:39.000Z</news:publication_date>
-          <news:title>Greek authorities arrest 79 &#8216;arsonist scum&#8217; in connection with devastating wildfires</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/world/2023/08/28/greek-authorities-arrest-79-arsonist-scum-connection-devastating-wildfires/greek-authorities-arrest-79-arsonist-scum-connection-devastating-wildfires.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
         <loc>https://majordigest.com/world/2023/08/27/some-wildfire-evacuations-end-in-british-columbia-but-fire-threatens-community-farther-north/</loc>
         <news:news>
           <news:publication>
@@ -140,20 +182,6 @@
         </news:news>
         <image:image>
           <image:loc>https://majordigest.com/world/2023/08/27/some-wildfire-evacuations-end-in-british-columbia-but-fire-threatens-community-farther-north/some-wildfire-evacuations-end-in-british-columbia-but-fire-threatens-community-farther-north.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/world/2023/08/27/north-korea-allowing-citizens-abroad-return-home-first-time-since-2020-state-media-says/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-27T19:17:23.000Z</news:publication_date>
-          <news:title>North Korea allowing citizens abroad to return home for first time since 2020, state media says</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/world/2023/08/27/north-korea-allowing-citizens-abroad-return-home-first-time-since-2020-state-media-says/north-korea-allowing-citizens-abroad-return-home-first-time-since-2020-state-media-says.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -199,34 +227,6 @@
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/world/2023/08/27/ukraine-investigates-incident-that-killed-3-pilots-while-russia-attacks-with-cruise-missiles/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-27T14:56:40.000Z</news:publication_date>
-          <news:title>Ukraine investigates incident that killed 3 pilots while Russia attacks with cruise missiles</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/world/2023/08/27/ukraine-investigates-incident-that-killed-3-pilots-while-russia-attacks-with-cruise-missiles/ukraine-investigates-incident-that-killed-3-pilots-while-russia-attacks-with-cruise-missiles.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/world/2023/08/27/3-people-are-injured-1-critically-in-a-us-military-aircraft-crash-in-australia-officials-say/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-27T14:16:39.000Z</news:publication_date>
-          <news:title>A US Marine Osprey crashes during drills in Australia, killing 3 and injuring 20, some critically</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/world/2023/08/27/3-people-are-injured-1-critically-in-a-us-military-aircraft-crash-in-australia-officials-say/3-people-are-injured-1-critically-in-a-us-military-aircraft-crash-in-australia-officials-say.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
         <loc>https://majordigest.com/world/2023/08/27/wagner-boss-confirmed-dead-by-russian-officials/</loc>
         <news:news>
           <news:publication>
@@ -252,20 +252,6 @@
         </news:news>
         <image:image>
           <image:loc>https://majordigest.com/world/2023/08/27/zimbabwes-opposition-alleges-gigantic-fraud-in-vote-that-extends-the-zanu-pf-partys-43-year-rule/zimbabwes-opposition-alleges-gigantic-fraud-in-vote-that-extends-the-zanu-pf-partys-43-year-rule.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/world/2023/08/27/with-drones-and-webcams-volunteer-hunters-join-new-search-for-mythical-loch-ness-monster/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-27T02:47:41.000Z</news:publication_date>
-          <news:title>With drones and webcams, volunteer hunters join new search for mythical Loch Ness Monster</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/world/2023/08/27/with-drones-and-webcams-volunteer-hunters-join-new-search-for-mythical-loch-ness-monster/with-drones-and-webcams-volunteer-hunters-join-new-search-for-mythical-loch-ness-monster.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -462,6 +448,20 @@
         </news:news>
         <image:image>
           <image:loc>https://majordigest.com/world/2023/08/24/putin-breaks-silence-on-plane-crash-that-presumably-killed-wagner-leaders/putin-breaks-silence-on-plane-crash-that-presumably-killed-wagner-leaders.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/world/2023/08/23/jet-crash-in-russia-kills-10-and-wagner-chief-was-on-passenger-list-officials-say/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-23T17:38:57.000Z</news:publication_date>
+          <news:title>Jet crash in Russia kills 10 and Wagner chief was on passenger list, officials say</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/world/2023/08/23/jet-crash-in-russia-kills-10-and-wagner-chief-was-on-passenger-list-officials-say/jet-crash-in-russia-kills-10-and-wagner-chief-was-on-passenger-list-officials-say.webp</image:loc>
         </image:image>
       </url>
       <url>

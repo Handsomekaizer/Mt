@@ -3,6 +3,34 @@
               xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
               xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
       <url>
+        <loc>https://majordigest.com/tech/2023/08/28/how-paypal-is-using-ai-to-combat-fraud-and-make-it-easier-to-pay/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-28T11:42:35.000Z</news:publication_date>
+          <news:title>How PayPal is using AI to combat fraud, and make it easier to pay</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/tech/2023/08/28/how-paypal-is-using-ai-to-combat-fraud-and-make-it-easier-to-pay/how-paypal-is-using-ai-to-combat-fraud-and-make-it-easier-to-pay.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/tech/2023/08/28/how-an-ai-gold-rush-is-reviving-the-tech-industry/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-28T10:00:00.000Z</news:publication_date>
+          <news:title>How an AI 'gold rush' is reviving the tech industry</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/tech/2023/08/28/how-an-ai-gold-rush-is-reviving-the-tech-industry/how-an-ai-gold-rush-is-reviving-the-tech-industry.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
         <loc>https://majordigest.com/tech/2023/08/27/how-make-devices-impossible-snoop-privacy-screen/</loc>
         <news:news>
           <news:publication>
@@ -87,17 +115,17 @@
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/tech/2023/08/26/much-of-florida-under-state-of-emergency-as-possible-tropical-storm-forms-in-gulf-of-mexico/</loc>
+        <loc>https://majordigest.com/tech/2023/08/26/how-stop-someone-tracking-you-your-phone/</loc>
         <news:news>
           <news:publication>
             <news:name>Major Digest</news:name>
             <news:language>en</news:language>
           </news:publication>
-          <news:publication_date>2023-08-26T17:07:22.000Z</news:publication_date>
-          <news:title>Much of Florida under state of emergency as possible tropical storm forms in Gulf of Mexico</news:title>
+          <news:publication_date>2023-08-26T17:21:40.000Z</news:publication_date>
+          <news:title>How to stop someone from tracking you on your phone</news:title>
         </news:news>
         <image:image>
-          <image:loc>https://majordigest.com/tech/2023/08/26/much-of-florida-under-state-of-emergency-as-possible-tropical-storm-forms-in-gulf-of-mexico/much-of-florida-under-state-of-emergency-as-possible-tropical-storm-forms-in-gulf-of-mexico.webp</image:loc>
+          <image:loc>https://majordigest.com/tech/2023/08/26/how-stop-someone-tracking-you-your-phone/how-stop-someone-tracking-you-your-phone.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -115,17 +143,17 @@
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/tech/2023/08/26/broadband-subsidy-program-that-millions-use-will-expire-next-year-if-congress-doesnt-act/</loc>
+        <loc>https://majordigest.com/tech/2023/08/26/a-broad-genetic-test-saved-one-newborns-life-research-suggests-it-could-help-millions-of-others/</loc>
         <news:news>
           <news:publication>
             <news:name>Major Digest</news:name>
             <news:language>en</news:language>
           </news:publication>
-          <news:publication_date>2023-08-26T12:17:34.000Z</news:publication_date>
-          <news:title>Broadband subsidy program that millions use will expire next year if Congress doesn&#8217;t act</news:title>
+          <news:publication_date>2023-08-26T11:44:30.000Z</news:publication_date>
+          <news:title>A broad genetic test saved one newborn's life. Research suggests it could help millions of others</news:title>
         </news:news>
         <image:image>
-          <image:loc>https://majordigest.com/tech/2023/08/26/broadband-subsidy-program-that-millions-use-will-expire-next-year-if-congress-doesnt-act/broadband-subsidy-program-that-millions-use-will-expire-next-year-if-congress-doesnt-act.webp</image:loc>
+          <image:loc>https://majordigest.com/tech/2023/08/26/a-broad-genetic-test-saved-one-newborns-life-research-suggests-it-could-help-millions-of-others/a-broad-genetic-test-saved-one-newborns-life-research-suggests-it-could-help-millions-of-others.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -182,20 +210,6 @@
         </news:news>
         <image:image>
           <image:loc>https://majordigest.com/tech/2023/08/25/gop-stumbles-in-suit-claiming-google-censors-donation-emails/gop-stumbles-in-suit-claiming-google-censors-donation-emails.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/tech/2023/08/25/early-apple-computer-that-helped-launch-3t-company-sells-at-auction-for-223000/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-25T17:04:31.000Z</news:publication_date>
-          <news:title>Early Apple computer that helped launch $3T company sells at auction for $223,000</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/tech/2023/08/25/early-apple-computer-that-helped-launch-3t-company-sells-at-auction-for-223000/early-apple-computer-that-helped-launch-3t-company-sells-at-auction-for-223000.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -311,20 +325,6 @@
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/tech/2023/08/24/t-mobile-will-lay-off-5000-employees-or-about-7-of-its-workforce-in-the-coming-weeks/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-24T17:25:01.000Z</news:publication_date>
-          <news:title>T-Mobile will lay off 5,000 employees, or about 7% of its workforce, in the coming weeks</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/tech/2023/08/24/t-mobile-will-lay-off-5000-employees-or-about-7-of-its-workforce-in-the-coming-weeks/t-mobile-will-lay-off-5000-employees-or-about-7-of-its-workforce-in-the-coming-weeks.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
         <loc>https://majordigest.com/tech/2023/08/24/dont-miss-the-deadline-to-claim-a-facebook-privacy-settlement-payment/</loc>
         <news:news>
           <news:publication>
@@ -381,6 +381,20 @@
         </image:image>
       </url>
       <url>
+        <loc>https://majordigest.com/tech/2023/08/23/childrens-advocates-ask-ftc-to-investigate-google-for-targeting-ads-to-kids/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-23T16:00:09.000Z</news:publication_date>
+          <news:title>Children's advocates ask FTC to investigate Google for targeting ads to kids</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/tech/2023/08/23/childrens-advocates-ask-ftc-to-investigate-google-for-targeting-ads-to-kids/childrens-advocates-ask-ftc-to-investigate-google-for-targeting-ads-to-kids.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
         <loc>https://majordigest.com/tech/2023/08/23/samsung-fold-5-versatile-but-with-compromises/</loc>
         <news:news>
           <news:publication>
@@ -420,20 +434,6 @@
         </news:news>
         <image:image>
           <image:loc>https://majordigest.com/tech/2023/08/22/ibm-is-selling-the-weather-company-assets-to-private-equity-firm-francisco-partners/ibm-is-selling-the-weather-company-assets-to-private-equity-firm-francisco-partners.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/tech/2023/08/22/mark-zuckerberg-says-a-web-version-of-threads-will-be-available-in-the-next-few-days/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-22T15:07:57.000Z</news:publication_date>
-          <news:title>Mark Zuckerberg says a web version of Threads will be available in the next few days</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/tech/2023/08/22/mark-zuckerberg-says-a-web-version-of-threads-will-be-available-in-the-next-few-days/mark-zuckerberg-says-a-web-version-of-threads-will-be-available-in-the-next-few-days.webp</image:loc>
         </image:image>
       </url>
       <url>
