@@ -3,17 +3,45 @@
               xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
               xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
       <url>
+        <loc>https://majordigest.com/us/2023/08/28/ai-can-combat-colonial-pipeline-like-cyberattacks-that-cripple-hospitals-critical-services-expert/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-28T06:00:42.000Z</news:publication_date>
+          <news:title>AI can combat Colonial Pipeline-like cyberattacks that cripple hospitals, critical services: expert</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/us/2023/08/28/ai-can-combat-colonial-pipeline-like-cyberattacks-that-cripple-hospitals-critical-services-expert/ai-can-combat-colonial-pipeline-like-cyberattacks-that-cripple-hospitals-critical-services-expert.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
         <loc>https://majordigest.com/us/2023/08/28/8-us-marines-remain-in-hospital-after-fiery-aircraft-crash-killed-3-in-australia/</loc>
         <news:news>
           <news:publication>
             <news:name>Major Digest</news:name>
             <news:language>en</news:language>
           </news:publication>
-          <news:publication_date>2023-08-28T05:01:04.000Z</news:publication_date>
-          <news:title>8 US Marines remain in hospital after fiery aircraft crash killed 3 in Australia</news:title>
+          <news:publication_date>2023-08-28T05:36:17.000Z</news:publication_date>
+          <news:title>8 US Marines remain in a hospital after a fiery aircraft crash killed 3 during drills in Australia</news:title>
         </news:news>
         <image:image>
           <image:loc>https://majordigest.com/us/2023/08/28/8-us-marines-remain-in-hospital-after-fiery-aircraft-crash-killed-3-in-australia/8-us-marines-remain-in-hospital-after-fiery-aircraft-crash-killed-3-in-australia.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/us/2023/08/28/illegal-logging-thrives-in-mexico-citys-forest-covered-boroughs-as-locals-strive-to-plant-trees/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-28T05:00:55.000Z</news:publication_date>
+          <news:title>Illegal logging thrives in Mexico City's forest-covered boroughs, as locals strive to plant trees</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/us/2023/08/28/illegal-logging-thrives-in-mexico-citys-forest-covered-boroughs-as-locals-strive-to-plant-trees/illegal-logging-thrives-in-mexico-citys-forest-covered-boroughs-as-locals-strive-to-plant-trees.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -31,45 +59,17 @@
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/us/2023/08/28/the-ukraine-war-propaganda-style-is-coming-to-russian-movie-screens-will-people-watch/</loc>
+        <loc>https://majordigest.com/us/2023/08/28/texas-takeover-raises-back-to-school-anxiety-for-houston-students-parents-and-teachers/</loc>
         <news:news>
           <news:publication>
             <news:name>Major Digest</news:name>
             <news:language>en</news:language>
           </news:publication>
-          <news:publication_date>2023-08-28T04:50:48.000Z</news:publication_date>
-          <news:title>The Ukraine war, propaganda-style, is coming to Russian movie screens. Will people watch?</news:title>
+          <news:publication_date>2023-08-28T04:25:40.000Z</news:publication_date>
+          <news:title>Texas takeover raises back-to-school anxiety for Houston students, parents and teachers</news:title>
         </news:news>
         <image:image>
-          <image:loc>https://majordigest.com/us/2023/08/28/the-ukraine-war-propaganda-style-is-coming-to-russian-movie-screens-will-people-watch/the-ukraine-war-propaganda-style-is-coming-to-russian-movie-screens-will-people-watch.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/us/2023/08/28/biden-is-widely-seen-as-too-old-for-office-an-ap-norc-poll-finds-trumps-got-other-problems/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-28T04:37:54.000Z</news:publication_date>
-          <news:title>Biden is widely seen as too old for office, an AP-NORC poll finds. Trump's got other problems</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/us/2023/08/28/biden-is-widely-seen-as-too-old-for-office-an-ap-norc-poll-finds-trumps-got-other-problems/biden-is-widely-seen-as-too-old-for-office-an-ap-norc-poll-finds-trumps-got-other-problems.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/us/2023/08/28/son-stolen-at-birth-hugs-chilean-mother-for-first-time-in-42-years/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-28T04:10:39.000Z</news:publication_date>
-          <news:title>Son stolen at birth hugs Chilean mother for first time in 42 years</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/us/2023/08/28/son-stolen-at-birth-hugs-chilean-mother-for-first-time-in-42-years/son-stolen-at-birth-hugs-chilean-mother-for-first-time-in-42-years.webp</image:loc>
+          <image:loc>https://majordigest.com/us/2023/08/28/texas-takeover-raises-back-to-school-anxiety-for-houston-students-parents-and-teachers/texas-takeover-raises-back-to-school-anxiety-for-houston-students-parents-and-teachers.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -129,6 +129,20 @@
         </image:image>
       </url>
       <url>
+        <loc>https://majordigest.com/us/2023/08/28/dc-police-arrest-teen-accused-committing-10-armed-carjackings-robberies-overnight-crime-spree/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-28T01:04:38.000Z</news:publication_date>
+          <news:title>DC police arrest teen accused of committing 10 armed carjackings, robberies in overnight crime spree</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/us/2023/08/28/dc-police-arrest-teen-accused-committing-10-armed-carjackings-robberies-overnight-crime-spree/dc-police-arrest-teen-accused-committing-10-armed-carjackings-robberies-overnight-crime-spree.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
         <loc>https://majordigest.com/us/2023/08/28/dana-bash-spars-with-ramaswamy-over-race-remarks/</loc>
         <news:news>
           <news:publication>
@@ -185,20 +199,6 @@
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/us/2023/08/27/1-dead-in-shooting-at-ohio-mall-as-police-investigate-active-situation/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-27T23:51:26.000Z</news:publication_date>
-          <news:title>At least 1 killed in shooting at Ohio mall</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/us/2023/08/27/1-dead-in-shooting-at-ohio-mall-as-police-investigate-active-situation/1-dead-in-shooting-at-ohio-mall-as-police-investigate-active-situation.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
         <loc>https://majordigest.com/us/2023/08/27/san-francisco-restaurant-bans-armed-officers-police-union-responds/</loc>
         <news:news>
           <news:publication>
@@ -224,20 +224,6 @@
         </news:news>
         <image:image>
           <image:loc>https://majordigest.com/us/2023/08/27/suspect-fully-conscious-drug-arrest-crack-cocaine-seat-state-police/suspect-fully-conscious-drug-arrest-crack-cocaine-seat-state-police.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/us/2023/08/27/florida-sheriff-identifies-victims-dollar-general-store-shooting-releases-haunting-surveillance-clips/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-27T23:06:44.000Z</news:publication_date>
-          <news:title>Florida sheriff identifies victims of Dollar General store shooting, releases 'sickening' surveillance clips</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/us/2023/08/27/florida-sheriff-identifies-victims-dollar-general-store-shooting-releases-haunting-surveillance-clips/florida-sheriff-identifies-victims-dollar-general-store-shooting-releases-haunting-surveillance-clips.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -297,20 +283,6 @@
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/us/2023/08/27/parents-worst-nightmare-south-dakota-boy-battling-rare-form-of-cancer/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-27T19:09:48.000Z</news:publication_date>
-          <news:title>'Parent's worst nightmare': South Dakota boy battling rare form of cancer</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/us/2023/08/27/parents-worst-nightmare-south-dakota-boy-battling-rare-form-of-cancer/parents-worst-nightmare-south-dakota-boy-battling-rare-form-of-cancer.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
         <loc>https://majordigest.com/us/2023/08/27/military-identifies-marine-corps-pilot-killed-in-jet-crash-near-san-diego-base/</loc>
         <news:news>
           <news:publication>
@@ -322,34 +294,6 @@
         </news:news>
         <image:image>
           <image:loc>https://majordigest.com/us/2023/08/27/military-identifies-marine-corps-pilot-killed-in-jet-crash-near-san-diego-base/military-identifies-marine-corps-pilot-killed-in-jet-crash-near-san-diego-base.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/us/2023/08/27/sun-drunk-what-it-is-and-how-to-avoid-it/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-27T17:10:23.000Z</news:publication_date>
-          <news:title>Sun drunk: What it is and how to avoid it</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/us/2023/08/27/sun-drunk-what-it-is-and-how-to-avoid-it/sun-drunk-what-it-is-and-how-to-avoid-it.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/us/2023/08/27/is-your-dog-at-risk-for-t-cruzi-infection-which-can-lead-to-heart-problems-and-sudden-death/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-27T16:06:37.000Z</news:publication_date>
-          <news:title>Is your dog at risk for T. cruzi infection, which can lead to heart problems and sudden death?</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/us/2023/08/27/is-your-dog-at-risk-for-t-cruzi-infection-which-can-lead-to-heart-problems-and-sudden-death/is-your-dog-at-risk-for-t-cruzi-infection-which-can-lead-to-heart-problems-and-sudden-death.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -367,17 +311,31 @@
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/us/2023/08/27/2024-republicans-want-to-eliminate-the-education-department-what-would-that-look-like/</loc>
+        <loc>https://majordigest.com/us/2023/08/27/members-of-us-congress-make-a-rare-visit-to-opposition-held-northwest-syria/</loc>
         <news:news>
           <news:publication>
             <news:name>Major Digest</news:name>
             <news:language>en</news:language>
           </news:publication>
-          <news:publication_date>2023-08-27T13:10:36.000Z</news:publication_date>
-          <news:title>2024 Republicans want to eliminate the Education Department. What would that look like?</news:title>
+          <news:publication_date>2023-08-27T15:29:22.000Z</news:publication_date>
+          <news:title>Members of US Congress make a rare visit to opposition-held northwest Syria</news:title>
         </news:news>
         <image:image>
-          <image:loc>https://majordigest.com/us/2023/08/27/2024-republicans-want-to-eliminate-the-education-department-what-would-that-look-like/2024-republicans-want-to-eliminate-the-education-department-what-would-that-look-like.webp</image:loc>
+          <image:loc>https://majordigest.com/us/2023/08/27/members-of-us-congress-make-a-rare-visit-to-opposition-held-northwest-syria/members-of-us-congress-make-a-rare-visit-to-opposition-held-northwest-syria.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/us/2023/08/27/is-it-time-to-bring-back-the-covid-mask-we-asked-3-doctors/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-27T14:35:35.000Z</news:publication_date>
+          <news:title>Is it time to bring back the COVID mask? We asked 3 doctors</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/us/2023/08/27/is-it-time-to-bring-back-the-covid-mask-we-asked-3-doctors/is-it-time-to-bring-back-the-covid-mask-we-asked-3-doctors.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -392,6 +350,34 @@
         </news:news>
         <image:image>
           <image:loc>https://majordigest.com/us/2023/08/27/3-us-marines-killed-20-injured-during-a-training-exercise-in-australia/3-us-marines-killed-20-injured-during-a-training-exercise-in-australia.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/us/2023/08/27/corn-sweat-and-why-its-heaping-on-the-humidity/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-27T13:00:33.000Z</news:publication_date>
+          <news:title>'Corn sweat' and why it's heaping on the humidity</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/us/2023/08/27/corn-sweat-and-why-its-heaping-on-the-humidity/corn-sweat-and-why-its-heaping-on-the-humidity.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/us/2023/08/27/3-people-are-injured-1-critically-in-a-us-military-aircraft-crash-in-australia-officials-say/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-27T06:09:32.000Z</news:publication_date>
+          <news:title>A US Marine Osprey crashes during drills in Australia, killing 3 and injuring 20, some critically</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/us/2023/08/27/3-people-are-injured-1-critically-in-a-us-military-aircraft-crash-in-australia-officials-say/3-people-are-injured-1-critically-in-a-us-military-aircraft-crash-in-australia-officials-say.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -451,20 +437,6 @@
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/us/2023/08/26/green-day-releases-nimrod-shirt-with-trump-mugshot-to-raise-money-for-maui/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-26T01:01:33.000Z</news:publication_date>
-          <news:title>Green Day releases 'Nimrod' shirt with Trump mugshot to raise money for Maui</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/us/2023/08/26/green-day-releases-nimrod-shirt-with-trump-mugshot-to-raise-money-for-maui/green-day-releases-nimrod-shirt-with-trump-mugshot-to-raise-money-for-maui.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
         <loc>https://majordigest.com/us/2023/08/25/biden-on-trump-mug-shot-handsome-guy/</loc>
         <news:news>
           <news:publication>
@@ -518,5 +490,33 @@
         </news:news>
         <image:image>
           <image:loc>https://majordigest.com/us/2023/08/24/a-100-year-old-maui-home-is-still-standing-after-wildfires-devastated-every-other-house-in-the-area-why/a-100-year-old-maui-home-is-still-standing-after-wildfires-devastated-every-other-house-in-the-area-why.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/us/2023/08/24/national-cinema-day-major-theater-chains-offering-4-tickets-for-1-day-only/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-24T16:40:31.000Z</news:publication_date>
+          <news:title>National Cinema Day: Major theater chains offering $4 tickets for 1 day only</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/us/2023/08/24/national-cinema-day-major-theater-chains-offering-4-tickets-for-1-day-only/national-cinema-day-major-theater-chains-offering-4-tickets-for-1-day-only.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/us/2023/08/24/study-links-childrens-screen-time-to-heart-damage-in-adulthood/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-24T16:11:14.000Z</news:publication_date>
+          <news:title>Study links children's screen time to heart damage in adulthood</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/us/2023/08/24/study-links-childrens-screen-time-to-heart-damage-in-adulthood/study-links-childrens-screen-time-to-heart-damage-in-adulthood.webp</image:loc>
         </image:image>
       </url></urlset>

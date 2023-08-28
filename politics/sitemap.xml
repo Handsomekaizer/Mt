@@ -3,34 +3,6 @@
               xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
               xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
       <url>
-        <loc>https://majordigest.com/politics/2023/08/28/judge-to-hear-arguments-on-mark-meadows-request-to-move-georgia-election-case-to-federal-court/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-28T04:06:23.000Z</news:publication_date>
-          <news:title>Judge to hear arguments on Mark Meadows' request to move Georgia election case to federal court</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/politics/2023/08/28/judge-to-hear-arguments-on-mark-meadows-request-to-move-georgia-election-case-to-federal-court/judge-to-hear-arguments-on-mark-meadows-request-to-move-georgia-election-case-to-federal-court.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/politics/2023/08/28/trump-lawyers-back-in-dc-court-as-two-sides-differ-over-trial-date-in-election-subversion-case/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-28T04:05:21.000Z</news:publication_date>
-          <news:title>Trump lawyers back in DC court as two sides differ over trial date in election subversion case</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/politics/2023/08/28/trump-lawyers-back-in-dc-court-as-two-sides-differ-over-trial-date-in-election-subversion-case/trump-lawyers-back-in-dc-court-as-two-sides-differ-over-trial-date-in-election-subversion-case.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
         <loc>https://majordigest.com/politics/2023/08/28/desantis-leaves-campaign-trail-and-returns-to-florida-facing-tropical-storm-and-shooting-aftermath/</loc>
         <news:news>
           <news:publication>
@@ -171,17 +143,17 @@
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/politics/2023/08/27/sanders-biden-cornel-west/</loc>
+        <loc>https://majordigest.com/politics/2023/08/27/mike-pence-debate-support-jan6/</loc>
         <news:news>
           <news:publication>
             <news:name>Major Digest</news:name>
             <news:language>en</news:language>
           </news:publication>
-          <news:publication_date>2023-08-27T14:53:25.000Z</news:publication_date>
-          <news:title>Sanders hits at Cornel West over criticism of Biden</news:title>
+          <news:publication_date>2023-08-27T16:00:00.000Z</news:publication_date>
+          <news:title>Support from fellow GOP candidates over Jan. 6 was &#8216;heartening,&#8217; Pence says</news:title>
         </news:news>
         <image:image>
-          <image:loc>https://majordigest.com/politics/2023/08/27/sanders-biden-cornel-west/sanders-biden-cornel-west.webp</image:loc>
+          <image:loc>https://majordigest.com/politics/2023/08/27/mike-pence-debate-support-jan6/mike-pence-debate-support-jan6.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -227,17 +199,31 @@
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/politics/2023/08/26/new-mexico-suspend-drivers-licenses-fines/</loc>
+        <loc>https://majordigest.com/politics/2023/08/26/wild-horses-that-roam-theodore-roosevelt-national-park-may-be-removed-many-oppose-the-plan/</loc>
         <news:news>
           <news:publication>
             <news:name>Major Digest</news:name>
             <news:language>en</news:language>
           </news:publication>
-          <news:publication_date>2023-08-26T10:30:00.000Z</news:publication_date>
-          <news:title>New Mexico will no longer suspend drivers licenses for fines</news:title>
+          <news:publication_date>2023-08-26T15:01:48.000Z</news:publication_date>
+          <news:title>Wild horses that roam Theodore Roosevelt National Park may be removed. Many oppose the plan</news:title>
         </news:news>
         <image:image>
-          <image:loc>https://majordigest.com/politics/2023/08/26/new-mexico-suspend-drivers-licenses-fines/new-mexico-suspend-drivers-licenses-fines.webp</image:loc>
+          <image:loc>https://majordigest.com/politics/2023/08/26/wild-horses-that-roam-theodore-roosevelt-national-park-may-be-removed-many-oppose-the-plan/wild-horses-that-roam-theodore-roosevelt-national-park-may-be-removed-many-oppose-the-plan.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/politics/2023/08/26/npr-china-us-trade-tensions-commerce-secretary-gina-raimondo/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-26T13:48:00.000Z</news:publication_date>
+          <news:title>How high tensions between China and the U.S. are impacting American companies</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/politics/2023/08/26/npr-china-us-trade-tensions-commerce-secretary-gina-raimondo/npr-china-us-trade-tensions-commerce-secretary-gina-raimondo.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -252,6 +238,20 @@
         </news:news>
         <image:image>
           <image:loc>https://majordigest.com/politics/2023/08/26/ramaswamy-curiosity-skepticism-iowa-gop-debate/ramaswamy-curiosity-skepticism-iowa-gop-debate.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/politics/2023/08/25/st-paul-conservative-legal-scholar-says-constitution-bars-trump-from-being-president/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-25T20:30:00.000Z</news:publication_date>
+          <news:title>MN legal scholar: Constitution bars Trump presidency</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/politics/2023/08/25/st-paul-conservative-legal-scholar-says-constitution-bars-trump-from-being-president/st-paul-conservative-legal-scholar-says-constitution-bars-trump-from-being-president.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -280,20 +280,6 @@
         </news:news>
         <image:image>
           <image:loc>https://majordigest.com/politics/2023/08/25/texans-asked-to-conserve-energy-for-a-third-time-this-week/texans-asked-to-conserve-energy-for-a-third-time-this-week.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/politics/2023/08/25/trump-recounts-terrible-experience-of-being-booked-in-georgia/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-25T12:58:40.000Z</news:publication_date>
-          <news:title>Trump recounts 'terrible experience' of being booked in Georgia</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/politics/2023/08/25/trump-recounts-terrible-experience-of-being-booked-in-georgia/trump-recounts-terrible-experience-of-being-booked-in-georgia.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -350,6 +336,20 @@
         </news:news>
         <image:image>
           <image:loc>https://majordigest.com/politics/2023/08/24/apple-backs-californias-right-to-repair-bill-in-major-policy-shift/apple-backs-californias-right-to-repair-bill-in-major-policy-shift.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/politics/2023/08/24/covid-19-cases-rise-cdc-recommends-updated-vaccine/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-24T20:37:19.000Z</news:publication_date>
+          <news:title>COVID-19 cases rise, CDC recommends updated vaccine</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/politics/2023/08/24/covid-19-cases-rise-cdc-recommends-updated-vaccine/covid-19-cases-rise-cdc-recommends-updated-vaccine.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -437,6 +437,20 @@
         </image:image>
       </url>
       <url>
+        <loc>https://majordigest.com/politics/2023/08/23/who-takes-advantage-of-donald-trumps-absence-and-other-things-to-watch-in-the-republican-debate/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-23T21:48:37.000Z</news:publication_date>
+          <news:title>Who takes advantage of Donald Trump's absence and other things to watch in the Republican debate</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/politics/2023/08/23/who-takes-advantage-of-donald-trumps-absence-and-other-things-to-watch-in-the-republican-debate/who-takes-advantage-of-donald-trumps-absence-and-other-things-to-watch-in-the-republican-debate.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
         <loc>https://majordigest.com/politics/2023/08/23/rudy-giuliani-surrenders-on-georgia-charges-alleging-an-illegal-plot-to-subvert-2020-election-jail-records-show/</loc>
         <news:news>
           <news:publication>
@@ -462,20 +476,6 @@
         </news:news>
         <image:image>
           <image:loc>https://majordigest.com/politics/2023/08/21/biden-campaign-launches-25m-ad-buy-in-battleground-states-including-nevada/biden-campaign-launches-25m-ad-buy-in-battleground-states-including-nevada.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/politics/2023/08/21/assemblywoman-heidi-kasama-joins-republican-challengers-for-lees-seat-in-congress/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-21T19:16:18.000Z</news:publication_date>
-          <news:title>Assemblywoman Heidi Kasama joins Republican challengers for Lee's seat in Congress</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/politics/2023/08/21/assemblywoman-heidi-kasama-joins-republican-challengers-for-lees-seat-in-congress/assemblywoman-heidi-kasama-joins-republican-challengers-for-lees-seat-in-congress.webp</image:loc>
         </image:image>
       </url>
       <url>
