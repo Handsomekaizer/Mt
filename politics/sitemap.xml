@@ -3,20 +3,6 @@
               xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
               xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
       <url>
-        <loc>https://majordigest.com/politics/2023/08/27/what-chances-government-shutdown/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-27T22:57:44.000Z</news:publication_date>
-          <news:title>What are the chances of a government shutdown?</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/politics/2023/08/27/what-chances-government-shutdown/what-chances-government-shutdown.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
         <loc>https://majordigest.com/politics/2023/08/27/burismas-devon-archer-met-secretary-state-kerry-weeks-before-shokin-fired/</loc>
         <news:news>
           <news:publication>
@@ -45,20 +31,6 @@
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/politics/2023/08/27/desantis-leaves-campaign-trail-and-returns-to-florida-facing-tropical-storm-and-shooting-aftermath/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-27T20:48:00.000Z</news:publication_date>
-          <news:title>DeSantis cancels SC campaign travel, returns to Florida facing tropical storm and shooting aftermath</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/politics/2023/08/27/desantis-leaves-campaign-trail-and-returns-to-florida-facing-tropical-storm-and-shooting-aftermath/desantis-leaves-campaign-trail-and-returns-to-florida-facing-tropical-storm-and-shooting-aftermath.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
         <loc>https://majordigest.com/politics/2023/08/27/ap-trump-campaign-reports-raising-more-than-7-million-after-georgia-booking/</loc>
         <news:news>
           <news:publication>
@@ -73,17 +45,17 @@
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/politics/2023/08/27/ap-us-congress-members-make-a-rare-visit-to-opposition-held-northwest-syria/</loc>
+        <loc>https://majordigest.com/politics/2023/08/27/ap-former-2-term-republican-tennessee-gov-don-sundquist-dies-at-87/</loc>
         <news:news>
           <news:publication>
             <news:name>Major Digest</news:name>
             <news:language>en</news:language>
           </news:publication>
-          <news:publication_date>2023-08-27T19:24:33.000Z</news:publication_date>
-          <news:title>Members of US Congress make a rare visit to opposition-held northwest Syria</news:title>
+          <news:publication_date>2023-08-27T18:59:44.000Z</news:publication_date>
+          <news:title>Former 2-term Republican Tennessee Gov. Don Sundquist dies at 87</news:title>
         </news:news>
         <image:image>
-          <image:loc>https://majordigest.com/politics/2023/08/27/ap-us-congress-members-make-a-rare-visit-to-opposition-held-northwest-syria/ap-us-congress-members-make-a-rare-visit-to-opposition-held-northwest-syria.webp</image:loc>
+          <image:loc>https://majordigest.com/politics/2023/08/27/ap-former-2-term-republican-tennessee-gov-don-sundquist-dies-at-87/ap-former-2-term-republican-tennessee-gov-don-sundquist-dies-at-87.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -157,45 +129,17 @@
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/politics/2023/08/27/biden-campaign-trump-policies-richmond/</loc>
+        <loc>https://majordigest.com/politics/2023/08/27/bidens-commerce-secretary-is-the-latest-cabinet-member-to-visit-china-in-a-bid-for-improved-ties/</loc>
         <news:news>
           <news:publication>
             <news:name>Major Digest</news:name>
             <news:language>en</news:language>
           </news:publication>
-          <news:publication_date>2023-08-27T15:12:45.000Z</news:publication_date>
-          <news:title>Biden campaign: It might not be Trump, but it&#8217;ll still be his policies in the general election</news:title>
+          <news:publication_date>2023-08-27T14:02:55.000Z</news:publication_date>
+          <news:title>Biden's commerce secretary is the latest Cabinet member to visit China in a bid for improved ties</news:title>
         </news:news>
         <image:image>
-          <image:loc>https://majordigest.com/politics/2023/08/27/biden-campaign-trump-policies-richmond/biden-campaign-trump-policies-richmond.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/politics/2023/08/27/sanders-biden-cornel-west/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-27T14:53:25.000Z</news:publication_date>
-          <news:title>Sanders hits at Cornel West over criticism of Biden</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/politics/2023/08/27/sanders-biden-cornel-west/sanders-biden-cornel-west.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/politics/2023/08/27/trumps-drumbeat-of-lies-about-the-2020-election-keeps-getting-louder-here-are-the-facts/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-27T11:42:29.000Z</news:publication_date>
-          <news:title>Trump's drumbeat of lies about the 2020 election keeps getting louder. Here are the facts</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/politics/2023/08/27/trumps-drumbeat-of-lies-about-the-2020-election-keeps-getting-louder-here-are-the-facts/trumps-drumbeat-of-lies-about-the-2020-election-keeps-getting-louder-here-are-the-facts.webp</image:loc>
+          <image:loc>https://majordigest.com/politics/2023/08/27/bidens-commerce-secretary-is-the-latest-cabinet-member-to-visit-china-in-a-bid-for-improved-ties/bidens-commerce-secretary-is-the-latest-cabinet-member-to-visit-china-in-a-bid-for-improved-ties.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -210,20 +154,6 @@
         </news:news>
         <image:image>
           <image:loc>https://majordigest.com/politics/2023/08/27/npr-minnesota-felon-voting-rights-restoration/npr-minnesota-felon-voting-rights-restoration.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/politics/2023/08/26/trump-campaign-reports-raising-more-than-7-million-after-georgia-booking/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-26T23:44:03.000Z</news:publication_date>
-          <news:title>Trump campaign reports raising more than $7 million after Georgia booking</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/politics/2023/08/26/trump-campaign-reports-raising-more-than-7-million-after-georgia-booking/trump-campaign-reports-raising-more-than-7-million-after-georgia-booking.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -325,31 +255,17 @@
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/politics/2023/08/26/ramaswamy-faces-curiosity-and-skepticism-in-iowa-after-center-stage-performance-in-gop-debate/</loc>
+        <loc>https://majordigest.com/politics/2023/08/26/biden-campaign-dark-brandon-meme-fox-news-ad/</loc>
         <news:news>
           <news:publication>
             <news:name>Major Digest</news:name>
             <news:language>en</news:language>
           </news:publication>
-          <news:publication_date>2023-08-26T04:04:15.000Z</news:publication_date>
-          <news:title>Ramaswamy faces curiosity and skepticism in Iowa after center-stage performance in GOP debate</news:title>
+          <news:publication_date>2023-08-26T03:37:52.000Z</news:publication_date>
+          <news:title>Biden campaign uses &#8216;Dark Brandon&#8217; meme to advertise on Fox News</news:title>
         </news:news>
         <image:image>
-          <image:loc>https://majordigest.com/politics/2023/08/26/ramaswamy-faces-curiosity-and-skepticism-in-iowa-after-center-stage-performance-in-gop-debate/ramaswamy-faces-curiosity-and-skepticism-in-iowa-after-center-stage-performance-in-gop-debate.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/politics/2023/08/25/st-paul-conservative-legal-scholar-says-constitution-bars-trump-from-being-president/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-25T20:30:00.000Z</news:publication_date>
-          <news:title>MN legal scholar: Constitution bars Trump presidency</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/politics/2023/08/25/st-paul-conservative-legal-scholar-says-constitution-bars-trump-from-being-president/st-paul-conservative-legal-scholar-says-constitution-bars-trump-from-being-president.webp</image:loc>
+          <image:loc>https://majordigest.com/politics/2023/08/26/biden-campaign-dark-brandon-meme-fox-news-ad/biden-campaign-dark-brandon-meme-fox-news-ad.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -381,6 +297,20 @@
         </image:image>
       </url>
       <url>
+        <loc>https://majordigest.com/politics/2023/08/25/trump-recounts-terrible-experience-of-being-booked-in-georgia/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-25T12:58:40.000Z</news:publication_date>
+          <news:title>Trump recounts 'terrible experience' of being booked in Georgia</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/politics/2023/08/25/trump-recounts-terrible-experience-of-being-booked-in-georgia/trump-recounts-terrible-experience-of-being-booked-in-georgia.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
         <loc>https://majordigest.com/politics/2023/08/25/npr-climate-change-made-it-in-the-gop-debate-some-young-republicans-say-thats-a-win/</loc>
         <news:news>
           <news:publication>
@@ -409,6 +339,20 @@
         </image:image>
       </url>
       <url>
+        <loc>https://majordigest.com/politics/2023/08/24/does-the-georgia-case-pose-greatest-threat-to-former-president-trump/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-24T23:38:30.000Z</news:publication_date>
+          <news:title>Does the Georgia case pose greatest threat to former President Trump?</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/politics/2023/08/24/does-the-georgia-case-pose-greatest-threat-to-former-president-trump/does-the-georgia-case-pose-greatest-threat-to-former-president-trump.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
         <loc>https://majordigest.com/politics/2023/08/24/gov-desantis-target-claims-miss-their-mark-in-gop-primary-debate/</loc>
         <news:news>
           <news:publication>
@@ -420,6 +364,20 @@
         </news:news>
         <image:image>
           <image:loc>https://majordigest.com/politics/2023/08/24/gov-desantis-target-claims-miss-their-mark-in-gop-primary-debate/gov-desantis-target-claims-miss-their-mark-in-gop-primary-debate.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/politics/2023/08/24/covid-19-cases-rise-cdc-recommends-updated-vaccine/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-24T20:37:19.000Z</news:publication_date>
+          <news:title>COVID-19 cases rise, CDC recommends updated vaccine</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/politics/2023/08/24/covid-19-cases-rise-cdc-recommends-updated-vaccine/covid-19-cases-rise-cdc-recommends-updated-vaccine.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -451,20 +409,6 @@
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/politics/2023/08/24/trump-set-to-surrender-at-georgia-jail-on-charges-that-he-sought-to-overturn-2020-election/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-24T10:53:23.000Z</news:publication_date>
-          <news:title>Trump set to surrender at Georgia jail on charges that he sought to overturn 2020 election</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/politics/2023/08/24/trump-set-to-surrender-at-georgia-jail-on-charges-that-he-sought-to-overturn-2020-election/trump-set-to-surrender-at-georgia-jail-on-charges-that-he-sought-to-overturn-2020-election.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
         <loc>https://majordigest.com/politics/2023/08/24/rep-mike-levin-makes-stop-in-encinitas-to-talk-climate-following-first-tropical-storm-in-decades/</loc>
         <news:news>
           <news:publication>
@@ -493,6 +437,20 @@
         </image:image>
       </url>
       <url>
+        <loc>https://majordigest.com/politics/2023/08/23/ap-who-takes-advantage-of-donald-trumps-absence-and-other-things-to-watch-in-the-republican-debate/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-23T21:48:37.000Z</news:publication_date>
+          <news:title>Who takes advantage of Donald Trump's absence and other things to watch in the Republican debate</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/politics/2023/08/23/ap-who-takes-advantage-of-donald-trumps-absence-and-other-things-to-watch-in-the-republican-debate/ap-who-takes-advantage-of-donald-trumps-absence-and-other-things-to-watch-in-the-republican-debate.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
         <loc>https://majordigest.com/politics/2023/08/23/rudy-giuliani-surrenders-on-georgia-charges-alleging-an-illegal-plot-to-subvert-2020-election-jail-records-show/</loc>
         <news:news>
           <news:publication>
@@ -518,5 +476,47 @@
         </news:news>
         <image:image>
           <image:loc>https://majordigest.com/politics/2023/08/21/biden-campaign-launches-25m-ad-buy-in-battleground-states-including-nevada/biden-campaign-launches-25m-ad-buy-in-battleground-states-including-nevada.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/politics/2023/08/21/assemblywoman-heidi-kasama-joins-republican-challengers-for-lees-seat-in-congress/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-21T19:16:18.000Z</news:publication_date>
+          <news:title>Assemblywoman Heidi Kasama joins Republican challengers for Lee's seat in Congress</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/politics/2023/08/21/assemblywoman-heidi-kasama-joins-republican-challengers-for-lees-seat-in-congress/assemblywoman-heidi-kasama-joins-republican-challengers-for-lees-seat-in-congress.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/politics/2023/08/21/biden-campaign-targets-battleground-states-with-25m-ad-campaign/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-21T16:18:12.000Z</news:publication_date>
+          <news:title>Biden campaign targets battleground states with $25M ad campaign</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/politics/2023/08/21/biden-campaign-targets-battleground-states-with-25m-ad-campaign/biden-campaign-targets-battleground-states-with-25m-ad-campaign.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/politics/2023/08/21/candidates-face-tricky-balancing-act-on-trump-at-first-gop-debate/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-21T10:00:44.000Z</news:publication_date>
+          <news:title>Candidates face tricky balancing act on Trump at first GOP debate</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/politics/2023/08/21/candidates-face-tricky-balancing-act-on-trump-at-first-gop-debate/candidates-face-tricky-balancing-act-on-trump-at-first-gop-debate.webp</image:loc>
         </image:image>
       </url></urlset>

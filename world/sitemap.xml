@@ -3,6 +3,48 @@
               xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
               xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
       <url>
+        <loc>https://majordigest.com/world/2023/08/28/france-to-ban-islamic-dress-in-schools/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-28T02:01:47.000Z</news:publication_date>
+          <news:title>France to ban Islamic dress in schools&#160;</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/world/2023/08/28/france-to-ban-islamic-dress-in-schools/france-to-ban-islamic-dress-in-schools.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/world/2023/08/28/archaeologists-northern-peru-unearth-tomb-honor-priest/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-28T01:49:19.000Z</news:publication_date>
+          <news:title>Archaeologists in northern Peru unearth 3,000-year-old tomb believed to honor priest</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/world/2023/08/28/archaeologists-northern-peru-unearth-tomb-honor-priest/archaeologists-northern-peru-unearth-tomb-honor-priest.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/world/2023/08/28/greek-authorities-arrest-79-arsonist-scum-connection-devastating-wildfires/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-28T01:43:39.000Z</news:publication_date>
+          <news:title>Greek authorities arrest 79 &#8216;arsonist scum&#8217; in connection with devastating wildfires</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/world/2023/08/28/greek-authorities-arrest-79-arsonist-scum-connection-devastating-wildfires/greek-authorities-arrest-79-arsonist-scum-connection-devastating-wildfires.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
         <loc>https://majordigest.com/world/2023/08/27/north-korea-allowing-citizens-abroad-return-home-first-time-since-2020-state-media-says/</loc>
         <news:news>
           <news:publication>
@@ -59,20 +101,6 @@
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/world/2023/08/27/ap-at-japanese-nuclear-plant-controversial-treated-water-release-just-the-beginning-of-decommissioning/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-27T14:34:49.000Z</news:publication_date>
-          <news:title>At Japanese nuclear plant, controversial treated water release just the beginning of decommissioning</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/world/2023/08/27/ap-at-japanese-nuclear-plant-controversial-treated-water-release-just-the-beginning-of-decommissioning/ap-at-japanese-nuclear-plant-controversial-treated-water-release-just-the-beginning-of-decommissioning.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
         <loc>https://majordigest.com/world/2023/08/27/at-japanese-nuclear-plant-controversial-treated-water-release-just-the-beginning-of-decommissioning/</loc>
         <news:news>
           <news:publication>
@@ -80,7 +108,7 @@
             <news:language>en</news:language>
           </news:publication>
           <news:publication_date>2023-08-27T14:34:48.000Z</news:publication_date>
-          <news:title>At Japanese nuclear plant, controversial treated water release just the beginning of decommissioning</news:title>
+          <news:title>Removing Fukushima's melted nuclear fuel will be harder than the release of plant's wastewater</news:title>
         </news:news>
         <image:image>
           <image:loc>https://majordigest.com/world/2023/08/27/at-japanese-nuclear-plant-controversial-treated-water-release-just-the-beginning-of-decommissioning/at-japanese-nuclear-plant-controversial-treated-water-release-just-the-beginning-of-decommissioning.webp</image:loc>
@@ -115,6 +143,20 @@
         </image:image>
       </url>
       <url>
+        <loc>https://majordigest.com/world/2023/08/27/wagner-boss-confirmed-dead-by-russian-officials/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-27T12:10:42.000Z</news:publication_date>
+          <news:title>Wagner boss confirmed dead by Russian officials</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/world/2023/08/27/wagner-boss-confirmed-dead-by-russian-officials/wagner-boss-confirmed-dead-by-russian-officials.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
         <loc>https://majordigest.com/world/2023/08/27/ap-prigozhins-final-months-were-overshadowed-by-questions-about-what-the-kremlin-had-in-store-for-him/</loc>
         <news:news>
           <news:publication>
@@ -140,20 +182,6 @@
         </news:news>
         <image:image>
           <image:loc>https://majordigest.com/world/2023/08/27/zimbabwes-opposition-alleges-gigantic-fraud-in-vote-that-extends-the-zanu-pf-partys-43-year-rule/zimbabwes-opposition-alleges-gigantic-fraud-in-vote-that-extends-the-zanu-pf-partys-43-year-rule.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/world/2023/08/27/russia-says-it-has-confirmed-prigozhin-died-in-the-plane-crash/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-27T10:50:02.000Z</news:publication_date>
-          <news:title>Russia says it confirmed Wagner leader Prigozhin died in a plane crash</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/world/2023/08/27/russia-says-it-has-confirmed-prigozhin-died-in-the-plane-crash/russia-says-it-has-confirmed-prigozhin-died-in-the-plane-crash.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -185,6 +213,20 @@
         </image:image>
       </url>
       <url>
+        <loc>https://majordigest.com/world/2023/08/27/ap-zimbabwean-president-emmerson-mnangagwa-wins-re-election-after-troubled-vote/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-27T07:30:51.000Z</news:publication_date>
+          <news:title>Zimbabwean President Emmerson Mnangagwa wins re-election after troubled vote, officials say</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/world/2023/08/27/ap-zimbabwean-president-emmerson-mnangagwa-wins-re-election-after-troubled-vote/ap-zimbabwean-president-emmerson-mnangagwa-wins-re-election-after-troubled-vote.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
         <loc>https://majordigest.com/world/2023/08/27/us-military-aircraft-carrying-about-20-marines-crashes-over-australia-killing-3-injuring-others/</loc>
         <news:news>
           <news:publication>
@@ -196,34 +238,6 @@
         </news:news>
         <image:image>
           <image:loc>https://majordigest.com/world/2023/08/27/us-military-aircraft-carrying-about-20-marines-crashes-over-australia-killing-3-injuring-others/us-military-aircraft-carrying-about-20-marines-crashes-over-australia-killing-3-injuring-others.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/world/2023/08/27/uks-125m-ai-chip-investment-not-enough-keep-pace-tech-race-experts-warn-go-big-go-home/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-27T06:05:59.000Z</news:publication_date>
-          <news:title>UK's $125M AI chip investment not enough to keep pace in tech race, experts warn: 'Go big or go home'</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/world/2023/08/27/uks-125m-ai-chip-investment-not-enough-keep-pace-tech-race-experts-warn-go-big-go-home/uks-125m-ai-chip-investment-not-enough-keep-pace-tech-race-experts-warn-go-big-go-home.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/world/2023/08/27/russias-top-mercenary-force-faces-uncertain-future-threat-survival-warlords-apparent-demise/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-27T05:20:15.000Z</news:publication_date>
-          <news:title>Russia's top mercenary force faces uncertain future, threat to survival following warlord's apparent demise</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/world/2023/08/27/russias-top-mercenary-force-faces-uncertain-future-threat-survival-warlords-apparent-demise/russias-top-mercenary-force-faces-uncertain-future-threat-survival-warlords-apparent-demise.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -339,34 +353,6 @@
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/world/2023/08/26/spacex-nasa-launch-international-crew-to-space-station-a-united-team-with-a-common-mission/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-26T17:46:38.000Z</news:publication_date>
-          <news:title>SpaceX, NASA launch international crew to space station: 'A united team with a common mission'</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/world/2023/08/26/spacex-nasa-launch-international-crew-to-space-station-a-united-team-with-a-common-mission/spacex-nasa-launch-international-crew-to-space-station-a-united-team-with-a-common-mission.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/world/2023/08/26/mccarthy-orders-capitol-flag-at-half-staff-to-honor-13-service-members-killed-in-afghanistan-exit/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-26T17:12:54.000Z</news:publication_date>
-          <news:title>McCarthy orders Capitol flag at half-staff to honor 13 service members killed in Afghanistan exit</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/world/2023/08/26/mccarthy-orders-capitol-flag-at-half-staff-to-honor-13-service-members-killed-in-afghanistan-exit/mccarthy-orders-capitol-flag-at-half-staff-to-honor-13-service-members-killed-in-afghanistan-exit.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
         <loc>https://majordigest.com/world/2023/08/26/ap-wall-street-journal-reporter-evan-gershkovich-appeals-extension-of-pretrial-detention-in-russia/</loc>
         <news:news>
           <news:publication>
@@ -378,6 +364,20 @@
         </news:news>
         <image:image>
           <image:loc>https://majordigest.com/world/2023/08/26/ap-wall-street-journal-reporter-evan-gershkovich-appeals-extension-of-pretrial-detention-in-russia/ap-wall-street-journal-reporter-evan-gershkovich-appeals-extension-of-pretrial-detention-in-russia.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/world/2023/08/26/ap-a-crush-at-the-opening-ceremony-of-the-indian-ocean-island-games-in-madagascar-kills-at-least-12/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-26T15:29:30.000Z</news:publication_date>
+          <news:title>Crush of people at opening ceremony of the Indian Ocean Island Games in Madagascar kills at least 12</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/world/2023/08/26/ap-a-crush-at-the-opening-ceremony-of-the-indian-ocean-island-games-in-madagascar-kills-at-least-12/ap-a-crush-at-the-opening-ceremony-of-the-indian-ocean-island-games-in-madagascar-kills-at-least-12.webp</image:loc>
         </image:image>
       </url>
       <url>
