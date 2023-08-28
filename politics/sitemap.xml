@@ -17,17 +17,31 @@
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/politics/2023/08/28/republicans-gas-prices-oil-production/</loc>
+        <loc>https://majordigest.com/politics/2023/08/28/georgia-trump-removal-hearing-federal-court/</loc>
         <news:news>
           <news:publication>
             <news:name>Major Digest</news:name>
             <news:language>en</news:language>
           </news:publication>
           <news:publication_date>2023-08-28T08:30:00.000Z</news:publication_date>
-          <news:title>Republicans seize on gasoline prices, but the U.S. is pumping oil faster than ever</news:title>
+          <news:title>First test in Georgia v. Trump: Can prosecutors keep home-court advantage?</news:title>
         </news:news>
         <image:image>
-          <image:loc>https://majordigest.com/politics/2023/08/28/republicans-gas-prices-oil-production/republicans-gas-prices-oil-production.webp</image:loc>
+          <image:loc>https://majordigest.com/politics/2023/08/28/georgia-trump-removal-hearing-federal-court/georgia-trump-removal-hearing-federal-court.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/politics/2023/08/28/biden-and-harris-will-meet-with-kings-family-on-60th-anniversary-of-the-march-on-washington/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-28T04:59:50.000Z</news:publication_date>
+          <news:title>Biden and Harris will meet with King's family on 60th anniversary of the March on Washington</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/politics/2023/08/28/biden-and-harris-will-meet-with-kings-family-on-60th-anniversary-of-the-march-on-washington/biden-and-harris-will-meet-with-kings-family-on-60th-anniversary-of-the-march-on-washington.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -101,20 +115,6 @@
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/politics/2023/08/27/biden-harris-advisers-irked-newsoms-plan-debate-desantis-disrespectful/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-27T21:48:44.000Z</news:publication_date>
-          <news:title>Biden, Harris advisers irked by Newsom's plan to debate DeSantis: 'Disrespectful'</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/politics/2023/08/27/biden-harris-advisers-irked-newsoms-plan-debate-desantis-disrespectful/biden-harris-advisers-irked-newsoms-plan-debate-desantis-disrespectful.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
         <loc>https://majordigest.com/politics/2023/08/27/house-republicans-barrel-toward-biden-impeachment-inquiry-but-some-hesitate/</loc>
         <news:news>
           <news:publication>
@@ -143,34 +143,6 @@
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/politics/2023/08/27/pence-sidesteps-supporting-trump-convicted-biden-too-trampled-constitution/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-27T18:43:26.000Z</news:publication_date>
-          <news:title>Pence sidesteps on supporting Trump if convicted, says Biden also 'has trampled on the Constitution'</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/politics/2023/08/27/pence-sidesteps-supporting-trump-convicted-biden-too-trampled-constitution/pence-sidesteps-supporting-trump-convicted-biden-too-trampled-constitution.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/politics/2023/08/27/a-house-impeachment-inquiry-of-president-biden-is-a-natural-step-forward-speaker-mccarthy-says/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-27T18:34:44.000Z</news:publication_date>
-          <news:title>A House impeachment inquiry of President Biden is a 'natural step forward,' Speaker McCarthy says</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/politics/2023/08/27/a-house-impeachment-inquiry-of-president-biden-is-a-natural-step-forward-speaker-mccarthy-says/a-house-impeachment-inquiry-of-president-biden-is-a-natural-step-forward-speaker-mccarthy-says.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
         <loc>https://majordigest.com/politics/2023/08/27/mike-pence-debate-support-jan6/</loc>
         <news:news>
           <news:publication>
@@ -185,6 +157,34 @@
         </image:image>
       </url>
       <url>
+        <loc>https://majordigest.com/politics/2023/08/27/biden-campaign-trump-policies-richmond/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-27T15:12:45.000Z</news:publication_date>
+          <news:title>Biden campaign: It might not be Trump, but it&#8217;ll still be his policies in the general election</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/politics/2023/08/27/biden-campaign-trump-policies-richmond/biden-campaign-trump-policies-richmond.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/politics/2023/08/27/2024-republicans-want-to-eliminate-the-education-department-what-would-that-look-like/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-27T14:02:15.000Z</news:publication_date>
+          <news:title>2024 Republicans want to eliminate the Education Department. What would that look like?</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/politics/2023/08/27/2024-republicans-want-to-eliminate-the-education-department-what-would-that-look-like/2024-republicans-want-to-eliminate-the-education-department-what-would-that-look-like.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
         <loc>https://majordigest.com/politics/2023/08/27/npr-minnesota-felon-voting-rights-restoration/</loc>
         <news:news>
           <news:publication>
@@ -196,6 +196,20 @@
         </news:news>
         <image:image>
           <image:loc>https://majordigest.com/politics/2023/08/27/npr-minnesota-felon-voting-rights-restoration/npr-minnesota-felon-voting-rights-restoration.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/politics/2023/08/26/trump-campaign-reports-raising-more-than-7-million-after-georgia-booking/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-26T23:44:03.000Z</news:publication_date>
+          <news:title>Trump campaign reports raising more than $7 million after Georgia booking</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/politics/2023/08/26/trump-campaign-reports-raising-more-than-7-million-after-georgia-booking/trump-campaign-reports-raising-more-than-7-million-after-georgia-booking.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -269,17 +283,17 @@
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/politics/2023/08/25/new-york-man-sentenced-to-3-months-in-prison-for-making-threatening-phone-calls-to-rep-marjorie-taylor-greene/</loc>
+        <loc>https://majordigest.com/politics/2023/08/25/texans-asked-to-conserve-energy-for-a-third-time-this-week/</loc>
         <news:news>
           <news:publication>
             <news:name>Major Digest</news:name>
             <news:language>en</news:language>
           </news:publication>
-          <news:publication_date>2023-08-25T19:49:09.000Z</news:publication_date>
-          <news:title>NY man sentenced to prison for making threatening&#160;phone calls to Rep. Marjorie Taylor Greene</news:title>
+          <news:publication_date>2023-08-25T18:06:40.000Z</news:publication_date>
+          <news:title>Texas asked residents to conserve power for four consecutive days amid intense heat</news:title>
         </news:news>
         <image:image>
-          <image:loc>https://majordigest.com/politics/2023/08/25/new-york-man-sentenced-to-3-months-in-prison-for-making-threatening-phone-calls-to-rep-marjorie-taylor-greene/new-york-man-sentenced-to-3-months-in-prison-for-making-threatening-phone-calls-to-rep-marjorie-taylor-greene.webp</image:loc>
+          <image:loc>https://majordigest.com/politics/2023/08/25/texans-asked-to-conserve-energy-for-a-third-time-this-week/texans-asked-to-conserve-energy-for-a-third-time-this-week.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -294,20 +308,6 @@
         </news:news>
         <image:image>
           <image:loc>https://majordigest.com/politics/2023/08/25/carlos-santana-issues-apology-for-anti-trans-remarks-on-stage/carlos-santana-issues-apology-for-anti-trans-remarks-on-stage.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/politics/2023/08/25/trump-recounts-terrible-experience-of-being-booked-in-georgia/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-25T12:58:40.000Z</news:publication_date>
-          <news:title>Trump recounts 'terrible experience' of being booked in Georgia</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/politics/2023/08/25/trump-recounts-terrible-experience-of-being-booked-in-georgia/trump-recounts-terrible-experience-of-being-booked-in-georgia.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -350,20 +350,6 @@
         </news:news>
         <image:image>
           <image:loc>https://majordigest.com/politics/2023/08/24/gov-desantis-target-claims-miss-their-mark-in-gop-primary-debate/gov-desantis-target-claims-miss-their-mark-in-gop-primary-debate.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/politics/2023/08/24/apple-backs-californias-right-to-repair-bill-in-major-policy-shift/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-24T21:36:45.000Z</news:publication_date>
-          <news:title>Apple backs California's 'Right to Repair' bill in major policy shift</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/politics/2023/08/24/apple-backs-californias-right-to-repair-bill-in-major-policy-shift/apple-backs-californias-right-to-repair-bill-in-major-policy-shift.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -465,6 +451,34 @@
         </image:image>
       </url>
       <url>
+        <loc>https://majordigest.com/politics/2023/08/23/who-takes-advantage-of-donald-trumps-absence-and-other-things-to-watch-in-the-republican-debate/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-23T21:48:37.000Z</news:publication_date>
+          <news:title>Who takes advantage of Donald Trump's absence and other things to watch in the Republican debate</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/politics/2023/08/23/who-takes-advantage-of-donald-trumps-absence-and-other-things-to-watch-in-the-republican-debate/who-takes-advantage-of-donald-trumps-absence-and-other-things-to-watch-in-the-republican-debate.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/politics/2023/08/23/rudy-giuliani-surrenders-on-georgia-charges-alleging-an-illegal-plot-to-subvert-2020-election-jail-records-show/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-23T19:26:31.000Z</news:publication_date>
+          <news:title>Rudy Giuliani surrenders on Georgia charges alleging an illegal plot to subvert 2020 election, jail records show</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/politics/2023/08/23/rudy-giuliani-surrenders-on-georgia-charges-alleging-an-illegal-plot-to-subvert-2020-election-jail-records-show/rudy-giuliani-surrenders-on-georgia-charges-alleging-an-illegal-plot-to-subvert-2020-election-jail-records-show.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
         <loc>https://majordigest.com/politics/2023/08/21/biden-campaign-launches-25m-ad-buy-in-battleground-states-including-nevada/</loc>
         <news:news>
           <news:publication>
@@ -504,19 +518,5 @@
         </news:news>
         <image:image>
           <image:loc>https://majordigest.com/politics/2023/08/21/how-to-watch-the-first-republican-presidential-primary-debate/how-to-watch-the-first-republican-presidential-primary-debate.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/politics/2023/08/21/biden-campaign-targets-battleground-states-with-25m-ad-campaign/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-21T16:18:12.000Z</news:publication_date>
-          <news:title>Biden campaign targets battleground states with $25M ad campaign</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/politics/2023/08/21/biden-campaign-targets-battleground-states-with-25m-ad-campaign/biden-campaign-targets-battleground-states-with-25m-ad-campaign.webp</image:loc>
         </image:image>
       </url></urlset>

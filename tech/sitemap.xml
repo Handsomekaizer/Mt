@@ -3,20 +3,6 @@
               xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
               xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
       <url>
-        <loc>https://majordigest.com/tech/2023/08/28/how-an-ai-gold-rush-is-reviving-the-tech-industry/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-28T10:00:00.000Z</news:publication_date>
-          <news:title>How an AI 'gold rush' is reviving the tech industry</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/tech/2023/08/28/how-an-ai-gold-rush-is-reviving-the-tech-industry/how-an-ai-gold-rush-is-reviving-the-tech-industry.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
         <loc>https://majordigest.com/tech/2023/08/27/how-make-devices-impossible-snoop-privacy-screen/</loc>
         <news:news>
           <news:publication>
@@ -101,20 +87,6 @@
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/tech/2023/08/26/how-stop-someone-tracking-you-your-phone/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-26T17:21:40.000Z</news:publication_date>
-          <news:title>How to stop someone from tracking you on your phone</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/tech/2023/08/26/how-stop-someone-tracking-you-your-phone/how-stop-someone-tracking-you-your-phone.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
         <loc>https://majordigest.com/tech/2023/08/26/much-of-florida-under-state-of-emergency-as-possible-tropical-storm-forms-in-gulf-of-mexico/</loc>
         <news:news>
           <news:publication>
@@ -126,6 +98,20 @@
         </news:news>
         <image:image>
           <image:loc>https://majordigest.com/tech/2023/08/26/much-of-florida-under-state-of-emergency-as-possible-tropical-storm-forms-in-gulf-of-mexico/much-of-florida-under-state-of-emergency-as-possible-tropical-storm-forms-in-gulf-of-mexico.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/tech/2023/08/26/good-old-fashioned-redlining-why-was-oakland-cut-out-of-state-plan-for-high-speed-internet/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-26T12:45:09.000Z</news:publication_date>
+          <news:title>&#8220;Good old-fashioned redlining&#8221;: Why was Oakland cut out of state plan for high-speed internet?</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/tech/2023/08/26/good-old-fashioned-redlining-why-was-oakland-cut-out-of-state-plan-for-high-speed-internet/good-old-fashioned-redlining-why-was-oakland-cut-out-of-state-plan-for-high-speed-internet.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -143,20 +129,6 @@
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/tech/2023/08/26/a-broad-genetic-test-saved-one-newborns-life-research-suggests-it-could-help-millions-of-others/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-26T11:44:30.000Z</news:publication_date>
-          <news:title>A broad genetic test saved one newborn's life. Research suggests it could help millions of others</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/tech/2023/08/26/a-broad-genetic-test-saved-one-newborns-life-research-suggests-it-could-help-millions-of-others/a-broad-genetic-test-saved-one-newborns-life-research-suggests-it-could-help-millions-of-others.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
         <loc>https://majordigest.com/tech/2023/08/26/phone-tracks-everywhere-youve-been-see-delete-it/</loc>
         <news:news>
           <news:publication>
@@ -168,6 +140,20 @@
         </news:news>
         <image:image>
           <image:loc>https://majordigest.com/tech/2023/08/26/phone-tracks-everywhere-youve-been-see-delete-it/phone-tracks-everywhere-youve-been-see-delete-it.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/tech/2023/08/25/appeals-court-revives-bribery-charge-for-apple-security-exec-in-santa-clara-county-concealed-gun-permit-scandal/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-25T23:02:56.000Z</news:publication_date>
+          <news:title>Appeals court revives bribery charge for Apple security exec in Santa Clara County concealed-gun permit scandal</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/tech/2023/08/25/appeals-court-revives-bribery-charge-for-apple-security-exec-in-santa-clara-county-concealed-gun-permit-scandal/appeals-court-revives-bribery-charge-for-apple-security-exec-in-santa-clara-county-concealed-gun-permit-scandal.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -227,20 +213,6 @@
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/tech/2023/08/25/doj-sues-spacex-alleging-it-discriminated-against-refugees-asylum-seekers/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-25T14:06:52.000Z</news:publication_date>
-          <news:title>DOJ sues SpaceX, alleging it discriminated against refugees, asylum seekers</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/tech/2023/08/25/doj-sues-spacex-alleging-it-discriminated-against-refugees-asylum-seekers/doj-sues-spacex-alleging-it-discriminated-against-refugees-asylum-seekers.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
         <loc>https://majordigest.com/tech/2023/08/25/los-angeles-solar-ev-chargers-ev-arc-beam-global/</loc>
         <news:news>
           <news:publication>
@@ -266,6 +238,20 @@
         </news:news>
         <image:image>
           <image:loc>https://majordigest.com/tech/2023/08/25/trump-returns-to-twitter-under-its-new-moniker-x/trump-returns-to-twitter-under-its-new-moniker-x.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/tech/2023/08/25/t-mobile-lay-off-5000-employees/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-25T01:39:17.000Z</news:publication_date>
+          <news:title>T-Mobile to lay off 5,000 employees</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/tech/2023/08/25/t-mobile-lay-off-5000-employees/t-mobile-lay-off-5000-employees.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -308,6 +294,20 @@
         </news:news>
         <image:image>
           <image:loc>https://majordigest.com/tech/2023/08/24/doj-sues-spacex-asylees/doj-sues-spacex-asylees.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/tech/2023/08/24/uber-raises-minimum-age-for-most-california-drivers-to-25-saying-insurance-costs-are-too-high/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-24T18:22:00.000Z</news:publication_date>
+          <news:title>Uber raises minimum age for most California drivers to 25, saying insurance costs are too high</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/tech/2023/08/24/uber-raises-minimum-age-for-most-california-drivers-to-25-saying-insurance-costs-are-too-high/uber-raises-minimum-age-for-most-california-drivers-to-25-saying-insurance-costs-are-too-high.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -381,20 +381,6 @@
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/tech/2023/08/23/childrens-advocates-ask-ftc-to-investigate-google-for-targeting-ads-to-kids/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-23T16:00:09.000Z</news:publication_date>
-          <news:title>Children's advocates ask FTC to investigate Google for targeting ads to kids</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/tech/2023/08/23/childrens-advocates-ask-ftc-to-investigate-google-for-targeting-ads-to-kids/childrens-advocates-ask-ftc-to-investigate-google-for-targeting-ads-to-kids.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
         <loc>https://majordigest.com/tech/2023/08/23/samsung-fold-5-versatile-but-with-compromises/</loc>
         <news:news>
           <news:publication>
@@ -420,6 +406,20 @@
         </news:news>
         <image:image>
           <image:loc>https://majordigest.com/tech/2023/08/23/a-failed-lunar-mission-dents-russian-pride-and-reflects-deeper-problems-with-moscows-space-industry/a-failed-lunar-mission-dents-russian-pride-and-reflects-deeper-problems-with-moscows-space-industry.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/tech/2023/08/22/ibm-is-selling-the-weather-company-assets-to-private-equity-firm-francisco-partners/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-22T17:36:52.000Z</news:publication_date>
+          <news:title>IBM is selling The Weather Company assets to private equity firm Francisco Partners</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/tech/2023/08/22/ibm-is-selling-the-weather-company-assets-to-private-equity-firm-francisco-partners/ibm-is-selling-the-weather-company-assets-to-private-equity-firm-francisco-partners.webp</image:loc>
         </image:image>
       </url>
       <url>

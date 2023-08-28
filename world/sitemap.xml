@@ -3,6 +3,20 @@
               xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
               xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
       <url>
+        <loc>https://majordigest.com/world/2023/08/28/china-will-no-longer-require-negative-covid-19-test-for-incoming-travelers/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-28T10:56:58.000Z</news:publication_date>
+          <news:title>China will no longer require negative COVID-19 test for incoming travelers</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/world/2023/08/28/china-will-no-longer-require-negative-covid-19-test-for-incoming-travelers/china-will-no-longer-require-negative-covid-19-test-for-incoming-travelers.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
         <loc>https://majordigest.com/world/2023/08/28/us-marines-hospitalized-deadly-aircraft-crash-australia/</loc>
         <news:news>
           <news:publication>
@@ -17,17 +31,31 @@
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/world/2023/08/28/libyas-foreign-minister-suspended-after-meeting-with-israels-chief-diplomat/</loc>
+        <loc>https://majordigest.com/world/2023/08/28/us-marines-hospitalized-deadly-aircraft-crash-australia/</loc>
         <news:news>
           <news:publication>
             <news:name>Major Digest</news:name>
             <news:language>en</news:language>
           </news:publication>
-          <news:publication_date>2023-08-28T08:04:25.000Z</news:publication_date>
-          <news:title>Libya&#8217;s foreign minister suspended after meeting with Israel&#8217;s chief diplomat</news:title>
+          <news:publication_date>2023-08-28T09:43:35.000Z</news:publication_date>
+          <news:title>8 US Marines remain hospitalized after deadly aircraft crash over Australia</news:title>
         </news:news>
         <image:image>
-          <image:loc>https://majordigest.com/world/2023/08/28/libyas-foreign-minister-suspended-after-meeting-with-israels-chief-diplomat/libyas-foreign-minister-suspended-after-meeting-with-israels-chief-diplomat.webp</image:loc>
+          <image:loc>https://majordigest.com/world/2023/08/28/us-marines-hospitalized-deadly-aircraft-crash-australia/us-marines-hospitalized-deadly-aircraft-crash-australia.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/world/2023/08/28/illegal-logging-thrives-in-mexico-citys-forest-covered-boroughs-as-locals-strive-to-plant-trees/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-28T05:00:55.000Z</news:publication_date>
+          <news:title>Illegal logging thrives in Mexico City's forest-covered boroughs, as locals strive to plant trees</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/world/2023/08/28/illegal-logging-thrives-in-mexico-citys-forest-covered-boroughs-as-locals-strive-to-plant-trees/illegal-logging-thrives-in-mexico-citys-forest-covered-boroughs-as-locals-strive-to-plant-trees.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -70,6 +98,20 @@
         </news:news>
         <image:image>
           <image:loc>https://majordigest.com/world/2023/08/28/archaeologists-northern-peru-unearth-tomb-honor-priest/archaeologists-northern-peru-unearth-tomb-honor-priest.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/world/2023/08/28/greek-authorities-arrest-79-arsonist-scum-connection-devastating-wildfires/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-28T01:43:39.000Z</news:publication_date>
+          <news:title>Greek authorities arrest 79 &#8216;arsonist scum&#8217; in connection with devastating wildfires</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/world/2023/08/28/greek-authorities-arrest-79-arsonist-scum-connection-devastating-wildfires/greek-authorities-arrest-79-arsonist-scum-connection-devastating-wildfires.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -157,17 +199,31 @@
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/world/2023/08/27/dna-test-confirms-yevgendy-prigozhin-aboard-crashed-jet-russia-says/</loc>
+        <loc>https://majordigest.com/world/2023/08/27/ukraine-investigates-incident-that-killed-3-pilots-while-russia-attacks-with-cruise-missiles/</loc>
         <news:news>
           <news:publication>
             <news:name>Major Digest</news:name>
             <news:language>en</news:language>
           </news:publication>
-          <news:publication_date>2023-08-27T12:41:46.000Z</news:publication_date>
-          <news:title>DNA test confirms Yevgeny Prigozhin was aboard crashed jet, Russia says</news:title>
+          <news:publication_date>2023-08-27T14:56:40.000Z</news:publication_date>
+          <news:title>Ukraine investigates incident that killed 3 pilots while Russia attacks with cruise missiles</news:title>
         </news:news>
         <image:image>
-          <image:loc>https://majordigest.com/world/2023/08/27/dna-test-confirms-yevgendy-prigozhin-aboard-crashed-jet-russia-says/dna-test-confirms-yevgendy-prigozhin-aboard-crashed-jet-russia-says.webp</image:loc>
+          <image:loc>https://majordigest.com/world/2023/08/27/ukraine-investigates-incident-that-killed-3-pilots-while-russia-attacks-with-cruise-missiles/ukraine-investigates-incident-that-killed-3-pilots-while-russia-attacks-with-cruise-missiles.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/world/2023/08/27/3-people-are-injured-1-critically-in-a-us-military-aircraft-crash-in-australia-officials-say/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-27T14:16:39.000Z</news:publication_date>
+          <news:title>A US Marine Osprey crashes during drills in Australia, killing 3 and injuring 20, some critically</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/world/2023/08/27/3-people-are-injured-1-critically-in-a-us-military-aircraft-crash-in-australia-officials-say/3-people-are-injured-1-critically-in-a-us-military-aircraft-crash-in-australia-officials-say.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -185,20 +241,6 @@
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/world/2023/08/27/prigozhins-final-months-were-overshadowed-by-questions-about-what-the-kremlin-had-in-store-for-him/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-27T11:20:32.000Z</news:publication_date>
-          <news:title>Prigozhin's final months were overshadowed by questions about what the Kremlin had in store for him</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/world/2023/08/27/prigozhins-final-months-were-overshadowed-by-questions-about-what-the-kremlin-had-in-store-for-him/prigozhins-final-months-were-overshadowed-by-questions-about-what-the-kremlin-had-in-store-for-him.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
         <loc>https://majordigest.com/world/2023/08/27/zimbabwes-opposition-alleges-gigantic-fraud-in-vote-that-extends-the-zanu-pf-partys-43-year-rule/</loc>
         <news:news>
           <news:publication>
@@ -210,6 +252,20 @@
         </news:news>
         <image:image>
           <image:loc>https://majordigest.com/world/2023/08/27/zimbabwes-opposition-alleges-gigantic-fraud-in-vote-that-extends-the-zanu-pf-partys-43-year-rule/zimbabwes-opposition-alleges-gigantic-fraud-in-vote-that-extends-the-zanu-pf-partys-43-year-rule.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/world/2023/08/27/with-drones-and-webcams-volunteer-hunters-join-new-search-for-mythical-loch-ness-monster/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-27T02:47:41.000Z</news:publication_date>
+          <news:title>With drones and webcams, volunteer hunters join new search for mythical Loch Ness Monster</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/world/2023/08/27/with-drones-and-webcams-volunteer-hunters-join-new-search-for-mythical-loch-ness-monster/with-drones-and-webcams-volunteer-hunters-join-new-search-for-mythical-loch-ness-monster.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -252,20 +308,6 @@
         </news:news>
         <image:image>
           <image:loc>https://majordigest.com/world/2023/08/26/biden-honors-service-members-killed-during-afghanistan-withdrawal/biden-honors-service-members-killed-during-afghanistan-withdrawal.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/world/2023/08/26/mexico-99-9-certain-to-elect-first-female-president-expert-says/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-26T18:56:22.000Z</news:publication_date>
-          <news:title>Mexico '99.9% certain' to elect first female president, expert says</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/world/2023/08/26/mexico-99-9-certain-to-elect-first-female-president-expert-says/mexico-99-9-certain-to-elect-first-female-president-expert-says.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -336,20 +378,6 @@
         </news:news>
         <image:image>
           <image:loc>https://majordigest.com/world/2023/08/26/a-crush-at-the-opening-ceremony-of-the-indian-ocean-island-games-in-madagascar-kills-at-least-12/a-crush-at-the-opening-ceremony-of-the-indian-ocean-island-games-in-madagascar-kills-at-least-12.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/world/2023/08/26/with-drones-and-webcams-volunteer-hunters-join-a-new-search-for-the-mythical-loch-ness-monster/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-26T14:07:48.000Z</news:publication_date>
-          <news:title>With new tech, volunteers join a search for the Loch Ness Monster</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/world/2023/08/26/with-drones-and-webcams-volunteer-hunters-join-a-new-search-for-the-mythical-loch-ness-monster/with-drones-and-webcams-volunteer-hunters-join-a-new-search-for-the-mythical-loch-ness-monster.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -448,34 +476,6 @@
         </news:news>
         <image:image>
           <image:loc>https://majordigest.com/world/2023/08/23/jet-crash-in-russia-kills-10-and-wagner-chief-was-on-passenger-list-officials-say/jet-crash-in-russia-kills-10-and-wagner-chief-was-on-passenger-list-officials-say.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/world/2023/08/23/jet-crash-in-russia-kills-10-and-wagner-chief-was-on-passenger-list-officials-say/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-23T17:38:57.000Z</news:publication_date>
-          <news:title>Jet crash in Russia kills 10 and Wagner chief was on passenger list, officials say</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/world/2023/08/23/jet-crash-in-russia-kills-10-and-wagner-chief-was-on-passenger-list-officials-say/jet-crash-in-russia-kills-10-and-wagner-chief-was-on-passenger-list-officials-say.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/world/2023/08/23/india-lands-a-spacecraft-near-the-moons-south-pole-a-first-for-the-world-as-it-joins-elite-club/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-23T15:40:35.000Z</news:publication_date>
-          <news:title>India lands a spacecraft near the moon's south pole, a first for the world as it joins elite club</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/world/2023/08/23/india-lands-a-spacecraft-near-the-moons-south-pole-a-first-for-the-world-as-it-joins-elite-club/india-lands-a-spacecraft-near-the-moons-south-pole-a-first-for-the-world-as-it-joins-elite-club.webp</image:loc>
         </image:image>
       </url>
       <url>

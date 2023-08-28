@@ -3,6 +3,104 @@
               xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
               xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
       <url>
+        <loc>https://majordigest.com/us/2023/08/28/dhs-growing-trend-of-migrant-children-abandoned-at-border/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-28T11:07:56.000Z</news:publication_date>
+          <news:title>DHS: Growing trend of migrant children abandoned at border</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/us/2023/08/28/dhs-growing-trend-of-migrant-children-abandoned-at-border/dhs-growing-trend-of-migrant-children-abandoned-at-border.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/us/2023/08/28/trial-des-moines-school-shooter-killed-2-people-set-begin-week/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-28T11:07:13.000Z</news:publication_date>
+          <news:title>Trial for Des Moines school shooter that killed 2 people set to begin this week</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/us/2023/08/28/trial-des-moines-school-shooter-killed-2-people-set-begin-week/trial-des-moines-school-shooter-killed-2-people-set-begin-week.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/us/2023/08/28/dems-blaming-climate-change-for-maui-fire-get-reality-check-hospitals-bring-back-masks-and-more-top-headlines/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-28T11:03:22.000Z</news:publication_date>
+          <news:title>Dems blaming climate change for Maui fire get reality check, hospitals bring back masks and more top headlines</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/us/2023/08/28/dems-blaming-climate-change-for-maui-fire-get-reality-check-hospitals-bring-back-masks-and-more-top-headlines/dems-blaming-climate-change-for-maui-fire-get-reality-check-hospitals-bring-back-masks-and-more-top-headlines.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/us/2023/08/28/authors-book-hometown-murder-mystery-helps-lead-retired-pastors-arrest-girls-1975-killing/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-28T11:00:42.000Z</news:publication_date>
+          <news:title>Authors' book on hometown murder mystery helps lead to retired pastor's arrest in girl's 1975 killing</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/us/2023/08/28/authors-book-hometown-murder-mystery-helps-lead-retired-pastors-arrest-girls-1975-killing/authors-book-hometown-murder-mystery-helps-lead-retired-pastors-arrest-girls-1975-killing.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/us/2023/08/28/idalia-on-track-to-hit-us-as-a-hurricane-forecasters-say/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-28T10:28:30.000Z</news:publication_date>
+          <news:title>Idalia on track to hit US as a hurricane, forecasters say</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/us/2023/08/28/idalia-on-track-to-hit-us-as-a-hurricane-forecasters-say/idalia-on-track-to-hit-us-as-a-hurricane-forecasters-say.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/us/2023/08/28/libyas-foreign-minister-suspended-after-meeting-with-israels-chief-diplomat/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-28T10:27:28.000Z</news:publication_date>
+          <news:title>Libya&#8217;s foreign minister suspended after meeting with Israel&#8217;s chief diplomat</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/us/2023/08/28/libyas-foreign-minister-suspended-after-meeting-with-israels-chief-diplomat/libyas-foreign-minister-suspended-after-meeting-with-israels-chief-diplomat.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/us/2023/08/28/biden-and-the-first-lady-head-to-district-of-columbia-public-middle-school-to-welcome-back-students/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-28T10:14:40.000Z</news:publication_date>
+          <news:title>Biden and the first lady head to District of Columbia public middle school to welcome back students</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/us/2023/08/28/biden-and-the-first-lady-head-to-district-of-columbia-public-middle-school-to-welcome-back-students/biden-and-the-first-lady-head-to-district-of-columbia-public-middle-school-to-welcome-back-students.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
         <loc>https://majordigest.com/us/2023/08/28/georgia-courtroom-battles-begin-monday-in-next-stage-of-trump-case/</loc>
         <news:news>
           <news:publication>
@@ -14,20 +112,6 @@
         </news:news>
         <image:image>
           <image:loc>https://majordigest.com/us/2023/08/28/georgia-courtroom-battles-begin-monday-in-next-stage-of-trump-case/georgia-courtroom-battles-begin-monday-in-next-stage-of-trump-case.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/us/2023/08/28/china-wont-require-covid-19-testing-for-incoming-travelers-starting-wednesday/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-28T10:00:42.000Z</news:publication_date>
-          <news:title>China won't require COVID-19 tests for incoming travelers in a milestone in its reopening</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/us/2023/08/28/china-wont-require-covid-19-testing-for-incoming-travelers-starting-wednesday/china-wont-require-covid-19-testing-for-incoming-travelers-starting-wednesday.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -45,20 +129,6 @@
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/us/2023/08/28/at-japanese-nuclear-plant-controversial-treated-water-release-just-the-beginning-of-decommissioning/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-28T07:20:07.000Z</news:publication_date>
-          <news:title>Removing Fukushima's melted nuclear fuel will be harder than the release of plant's wastewater</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/us/2023/08/28/at-japanese-nuclear-plant-controversial-treated-water-release-just-the-beginning-of-decommissioning/at-japanese-nuclear-plant-controversial-treated-water-release-just-the-beginning-of-decommissioning.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
         <loc>https://majordigest.com/us/2023/08/28/ai-can-combat-colonial-pipeline-like-cyberattacks-that-cripple-hospitals-critical-services-expert/</loc>
         <news:news>
           <news:publication>
@@ -73,31 +143,17 @@
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/us/2023/08/28/illegal-logging-thrives-in-mexico-citys-forest-covered-boroughs-as-locals-strive-to-plant-trees/</loc>
+        <loc>https://majordigest.com/us/2023/08/28/8-us-marines-remain-in-hospital-after-fiery-aircraft-crash-killed-3-in-australia/</loc>
         <news:news>
           <news:publication>
             <news:name>Major Digest</news:name>
             <news:language>en</news:language>
           </news:publication>
-          <news:publication_date>2023-08-28T05:00:55.000Z</news:publication_date>
-          <news:title>Illegal logging thrives in Mexico City's forest-covered boroughs, as locals strive to plant trees</news:title>
+          <news:publication_date>2023-08-28T05:36:17.000Z</news:publication_date>
+          <news:title>8 US Marines remain in a hospital after a fiery aircraft crash killed 3 during drills in Australia</news:title>
         </news:news>
         <image:image>
-          <image:loc>https://majordigest.com/us/2023/08/28/illegal-logging-thrives-in-mexico-citys-forest-covered-boroughs-as-locals-strive-to-plant-trees/illegal-logging-thrives-in-mexico-citys-forest-covered-boroughs-as-locals-strive-to-plant-trees.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/us/2023/08/28/biden-and-harris-will-meet-with-kings-family-on-60th-anniversary-of-the-march-on-washington/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-28T04:59:50.000Z</news:publication_date>
-          <news:title>Biden and Harris will meet with King's family on 60th anniversary of the March on Washington</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/us/2023/08/28/biden-and-harris-will-meet-with-kings-family-on-60th-anniversary-of-the-march-on-washington/biden-and-harris-will-meet-with-kings-family-on-60th-anniversary-of-the-march-on-washington.webp</image:loc>
+          <image:loc>https://majordigest.com/us/2023/08/28/8-us-marines-remain-in-hospital-after-fiery-aircraft-crash-killed-3-in-australia/8-us-marines-remain-in-hospital-after-fiery-aircraft-crash-killed-3-in-australia.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -143,59 +199,17 @@
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/us/2023/08/28/simone-biles-wins-a-record-8th-us-gymnastics-title-a-full-decade-after-her-first/</loc>
+        <loc>https://majordigest.com/us/2023/08/28/dana-bash-spars-with-ramaswamy-over-race-remarks/</loc>
         <news:news>
           <news:publication>
             <news:name>Major Digest</news:name>
             <news:language>en</news:language>
           </news:publication>
-          <news:publication_date>2023-08-28T03:36:49.000Z</news:publication_date>
-          <news:title>Simone Biles wins record 8th U.S. Gymnastics title a full decade after her 1st</news:title>
+          <news:publication_date>2023-08-28T00:52:22.000Z</news:publication_date>
+          <news:title>Dana Bash spars with Vivek Ramaswamy over race remarks</news:title>
         </news:news>
         <image:image>
-          <image:loc>https://majordigest.com/us/2023/08/28/simone-biles-wins-a-record-8th-us-gymnastics-title-a-full-decade-after-her-first/simone-biles-wins-a-record-8th-us-gymnastics-title-a-full-decade-after-her-first.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/us/2023/08/28/jacksonville-killings-what-we-know-about-the-hate-crime/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-28T03:02:37.000Z</news:publication_date>
-          <news:title>Jacksonville killings: What we know about the hate crime</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/us/2023/08/28/jacksonville-killings-what-we-know-about-the-hate-crime/jacksonville-killings-what-we-know-about-the-hate-crime.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/us/2023/08/28/dc-police-arrest-teen-accused-committing-10-armed-carjackings-robberies-overnight-crime-spree/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-28T01:04:38.000Z</news:publication_date>
-          <news:title>DC police arrest teen accused of committing 10 armed carjackings, robberies in overnight crime spree</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/us/2023/08/28/dc-police-arrest-teen-accused-committing-10-armed-carjackings-robberies-overnight-crime-spree/dc-police-arrest-teen-accused-committing-10-armed-carjackings-robberies-overnight-crime-spree.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/us/2023/08/28/people-in-various-states-of-undress-cruise-philadelphia-streets-in-naked-bike-ride/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-28T00:02:23.000Z</news:publication_date>
-          <news:title>People in various states of undress cruise Philadelphia streets in naked bike ride</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/us/2023/08/28/people-in-various-states-of-undress-cruise-philadelphia-streets-in-naked-bike-ride/people-in-various-states-of-undress-cruise-philadelphia-streets-in-naked-bike-ride.webp</image:loc>
+          <image:loc>https://majordigest.com/us/2023/08/28/dana-bash-spars-with-ramaswamy-over-race-remarks/dana-bash-spars-with-ramaswamy-over-race-remarks.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -213,17 +227,17 @@
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/us/2023/08/27/suspect-fully-conscious-drug-arrest-crack-cocaine-seat-state-police/</loc>
+        <loc>https://majordigest.com/us/2023/08/27/shelter-helps-animals-in-need-of-shelter-after-maui-wildfires/</loc>
         <news:news>
           <news:publication>
             <news:name>Major Digest</news:name>
             <news:language>en</news:language>
           </news:publication>
-          <news:publication_date>2023-08-27T23:11:36.000Z</news:publication_date>
-          <news:title>Suspect 'not fully conscious' during drug arrest, had crack cocaine on driver's seat: state police</news:title>
+          <news:publication_date>2023-08-27T22:57:50.000Z</news:publication_date>
+          <news:title>Shelter helps animals in need of shelter after Maui wildfires</news:title>
         </news:news>
         <image:image>
-          <image:loc>https://majordigest.com/us/2023/08/27/suspect-fully-conscious-drug-arrest-crack-cocaine-seat-state-police/suspect-fully-conscious-drug-arrest-crack-cocaine-seat-state-police.webp</image:loc>
+          <image:loc>https://majordigest.com/us/2023/08/27/shelter-helps-animals-in-need-of-shelter-after-maui-wildfires/shelter-helps-animals-in-need-of-shelter-after-maui-wildfires.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -238,6 +252,20 @@
         </news:news>
         <image:image>
           <image:loc>https://majordigest.com/us/2023/08/27/teachers-arrested-at-nevada-school-board-meeting/teachers-arrested-at-nevada-school-board-meeting.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/us/2023/08/27/less-sleep-less-exercise-and-less-relaxation-heres-the-data-on-just-how-much-parents-sacrifice-during-the-school-year/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-27T20:54:48.000Z</news:publication_date>
+          <news:title>Less sleep, less exercise and less relaxation &#8211; here&#8217;s the data on just how much parents sacrifice during the school&#160;year</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/us/2023/08/27/less-sleep-less-exercise-and-less-relaxation-heres-the-data-on-just-how-much-parents-sacrifice-during-the-school-year/less-sleep-less-exercise-and-less-relaxation-heres-the-data-on-just-how-much-parents-sacrifice-during-the-school-year.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -269,20 +297,6 @@
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/us/2023/08/27/parents-worst-nightmare-south-dakota-boy-battling-rare-form-of-cancer/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-27T19:09:48.000Z</news:publication_date>
-          <news:title>'Parent's worst nightmare': South Dakota boy battling rare form of cancer</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/us/2023/08/27/parents-worst-nightmare-south-dakota-boy-battling-rare-form-of-cancer/parents-worst-nightmare-south-dakota-boy-battling-rare-form-of-cancer.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
         <loc>https://majordigest.com/us/2023/08/27/military-identifies-marine-corps-pilot-killed-in-jet-crash-near-san-diego-base/</loc>
         <news:news>
           <news:publication>
@@ -311,13 +325,27 @@
         </image:image>
       </url>
       <url>
+        <loc>https://majordigest.com/us/2023/08/27/sun-drunk-what-it-is-and-how-to-avoid-it/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-27T17:10:03.000Z</news:publication_date>
+          <news:title>Sun drunk: What it is and how to avoid it</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/us/2023/08/27/sun-drunk-what-it-is-and-how-to-avoid-it/sun-drunk-what-it-is-and-how-to-avoid-it.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
         <loc>https://majordigest.com/us/2023/08/27/is-your-dog-at-risk-for-t-cruzi-infection-which-can-lead-to-heart-problems-and-sudden-death/</loc>
         <news:news>
           <news:publication>
             <news:name>Major Digest</news:name>
             <news:language>en</news:language>
           </news:publication>
-          <news:publication_date>2023-08-27T16:06:37.000Z</news:publication_date>
+          <news:publication_date>2023-08-27T16:05:16.000Z</news:publication_date>
           <news:title>Is your dog at risk for T. cruzi infection, which can lead to heart problems and sudden death?</news:title>
         </news:news>
         <image:image>
@@ -345,25 +373,11 @@
             <news:name>Major Digest</news:name>
             <news:language>en</news:language>
           </news:publication>
-          <news:publication_date>2023-08-27T14:35:35.000Z</news:publication_date>
+          <news:publication_date>2023-08-27T14:34:14.000Z</news:publication_date>
           <news:title>Is it time to bring back the COVID mask? We asked 3 doctors</news:title>
         </news:news>
         <image:image>
           <image:loc>https://majordigest.com/us/2023/08/27/is-it-time-to-bring-back-the-covid-mask-we-asked-3-doctors/is-it-time-to-bring-back-the-covid-mask-we-asked-3-doctors.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/us/2023/08/27/nascar-driver-awake-alert-and-mobile-following-terrifying-crash-at-daytona/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-27T14:13:26.000Z</news:publication_date>
-          <news:title>NASCAR driver 'awake, alert and mobile' following terrifying crash at Daytona</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/us/2023/08/27/nascar-driver-awake-alert-and-mobile-following-terrifying-crash-at-daytona/nascar-driver-awake-alert-and-mobile-following-terrifying-crash-at-daytona.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -378,34 +392,6 @@
         </news:news>
         <image:image>
           <image:loc>https://majordigest.com/us/2023/08/27/map-air-quality-is-the-worst-in-these-counties-study-finds/map-air-quality-is-the-worst-in-these-counties-study-finds.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/us/2023/08/27/2024-republicans-want-to-eliminate-the-education-department-what-would-that-look-like/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-27T13:10:36.000Z</news:publication_date>
-          <news:title>2024 Republicans want to eliminate the Education Department. What would that look like?</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/us/2023/08/27/2024-republicans-want-to-eliminate-the-education-department-what-would-that-look-like/2024-republicans-want-to-eliminate-the-education-department-what-would-that-look-like.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/us/2023/08/27/uaw-strike-where-things-stand-after-members-overwhelmingly-favor-strike-authorization/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-27T12:23:31.000Z</news:publication_date>
-          <news:title>UAW strike: Where things stand after members overwhelmingly favor strike authorization</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/us/2023/08/27/uaw-strike-where-things-stand-after-members-overwhelmingly-favor-strike-authorization/uaw-strike-where-things-stand-after-members-overwhelmingly-favor-strike-authorization.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -451,6 +437,20 @@
         </image:image>
       </url>
       <url>
+        <loc>https://majordigest.com/us/2023/08/26/gop-presidential-candidate-vivek-ramaswamy-is-an-unaffiliated-voter-nbc-reports/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-26T20:33:41.000Z</news:publication_date>
+          <news:title>GOP presidential candidate Vivek Ramaswamy is an 'unaffiliated' voter, NBC reports</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/us/2023/08/26/gop-presidential-candidate-vivek-ramaswamy-is-an-unaffiliated-voter-nbc-reports/gop-presidential-candidate-vivek-ramaswamy-is-an-unaffiliated-voter-nbc-reports.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
         <loc>https://majordigest.com/us/2023/08/26/green-day-releases-nimrod-shirt-with-trump-mugshot-to-raise-money-for-maui/</loc>
         <news:news>
           <news:publication>
@@ -493,17 +493,17 @@
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/us/2023/08/24/a-100-year-old-maui-home-is-still-standing-after-wildfires-devastated-every-other-house-in-the-area-why/</loc>
+        <loc>https://majordigest.com/us/2023/08/24/national-cinema-day-major-theater-chains-offering-4-tickets-for-1-day-only/</loc>
         <news:news>
           <news:publication>
             <news:name>Major Digest</news:name>
             <news:language>en</news:language>
           </news:publication>
-          <news:publication_date>2023-08-24T16:54:35.000Z</news:publication_date>
-          <news:title>A 100-year-old Maui home is still standing after wildfires devastated every other house in the area. Why?</news:title>
+          <news:publication_date>2023-08-24T16:40:31.000Z</news:publication_date>
+          <news:title>National Cinema Day: Major theater chains offering $4 tickets for 1 day only</news:title>
         </news:news>
         <image:image>
-          <image:loc>https://majordigest.com/us/2023/08/24/a-100-year-old-maui-home-is-still-standing-after-wildfires-devastated-every-other-house-in-the-area-why/a-100-year-old-maui-home-is-still-standing-after-wildfires-devastated-every-other-house-in-the-area-why.webp</image:loc>
+          <image:loc>https://majordigest.com/us/2023/08/24/national-cinema-day-major-theater-chains-offering-4-tickets-for-1-day-only/national-cinema-day-major-theater-chains-offering-4-tickets-for-1-day-only.webp</image:loc>
         </image:image>
       </url>
       <url>
