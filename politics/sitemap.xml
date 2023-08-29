@@ -3,6 +3,76 @@
               xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
               xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
       <url>
+        <loc>https://majordigest.com/politics/2023/08/29/tehran-times-iran-rob-malley/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-29T00:35:48.000Z</news:publication_date>
+          <news:title>An Iran mouthpiece&#8217;s &#8216;scoop&#8217; draws Republican ire</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/politics/2023/08/29/tehran-times-iran-rob-malley/tehran-times-iran-rob-malley.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/politics/2023/08/29/veteran-los-angeles-politician-sentenced-3-1-2-years-corruption/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-29T00:31:03.000Z</news:publication_date>
+          <news:title>Veteran Los Angeles politician sentenced to 3&#189; years for corruption</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/politics/2023/08/29/veteran-los-angeles-politician-sentenced-3-1-2-years-corruption/veteran-los-angeles-politician-sentenced-3-1-2-years-corruption.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/politics/2023/08/29/missouri-law-banning-gender-changing-treatments-minors-effect/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-29T00:25:12.000Z</news:publication_date>
+          <news:title>Missouri law banning gender-changing treatments for minors takes effect</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/politics/2023/08/29/missouri-law-banning-gender-changing-treatments-minors-effect/missouri-law-banning-gender-changing-treatments-minors-effect.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/politics/2023/08/29/west-texas-am-will-no-longer-require-students-to-pay-for-textbooks-starting-next-fall/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-29T00:07:43.000Z</news:publication_date>
+          <news:title>West Texas A&#38;M will no longer require students to pay for textbooks starting next fall</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/politics/2023/08/29/west-texas-am-will-no-longer-require-students-to-pay-for-textbooks-starting-next-fall/west-texas-am-will-no-longer-require-students-to-pay-for-textbooks-starting-next-fall.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/politics/2023/08/29/biden-claims-have-literally-convinced-strom-thurmond-vote-civil-rights-act-21-years-old/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-29T00:05:00.000Z</news:publication_date>
+          <news:title>Biden claims to have 'literally' convinced Strom Thurmond to vote for Civil Rights Act &#8212; at 21 years old</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/politics/2023/08/29/biden-claims-have-literally-convinced-strom-thurmond-vote-civil-rights-act-21-years-old/biden-claims-have-literally-convinced-strom-thurmond-vote-civil-rights-act-21-years-old.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
         <loc>https://majordigest.com/politics/2023/08/28/what-to-know-medicare-drug-price-negotiations/</loc>
         <news:news>
           <news:publication>
@@ -10,7 +80,7 @@
             <news:language>en</news:language>
           </news:publication>
           <news:publication_date>2023-08-28T22:25:32.000Z</news:publication_date>
-          <news:title>5 things you need to know about Medicare drug price negotiations</news:title>
+          <news:title>Will drug price negotiations work? Here&#8217;s what you need to know.</news:title>
         </news:news>
         <image:image>
           <image:loc>https://majordigest.com/politics/2023/08/28/what-to-know-medicare-drug-price-negotiations/what-to-know-medicare-drug-price-negotiations.webp</image:loc>
@@ -45,20 +115,6 @@
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/politics/2023/08/28/ramaswamy-camp-uses-haleys-first-name-attack-has-critics-raising-eyebrows/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-28T21:34:44.000Z</news:publication_date>
-          <news:title>Ramaswamy camp uses Haley&#8217;s first name in attack that has critics raising eyebrows</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/politics/2023/08/28/ramaswamy-camp-uses-haleys-first-name-attack-has-critics-raising-eyebrows/ramaswamy-camp-uses-haleys-first-name-attack-has-critics-raising-eyebrows.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
         <loc>https://majordigest.com/politics/2023/08/28/after-setback-lt-gov-dan-patrick-names-another-judge-to-help-with-ken-paxton-impeachment-trial/</loc>
         <news:news>
           <news:publication>
@@ -70,20 +126,6 @@
         </news:news>
         <image:image>
           <image:loc>https://majordigest.com/politics/2023/08/28/after-setback-lt-gov-dan-patrick-names-another-judge-to-help-with-ken-paxton-impeachment-trial/after-setback-lt-gov-dan-patrick-names-another-judge-to-help-with-ken-paxton-impeachment-trial.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/politics/2023/08/28/pentagon-docs-questions-kabul-airport-bombing/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-28T21:18:10.000Z</news:publication_date>
-          <news:title>Pentagon docs raise questions about Kabul airport bombing</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/politics/2023/08/28/pentagon-docs-questions-kabul-airport-bombing/pentagon-docs-questions-kabul-airport-bombing.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -101,45 +143,17 @@
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/politics/2023/08/28/biden-white-house-open-to-recommendation-americans-stop-at-two-beers-a-week-leave-it-to-the-experts/</loc>
+        <loc>https://majordigest.com/politics/2023/08/28/trump-lawyers-back-in-dc-court-as-two-sides-differ-over-trial-date-in-election-subversion-case/</loc>
         <news:news>
           <news:publication>
             <news:name>Major Digest</news:name>
             <news:language>en</news:language>
           </news:publication>
-          <news:publication_date>2023-08-28T20:57:36.000Z</news:publication_date>
-          <news:title>Biden White House dodges on recommendation Americans stop at two beers a week</news:title>
+          <news:publication_date>2023-08-28T21:11:17.000Z</news:publication_date>
+          <news:title>Trump trial set for March 4, 2024, in federal case charging him with plotting to overturn election</news:title>
         </news:news>
         <image:image>
-          <image:loc>https://majordigest.com/politics/2023/08/28/biden-white-house-open-to-recommendation-americans-stop-at-two-beers-a-week-leave-it-to-the-experts/biden-white-house-open-to-recommendation-americans-stop-at-two-beers-a-week-leave-it-to-the-experts.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/politics/2023/08/28/wv-gov-justice-appoints-5-opioid-fund-distribution-board/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-28T20:45:51.000Z</news:publication_date>
-          <news:title>WV Gov. Justice appoints 5 to opioid fund distribution board</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/politics/2023/08/28/wv-gov-justice-appoints-5-opioid-fund-distribution-board/wv-gov-justice-appoints-5-opioid-fund-distribution-board.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/politics/2023/08/28/senate-candidates-visit-stockton-to-support-rep-josh-harder-reelection-campaign/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-28T20:42:55.000Z</news:publication_date>
-          <news:title>Senate candidates visit Stockton to support Rep. Josh Harder reelection campaign</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/politics/2023/08/28/senate-candidates-visit-stockton-to-support-rep-josh-harder-reelection-campaign/senate-candidates-visit-stockton-to-support-rep-josh-harder-reelection-campaign.webp</image:loc>
+          <image:loc>https://majordigest.com/politics/2023/08/28/trump-lawyers-back-in-dc-court-as-two-sides-differ-over-trial-date-in-election-subversion-case/trump-lawyers-back-in-dc-court-as-two-sides-differ-over-trial-date-in-election-subversion-case.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -185,20 +199,6 @@
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/politics/2023/08/28/texas-national-guard-member-fires-across-rio-grande-wounds-mexican-citizen/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-28T20:04:58.000Z</news:publication_date>
-          <news:title>Texas National Guard member fires across Rio Grande, wounds Mexican citizen</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/politics/2023/08/28/texas-national-guard-member-fires-across-rio-grande-wounds-mexican-citizen/texas-national-guard-member-fires-across-rio-grande-wounds-mexican-citizen.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
         <loc>https://majordigest.com/politics/2023/08/28/12-8-million-documents-of-discovery-shared-in-trump-jan-6-case-prosecutors-say/</loc>
         <news:news>
           <news:publication>
@@ -213,6 +213,20 @@
         </image:image>
       </url>
       <url>
+        <loc>https://majordigest.com/politics/2023/08/28/mark-meadows-taking-stand-in-georgia-hearing-reports/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-28T19:10:22.000Z</news:publication_date>
+          <news:title>Mark Meadows takes stand in Georgia hearing</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/politics/2023/08/28/mark-meadows-taking-stand-in-georgia-hearing-reports/mark-meadows-taking-stand-in-georgia-hearing-reports.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
         <loc>https://majordigest.com/politics/2023/08/28/as-worker-actions-continue-nationwide-white-house-highlights-how-administration-is-helping-unions/</loc>
         <news:news>
           <news:publication>
@@ -224,34 +238,6 @@
         </news:news>
         <image:image>
           <image:loc>https://majordigest.com/politics/2023/08/28/as-worker-actions-continue-nationwide-white-house-highlights-how-administration-is-helping-unions/as-worker-actions-continue-nationwide-white-house-highlights-how-administration-is-helping-unions.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/politics/2023/08/28/mark-meadows-taking-stand-in-georgia-hearing-reports/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-28T18:48:03.000Z</news:publication_date>
-          <news:title>Mark Meadows taking stand in Georgia hearing: reports</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/politics/2023/08/28/mark-meadows-taking-stand-in-georgia-hearing-reports/mark-meadows-taking-stand-in-georgia-hearing-reports.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/politics/2023/08/28/joe-the-plumber-obama/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-28T18:31:45.000Z</news:publication_date>
-          <news:title>Joe the Plumber, who questioned Obama's tax policies during the 2008 campaign, has died at 49</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/politics/2023/08/28/joe-the-plumber-obama/joe-the-plumber-obama.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -283,31 +269,31 @@
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/politics/2023/08/28/shooting-storm-give-desantis-a-chance-to-govern-on-national-stage/</loc>
+        <loc>https://majordigest.com/politics/2023/08/28/biden-approves-emergency-declaration-for-florida-ahead-of-t-s-idalia/</loc>
         <news:news>
           <news:publication>
             <news:name>Major Digest</news:name>
             <news:language>en</news:language>
           </news:publication>
-          <news:publication_date>2023-08-28T15:21:46.000Z</news:publication_date>
-          <news:title>Shooting, storm give DeSantis a chance to govern on national stage</news:title>
+          <news:publication_date>2023-08-28T16:30:03.000Z</news:publication_date>
+          <news:title>Biden approves Emergency Declaration for Florida ahead of T.S. Idalia</news:title>
         </news:news>
         <image:image>
-          <image:loc>https://majordigest.com/politics/2023/08/28/shooting-storm-give-desantis-a-chance-to-govern-on-national-stage/shooting-storm-give-desantis-a-chance-to-govern-on-national-stage.webp</image:loc>
+          <image:loc>https://majordigest.com/politics/2023/08/28/biden-approves-emergency-declaration-for-florida-ahead-of-t-s-idalia/biden-approves-emergency-declaration-for-florida-ahead-of-t-s-idalia.webp</image:loc>
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/politics/2023/08/27/house-republicans-barrel-toward-biden-impeachment-inquiry-but-some-hesitate/</loc>
+        <loc>https://majordigest.com/politics/2023/08/28/dana-bash-spars-with-ramaswamy-over-race-remarks/</loc>
         <news:news>
           <news:publication>
             <news:name>Major Digest</news:name>
             <news:language>en</news:language>
           </news:publication>
-          <news:publication_date>2023-08-27T21:53:43.000Z</news:publication_date>
-          <news:title>House Republicans barrel toward Biden impeachment inquiry &#8212; but some hesitate</news:title>
+          <news:publication_date>2023-08-28T00:52:22.000Z</news:publication_date>
+          <news:title>Dana Bash spars with Vivek Ramaswamy over race remarks</news:title>
         </news:news>
         <image:image>
-          <image:loc>https://majordigest.com/politics/2023/08/27/house-republicans-barrel-toward-biden-impeachment-inquiry-but-some-hesitate/house-republicans-barrel-toward-biden-impeachment-inquiry-but-some-hesitate.webp</image:loc>
+          <image:loc>https://majordigest.com/politics/2023/08/28/dana-bash-spars-with-ramaswamy-over-race-remarks/dana-bash-spars-with-ramaswamy-over-race-remarks.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -350,20 +336,6 @@
         </news:news>
         <image:image>
           <image:loc>https://majordigest.com/politics/2023/08/26/wild-horses-that-roam-theodore-roosevelt-national-park-may-be-removed-many-oppose-the-plan/wild-horses-that-roam-theodore-roosevelt-national-park-may-be-removed-many-oppose-the-plan.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/politics/2023/08/26/npr-china-us-trade-tensions-commerce-secretary-gina-raimondo/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-26T13:48:00.000Z</news:publication_date>
-          <news:title>How high tensions between China and the U.S. are impacting American companies</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/politics/2023/08/26/npr-china-us-trade-tensions-commerce-secretary-gina-raimondo/npr-china-us-trade-tensions-commerce-secretary-gina-raimondo.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -451,17 +423,17 @@
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/politics/2023/08/24/covid-19-cases-rise-cdc-recommends-updated-vaccine/</loc>
+        <loc>https://majordigest.com/politics/2023/08/24/trump-is-set-to-surrender-at-a-georgia-jail-on-2020-election-charges/</loc>
         <news:news>
           <news:publication>
             <news:name>Major Digest</news:name>
             <news:language>en</news:language>
           </news:publication>
-          <news:publication_date>2023-08-24T20:37:19.000Z</news:publication_date>
-          <news:title>COVID-19 cases rise, CDC recommends updated vaccine</news:title>
+          <news:publication_date>2023-08-24T20:03:45.000Z</news:publication_date>
+          <news:title>Donald Trump mug shot shows former president scowling at Atlanta booking</news:title>
         </news:news>
         <image:image>
-          <image:loc>https://majordigest.com/politics/2023/08/24/covid-19-cases-rise-cdc-recommends-updated-vaccine/covid-19-cases-rise-cdc-recommends-updated-vaccine.webp</image:loc>
+          <image:loc>https://majordigest.com/politics/2023/08/24/trump-is-set-to-surrender-at-a-georgia-jail-on-2020-election-charges/trump-is-set-to-surrender-at-a-georgia-jail-on-2020-election-charges.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -507,6 +479,20 @@
         </image:image>
       </url>
       <url>
+        <loc>https://majordigest.com/politics/2023/08/23/kelly-blue-book-survey-shows-consumer-hesitation-towards-electric-vehicles/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-23T23:01:08.000Z</news:publication_date>
+          <news:title>Kelly Blue Book survey shows consumer hesitation towards electric vehicles</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/politics/2023/08/23/kelly-blue-book-survey-shows-consumer-hesitation-towards-electric-vehicles/kelly-blue-book-survey-shows-consumer-hesitation-towards-electric-vehicles.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
         <loc>https://majordigest.com/politics/2023/08/23/who-takes-advantage-of-donald-trumps-absence-and-other-things-to-watch-in-the-republican-debate/</loc>
         <news:news>
           <news:publication>
@@ -518,5 +504,19 @@
         </news:news>
         <image:image>
           <image:loc>https://majordigest.com/politics/2023/08/23/who-takes-advantage-of-donald-trumps-absence-and-other-things-to-watch-in-the-republican-debate/who-takes-advantage-of-donald-trumps-absence-and-other-things-to-watch-in-the-republican-debate.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/politics/2023/08/23/rudy-giuliani-surrenders-on-georgia-charges-alleging-an-illegal-plot-to-subvert-2020-election-jail-records-show/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-23T19:26:31.000Z</news:publication_date>
+          <news:title>Rudy Giuliani surrenders on Georgia charges alleging an illegal plot to subvert 2020 election, jail records show</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/politics/2023/08/23/rudy-giuliani-surrenders-on-georgia-charges-alleging-an-illegal-plot-to-subvert-2020-election-jail-records-show/rudy-giuliani-surrenders-on-georgia-charges-alleging-an-illegal-plot-to-subvert-2020-election-jail-records-show.webp</image:loc>
         </image:image>
       </url></urlset>
