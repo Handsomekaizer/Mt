@@ -3,17 +3,45 @@
               xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
               xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
       <url>
-        <loc>https://majordigest.com/world/2023/08/29/kim-calls-for-north-korean-military-to-be-constantly-ready-to-smash-us-led-invasion-plot/</loc>
+        <loc>https://majordigest.com/world/2023/08/29/2-years-us-withdrawal-afghanistan-resistance-group-yearns-western-help-take-on-taliban/</loc>
         <news:news>
           <news:publication>
             <news:name>Major Digest</news:name>
             <news:language>en</news:language>
           </news:publication>
-          <news:publication_date>2023-08-29T05:32:34.000Z</news:publication_date>
-          <news:title>N. Korea's Kim calls for readiness to smash US-led invasion plot, as US trains with South and Japan</news:title>
+          <news:publication_date>2023-08-29T08:00:27.000Z</news:publication_date>
+          <news:title>2 years after US withdrawal Afghanistan resistance group yearns for Western help as they take on Taliban</news:title>
         </news:news>
         <image:image>
-          <image:loc>https://majordigest.com/world/2023/08/29/kim-calls-for-north-korean-military-to-be-constantly-ready-to-smash-us-led-invasion-plot/kim-calls-for-north-korean-military-to-be-constantly-ready-to-smash-us-led-invasion-plot.webp</image:loc>
+          <image:loc>https://majordigest.com/world/2023/08/29/2-years-us-withdrawal-afghanistan-resistance-group-yearns-western-help-take-on-taliban/2-years-us-withdrawal-afghanistan-resistance-group-yearns-western-help-take-on-taliban.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/world/2023/08/29/2-years-us-withdrawal-afghanistan-resistance-group-yearns-western-help-take-on-taliban/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-29T08:00:27.000Z</news:publication_date>
+          <news:title>2 years after US withdrawal Afghanistan resistance group yearns for Western help as they take on Taliban</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/world/2023/08/29/2-years-us-withdrawal-afghanistan-resistance-group-yearns-western-help-take-on-taliban/2-years-us-withdrawal-afghanistan-resistance-group-yearns-western-help-take-on-taliban.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/world/2023/08/29/syria-protests-spurred-by-economic-misery-stir-memories-of-the-2011-anti-government-uprising/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-29T06:23:57.000Z</news:publication_date>
+          <news:title>Syria protests spurred by economic misery stir memories of the 2011 anti-government uprising</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/world/2023/08/29/syria-protests-spurred-by-economic-misery-stir-memories-of-the-2011-anti-government-uprising/syria-protests-spurred-by-economic-misery-stir-memories-of-the-2011-anti-government-uprising.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -42,20 +70,6 @@
         </news:news>
         <image:image>
           <image:loc>https://majordigest.com/world/2023/08/29/un-in-unprecedented-6-month-withdrawal-of-nearly-13000-peacekeepers-from-mali/un-in-unprecedented-6-month-withdrawal-of-nearly-13000-peacekeepers-from-mali.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/world/2023/08/29/japan-asks-china-to-urge-citizens-to-halt-harassment-after-start-of-fukushima-wastewater-release/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-29T02:21:48.000Z</news:publication_date>
-          <news:title>Japan asks China to urge citizens to halt harassment after start of Fukushima wastewater release</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/world/2023/08/29/japan-asks-china-to-urge-citizens-to-halt-harassment-after-start-of-fukushima-wastewater-release/japan-asks-china-to-urge-citizens-to-halt-harassment-after-start-of-fukushima-wastewater-release.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -157,6 +171,20 @@
         </image:image>
       </url>
       <url>
+        <loc>https://majordigest.com/world/2023/08/28/deadly-militia-attack-congo-leaves-14-dead-amid-ongoing-unrest-east/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-28T22:31:31.000Z</news:publication_date>
+          <news:title>Deadly militia attack in Congo leaves 14 dead amid ongoing unrest in the east</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/world/2023/08/28/deadly-militia-attack-congo-leaves-14-dead-amid-ongoing-unrest-east/deadly-militia-attack-congo-leaves-14-dead-amid-ongoing-unrest-east.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
         <loc>https://majordigest.com/world/2023/08/28/white-house-increasingly-confident-wagner-leader-prigozhin-died-plane-crash/</loc>
         <news:news>
           <news:publication>
@@ -168,20 +196,6 @@
         </news:news>
         <image:image>
           <image:loc>https://majordigest.com/world/2023/08/28/white-house-increasingly-confident-wagner-leader-prigozhin-died-plane-crash/white-house-increasingly-confident-wagner-leader-prigozhin-died-plane-crash.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/world/2023/08/28/deadly-montreal-fire-march-being-criminally-investigated/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-28T20:49:57.000Z</news:publication_date>
-          <news:title>Deadly Montreal fire in March is now being criminally investigated</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/world/2023/08/28/deadly-montreal-fire-march-being-criminally-investigated/deadly-montreal-fire-march-being-criminally-investigated.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -227,6 +241,20 @@
         </image:image>
       </url>
       <url>
+        <loc>https://majordigest.com/world/2023/08/28/virginia-man-stolen-at-birth-meets-chilean-family-for-first-time/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-28T19:50:29.000Z</news:publication_date>
+          <news:title>Virginia man stolen at birth meets Chilean family for first time</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/world/2023/08/28/virginia-man-stolen-at-birth-meets-chilean-family-for-first-time/virginia-man-stolen-at-birth-meets-chilean-family-for-first-time.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
         <loc>https://majordigest.com/world/2023/08/28/un-investigators-traveling-to-ukraine-to-probe-allegations-of-russian-abuse/</loc>
         <news:news>
           <news:publication>
@@ -241,17 +269,17 @@
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/world/2023/08/28/us-china-to-discuss-export-controls-officials-say/</loc>
+        <loc>https://majordigest.com/world/2023/08/28/un-investigators-traveling-to-ukraine-to-probe-allegations-of-russian-abuse/</loc>
         <news:news>
           <news:publication>
             <news:name>Major Digest</news:name>
             <news:language>en</news:language>
           </news:publication>
-          <news:publication_date>2023-08-28T16:36:20.000Z</news:publication_date>
-          <news:title>US, China to discuss export controls, officials say</news:title>
+          <news:publication_date>2023-08-28T17:18:55.000Z</news:publication_date>
+          <news:title>UN investigators traveling to Ukraine to probe allegations of Russian abuse&#160;</news:title>
         </news:news>
         <image:image>
-          <image:loc>https://majordigest.com/world/2023/08/28/us-china-to-discuss-export-controls-officials-say/us-china-to-discuss-export-controls-officials-say.webp</image:loc>
+          <image:loc>https://majordigest.com/world/2023/08/28/un-investigators-traveling-to-ukraine-to-probe-allegations-of-russian-abuse/un-investigators-traveling-to-ukraine-to-probe-allegations-of-russian-abuse.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -311,20 +339,6 @@
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/world/2023/08/28/bog-snorkeling-championships-competitors-race-through-slime-in-british-contest/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-28T13:35:33.000Z</news:publication_date>
-          <news:title>Bog snorkeling championships: Competitors&#160;race through slime in British contest</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/world/2023/08/28/bog-snorkeling-championships-competitors-race-through-slime-in-british-contest/bog-snorkeling-championships-competitors-race-through-slime-in-british-contest.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
         <loc>https://majordigest.com/world/2023/08/28/8-us-marines-remain-in-hospital-after-fiery-aircraft-crash-killed-3-in-australia/</loc>
         <news:news>
           <news:publication>
@@ -367,17 +381,17 @@
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/world/2023/08/27/with-drones-and-webcams-volunteer-hunters-join-new-search-for-mythical-loch-ness-monster/</loc>
+        <loc>https://majordigest.com/world/2023/08/27/elite-unit-of-mexican-cartel-using-drones-to-drop-bombs-report/</loc>
         <news:news>
           <news:publication>
             <news:name>Major Digest</news:name>
             <news:language>en</news:language>
           </news:publication>
-          <news:publication_date>2023-08-27T02:47:41.000Z</news:publication_date>
-          <news:title>With drones and webcams, volunteer hunters join new search for mythical Loch Ness Monster</news:title>
+          <news:publication_date>2023-08-27T01:26:02.000Z</news:publication_date>
+          <news:title>Elite unit of Mexican cartel using drones to drop bombs: Report</news:title>
         </news:news>
         <image:image>
-          <image:loc>https://majordigest.com/world/2023/08/27/with-drones-and-webcams-volunteer-hunters-join-new-search-for-mythical-loch-ness-monster/with-drones-and-webcams-volunteer-hunters-join-new-search-for-mythical-loch-ness-monster.webp</image:loc>
+          <image:loc>https://majordigest.com/world/2023/08/27/elite-unit-of-mexican-cartel-using-drones-to-drop-bombs-report/elite-unit-of-mexican-cartel-using-drones-to-drop-bombs-report.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -406,20 +420,6 @@
         </news:news>
         <image:image>
           <image:loc>https://majordigest.com/world/2023/08/25/indias-lunar-rover-keeps-walking-on-the-moon-days-after-spacecrafts-historic-touchdown/indias-lunar-rover-keeps-walking-on-the-moon-days-after-spacecrafts-historic-touchdown.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/world/2023/08/25/from-tarantulas-to-tigers-zoo-animals-step-onto-scales-for-annual-weigh-in/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-25T13:11:05.000Z</news:publication_date>
-          <news:title>From tarantulas to tigers, zoo animals step onto scales for annual weigh-in</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/world/2023/08/25/from-tarantulas-to-tigers-zoo-animals-step-onto-scales-for-annual-weigh-in/from-tarantulas-to-tigers-zoo-animals-step-onto-scales-for-annual-weigh-in.webp</image:loc>
         </image:image>
       </url>
       <url>
