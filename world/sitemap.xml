@@ -3,6 +3,20 @@
               xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
               xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
       <url>
+        <loc>https://majordigest.com/world/2023/08/29/kim-calls-for-north-korean-military-to-be-constantly-ready-to-smash-us-led-invasion-plot/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-29T03:36:28.000Z</news:publication_date>
+          <news:title>N. Korea's Kim calls for readiness to smash US-led invasion plot, as US trains with South and Japan</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/world/2023/08/29/kim-calls-for-north-korean-military-to-be-constantly-ready-to-smash-us-led-invasion-plot/kim-calls-for-north-korean-military-to-be-constantly-ready-to-smash-us-led-invasion-plot.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
         <loc>https://majordigest.com/world/2023/08/29/un-in-unprecedented-6-month-withdrawal-of-nearly-13000-peacekeepers-from-mali/</loc>
         <news:news>
           <news:publication>
@@ -59,17 +73,17 @@
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/world/2023/08/29/the-un-is-undertaking-an-unprecedented-6-month-withdrawal-of-nearly-13000-peacekeepers-from-mali/</loc>
+        <loc>https://majordigest.com/world/2023/08/29/french-education-minister-bans-long-robes-in-classrooms-in-effort-to-defend-nations-secular-values/</loc>
         <news:news>
           <news:publication>
             <news:name>Major Digest</news:name>
             <news:language>en</news:language>
           </news:publication>
-          <news:publication_date>2023-08-29T00:05:02.000Z</news:publication_date>
-          <news:title>The UN is undertaking an unprecedented 6-month withdrawal of nearly 13,000 peacekeepers from Mali</news:title>
+          <news:publication_date>2023-08-29T00:37:19.000Z</news:publication_date>
+          <news:title>France's education minister bans long robes in classrooms. They're worn mainly by Muslims</news:title>
         </news:news>
         <image:image>
-          <image:loc>https://majordigest.com/world/2023/08/29/the-un-is-undertaking-an-unprecedented-6-month-withdrawal-of-nearly-13000-peacekeepers-from-mali/the-un-is-undertaking-an-unprecedented-6-month-withdrawal-of-nearly-13000-peacekeepers-from-mali.webp</image:loc>
+          <image:loc>https://majordigest.com/world/2023/08/29/french-education-minister-bans-long-robes-in-classrooms-in-effort-to-defend-nations-secular-values/french-education-minister-bans-long-robes-in-classrooms-in-effort-to-defend-nations-secular-values.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -126,20 +140,6 @@
         </news:news>
         <image:image>
           <image:loc>https://majordigest.com/world/2023/08/28/deadly-militia-attack-congo-leaves-14-dead-amid-ongoing-unrest-east/deadly-militia-attack-congo-leaves-14-dead-amid-ongoing-unrest-east.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/world/2023/08/28/white-house-increasingly-confident-wagner-leader-prigozhin-died-plane-crash/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-28T21:26:26.000Z</news:publication_date>
-          <news:title>White House &#8216;increasingly confident&#8217; Wagner leader Prigozhin died in plane crash</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/world/2023/08/28/white-house-increasingly-confident-wagner-leader-prigozhin-died-plane-crash/white-house-increasingly-confident-wagner-leader-prigozhin-died-plane-crash.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -227,17 +227,17 @@
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/world/2023/08/28/libyas-foreign-minister-suspended-after-meeting-with-israels-chief-diplomat/</loc>
+        <loc>https://majordigest.com/world/2023/08/28/un-investigators-traveling-to-ukraine-to-probe-allegations-of-russian-abuse/</loc>
         <news:news>
           <news:publication>
             <news:name>Major Digest</news:name>
             <news:language>en</news:language>
           </news:publication>
-          <news:publication_date>2023-08-28T19:13:14.000Z</news:publication_date>
-          <news:title>Libya&#8217;s foreign minister suspended, flees country after meeting with Israel&#8217;s chief diplomat</news:title>
+          <news:publication_date>2023-08-28T17:18:55.000Z</news:publication_date>
+          <news:title>UN investigators traveling to Ukraine to probe allegations of Russian abuse&#160;</news:title>
         </news:news>
         <image:image>
-          <image:loc>https://majordigest.com/world/2023/08/28/libyas-foreign-minister-suspended-after-meeting-with-israels-chief-diplomat/libyas-foreign-minister-suspended-after-meeting-with-israels-chief-diplomat.webp</image:loc>
+          <image:loc>https://majordigest.com/world/2023/08/28/un-investigators-traveling-to-ukraine-to-probe-allegations-of-russian-abuse/un-investigators-traveling-to-ukraine-to-probe-allegations-of-russian-abuse.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -311,6 +311,20 @@
         </image:image>
       </url>
       <url>
+        <loc>https://majordigest.com/world/2023/08/28/bog-snorkeling-championships-competitors-race-through-slime-in-british-contest/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-28T13:35:33.000Z</news:publication_date>
+          <news:title>Bog snorkeling championships: Competitors&#160;race through slime in British contest</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/world/2023/08/28/bog-snorkeling-championships-competitors-race-through-slime-in-british-contest/bog-snorkeling-championships-competitors-race-through-slime-in-british-contest.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
         <loc>https://majordigest.com/world/2023/08/28/iran-summons-swiss-diplomat-over-us-seizure-of-iranian-crude-oil-thats-now-at-port-in-houston/</loc>
         <news:news>
           <news:publication>
@@ -322,6 +336,20 @@
         </news:news>
         <image:image>
           <image:loc>https://majordigest.com/world/2023/08/28/iran-summons-swiss-diplomat-over-us-seizure-of-iranian-crude-oil-thats-now-at-port-in-houston/iran-summons-swiss-diplomat-over-us-seizure-of-iranian-crude-oil-thats-now-at-port-in-houston.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/world/2023/08/28/libyas-foreign-minister-suspended-after-meeting-with-israels-chief-diplomat/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-28T08:04:25.000Z</news:publication_date>
+          <news:title>Libya&#8217;s foreign minister suspended, flees country after meeting with Israel&#8217;s chief diplomat</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/world/2023/08/28/libyas-foreign-minister-suspended-after-meeting-with-israels-chief-diplomat/libyas-foreign-minister-suspended-after-meeting-with-israels-chief-diplomat.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -451,20 +479,6 @@
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/world/2023/08/24/putin-breaks-silence-on-plane-crash-that-presumably-killed-wagner-leaders/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-24T16:33:08.000Z</news:publication_date>
-          <news:title>Putin breaks silence on plane crash that presumably killed Wagner leaders</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/world/2023/08/24/putin-breaks-silence-on-plane-crash-that-presumably-killed-wagner-leaders/putin-breaks-silence-on-plane-crash-that-presumably-killed-wagner-leaders.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
         <loc>https://majordigest.com/world/2023/08/23/jet-crash-in-russia-kills-10-and-wagner-chief-was-on-passenger-list-officials-say/</loc>
         <news:news>
           <news:publication>
@@ -476,20 +490,6 @@
         </news:news>
         <image:image>
           <image:loc>https://majordigest.com/world/2023/08/23/jet-crash-in-russia-kills-10-and-wagner-chief-was-on-passenger-list-officials-say/jet-crash-in-russia-kills-10-and-wagner-chief-was-on-passenger-list-officials-say.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/world/2023/08/23/india-lands-a-spacecraft-near-the-moons-south-pole-a-first-for-the-world-as-it-joins-elite-club/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-23T15:40:35.000Z</news:publication_date>
-          <news:title>India lands a spacecraft near the moon's south pole, a first for the world as it joins elite club</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/world/2023/08/23/india-lands-a-spacecraft-near-the-moons-south-pole-a-first-for-the-world-as-it-joins-elite-club/india-lands-a-spacecraft-near-the-moons-south-pole-a-first-for-the-world-as-it-joins-elite-club.webp</image:loc>
         </image:image>
       </url>
       <url>
