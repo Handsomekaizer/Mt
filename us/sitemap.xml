@@ -3,6 +3,62 @@
               xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
               xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
       <url>
+        <loc>https://majordigest.com/us/2023/08/29/neurosurgeon-investigating-patients-mystery-symptoms-plucks-a-worm-from-womans-brain-in-australia/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-29T07:11:48.000Z</news:publication_date>
+          <news:title>Neurosurgeon investigating patient's mystery symptoms plucks a worm from woman's brain in Australia</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/us/2023/08/29/neurosurgeon-investigating-patients-mystery-symptoms-plucks-a-worm-from-womans-brain-in-australia/neurosurgeon-investigating-patients-mystery-symptoms-plucks-a-worm-from-womans-brain-in-australia.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/us/2023/08/29/sudans-military-leader-travels-to-egypt-in-his-first-trip-abroad-since-the-war/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-29T06:55:32.000Z</news:publication_date>
+          <news:title>Sudan&#8217;s military leader travels to Egypt in his first trip abroad since the war</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/us/2023/08/29/sudans-military-leader-travels-to-egypt-in-his-first-trip-abroad-since-the-war/sudans-military-leader-travels-to-egypt-in-his-first-trip-abroad-since-the-war.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/us/2023/08/29/suspects-motive-unclear-in-campus-shooting-that-killed-1-at-unc-chapel-hill-police-say/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-29T06:24:34.000Z</news:publication_date>
+          <news:title>Suspect's motive unclear in campus shooting that killed 1 at UNC Chapel Hill, police say</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/us/2023/08/29/suspects-motive-unclear-in-campus-shooting-that-killed-1-at-unc-chapel-hill-police-say/suspects-motive-unclear-in-campus-shooting-that-killed-1-at-unc-chapel-hill-police-say.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/us/2023/08/29/syria-protests-spurred-by-economic-misery-stir-memories-of-the-2011-anti-government-uprising/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-29T06:23:57.000Z</news:publication_date>
+          <news:title>Syria protests spurred by economic misery stir memories of the 2011 anti-government uprising</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/us/2023/08/29/syria-protests-spurred-by-economic-misery-stir-memories-of-the-2011-anti-government-uprising/syria-protests-spurred-by-economic-misery-stir-memories-of-the-2011-anti-government-uprising.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
         <loc>https://majordigest.com/us/2023/08/29/mind-reading-restoring-vision-blind-giving-deaf-hearing-possible-neurosurgeon/</loc>
         <news:news>
           <news:publication>
@@ -14,20 +70,6 @@
         </news:news>
         <image:image>
           <image:loc>https://majordigest.com/us/2023/08/29/mind-reading-restoring-vision-blind-giving-deaf-hearing-possible-neurosurgeon/mind-reading-restoring-vision-blind-giving-deaf-hearing-possible-neurosurgeon.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/us/2023/08/29/neurosurgeon-investigating-patients-mystery-symptoms-plucks-a-worm-from-womans-brain-in-australia/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-29T05:41:03.000Z</news:publication_date>
-          <news:title>Neurosurgeon investigating patient's mystery symptoms plucks a worm from woman's brain in Australia</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/us/2023/08/29/neurosurgeon-investigating-patients-mystery-symptoms-plucks-a-worm-from-womans-brain-in-australia/neurosurgeon-investigating-patients-mystery-symptoms-plucks-a-worm-from-womans-brain-in-australia.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -45,20 +87,6 @@
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/us/2023/08/29/syria-protests-spurred-by-economic-misery-stir-memories-of-the-2011-anti-government-uprising/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-29T05:27:07.000Z</news:publication_date>
-          <news:title>Syria protests spurred by economic misery stir memories of the 2011 anti-government uprising</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/us/2023/08/29/syria-protests-spurred-by-economic-misery-stir-memories-of-the-2011-anti-government-uprising/syria-protests-spurred-by-economic-misery-stir-memories-of-the-2011-anti-government-uprising.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
         <loc>https://majordigest.com/us/2023/08/29/native-nations-on-front-lines-of-climate-change-share-knowledge-and-find-support-at-intensive-camps/</loc>
         <news:news>
           <news:publication>
@@ -70,34 +98,6 @@
         </news:news>
         <image:image>
           <image:loc>https://majordigest.com/us/2023/08/29/native-nations-on-front-lines-of-climate-change-share-knowledge-and-find-support-at-intensive-camps/native-nations-on-front-lines-of-climate-change-share-knowledge-and-find-support-at-intensive-camps.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/us/2023/08/29/guatemalas-electoral-registry-has-suspended-the-party-of-the-presidential-election-winner/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-29T05:02:31.000Z</news:publication_date>
-          <news:title>Guatemala progressive's presidential victory certified, but his party is suspended</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/us/2023/08/29/guatemalas-electoral-registry-has-suspended-the-party-of-the-presidential-election-winner/guatemalas-electoral-registry-has-suspended-the-party-of-the-presidential-election-winner.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/us/2023/08/29/federal-government-says-spacex-discriminated-against-hiring-refugees-and-asylees/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-29T04:31:47.000Z</news:publication_date>
-          <news:title>Federal government says SpaceX discriminated against hiring refugees and asylees</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/us/2023/08/29/federal-government-says-spacex-discriminated-against-hiring-refugees-and-asylees/federal-government-says-spacex-discriminated-against-hiring-refugees-and-asylees.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -157,17 +157,17 @@
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/us/2023/08/29/us-supreme-court-justice-barrett-says-she-welcomes-public-scrutiny-of-court/</loc>
+        <loc>https://majordigest.com/us/2023/08/29/camp-pendleton-marines-involved-in-australia-aircraft-crash/</loc>
         <news:news>
           <news:publication>
             <news:name>Major Digest</news:name>
             <news:language>en</news:language>
           </news:publication>
-          <news:publication_date>2023-08-29T02:52:34.000Z</news:publication_date>
-          <news:title>US Supreme Court Justice Barrett says she welcomes public scrutiny of court</news:title>
+          <news:publication_date>2023-08-29T02:44:10.000Z</news:publication_date>
+          <news:title>Camp Pendleton Marines involved in Australia aircraft crash</news:title>
         </news:news>
         <image:image>
-          <image:loc>https://majordigest.com/us/2023/08/29/us-supreme-court-justice-barrett-says-she-welcomes-public-scrutiny-of-court/us-supreme-court-justice-barrett-says-she-welcomes-public-scrutiny-of-court.webp</image:loc>
+          <image:loc>https://majordigest.com/us/2023/08/29/camp-pendleton-marines-involved-in-australia-aircraft-crash/camp-pendleton-marines-involved-in-australia-aircraft-crash.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -241,17 +241,17 @@
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/us/2023/08/29/hawaii-power-utility-takes-responsibility-for-first-fire-on-maui-but-faults-county-firefighters/</loc>
+        <loc>https://majordigest.com/us/2023/08/29/university-of-north-carolina-warns-of-armed-person-on-campus-and-urges-people-to-stay-inside/</loc>
         <news:news>
           <news:publication>
             <news:name>Major Digest</news:name>
             <news:language>en</news:language>
           </news:publication>
-          <news:publication_date>2023-08-29T00:57:12.000Z</news:publication_date>
-          <news:title>Hawaii power utility takes responsibility for first fire on Maui, but faults county firefighters</news:title>
+          <news:publication_date>2023-08-29T00:15:37.000Z</news:publication_date>
+          <news:title>Faculty member fatally shot in University of North Carolina building</news:title>
         </news:news>
         <image:image>
-          <image:loc>https://majordigest.com/us/2023/08/29/hawaii-power-utility-takes-responsibility-for-first-fire-on-maui-but-faults-county-firefighters/hawaii-power-utility-takes-responsibility-for-first-fire-on-maui-but-faults-county-firefighters.webp</image:loc>
+          <image:loc>https://majordigest.com/us/2023/08/29/university-of-north-carolina-warns-of-armed-person-on-campus-and-urges-people-to-stay-inside/university-of-north-carolina-warns-of-armed-person-on-campus-and-urges-people-to-stay-inside.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -283,17 +283,17 @@
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/us/2023/08/28/woman-found-dead-after-she-didnt-return-from-hike-in-utah-national-park/</loc>
+        <loc>https://majordigest.com/us/2023/08/28/fight-over-mcdonalds-sauce-led-to-death-of-teenager-in-dc-police-say/</loc>
         <news:news>
           <news:publication>
             <news:name>Major Digest</news:name>
             <news:language>en</news:language>
           </news:publication>
-          <news:publication_date>2023-08-28T23:26:52.000Z</news:publication_date>
-          <news:title>Woman found dead after she didn't return from hike in Utah national park</news:title>
+          <news:publication_date>2023-08-28T22:58:12.000Z</news:publication_date>
+          <news:title>Fight over McDonald's sauce led to death of teenager in DC, police say</news:title>
         </news:news>
         <image:image>
-          <image:loc>https://majordigest.com/us/2023/08/28/woman-found-dead-after-she-didnt-return-from-hike-in-utah-national-park/woman-found-dead-after-she-didnt-return-from-hike-in-utah-national-park.webp</image:loc>
+          <image:loc>https://majordigest.com/us/2023/08/28/fight-over-mcdonalds-sauce-led-to-death-of-teenager-in-dc-police-say/fight-over-mcdonalds-sauce-led-to-death-of-teenager-in-dc-police-say.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -367,6 +367,20 @@
         </image:image>
       </url>
       <url>
+        <loc>https://majordigest.com/us/2023/08/28/us-chinese-commerce-leaders-meet-huge-progress/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-28T20:44:31.000Z</news:publication_date>
+          <news:title>US, Chinese commerce leaders meet: 'Huge progress'</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/us/2023/08/28/us-chinese-commerce-leaders-meet-huge-progress/us-chinese-commerce-leaders-meet-huge-progress.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
         <loc>https://majordigest.com/us/2023/08/28/teachers-arrested-at-nevada-school-board-meeting/</loc>
         <news:news>
           <news:publication>
@@ -392,20 +406,6 @@
         </news:news>
         <image:image>
           <image:loc>https://majordigest.com/us/2023/08/28/only-1-state-doesnt-have-a-ban-on-texting-and-driving-heres-why/only-1-state-doesnt-have-a-ban-on-texting-and-driving-heres-why.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/us/2023/08/28/2-killed-4-injured-in-florida-sheriffs-office-helicopter-crash/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-28T20:08:20.000Z</news:publication_date>
-          <news:title>2 killed, 4 injured in Florida sheriff's office helicopter crash</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/us/2023/08/28/2-killed-4-injured-in-florida-sheriffs-office-helicopter-crash/2-killed-4-injured-in-florida-sheriffs-office-helicopter-crash.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -451,20 +451,6 @@
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/us/2023/08/28/police-release-photo-of-gunman-at-large-on-or-near-uncs-campus-university-on-lockdown/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-28T19:09:25.000Z</news:publication_date>
-          <news:title>Faculty member shot dead at UNC-Chapel Hill; suspect in custody</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/us/2023/08/28/police-release-photo-of-gunman-at-large-on-or-near-uncs-campus-university-on-lockdown/police-release-photo-of-gunman-at-large-on-or-near-uncs-campus-university-on-lockdown.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
         <loc>https://majordigest.com/us/2023/08/28/former-disney-star-arrested-in-texas-reports/</loc>
         <news:news>
           <news:publication>
@@ -479,17 +465,17 @@
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/us/2023/08/28/joe-the-plumber-made-famous-during-obamas-2008-campaign-dead-at-49/</loc>
+        <loc>https://majordigest.com/us/2023/08/28/puppy-recovered-from-wreckage-day-after-its-owner-was-killed-in-a-storm/</loc>
         <news:news>
           <news:publication>
             <news:name>Major Digest</news:name>
             <news:language>en</news:language>
           </news:publication>
-          <news:publication_date>2023-08-28T18:41:03.000Z</news:publication_date>
-          <news:title>Joe the Plumber dead at 49</news:title>
+          <news:publication_date>2023-08-28T16:19:25.000Z</news:publication_date>
+          <news:title>Puppy recovered from wreckage day after its owner was killed in a storm</news:title>
         </news:news>
         <image:image>
-          <image:loc>https://majordigest.com/us/2023/08/28/joe-the-plumber-made-famous-during-obamas-2008-campaign-dead-at-49/joe-the-plumber-made-famous-during-obamas-2008-campaign-dead-at-49.webp</image:loc>
+          <image:loc>https://majordigest.com/us/2023/08/28/puppy-recovered-from-wreckage-day-after-its-owner-was-killed-in-a-storm/puppy-recovered-from-wreckage-day-after-its-owner-was-killed-in-a-storm.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -504,6 +490,20 @@
         </news:news>
         <image:image>
           <image:loc>https://majordigest.com/us/2023/08/28/pope-says-backward-u-s-conservatives-have-replaced-faith-with-ideology/pope-says-backward-u-s-conservatives-have-replaced-faith-with-ideology.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/us/2023/08/28/most-states-in-south-have-banned-gender-affirming-care-for-trans-youth/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-28T12:52:56.000Z</news:publication_date>
+          <news:title>Most states in South have banned gender-affirming care for trans youth</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/us/2023/08/28/most-states-in-south-have-banned-gender-affirming-care-for-trans-youth/most-states-in-south-have-banned-gender-affirming-care-for-trans-youth.webp</image:loc>
         </image:image>
       </url>
       <url>

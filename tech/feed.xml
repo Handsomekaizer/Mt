@@ -7,7 +7,7 @@
         <title>Major Digest - Reliable and Comprehensive News Sources: tech</title>
         <description>Get the latest news online at Major Digest, the top online news resource for the most reliable news sources. Stay informed about the world around you!</description>
         <link>https://majordigest.com/?utm_medium=RSS</link>
-        <lastBuildDate>Tue, 29 Aug 2023 06:24:38 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 29 Aug 2023 07:17:46 GMT</lastBuildDate>
         <generator>https://majordigest.com/?v=1.1.4</generator>
         <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/" />
         <atom:link rel="self" href="https://majordigest.com/tech/feed.xml" type="application/rss+xml" />
@@ -28,17 +28,6 @@
         <media:content medium="image" url="https://majordigest.com/tech/2023/08/29/amazon-is-raising-free-shipping-minimums-for-some-customers-who-dont-have-prime-memberships/amazon-is-raising-free-shipping-minimums-for-some-customers-who-dont-have-prime-memberships.webp"/>
         <media:thumbnail url="https://majordigest.com/tech/2023/08/29/amazon-is-raising-free-shipping-minimums-for-some-customers-who-dont-have-prime-memberships/amazon-is-raising-free-shipping-minimums-for-some-customers-who-dont-have-prime-memberships.webp"/>
         <dc:creator>HALELUYA HADERO, Associated Press, ABC 4</dc:creator>
-      </item>
-      <item>
-        <title>Which car is cheaper, electric or gas? It depends where you live</title>
-        <description><![CDATA[In July, new EVs sold for $53,469 on average — down almost 20% from June 2022 but still higher than the new car sales price overall.]]></description>
-        <guid>https://majordigest.com/tech/2023/08/28/car-cheaper-electric-gas/</guid>
-        <link>https://majordigest.com/tech/2023/08/28/car-cheaper-electric-gas/</link>
-        <pubDate>Mon, 28 Aug 2023 22:24:36 +0000</pubDate>
-        <category>tech</category>
-        <media:content medium="image" url="https://majordigest.com/tech/2023/08/28/car-cheaper-electric-gas/car-cheaper-electric-gas.webp"/>
-        <media:thumbnail url="https://majordigest.com/tech/2023/08/28/car-cheaper-electric-gas/car-cheaper-electric-gas.webp"/>
-        <dc:creator>Andrew Dorn, NewsNation</dc:creator>
       </item>
       <item>
         <title>Musk, tech CEOs to attend Schumer's AI Senate forum</title>
@@ -195,6 +184,17 @@
         <dc:creator>Terry Spencer, Associated Press, Local 4</dc:creator>
       </item>
       <item>
+        <title>&#8220;Good old-fashioned redlining&#8221;: Why was Oakland cut out of state plan for high-speed internet?</title>
+        <description><![CDATA["Someone's giving really piss-poor advice," said one internet expert about California's sudden erasure of Oakland in its broadband expansion project.]]></description>
+        <guid>https://majordigest.com/tech/2023/08/26/good-old-fashioned-redlining-why-was-oakland-cut-out-of-state-plan-for-high-speed-internet/</guid>
+        <link>https://majordigest.com/tech/2023/08/26/good-old-fashioned-redlining-why-was-oakland-cut-out-of-state-plan-for-high-speed-internet/</link>
+        <pubDate>Sat, 26 Aug 2023 12:45:09 +0000</pubDate>
+        <category>tech</category>
+        <media:content medium="image" url="https://majordigest.com/tech/2023/08/26/good-old-fashioned-redlining-why-was-oakland-cut-out-of-state-plan-for-high-speed-internet/good-old-fashioned-redlining-why-was-oakland-cut-out-of-state-plan-for-high-speed-internet.webp"/>
+        <media:thumbnail url="https://majordigest.com/tech/2023/08/26/good-old-fashioned-redlining-why-was-oakland-cut-out-of-state-plan-for-high-speed-internet/good-old-fashioned-redlining-why-was-oakland-cut-out-of-state-plan-for-high-speed-internet.webp"/>
+        <dc:creator>Shomik Mukherjee, The Mercury News</dc:creator>
+      </item>
+      <item>
         <title>Broadband subsidy program that millions use will expire next year if Congress doesn&#8217;t act</title>
         <description><![CDATA[LOS ANGELES (AP) — One of the features that President Joe Biden cited in his plan to bring internet to every home and business in the United States by 2030 was affordability.]]></description>
         <guid>https://majordigest.com/tech/2023/08/26/broadband-subsidy-program-that-millions-use-will-expire-next-year-if-congress-doesnt-act/</guid>
@@ -283,17 +283,6 @@
         <dc:creator>Brett Samuels, NewsNation</dc:creator>
       </item>
       <item>
-        <title>T-Mobile to lay off 5,000 employees</title>
-        <description><![CDATA["What it takes to attract and retain customers is materially more expensive than it was just a few quarters ago," Sievert wrote.]]></description>
-        <guid>https://majordigest.com/tech/2023/08/25/t-mobile-lay-off-5000-employees/</guid>
-        <link>https://majordigest.com/tech/2023/08/25/t-mobile-lay-off-5000-employees/</link>
-        <pubDate>Fri, 25 Aug 2023 01:39:17 +0000</pubDate>
-        <category>tech</category>
-        <media:content medium="image" url="https://majordigest.com/tech/2023/08/25/t-mobile-lay-off-5000-employees/t-mobile-lay-off-5000-employees.webp"/>
-        <media:thumbnail url="https://majordigest.com/tech/2023/08/25/t-mobile-lay-off-5000-employees/t-mobile-lay-off-5000-employees.webp"/>
-        <dc:creator>The Associated Press, NewsNation</dc:creator>
-      </item>
-      <item>
         <title>Workers win raises at General Motors joint venture battery plant in Ohio as contract talks continue</title>
         <description><![CDATA[DETROIT (AP) — Unionized workers at a General Motors joint venture electric vehicle battery plant in Ohio will see pay raises while they continue to negotiate a contract, if they ratify an interim deal announced Thursday.]]></description>
         <guid>https://majordigest.com/tech/2023/08/25/workers-win-raises-at-general-motors-joint-venture-battery-plant-in-ohio-as-contract-talks-continue/</guid>
@@ -327,15 +316,15 @@
         <dc:creator>AP, KRON4</dc:creator>
       </item>
       <item>
-        <title>T-Mobile will lay off 5,000 employees, or about 7% of its workforce, in the coming weeks</title>
-        <description><![CDATA[NEW YORK (AP) — Wireless carrier T-Mobile said Thursday it plans to cut 5,000 jobs, or about 7% of its workforce.]]></description>
-        <guid>https://majordigest.com/tech/2023/08/24/t-mobile-will-lay-off-5000-employees-or-about-7-of-its-workforce-in-the-coming-weeks/</guid>
-        <link>https://majordigest.com/tech/2023/08/24/t-mobile-will-lay-off-5000-employees-or-about-7-of-its-workforce-in-the-coming-weeks/</link>
-        <pubDate>Thu, 24 Aug 2023 17:25:01 +0000</pubDate>
+        <title>Study links children's screen time to heart damage in adulthood</title>
+        <description><![CDATA[More sedentary time as a child could lead to a higher chance of heart attacks and strokes later in life, researchers found in a new study.]]></description>
+        <guid>https://majordigest.com/tech/2023/08/23/study-links-childrens-screen-time-to-heart-damage-in-adulthood/</guid>
+        <link>https://majordigest.com/tech/2023/08/23/study-links-childrens-screen-time-to-heart-damage-in-adulthood/</link>
+        <pubDate>Wed, 23 Aug 2023 19:21:19 +0000</pubDate>
         <category>tech</category>
-        <media:content medium="image" url="https://majordigest.com/tech/2023/08/24/t-mobile-will-lay-off-5000-employees-or-about-7-of-its-workforce-in-the-coming-weeks/t-mobile-will-lay-off-5000-employees-or-about-7-of-its-workforce-in-the-coming-weeks.webp"/>
-        <media:thumbnail url="https://majordigest.com/tech/2023/08/24/t-mobile-will-lay-off-5000-employees-or-about-7-of-its-workforce-in-the-coming-weeks/t-mobile-will-lay-off-5000-employees-or-about-7-of-its-workforce-in-the-coming-weeks.webp"/>
-        <dc:creator>WYATTE GRANTHAM-PHILIPS, Associated Press, KRON4</dc:creator>
+        <media:content medium="image" url="https://majordigest.com/tech/2023/08/23/study-links-childrens-screen-time-to-heart-damage-in-adulthood/study-links-childrens-screen-time-to-heart-damage-in-adulthood.webp"/>
+        <media:thumbnail url="https://majordigest.com/tech/2023/08/23/study-links-childrens-screen-time-to-heart-damage-in-adulthood/study-links-childrens-screen-time-to-heart-damage-in-adulthood.webp"/>
+        <dc:creator>Cassie Buchman, WGN 9</dc:creator>
       </item>
       <item>
         <title>John Warnock, who helped invent the PDF and co-founded Adobe Systems, dies at age 82</title>
@@ -402,6 +391,17 @@
         <media:content medium="image" url="https://majordigest.com/tech/2023/08/22/mark-zuckerberg-says-a-web-version-of-threads-will-be-available-in-the-next-few-days/mark-zuckerberg-says-a-web-version-of-threads-will-be-available-in-the-next-few-days.webp"/>
         <media:thumbnail url="https://majordigest.com/tech/2023/08/22/mark-zuckerberg-says-a-web-version-of-threads-will-be-available-in-the-next-few-days/mark-zuckerberg-says-a-web-version-of-threads-will-be-available-in-the-next-few-days.webp"/>
         <dc:creator>Associated Press, KGET 17, NBC</dc:creator>
+      </item>
+      <item>
+        <title>Microsoft budges on video game streaming rights in push for UK to approve Activision Blizzard deal</title>
+        <description><![CDATA[LONDON (AP) — British competition regulators opened a new investigation Tuesday into Microsoft's revamped bid to buy video game maker Activision Blizzard, representing the last major hurdle to closing one of the biggest deals in tech history.]]></description>
+        <guid>https://majordigest.com/tech/2023/08/22/microsoft-revamps-deal-for-video-game-maker-activision-blizzard-to-meet-uk-demands/</guid>
+        <link>https://majordigest.com/tech/2023/08/22/microsoft-revamps-deal-for-video-game-maker-activision-blizzard-to-meet-uk-demands/</link>
+        <pubDate>Tue, 22 Aug 2023 14:08:16 +0000</pubDate>
+        <category>tech</category>
+        <media:content medium="image" url="https://majordigest.com/tech/2023/08/22/microsoft-revamps-deal-for-video-game-maker-activision-blizzard-to-meet-uk-demands/microsoft-revamps-deal-for-video-game-maker-activision-blizzard-to-meet-uk-demands.webp"/>
+        <media:thumbnail url="https://majordigest.com/tech/2023/08/22/microsoft-revamps-deal-for-video-game-maker-activision-blizzard-to-meet-uk-demands/microsoft-revamps-deal-for-video-game-maker-activision-blizzard-to-meet-uk-demands.webp"/>
+        <dc:creator>KELVIN CHAN, Associated Press, KGET 17, NBC</dc:creator>
       </item>
       <item>
         <title>How to set up earthquake alerts on your phone</title>
