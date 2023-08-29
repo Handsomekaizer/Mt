@@ -143,20 +143,6 @@
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/tech/2023/08/28/how-paypal-is-using-ai-to-combat-fraud-and-make-it-easier-to-pay/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-28T11:42:35.000Z</news:publication_date>
-          <news:title>How PayPal is using AI to combat fraud, and make it easier to pay</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/tech/2023/08/28/how-paypal-is-using-ai-to-combat-fraud-and-make-it-easier-to-pay/how-paypal-is-using-ai-to-combat-fraud-and-make-it-easier-to-pay.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
         <loc>https://majordigest.com/tech/2023/08/28/how-an-ai-gold-rush-is-reviving-the-tech-industry/</loc>
         <news:news>
           <news:publication>
@@ -168,6 +154,34 @@
         </news:news>
         <image:image>
           <image:loc>https://majordigest.com/tech/2023/08/28/how-an-ai-gold-rush-is-reviving-the-tech-industry/how-an-ai-gold-rush-is-reviving-the-tech-industry.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/tech/2023/08/27/how-make-devices-impossible-snoop-privacy-screen/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-27T18:59:48.000Z</news:publication_date>
+          <news:title>How to make your devices impossible to snoop on with a privacy screen</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/tech/2023/08/27/how-make-devices-impossible-snoop-privacy-screen/how-make-devices-impossible-snoop-privacy-screen.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/tech/2023/08/27/takeaways-from-aps-investigation-into-sexual-harassment-and-assault-at-antarcticas-mcmurdo-station/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-27T04:08:17.000Z</news:publication_date>
+          <news:title>Takeaways from AP's investigation into sexual harassment and assault at Antarctica's McMurdo Station</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/tech/2023/08/27/takeaways-from-aps-investigation-into-sexual-harassment-and-assault-at-antarcticas-mcmurdo-station/takeaways-from-aps-investigation-into-sexual-harassment-and-assault-at-antarcticas-mcmurdo-station.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -504,19 +518,5 @@
         </news:news>
         <image:image>
           <image:loc>https://majordigest.com/tech/2023/08/22/mark-zuckerberg-says-a-web-version-of-threads-will-be-available-in-the-next-few-days/mark-zuckerberg-says-a-web-version-of-threads-will-be-available-in-the-next-few-days.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/tech/2023/08/22/microsoft-revamps-deal-for-video-game-maker-activision-blizzard-to-meet-uk-demands/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-22T14:08:16.000Z</news:publication_date>
-          <news:title>Microsoft budges on video game streaming rights in push for UK to approve Activision Blizzard deal</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/tech/2023/08/22/microsoft-revamps-deal-for-video-game-maker-activision-blizzard-to-meet-uk-demands/microsoft-revamps-deal-for-video-game-maker-activision-blizzard-to-meet-uk-demands.webp</image:loc>
         </image:image>
       </url></urlset>

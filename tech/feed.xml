@@ -7,7 +7,7 @@
         <title>Major Digest - Reliable and Comprehensive News Sources: tech</title>
         <description>Get the latest news online at Major Digest, the top online news resource for the most reliable news sources. Stay informed about the world around you!</description>
         <link>https://majordigest.com/?utm_medium=RSS</link>
-        <lastBuildDate>Tue, 29 Aug 2023 13:22:38 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 29 Aug 2023 14:17:09 GMT</lastBuildDate>
         <generator>https://majordigest.com/?v=1.1.4</generator>
         <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/" />
         <atom:link rel="self" href="https://majordigest.com/tech/feed.xml" type="application/rss+xml" />
@@ -129,17 +129,6 @@
         <dc:creator>Rich DeMuro, KTLA 5</dc:creator>
       </item>
       <item>
-        <title>How PayPal is using AI to combat fraud, and make it easier to pay</title>
-        <description><![CDATA[Artificial intelligence has been the buzzword of 2023 ever since ChatGPT made its public debut earlier this year, with businesses, schools, universities and even non-profits looking for ways to integrate AI in their operations.]]></description>
-        <guid>https://majordigest.com/tech/2023/08/28/how-paypal-is-using-ai-to-combat-fraud-and-make-it-easier-to-pay/</guid>
-        <link>https://majordigest.com/tech/2023/08/28/how-paypal-is-using-ai-to-combat-fraud-and-make-it-easier-to-pay/</link>
-        <pubDate>Mon, 28 Aug 2023 11:42:35 +0000</pubDate>
-        <category>tech</category>
-        <media:content medium="image" url="https://majordigest.com/tech/2023/08/28/how-paypal-is-using-ai-to-combat-fraud-and-make-it-easier-to-pay/how-paypal-is-using-ai-to-combat-fraud-and-make-it-easier-to-pay.webp"/>
-        <media:thumbnail url="https://majordigest.com/tech/2023/08/28/how-paypal-is-using-ai-to-combat-fraud-and-make-it-easier-to-pay/how-paypal-is-using-ai-to-combat-fraud-and-make-it-easier-to-pay.webp"/>
-        <dc:creator>Ken Sweet, Associated Press, KPRC 2</dc:creator>
-      </item>
-      <item>
         <title>How an AI 'gold rush' is reviving the tech industry</title>
         <description><![CDATA[The recent surge in generative artificial intelligence (AI) technology is boosting the tech industry after growth slowed across the sector earlier this year.]]></description>
         <guid>https://majordigest.com/tech/2023/08/28/how-an-ai-gold-rush-is-reviving-the-tech-industry/</guid>
@@ -149,6 +138,28 @@
         <media:content medium="image" url="https://majordigest.com/tech/2023/08/28/how-an-ai-gold-rush-is-reviving-the-tech-industry/how-an-ai-gold-rush-is-reviving-the-tech-industry.webp"/>
         <media:thumbnail url="https://majordigest.com/tech/2023/08/28/how-an-ai-gold-rush-is-reviving-the-tech-industry/how-an-ai-gold-rush-is-reviving-the-tech-industry.webp"/>
         <dc:creator>Rebecca Klar, The Hill</dc:creator>
+      </item>
+      <item>
+        <title>How to make your devices impossible to snoop on with a privacy screen</title>
+        <description><![CDATA[You may find yourself in a situation in which you are in public and a stranger is looking at your phone, Kurt &quot;CyberGuy&quot; Knutsson shows you the best privacy screen protectors.]]></description>
+        <guid>https://majordigest.com/tech/2023/08/27/how-make-devices-impossible-snoop-privacy-screen/</guid>
+        <link>https://majordigest.com/tech/2023/08/27/how-make-devices-impossible-snoop-privacy-screen/</link>
+        <pubDate>Sun, 27 Aug 2023 14:59:48 EDT</pubDate>
+        <category>tech</category>
+        <media:content medium="image" url="https://majordigest.com/tech/2023/08/27/how-make-devices-impossible-snoop-privacy-screen/how-make-devices-impossible-snoop-privacy-screen.webp"/>
+        <media:thumbnail url="https://majordigest.com/tech/2023/08/27/how-make-devices-impossible-snoop-privacy-screen/how-make-devices-impossible-snoop-privacy-screen.webp"/>
+        <dc:creator>Fox News</dc:creator>
+      </item>
+      <item>
+        <title>Takeaways from AP's investigation into sexual harassment and assault at Antarctica's McMurdo Station</title>
+        <description><![CDATA[Many women who work at McMurdo Station, the main United States research base in Antarctica, say the isolated environment and macho culture have allowed sexual harassment and assault to flourish.]]></description>
+        <guid>https://majordigest.com/tech/2023/08/27/takeaways-from-aps-investigation-into-sexual-harassment-and-assault-at-antarcticas-mcmurdo-station/</guid>
+        <link>https://majordigest.com/tech/2023/08/27/takeaways-from-aps-investigation-into-sexual-harassment-and-assault-at-antarcticas-mcmurdo-station/</link>
+        <pubDate>Sun, 27 Aug 2023 04:08:17 +0000</pubDate>
+        <category>tech</category>
+        <media:content medium="image" url="https://majordigest.com/tech/2023/08/27/takeaways-from-aps-investigation-into-sexual-harassment-and-assault-at-antarcticas-mcmurdo-station/takeaways-from-aps-investigation-into-sexual-harassment-and-assault-at-antarcticas-mcmurdo-station.webp"/>
+        <media:thumbnail url="https://majordigest.com/tech/2023/08/27/takeaways-from-aps-investigation-into-sexual-harassment-and-assault-at-antarcticas-mcmurdo-station/takeaways-from-aps-investigation-into-sexual-harassment-and-assault-at-antarcticas-mcmurdo-station.webp"/>
+        <dc:creator>Nick Perry, Associated Press, KPRC 2</dc:creator>
       </item>
       <item>
         <title>Women working in Antarctica say they were left to fend for themselves against sexual harassers</title>
@@ -413,15 +424,4 @@
         <media:content medium="image" url="https://majordigest.com/tech/2023/08/22/mark-zuckerberg-says-a-web-version-of-threads-will-be-available-in-the-next-few-days/mark-zuckerberg-says-a-web-version-of-threads-will-be-available-in-the-next-few-days.webp"/>
         <media:thumbnail url="https://majordigest.com/tech/2023/08/22/mark-zuckerberg-says-a-web-version-of-threads-will-be-available-in-the-next-few-days/mark-zuckerberg-says-a-web-version-of-threads-will-be-available-in-the-next-few-days.webp"/>
         <dc:creator>Associated Press, KGET 17, NBC</dc:creator>
-      </item>
-      <item>
-        <title>Microsoft budges on video game streaming rights in push for UK to approve Activision Blizzard deal</title>
-        <description><![CDATA[LONDON (AP) — British competition regulators opened a new investigation Tuesday into Microsoft's revamped bid to buy video game maker Activision Blizzard, representing the last major hurdle to closing one of the biggest deals in tech history.]]></description>
-        <guid>https://majordigest.com/tech/2023/08/22/microsoft-revamps-deal-for-video-game-maker-activision-blizzard-to-meet-uk-demands/</guid>
-        <link>https://majordigest.com/tech/2023/08/22/microsoft-revamps-deal-for-video-game-maker-activision-blizzard-to-meet-uk-demands/</link>
-        <pubDate>Tue, 22 Aug 2023 14:08:16 +0000</pubDate>
-        <category>tech</category>
-        <media:content medium="image" url="https://majordigest.com/tech/2023/08/22/microsoft-revamps-deal-for-video-game-maker-activision-blizzard-to-meet-uk-demands/microsoft-revamps-deal-for-video-game-maker-activision-blizzard-to-meet-uk-demands.webp"/>
-        <media:thumbnail url="https://majordigest.com/tech/2023/08/22/microsoft-revamps-deal-for-video-game-maker-activision-blizzard-to-meet-uk-demands/microsoft-revamps-deal-for-video-game-maker-activision-blizzard-to-meet-uk-demands.webp"/>
-        <dc:creator>KELVIN CHAN, Associated Press, KLAS, CBS News</dc:creator>
       </item></channel></rss>
