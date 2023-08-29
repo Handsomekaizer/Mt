@@ -3,6 +3,20 @@
               xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
               xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
       <url>
+        <loc>https://majordigest.com/world/2023/08/29/un-in-unprecedented-6-month-withdrawal-of-nearly-13000-peacekeepers-from-mali/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-29T02:50:00.000Z</news:publication_date>
+          <news:title>The UN is undertaking an unprecedented 6-month withdrawal of nearly 13,000 peacekeepers from Mali</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/world/2023/08/29/un-in-unprecedented-6-month-withdrawal-of-nearly-13000-peacekeepers-from-mali/un-in-unprecedented-6-month-withdrawal-of-nearly-13000-peacekeepers-from-mali.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
         <loc>https://majordigest.com/world/2023/08/29/japan-asks-china-to-urge-citizens-to-halt-harassment-after-start-of-fukushima-wastewater-release/</loc>
         <news:news>
           <news:publication>
@@ -45,20 +59,6 @@
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/world/2023/08/29/french-education-minister-bans-long-robes-in-classrooms-in-effort-to-defend-nations-secular-values/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-29T00:37:19.000Z</news:publication_date>
-          <news:title>France's education minister bans long robes in classrooms. They're worn mainly by Muslims</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/world/2023/08/29/french-education-minister-bans-long-robes-in-classrooms-in-effort-to-defend-nations-secular-values/french-education-minister-bans-long-robes-in-classrooms-in-effort-to-defend-nations-secular-values.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
         <loc>https://majordigest.com/world/2023/08/29/the-un-is-undertaking-an-unprecedented-6-month-withdrawal-of-nearly-13000-peacekeepers-from-mali/</loc>
         <news:news>
           <news:publication>
@@ -73,17 +73,17 @@
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/world/2023/08/28/colombians-turn-out-droves-protest-50-gasoline-price-hike/</loc>
+        <loc>https://majordigest.com/world/2023/08/29/the-un-is-undertaking-an-unprecedented-6-month-withdrawal-of-nearly-13000-peacekeepers-from-mali/</loc>
         <news:news>
           <news:publication>
             <news:name>Major Digest</news:name>
             <news:language>en</news:language>
           </news:publication>
-          <news:publication_date>2023-08-28T23:55:21.000Z</news:publication_date>
-          <news:title>Colombians turn out in droves to protest 50% gasoline price hike</news:title>
+          <news:publication_date>2023-08-29T00:05:02.000Z</news:publication_date>
+          <news:title>The UN is undertaking an unprecedented 6-month withdrawal of nearly 13,000 peacekeepers from Mali</news:title>
         </news:news>
         <image:image>
-          <image:loc>https://majordigest.com/world/2023/08/28/colombians-turn-out-droves-protest-50-gasoline-price-hike/colombians-turn-out-droves-protest-50-gasoline-price-hike.webp</image:loc>
+          <image:loc>https://majordigest.com/world/2023/08/29/the-un-is-undertaking-an-unprecedented-6-month-withdrawal-of-nearly-13000-peacekeepers-from-mali/the-un-is-undertaking-an-unprecedented-6-month-withdrawal-of-nearly-13000-peacekeepers-from-mali.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -143,17 +143,17 @@
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/world/2023/08/28/haiti-police-probe-killings-of-parishioners-who-were-led-by-a-pastor-into-gang-territory/</loc>
+        <loc>https://majordigest.com/world/2023/08/28/white-house-increasingly-confident-wagner-leader-prigozhin-died-plane-crash/</loc>
         <news:news>
           <news:publication>
             <news:name>Major Digest</news:name>
             <news:language>en</news:language>
           </news:publication>
-          <news:publication_date>2023-08-28T21:13:51.000Z</news:publication_date>
-          <news:title>Haiti police probe killings of parishioners who were led by a pastor into gang territory</news:title>
+          <news:publication_date>2023-08-28T21:26:26.000Z</news:publication_date>
+          <news:title>White House &#8216;increasingly confident&#8217; Wagner leader Prigozhin died in plane crash</news:title>
         </news:news>
         <image:image>
-          <image:loc>https://majordigest.com/world/2023/08/28/haiti-police-probe-killings-of-parishioners-who-were-led-by-a-pastor-into-gang-territory/haiti-police-probe-killings-of-parishioners-who-were-led-by-a-pastor-into-gang-territory.webp</image:loc>
+          <image:loc>https://majordigest.com/world/2023/08/28/white-house-increasingly-confident-wagner-leader-prigozhin-died-plane-crash/white-house-increasingly-confident-wagner-leader-prigozhin-died-plane-crash.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -224,20 +224,6 @@
         </news:news>
         <image:image>
           <image:loc>https://majordigest.com/world/2023/08/28/virginia-man-stolen-at-birth-meets-chilean-family-for-first-time/virginia-man-stolen-at-birth-meets-chilean-family-for-first-time.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/world/2023/08/28/libyas-foreign-minister-suspended-after-meeting-with-israels-chief-diplomat/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-28T19:13:14.000Z</news:publication_date>
-          <news:title>Libya&#8217;s foreign minister suspended, flees country after meeting with Israel&#8217;s chief diplomat</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/world/2023/08/28/libyas-foreign-minister-suspended-after-meeting-with-israels-chief-diplomat/libyas-foreign-minister-suspended-after-meeting-with-israels-chief-diplomat.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -367,20 +353,6 @@
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/world/2023/08/27/russia-says-it-has-confirmed-prigozhin-died-in-the-plane-crash/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-27T16:07:48.000Z</news:publication_date>
-          <news:title>Russia says it confirmed Wagner leader Prigozhin died in a plane crash</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/world/2023/08/27/russia-says-it-has-confirmed-prigozhin-died-in-the-plane-crash/russia-says-it-has-confirmed-prigozhin-died-in-the-plane-crash.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
         <loc>https://majordigest.com/world/2023/08/27/with-drones-and-webcams-volunteer-hunters-join-new-search-for-mythical-loch-ness-monster/</loc>
         <news:news>
           <news:publication>
@@ -479,6 +451,20 @@
         </image:image>
       </url>
       <url>
+        <loc>https://majordigest.com/world/2023/08/24/putin-breaks-silence-on-plane-crash-that-presumably-killed-wagner-leaders/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-24T16:33:08.000Z</news:publication_date>
+          <news:title>Putin breaks silence on plane crash that presumably killed Wagner leaders</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/world/2023/08/24/putin-breaks-silence-on-plane-crash-that-presumably-killed-wagner-leaders/putin-breaks-silence-on-plane-crash-that-presumably-killed-wagner-leaders.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
         <loc>https://majordigest.com/world/2023/08/23/jet-crash-in-russia-kills-10-and-wagner-chief-was-on-passenger-list-officials-say/</loc>
         <news:news>
           <news:publication>
@@ -490,6 +476,20 @@
         </news:news>
         <image:image>
           <image:loc>https://majordigest.com/world/2023/08/23/jet-crash-in-russia-kills-10-and-wagner-chief-was-on-passenger-list-officials-say/jet-crash-in-russia-kills-10-and-wagner-chief-was-on-passenger-list-officials-say.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/world/2023/08/23/india-lands-a-spacecraft-near-the-moons-south-pole-a-first-for-the-world-as-it-joins-elite-club/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-23T15:40:35.000Z</news:publication_date>
+          <news:title>India lands a spacecraft near the moon's south pole, a first for the world as it joins elite club</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/world/2023/08/23/india-lands-a-spacecraft-near-the-moons-south-pole-a-first-for-the-world-as-it-joins-elite-club/india-lands-a-spacecraft-near-the-moons-south-pole-a-first-for-the-world-as-it-joins-elite-club.webp</image:loc>
         </image:image>
       </url>
       <url>
