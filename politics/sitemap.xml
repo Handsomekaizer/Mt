@@ -3,6 +3,20 @@
               xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
               xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
       <url>
+        <loc>https://majordigest.com/politics/2023/08/29/president-joe-biden-is-hosting-costa-rican-president-rodrigo-chaves-at-the-white-house/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-29T04:07:18.000Z</news:publication_date>
+          <news:title>President Joe Biden is hosting Costa Rican President Rodrigo Chaves at the White House</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/politics/2023/08/29/president-joe-biden-is-hosting-costa-rican-president-rodrigo-chaves-at-the-white-house/president-joe-biden-is-hosting-costa-rican-president-rodrigo-chaves-at-the-white-house.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
         <loc>https://majordigest.com/politics/2023/08/29/biden-administration-to-target-drugs-for-price-negotiations-to-lower-medicare-costs/</loc>
         <news:news>
           <news:publication>
@@ -17,17 +31,45 @@
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/politics/2023/08/29/judge-to-hear-arguments-on-mark-meadows-request-to-move-georgia-election-case-to-federal-court/</loc>
+        <loc>https://majordigest.com/politics/2023/08/29/recruiting-is-underway-for-trump-like-wrecking-ball-to-shrink-government-and-fire-federal-workers/</loc>
         <news:news>
           <news:publication>
             <news:name>Major Digest</news:name>
             <news:language>en</news:language>
           </news:publication>
-          <news:publication_date>2023-08-29T03:30:28.000Z</news:publication_date>
-          <news:title>Trump chief of staff Meadows says actions laid out in Georgia indictment were part of his job</news:title>
+          <news:publication_date>2023-08-29T04:03:02.000Z</news:publication_date>
+          <news:title>Recruiting is underway for Trump-like 'wrecking ball' to shrink government and fire federal workers</news:title>
         </news:news>
         <image:image>
-          <image:loc>https://majordigest.com/politics/2023/08/29/judge-to-hear-arguments-on-mark-meadows-request-to-move-georgia-election-case-to-federal-court/judge-to-hear-arguments-on-mark-meadows-request-to-move-georgia-election-case-to-federal-court.webp</image:loc>
+          <image:loc>https://majordigest.com/politics/2023/08/29/recruiting-is-underway-for-trump-like-wrecking-ball-to-shrink-government-and-fire-federal-workers/recruiting-is-underway-for-trump-like-wrecking-ball-to-shrink-government-and-fire-federal-workers.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/politics/2023/08/29/florida-gov-ron-desantis-faces-black-leaders-anger-after-racist-killings-in-jacksonville/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-29T04:01:29.000Z</news:publication_date>
+          <news:title>Florida Gov. Ron DeSantis faces Black leaders' anger after racist killings in Jacksonville</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/politics/2023/08/29/florida-gov-ron-desantis-faces-black-leaders-anger-after-racist-killings-in-jacksonville/florida-gov-ron-desantis-faces-black-leaders-anger-after-racist-killings-in-jacksonville.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/politics/2023/08/29/ap-election-brief-what-to-expect-in-mississippis-runoff-primaries/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-29T03:07:50.000Z</news:publication_date>
+          <news:title>AP Election Brief | What to expect in Mississippi's runoff primaries</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/politics/2023/08/29/ap-election-brief-what-to-expect-in-mississippis-runoff-primaries/ap-election-brief-what-to-expect-in-mississippis-runoff-primaries.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -45,20 +87,6 @@
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/politics/2023/08/29/twerking-and-breastplates-drag-is-a-performance-art-lgbtq-groups-and-performers-assert-in-federal-hearing/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-29T02:20:27.000Z</news:publication_date>
-          <news:title>Drag shows are protected by 1st Amendment, performers tell federal judge</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/politics/2023/08/29/twerking-and-breastplates-drag-is-a-performance-art-lgbtq-groups-and-performers-assert-in-federal-hearing/twerking-and-breastplates-drag-is-a-performance-art-lgbtq-groups-and-performers-assert-in-federal-hearing.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
         <loc>https://majordigest.com/politics/2023/08/29/wisconsin-supreme-court-chief-justice-accuses-liberal-majority-of-staging-a-coup/</loc>
         <news:news>
           <news:publication>
@@ -70,34 +98,6 @@
         </news:news>
         <image:image>
           <image:loc>https://majordigest.com/politics/2023/08/29/wisconsin-supreme-court-chief-justice-accuses-liberal-majority-of-staging-a-coup/wisconsin-supreme-court-chief-justice-accuses-liberal-majority-of-staging-a-coup.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/politics/2023/08/29/trump-lawyers-back-in-dc-court-as-two-sides-differ-over-trial-date-in-election-subversion-case/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-29T01:22:22.000Z</news:publication_date>
-          <news:title>Trump trial set for March 4, 2024, in federal case charging him with plotting to overturn election</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/politics/2023/08/29/trump-lawyers-back-in-dc-court-as-two-sides-differ-over-trial-date-in-election-subversion-case/trump-lawyers-back-in-dc-court-as-two-sides-differ-over-trial-date-in-election-subversion-case.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/politics/2023/08/29/justin-jones-silenced-tennessee/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-29T00:44:20.000Z</news:publication_date>
-          <news:title>GOP silences &#8216;Tennessee 3&#8217; Democrat on House floor</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/politics/2023/08/29/justin-jones-silenced-tennessee/justin-jones-silenced-tennessee.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -143,6 +143,20 @@
         </image:image>
       </url>
       <url>
+        <loc>https://majordigest.com/politics/2023/08/29/west-texas-am-will-no-longer-require-students-to-pay-for-textbooks-starting-next-fall/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-29T00:07:43.000Z</news:publication_date>
+          <news:title>West Texas A&#38;M will no longer require students to pay for textbooks starting next fall</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/politics/2023/08/29/west-texas-am-will-no-longer-require-students-to-pay-for-textbooks-starting-next-fall/west-texas-am-will-no-longer-require-students-to-pay-for-textbooks-starting-next-fall.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
         <loc>https://majordigest.com/politics/2023/08/29/biden-claims-have-literally-convinced-strom-thurmond-vote-civil-rights-act-21-years-old/</loc>
         <news:news>
           <news:publication>
@@ -154,20 +168,6 @@
         </news:news>
         <image:image>
           <image:loc>https://majordigest.com/politics/2023/08/29/biden-claims-have-literally-convinced-strom-thurmond-vote-civil-rights-act-21-years-old/biden-claims-have-literally-convinced-strom-thurmond-vote-civil-rights-act-21-years-old.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/politics/2023/08/28/biden-and-harris-will-meet-with-kings-family-on-60th-anniversary-of-the-march-on-washington/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-28T23:17:27.000Z</news:publication_date>
-          <news:title>Biden says action needed against 'hate-fueled violence' after racist shooting in Florida</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/politics/2023/08/28/biden-and-harris-will-meet-with-kings-family-on-60th-anniversary-of-the-march-on-washington/biden-and-harris-will-meet-with-kings-family-on-60th-anniversary-of-the-march-on-washington.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -196,6 +196,20 @@
         </news:news>
         <image:image>
           <image:loc>https://majordigest.com/politics/2023/08/28/what-to-know-medicare-drug-price-negotiations/what-to-know-medicare-drug-price-negotiations.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/politics/2023/08/28/biden-admin-hit-legal-challenge-green-lighting-massive-plan-take-ag-lands-out-production/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-28T22:19:29.000Z</news:publication_date>
+          <news:title>Biden admin hit with legal challenge for green-lighting massive plan to take ag lands out of production</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/politics/2023/08/28/biden-admin-hit-legal-challenge-green-lighting-massive-plan-take-ag-lands-out-production/biden-admin-hit-legal-challenge-green-lighting-massive-plan-take-ag-lands-out-production.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -241,31 +255,17 @@
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/politics/2023/08/28/porter-warren-accuse-tax-prep-firms-of-undermining-new-irs-effort-on-electronic-free-file-tax-returns/</loc>
+        <loc>https://majordigest.com/politics/2023/08/28/adam-schiff-visits-half-moon-bay-to-shed-light-on-farmworker-conditions/</loc>
         <news:news>
           <news:publication>
             <news:name>Major Digest</news:name>
             <news:language>en</news:language>
           </news:publication>
-          <news:publication_date>2023-08-28T20:30:47.000Z</news:publication_date>
-          <news:title>Porter, Warren accuse tax prep firms of undermining new IRS effort on electronic free file tax returns</news:title>
+          <news:publication_date>2023-08-28T20:28:33.000Z</news:publication_date>
+          <news:title>Adam Schiff visits Half Moon Bay to shed light on farmworker conditions</news:title>
         </news:news>
         <image:image>
-          <image:loc>https://majordigest.com/politics/2023/08/28/porter-warren-accuse-tax-prep-firms-of-undermining-new-irs-effort-on-electronic-free-file-tax-returns/porter-warren-accuse-tax-prep-firms-of-undermining-new-irs-effort-on-electronic-free-file-tax-returns.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/politics/2023/08/28/12-8-million-documents-of-discovery-shared-in-trump-jan-6-case-prosecutors-say/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-28T19:13:55.000Z</news:publication_date>
-          <news:title>12.8 million documents of discovery shared in Trump Jan. 6 case, prosecutors say</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/politics/2023/08/28/12-8-million-documents-of-discovery-shared-in-trump-jan-6-case-prosecutors-say/12-8-million-documents-of-discovery-shared-in-trump-jan-6-case-prosecutors-say.webp</image:loc>
+          <image:loc>https://majordigest.com/politics/2023/08/28/adam-schiff-visits-half-moon-bay-to-shed-light-on-farmworker-conditions/adam-schiff-visits-half-moon-bay-to-shed-light-on-farmworker-conditions.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -280,6 +280,20 @@
         </news:news>
         <image:image>
           <image:loc>https://majordigest.com/politics/2023/08/28/mark-meadows-taking-stand-in-georgia-hearing-reports/mark-meadows-taking-stand-in-georgia-hearing-reports.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/politics/2023/08/28/judge-sets-march-4-2024-as-trump-trial-date-in-election-interference-case/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-28T16:57:00.000Z</news:publication_date>
+          <news:title>Judge sets March 4, 2024 as Trump trial date in election interference case</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/politics/2023/08/28/judge-sets-march-4-2024-as-trump-trial-date-in-election-interference-case/judge-sets-march-4-2024-as-trump-trial-date-in-election-interference-case.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -353,20 +367,6 @@
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/politics/2023/08/25/st-paul-conservative-legal-scholar-says-constitution-bars-trump-from-being-president/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-25T20:30:00.000Z</news:publication_date>
-          <news:title>MN legal scholar: Constitution bars Trump presidency</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/politics/2023/08/25/st-paul-conservative-legal-scholar-says-constitution-bars-trump-from-being-president/st-paul-conservative-legal-scholar-says-constitution-bars-trump-from-being-president.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
         <loc>https://majordigest.com/politics/2023/08/25/new-york-man-sentenced-to-3-months-in-prison-for-making-threatening-phone-calls-to-rep-marjorie-taylor-greene/</loc>
         <news:news>
           <news:publication>
@@ -423,20 +423,6 @@
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/politics/2023/08/25/encinitas-tackles-homelessness-issues-looks-at-possible-camping-ban/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-25T02:12:23.000Z</news:publication_date>
-          <news:title>Encinitas tackles homelessness issues, looks at possible camping ban</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/politics/2023/08/25/encinitas-tackles-homelessness-issues-looks-at-possible-camping-ban/encinitas-tackles-homelessness-issues-looks-at-possible-camping-ban.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
         <loc>https://majordigest.com/politics/2023/08/24/does-the-georgia-case-pose-greatest-threat-to-former-president-trump/</loc>
         <news:news>
           <news:publication>
@@ -462,6 +448,20 @@
         </news:news>
         <image:image>
           <image:loc>https://majordigest.com/politics/2023/08/24/apple-backs-californias-right-to-repair-bill-in-major-policy-shift/apple-backs-californias-right-to-repair-bill-in-major-policy-shift.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/politics/2023/08/24/covid-19-cases-rise-cdc-recommends-updated-vaccine/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-24T20:37:19.000Z</news:publication_date>
+          <news:title>COVID-19 cases rise, CDC recommends updated vaccine</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/politics/2023/08/24/covid-19-cases-rise-cdc-recommends-updated-vaccine/covid-19-cases-rise-cdc-recommends-updated-vaccine.webp</image:loc>
         </image:image>
       </url>
       <url>

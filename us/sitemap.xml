@@ -3,6 +3,76 @@
               xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
               xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
       <url>
+        <loc>https://majordigest.com/us/2023/08/29/mind-reading-restoring-vision-blind-giving-deaf-hearing-possible-neurosurgeon/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-29T06:00:20.000Z</news:publication_date>
+          <news:title>'Mind reading,' restoring vision to the blind and giving the deaf hearing could be possible: Neurosurgeon</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/us/2023/08/29/mind-reading-restoring-vision-blind-giving-deaf-hearing-possible-neurosurgeon/mind-reading-restoring-vision-blind-giving-deaf-hearing-possible-neurosurgeon.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/us/2023/08/29/neurosurgeon-investigating-patients-mystery-symptoms-plucks-a-worm-from-womans-brain-in-australia/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-29T05:41:03.000Z</news:publication_date>
+          <news:title>Neurosurgeon investigating patient's mystery symptoms plucks a worm from woman's brain in Australia</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/us/2023/08/29/neurosurgeon-investigating-patients-mystery-symptoms-plucks-a-worm-from-womans-brain-in-australia/neurosurgeon-investigating-patients-mystery-symptoms-plucks-a-worm-from-womans-brain-in-australia.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/us/2023/08/29/as-idalia-churns-toward-florida-residents-urged-to-wrap-up-storm-preparations/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-29T05:36:14.000Z</news:publication_date>
+          <news:title>Tropical Storm Idalia is nearing Florida. Residents are being urged to wrap up their preparations</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/us/2023/08/29/as-idalia-churns-toward-florida-residents-urged-to-wrap-up-storm-preparations/as-idalia-churns-toward-florida-residents-urged-to-wrap-up-storm-preparations.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/us/2023/08/29/syria-protests-spurred-by-economic-misery-stir-memories-of-the-2011-anti-government-uprising/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-29T05:27:07.000Z</news:publication_date>
+          <news:title>Syria protests spurred by economic misery stir memories of the 2011 anti-government uprising</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/us/2023/08/29/syria-protests-spurred-by-economic-misery-stir-memories-of-the-2011-anti-government-uprising/syria-protests-spurred-by-economic-misery-stir-memories-of-the-2011-anti-government-uprising.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/us/2023/08/29/native-nations-on-front-lines-of-climate-change-share-knowledge-and-find-support-at-intensive-camps/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-29T05:16:19.000Z</news:publication_date>
+          <news:title>Native nations on front lines of climate change share knowledge and find support at intensive camps</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/us/2023/08/29/native-nations-on-front-lines-of-climate-change-share-knowledge-and-find-support-at-intensive-camps/native-nations-on-front-lines-of-climate-change-share-knowledge-and-find-support-at-intensive-camps.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
         <loc>https://majordigest.com/us/2023/08/29/guatemalas-electoral-registry-has-suspended-the-party-of-the-presidential-election-winner/</loc>
         <news:news>
           <news:publication>
@@ -14,20 +84,6 @@
         </news:news>
         <image:image>
           <image:loc>https://majordigest.com/us/2023/08/29/guatemalas-electoral-registry-has-suspended-the-party-of-the-presidential-election-winner/guatemalas-electoral-registry-has-suspended-the-party-of-the-presidential-election-winner.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/us/2023/08/29/as-idalia-churns-toward-florida-residents-urged-to-wrap-up-storm-preparations/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-29T05:01:24.000Z</news:publication_date>
-          <news:title>Tropical Storm Idalia is nearing Florida. Residents are being urged to wrap up their preparations</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/us/2023/08/29/as-idalia-churns-toward-florida-residents-urged-to-wrap-up-storm-preparations/as-idalia-churns-toward-florida-residents-urged-to-wrap-up-storm-preparations.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -73,31 +129,17 @@
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/us/2023/08/29/president-joe-biden-is-hosting-costa-rican-president-rodrigo-chaves-at-the-white-house/</loc>
+        <loc>https://majordigest.com/us/2023/08/29/josh-lafazan-george-santos-is-lebron-james-of-lying/</loc>
         <news:news>
           <news:publication>
             <news:name>Major Digest</news:name>
             <news:language>en</news:language>
           </news:publication>
-          <news:publication_date>2023-08-29T04:07:18.000Z</news:publication_date>
-          <news:title>President Joe Biden is hosting Costa Rican President Rodrigo Chaves at the White House</news:title>
+          <news:publication_date>2023-08-29T03:57:44.000Z</news:publication_date>
+          <news:title>Josh Lafazan: George Santos is &#8216;LeBron James of lying&#8217;</news:title>
         </news:news>
         <image:image>
-          <image:loc>https://majordigest.com/us/2023/08/29/president-joe-biden-is-hosting-costa-rican-president-rodrigo-chaves-at-the-white-house/president-joe-biden-is-hosting-costa-rican-president-rodrigo-chaves-at-the-white-house.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/us/2023/08/29/recruiting-is-underway-for-trump-like-wrecking-ball-to-shrink-government-and-fire-federal-workers/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-29T04:03:02.000Z</news:publication_date>
-          <news:title>Recruiting is underway for Trump-like 'wrecking ball' to shrink government and fire federal workers</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/us/2023/08/29/recruiting-is-underway-for-trump-like-wrecking-ball-to-shrink-government-and-fire-federal-workers/recruiting-is-underway-for-trump-like-wrecking-ball-to-shrink-government-and-fire-federal-workers.webp</image:loc>
+          <image:loc>https://majordigest.com/us/2023/08/29/josh-lafazan-george-santos-is-lebron-james-of-lying/josh-lafazan-george-santos-is-lebron-james-of-lying.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -115,31 +157,31 @@
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/us/2023/08/29/camp-pendleton-marines-involved-in-australia-aircraft-crash/</loc>
+        <loc>https://majordigest.com/us/2023/08/29/us-supreme-court-justice-barrett-says-she-welcomes-public-scrutiny-of-court/</loc>
         <news:news>
           <news:publication>
             <news:name>Major Digest</news:name>
             <news:language>en</news:language>
           </news:publication>
-          <news:publication_date>2023-08-29T02:44:10.000Z</news:publication_date>
-          <news:title>Camp Pendleton Marines involved in Australia aircraft crash</news:title>
+          <news:publication_date>2023-08-29T02:52:34.000Z</news:publication_date>
+          <news:title>US Supreme Court Justice Barrett says she welcomes public scrutiny of court</news:title>
         </news:news>
         <image:image>
-          <image:loc>https://majordigest.com/us/2023/08/29/camp-pendleton-marines-involved-in-australia-aircraft-crash/camp-pendleton-marines-involved-in-australia-aircraft-crash.webp</image:loc>
+          <image:loc>https://majordigest.com/us/2023/08/29/us-supreme-court-justice-barrett-says-she-welcomes-public-scrutiny-of-court/us-supreme-court-justice-barrett-says-she-welcomes-public-scrutiny-of-court.webp</image:loc>
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/us/2023/08/29/gop-silences-tennessee-three-democrat-on-house-floor-for-day-on-out-of-order-rule-crowd-erupts/</loc>
+        <loc>https://majordigest.com/us/2023/08/29/significance-of-march-on-washington-still-felt-decades-later/</loc>
         <news:news>
           <news:publication>
             <news:name>Major Digest</news:name>
             <news:language>en</news:language>
           </news:publication>
-          <news:publication_date>2023-08-29T01:49:30.000Z</news:publication_date>
-          <news:title>GOP silences 'Tennessee Three' Democrat on House floor for day on 'out of order' rule; crowd erupts</news:title>
+          <news:publication_date>2023-08-29T01:57:19.000Z</news:publication_date>
+          <news:title>Significance of March on Washington still felt decades later</news:title>
         </news:news>
         <image:image>
-          <image:loc>https://majordigest.com/us/2023/08/29/gop-silences-tennessee-three-democrat-on-house-floor-for-day-on-out-of-order-rule-crowd-erupts/gop-silences-tennessee-three-democrat-on-house-floor-for-day-on-out-of-order-rule-crowd-erupts.webp</image:loc>
+          <image:loc>https://majordigest.com/us/2023/08/29/significance-of-march-on-washington-still-felt-decades-later/significance-of-march-on-washington-still-felt-decades-later.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -199,17 +241,17 @@
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/us/2023/08/29/university-of-north-carolina-warns-of-armed-person-on-campus-and-urges-people-to-stay-inside/</loc>
+        <loc>https://majordigest.com/us/2023/08/29/hawaii-power-utility-takes-responsibility-for-first-fire-on-maui-but-faults-county-firefighters/</loc>
         <news:news>
           <news:publication>
             <news:name>Major Digest</news:name>
             <news:language>en</news:language>
           </news:publication>
-          <news:publication_date>2023-08-29T00:15:37.000Z</news:publication_date>
-          <news:title>Faculty member fatally shot in University of North Carolina building</news:title>
+          <news:publication_date>2023-08-29T00:57:12.000Z</news:publication_date>
+          <news:title>Hawaii power utility takes responsibility for first fire on Maui, but faults county firefighters</news:title>
         </news:news>
         <image:image>
-          <image:loc>https://majordigest.com/us/2023/08/29/university-of-north-carolina-warns-of-armed-person-on-campus-and-urges-people-to-stay-inside/university-of-north-carolina-warns-of-armed-person-on-campus-and-urges-people-to-stay-inside.webp</image:loc>
+          <image:loc>https://majordigest.com/us/2023/08/29/hawaii-power-utility-takes-responsibility-for-first-fire-on-maui-but-faults-county-firefighters/hawaii-power-utility-takes-responsibility-for-first-fire-on-maui-but-faults-county-firefighters.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -224,20 +266,6 @@
         </news:news>
         <image:image>
           <image:loc>https://majordigest.com/us/2023/08/29/texas-historical-society-averts-lawsuit-dispute-over-how-state-history-taught-classrooms/texas-historical-society-averts-lawsuit-dispute-over-how-state-history-taught-classrooms.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/us/2023/08/28/michigan-man-far-right-boogaloo-boy-year-prison-gun-crimes/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-28T23:57:51.000Z</news:publication_date>
-          <news:title>Michigan man, far-right 'Boogaloo Boy,' gets year in prison for gun crimes</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/us/2023/08/28/michigan-man-far-right-boogaloo-boy-year-prison-gun-crimes/michigan-man-far-right-boogaloo-boy-year-prison-gun-crimes.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -269,17 +297,31 @@
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/us/2023/08/28/fight-over-mcdonalds-sauce-led-to-death-of-teenager-in-dc-police-say/</loc>
+        <loc>https://majordigest.com/us/2023/08/28/eminem-wants-ramaswamy-to-stop-using-his-music-on-the-campaign-trail/</loc>
         <news:news>
           <news:publication>
             <news:name>Major Digest</news:name>
             <news:language>en</news:language>
           </news:publication>
-          <news:publication_date>2023-08-28T22:58:12.000Z</news:publication_date>
-          <news:title>Fight over McDonald's sauce led to death of teenager in DC, police say</news:title>
+          <news:publication_date>2023-08-28T22:16:57.000Z</news:publication_date>
+          <news:title>Eminem wants Ramaswamy to stop using his music on the campaign trail</news:title>
         </news:news>
         <image:image>
-          <image:loc>https://majordigest.com/us/2023/08/28/fight-over-mcdonalds-sauce-led-to-death-of-teenager-in-dc-police-say/fight-over-mcdonalds-sauce-led-to-death-of-teenager-in-dc-police-say.webp</image:loc>
+          <image:loc>https://majordigest.com/us/2023/08/28/eminem-wants-ramaswamy-to-stop-using-his-music-on-the-campaign-trail/eminem-wants-ramaswamy-to-stop-using-his-music-on-the-campaign-trail.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/us/2023/08/28/biden-and-the-first-lady-head-to-district-of-columbia-public-middle-school-to-welcome-back-students/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-28T21:19:52.000Z</news:publication_date>
+          <news:title>Biden and the first lady drop by a DC middle school math class and lunch to welcome back students</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/us/2023/08/28/biden-and-the-first-lady-head-to-district-of-columbia-public-middle-school-to-welcome-back-students/biden-and-the-first-lady-head-to-district-of-columbia-public-middle-school-to-welcome-back-students.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -311,45 +353,17 @@
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/us/2023/08/28/biden-to-observe-9-11-anniversary-in-alaska-missing-nyc-virginia-and-pennsylvania-observances/</loc>
+        <loc>https://majordigest.com/us/2023/08/28/farmers-insurance-says-it-is-cutting-over-2000-jobs/</loc>
         <news:news>
           <news:publication>
             <news:name>Major Digest</news:name>
             <news:language>en</news:language>
           </news:publication>
-          <news:publication_date>2023-08-28T21:02:27.000Z</news:publication_date>
-          <news:title>Biden will observe 9/11 in Alaska instead of the traditional NYC, Virginia or Pennsylvania events</news:title>
+          <news:publication_date>2023-08-28T21:09:46.000Z</news:publication_date>
+          <news:title>Farmers Insurance says it is cutting over 2,000 jobs</news:title>
         </news:news>
         <image:image>
-          <image:loc>https://majordigest.com/us/2023/08/28/biden-to-observe-9-11-anniversary-in-alaska-missing-nyc-virginia-and-pennsylvania-observances/biden-to-observe-9-11-anniversary-in-alaska-missing-nyc-virginia-and-pennsylvania-observances.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/us/2023/08/28/us-chinese-commerce-leaders-meet-huge-progress/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-28T20:44:31.000Z</news:publication_date>
-          <news:title>US, Chinese commerce leaders meet: 'Huge progress'</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/us/2023/08/28/us-chinese-commerce-leaders-meet-huge-progress/us-chinese-commerce-leaders-meet-huge-progress.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/us/2023/08/28/joe-the-plumber-who-questioned-obamas-tax-policies-during-the-2008-campaign-has-died-at-49/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-28T20:37:19.000Z</news:publication_date>
-          <news:title>Joe the Plumber, who questioned Obama's tax policies during the 2008 campaign, has died at 49</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/us/2023/08/28/joe-the-plumber-who-questioned-obamas-tax-policies-during-the-2008-campaign-has-died-at-49/joe-the-plumber-who-questioned-obamas-tax-policies-during-the-2008-campaign-has-died-at-49.webp</image:loc>
+          <image:loc>https://majordigest.com/us/2023/08/28/farmers-insurance-says-it-is-cutting-over-2000-jobs/farmers-insurance-says-it-is-cutting-over-2000-jobs.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -479,44 +493,30 @@
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/us/2023/08/28/puppy-recovered-from-wreckage-day-after-its-owner-was-killed-in-a-storm/</loc>
+        <loc>https://majordigest.com/us/2023/08/28/pope-says-backward-u-s-conservatives-have-replaced-faith-with-ideology/</loc>
         <news:news>
           <news:publication>
             <news:name>Major Digest</news:name>
             <news:language>en</news:language>
           </news:publication>
-          <news:publication_date>2023-08-28T16:19:25.000Z</news:publication_date>
-          <news:title>Puppy recovered from wreckage day after its owner was killed in a storm</news:title>
+          <news:publication_date>2023-08-28T15:23:16.000Z</news:publication_date>
+          <news:title>Pope says 'backward' U.S. conservatives have replaced faith with ideology</news:title>
         </news:news>
         <image:image>
-          <image:loc>https://majordigest.com/us/2023/08/28/puppy-recovered-from-wreckage-day-after-its-owner-was-killed-in-a-storm/puppy-recovered-from-wreckage-day-after-its-owner-was-killed-in-a-storm.webp</image:loc>
+          <image:loc>https://majordigest.com/us/2023/08/28/pope-says-backward-u-s-conservatives-have-replaced-faith-with-ideology/pope-says-backward-u-s-conservatives-have-replaced-faith-with-ideology.webp</image:loc>
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/us/2023/08/28/college-student-fatally-shot-while-trying-to-enter-wrong-home-in-south-carolina-police/</loc>
+        <loc>https://majordigest.com/us/2023/08/24/woman-in-tiktok-video-of-racist-outburst-at-california-mcdonalds-is-no-longer-employed/</loc>
         <news:news>
           <news:publication>
             <news:name>Major Digest</news:name>
             <news:language>en</news:language>
           </news:publication>
-          <news:publication_date>2023-08-28T15:40:16.000Z</news:publication_date>
-          <news:title>College student fatally shot while trying to enter wrong home in South Carolina: police</news:title>
+          <news:publication_date>2023-08-24T17:41:16.000Z</news:publication_date>
+          <news:title>Woman in TikTok video of racist outburst at California McDonald's is no longer employed</news:title>
         </news:news>
         <image:image>
-          <image:loc>https://majordigest.com/us/2023/08/28/college-student-fatally-shot-while-trying-to-enter-wrong-home-in-south-carolina-police/college-student-fatally-shot-while-trying-to-enter-wrong-home-in-south-carolina-police.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/us/2023/08/28/most-states-in-south-have-banned-gender-affirming-care-for-trans-youth/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-28T12:52:56.000Z</news:publication_date>
-          <news:title>Most states in South have banned gender-affirming care for trans youth</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/us/2023/08/28/most-states-in-south-have-banned-gender-affirming-care-for-trans-youth/most-states-in-south-have-banned-gender-affirming-care-for-trans-youth.webp</image:loc>
+          <image:loc>https://majordigest.com/us/2023/08/24/woman-in-tiktok-video-of-racist-outburst-at-california-mcdonalds-is-no-longer-employed/woman-in-tiktok-video-of-racist-outburst-at-california-mcdonalds-is-no-longer-employed.webp</image:loc>
         </image:image>
       </url></urlset>
