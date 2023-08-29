@@ -3,6 +3,20 @@
               xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
               xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
       <url>
+        <loc>https://majordigest.com/tech/2023/08/29/meta-says-it-disrupted-largest-known-cross-platform-china-linked-disinformation-campaign/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-29T15:31:54.000Z</news:publication_date>
+          <news:title>Meta says it disrupted 'largest known cross-platform' China-linked disinformation campaign</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/tech/2023/08/29/meta-says-it-disrupted-largest-known-cross-platform-china-linked-disinformation-campaign/meta-says-it-disrupted-largest-known-cross-platform-china-linked-disinformation-campaign.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
         <loc>https://majordigest.com/tech/2023/08/29/amazon-ceo-tells-remote-workers-its-not-going-to-work-out/</loc>
         <news:news>
           <news:publication>
@@ -28,6 +42,20 @@
         </news:news>
         <image:image>
           <image:loc>https://majordigest.com/tech/2023/08/29/pentagon-announces-new-autonomous-drones-systems-program/pentagon-announces-new-autonomous-drones-systems-program.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/tech/2023/08/29/tech-expert-existential-fears-ai-are-overblown-sees-very-disturbing-workplace-threats/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-29T14:51:23.000Z</news:publication_date>
+          <news:title>Tech expert says 'existential' fears from AI are overblown, but sees 'very disturbing' workplace threats</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/tech/2023/08/29/tech-expert-existential-fears-ai-are-overblown-sees-very-disturbing-workplace-threats/tech-expert-existential-fears-ai-are-overblown-sees-very-disturbing-workplace-threats.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -255,20 +283,6 @@
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/tech/2023/08/27/at-fukushima-daiichi-decommissioning-the-nuclear-plant-is-far-more-challenging-than-water-release/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-27T02:47:08.000Z</news:publication_date>
-          <news:title>At Fukushima Daiichi, decommissioning the nuclear plant is far more challenging than water release</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/tech/2023/08/27/at-fukushima-daiichi-decommissioning-the-nuclear-plant-is-far-more-challenging-than-water-release/at-fukushima-daiichi-decommissioning-the-nuclear-plant-is-far-more-challenging-than-water-release.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
         <loc>https://majordigest.com/tech/2023/08/26/bay-area-software-ceo-pleads-guilty-to-tax-pandemic-relief-fraud/</loc>
         <news:news>
           <news:publication>
@@ -322,20 +336,6 @@
         </news:news>
         <image:image>
           <image:loc>https://majordigest.com/tech/2023/08/26/a-broad-genetic-test-saved-one-newborns-life-research-suggests-it-could-help-millions-of-others/a-broad-genetic-test-saved-one-newborns-life-research-suggests-it-could-help-millions-of-others.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/tech/2023/08/25/musk-calls-trump-mug-shot-post-next-level-after-former-president-returns-to-x-platform/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-25T20:18:25.000Z</news:publication_date>
-          <news:title>Musk calls Trump mug shot post 'next-level' after former president returns to 'X' platform</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/tech/2023/08/25/musk-calls-trump-mug-shot-post-next-level-after-former-president-returns-to-x-platform/musk-calls-trump-mug-shot-post-next-level-after-former-president-returns-to-x-platform.webp</image:loc>
         </image:image>
       </url>
       <url>

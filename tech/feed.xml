@@ -7,7 +7,7 @@
         <title>Major Digest - Reliable and Comprehensive News Sources: tech</title>
         <description>Get the latest news online at Major Digest, the top online news resource for the most reliable news sources. Stay informed about the world around you!</description>
         <link>https://majordigest.com/?utm_medium=RSS</link>
-        <lastBuildDate>Tue, 29 Aug 2023 15:19:07 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 29 Aug 2023 16:25:16 GMT</lastBuildDate>
         <generator>https://majordigest.com/?v=1.1.4</generator>
         <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/" />
         <atom:link rel="self" href="https://majordigest.com/tech/feed.xml" type="application/rss+xml" />
@@ -18,6 +18,17 @@
           <url>https://majordigest.com/assets/icons/logo-512x512.png</url>
           <link>https://majordigest.com/?utm_medium=RSS</link>
         </image>
+      <item>
+        <title>Meta says it disrupted 'largest known cross-platform' China-linked disinformation campaign</title>
+        <description><![CDATA[Meta, the parent company of Facebook and Instagram, said Tuesday it disrupted the “largest known cross-platform covert influence operation in the world” and found links to Chinese law enforcement.]]></description>
+        <guid>https://majordigest.com/tech/2023/08/29/meta-says-it-disrupted-largest-known-cross-platform-china-linked-disinformation-campaign/</guid>
+        <link>https://majordigest.com/tech/2023/08/29/meta-says-it-disrupted-largest-known-cross-platform-china-linked-disinformation-campaign/</link>
+        <pubDate>Tue, 29 Aug 2023 15:31:54 +0000</pubDate>
+        <category>tech</category>
+        <media:content medium="image" url="https://majordigest.com/tech/2023/08/29/meta-says-it-disrupted-largest-known-cross-platform-china-linked-disinformation-campaign/meta-says-it-disrupted-largest-known-cross-platform-china-linked-disinformation-campaign.webp"/>
+        <media:thumbnail url="https://majordigest.com/tech/2023/08/29/meta-says-it-disrupted-largest-known-cross-platform-china-linked-disinformation-campaign/meta-says-it-disrupted-largest-known-cross-platform-china-linked-disinformation-campaign.webp"/>
+        <dc:creator>Julia Shapero, The Hill</dc:creator>
+      </item>
       <item>
         <title>Amazon CEO tells remote workers: 'It's not going to work out'</title>
         <description><![CDATA["If you can't disagree and commit, I also understand that, but it's probably not going to work out for you at Amazon," 
@@ -32,7 +43,7 @@ Andy Jassy reportedely told employees.]]></description>
       </item>
       <item>
         <title>Pentagon announces new autonomous drones, systems program</title>
-        <description><![CDATA[The Pentagon on Monday announced a new program focused on building out thousands of autonomous systems, including drones, as the U.S. seeks to better counter China's vast military buildup. The U.S.]]></description>
+        <description><![CDATA[The Pentagon announced Monday a new program focused on building out thousands of autonomous systems, including drones, as the U.S. seeks to better counter China's vast military buildup. The U.S.]]></description>
         <guid>https://majordigest.com/tech/2023/08/29/pentagon-announces-new-autonomous-drones-systems-program/</guid>
         <link>https://majordigest.com/tech/2023/08/29/pentagon-announces-new-autonomous-drones-systems-program/</link>
         <pubDate>Tue, 29 Aug 2023 14:53:13 +0000</pubDate>
@@ -40,6 +51,17 @@ Andy Jassy reportedely told employees.]]></description>
         <media:content medium="image" url="https://majordigest.com/tech/2023/08/29/pentagon-announces-new-autonomous-drones-systems-program/pentagon-announces-new-autonomous-drones-systems-program.webp"/>
         <media:thumbnail url="https://majordigest.com/tech/2023/08/29/pentagon-announces-new-autonomous-drones-systems-program/pentagon-announces-new-autonomous-drones-systems-program.webp"/>
         <dc:creator>Brad Dress, The Hill</dc:creator>
+      </item>
+      <item>
+        <title>Tech expert says 'existential' fears from AI are overblown, but sees 'very disturbing' workplace threats</title>
+        <description><![CDATA[University of Oxford professor of computer science Michael Wooldridge speculates artificial intelligence could one day be a hellish boss that monitors employees&apos; emails.]]></description>
+        <guid>https://majordigest.com/tech/2023/08/29/tech-expert-existential-fears-ai-are-overblown-sees-very-disturbing-workplace-threats/</guid>
+        <link>https://majordigest.com/tech/2023/08/29/tech-expert-existential-fears-ai-are-overblown-sees-very-disturbing-workplace-threats/</link>
+        <pubDate>Tue, 29 Aug 2023 10:51:23 EDT</pubDate>
+        <category>tech</category>
+        <media:content medium="image" url="https://majordigest.com/tech/2023/08/29/tech-expert-existential-fears-ai-are-overblown-sees-very-disturbing-workplace-threats/tech-expert-existential-fears-ai-are-overblown-sees-very-disturbing-workplace-threats.webp"/>
+        <media:thumbnail url="https://majordigest.com/tech/2023/08/29/tech-expert-existential-fears-ai-are-overblown-sees-very-disturbing-workplace-threats/tech-expert-existential-fears-ai-are-overblown-sees-very-disturbing-workplace-threats.webp"/>
+        <dc:creator>Fox News</dc:creator>
       </item>
       <item>
         <title>Tech expert says 'existential' fears from AI are overblown, but sees 'very disturbing' workplace threats</title>
@@ -218,17 +240,6 @@ Andy Jassy reportedely told employees.]]></description>
         <dc:creator>Nick Perry, Associated Press, KPRC 2</dc:creator>
       </item>
       <item>
-        <title>At Fukushima Daiichi, decommissioning the nuclear plant is far more challenging than water release</title>
-        <description><![CDATA[For the wrecked Fukushima Daiichi nuclear plant, managing the ever-growing volume of radioactive wastewater held in more than 1,000 tanks has been a safety risk and a burden since the meltdown in March 2011.]]></description>
-        <guid>https://majordigest.com/tech/2023/08/27/at-fukushima-daiichi-decommissioning-the-nuclear-plant-is-far-more-challenging-than-water-release/</guid>
-        <link>https://majordigest.com/tech/2023/08/27/at-fukushima-daiichi-decommissioning-the-nuclear-plant-is-far-more-challenging-than-water-release/</link>
-        <pubDate>Sun, 27 Aug 2023 02:47:08 +0000</pubDate>
-        <category>tech</category>
-        <media:content medium="image" url="https://majordigest.com/tech/2023/08/27/at-fukushima-daiichi-decommissioning-the-nuclear-plant-is-far-more-challenging-than-water-release/at-fukushima-daiichi-decommissioning-the-nuclear-plant-is-far-more-challenging-than-water-release.webp"/>
-        <media:thumbnail url="https://majordigest.com/tech/2023/08/27/at-fukushima-daiichi-decommissioning-the-nuclear-plant-is-far-more-challenging-than-water-release/at-fukushima-daiichi-decommissioning-the-nuclear-plant-is-far-more-challenging-than-water-release.webp"/>
-        <dc:creator>Mari Yamaguchi, Associated Press, Local 4</dc:creator>
-      </item>
-      <item>
         <title>Bay Area software CEO pleads guilty to tax, pandemic relief fraud</title>
         <description><![CDATA[Some of the CEO's employees were subjected to IRS audits, authorities said, because the income they reported did not line up with the pay information the company gave to the government.]]></description>
         <guid>https://majordigest.com/tech/2023/08/26/bay-area-software-ceo-pleads-guilty-to-tax-pandemic-relief-fraud/</guid>
@@ -271,17 +282,6 @@ Andy Jassy reportedely told employees.]]></description>
         <media:content medium="image" url="https://majordigest.com/tech/2023/08/26/a-broad-genetic-test-saved-one-newborns-life-research-suggests-it-could-help-millions-of-others/a-broad-genetic-test-saved-one-newborns-life-research-suggests-it-could-help-millions-of-others.webp"/>
         <media:thumbnail url="https://majordigest.com/tech/2023/08/26/a-broad-genetic-test-saved-one-newborns-life-research-suggests-it-could-help-millions-of-others/a-broad-genetic-test-saved-one-newborns-life-research-suggests-it-could-help-millions-of-others.webp"/>
         <dc:creator>Laura Ungar, Associated Press, Local 4</dc:creator>
-      </item>
-      <item>
-        <title>Musk calls Trump mug shot post 'next-level' after former president returns to 'X' platform</title>
-        <description><![CDATA[Shortly after former President Trump returned to X, the platform formerly known as Twitter, with a tweet featuring his mug shot Thursday, Elon Musk responded in a quote tweet. “Next-level,” Musk’s Thursday night post read.]]></description>
-        <guid>https://majordigest.com/tech/2023/08/25/musk-calls-trump-mug-shot-post-next-level-after-former-president-returns-to-x-platform/</guid>
-        <link>https://majordigest.com/tech/2023/08/25/musk-calls-trump-mug-shot-post-next-level-after-former-president-returns-to-x-platform/</link>
-        <pubDate>Fri, 25 Aug 2023 20:18:25 +0000</pubDate>
-        <category>tech</category>
-        <media:content medium="image" url="https://majordigest.com/tech/2023/08/25/musk-calls-trump-mug-shot-post-next-level-after-former-president-returns-to-x-platform/musk-calls-trump-mug-shot-post-next-level-after-former-president-returns-to-x-platform.webp"/>
-        <media:thumbnail url="https://majordigest.com/tech/2023/08/25/musk-calls-trump-mug-shot-post-next-level-after-former-president-returns-to-x-platform/musk-calls-trump-mug-shot-post-next-level-after-former-president-returns-to-x-platform.webp"/>
-        <dc:creator>Tara Suter, The Hill</dc:creator>
       </item>
       <item>
         <title>Early Apple computer that helped launch $3T company sells at auction for $223,000</title>
