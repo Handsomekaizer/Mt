@@ -3,17 +3,17 @@
               xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
               xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
       <url>
-        <loc>https://majordigest.com/world/2023/08/29/2-years-us-withdrawal-afghanistan-resistance-group-yearns-western-help-take-on-taliban/</loc>
+        <loc>https://majordigest.com/world/2023/08/29/pakistani-court-suspends-the-corruption-conviction-and-sentence-of-former-prime-minister-imran-khan/</loc>
         <news:news>
           <news:publication>
             <news:name>Major Digest</news:name>
             <news:language>en</news:language>
           </news:publication>
-          <news:publication_date>2023-08-29T08:00:27.000Z</news:publication_date>
-          <news:title>2 years after US withdrawal Afghanistan resistance group yearns for Western help as they take on Taliban</news:title>
+          <news:publication_date>2023-08-29T08:29:11.000Z</news:publication_date>
+          <news:title>Pakistani court suspends the corruption conviction and sentence of former Prime Minister Imran Khan</news:title>
         </news:news>
         <image:image>
-          <image:loc>https://majordigest.com/world/2023/08/29/2-years-us-withdrawal-afghanistan-resistance-group-yearns-western-help-take-on-taliban/2-years-us-withdrawal-afghanistan-resistance-group-yearns-western-help-take-on-taliban.webp</image:loc>
+          <image:loc>https://majordigest.com/world/2023/08/29/pakistani-court-suspends-the-corruption-conviction-and-sentence-of-former-prime-minister-imran-khan/pakistani-court-suspends-the-corruption-conviction-and-sentence-of-former-prime-minister-imran-khan.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -28,6 +28,20 @@
         </news:news>
         <image:image>
           <image:loc>https://majordigest.com/world/2023/08/29/2-years-us-withdrawal-afghanistan-resistance-group-yearns-western-help-take-on-taliban/2-years-us-withdrawal-afghanistan-resistance-group-yearns-western-help-take-on-taliban.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/world/2023/08/29/londons-plan-to-charge-drivers-of-polluting-cars-sparks-protests-and-stirs-political-passions/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-29T07:00:57.000Z</news:publication_date>
+          <news:title>London&#8217;s plan to charge drivers of polluting cars sparks protests and stirs political passions</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/world/2023/08/29/londons-plan-to-charge-drivers-of-polluting-cars-sparks-protests-and-stirs-political-passions/londons-plan-to-charge-drivers-of-polluting-cars-sparks-protests-and-stirs-political-passions.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -101,20 +115,6 @@
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/world/2023/08/29/french-education-minister-bans-long-robes-in-classrooms-in-effort-to-defend-nations-secular-values/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-29T00:37:19.000Z</news:publication_date>
-          <news:title>France's education minister bans long robes in classrooms. They're worn mainly by Muslims</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/world/2023/08/29/french-education-minister-bans-long-robes-in-classrooms-in-effort-to-defend-nations-secular-values/french-education-minister-bans-long-robes-in-classrooms-in-effort-to-defend-nations-secular-values.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
         <loc>https://majordigest.com/world/2023/08/29/the-un-is-undertaking-an-unprecedented-6-month-withdrawal-of-nearly-13000-peacekeepers-from-mali/</loc>
         <news:news>
           <news:publication>
@@ -140,6 +140,20 @@
         </news:news>
         <image:image>
           <image:loc>https://majordigest.com/world/2023/08/28/colombians-turn-out-droves-protest-50-gasoline-price-hike/colombians-turn-out-droves-protest-50-gasoline-price-hike.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/world/2023/08/28/multi-party-coalition-criticizes-egyptian-government-rare-show-dissent/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-28T23:52:44.000Z</news:publication_date>
+          <news:title>Multi-party coalition criticizes Egyptian government in rare show of dissent</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/world/2023/08/28/multi-party-coalition-criticizes-egyptian-government-rare-show-dissent/multi-party-coalition-criticizes-egyptian-government-rare-show-dissent.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -213,20 +227,6 @@
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/world/2023/08/28/florida-prays-idalia-wont-join-long-list-of-destructive-storms-with-names-starting-with-i/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-28T19:57:18.000Z</news:publication_date>
-          <news:title>Florida prays Idalia won't join long list of destructive storms with names starting with 'I'</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/world/2023/08/28/florida-prays-idalia-wont-join-long-list-of-destructive-storms-with-names-starting-with-i/florida-prays-idalia-wont-join-long-list-of-destructive-storms-with-names-starting-with-i.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
         <loc>https://majordigest.com/world/2023/08/28/virginia-man-stolen-at-birth-meets-chilean-family-for-first-time/</loc>
         <news:news>
           <news:publication>
@@ -238,34 +238,6 @@
         </news:news>
         <image:image>
           <image:loc>https://majordigest.com/world/2023/08/28/virginia-man-stolen-at-birth-meets-chilean-family-for-first-time/virginia-man-stolen-at-birth-meets-chilean-family-for-first-time.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/world/2023/08/28/virginia-man-stolen-at-birth-meets-chilean-family-for-first-time/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-28T19:50:29.000Z</news:publication_date>
-          <news:title>Virginia man stolen at birth meets Chilean family for first time</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/world/2023/08/28/virginia-man-stolen-at-birth-meets-chilean-family-for-first-time/virginia-man-stolen-at-birth-meets-chilean-family-for-first-time.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/world/2023/08/28/un-investigators-traveling-to-ukraine-to-probe-allegations-of-russian-abuse/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-28T17:18:55.000Z</news:publication_date>
-          <news:title>UN investigators traveling to Ukraine to probe allegations of Russian abuse&#160;</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/world/2023/08/28/un-investigators-traveling-to-ukraine-to-probe-allegations-of-russian-abuse/un-investigators-traveling-to-ukraine-to-probe-allegations-of-russian-abuse.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -294,6 +266,34 @@
         </news:news>
         <image:image>
           <image:loc>https://majordigest.com/world/2023/08/28/us-china-to-discuss-export-controls-officials-say/us-china-to-discuss-export-controls-officials-say.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/world/2023/08/28/french-education-minister-bans-long-robes-in-classrooms-in-effort-to-defend-nations-secular-values/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-28T15:57:07.000Z</news:publication_date>
+          <news:title>France's education minister bans long robes in classrooms. They're worn mainly by Muslims</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/world/2023/08/28/french-education-minister-bans-long-robes-in-classrooms-in-effort-to-defend-nations-secular-values/french-education-minister-bans-long-robes-in-classrooms-in-effort-to-defend-nations-secular-values.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/world/2023/08/28/french-education-minister-bans-long-robes-in-classrooms-in-effort-to-defend-nations-secular-values/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-28T15:57:07.000Z</news:publication_date>
+          <news:title>France's education minister bans long robes in classrooms. They're worn mainly by Muslims</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/world/2023/08/28/french-education-minister-bans-long-robes-in-classrooms-in-effort-to-defend-nations-secular-values/french-education-minister-bans-long-robes-in-classrooms-in-effort-to-defend-nations-secular-values.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -378,20 +378,6 @@
         </news:news>
         <image:image>
           <image:loc>https://majordigest.com/world/2023/08/27/with-drones-and-webcams-volunteer-hunters-join-new-search-for-mythical-loch-ness-monster/with-drones-and-webcams-volunteer-hunters-join-new-search-for-mythical-loch-ness-monster.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/world/2023/08/27/elite-unit-of-mexican-cartel-using-drones-to-drop-bombs-report/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-27T01:26:02.000Z</news:publication_date>
-          <news:title>Elite unit of Mexican cartel using drones to drop bombs: Report</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/world/2023/08/27/elite-unit-of-mexican-cartel-using-drones-to-drop-bombs-report/elite-unit-of-mexican-cartel-using-drones-to-drop-bombs-report.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -504,6 +490,20 @@
         </news:news>
         <image:image>
           <image:loc>https://majordigest.com/world/2023/08/23/india-lands-a-spacecraft-near-the-moons-south-pole-a-first-for-the-world-as-it-joins-elite-club/india-lands-a-spacecraft-near-the-moons-south-pole-a-first-for-the-world-as-it-joins-elite-club.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/world/2023/08/23/indias-spacecraft-is-preparing-to-land-on-the-moon-in-the-countrys-second-attempt-in-4-years/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-23T09:51:36.000Z</news:publication_date>
+          <news:title>India successfully lands its Chandrayaan-3 rover on the moon, near the south pole</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/world/2023/08/23/indias-spacecraft-is-preparing-to-land-on-the-moon-in-the-countrys-second-attempt-in-4-years/indias-spacecraft-is-preparing-to-land-on-the-moon-in-the-countrys-second-attempt-in-4-years.webp</image:loc>
         </image:image>
       </url>
       <url>

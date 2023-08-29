@@ -3,6 +3,34 @@
               xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
               xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
       <url>
+        <loc>https://majordigest.com/politics/2023/08/29/small-minnesota-town-has-big-climate-goals/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-29T09:00:00.000Z</news:publication_date>
+          <news:title>Small Minnesota town has big climate goals</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/politics/2023/08/29/small-minnesota-town-has-big-climate-goals/small-minnesota-town-has-big-climate-goals.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/politics/2023/08/29/top-chinese-official-tells-the-us-commerce-secretary-hes-ready-to-improve-cooperation/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-29T08:58:58.000Z</news:publication_date>
+          <news:title>Top Chinese official tells the US commerce secretary he's ready to improve cooperation</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/politics/2023/08/29/top-chinese-official-tells-the-us-commerce-secretary-hes-ready-to-improve-cooperation/top-chinese-official-tells-the-us-commerce-secretary-hes-ready-to-improve-cooperation.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
         <loc>https://majordigest.com/politics/2023/08/29/president-joe-biden-is-hosting-costa-rican-president-rodrigo-chaves-at-the-white-house/</loc>
         <news:news>
           <news:publication>
@@ -45,20 +73,6 @@
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/politics/2023/08/29/florida-gov-ron-desantis-faces-black-leaders-anger-after-racist-killings-in-jacksonville/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-29T04:01:29.000Z</news:publication_date>
-          <news:title>Florida Gov. Ron DeSantis faces Black leaders' anger after racist killings in Jacksonville</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/politics/2023/08/29/florida-gov-ron-desantis-faces-black-leaders-anger-after-racist-killings-in-jacksonville/florida-gov-ron-desantis-faces-black-leaders-anger-after-racist-killings-in-jacksonville.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
         <loc>https://majordigest.com/politics/2023/08/29/judge-to-hear-arguments-on-mark-meadows-request-to-move-georgia-election-case-to-federal-court/</loc>
         <news:news>
           <news:publication>
@@ -70,20 +84,6 @@
         </news:news>
         <image:image>
           <image:loc>https://majordigest.com/politics/2023/08/29/judge-to-hear-arguments-on-mark-meadows-request-to-move-georgia-election-case-to-federal-court/judge-to-hear-arguments-on-mark-meadows-request-to-move-georgia-election-case-to-federal-court.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/politics/2023/08/29/ap-election-brief-what-to-expect-in-mississippis-runoff-primaries/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-29T03:07:50.000Z</news:publication_date>
-          <news:title>AP Election Brief | What to expect in Mississippi's runoff primaries</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/politics/2023/08/29/ap-election-brief-what-to-expect-in-mississippis-runoff-primaries/ap-election-brief-what-to-expect-in-mississippis-runoff-primaries.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -101,20 +101,6 @@
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/politics/2023/08/29/twerking-and-breastplates-drag-is-a-performance-art-lgbtq-groups-and-performers-assert-in-federal-hearing/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-29T02:20:27.000Z</news:publication_date>
-          <news:title>Drag shows are protected by 1st Amendment, performers tell federal judge</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/politics/2023/08/29/twerking-and-breastplates-drag-is-a-performance-art-lgbtq-groups-and-performers-assert-in-federal-hearing/twerking-and-breastplates-drag-is-a-performance-art-lgbtq-groups-and-performers-assert-in-federal-hearing.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
         <loc>https://majordigest.com/politics/2023/08/29/wisconsin-supreme-court-chief-justice-accuses-liberal-majority-of-staging-a-coup/</loc>
         <news:news>
           <news:publication>
@@ -129,17 +115,17 @@
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/politics/2023/08/29/justin-jones-silenced-tennessee/</loc>
+        <loc>https://majordigest.com/politics/2023/08/29/tehran-times-iran-rob-malley/</loc>
         <news:news>
           <news:publication>
             <news:name>Major Digest</news:name>
             <news:language>en</news:language>
           </news:publication>
-          <news:publication_date>2023-08-29T00:44:20.000Z</news:publication_date>
-          <news:title>GOP silences &#8216;Tennessee 3&#8217; Democrat on House floor</news:title>
+          <news:publication_date>2023-08-29T00:35:48.000Z</news:publication_date>
+          <news:title>An Iran mouthpiece&#8217;s &#8216;scoop&#8217; draws Republican ire</news:title>
         </news:news>
         <image:image>
-          <image:loc>https://majordigest.com/politics/2023/08/29/justin-jones-silenced-tennessee/justin-jones-silenced-tennessee.webp</image:loc>
+          <image:loc>https://majordigest.com/politics/2023/08/29/tehran-times-iran-rob-malley/tehran-times-iran-rob-malley.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -168,6 +154,20 @@
         </news:news>
         <image:image>
           <image:loc>https://majordigest.com/politics/2023/08/29/missouri-law-banning-gender-changing-treatments-minors-effect/missouri-law-banning-gender-changing-treatments-minors-effect.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/politics/2023/08/29/west-texas-am-will-no-longer-require-students-to-pay-for-textbooks-starting-next-fall/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-29T00:07:43.000Z</news:publication_date>
+          <news:title>West Texas A&#38;M will no longer require students to pay for textbooks starting next fall</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/politics/2023/08/29/west-texas-am-will-no-longer-require-students-to-pay-for-textbooks-starting-next-fall/west-texas-am-will-no-longer-require-students-to-pay-for-textbooks-starting-next-fall.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -241,17 +241,31 @@
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/politics/2023/08/28/pentagon-docs-questions-kabul-airport-bombing/</loc>
+        <loc>https://majordigest.com/politics/2023/08/28/haley-ramaswamy-attacks-south-carolina/</loc>
         <news:news>
           <news:publication>
             <news:name>Major Digest</news:name>
             <news:language>en</news:language>
           </news:publication>
-          <news:publication_date>2023-08-28T21:18:10.000Z</news:publication_date>
-          <news:title>Pentagon docs raise questions about Kabul airport bombing</news:title>
+          <news:publication_date>2023-08-28T21:12:09.000Z</news:publication_date>
+          <news:title>Haley continues attacks on Ramaswamy in South Carolina</news:title>
         </news:news>
         <image:image>
-          <image:loc>https://majordigest.com/politics/2023/08/28/pentagon-docs-questions-kabul-airport-bombing/pentagon-docs-questions-kabul-airport-bombing.webp</image:loc>
+          <image:loc>https://majordigest.com/politics/2023/08/28/haley-ramaswamy-attacks-south-carolina/haley-ramaswamy-attacks-south-carolina.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/politics/2023/08/28/senate-candidates-visit-stockton-to-support-rep-josh-harder-reelection-campaign/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-28T20:42:58.000Z</news:publication_date>
+          <news:title>Senate candidates visit Stockton to support Rep. Josh Harder reelection campaign</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/politics/2023/08/28/senate-candidates-visit-stockton-to-support-rep-josh-harder-reelection-campaign/senate-candidates-visit-stockton-to-support-rep-josh-harder-reelection-campaign.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -339,20 +353,6 @@
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/politics/2023/08/28/trump-lawyers-back-in-dc-court-as-two-sides-differ-over-trial-date-in-election-subversion-case/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-28T04:05:20.000Z</news:publication_date>
-          <news:title>Trump trial set for March 4, 2024, in federal case charging him with plotting to overturn election</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/politics/2023/08/28/trump-lawyers-back-in-dc-court-as-two-sides-differ-over-trial-date-in-election-subversion-case/trump-lawyers-back-in-dc-court-as-two-sides-differ-over-trial-date-in-election-subversion-case.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
         <loc>https://majordigest.com/politics/2023/08/27/npr-minnesota-felon-voting-rights-restoration/</loc>
         <news:news>
           <news:publication>
@@ -364,20 +364,6 @@
         </news:news>
         <image:image>
           <image:loc>https://majordigest.com/politics/2023/08/27/npr-minnesota-felon-voting-rights-restoration/npr-minnesota-felon-voting-rights-restoration.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/politics/2023/08/26/gop-presidential-candidate-vivek-ramaswamy-is-an-unaffiliated-voter-nbc-reports/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-26T20:33:41.000Z</news:publication_date>
-          <news:title>GOP presidential candidate Vivek Ramaswamy is an 'unaffiliated' voter, NBC reports</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/politics/2023/08/26/gop-presidential-candidate-vivek-ramaswamy-is-an-unaffiliated-voter-nbc-reports/gop-presidential-candidate-vivek-ramaswamy-is-an-unaffiliated-voter-nbc-reports.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -409,20 +395,6 @@
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/politics/2023/08/25/st-paul-conservative-legal-scholar-says-constitution-bars-trump-from-being-president/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-25T20:30:00.000Z</news:publication_date>
-          <news:title>MN legal scholar: Constitution bars Trump presidency</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/politics/2023/08/25/st-paul-conservative-legal-scholar-says-constitution-bars-trump-from-being-president/st-paul-conservative-legal-scholar-says-constitution-bars-trump-from-being-president.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
         <loc>https://majordigest.com/politics/2023/08/25/new-york-man-sentenced-to-3-months-in-prison-for-making-threatening-phone-calls-to-rep-marjorie-taylor-greene/</loc>
         <news:news>
           <news:publication>
@@ -434,6 +406,20 @@
         </news:news>
         <image:image>
           <image:loc>https://majordigest.com/politics/2023/08/25/new-york-man-sentenced-to-3-months-in-prison-for-making-threatening-phone-calls-to-rep-marjorie-taylor-greene/new-york-man-sentenced-to-3-months-in-prison-for-making-threatening-phone-calls-to-rep-marjorie-taylor-greene.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/politics/2023/08/25/carlos-santana-issues-apology-for-anti-trans-remarks-on-stage/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-25T15:43:31.000Z</news:publication_date>
+          <news:title>Carlos Santana issues apology for anti-trans remarks on stage</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/politics/2023/08/25/carlos-santana-issues-apology-for-anti-trans-remarks-on-stage/carlos-santana-issues-apology-for-anti-trans-remarks-on-stage.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -451,17 +437,31 @@
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/politics/2023/08/25/encinitas-tackles-homelessness-issues-looks-at-possible-camping-ban/</loc>
+        <loc>https://majordigest.com/politics/2023/08/24/does-the-georgia-case-pose-greatest-threat-to-former-president-trump/</loc>
         <news:news>
           <news:publication>
             <news:name>Major Digest</news:name>
             <news:language>en</news:language>
           </news:publication>
-          <news:publication_date>2023-08-25T02:12:23.000Z</news:publication_date>
-          <news:title>Encinitas tackles homelessness issues, looks at possible camping ban</news:title>
+          <news:publication_date>2023-08-24T23:38:30.000Z</news:publication_date>
+          <news:title>Does the Georgia case pose greatest threat to former President Trump?</news:title>
         </news:news>
         <image:image>
-          <image:loc>https://majordigest.com/politics/2023/08/25/encinitas-tackles-homelessness-issues-looks-at-possible-camping-ban/encinitas-tackles-homelessness-issues-looks-at-possible-camping-ban.webp</image:loc>
+          <image:loc>https://majordigest.com/politics/2023/08/24/does-the-georgia-case-pose-greatest-threat-to-former-president-trump/does-the-georgia-case-pose-greatest-threat-to-former-president-trump.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/politics/2023/08/24/apple-backs-californias-right-to-repair-bill-in-major-policy-shift/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-24T21:36:45.000Z</news:publication_date>
+          <news:title>Apple backs California's 'Right to Repair' bill in major policy shift</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/politics/2023/08/24/apple-backs-californias-right-to-repair-bill-in-major-policy-shift/apple-backs-californias-right-to-repair-bill-in-major-policy-shift.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -493,17 +493,17 @@
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/politics/2023/08/23/kelly-blue-book-survey-shows-consumer-hesitation-towards-electric-vehicles/</loc>
+        <loc>https://majordigest.com/politics/2023/08/23/who-takes-advantage-of-donald-trumps-absence-and-other-things-to-watch-in-the-republican-debate/</loc>
         <news:news>
           <news:publication>
             <news:name>Major Digest</news:name>
             <news:language>en</news:language>
           </news:publication>
-          <news:publication_date>2023-08-23T23:01:08.000Z</news:publication_date>
-          <news:title>Kelly Blue Book survey shows consumer hesitation towards electric vehicles</news:title>
+          <news:publication_date>2023-08-23T21:48:37.000Z</news:publication_date>
+          <news:title>Who takes advantage of Donald Trump's absence and other things to watch in the Republican debate</news:title>
         </news:news>
         <image:image>
-          <image:loc>https://majordigest.com/politics/2023/08/23/kelly-blue-book-survey-shows-consumer-hesitation-towards-electric-vehicles/kelly-blue-book-survey-shows-consumer-hesitation-towards-electric-vehicles.webp</image:loc>
+          <image:loc>https://majordigest.com/politics/2023/08/23/who-takes-advantage-of-donald-trumps-absence-and-other-things-to-watch-in-the-republican-debate/who-takes-advantage-of-donald-trumps-absence-and-other-things-to-watch-in-the-republican-debate.webp</image:loc>
         </image:image>
       </url>
       <url>
