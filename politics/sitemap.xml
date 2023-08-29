@@ -3,6 +3,76 @@
               xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
               xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
       <url>
+        <loc>https://majordigest.com/politics/2023/08/29/democrat-resigning-assembly-post-to-work-for-las-vegas/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-29T17:58:23.000Z</news:publication_date>
+          <news:title>Democrat resigning Assembly post to work for Las Vegas</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/politics/2023/08/29/democrat-resigning-assembly-post-to-work-for-las-vegas/democrat-resigning-assembly-post-to-work-for-las-vegas.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/politics/2023/08/29/biden-administration-to-target-drugs-for-price-negotiations-to-lower-medicare-costs/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-29T17:26:51.000Z</news:publication_date>
+          <news:title>See which drugs President Biden is targeting first for Medicare price-lowering talks</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/politics/2023/08/29/biden-administration-to-target-drugs-for-price-negotiations-to-lower-medicare-costs/biden-administration-to-target-drugs-for-price-negotiations-to-lower-medicare-costs.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/politics/2023/08/29/miami-mayor-francis-suarez-suspends-his-2024-presidential-bid-after-failing-to-qualify-for-debate/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-29T17:26:30.000Z</news:publication_date>
+          <news:title>Miami Mayor Francis Suarez suspends 2024 GOP presidential bid after failing to qualify for debate</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/politics/2023/08/29/miami-mayor-francis-suarez-suspends-his-2024-presidential-bid-after-failing-to-qualify-for-debate/miami-mayor-francis-suarez-suspends-his-2024-presidential-bid-after-failing-to-qualify-for-debate.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/politics/2023/08/29/fox-news-politics-trump-mug/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-29T17:25:33.000Z</news:publication_date>
+          <news:title>Fox News Politics: Trump's 'handsome' mug</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/politics/2023/08/29/fox-news-politics-trump-mug/fox-news-politics-trump-mug.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/politics/2023/08/29/gop-states-fire-warning-shot-dozens-law-firms-diversity-equity-initiatives/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-29T17:16:43.000Z</news:publication_date>
+          <news:title>GOP states fire warning shot to dozens of law firms with diversity, equity initiatives</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/politics/2023/08/29/gop-states-fire-warning-shot-dozens-law-firms-diversity-equity-initiatives/gop-states-fire-warning-shot-dozens-law-firms-diversity-equity-initiatives.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
         <loc>https://majordigest.com/politics/2023/08/29/georgia-indictment-first-trump-co-defendant-pleads-not-guilty/</loc>
         <news:news>
           <news:publication>
@@ -14,34 +84,6 @@
         </news:news>
         <image:image>
           <image:loc>https://majordigest.com/politics/2023/08/29/georgia-indictment-first-trump-co-defendant-pleads-not-guilty/georgia-indictment-first-trump-co-defendant-pleads-not-guilty.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/politics/2023/08/29/over-100-former-clerks-justice-thomas-sign-open-letter-defending-his-integrity-independence/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-29T16:43:18.000Z</news:publication_date>
-          <news:title>Over 100 former clerks of Justice Thomas sign open letter defending his integrity, independence</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/politics/2023/08/29/over-100-former-clerks-justice-thomas-sign-open-letter-defending-his-integrity-independence/over-100-former-clerks-justice-thomas-sign-open-letter-defending-his-integrity-independence.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/politics/2023/08/29/wisconsin-assembly-republicans-propose-3-billion-tax-cut-targeting-middle-class/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-29T16:39:48.000Z</news:publication_date>
-          <news:title>Wisconsin Assembly Republicans propose $3 billion tax cut targeting middle class</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/politics/2023/08/29/wisconsin-assembly-republicans-propose-3-billion-tax-cut-targeting-middle-class/wisconsin-assembly-republicans-propose-3-billion-tax-cut-targeting-middle-class.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -59,31 +101,17 @@
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/politics/2023/08/29/here-are-the-first-10-drugs-that-medicare-will-target-for-price-cuts/</loc>
+        <loc>https://majordigest.com/politics/2023/08/29/steve-scalise-diagnosed-with-very-treatable-blood-cancer/</loc>
         <news:news>
           <news:publication>
             <news:name>Major Digest</news:name>
             <news:language>en</news:language>
           </news:publication>
-          <news:publication_date>2023-08-29T16:16:00.000Z</news:publication_date>
-          <news:title>Here are the first 10 drugs that Medicare will target for price cuts</news:title>
+          <news:publication_date>2023-08-29T15:38:58.000Z</news:publication_date>
+          <news:title>Steve Scalise diagnosed with &#8216;very treatable&#8217; blood cancer</news:title>
         </news:news>
         <image:image>
-          <image:loc>https://majordigest.com/politics/2023/08/29/here-are-the-first-10-drugs-that-medicare-will-target-for-price-cuts/here-are-the-first-10-drugs-that-medicare-will-target-for-price-cuts.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/politics/2023/08/29/toni-atkins-california-senates-1st-female-openly-gay-leader-step-down/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-29T15:51:03.000Z</news:publication_date>
-          <news:title>Toni Atkins, California Senate&#8217;s 1st female and openly gay leader, to step down</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/politics/2023/08/29/toni-atkins-california-senates-1st-female-openly-gay-leader-step-down/toni-atkins-california-senates-1st-female-openly-gay-leader-step-down.webp</image:loc>
+          <image:loc>https://majordigest.com/politics/2023/08/29/steve-scalise-diagnosed-with-very-treatable-blood-cancer/steve-scalise-diagnosed-with-very-treatable-blood-cancer.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -101,20 +129,6 @@
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/politics/2023/08/29/steve-scalise-blood-cancer-treatment/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-29T15:05:09.000Z</news:publication_date>
-          <news:title>Scalise diagnosed with &#8216;very treatable&#8217; cancer</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/politics/2023/08/29/steve-scalise-blood-cancer-treatment/steve-scalise-blood-cancer-treatment.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
         <loc>https://majordigest.com/politics/2023/08/29/biden-elizabeth-warren-concession-nih-director/</loc>
         <news:news>
           <news:publication>
@@ -126,20 +140,6 @@
         </news:news>
         <image:image>
           <image:loc>https://majordigest.com/politics/2023/08/29/biden-elizabeth-warren-concession-nih-director/biden-elizabeth-warren-concession-nih-director.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/politics/2023/08/29/recruiting-is-underway-for-trump-like-wrecking-ball-to-shrink-government-and-fire-federal-workers/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-29T14:59:44.000Z</news:publication_date>
-          <news:title>Conservatives are on a mission to dismantle the US government and replace it with Trump's vision</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/politics/2023/08/29/recruiting-is-underway-for-trump-like-wrecking-ball-to-shrink-government-and-fire-federal-workers/recruiting-is-underway-for-trump-like-wrecking-ball-to-shrink-government-and-fire-federal-workers.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -171,20 +171,6 @@
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/politics/2023/08/29/biden-targets-diabetes-drug-blood-thinner-and-8-others-for-medicare-price-talks/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-29T12:07:36.000Z</news:publication_date>
-          <news:title>Biden targets diabetes drug Jardiance, blood thinner Eliquis and 8 others for Medicare price talks</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/politics/2023/08/29/biden-targets-diabetes-drug-blood-thinner-and-8-others-for-medicare-price-talks/biden-targets-diabetes-drug-blood-thinner-and-8-others-for-medicare-price-talks.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
         <loc>https://majordigest.com/politics/2023/08/29/president-joe-biden-is-hosting-costa-rican-president-rodrigo-chaves-at-the-white-house/</loc>
         <news:news>
           <news:publication>
@@ -213,17 +199,17 @@
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/politics/2023/08/29/operation-deep-sea-how-nate-paul-pulled-the-strings-in-the-attorney-generals-office-to-investigate-his-enemies/</loc>
+        <loc>https://majordigest.com/politics/2023/08/29/npr-rudy-giuliani-rico-origin-story/</loc>
         <news:news>
           <news:publication>
             <news:name>Major Digest</news:name>
             <news:language>en</news:language>
           </news:publication>
-          <news:publication_date>2023-08-29T10:00:00.000Z</news:publication_date>
-          <news:title>&#8220;Operation Deep Sea&#8221;: How Nate Paul pulled the strings in the attorney general&#8217;s office to investigate his enemies</news:title>
+          <news:publication_date>2023-08-29T09:01:00.000Z</news:publication_date>
+          <news:title>It's time to rethink Rudy Giuliani and his claim to discover RICO</news:title>
         </news:news>
         <image:image>
-          <image:loc>https://majordigest.com/politics/2023/08/29/operation-deep-sea-how-nate-paul-pulled-the-strings-in-the-attorney-generals-office-to-investigate-his-enemies/operation-deep-sea-how-nate-paul-pulled-the-strings-in-the-attorney-generals-office-to-investigate-his-enemies.webp</image:loc>
+          <image:loc>https://majordigest.com/politics/2023/08/29/npr-rudy-giuliani-rico-origin-story/npr-rudy-giuliani-rico-origin-story.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -269,31 +255,31 @@
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/politics/2023/08/29/ap-election-brief-what-to-expect-in-mississippis-runoff-primaries/</loc>
+        <loc>https://majordigest.com/politics/2023/08/29/judge-to-hear-arguments-on-mark-meadows-request-to-move-georgia-election-case-to-federal-court/</loc>
         <news:news>
           <news:publication>
             <news:name>Major Digest</news:name>
             <news:language>en</news:language>
           </news:publication>
-          <news:publication_date>2023-08-29T03:07:50.000Z</news:publication_date>
-          <news:title>AP Election Brief | What to expect in Mississippi's runoff primaries</news:title>
+          <news:publication_date>2023-08-29T03:30:28.000Z</news:publication_date>
+          <news:title>Trump chief of staff Meadows says actions laid out in Georgia indictment were part of his job</news:title>
         </news:news>
         <image:image>
-          <image:loc>https://majordigest.com/politics/2023/08/29/ap-election-brief-what-to-expect-in-mississippis-runoff-primaries/ap-election-brief-what-to-expect-in-mississippis-runoff-primaries.webp</image:loc>
+          <image:loc>https://majordigest.com/politics/2023/08/29/judge-to-hear-arguments-on-mark-meadows-request-to-move-georgia-election-case-to-federal-court/judge-to-hear-arguments-on-mark-meadows-request-to-move-georgia-election-case-to-federal-court.webp</image:loc>
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/politics/2023/08/29/us-supreme-court-justice-barrett-says-she-welcomes-public-scrutiny-of-court/</loc>
+        <loc>https://majordigest.com/politics/2023/08/29/chris-christie-2024-election-post-debate-trump-ramaswamy/</loc>
         <news:news>
           <news:publication>
             <news:name>Major Digest</news:name>
             <news:language>en</news:language>
           </news:publication>
-          <news:publication_date>2023-08-29T02:52:33.000Z</news:publication_date>
-          <news:title>US Supreme Court Justice Barrett says she welcomes public scrutiny of court</news:title>
+          <news:publication_date>2023-08-29T02:20:55.000Z</news:publication_date>
+          <news:title>Christie: Trump nomination would be 'dream come true' for Biden</news:title>
         </news:news>
         <image:image>
-          <image:loc>https://majordigest.com/politics/2023/08/29/us-supreme-court-justice-barrett-says-she-welcomes-public-scrutiny-of-court/us-supreme-court-justice-barrett-says-she-welcomes-public-scrutiny-of-court.webp</image:loc>
+          <image:loc>https://majordigest.com/politics/2023/08/29/chris-christie-2024-election-post-debate-trump-ramaswamy/chris-christie-2024-election-post-debate-trump-ramaswamy.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -339,20 +325,6 @@
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/politics/2023/08/28/porter-warren-accuse-tax-prep-firms-of-undermining-new-irs-effort-on-electronic-free-file-tax-returns/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-28T20:30:47.000Z</news:publication_date>
-          <news:title>Porter, Warren accuse tax prep firms of undermining new IRS effort on electronic free file tax returns</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/politics/2023/08/28/porter-warren-accuse-tax-prep-firms-of-undermining-new-irs-effort-on-electronic-free-file-tax-returns/porter-warren-accuse-tax-prep-firms-of-undermining-new-irs-effort-on-electronic-free-file-tax-returns.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
         <loc>https://majordigest.com/politics/2023/08/28/adam-schiff-visits-half-moon-bay-to-shed-light-on-farmworker-conditions/</loc>
         <news:news>
           <news:publication>
@@ -364,6 +336,20 @@
         </news:news>
         <image:image>
           <image:loc>https://majordigest.com/politics/2023/08/28/adam-schiff-visits-half-moon-bay-to-shed-light-on-farmworker-conditions/adam-schiff-visits-half-moon-bay-to-shed-light-on-farmworker-conditions.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/politics/2023/08/28/biden-approves-emergency-declaration-for-florida-ahead-of-t-s-idalia/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-28T16:30:03.000Z</news:publication_date>
+          <news:title>Biden approves Emergency Declaration for Florida ahead of T.S. Idalia</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/politics/2023/08/28/biden-approves-emergency-declaration-for-florida-ahead-of-t-s-idalia/biden-approves-emergency-declaration-for-florida-ahead-of-t-s-idalia.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -395,17 +381,31 @@
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/politics/2023/08/25/election-brief-what-to-expect-in-mississippis-runoff-primaries/</loc>
+        <loc>https://majordigest.com/politics/2023/08/25/carlos-santana-issues-apology-for-anti-trans-remarks-on-stage/</loc>
         <news:news>
           <news:publication>
             <news:name>Major Digest</news:name>
             <news:language>en</news:language>
           </news:publication>
-          <news:publication_date>2023-08-25T10:35:11.000Z</news:publication_date>
-          <news:title>AP Election Brief | What to expect in Mississippi's runoff primaries</news:title>
+          <news:publication_date>2023-08-25T15:43:31.000Z</news:publication_date>
+          <news:title>Carlos Santana issues apology for anti-trans remarks on stage</news:title>
         </news:news>
         <image:image>
-          <image:loc>https://majordigest.com/politics/2023/08/25/election-brief-what-to-expect-in-mississippis-runoff-primaries/election-brief-what-to-expect-in-mississippis-runoff-primaries.webp</image:loc>
+          <image:loc>https://majordigest.com/politics/2023/08/25/carlos-santana-issues-apology-for-anti-trans-remarks-on-stage/carlos-santana-issues-apology-for-anti-trans-remarks-on-stage.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/politics/2023/08/25/trump-recounts-terrible-experience-of-being-booked-in-georgia/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-25T12:58:40.000Z</news:publication_date>
+          <news:title>Trump recounts 'terrible experience' of being booked in Georgia</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/politics/2023/08/25/trump-recounts-terrible-experience-of-being-booked-in-georgia/trump-recounts-terrible-experience-of-being-booked-in-georgia.webp</image:loc>
         </image:image>
       </url>
       <url>

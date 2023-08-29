@@ -3,6 +3,48 @@
               xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
               xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
       <url>
+        <loc>https://majordigest.com/tech/2023/08/29/x-to-allow-political-ads-for-the-first-time-since-2019/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-29T17:57:46.000Z</news:publication_date>
+          <news:title>X to allow political ads for the first time since 2019</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/tech/2023/08/29/x-to-allow-political-ads-for-the-first-time-since-2019/x-to-allow-political-ads-for-the-first-time-since-2019.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/tech/2023/08/29/apple-expected-to-unveil-new-iphone-at-wonderlust-special-event-at-cupertino-headquarters/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-29T17:50:52.000Z</news:publication_date>
+          <news:title>Apple expected to unveil new iPhone at &#8216;Wonderlust.&#8217; special event at Cupertino headquarters</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/tech/2023/08/29/apple-expected-to-unveil-new-iphone-at-wonderlust-special-event-at-cupertino-headquarters/apple-expected-to-unveil-new-iphone-at-wonderlust-special-event-at-cupertino-headquarters.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/tech/2023/08/29/digitally-sign-document-device/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-29T17:43:01.000Z</news:publication_date>
+          <news:title>How to digitally sign a document on any device</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/tech/2023/08/29/digitally-sign-document-device/digitally-sign-document-device.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
         <loc>https://majordigest.com/tech/2023/08/29/meta-disrupts-covert-influence-operations-facebook-instagram/</loc>
         <news:news>
           <news:publication>
@@ -31,6 +73,20 @@
         </image:image>
       </url>
       <url>
+        <loc>https://majordigest.com/tech/2023/08/29/meta-says-it-disrupted-largest-known-cross-platform-china-linked-disinformation-campaign/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-29T15:31:54.000Z</news:publication_date>
+          <news:title>Meta says it disrupted 'largest known cross-platform' China-linked disinformation campaign</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/tech/2023/08/29/meta-says-it-disrupted-largest-known-cross-platform-china-linked-disinformation-campaign/meta-says-it-disrupted-largest-known-cross-platform-china-linked-disinformation-campaign.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
         <loc>https://majordigest.com/tech/2023/08/29/amazon-ceo-tells-remote-workers-its-not-going-to-work-out/</loc>
         <news:news>
           <news:publication>
@@ -42,20 +98,6 @@
         </news:news>
         <image:image>
           <image:loc>https://majordigest.com/tech/2023/08/29/amazon-ceo-tells-remote-workers-its-not-going-to-work-out/amazon-ceo-tells-remote-workers-its-not-going-to-work-out.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/tech/2023/08/29/pentagon-announces-new-autonomous-drones-systems-program/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-29T14:53:13.000Z</news:publication_date>
-          <news:title>Pentagon announces new autonomous drones, systems program</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/tech/2023/08/29/pentagon-announces-new-autonomous-drones-systems-program/pentagon-announces-new-autonomous-drones-systems-program.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -241,34 +283,6 @@
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/tech/2023/08/28/how-an-ai-gold-rush-is-reviving-the-tech-industry/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-28T10:00:00.000Z</news:publication_date>
-          <news:title>How an AI 'gold rush' is reviving the tech industry</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/tech/2023/08/28/how-an-ai-gold-rush-is-reviving-the-tech-industry/how-an-ai-gold-rush-is-reviving-the-tech-industry.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/tech/2023/08/27/how-make-devices-impossible-snoop-privacy-screen/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-27T18:59:48.000Z</news:publication_date>
-          <news:title>How to make your devices impossible to snoop on with a privacy screen</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/tech/2023/08/27/how-make-devices-impossible-snoop-privacy-screen/how-make-devices-impossible-snoop-privacy-screen.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
         <loc>https://majordigest.com/tech/2023/08/27/takeaways-from-aps-investigation-into-sexual-harassment-and-assault-at-antarcticas-mcmurdo-station/</loc>
         <news:news>
           <news:publication>
@@ -308,20 +322,6 @@
         </news:news>
         <image:image>
           <image:loc>https://majordigest.com/tech/2023/08/26/bay-area-software-ceo-pleads-guilty-to-tax-pandemic-relief-fraud/bay-area-software-ceo-pleads-guilty-to-tax-pandemic-relief-fraud.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/tech/2023/08/26/good-old-fashioned-redlining-why-was-oakland-cut-out-of-state-plan-for-high-speed-internet/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-26T12:45:09.000Z</news:publication_date>
-          <news:title>&#8220;Good old-fashioned redlining&#8221;: Why was Oakland cut out of state plan for high-speed internet?</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/tech/2023/08/26/good-old-fashioned-redlining-why-was-oakland-cut-out-of-state-plan-for-high-speed-internet/good-old-fashioned-redlining-why-was-oakland-cut-out-of-state-plan-for-high-speed-internet.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -392,6 +392,20 @@
         </news:news>
         <image:image>
           <image:loc>https://majordigest.com/tech/2023/08/25/trump-returns-to-twitter-under-its-new-moniker-x/trump-returns-to-twitter-under-its-new-moniker-x.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/tech/2023/08/25/workers-win-raises-at-general-motors-joint-venture-battery-plant-in-ohio-as-contract-talks-continue/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-25T00:12:09.000Z</news:publication_date>
+          <news:title>Workers win raises at General Motors joint venture battery plant in Ohio as contract talks continue</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/tech/2023/08/25/workers-win-raises-at-general-motors-joint-venture-battery-plant-in-ohio-as-contract-talks-continue/workers-win-raises-at-general-motors-joint-venture-battery-plant-in-ohio-as-contract-talks-continue.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -504,19 +518,5 @@
         </news:news>
         <image:image>
           <image:loc>https://majordigest.com/tech/2023/08/23/a-failed-lunar-mission-dents-russian-pride-and-reflects-deeper-problems-with-moscows-space-industry/a-failed-lunar-mission-dents-russian-pride-and-reflects-deeper-problems-with-moscows-space-industry.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/tech/2023/08/22/ibm-is-selling-the-weather-company-assets-to-private-equity-firm-francisco-partners/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-22T17:36:52.000Z</news:publication_date>
-          <news:title>IBM is selling The Weather Company assets to private equity firm Francisco Partners</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/tech/2023/08/22/ibm-is-selling-the-weather-company-assets-to-private-equity-firm-francisco-partners/ibm-is-selling-the-weather-company-assets-to-private-equity-firm-francisco-partners.webp</image:loc>
         </image:image>
       </url></urlset>
