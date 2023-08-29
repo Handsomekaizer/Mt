@@ -3,6 +3,48 @@
               xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
               xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
       <url>
+        <loc>https://majordigest.com/tech/2023/08/29/amazon-ceo-tells-remote-workers-its-not-going-to-work-out/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-29T14:58:44.000Z</news:publication_date>
+          <news:title>Amazon CEO tells remote workers: 'It's not going to work out'</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/tech/2023/08/29/amazon-ceo-tells-remote-workers-its-not-going-to-work-out/amazon-ceo-tells-remote-workers-its-not-going-to-work-out.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/tech/2023/08/29/pentagon-announces-new-autonomous-drones-systems-program/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-29T14:53:13.000Z</news:publication_date>
+          <news:title>Pentagon announces new autonomous drones, systems program</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/tech/2023/08/29/pentagon-announces-new-autonomous-drones-systems-program/pentagon-announces-new-autonomous-drones-systems-program.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/tech/2023/08/29/tech-expert-existential-fears-ai-are-overblown-sees-very-disturbing-workplace-threats/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-29T14:51:23.000Z</news:publication_date>
+          <news:title>Tech expert says 'existential' fears from AI are overblown, but sees 'very disturbing' workplace threats</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/tech/2023/08/29/tech-expert-existential-fears-ai-are-overblown-sees-very-disturbing-workplace-threats/tech-expert-existential-fears-ai-are-overblown-sees-very-disturbing-workplace-threats.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
         <loc>https://majordigest.com/tech/2023/08/29/opinion-adding-hydrogen-energy-to-california-gas-systems-too-risky/</loc>
         <news:news>
           <news:publication>
@@ -143,6 +185,20 @@
         </image:image>
       </url>
       <url>
+        <loc>https://majordigest.com/tech/2023/08/28/how-paypal-is-using-ai-to-combat-fraud-and-make-it-easier-to-pay/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-28T11:42:35.000Z</news:publication_date>
+          <news:title>How PayPal is using AI to combat fraud, and make it easier to pay</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/tech/2023/08/28/how-paypal-is-using-ai-to-combat-fraud-and-make-it-easier-to-pay/how-paypal-is-using-ai-to-combat-fraud-and-make-it-easier-to-pay.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
         <loc>https://majordigest.com/tech/2023/08/28/how-an-ai-gold-rush-is-reviving-the-tech-industry/</loc>
         <news:news>
           <news:publication>
@@ -227,20 +283,6 @@
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/tech/2023/08/26/zooms-reversal-backlash-over-ai-fiasco/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-26T18:43:37.000Z</news:publication_date>
-          <news:title>Zoom&#8217;s reversal after backlash over AI fiasco</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/tech/2023/08/26/zooms-reversal-backlash-over-ai-fiasco/zooms-reversal-backlash-over-ai-fiasco.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
         <loc>https://majordigest.com/tech/2023/08/26/good-old-fashioned-redlining-why-was-oakland-cut-out-of-state-plan-for-high-speed-internet/</loc>
         <news:news>
           <news:publication>
@@ -311,20 +353,6 @@
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/tech/2023/08/25/proposed-crypto-tax-rules-draw-ire-from-industry-groups/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-25T15:32:44.000Z</news:publication_date>
-          <news:title>Proposed crypto tax rules draw ire from industry groups</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/tech/2023/08/25/proposed-crypto-tax-rules-draw-ire-from-industry-groups/proposed-crypto-tax-rules-draw-ire-from-industry-groups.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
         <loc>https://majordigest.com/tech/2023/08/25/los-angeles-solar-ev-chargers-ev-arc-beam-global/</loc>
         <news:news>
           <news:publication>
@@ -378,20 +406,6 @@
         </news:news>
         <image:image>
           <image:loc>https://majordigest.com/tech/2023/08/25/workers-win-raises-at-general-motors-joint-venture-battery-plant-in-ohio-as-contract-talks-continue/workers-win-raises-at-general-motors-joint-venture-battery-plant-in-ohio-as-contract-talks-continue.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/tech/2023/08/24/doj-sues-spacex-asylees/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-24T18:35:38.000Z</news:publication_date>
-          <news:title>DOJ sues SpaceX for allegedly not hiring asylees, refugees</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/tech/2023/08/24/doj-sues-spacex-asylees/doj-sues-spacex-asylees.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -504,19 +518,5 @@
         </news:news>
         <image:image>
           <image:loc>https://majordigest.com/tech/2023/08/22/ibm-is-selling-the-weather-company-assets-to-private-equity-firm-francisco-partners/ibm-is-selling-the-weather-company-assets-to-private-equity-firm-francisco-partners.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/tech/2023/08/22/mark-zuckerberg-says-a-web-version-of-threads-will-be-available-in-the-next-few-days/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-22T15:07:57.000Z</news:publication_date>
-          <news:title>Mark Zuckerberg says a web version of Threads will be available in the next few days</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/tech/2023/08/22/mark-zuckerberg-says-a-web-version-of-threads-will-be-available-in-the-next-few-days/mark-zuckerberg-says-a-web-version-of-threads-will-be-available-in-the-next-few-days.webp</image:loc>
         </image:image>
       </url></urlset>

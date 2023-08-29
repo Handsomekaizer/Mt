@@ -3,6 +3,76 @@
               xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
               xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
       <url>
+        <loc>https://majordigest.com/world/2023/08/29/hannity-grills-ramaswamy-on-israel/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-29T14:56:25.000Z</news:publication_date>
+          <news:title>Hannity grills Ramaswamy on Israel</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/world/2023/08/29/hannity-grills-ramaswamy-on-israel/hannity-grills-ramaswamy-on-israel.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/world/2023/08/29/afghan-women-who-fled-taliban-rule-thrive-us-daring-rescue-us-charity/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-29T14:43:47.000Z</news:publication_date>
+          <news:title>Afghan women who fled Taliban rule thrive in US following daring rescue by US charity</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/world/2023/08/29/afghan-women-who-fled-taliban-rule-thrive-us-daring-rescue-us-charity/afghan-women-who-fled-taliban-rule-thrive-us-daring-rescue-us-charity.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/world/2023/08/29/german-governor-orders-deputy-prove-not-antisemitic-following-scandal-complete-questionnaire/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-29T14:31:09.000Z</news:publication_date>
+          <news:title>German governor orders deputy to prove he is not antisemitic following scandal, must complete questionnaire</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/world/2023/08/29/german-governor-orders-deputy-prove-not-antisemitic-following-scandal-complete-questionnaire/german-governor-orders-deputy-prove-not-antisemitic-following-scandal-complete-questionnaire.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/world/2023/08/29/china-ready-to-improve-relations-with-us-top-official-says/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-29T14:21:59.000Z</news:publication_date>
+          <news:title>China ready to improve relations with US, top official says</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/world/2023/08/29/china-ready-to-improve-relations-with-us-top-official-says/china-ready-to-improve-relations-with-us-top-official-says.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/world/2023/08/29/putin-commits-china-visit-first-major-trip-arrest-warrant/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-29T14:21:48.000Z</news:publication_date>
+          <news:title>Putin commits to China visit in first major trip since arrest warrant</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/world/2023/08/29/putin-commits-china-visit-first-major-trip-arrest-warrant/putin-commits-china-visit-first-major-trip-arrest-warrant.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
         <loc>https://majordigest.com/world/2023/08/29/putin-wont-attend-prigozhin-funeral-officials-say/</loc>
         <news:news>
           <news:publication>
@@ -17,17 +87,45 @@
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/world/2023/08/29/ethiopia-least-183-killed-2-months-due-conflict-amhara-region-un-says/</loc>
+        <loc>https://majordigest.com/world/2023/08/29/massive-wildfire-in-northeastern-greece-persists-for-11th-day-despite-european-firefighting-efforts/</loc>
         <news:news>
           <news:publication>
             <news:name>Major Digest</news:name>
             <news:language>en</news:language>
           </news:publication>
-          <news:publication_date>2023-08-29T13:42:10.000Z</news:publication_date>
-          <news:title>In Ethiopia, at least 183 killed in 2 months due to conflict in Amhara region, UN says</news:title>
+          <news:publication_date>2023-08-29T13:52:31.000Z</news:publication_date>
+          <news:title>Massive wildfire in northeastern Greece persists for 11th day despite European firefighting efforts</news:title>
         </news:news>
         <image:image>
-          <image:loc>https://majordigest.com/world/2023/08/29/ethiopia-least-183-killed-2-months-due-conflict-amhara-region-un-says/ethiopia-least-183-killed-2-months-due-conflict-amhara-region-un-says.webp</image:loc>
+          <image:loc>https://majordigest.com/world/2023/08/29/massive-wildfire-in-northeastern-greece-persists-for-11th-day-despite-european-firefighting-efforts/massive-wildfire-in-northeastern-greece-persists-for-11th-day-despite-european-firefighting-efforts.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/world/2023/08/29/bavarian-governor-orders-his-deputy-to-fully-explain-himself-to-clear-allegations-of-antisemitism/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-29T13:47:22.000Z</news:publication_date>
+          <news:title>Bavarian governor orders his deputy to fully explain himself to clear allegations of antisemitism</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/world/2023/08/29/bavarian-governor-orders-his-deputy-to-fully-explain-himself-to-clear-allegations-of-antisemitism/bavarian-governor-orders-his-deputy-to-fully-explain-himself-to-clear-allegations-of-antisemitism.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/world/2023/08/29/bavarian-governor-orders-his-deputy-to-fully-explain-himself-to-clear-allegations-of-antisemitism/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-29T13:47:22.000Z</news:publication_date>
+          <news:title>Bavarian governor orders his deputy to fully explain himself to clear allegations of antisemitism</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/world/2023/08/29/bavarian-governor-orders-his-deputy-to-fully-explain-himself-to-clear-allegations-of-antisemitism/bavarian-governor-orders-his-deputy-to-fully-explain-himself-to-clear-allegations-of-antisemitism.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -59,17 +157,31 @@
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/world/2023/08/29/australian-neurosurgeon-finds-parasitic-worm-womans-brain-investigating-mystery-illness/</loc>
+        <loc>https://majordigest.com/world/2023/08/29/sudanese-military-leader-visits-egypt-1st-trip-abroad-since-war-breaks-sudan/</loc>
         <news:news>
           <news:publication>
             <news:name>Major Digest</news:name>
             <news:language>en</news:language>
           </news:publication>
-          <news:publication_date>2023-08-29T13:13:58.000Z</news:publication_date>
-          <news:title>Australian neurosurgeon finds parasitic worm in woman&#8217;s brain while investigating 'mystery illness'</news:title>
+          <news:publication_date>2023-08-29T13:31:28.000Z</news:publication_date>
+          <news:title>Sudanese military leader visits Egypt on 1st trip abroad since war breaks out in Sudan</news:title>
         </news:news>
         <image:image>
-          <image:loc>https://majordigest.com/world/2023/08/29/australian-neurosurgeon-finds-parasitic-worm-womans-brain-investigating-mystery-illness/australian-neurosurgeon-finds-parasitic-worm-womans-brain-investigating-mystery-illness.webp</image:loc>
+          <image:loc>https://majordigest.com/world/2023/08/29/sudanese-military-leader-visits-egypt-1st-trip-abroad-since-war-breaks-sudan/sudanese-military-leader-visits-egypt-1st-trip-abroad-since-war-breaks-sudan.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/world/2023/08/29/guatemalas-electoral-registry-has-suspended-the-party-of-the-presidential-election-winner/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-29T13:21:05.000Z</news:publication_date>
+          <news:title>Guatemala progressive's presidential victory certified, but his party is suspended</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/world/2023/08/29/guatemalas-electoral-registry-has-suspended-the-party-of-the-presidential-election-winner/guatemalas-electoral-registry-has-suspended-the-party-of-the-presidential-election-winner.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -87,34 +199,6 @@
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/world/2023/08/29/the-kremlin-says-putin-is-not-planning-to-attend-wagner-chief-prigozhins-burial/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-29T13:02:49.000Z</news:publication_date>
-          <news:title>Putin is not planning to attend the funeral for Wagner chief Prigozhin, the Kremlin says</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/world/2023/08/29/the-kremlin-says-putin-is-not-planning-to-attend-wagner-chief-prigozhins-burial/the-kremlin-says-putin-is-not-planning-to-attend-wagner-chief-prigozhins-burial.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/world/2023/08/29/putin-not-planning-attend-prigozhin-funeral/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-29T12:49:29.000Z</news:publication_date>
-          <news:title>Putin not planning to attend Prigozhin funeral</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/world/2023/08/29/putin-not-planning-attend-prigozhin-funeral/putin-not-planning-attend-prigozhin-funeral.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
         <loc>https://majordigest.com/world/2023/08/29/investigation-finds-late-founder-of-japanese-talent-agency-for-boy-bands-sexually-assaulted-teens/</loc>
         <news:news>
           <news:publication>
@@ -129,27 +213,13 @@
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/world/2023/08/29/china-russia-behind-largest-cross-platform-misinformation-operation-meta-report-finds/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-29T12:16:22.000Z</news:publication_date>
-          <news:title>China, Russia behind largest cross-platform misinformation operation, Meta report finds</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/world/2023/08/29/china-russia-behind-largest-cross-platform-misinformation-operation-meta-report-finds/china-russia-behind-largest-cross-platform-misinformation-operation-meta-report-finds.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
         <loc>https://majordigest.com/world/2023/08/29/alumni-grieve-for-jesuit-run-university-seized-by-nicaraguan-government-that-transformed-their-lives/</loc>
         <news:news>
           <news:publication>
             <news:name>Major Digest</news:name>
             <news:language>en</news:language>
           </news:publication>
-          <news:publication_date>2023-08-29T12:00:34.000Z</news:publication_date>
+          <news:publication_date>2023-08-29T12:00:33.000Z</news:publication_date>
           <news:title>Alumni grieve for Jesuit-run university seized by Nicaraguan government that transformed their lives</news:title>
         </news:news>
         <image:image>
@@ -157,20 +227,6 @@
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/world/2023/08/29/court-suspends-the-corruption-conviction-and-sentence-of-former-prime-minister-imran-khan/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-29T11:29:11.000Z</news:publication_date>
-          <news:title>Pakistani court suspends the corruption conviction and sentence of former Prime Minister Imran Khan</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/world/2023/08/29/court-suspends-the-corruption-conviction-and-sentence-of-former-prime-minister-imran-khan/court-suspends-the-corruption-conviction-and-sentence-of-former-prime-minister-imran-khan.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
         <loc>https://majordigest.com/world/2023/08/29/neurosurgeon-investigating-patients-mystery-symptoms-plucks-worm-from-womans-brain/</loc>
         <news:news>
           <news:publication>
@@ -182,34 +238,6 @@
         </news:news>
         <image:image>
           <image:loc>https://majordigest.com/world/2023/08/29/neurosurgeon-investigating-patients-mystery-symptoms-plucks-worm-from-womans-brain/neurosurgeon-investigating-patients-mystery-symptoms-plucks-worm-from-womans-brain.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/world/2023/08/29/neurosurgeon-investigating-patients-mystery-symptoms-plucks-worm-from-womans-brain/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-29T10:07:27.000Z</news:publication_date>
-          <news:title>Neurosurgeon investigating patient's mystery symptoms plucks worm from woman's brain</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/world/2023/08/29/neurosurgeon-investigating-patients-mystery-symptoms-plucks-worm-from-womans-brain/neurosurgeon-investigating-patients-mystery-symptoms-plucks-worm-from-womans-brain.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/world/2023/08/29/daughter-of-ex-thai-leader-thaksin-says-he-is-fatigued-as-criticism-grows-of-his-hospitalization/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-29T10:04:24.000Z</news:publication_date>
-          <news:title>Daughter of ex-Thai leader Thaksin says he is fatigued, as criticism grows of his hospitalization</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/world/2023/08/29/daughter-of-ex-thai-leader-thaksin-says-he-is-fatigued-as-criticism-grows-of-his-hospitalization/daughter-of-ex-thai-leader-thaksin-says-he-is-fatigued-as-criticism-grows-of-his-hospitalization.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -269,34 +297,6 @@
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/world/2023/08/29/pope-francis-draws-fire-after-praising-russian-empire/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-29T00:59:50.000Z</news:publication_date>
-          <news:title>Pope Francis draws fire after praising Russian empire</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/world/2023/08/29/pope-francis-draws-fire-after-praising-russian-empire/pope-francis-draws-fire-after-praising-russian-empire.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/world/2023/08/28/british-bog-snorkeling-championships-contenders-race-through-slime/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-28T20:36:33.000Z</news:publication_date>
-          <news:title>British bog snorkeling championship contenders&#160;race through slime</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/world/2023/08/28/british-bog-snorkeling-championships-contenders-race-through-slime/british-bog-snorkeling-championships-contenders-race-through-slime.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
         <loc>https://majordigest.com/world/2023/08/28/british-bog-snorkeling-championships-contenders-race-through-slime/</loc>
         <news:news>
           <news:publication>
@@ -325,17 +325,17 @@
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/world/2023/08/28/un-investigators-traveling-to-ukraine-to-probe-allegations-of-russian-abuse/</loc>
+        <loc>https://majordigest.com/world/2023/08/28/virginia-man-stolen-at-birth-meets-chilean-family-for-first-time/</loc>
         <news:news>
           <news:publication>
             <news:name>Major Digest</news:name>
             <news:language>en</news:language>
           </news:publication>
-          <news:publication_date>2023-08-28T17:18:55.000Z</news:publication_date>
-          <news:title>UN investigators traveling to Ukraine to probe allegations of Russian abuse&#160;</news:title>
+          <news:publication_date>2023-08-28T19:50:29.000Z</news:publication_date>
+          <news:title>Virginia man stolen at birth meets Chilean family for first time</news:title>
         </news:news>
         <image:image>
-          <image:loc>https://majordigest.com/world/2023/08/28/un-investigators-traveling-to-ukraine-to-probe-allegations-of-russian-abuse/un-investigators-traveling-to-ukraine-to-probe-allegations-of-russian-abuse.webp</image:loc>
+          <image:loc>https://majordigest.com/world/2023/08/28/virginia-man-stolen-at-birth-meets-chilean-family-for-first-time/virginia-man-stolen-at-birth-meets-chilean-family-for-first-time.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -392,6 +392,20 @@
         </news:news>
         <image:image>
           <image:loc>https://majordigest.com/world/2023/08/27/with-drones-and-webcams-volunteer-hunters-join-new-search-for-mythical-loch-ness-monster/with-drones-and-webcams-volunteer-hunters-join-new-search-for-mythical-loch-ness-monster.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/world/2023/08/27/elite-unit-of-mexican-cartel-using-drones-to-drop-bombs-report/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-27T01:26:02.000Z</news:publication_date>
+          <news:title>Elite unit of Mexican cartel using drones to drop bombs: Report</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/world/2023/08/27/elite-unit-of-mexican-cartel-using-drones-to-drop-bombs-report/elite-unit-of-mexican-cartel-using-drones-to-drop-bombs-report.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -490,20 +504,6 @@
         </news:news>
         <image:image>
           <image:loc>https://majordigest.com/world/2023/08/23/jet-crash-in-russia-kills-10-and-wagner-chief-was-on-passenger-list-officials-say/jet-crash-in-russia-kills-10-and-wagner-chief-was-on-passenger-list-officials-say.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/world/2023/08/23/indias-spacecraft-is-preparing-to-land-on-the-moon-in-the-countrys-second-attempt-in-4-years/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-23T09:51:36.000Z</news:publication_date>
-          <news:title>India successfully lands its Chandrayaan-3 rover on the moon, near the south pole</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/world/2023/08/23/indias-spacecraft-is-preparing-to-land-on-the-moon-in-the-countrys-second-attempt-in-4-years/indias-spacecraft-is-preparing-to-land-on-the-moon-in-the-countrys-second-attempt-in-4-years.webp</image:loc>
         </image:image>
       </url>
       <url>

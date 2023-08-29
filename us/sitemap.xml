@@ -3,17 +3,45 @@
               xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
               xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
       <url>
-        <loc>https://majordigest.com/us/2023/08/29/why-some-homeowners-are-dropping-their-insurance/</loc>
+        <loc>https://majordigest.com/us/2023/08/29/live-updates-hurricane-idalia-hurtles-toward-florida/</loc>
         <news:news>
           <news:publication>
             <news:name>Major Digest</news:name>
             <news:language>en</news:language>
           </news:publication>
-          <news:publication_date>2023-08-29T14:05:18.000Z</news:publication_date>
-          <news:title>Why some homeowners are dropping their insurance</news:title>
+          <news:publication_date>2023-08-29T15:11:06.000Z</news:publication_date>
+          <news:title>Live updates: Hurricane Idalia hurtles toward Florida</news:title>
         </news:news>
         <image:image>
-          <image:loc>https://majordigest.com/us/2023/08/29/why-some-homeowners-are-dropping-their-insurance/why-some-homeowners-are-dropping-their-insurance.webp</image:loc>
+          <image:loc>https://majordigest.com/us/2023/08/29/live-updates-hurricane-idalia-hurtles-toward-florida/live-updates-hurricane-idalia-hurtles-toward-florida.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/us/2023/08/29/colorado-dentist-enter-plea-fatal-poisoning-wife-mother-six/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-29T15:10:19.000Z</news:publication_date>
+          <news:title>Colorado dentist to enter a plea in fatal poisoning of wife, mother of 6</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/us/2023/08/29/colorado-dentist-enter-plea-fatal-poisoning-wife-mother-six/colorado-dentist-enter-plea-fatal-poisoning-wife-mother-six.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/us/2023/08/29/watch-masked-thieves-swarm-blue-state-macys-stunned-shoppers-look-on/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-29T15:04:46.000Z</news:publication_date>
+          <news:title>WATCH: Masked thieves swarm blue-state Macy's as stunned shoppers look on</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/us/2023/08/29/watch-masked-thieves-swarm-blue-state-macys-stunned-shoppers-look-on/watch-masked-thieves-swarm-blue-state-macys-stunned-shoppers-look-on.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -23,11 +51,53 @@
             <news:name>Major Digest</news:name>
             <news:language>en</news:language>
           </news:publication>
-          <news:publication_date>2023-08-29T14:05:01.000Z</news:publication_date>
-          <news:title>Israelis on a flight that made an emergency landing in Saudi Arabia return to Tel Aviv</news:title>
+          <news:publication_date>2023-08-29T15:04:01.000Z</news:publication_date>
+          <news:title>Saudi Arabia gets an unlikely visitor when a plane full of Israelis makes an emergency landing</news:title>
         </news:news>
         <image:image>
           <image:loc>https://majordigest.com/us/2023/08/29/israelis-on-a-flight-that-made-an-emergency-landing-in-saudi-arabia-return-to-tel-aviv/israelis-on-a-flight-that-made-an-emergency-landing-in-saudi-arabia-return-to-tel-aviv.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/us/2023/08/29/court-suspends-the-corruption-conviction-and-sentence-of-former-prime-minister-imran-khan/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-29T15:01:40.000Z</news:publication_date>
+          <news:title>Pakistani court suspends the corruption conviction and sentence of former Prime Minister Imran Khan</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/us/2023/08/29/court-suspends-the-corruption-conviction-and-sentence-of-former-prime-minister-imran-khan/court-suspends-the-corruption-conviction-and-sentence-of-former-prime-minister-imran-khan.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/us/2023/08/29/colorado-judge-decide-tuesday-whether-prosecution-will-resume-mentally-ill-supermarket-mass-shooter/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-29T14:45:07.000Z</news:publication_date>
+          <news:title>Colorado judge to decide Tuesday whether prosecution will resume for mentally ill supermarket mass shooter</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/us/2023/08/29/colorado-judge-decide-tuesday-whether-prosecution-will-resume-mentally-ill-supermarket-mass-shooter/colorado-judge-decide-tuesday-whether-prosecution-will-resume-mentally-ill-supermarket-mass-shooter.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/us/2023/08/29/suspects-motive-unclear-in-campus-shooting-that-killed-1-at-unc-chapel-hill-police-say/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-29T14:37:52.000Z</news:publication_date>
+          <news:title>Graduate student charged with murder in killing of University of North Carolina faculty member</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/us/2023/08/29/suspects-motive-unclear-in-campus-shooting-that-killed-1-at-unc-chapel-hill-police-say/suspects-motive-unclear-in-campus-shooting-that-killed-1-at-unc-chapel-hill-police-say.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -37,25 +107,11 @@
             <news:name>Major Digest</news:name>
             <news:language>en</news:language>
           </news:publication>
-          <news:publication_date>2023-08-29T14:04:09.000Z</news:publication_date>
+          <news:publication_date>2023-08-29T14:35:42.000Z</news:publication_date>
           <news:title>Man who killed 3 at a Dollar General in Jacksonville used to work at a dollar store, sheriff says</news:title>
         </news:news>
         <image:image>
           <image:loc>https://majordigest.com/us/2023/08/29/man-who-killed-3-at-a-dollar-general-in-jacksonville-used-to-work-at-a-dollar-store-sheriff-says/man-who-killed-3-at-a-dollar-general-in-jacksonville-used-to-work-at-a-dollar-store-sheriff-says.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/us/2023/08/29/the-math-problem-kids-are-still-behind-how-can-schools-catch-them-up/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-29T13:56:42.000Z</news:publication_date>
-          <news:title>The math problem: Kids are still behind. How can schools catch them up?</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/us/2023/08/29/the-math-problem-kids-are-still-behind-how-can-schools-catch-them-up/the-math-problem-kids-are-still-behind-how-can-schools-catch-them-up.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -73,48 +129,6 @@
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/us/2023/08/29/massive-wildfire-in-northeastern-greece-persists-for-11th-day-despite-european-firefighting-efforts/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-29T13:52:31.000Z</news:publication_date>
-          <news:title>Massive wildfire in northeastern Greece persists for 11th day despite European firefighting efforts</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/us/2023/08/29/massive-wildfire-in-northeastern-greece-persists-for-11th-day-despite-european-firefighting-efforts/massive-wildfire-in-northeastern-greece-persists-for-11th-day-despite-european-firefighting-efforts.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/us/2023/08/29/bavarian-governor-orders-his-deputy-to-fully-explain-himself-to-clear-allegations-of-antisemitism/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-29T13:47:22.000Z</news:publication_date>
-          <news:title>Bavarian governor orders his deputy to fully explain himself to clear allegations of antisemitism</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/us/2023/08/29/bavarian-governor-orders-his-deputy-to-fully-explain-himself-to-clear-allegations-of-antisemitism/bavarian-governor-orders-his-deputy-to-fully-explain-himself-to-clear-allegations-of-antisemitism.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/us/2023/08/29/denver-will-pay-4-7m-settle-lawsuit-regarding-enforcement-curfew-during-george-floyd-protests/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-29T13:44:02.000Z</news:publication_date>
-          <news:title>Denver will pay $4.7M to settle lawsuit regarding enforcement of curfew during George Floyd protests</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/us/2023/08/29/denver-will-pay-4-7m-settle-lawsuit-regarding-enforcement-curfew-during-george-floyd-protests/denver-will-pay-4-7m-settle-lawsuit-regarding-enforcement-curfew-during-george-floyd-protests.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
         <loc>https://majordigest.com/us/2023/08/29/list-florida-evacuation-zones-by-county-for-hurricane-idalia/</loc>
         <news:news>
           <news:publication>
@@ -129,20 +143,6 @@
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/us/2023/08/29/local-mississippi-news-outlet-asks-court-throw-defamation-suit-involving-former-gov-phil-bryant/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-29T13:30:00.000Z</news:publication_date>
-          <news:title>Local Mississippi news outlet asks court to throw out defamation suit involving former Gov. Phil Bryant</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/us/2023/08/29/local-mississippi-news-outlet-asks-court-throw-defamation-suit-involving-former-gov-phil-bryant/local-mississippi-news-outlet-asks-court-throw-defamation-suit-involving-former-gov-phil-bryant.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
         <loc>https://majordigest.com/us/2023/08/29/trump-holds-42-point-lead-in-georgia-after-indictment/</loc>
         <news:news>
           <news:publication>
@@ -154,48 +154,6 @@
         </news:news>
         <image:image>
           <image:loc>https://majordigest.com/us/2023/08/29/trump-holds-42-point-lead-in-georgia-after-indictment/trump-holds-42-point-lead-in-georgia-after-indictment.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/us/2023/08/29/updated-list-florida-evacuation-list-by-county-zone-for-hurricane-idalia-emergency-info/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-29T13:24:27.000Z</news:publication_date>
-          <news:title>Updated list: Florida evacuation list by county, zone for Hurricane Idalia, emergency info</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/us/2023/08/29/updated-list-florida-evacuation-list-by-county-zone-for-hurricane-idalia-emergency-info/updated-list-florida-evacuation-list-by-county-zone-for-hurricane-idalia-emergency-info.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/us/2023/08/29/add-physical-fitness-section-to-the-sat-ramaswamy-says/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-29T13:22:08.000Z</news:publication_date>
-          <news:title>Add physical fitness section to the SAT, Ramaswamy says</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/us/2023/08/29/add-physical-fitness-section-to-the-sat-ramaswamy-says/add-physical-fitness-section-to-the-sat-ramaswamy-says.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/us/2023/08/29/guatemalas-electoral-registry-has-suspended-the-party-of-the-presidential-election-winner/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-29T13:21:05.000Z</news:publication_date>
-          <news:title>Guatemala progressive's presidential victory certified, but his party is suspended</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/us/2023/08/29/guatemalas-electoral-registry-has-suspended-the-party-of-the-presidential-election-winner/guatemalas-electoral-registry-has-suspended-the-party-of-the-presidential-election-winner.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -262,24 +220,10 @@
             <news:language>en</news:language>
           </news:publication>
           <news:publication_date>2023-08-29T09:58:23.000Z</news:publication_date>
-          <news:title>Idalia now a hurricane, with dangerous storm surges forecast for Florida's Gulf Coast</news:title>
+          <news:title>Idalia now a hurricane, pushing dangerous storm surge toward Florida</news:title>
         </news:news>
         <image:image>
           <image:loc>https://majordigest.com/us/2023/08/29/idalia-now-a-hurricane-with-dangerous-storm-surges-forecast-for-floridas-gulf-coast/idalia-now-a-hurricane-with-dangerous-storm-surges-forecast-for-floridas-gulf-coast.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/us/2023/08/29/2-drinks-a-week-us-could-tighten-alcohol-guidelines-national-director-says/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-29T09:43:06.000Z</news:publication_date>
-          <news:title>2 drinks a week? U.S. could tighten alcohol guidelines, national director says</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/us/2023/08/29/2-drinks-a-week-us-could-tighten-alcohol-guidelines-national-director-says/2-drinks-a-week-us-could-tighten-alcohol-guidelines-national-director-says.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -311,48 +255,6 @@
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/us/2023/08/29/rachel-morin-murder-suspect-will-kill-again-victims-sister/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-29T04:23:47.000Z</news:publication_date>
-          <news:title>Rachel Morin murder suspect will kill again: Victim's sister</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/us/2023/08/29/rachel-morin-murder-suspect-will-kill-again-victims-sister/rachel-morin-murder-suspect-will-kill-again-victims-sister.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/us/2023/08/29/josh-lafazan-george-santos-is-lebron-james-of-lying/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-29T03:57:44.000Z</news:publication_date>
-          <news:title>Josh Lafazan: George Santos is &#8216;LeBron James of lying&#8217;</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/us/2023/08/29/josh-lafazan-george-santos-is-lebron-james-of-lying/josh-lafazan-george-santos-is-lebron-james-of-lying.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/us/2023/08/29/tropical-storm-idalia-is-expected-to-become-a-hurricane-and-move-toward-florida-forecasters-say/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-29T03:08:05.000Z</news:publication_date>
-          <news:title>Florida governor declares widespread state of emergency ahead of Idalia's expected landfall</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/us/2023/08/29/tropical-storm-idalia-is-expected-to-become-a-hurricane-and-move-toward-florida-forecasters-say/tropical-storm-idalia-is-expected-to-become-a-hurricane-and-move-toward-florida-forecasters-say.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
         <loc>https://majordigest.com/us/2023/08/29/camp-pendleton-marines-involved-in-australia-aircraft-crash/</loc>
         <news:news>
           <news:publication>
@@ -364,6 +266,20 @@
         </news:news>
         <image:image>
           <image:loc>https://majordigest.com/us/2023/08/29/camp-pendleton-marines-involved-in-australia-aircraft-crash/camp-pendleton-marines-involved-in-australia-aircraft-crash.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/us/2023/08/29/significance-of-march-on-washington-still-felt-decades-later/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-29T01:57:19.000Z</news:publication_date>
+          <news:title>Significance of March on Washington still felt decades later</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/us/2023/08/29/significance-of-march-on-washington-still-felt-decades-later/significance-of-march-on-washington-still-felt-decades-later.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -381,6 +297,20 @@
         </image:image>
       </url>
       <url>
+        <loc>https://majordigest.com/us/2023/08/29/search-woman-colorado-resort/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-29T01:49:02.000Z</news:publication_date>
+          <news:title>Search continues for woman missing from Colorado resort town</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/us/2023/08/29/search-woman-colorado-resort/search-woman-colorado-resort.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
         <loc>https://majordigest.com/us/2023/08/29/us-marines-killed-in-australian-aircraft-crash-were-from-illinois-virginia-and-colorado/</loc>
         <news:news>
           <news:publication>
@@ -392,6 +322,34 @@
         </news:news>
         <image:image>
           <image:loc>https://majordigest.com/us/2023/08/29/us-marines-killed-in-australian-aircraft-crash-were-from-illinois-virginia-and-colorado/us-marines-killed-in-australian-aircraft-crash-were-from-illinois-virginia-and-colorado.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/us/2023/08/29/hawaii-power-utility-takes-responsibility-for-first-fire-on-maui-but-faults-county-firefighters/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-29T00:57:12.000Z</news:publication_date>
+          <news:title>Hawaii power utility takes responsibility for first fire on Maui, but faults county firefighters</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/us/2023/08/29/hawaii-power-utility-takes-responsibility-for-first-fire-on-maui-but-faults-county-firefighters/hawaii-power-utility-takes-responsibility-for-first-fire-on-maui-but-faults-county-firefighters.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/us/2023/08/29/university-of-north-carolina-warns-of-armed-person-on-campus-and-urges-people-to-stay-inside/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-29T00:15:37.000Z</news:publication_date>
+          <news:title>Faculty member fatally shot in University of North Carolina building</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/us/2023/08/29/university-of-north-carolina-warns-of-armed-person-on-campus-and-urges-people-to-stay-inside/university-of-north-carolina-warns-of-armed-person-on-campus-and-urges-people-to-stay-inside.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -451,17 +409,45 @@
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/us/2023/08/28/us-chinese-commerce-leaders-meet-huge-progress/</loc>
+        <loc>https://majordigest.com/us/2023/08/28/joe-the-plumber-who-questioned-obamas-tax-policies-during-the-2008-campaign-has-died-at-49/</loc>
         <news:news>
           <news:publication>
             <news:name>Major Digest</news:name>
             <news:language>en</news:language>
           </news:publication>
-          <news:publication_date>2023-08-28T20:44:31.000Z</news:publication_date>
-          <news:title>US, Chinese commerce leaders meet: 'Huge progress'</news:title>
+          <news:publication_date>2023-08-28T20:37:19.000Z</news:publication_date>
+          <news:title>Joe the Plumber, who questioned Obama's tax policies during the 2008 campaign, has died at 49</news:title>
         </news:news>
         <image:image>
-          <image:loc>https://majordigest.com/us/2023/08/28/us-chinese-commerce-leaders-meet-huge-progress/us-chinese-commerce-leaders-meet-huge-progress.webp</image:loc>
+          <image:loc>https://majordigest.com/us/2023/08/28/joe-the-plumber-who-questioned-obamas-tax-policies-during-the-2008-campaign-has-died-at-49/joe-the-plumber-who-questioned-obamas-tax-policies-during-the-2008-campaign-has-died-at-49.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/us/2023/08/28/teachers-arrested-at-nevada-school-board-meeting/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-28T20:31:59.000Z</news:publication_date>
+          <news:title>Teachers arrested at Nevada school board meeting</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/us/2023/08/28/teachers-arrested-at-nevada-school-board-meeting/teachers-arrested-at-nevada-school-board-meeting.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/us/2023/08/28/only-1-state-doesnt-have-a-ban-on-texting-and-driving-heres-why/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-28T20:17:18.000Z</news:publication_date>
+          <news:title>Only 1 state doesn't have a ban on texting and driving. Here's why</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/us/2023/08/28/only-1-state-doesnt-have-a-ban-on-texting-and-driving-heres-why/only-1-state-doesnt-have-a-ban-on-texting-and-driving-heres-why.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -490,6 +476,20 @@
         </news:news>
         <image:image>
           <image:loc>https://majordigest.com/us/2023/08/28/is-it-time-to-bring-back-the-covid-mask-we-asked-3-doctors/is-it-time-to-bring-back-the-covid-mask-we-asked-3-doctors.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/us/2023/08/28/police-release-photo-of-gunman-at-large-on-or-near-uncs-campus-university-on-lockdown/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-28T19:09:25.000Z</news:publication_date>
+          <news:title>Faculty member shot dead at UNC-Chapel Hill; suspect in custody</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/us/2023/08/28/police-release-photo-of-gunman-at-large-on-or-near-uncs-campus-university-on-lockdown/police-release-photo-of-gunman-at-large-on-or-near-uncs-campus-university-on-lockdown.webp</image:loc>
         </image:image>
       </url>
       <url>
