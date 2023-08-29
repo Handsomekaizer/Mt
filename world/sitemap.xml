@@ -3,6 +3,48 @@
               xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
               xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
       <url>
+        <loc>https://majordigest.com/world/2023/08/29/3-us-marines-killed-osprey-crash-australia-identified/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-29T11:04:45.000Z</news:publication_date>
+          <news:title>3 US Marines killed in Osprey crash in Australia have been identified</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/world/2023/08/29/3-us-marines-killed-osprey-crash-australia-identified/3-us-marines-killed-osprey-crash-australia-identified.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/world/2023/08/29/chinese-official-agrees-improve-cooperation-us-during-meeting-commerce-secretary-gina-raimondo/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-29T11:03:24.000Z</news:publication_date>
+          <news:title>Chinese official agrees to improve cooperation with US during meeting with Commerce Secretary Gina Raimondo</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/world/2023/08/29/chinese-official-agrees-improve-cooperation-us-during-meeting-commerce-secretary-gina-raimondo/chinese-official-agrees-improve-cooperation-us-during-meeting-commerce-secretary-gina-raimondo.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/world/2023/08/29/north-korea-will-soon-equip-navy-nuclear-weapons-kim-jong-un-warns/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-29T10:51:40.000Z</news:publication_date>
+          <news:title>North Korea will soon equip navy with nuclear weapons, Kim Jong Un warns</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/world/2023/08/29/north-korea-will-soon-equip-navy-nuclear-weapons-kim-jong-un-warns/north-korea-will-soon-equip-navy-nuclear-weapons-kim-jong-un-warns.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
         <loc>https://majordigest.com/world/2023/08/29/neurosurgeon-investigating-patients-mystery-symptoms-plucks-worm-from-womans-brain/</loc>
         <news:news>
           <news:publication>
@@ -14,6 +56,34 @@
         </news:news>
         <image:image>
           <image:loc>https://majordigest.com/world/2023/08/29/neurosurgeon-investigating-patients-mystery-symptoms-plucks-worm-from-womans-brain/neurosurgeon-investigating-patients-mystery-symptoms-plucks-worm-from-womans-brain.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/world/2023/08/29/daughter-of-ex-thai-leader-thaksin-says-he-is-fatigued-as-criticism-grows-of-his-hospitalization/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-29T10:04:24.000Z</news:publication_date>
+          <news:title>Daughter of ex-Thai leader Thaksin says he is fatigued, as criticism grows of his hospitalization</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/world/2023/08/29/daughter-of-ex-thai-leader-thaksin-says-he-is-fatigued-as-criticism-grows-of-his-hospitalization/daughter-of-ex-thai-leader-thaksin-says-he-is-fatigued-as-criticism-grows-of-his-hospitalization.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/world/2023/08/29/conservatives-set-to-battle-over-ukraine-funding/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-29T10:00:00.000Z</news:publication_date>
+          <news:title>House, Senate GOP set for internal fight over Ukraine&#160;</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/world/2023/08/29/conservatives-set-to-battle-over-ukraine-funding/conservatives-set-to-battle-over-ukraine-funding.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -31,17 +101,17 @@
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/world/2023/08/29/conservatives-set-to-battle-over-ukraine-funding/</loc>
+        <loc>https://majordigest.com/world/2023/08/29/kim-calls-for-north-korean-military-to-be-constantly-ready-to-smash-us-led-invasion-plot/</loc>
         <news:news>
           <news:publication>
             <news:name>Major Digest</news:name>
             <news:language>en</news:language>
           </news:publication>
-          <news:publication_date>2023-08-29T10:00:00.000Z</news:publication_date>
-          <news:title>House, Senate GOP set for internal fight over Ukraine&#160;</news:title>
+          <news:publication_date>2023-08-29T09:46:45.000Z</news:publication_date>
+          <news:title>Kim says North Korea must be ready against US-led invasion plots while US, allies start new drills</news:title>
         </news:news>
         <image:image>
-          <image:loc>https://majordigest.com/world/2023/08/29/conservatives-set-to-battle-over-ukraine-funding/conservatives-set-to-battle-over-ukraine-funding.webp</image:loc>
+          <image:loc>https://majordigest.com/world/2023/08/29/kim-calls-for-north-korean-military-to-be-constantly-ready-to-smash-us-led-invasion-plot/kim-calls-for-north-korean-military-to-be-constantly-ready-to-smash-us-led-invasion-plot.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -135,25 +205,11 @@
             <news:name>Major Digest</news:name>
             <news:language>en</news:language>
           </news:publication>
-          <news:publication_date>2023-08-29T06:23:57.000Z</news:publication_date>
+          <news:publication_date>2023-08-29T05:27:05.000Z</news:publication_date>
           <news:title>Syria protests spurred by economic misery stir memories of the 2011 anti-government uprising</news:title>
         </news:news>
         <image:image>
           <image:loc>https://majordigest.com/world/2023/08/29/syria-protests-spurred-by-economic-misery-stir-memories-of-the-2011-anti-government-uprising/syria-protests-spurred-by-economic-misery-stir-memories-of-the-2011-anti-government-uprising.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/world/2023/08/29/guatemalas-electoral-registry-has-suspended-the-party-of-the-presidential-election-winner/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-29T05:02:31.000Z</news:publication_date>
-          <news:title>Guatemala progressive's presidential victory certified, but his party is suspended</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/world/2023/08/29/guatemalas-electoral-registry-has-suspended-the-party-of-the-presidential-election-winner/guatemalas-electoral-registry-has-suspended-the-party-of-the-presidential-election-winner.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -227,73 +283,17 @@
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/world/2023/08/28/colombians-turn-out-droves-protest-50-gasoline-price-hike/</loc>
+        <loc>https://majordigest.com/world/2023/08/28/guatemalas-electoral-registry-has-suspended-the-party-of-the-presidential-election-winner/</loc>
         <news:news>
           <news:publication>
             <news:name>Major Digest</news:name>
             <news:language>en</news:language>
           </news:publication>
-          <news:publication_date>2023-08-28T23:55:21.000Z</news:publication_date>
-          <news:title>Colombians turn out in droves to protest 50% gasoline price hike</news:title>
+          <news:publication_date>2023-08-28T23:43:39.000Z</news:publication_date>
+          <news:title>Guatemala progressive's presidential victory certified, but his party is suspended</news:title>
         </news:news>
         <image:image>
-          <image:loc>https://majordigest.com/world/2023/08/28/colombians-turn-out-droves-protest-50-gasoline-price-hike/colombians-turn-out-droves-protest-50-gasoline-price-hike.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/world/2023/08/28/multi-party-coalition-criticizes-egyptian-government-rare-show-dissent/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-28T23:52:44.000Z</news:publication_date>
-          <news:title>Multi-party coalition criticizes Egyptian government in rare show of dissent</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/world/2023/08/28/multi-party-coalition-criticizes-egyptian-government-rare-show-dissent/multi-party-coalition-criticizes-egyptian-government-rare-show-dissent.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/world/2023/08/28/deadly-militia-attack-congo-leaves-14-dead-amid-ongoing-unrest-east/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-28T22:31:31.000Z</news:publication_date>
-          <news:title>Deadly militia attack in Congo leaves 14 dead amid ongoing unrest in the east</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/world/2023/08/28/deadly-militia-attack-congo-leaves-14-dead-amid-ongoing-unrest-east/deadly-militia-attack-congo-leaves-14-dead-amid-ongoing-unrest-east.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/world/2023/08/28/deadly-militia-attack-congo-leaves-14-dead-amid-ongoing-unrest-east/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-28T22:31:31.000Z</news:publication_date>
-          <news:title>Deadly militia attack in Congo leaves 14 dead amid ongoing unrest in the east</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/world/2023/08/28/deadly-militia-attack-congo-leaves-14-dead-amid-ongoing-unrest-east/deadly-militia-attack-congo-leaves-14-dead-amid-ongoing-unrest-east.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/world/2023/08/28/white-house-increasingly-confident-wagner-leader-prigozhin-died-plane-crash/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-28T21:26:26.000Z</news:publication_date>
-          <news:title>White House &#8216;increasingly confident&#8217; Wagner leader Prigozhin died in plane crash</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/world/2023/08/28/white-house-increasingly-confident-wagner-leader-prigozhin-died-plane-crash/white-house-increasingly-confident-wagner-leader-prigozhin-died-plane-crash.webp</image:loc>
+          <image:loc>https://majordigest.com/world/2023/08/28/guatemalas-electoral-registry-has-suspended-the-party-of-the-presidential-election-winner/guatemalas-electoral-registry-has-suspended-the-party-of-the-presidential-election-winner.webp</image:loc>
         </image:image>
       </url>
       <url>

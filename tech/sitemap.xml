@@ -3,6 +3,20 @@
               xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
               xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
       <url>
+        <loc>https://majordigest.com/tech/2023/08/29/un-warns-hundreds-of-thousands-in-southeast-asia-roped-into-online-scams/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-29T10:43:53.000Z</news:publication_date>
+          <news:title>UN warns hundreds of thousands in Southeast Asia roped into online scams</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/tech/2023/08/29/un-warns-hundreds-of-thousands-in-southeast-asia-roped-into-online-scams/un-warns-hundreds-of-thousands-in-southeast-asia-roped-into-online-scams.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
         <loc>https://majordigest.com/tech/2023/08/29/amazon-is-raising-free-shipping-minimums-for-some-customers-who-dont-have-prime-memberships/</loc>
         <news:news>
           <news:publication>
@@ -28,6 +42,20 @@
         </news:news>
         <image:image>
           <image:loc>https://majordigest.com/tech/2023/08/28/car-cheaper-electric-gas/car-cheaper-electric-gas.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/tech/2023/08/28/musk-tech-ceos-to-attend-schumers-ai-senate-forum/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-28T21:37:48.000Z</news:publication_date>
+          <news:title>Musk, tech CEOs to attend Schumer's AI Senate forum</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/tech/2023/08/28/musk-tech-ceos-to-attend-schumers-ai-senate-forum/musk-tech-ceos-to-attend-schumers-ai-senate-forum.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -84,6 +112,20 @@
         </news:news>
         <image:image>
           <image:loc>https://majordigest.com/tech/2023/08/28/how-to-use-google-results-about-you-privacy-remove-personal-data/how-to-use-google-results-about-you-privacy-remove-personal-data.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/tech/2023/08/28/how-paypal-is-using-ai-to-combat-fraud-and-make-it-easier-to-pay/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-28T11:42:35.000Z</news:publication_date>
+          <news:title>How PayPal is using AI to combat fraud, and make it easier to pay</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/tech/2023/08/28/how-paypal-is-using-ai-to-combat-fraud-and-make-it-easier-to-pay/how-paypal-is-using-ai-to-combat-fraud-and-make-it-easier-to-pay.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -157,20 +199,6 @@
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/tech/2023/08/26/bay-area-software-ceo-pleads-guilty-to-tax-pandemic-relief-fraud/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-26T20:32:15.000Z</news:publication_date>
-          <news:title>Bay Area software CEO pleads guilty to tax, pandemic relief fraud</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/tech/2023/08/26/bay-area-software-ceo-pleads-guilty-to-tax-pandemic-relief-fraud/bay-area-software-ceo-pleads-guilty-to-tax-pandemic-relief-fraud.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
         <loc>https://majordigest.com/tech/2023/08/26/zooms-reversal-backlash-over-ai-fiasco/</loc>
         <news:news>
           <news:publication>
@@ -182,20 +210,6 @@
         </news:news>
         <image:image>
           <image:loc>https://majordigest.com/tech/2023/08/26/zooms-reversal-backlash-over-ai-fiasco/zooms-reversal-backlash-over-ai-fiasco.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/tech/2023/08/26/much-of-florida-under-state-of-emergency-as-possible-tropical-storm-forms-in-gulf-of-mexico/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-26T17:07:22.000Z</news:publication_date>
-          <news:title>Much of Florida under state of emergency as possible tropical storm forms in Gulf of Mexico</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/tech/2023/08/26/much-of-florida-under-state-of-emergency-as-possible-tropical-storm-forms-in-gulf-of-mexico/much-of-florida-under-state-of-emergency-as-possible-tropical-storm-forms-in-gulf-of-mexico.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -504,19 +518,5 @@
         </news:news>
         <image:image>
           <image:loc>https://majordigest.com/tech/2023/08/22/how-to-set-up-earthquake-alerts-on-your-phone/how-to-set-up-earthquake-alerts-on-your-phone.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/tech/2023/08/22/iran-unveils-armed-drone-resembling-americas-mq-9-reaper-and-says-it-could-potentially-reach-israel/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-22T10:53:22.000Z</news:publication_date>
-          <news:title>Iran unveils armed drone resembling America's MQ-9 Reaper and says it could potentially reach Israel</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/tech/2023/08/22/iran-unveils-armed-drone-resembling-americas-mq-9-reaper-and-says-it-could-potentially-reach-israel/iran-unveils-armed-drone-resembling-americas-mq-9-reaper-and-says-it-could-potentially-reach-israel.webp</image:loc>
         </image:image>
       </url></urlset>

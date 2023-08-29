@@ -3,6 +3,34 @@
               xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
               xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
       <url>
+        <loc>https://majordigest.com/politics/2023/08/29/watchdog-group-calls-biden-nih-nominee-medical-malpractice-suits/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-29T11:00:32.000Z</news:publication_date>
+          <news:title>Watchdog group calls out Biden NIH nominee over medical malpractice suits: 'Arrogant surgeon'</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/politics/2023/08/29/watchdog-group-calls-biden-nih-nominee-medical-malpractice-suits/watchdog-group-calls-biden-nih-nominee-medical-malpractice-suits.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/politics/2023/08/29/dems-who-blamed-hawaii-fires-climate-change-largely-silent-county-power-line-responsible/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-29T11:00:13.000Z</news:publication_date>
+          <news:title>Dems who blamed Hawaii fires on climate change largely silent after county says power line responsible</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/politics/2023/08/29/dems-who-blamed-hawaii-fires-climate-change-largely-silent-county-power-line-responsible/dems-who-blamed-hawaii-fires-climate-change-largely-silent-county-power-line-responsible.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
         <loc>https://majordigest.com/politics/2023/08/29/operation-deep-sea-how-nate-paul-pulled-the-strings-in-the-attorney-generals-office-to-investigate-his-enemies/</loc>
         <news:news>
           <news:publication>
@@ -17,17 +45,45 @@
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/politics/2023/08/29/small-minnesota-town-has-big-climate-goals/</loc>
+        <loc>https://majordigest.com/politics/2023/08/29/texas-applies-to-import-lower-priced-canadian-medications/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-29T10:00:00.000Z</news:publication_date>
+          <news:title>Texas applies to import lower-priced Canadian medications</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/politics/2023/08/29/texas-applies-to-import-lower-priced-canadian-medications/texas-applies-to-import-lower-priced-canadian-medications.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/politics/2023/08/29/texas-national-guard-disbanded-intelligence-wing-after-members-used-whatsapp-to-spy-on-migrants/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-29T10:00:00.000Z</news:publication_date>
+          <news:title>Texas National Guard disbanded intelligence wing after members used WhatsApp to spy on migrants</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/politics/2023/08/29/texas-national-guard-disbanded-intelligence-wing-after-members-used-whatsapp-to-spy-on-migrants/texas-national-guard-disbanded-intelligence-wing-after-members-used-whatsapp-to-spy-on-migrants.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/politics/2023/08/29/morris-is-a-small-minnesota-town-with-big-climate-goals/</loc>
         <news:news>
           <news:publication>
             <news:name>Major Digest</news:name>
             <news:language>en</news:language>
           </news:publication>
           <news:publication_date>2023-08-29T09:00:00.000Z</news:publication_date>
-          <news:title>Small Minnesota town has big climate goals</news:title>
+          <news:title>Morris is a small Minnesota town with big climate goals</news:title>
         </news:news>
         <image:image>
-          <image:loc>https://majordigest.com/politics/2023/08/29/small-minnesota-town-has-big-climate-goals/small-minnesota-town-has-big-climate-goals.webp</image:loc>
+          <image:loc>https://majordigest.com/politics/2023/08/29/morris-is-a-small-minnesota-town-with-big-climate-goals/morris-is-a-small-minnesota-town-with-big-climate-goals.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -45,31 +101,17 @@
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/politics/2023/08/29/recruiting-is-underway-for-trump-like-wrecking-ball-to-shrink-government-and-fire-federal-workers/</loc>
+        <loc>https://majordigest.com/politics/2023/08/29/biden-administration-to-target-drugs-for-price-negotiations-to-lower-medicare-costs/</loc>
         <news:news>
           <news:publication>
             <news:name>Major Digest</news:name>
             <news:language>en</news:language>
           </news:publication>
-          <news:publication_date>2023-08-29T04:03:02.000Z</news:publication_date>
-          <news:title>Recruiting is underway for Trump-like 'wrecking ball' to shrink government and fire federal workers</news:title>
+          <news:publication_date>2023-08-29T04:04:51.000Z</news:publication_date>
+          <news:title>Biden administration to target drugs for price negotiations to lower Medicare costs</news:title>
         </news:news>
         <image:image>
-          <image:loc>https://majordigest.com/politics/2023/08/29/recruiting-is-underway-for-trump-like-wrecking-ball-to-shrink-government-and-fire-federal-workers/recruiting-is-underway-for-trump-like-wrecking-ball-to-shrink-government-and-fire-federal-workers.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/politics/2023/08/29/florida-gov-ron-desantis-faces-black-leaders-anger-after-racist-killings-in-jacksonville/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-29T04:01:29.000Z</news:publication_date>
-          <news:title>Florida Gov. Ron DeSantis faces Black leaders' anger after racist killings in Jacksonville</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/politics/2023/08/29/florida-gov-ron-desantis-faces-black-leaders-anger-after-racist-killings-in-jacksonville/florida-gov-ron-desantis-faces-black-leaders-anger-after-racist-killings-in-jacksonville.webp</image:loc>
+          <image:loc>https://majordigest.com/politics/2023/08/29/biden-administration-to-target-drugs-for-price-negotiations-to-lower-medicare-costs/biden-administration-to-target-drugs-for-price-negotiations-to-lower-medicare-costs.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -87,34 +129,6 @@
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/politics/2023/08/29/ap-election-brief-what-to-expect-in-mississippis-runoff-primaries/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-29T03:07:50.000Z</news:publication_date>
-          <news:title>AP Election Brief | What to expect in Mississippi's runoff primaries</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/politics/2023/08/29/ap-election-brief-what-to-expect-in-mississippis-runoff-primaries/ap-election-brief-what-to-expect-in-mississippis-runoff-primaries.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/politics/2023/08/29/california-state-senate-leader-says-she-will-step-down-from-leadership-post/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-29T02:23:18.000Z</news:publication_date>
-          <news:title>California state Senate leader says she will step down from leadership post</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/politics/2023/08/29/california-state-senate-leader-says-she-will-step-down-from-leadership-post/california-state-senate-leader-says-she-will-step-down-from-leadership-post.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
         <loc>https://majordigest.com/politics/2023/08/29/chris-christie-2024-election-post-debate-trump-ramaswamy/</loc>
         <news:news>
           <news:publication>
@@ -126,34 +140,6 @@
         </news:news>
         <image:image>
           <image:loc>https://majordigest.com/politics/2023/08/29/chris-christie-2024-election-post-debate-trump-ramaswamy/chris-christie-2024-election-post-debate-trump-ramaswamy.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/politics/2023/08/29/wisconsin-supreme-court-chief-justice-accuses-liberal-majority-of-staging-a-coup/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-29T01:38:37.000Z</news:publication_date>
-          <news:title>Wisconsin Supreme Court chief justice accuses liberal majority of staging &#8216;coup&#8217;</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/politics/2023/08/29/wisconsin-supreme-court-chief-justice-accuses-liberal-majority-of-staging-a-coup/wisconsin-supreme-court-chief-justice-accuses-liberal-majority-of-staging-a-coup.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/politics/2023/08/29/justin-jones-silenced-tennessee/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-29T00:44:20.000Z</news:publication_date>
-          <news:title>GOP silences &#8216;Tennessee 3&#8217; Democrat on House floor</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/politics/2023/08/29/justin-jones-silenced-tennessee/justin-jones-silenced-tennessee.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -185,6 +171,20 @@
         </image:image>
       </url>
       <url>
+        <loc>https://majordigest.com/politics/2023/08/28/biden-and-harris-will-meet-with-kings-family-on-60th-anniversary-of-the-march-on-washington/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-28T23:17:27.000Z</news:publication_date>
+          <news:title>Biden says action needed against 'hate-fueled violence' after racist shooting in Florida</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/politics/2023/08/28/biden-and-harris-will-meet-with-kings-family-on-60th-anniversary-of-the-march-on-washington/biden-and-harris-will-meet-with-kings-family-on-60th-anniversary-of-the-march-on-washington.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
         <loc>https://majordigest.com/politics/2023/08/28/house-republican-aims-to-defund-trump-prosecutions-until-2024-election/</loc>
         <news:news>
           <news:publication>
@@ -199,31 +199,31 @@
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/politics/2023/08/28/what-to-know-medicare-drug-price-negotiations/</loc>
+        <loc>https://majordigest.com/politics/2023/08/28/npr-tuberville-pentagon-senate-hold-abortion/</loc>
         <news:news>
           <news:publication>
             <news:name>Major Digest</news:name>
             <news:language>en</news:language>
           </news:publication>
-          <news:publication_date>2023-08-28T22:25:32.000Z</news:publication_date>
-          <news:title>Will drug price negotiations work? Here&#8217;s what you need to know.</news:title>
+          <news:publication_date>2023-08-28T21:21:00.000Z</news:publication_date>
+          <news:title>With hold on confirmations, Pentagon says fate of hundreds of officers in limbo</news:title>
         </news:news>
         <image:image>
-          <image:loc>https://majordigest.com/politics/2023/08/28/what-to-know-medicare-drug-price-negotiations/what-to-know-medicare-drug-price-negotiations.webp</image:loc>
+          <image:loc>https://majordigest.com/politics/2023/08/28/npr-tuberville-pentagon-senate-hold-abortion/npr-tuberville-pentagon-senate-hold-abortion.webp</image:loc>
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/politics/2023/08/28/biden-admin-hit-legal-challenge-green-lighting-massive-plan-take-ag-lands-out-production/</loc>
+        <loc>https://majordigest.com/politics/2023/08/28/pentagon-docs-questions-kabul-airport-bombing/</loc>
         <news:news>
           <news:publication>
             <news:name>Major Digest</news:name>
             <news:language>en</news:language>
           </news:publication>
-          <news:publication_date>2023-08-28T22:19:29.000Z</news:publication_date>
-          <news:title>Biden admin hit with legal challenge for green-lighting massive plan to take ag lands out of production</news:title>
+          <news:publication_date>2023-08-28T21:18:10.000Z</news:publication_date>
+          <news:title>Pentagon docs raise questions about Kabul airport bombing</news:title>
         </news:news>
         <image:image>
-          <image:loc>https://majordigest.com/politics/2023/08/28/biden-admin-hit-legal-challenge-green-lighting-massive-plan-take-ag-lands-out-production/biden-admin-hit-legal-challenge-green-lighting-massive-plan-take-ag-lands-out-production.webp</image:loc>
+          <image:loc>https://majordigest.com/politics/2023/08/28/pentagon-docs-questions-kabul-airport-bombing/pentagon-docs-questions-kabul-airport-bombing.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -283,6 +283,34 @@
         </image:image>
       </url>
       <url>
+        <loc>https://majordigest.com/politics/2023/08/28/ramaswamy-unveils-foreign-policy-platform-we-will-be-uncle-sucker-no-more/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-28T20:00:50.000Z</news:publication_date>
+          <news:title>Ramaswamy unveils foreign policy platform: 'We will be Uncle Sucker no more'</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/politics/2023/08/28/ramaswamy-unveils-foreign-policy-platform-we-will-be-uncle-sucker-no-more/ramaswamy-unveils-foreign-policy-platform-we-will-be-uncle-sucker-no-more.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/politics/2023/08/28/npr-vivek-ramaswamy-republican-primary-trump/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-28T19:25:00.000Z</news:publication_date>
+          <news:title>Vivek Ramaswamy picked up steam at the GOP debate. How far could he go?</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/politics/2023/08/28/npr-vivek-ramaswamy-republican-primary-trump/npr-vivek-ramaswamy-republican-primary-trump.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
         <loc>https://majordigest.com/politics/2023/08/28/12-8-million-documents-of-discovery-shared-in-trump-jan-6-case-prosecutors-say/</loc>
         <news:news>
           <news:publication>
@@ -297,31 +325,17 @@
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/politics/2023/08/28/biden-approves-emergency-declaration-for-florida-ahead-of-t-s-idalia/</loc>
+        <loc>https://majordigest.com/politics/2023/08/28/judge-sets-march-4-2024-as-trump-trial-date-in-election-interference-case/</loc>
         <news:news>
           <news:publication>
             <news:name>Major Digest</news:name>
             <news:language>en</news:language>
           </news:publication>
-          <news:publication_date>2023-08-28T16:30:03.000Z</news:publication_date>
-          <news:title>Biden approves Emergency Declaration for Florida ahead of T.S. Idalia</news:title>
+          <news:publication_date>2023-08-28T16:57:00.000Z</news:publication_date>
+          <news:title>Judge sets March 4, 2024 as Trump trial date in election interference case</news:title>
         </news:news>
         <image:image>
-          <image:loc>https://majordigest.com/politics/2023/08/28/biden-approves-emergency-declaration-for-florida-ahead-of-t-s-idalia/biden-approves-emergency-declaration-for-florida-ahead-of-t-s-idalia.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/politics/2023/08/27/npr-minnesota-felon-voting-rights-restoration/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-27T09:00:00.000Z</news:publication_date>
-          <news:title>Minnesota returns voting power to thousands. The question is whether they'll use it</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/politics/2023/08/27/npr-minnesota-felon-voting-rights-restoration/npr-minnesota-felon-voting-rights-restoration.webp</image:loc>
+          <image:loc>https://majordigest.com/politics/2023/08/28/judge-sets-march-4-2024-as-trump-trial-date-in-election-interference-case/judge-sets-march-4-2024-as-trump-trial-date-in-election-interference-case.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -336,34 +350,6 @@
         </news:news>
         <image:image>
           <image:loc>https://majordigest.com/politics/2023/08/26/gop-presidential-candidate-vivek-ramaswamy-is-an-unaffiliated-voter-nbc-reports/gop-presidential-candidate-vivek-ramaswamy-is-an-unaffiliated-voter-nbc-reports.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/politics/2023/08/26/wild-horses-that-roam-theodore-roosevelt-national-park-may-be-removed-many-oppose-the-plan/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-26T15:01:48.000Z</news:publication_date>
-          <news:title>Wild horses that roam Theodore Roosevelt National Park may be removed. Many oppose the plan</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/politics/2023/08/26/wild-horses-that-roam-theodore-roosevelt-national-park-may-be-removed-many-oppose-the-plan/wild-horses-that-roam-theodore-roosevelt-national-park-may-be-removed-many-oppose-the-plan.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/politics/2023/08/26/npr-china-us-trade-tensions-commerce-secretary-gina-raimondo/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-26T13:48:00.000Z</news:publication_date>
-          <news:title>How high tensions between China and the U.S. are impacting American companies</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/politics/2023/08/26/npr-china-us-trade-tensions-commerce-secretary-gina-raimondo/npr-china-us-trade-tensions-commerce-secretary-gina-raimondo.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -392,6 +378,20 @@
         </news:news>
         <image:image>
           <image:loc>https://majordigest.com/politics/2023/08/25/carlos-santana-issues-apology-for-anti-trans-remarks-on-stage/carlos-santana-issues-apology-for-anti-trans-remarks-on-stage.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/politics/2023/08/25/trump-recounts-terrible-experience-of-being-booked-in-georgia/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-25T12:58:40.000Z</news:publication_date>
+          <news:title>Trump recounts 'terrible experience' of being booked in Georgia</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/politics/2023/08/25/trump-recounts-terrible-experience-of-being-booked-in-georgia/trump-recounts-terrible-experience-of-being-booked-in-georgia.webp</image:loc>
         </image:image>
       </url>
       <url>
