@@ -3,6 +3,20 @@
               xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
               xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
       <url>
+        <loc>https://majordigest.com/tech/2023/08/29/amazon-ceo-says-its-probably-not-going-work-out-for-employees-who-defy-return-to-office-policy/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-29T18:47:05.000Z</news:publication_date>
+          <news:title>Amazon CEO says 'it&#8217;s probably not going work out' for employees who defy return-to-office policy</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/tech/2023/08/29/amazon-ceo-says-its-probably-not-going-work-out-for-employees-who-defy-return-to-office-policy/amazon-ceo-says-its-probably-not-going-work-out-for-employees-who-defy-return-to-office-policy.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
         <loc>https://majordigest.com/tech/2023/08/29/x-to-allow-political-ads-for-the-first-time-since-2019/</loc>
         <news:news>
           <news:publication>
@@ -14,6 +28,20 @@
         </news:news>
         <image:image>
           <image:loc>https://majordigest.com/tech/2023/08/29/x-to-allow-political-ads-for-the-first-time-since-2019/x-to-allow-political-ads-for-the-first-time-since-2019.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/tech/2023/08/29/apple-expected-to-unveil-new-iphone-at-wonderlust-special-event-at-cupertino-headquarters/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-29T17:50:52.000Z</news:publication_date>
+          <news:title>Apple expected to unveil new iPhone at &#8216;Wonderlust.&#8217; special event at Cupertino headquarters</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/tech/2023/08/29/apple-expected-to-unveil-new-iphone-at-wonderlust-special-event-at-cupertino-headquarters/apple-expected-to-unveil-new-iphone-at-wonderlust-special-event-at-cupertino-headquarters.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -56,20 +84,6 @@
         </news:news>
         <image:image>
           <image:loc>https://majordigest.com/tech/2023/08/29/meta-disrupts-covert-influence-operations-facebook-instagram/meta-disrupts-covert-influence-operations-facebook-instagram.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/tech/2023/08/29/meta-says-it-disrupted-largest-known-cross-platform-china-linked-disinformation-campaign/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-29T15:31:54.000Z</news:publication_date>
-          <news:title>Meta says it disrupted 'largest known cross-platform' China-linked disinformation campaign</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/tech/2023/08/29/meta-says-it-disrupted-largest-known-cross-platform-china-linked-disinformation-campaign/meta-says-it-disrupted-largest-known-cross-platform-china-linked-disinformation-campaign.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -154,6 +168,34 @@
         </news:news>
         <image:image>
           <image:loc>https://majordigest.com/tech/2023/08/29/un-warns-hundreds-of-thousands-in-southeast-asia-roped-into-online-scams/un-warns-hundreds-of-thousands-in-southeast-asia-roped-into-online-scams.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/tech/2023/08/29/un-warns-hundreds-of-thousands-in-southeast-asia-roped-into-online-scams/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-29T10:43:53.000Z</news:publication_date>
+          <news:title>UN warns hundreds of thousands in Southeast Asia roped into online scams</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/tech/2023/08/29/un-warns-hundreds-of-thousands-in-southeast-asia-roped-into-online-scams/un-warns-hundreds-of-thousands-in-southeast-asia-roped-into-online-scams.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/tech/2023/08/29/native-nations-on-front-lines-of-climate-change-share-knowledge-and-find-support-at-intensive-camps/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-29T05:16:19.000Z</news:publication_date>
+          <news:title>Native nations on front lines of climate change share knowledge and find support at intensive camps</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/tech/2023/08/29/native-nations-on-front-lines-of-climate-change-share-knowledge-and-find-support-at-intensive-camps/native-nations-on-front-lines-of-climate-change-share-knowledge-and-find-support-at-intensive-camps.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -283,20 +325,6 @@
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/tech/2023/08/27/takeaways-from-aps-investigation-into-sexual-harassment-and-assault-at-antarcticas-mcmurdo-station/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-27T04:08:17.000Z</news:publication_date>
-          <news:title>Takeaways from AP's investigation into sexual harassment and assault at Antarctica's McMurdo Station</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/tech/2023/08/27/takeaways-from-aps-investigation-into-sexual-harassment-and-assault-at-antarcticas-mcmurdo-station/takeaways-from-aps-investigation-into-sexual-harassment-and-assault-at-antarcticas-mcmurdo-station.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
         <loc>https://majordigest.com/tech/2023/08/27/women-working-in-antarctica-say-they-were-left-to-fend-for-themselves-against-sexual-harassers/</loc>
         <news:news>
           <news:publication>
@@ -378,34 +406,6 @@
         </news:news>
         <image:image>
           <image:loc>https://majordigest.com/tech/2023/08/25/los-angeles-solar-ev-chargers-ev-arc-beam-global/los-angeles-solar-ev-chargers-ev-arc-beam-global.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/tech/2023/08/25/trump-returns-to-twitter-under-its-new-moniker-x/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-25T02:13:08.000Z</news:publication_date>
-          <news:title>Trump returns to Twitter, under its new moniker X</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/tech/2023/08/25/trump-returns-to-twitter-under-its-new-moniker-x/trump-returns-to-twitter-under-its-new-moniker-x.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/tech/2023/08/25/workers-win-raises-at-general-motors-joint-venture-battery-plant-in-ohio-as-contract-talks-continue/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-25T00:12:09.000Z</news:publication_date>
-          <news:title>Workers win raises at General Motors joint venture battery plant in Ohio as contract talks continue</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/tech/2023/08/25/workers-win-raises-at-general-motors-joint-venture-battery-plant-in-ohio-as-contract-talks-continue/workers-win-raises-at-general-motors-joint-venture-battery-plant-in-ohio-as-contract-talks-continue.webp</image:loc>
         </image:image>
       </url>
       <url>
