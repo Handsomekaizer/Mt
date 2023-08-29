@@ -3,45 +3,101 @@
               xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
               xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
       <url>
-        <loc>https://majordigest.com/world/2023/08/29/3-us-marines-killed-osprey-crash-australia-identified/</loc>
+        <loc>https://majordigest.com/world/2023/08/29/china-russia-behind-largest-cross-platform-misinformation-operation-meta-report-finds/</loc>
         <news:news>
           <news:publication>
             <news:name>Major Digest</news:name>
             <news:language>en</news:language>
           </news:publication>
-          <news:publication_date>2023-08-29T11:04:45.000Z</news:publication_date>
-          <news:title>3 US Marines killed in Osprey crash in Australia have been identified</news:title>
+          <news:publication_date>2023-08-29T12:16:22.000Z</news:publication_date>
+          <news:title>China, Russia behind largest cross-platform misinformation operation, Meta report finds</news:title>
         </news:news>
         <image:image>
-          <image:loc>https://majordigest.com/world/2023/08/29/3-us-marines-killed-osprey-crash-australia-identified/3-us-marines-killed-osprey-crash-australia-identified.webp</image:loc>
+          <image:loc>https://majordigest.com/world/2023/08/29/china-russia-behind-largest-cross-platform-misinformation-operation-meta-report-finds/china-russia-behind-largest-cross-platform-misinformation-operation-meta-report-finds.webp</image:loc>
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/world/2023/08/29/chinese-official-agrees-improve-cooperation-us-during-meeting-commerce-secretary-gina-raimondo/</loc>
+        <loc>https://majordigest.com/world/2023/08/29/mexico-sends-thousand-more-troops-michoacan-state-following-weekend-cartel-violence/</loc>
         <news:news>
           <news:publication>
             <news:name>Major Digest</news:name>
             <news:language>en</news:language>
           </news:publication>
-          <news:publication_date>2023-08-29T11:03:24.000Z</news:publication_date>
-          <news:title>Chinese official agrees to improve cooperation with US during meeting with Commerce Secretary Gina Raimondo</news:title>
+          <news:publication_date>2023-08-29T12:15:54.000Z</news:publication_date>
+          <news:title>Mexico sends a thousand more troops to Michoacan state following weekend of cartel violence</news:title>
         </news:news>
         <image:image>
-          <image:loc>https://majordigest.com/world/2023/08/29/chinese-official-agrees-improve-cooperation-us-during-meeting-commerce-secretary-gina-raimondo/chinese-official-agrees-improve-cooperation-us-during-meeting-commerce-secretary-gina-raimondo.webp</image:loc>
+          <image:loc>https://majordigest.com/world/2023/08/29/mexico-sends-thousand-more-troops-michoacan-state-following-weekend-cartel-violence/mexico-sends-thousand-more-troops-michoacan-state-following-weekend-cartel-violence.webp</image:loc>
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/world/2023/08/29/north-korea-will-soon-equip-navy-nuclear-weapons-kim-jong-un-warns/</loc>
+        <loc>https://majordigest.com/world/2023/08/29/7-1-magnitude-earthquake-strikes-indonesias-bali-java-islands-causing-panic-across-country/</loc>
         <news:news>
           <news:publication>
             <news:name>Major Digest</news:name>
             <news:language>en</news:language>
           </news:publication>
-          <news:publication_date>2023-08-29T10:51:40.000Z</news:publication_date>
-          <news:title>North Korea will soon equip navy with nuclear weapons, Kim Jong Un warns</news:title>
+          <news:publication_date>2023-08-29T12:11:13.000Z</news:publication_date>
+          <news:title>7.1 magnitude earthquake strikes Indonesia&#8217;s Bali and Java islands, causing panic across the country</news:title>
         </news:news>
         <image:image>
-          <image:loc>https://majordigest.com/world/2023/08/29/north-korea-will-soon-equip-navy-nuclear-weapons-kim-jong-un-warns/north-korea-will-soon-equip-navy-nuclear-weapons-kim-jong-un-warns.webp</image:loc>
+          <image:loc>https://majordigest.com/world/2023/08/29/7-1-magnitude-earthquake-strikes-indonesias-bali-java-islands-causing-panic-across-country/7-1-magnitude-earthquake-strikes-indonesias-bali-java-islands-causing-panic-across-country.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/world/2023/08/29/nigerian-troops-rescue-women-children-abducted-islamic-rebels/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-29T12:10:44.000Z</news:publication_date>
+          <news:title>Nigerian troops rescue women, children abducted by Islamic rebels</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/world/2023/08/29/nigerian-troops-rescue-women-children-abducted-islamic-rebels/nigerian-troops-rescue-women-children-abducted-islamic-rebels.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/world/2023/08/29/guatemalas-presidential-election-takes-drastic-turn-unexpected-winner-certified-prompting-legal-fights/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-29T12:06:38.000Z</news:publication_date>
+          <news:title>Guatemala's presidential election takes drastic turn as unexpected winner is certified, prompting legal fights</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/world/2023/08/29/guatemalas-presidential-election-takes-drastic-turn-unexpected-winner-certified-prompting-legal-fights/guatemalas-presidential-election-takes-drastic-turn-unexpected-winner-certified-prompting-legal-fights.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/world/2023/08/29/guatemalas-presidential-election-takes-drastic-turn-unexpected-winner-certified-prompting-legal-fights/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-29T12:06:38.000Z</news:publication_date>
+          <news:title>Guatemala's presidential election takes drastic turn as unexpected winner is certified, prompting legal fights</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/world/2023/08/29/guatemalas-presidential-election-takes-drastic-turn-unexpected-winner-certified-prompting-legal-fights/guatemalas-presidential-election-takes-drastic-turn-unexpected-winner-certified-prompting-legal-fights.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/world/2023/08/29/the-kremlin-says-putin-is-not-planning-to-attend-wagner-chief-prigozhins-burial/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-29T11:28:53.000Z</news:publication_date>
+          <news:title>Putin is not planning to attend the funeral for Wagner chief Prigozhin, the Kremlin says</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/world/2023/08/29/the-kremlin-says-putin-is-not-planning-to-attend-wagner-chief-prigozhins-burial/the-kremlin-says-putin-is-not-planning-to-attend-wagner-chief-prigozhins-burial.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -73,20 +129,6 @@
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/world/2023/08/29/conservatives-set-to-battle-over-ukraine-funding/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-29T10:00:00.000Z</news:publication_date>
-          <news:title>House, Senate GOP set for internal fight over Ukraine&#160;</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/world/2023/08/29/conservatives-set-to-battle-over-ukraine-funding/conservatives-set-to-battle-over-ukraine-funding.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
         <loc>https://majordigest.com/world/2023/08/29/belarus-fears-risk-of-trapping-citizens-with-the-beast-opposition-leader/</loc>
         <news:news>
           <news:publication>
@@ -98,6 +140,20 @@
         </news:news>
         <image:image>
           <image:loc>https://majordigest.com/world/2023/08/29/belarus-fears-risk-of-trapping-citizens-with-the-beast-opposition-leader/belarus-fears-risk-of-trapping-citizens-with-the-beast-opposition-leader.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/world/2023/08/29/conservatives-set-to-battle-over-ukraine-funding/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-29T10:00:00.000Z</news:publication_date>
+          <news:title>House, Senate GOP set for internal fight over Ukraine&#160;</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/world/2023/08/29/conservatives-set-to-battle-over-ukraine-funding/conservatives-set-to-battle-over-ukraine-funding.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -115,31 +171,31 @@
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/world/2023/08/29/the-kremlin-says-putin-is-not-planning-to-attend-wagner-chief-prigozhins-burial/</loc>
+        <loc>https://majordigest.com/world/2023/08/29/kim-calls-for-north-korean-military-to-be-constantly-ready-to-smash-us-led-invasion-plot/</loc>
         <news:news>
           <news:publication>
             <news:name>Major Digest</news:name>
             <news:language>en</news:language>
           </news:publication>
-          <news:publication_date>2023-08-29T09:46:35.000Z</news:publication_date>
-          <news:title>The Kremlin says Putin is not planning to attend Wagner chief Prigozhin's burial</news:title>
+          <news:publication_date>2023-08-29T09:46:45.000Z</news:publication_date>
+          <news:title>Kim says North Korea must be ready against US-led invasion plots while US, allies start new drills</news:title>
         </news:news>
         <image:image>
-          <image:loc>https://majordigest.com/world/2023/08/29/the-kremlin-says-putin-is-not-planning-to-attend-wagner-chief-prigozhins-burial/the-kremlin-says-putin-is-not-planning-to-attend-wagner-chief-prigozhins-burial.webp</image:loc>
+          <image:loc>https://majordigest.com/world/2023/08/29/kim-calls-for-north-korean-military-to-be-constantly-ready-to-smash-us-led-invasion-plot/kim-calls-for-north-korean-military-to-be-constantly-ready-to-smash-us-led-invasion-plot.webp</image:loc>
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/world/2023/08/29/neurosurgeon-investigating-patients-mystery-symptoms-plucks-a-worm-from-womans-brain-in-australia/</loc>
+        <loc>https://majordigest.com/world/2023/08/29/sudans-military-leader-travels-to-egypt-in-his-first-trip-abroad-since-the-war/</loc>
         <news:news>
           <news:publication>
             <news:name>Major Digest</news:name>
             <news:language>en</news:language>
           </news:publication>
-          <news:publication_date>2023-08-29T09:42:51.000Z</news:publication_date>
-          <news:title>Neurosurgeon investigating patient's mystery symptoms plucks a worm from woman's brain in Australia</news:title>
+          <news:publication_date>2023-08-29T09:01:59.000Z</news:publication_date>
+          <news:title>Sudan&#8217;s military leader visits Egypt on his first trip abroad since the country plunged into war</news:title>
         </news:news>
         <image:image>
-          <image:loc>https://majordigest.com/world/2023/08/29/neurosurgeon-investigating-patients-mystery-symptoms-plucks-a-worm-from-womans-brain-in-australia/neurosurgeon-investigating-patients-mystery-symptoms-plucks-a-worm-from-womans-brain-in-australia.webp</image:loc>
+          <image:loc>https://majordigest.com/world/2023/08/29/sudans-military-leader-travels-to-egypt-in-his-first-trip-abroad-since-the-war/sudans-military-leader-travels-to-egypt-in-his-first-trip-abroad-since-the-war.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -171,17 +227,17 @@
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/world/2023/08/29/2-years-us-withdrawal-afghanistan-resistance-group-yearns-western-help-take-on-taliban/</loc>
+        <loc>https://majordigest.com/world/2023/08/29/londons-plan-to-charge-drivers-of-polluting-cars-sparks-protests-and-stirs-political-passions/</loc>
         <news:news>
           <news:publication>
             <news:name>Major Digest</news:name>
             <news:language>en</news:language>
           </news:publication>
-          <news:publication_date>2023-08-29T08:00:27.000Z</news:publication_date>
-          <news:title>2 years after US withdrawal Afghanistan resistance group yearns for Western help as they take on Taliban</news:title>
+          <news:publication_date>2023-08-29T07:00:57.000Z</news:publication_date>
+          <news:title>London&#8217;s plan to charge drivers of polluting cars sparks protests and stirs political passions</news:title>
         </news:news>
         <image:image>
-          <image:loc>https://majordigest.com/world/2023/08/29/2-years-us-withdrawal-afghanistan-resistance-group-yearns-western-help-take-on-taliban/2-years-us-withdrawal-afghanistan-resistance-group-yearns-western-help-take-on-taliban.webp</image:loc>
+          <image:loc>https://majordigest.com/world/2023/08/29/londons-plan-to-charge-drivers-of-polluting-cars-sparks-protests-and-stirs-political-passions/londons-plan-to-charge-drivers-of-polluting-cars-sparks-protests-and-stirs-political-passions.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -205,39 +261,11 @@
             <news:name>Major Digest</news:name>
             <news:language>en</news:language>
           </news:publication>
-          <news:publication_date>2023-08-29T05:27:05.000Z</news:publication_date>
+          <news:publication_date>2023-08-29T06:23:57.000Z</news:publication_date>
           <news:title>Syria protests spurred by economic misery stir memories of the 2011 anti-government uprising</news:title>
         </news:news>
         <image:image>
           <image:loc>https://majordigest.com/world/2023/08/29/syria-protests-spurred-by-economic-misery-stir-memories-of-the-2011-anti-government-uprising/syria-protests-spurred-by-economic-misery-stir-memories-of-the-2011-anti-government-uprising.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/world/2023/08/29/un-in-unprecedented-6-month-withdrawal-of-nearly-13000-peacekeepers-from-mali/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-29T02:50:00.000Z</news:publication_date>
-          <news:title>The UN is undertaking an unprecedented 6-month withdrawal of nearly 13,000 peacekeepers from Mali</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/world/2023/08/29/un-in-unprecedented-6-month-withdrawal-of-nearly-13000-peacekeepers-from-mali/un-in-unprecedented-6-month-withdrawal-of-nearly-13000-peacekeepers-from-mali.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/world/2023/08/29/japan-asks-china-to-urge-citizens-to-halt-harassment-after-start-of-fukushima-wastewater-release/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-29T02:21:48.000Z</news:publication_date>
-          <news:title>Japan asks China to urge citizens to halt harassment after start of Fukushima wastewater release</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/world/2023/08/29/japan-asks-china-to-urge-citizens-to-halt-harassment-after-start-of-fukushima-wastewater-release/japan-asks-china-to-urge-citizens-to-halt-harassment-after-start-of-fukushima-wastewater-release.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -255,31 +283,17 @@
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/world/2023/08/29/the-un-is-undertaking-an-unprecedented-6-month-withdrawal-of-nearly-13000-peacekeepers-from-mali/</loc>
+        <loc>https://majordigest.com/world/2023/08/29/pope-francis-draws-fire-after-praising-russian-empire/</loc>
         <news:news>
           <news:publication>
             <news:name>Major Digest</news:name>
             <news:language>en</news:language>
           </news:publication>
-          <news:publication_date>2023-08-29T00:05:02.000Z</news:publication_date>
-          <news:title>The UN is undertaking an unprecedented 6-month withdrawal of nearly 13,000 peacekeepers from Mali</news:title>
+          <news:publication_date>2023-08-29T00:59:50.000Z</news:publication_date>
+          <news:title>Pope Francis draws fire after praising Russian empire</news:title>
         </news:news>
         <image:image>
-          <image:loc>https://majordigest.com/world/2023/08/29/the-un-is-undertaking-an-unprecedented-6-month-withdrawal-of-nearly-13000-peacekeepers-from-mali/the-un-is-undertaking-an-unprecedented-6-month-withdrawal-of-nearly-13000-peacekeepers-from-mali.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/world/2023/08/28/colombians-turn-out-droves-protest-50-gasoline-price-hike/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-28T23:55:21.000Z</news:publication_date>
-          <news:title>Colombians turn out in droves to protest 50% gasoline price hike</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/world/2023/08/28/colombians-turn-out-droves-protest-50-gasoline-price-hike/colombians-turn-out-droves-protest-50-gasoline-price-hike.webp</image:loc>
+          <image:loc>https://majordigest.com/world/2023/08/29/pope-francis-draws-fire-after-praising-russian-empire/pope-francis-draws-fire-after-praising-russian-empire.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -406,20 +420,6 @@
         </news:news>
         <image:image>
           <image:loc>https://majordigest.com/world/2023/08/27/with-drones-and-webcams-volunteer-hunters-join-new-search-for-mythical-loch-ness-monster/with-drones-and-webcams-volunteer-hunters-join-new-search-for-mythical-loch-ness-monster.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/world/2023/08/27/elite-unit-of-mexican-cartel-using-drones-to-drop-bombs-report/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-27T01:26:02.000Z</news:publication_date>
-          <news:title>Elite unit of Mexican cartel using drones to drop bombs: Report</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/world/2023/08/27/elite-unit-of-mexican-cartel-using-drones-to-drop-bombs-report/elite-unit-of-mexican-cartel-using-drones-to-drop-bombs-report.webp</image:loc>
         </image:image>
       </url>
       <url>

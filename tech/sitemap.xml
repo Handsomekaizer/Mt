@@ -3,6 +3,20 @@
               xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
               xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
       <url>
+        <loc>https://majordigest.com/tech/2023/08/29/opinion-adding-hydrogen-energy-to-california-gas-systems-too-risky/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-29T12:00:31.000Z</news:publication_date>
+          <news:title>Opinion: Adding hydrogen energy to California gas systems too risky</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/tech/2023/08/29/opinion-adding-hydrogen-energy-to-california-gas-systems-too-risky/opinion-adding-hydrogen-energy-to-california-gas-systems-too-risky.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
         <loc>https://majordigest.com/tech/2023/08/29/un-warns-hundreds-of-thousands-in-southeast-asia-roped-into-online-scams/</loc>
         <news:news>
           <news:publication>
@@ -98,6 +112,20 @@
         </news:news>
         <image:image>
           <image:loc>https://majordigest.com/tech/2023/08/28/ex-goldman-trader-building-new-california-city-will-need-to-appease-local-opponents/ex-goldman-trader-building-new-california-city-will-need-to-appease-local-opponents.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/tech/2023/08/28/japan-asks-china-to-urge-citizens-to-halt-harassment-after-start-of-fukushima-wastewater-release/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-28T15:28:25.000Z</news:publication_date>
+          <news:title>Japan asks China to urge citizens to halt harassment after start of Fukushima wastewater release</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/tech/2023/08/28/japan-asks-china-to-urge-citizens-to-halt-harassment-after-start-of-fukushima-wastewater-release/japan-asks-china-to-urge-citizens-to-halt-harassment-after-start-of-fukushima-wastewater-release.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -199,6 +227,20 @@
         </image:image>
       </url>
       <url>
+        <loc>https://majordigest.com/tech/2023/08/26/bay-area-software-ceo-pleads-guilty-to-tax-pandemic-relief-fraud/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-26T20:32:15.000Z</news:publication_date>
+          <news:title>Bay Area software CEO pleads guilty to tax, pandemic relief fraud</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/tech/2023/08/26/bay-area-software-ceo-pleads-guilty-to-tax-pandemic-relief-fraud/bay-area-software-ceo-pleads-guilty-to-tax-pandemic-relief-fraud.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
         <loc>https://majordigest.com/tech/2023/08/26/zooms-reversal-backlash-over-ai-fiasco/</loc>
         <news:news>
           <news:publication>
@@ -255,17 +297,17 @@
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/tech/2023/08/25/appeals-court-revives-bribery-charge-for-apple-security-exec-in-santa-clara-county-concealed-gun-permit-scandal/</loc>
+        <loc>https://majordigest.com/tech/2023/08/25/musk-calls-trump-mug-shot-post-next-level-after-former-president-returns-to-x-platform/</loc>
         <news:news>
           <news:publication>
             <news:name>Major Digest</news:name>
             <news:language>en</news:language>
           </news:publication>
-          <news:publication_date>2023-08-25T23:02:56.000Z</news:publication_date>
-          <news:title>Appeals court revives bribery charge for Apple security exec in Santa Clara County concealed-gun permit scandal</news:title>
+          <news:publication_date>2023-08-25T20:18:25.000Z</news:publication_date>
+          <news:title>Musk calls Trump mug shot post 'next-level' after former president returns to 'X' platform</news:title>
         </news:news>
         <image:image>
-          <image:loc>https://majordigest.com/tech/2023/08/25/appeals-court-revives-bribery-charge-for-apple-security-exec-in-santa-clara-county-concealed-gun-permit-scandal/appeals-court-revives-bribery-charge-for-apple-security-exec-in-santa-clara-county-concealed-gun-permit-scandal.webp</image:loc>
+          <image:loc>https://majordigest.com/tech/2023/08/25/musk-calls-trump-mug-shot-post-next-level-after-former-president-returns-to-x-platform/musk-calls-trump-mug-shot-post-next-level-after-former-president-returns-to-x-platform.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -294,20 +336,6 @@
         </news:news>
         <image:image>
           <image:loc>https://majordigest.com/tech/2023/08/25/proposed-crypto-tax-rules-draw-ire-from-industry-groups/proposed-crypto-tax-rules-draw-ire-from-industry-groups.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/tech/2023/08/25/los-angeles-solar-ev-chargers-ev-arc-beam-global/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-25T08:00:00.000Z</news:publication_date>
-          <news:title>Los Angeles installing solar-powered EV charging stations</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/tech/2023/08/25/los-angeles-solar-ev-chargers-ev-arc-beam-global/los-angeles-solar-ev-chargers-ev-arc-beam-global.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -423,20 +451,6 @@
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/tech/2023/08/23/childrens-advocates-ask-ftc-to-investigate-google-for-targeting-ads-to-kids/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-23T16:00:09.000Z</news:publication_date>
-          <news:title>Children's advocates ask FTC to investigate Google for targeting ads to kids</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/tech/2023/08/23/childrens-advocates-ask-ftc-to-investigate-google-for-targeting-ads-to-kids/childrens-advocates-ask-ftc-to-investigate-google-for-targeting-ads-to-kids.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
         <loc>https://majordigest.com/tech/2023/08/23/samsung-fold-5-versatile-but-with-compromises/</loc>
         <news:news>
           <news:publication>
@@ -504,19 +518,5 @@
         </news:news>
         <image:image>
           <image:loc>https://majordigest.com/tech/2023/08/22/microsoft-revamps-deal-for-video-game-maker-activision-blizzard-to-meet-uk-demands/microsoft-revamps-deal-for-video-game-maker-activision-blizzard-to-meet-uk-demands.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/tech/2023/08/22/how-to-set-up-earthquake-alerts-on-your-phone/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-22T11:57:59.000Z</news:publication_date>
-          <news:title>How to set up earthquake alerts on your phone</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/tech/2023/08/22/how-to-set-up-earthquake-alerts-on-your-phone/how-to-set-up-earthquake-alerts-on-your-phone.webp</image:loc>
         </image:image>
       </url></urlset>
