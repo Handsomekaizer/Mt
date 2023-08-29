@@ -3,6 +3,62 @@
               xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
               xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
       <url>
+        <loc>https://majordigest.com/world/2023/08/29/australian-neurosurgeon-finds-parasitic-worm-womans-brain-investigating-mystery-illness/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-29T13:13:58.000Z</news:publication_date>
+          <news:title>Australian neurosurgeon finds parasitic worm in woman&#8217;s brain while investigating 'mystery illness'</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/world/2023/08/29/australian-neurosurgeon-finds-parasitic-worm-womans-brain-investigating-mystery-illness/australian-neurosurgeon-finds-parasitic-worm-womans-brain-investigating-mystery-illness.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/world/2023/08/29/the-kremlin-says-putin-is-not-planning-to-attend-wagner-chief-prigozhins-burial/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-29T13:02:49.000Z</news:publication_date>
+          <news:title>Putin is not planning to attend the funeral for Wagner chief Prigozhin, the Kremlin says</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/world/2023/08/29/the-kremlin-says-putin-is-not-planning-to-attend-wagner-chief-prigozhins-burial/the-kremlin-says-putin-is-not-planning-to-attend-wagner-chief-prigozhins-burial.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/world/2023/08/29/putin-not-planning-attend-prigozhin-funeral/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-29T12:49:29.000Z</news:publication_date>
+          <news:title>Putin not planning to attend Prigozhin funeral</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/world/2023/08/29/putin-not-planning-attend-prigozhin-funeral/putin-not-planning-attend-prigozhin-funeral.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/world/2023/08/29/investigation-finds-late-founder-of-japanese-talent-agency-for-boy-bands-sexually-assaulted-teens/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-29T12:17:23.000Z</news:publication_date>
+          <news:title>Investigation finds late founder of Japanese talent agency for boy bands sexually assaulted teens</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/world/2023/08/29/investigation-finds-late-founder-of-japanese-talent-agency-for-boy-bands-sexually-assaulted-teens/investigation-finds-late-founder-of-japanese-talent-agency-for-boy-bands-sexually-assaulted-teens.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
         <loc>https://majordigest.com/world/2023/08/29/china-russia-behind-largest-cross-platform-misinformation-operation-meta-report-finds/</loc>
         <news:news>
           <news:publication>
@@ -14,6 +70,34 @@
         </news:news>
         <image:image>
           <image:loc>https://majordigest.com/world/2023/08/29/china-russia-behind-largest-cross-platform-misinformation-operation-meta-report-finds/china-russia-behind-largest-cross-platform-misinformation-operation-meta-report-finds.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/world/2023/08/29/china-russia-behind-largest-cross-platform-misinformation-operation-meta-report-finds/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-29T12:16:22.000Z</news:publication_date>
+          <news:title>China, Russia behind largest cross-platform misinformation operation, Meta report finds</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/world/2023/08/29/china-russia-behind-largest-cross-platform-misinformation-operation-meta-report-finds/china-russia-behind-largest-cross-platform-misinformation-operation-meta-report-finds.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/world/2023/08/29/mexico-sends-thousand-more-troops-michoacan-state-following-weekend-cartel-violence/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-29T12:15:54.000Z</news:publication_date>
+          <news:title>Mexico sends a thousand more troops to Michoacan state following weekend of cartel violence</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/world/2023/08/29/mexico-sends-thousand-more-troops-michoacan-state-following-weekend-cartel-violence/mexico-sends-thousand-more-troops-michoacan-state-following-weekend-cartel-violence.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -45,59 +129,31 @@
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/world/2023/08/29/nigerian-troops-rescue-women-children-abducted-islamic-rebels/</loc>
+        <loc>https://majordigest.com/world/2023/08/29/alumni-grieve-for-jesuit-run-university-seized-by-nicaraguan-government-that-transformed-their-lives/</loc>
         <news:news>
           <news:publication>
             <news:name>Major Digest</news:name>
             <news:language>en</news:language>
           </news:publication>
-          <news:publication_date>2023-08-29T12:10:44.000Z</news:publication_date>
-          <news:title>Nigerian troops rescue women, children abducted by Islamic rebels</news:title>
+          <news:publication_date>2023-08-29T12:00:34.000Z</news:publication_date>
+          <news:title>Alumni grieve for Jesuit-run university seized by Nicaraguan government that transformed their lives</news:title>
         </news:news>
         <image:image>
-          <image:loc>https://majordigest.com/world/2023/08/29/nigerian-troops-rescue-women-children-abducted-islamic-rebels/nigerian-troops-rescue-women-children-abducted-islamic-rebels.webp</image:loc>
+          <image:loc>https://majordigest.com/world/2023/08/29/alumni-grieve-for-jesuit-run-university-seized-by-nicaraguan-government-that-transformed-their-lives/alumni-grieve-for-jesuit-run-university-seized-by-nicaraguan-government-that-transformed-their-lives.webp</image:loc>
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/world/2023/08/29/guatemalas-presidential-election-takes-drastic-turn-unexpected-winner-certified-prompting-legal-fights/</loc>
+        <loc>https://majordigest.com/world/2023/08/29/court-suspends-the-corruption-conviction-and-sentence-of-former-prime-minister-imran-khan/</loc>
         <news:news>
           <news:publication>
             <news:name>Major Digest</news:name>
             <news:language>en</news:language>
           </news:publication>
-          <news:publication_date>2023-08-29T12:06:38.000Z</news:publication_date>
-          <news:title>Guatemala's presidential election takes drastic turn as unexpected winner is certified, prompting legal fights</news:title>
+          <news:publication_date>2023-08-29T11:29:11.000Z</news:publication_date>
+          <news:title>Pakistani court suspends the corruption conviction and sentence of former Prime Minister Imran Khan</news:title>
         </news:news>
         <image:image>
-          <image:loc>https://majordigest.com/world/2023/08/29/guatemalas-presidential-election-takes-drastic-turn-unexpected-winner-certified-prompting-legal-fights/guatemalas-presidential-election-takes-drastic-turn-unexpected-winner-certified-prompting-legal-fights.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/world/2023/08/29/guatemalas-presidential-election-takes-drastic-turn-unexpected-winner-certified-prompting-legal-fights/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-29T12:06:38.000Z</news:publication_date>
-          <news:title>Guatemala's presidential election takes drastic turn as unexpected winner is certified, prompting legal fights</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/world/2023/08/29/guatemalas-presidential-election-takes-drastic-turn-unexpected-winner-certified-prompting-legal-fights/guatemalas-presidential-election-takes-drastic-turn-unexpected-winner-certified-prompting-legal-fights.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/world/2023/08/29/the-kremlin-says-putin-is-not-planning-to-attend-wagner-chief-prigozhins-burial/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-29T11:28:53.000Z</news:publication_date>
-          <news:title>Putin is not planning to attend the funeral for Wagner chief Prigozhin, the Kremlin says</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/world/2023/08/29/the-kremlin-says-putin-is-not-planning-to-attend-wagner-chief-prigozhins-burial/the-kremlin-says-putin-is-not-planning-to-attend-wagner-chief-prigozhins-burial.webp</image:loc>
+          <image:loc>https://majordigest.com/world/2023/08/29/court-suspends-the-corruption-conviction-and-sentence-of-former-prime-minister-imran-khan/court-suspends-the-corruption-conviction-and-sentence-of-former-prime-minister-imran-khan.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -150,24 +206,24 @@
             <news:language>en</news:language>
           </news:publication>
           <news:publication_date>2023-08-29T10:00:00.000Z</news:publication_date>
-          <news:title>House, Senate GOP set for internal fight over Ukraine&#160;</news:title>
+          <news:title>GOP set for internal fight over Ukraine between House, Senate</news:title>
         </news:news>
         <image:image>
           <image:loc>https://majordigest.com/world/2023/08/29/conservatives-set-to-battle-over-ukraine-funding/conservatives-set-to-battle-over-ukraine-funding.webp</image:loc>
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/world/2023/08/29/kim-calls-for-north-korean-military-to-be-constantly-ready-to-smash-us-led-invasion-plot/</loc>
+        <loc>https://majordigest.com/world/2023/08/29/belarus-fears-risk-of-trapping-citizens-with-the-beast-opposition-leader/</loc>
         <news:news>
           <news:publication>
             <news:name>Major Digest</news:name>
             <news:language>en</news:language>
           </news:publication>
-          <news:publication_date>2023-08-29T09:46:45.000Z</news:publication_date>
-          <news:title>Kim says North Korea must be ready against US-led invasion plots while US, allies start new drills</news:title>
+          <news:publication_date>2023-08-29T10:00:00.000Z</news:publication_date>
+          <news:title>Belarus fears risk of trapping citizens with &#8216;the beast&#8217;: opposition leader</news:title>
         </news:news>
         <image:image>
-          <image:loc>https://majordigest.com/world/2023/08/29/kim-calls-for-north-korean-military-to-be-constantly-ready-to-smash-us-led-invasion-plot/kim-calls-for-north-korean-military-to-be-constantly-ready-to-smash-us-led-invasion-plot.webp</image:loc>
+          <image:loc>https://majordigest.com/world/2023/08/29/belarus-fears-risk-of-trapping-citizens-with-the-beast-opposition-leader/belarus-fears-risk-of-trapping-citizens-with-the-beast-opposition-leader.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -182,34 +238,6 @@
         </news:news>
         <image:image>
           <image:loc>https://majordigest.com/world/2023/08/29/kim-calls-for-north-korean-military-to-be-constantly-ready-to-smash-us-led-invasion-plot/kim-calls-for-north-korean-military-to-be-constantly-ready-to-smash-us-led-invasion-plot.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/world/2023/08/29/sudans-military-leader-travels-to-egypt-in-his-first-trip-abroad-since-the-war/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-29T09:01:59.000Z</news:publication_date>
-          <news:title>Sudan&#8217;s military leader visits Egypt on his first trip abroad since the country plunged into war</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/world/2023/08/29/sudans-military-leader-travels-to-egypt-in-his-first-trip-abroad-since-the-war/sudans-military-leader-travels-to-egypt-in-his-first-trip-abroad-since-the-war.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/world/2023/08/29/sudans-military-leader-travels-to-egypt-in-his-first-trip-abroad-since-the-war/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-29T09:01:59.000Z</news:publication_date>
-          <news:title>Sudan&#8217;s military leader visits Egypt on his first trip abroad since the country plunged into war</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/world/2023/08/29/sudans-military-leader-travels-to-egypt-in-his-first-trip-abroad-since-the-war/sudans-military-leader-travels-to-egypt-in-his-first-trip-abroad-since-the-war.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -227,31 +255,17 @@
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/world/2023/08/29/londons-plan-to-charge-drivers-of-polluting-cars-sparks-protests-and-stirs-political-passions/</loc>
+        <loc>https://majordigest.com/world/2023/08/29/sudans-military-leader-travels-to-egypt-in-his-first-trip-abroad-since-the-war/</loc>
         <news:news>
           <news:publication>
             <news:name>Major Digest</news:name>
             <news:language>en</news:language>
           </news:publication>
-          <news:publication_date>2023-08-29T07:00:57.000Z</news:publication_date>
-          <news:title>London&#8217;s plan to charge drivers of polluting cars sparks protests and stirs political passions</news:title>
+          <news:publication_date>2023-08-29T06:55:32.000Z</news:publication_date>
+          <news:title>Sudan&#8217;s military leader visits Egypt on his first trip abroad since the country plunged into war</news:title>
         </news:news>
         <image:image>
-          <image:loc>https://majordigest.com/world/2023/08/29/londons-plan-to-charge-drivers-of-polluting-cars-sparks-protests-and-stirs-political-passions/londons-plan-to-charge-drivers-of-polluting-cars-sparks-protests-and-stirs-political-passions.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/world/2023/08/29/londons-plan-to-charge-drivers-of-polluting-cars-sparks-protests-and-stirs-political-passions/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-29T07:00:57.000Z</news:publication_date>
-          <news:title>London&#8217;s plan to charge drivers of polluting cars sparks protests and stirs political passions</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/world/2023/08/29/londons-plan-to-charge-drivers-of-polluting-cars-sparks-protests-and-stirs-political-passions/londons-plan-to-charge-drivers-of-polluting-cars-sparks-protests-and-stirs-political-passions.webp</image:loc>
+          <image:loc>https://majordigest.com/world/2023/08/29/sudans-military-leader-travels-to-egypt-in-his-first-trip-abroad-since-the-war/sudans-military-leader-travels-to-egypt-in-his-first-trip-abroad-since-the-war.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -261,7 +275,7 @@
             <news:name>Major Digest</news:name>
             <news:language>en</news:language>
           </news:publication>
-          <news:publication_date>2023-08-29T06:23:57.000Z</news:publication_date>
+          <news:publication_date>2023-08-29T05:27:05.000Z</news:publication_date>
           <news:title>Syria protests spurred by economic misery stir memories of the 2011 anti-government uprising</news:title>
         </news:news>
         <image:image>
@@ -280,34 +294,6 @@
         </news:news>
         <image:image>
           <image:loc>https://majordigest.com/world/2023/08/29/pope-francis-draws-fire-after-praising-russian-empire/pope-francis-draws-fire-after-praising-russian-empire.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/world/2023/08/29/pope-francis-draws-fire-after-praising-russian-empire/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-29T00:59:50.000Z</news:publication_date>
-          <news:title>Pope Francis draws fire after praising Russian empire</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/world/2023/08/29/pope-francis-draws-fire-after-praising-russian-empire/pope-francis-draws-fire-after-praising-russian-empire.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/world/2023/08/28/guatemalas-electoral-registry-has-suspended-the-party-of-the-presidential-election-winner/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-28T23:43:39.000Z</news:publication_date>
-          <news:title>Guatemala progressive's presidential victory certified, but his party is suspended</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/world/2023/08/28/guatemalas-electoral-registry-has-suspended-the-party-of-the-presidential-election-winner/guatemalas-electoral-registry-has-suspended-the-party-of-the-presidential-election-winner.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -448,6 +434,20 @@
         </news:news>
         <image:image>
           <image:loc>https://majordigest.com/world/2023/08/25/from-tarantulas-to-tigers-zoo-animals-step-onto-scales-for-annual-weigh-in/from-tarantulas-to-tigers-zoo-animals-step-onto-scales-for-annual-weigh-in.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/world/2023/08/25/dutch-brewer-heineken-sells-its-russian-operations-for-1-euro-taking-a-300-million-euro-hit/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-25T08:07:09.000Z</news:publication_date>
+          <news:title>Dutch brewer Heineken sells its Russian operations for 1 euro, taking a 300-million-euro hit</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/world/2023/08/25/dutch-brewer-heineken-sells-its-russian-operations-for-1-euro-taking-a-300-million-euro-hit/dutch-brewer-heineken-sells-its-russian-operations-for-1-euro-taking-a-300-million-euro-hit.webp</image:loc>
         </image:image>
       </url>
       <url>

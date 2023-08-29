@@ -3,17 +3,101 @@
               xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
               xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
       <url>
-        <loc>https://majordigest.com/us/2023/08/29/investigation-finds-late-founder-of-japanese-talent-agency-for-boy-bands-sexually-assaulted-teens/</loc>
+        <loc>https://majordigest.com/us/2023/08/29/recruiting-is-underway-for-trump-like-wrecking-ball-to-shrink-government-and-fire-federal-workers/</loc>
         <news:news>
           <news:publication>
             <news:name>Major Digest</news:name>
             <news:language>en</news:language>
           </news:publication>
-          <news:publication_date>2023-08-29T12:17:23.000Z</news:publication_date>
-          <news:title>Investigation finds late founder of Japanese talent agency for boy bands sexually assaulted teens</news:title>
+          <news:publication_date>2023-08-29T13:15:07.000Z</news:publication_date>
+          <news:title>Conservatives are on a mission to dismantle the US government and replace it with Trump's vision</news:title>
         </news:news>
         <image:image>
-          <image:loc>https://majordigest.com/us/2023/08/29/investigation-finds-late-founder-of-japanese-talent-agency-for-boy-bands-sexually-assaulted-teens/investigation-finds-late-founder-of-japanese-talent-agency-for-boy-bands-sexually-assaulted-teens.webp</image:loc>
+          <image:loc>https://majordigest.com/us/2023/08/29/recruiting-is-underway-for-trump-like-wrecking-ball-to-shrink-government-and-fire-federal-workers/recruiting-is-underway-for-trump-like-wrecking-ball-to-shrink-government-and-fire-federal-workers.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/us/2023/08/29/north-carolina-medicaid-expansion-delayed-due-lack-final-budget/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-29T13:13:41.000Z</news:publication_date>
+          <news:title>North Carolina Medicaid expansion delayed due to lack of final budget</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/us/2023/08/29/north-carolina-medicaid-expansion-delayed-due-lack-final-budget/north-carolina-medicaid-expansion-delayed-due-lack-final-budget.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/us/2023/08/29/jean-dawson-is-introducing-fans-to-3-new-characters-in-his-latest-musical-trilogy/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-29T13:06:51.000Z</news:publication_date>
+          <news:title>Jean Dawson is introducing fans to 3 new characters in his latest musical trilogy</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/us/2023/08/29/jean-dawson-is-introducing-fans-to-3-new-characters-in-his-latest-musical-trilogy/jean-dawson-is-introducing-fans-to-3-new-characters-in-his-latest-musical-trilogy.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/us/2023/08/29/bavarian-governor-orders-his-deputy-to-fully-explain-himself-to-clear-allegations-of-antisemitism/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-29T13:05:37.000Z</news:publication_date>
+          <news:title>Bavarian governor orders his deputy to fully explain himself to clear allegations of antisemitism</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/us/2023/08/29/bavarian-governor-orders-his-deputy-to-fully-explain-himself-to-clear-allegations-of-antisemitism/bavarian-governor-orders-his-deputy-to-fully-explain-himself-to-clear-allegations-of-antisemitism.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/us/2023/08/29/londons-plan-to-charge-drivers-of-polluting-cars-sparks-protests-and-stirs-political-passions/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-29T13:05:12.000Z</news:publication_date>
+          <news:title>London&#8217;s plan to charge drivers of polluting cars sparks protests and stirs political passions</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/us/2023/08/29/londons-plan-to-charge-drivers-of-polluting-cars-sparks-protests-and-stirs-political-passions/londons-plan-to-charge-drivers-of-polluting-cars-sparks-protests-and-stirs-political-passions.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/us/2023/08/29/backpage-founder-faces-2nd-trial-charges-facilitating-prostitution-money-laundering/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-29T12:36:17.000Z</news:publication_date>
+          <news:title>Backpage founder faces 2nd trial on charges of facilitating prostitution, money laundering</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/us/2023/08/29/backpage-founder-faces-2nd-trial-charges-facilitating-prostitution-money-laundering/backpage-founder-faces-2nd-trial-charges-facilitating-prostitution-money-laundering.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/us/2023/08/29/as-idalia-churns-toward-florida-residents-urged-to-wrap-up-storm-preparations/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-29T12:29:28.000Z</news:publication_date>
+          <news:title>Idalia strengthens to a hurricane, pushing a surge of ocean water toward Florida</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/us/2023/08/29/as-idalia-churns-toward-florida-residents-urged-to-wrap-up-storm-preparations/as-idalia-churns-toward-florida-residents-urged-to-wrap-up-storm-preparations.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -45,34 +129,6 @@
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/us/2023/08/29/alumni-grieve-for-jesuit-run-university-seized-by-nicaraguan-government-that-transformed-their-lives/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-29T12:00:34.000Z</news:publication_date>
-          <news:title>Alumni grieve for Jesuit-run university seized by Nicaraguan government that transformed their lives</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/us/2023/08/29/alumni-grieve-for-jesuit-run-university-seized-by-nicaraguan-government-that-transformed-their-lives/alumni-grieve-for-jesuit-run-university-seized-by-nicaraguan-government-that-transformed-their-lives.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/us/2023/08/29/government-to-negotiate-lower-prices-for-these-first-10-medicare-drugs/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-29T11:59:11.000Z</news:publication_date>
-          <news:title>Government to negotiate lower prices for these first 10 Medicare drugs</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/us/2023/08/29/government-to-negotiate-lower-prices-for-these-first-10-medicare-drugs/government-to-negotiate-lower-prices-for-these-first-10-medicare-drugs.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
         <loc>https://majordigest.com/us/2023/08/29/10-charged-death-man-kidnapped-new-york-homeless-encampment/</loc>
         <news:news>
           <news:publication>
@@ -87,34 +143,6 @@
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/us/2023/08/29/court-suspends-the-corruption-conviction-and-sentence-of-former-prime-minister-imran-khan/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-29T11:29:11.000Z</news:publication_date>
-          <news:title>Pakistani court suspends the corruption conviction and sentence of former Prime Minister Imran Khan</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/us/2023/08/29/court-suspends-the-corruption-conviction-and-sentence-of-former-prime-minister-imran-khan/court-suspends-the-corruption-conviction-and-sentence-of-former-prime-minister-imran-khan.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/us/2023/08/29/fans-rush-field-accost-braves-ronald-acuna-jr/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-29T11:28:53.000Z</news:publication_date>
-          <news:title>Fans rush field, accost Braves&#8217; Ronald Acuna Jr.</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/us/2023/08/29/fans-rush-field-accost-braves-ronald-acuna-jr/fans-rush-field-accost-braves-ronald-acuna-jr.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
         <loc>https://majordigest.com/us/2023/08/29/the-jacksonville-shooting-killed-a-devoted-dad-a-beloved-mom-and-a-teen-helping-support-his-family/</loc>
         <news:news>
           <news:publication>
@@ -126,34 +154,6 @@
         </news:news>
         <image:image>
           <image:loc>https://majordigest.com/us/2023/08/29/the-jacksonville-shooting-killed-a-devoted-dad-a-beloved-mom-and-a-teen-helping-support-his-family/the-jacksonville-shooting-killed-a-devoted-dad-a-beloved-mom-and-a-teen-helping-support-his-family.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/us/2023/08/29/nevada-black-widower-convicted-again-murdering-sixth-wife-hitman/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-29T11:00:55.000Z</news:publication_date>
-          <news:title>Nevada 'black widower' convicted again of murdering 6th wife, hit man</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/us/2023/08/29/nevada-black-widower-convicted-again-murdering-sixth-wife-hitman/nevada-black-widower-convicted-again-murdering-sixth-wife-hitman.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/us/2023/08/29/coast-guard-rescues-4-people-dog-sinking-boat-moments-before-capsizes/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-29T10:59:42.000Z</news:publication_date>
-          <news:title>Coast Guard saves 4 people, dog from sinking boat moments before it capsizes</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/us/2023/08/29/coast-guard-rescues-4-people-dog-sinking-boat-moments-before-capsizes/coast-guard-rescues-4-people-dog-sinking-boat-moments-before-capsizes.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -185,34 +185,6 @@
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/us/2023/08/29/2-drinks-a-week-us-could-tighten-alcohol-guidelines-national-director-says/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-29T09:44:46.000Z</news:publication_date>
-          <news:title>2 drinks a week? US could tighten alcohol guidelines, national director says</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/us/2023/08/29/2-drinks-a-week-us-could-tighten-alcohol-guidelines-national-director-says/2-drinks-a-week-us-could-tighten-alcohol-guidelines-national-director-says.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/us/2023/08/29/native-nations-on-front-lines-of-climate-change-share-knowledge-and-find-support-at-intensive-camps/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-29T05:16:19.000Z</news:publication_date>
-          <news:title>Native nations on front lines of climate change share knowledge and find support at intensive camps</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/us/2023/08/29/native-nations-on-front-lines-of-climate-change-share-knowledge-and-find-support-at-intensive-camps/native-nations-on-front-lines-of-climate-change-share-knowledge-and-find-support-at-intensive-camps.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
         <loc>https://majordigest.com/us/2023/08/29/federal-government-says-spacex-discriminated-against-hiring-refugees-and-asylees/</loc>
         <news:news>
           <news:publication>
@@ -224,20 +196,6 @@
         </news:news>
         <image:image>
           <image:loc>https://majordigest.com/us/2023/08/29/federal-government-says-spacex-discriminated-against-hiring-refugees-and-asylees/federal-government-says-spacex-discriminated-against-hiring-refugees-and-asylees.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/us/2023/08/29/rachel-morin-murder-suspect-will-kill-again-victims-sister/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-29T04:23:47.000Z</news:publication_date>
-          <news:title>Rachel Morin murder suspect will kill again: Victim's sister</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/us/2023/08/29/rachel-morin-murder-suspect-will-kill-again-victims-sister/rachel-morin-murder-suspect-will-kill-again-victims-sister.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -297,17 +255,17 @@
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/us/2023/08/29/significance-of-march-on-washington-still-felt-decades-later/</loc>
+        <loc>https://majordigest.com/us/2023/08/29/camp-pendleton-marines-involved-in-australia-aircraft-crash/</loc>
         <news:news>
           <news:publication>
             <news:name>Major Digest</news:name>
             <news:language>en</news:language>
           </news:publication>
-          <news:publication_date>2023-08-29T01:57:19.000Z</news:publication_date>
-          <news:title>Significance of March on Washington still felt decades later</news:title>
+          <news:publication_date>2023-08-29T02:44:10.000Z</news:publication_date>
+          <news:title>Camp Pendleton Marines involved in Australia aircraft crash</news:title>
         </news:news>
         <image:image>
-          <image:loc>https://majordigest.com/us/2023/08/29/significance-of-march-on-washington-still-felt-decades-later/significance-of-march-on-washington-still-felt-decades-later.webp</image:loc>
+          <image:loc>https://majordigest.com/us/2023/08/29/camp-pendleton-marines-involved-in-australia-aircraft-crash/camp-pendleton-marines-involved-in-australia-aircraft-crash.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -339,6 +297,20 @@
         </image:image>
       </url>
       <url>
+        <loc>https://majordigest.com/us/2023/08/29/hawaii-power-utility-takes-responsibility-for-first-fire-on-maui-but-faults-county-firefighters/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-29T00:57:12.000Z</news:publication_date>
+          <news:title>Hawaii power utility takes responsibility for first fire on Maui, but faults county firefighters</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/us/2023/08/29/hawaii-power-utility-takes-responsibility-for-first-fire-on-maui-but-faults-county-firefighters/hawaii-power-utility-takes-responsibility-for-first-fire-on-maui-but-faults-county-firefighters.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
         <loc>https://majordigest.com/us/2023/08/29/university-of-north-carolina-warns-of-armed-person-on-campus-and-urges-people-to-stay-inside/</loc>
         <news:news>
           <news:publication>
@@ -364,6 +336,20 @@
         </news:news>
         <image:image>
           <image:loc>https://majordigest.com/us/2023/08/28/woman-found-dead-after-she-didnt-return-from-hike-in-utah-national-park/woman-found-dead-after-she-didnt-return-from-hike-in-utah-national-park.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/us/2023/08/28/fight-over-mcdonalds-sauce-led-to-death-of-teenager-in-dc-police-say/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-28T22:58:12.000Z</news:publication_date>
+          <news:title>Fight over McDonald's sauce led to death of teenager in DC, police say</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/us/2023/08/28/fight-over-mcdonalds-sauce-led-to-death-of-teenager-in-dc-police-say/fight-over-mcdonalds-sauce-led-to-death-of-teenager-in-dc-police-say.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -409,17 +395,17 @@
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/us/2023/08/28/teachers-arrested-at-nevada-school-board-meeting/</loc>
+        <loc>https://majordigest.com/us/2023/08/28/only-1-state-doesnt-have-a-ban-on-texting-and-driving-heres-why/</loc>
         <news:news>
           <news:publication>
             <news:name>Major Digest</news:name>
             <news:language>en</news:language>
           </news:publication>
-          <news:publication_date>2023-08-28T20:31:59.000Z</news:publication_date>
-          <news:title>Teachers arrested at Nevada school board meeting</news:title>
+          <news:publication_date>2023-08-28T20:17:07.000Z</news:publication_date>
+          <news:title>Only 1 state doesn't have a ban on texting and driving. Here's why</news:title>
         </news:news>
         <image:image>
-          <image:loc>https://majordigest.com/us/2023/08/28/teachers-arrested-at-nevada-school-board-meeting/teachers-arrested-at-nevada-school-board-meeting.webp</image:loc>
+          <image:loc>https://majordigest.com/us/2023/08/28/only-1-state-doesnt-have-a-ban-on-texting-and-driving-heres-why/only-1-state-doesnt-have-a-ban-on-texting-and-driving-heres-why.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -465,6 +451,20 @@
         </image:image>
       </url>
       <url>
+        <loc>https://majordigest.com/us/2023/08/28/dot-fines-american-airlines-4-1m-over-tarmac-delays/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-28T19:27:12.000Z</news:publication_date>
+          <news:title>DOT fines American Airlines $4.1M over tarmac delays</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/us/2023/08/28/dot-fines-american-airlines-4-1m-over-tarmac-delays/dot-fines-american-airlines-4-1m-over-tarmac-delays.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
         <loc>https://majordigest.com/us/2023/08/28/police-release-photo-of-gunman-at-large-on-or-near-uncs-campus-university-on-lockdown/</loc>
         <news:news>
           <news:publication>
@@ -493,20 +493,6 @@
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/us/2023/08/28/joe-the-plumber-made-famous-during-obamas-2008-campaign-dead-at-49/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-28T18:41:04.000Z</news:publication_date>
-          <news:title>Joe the Plumber, made famous during Obama's 2008 campaign, dead at 49</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/us/2023/08/28/joe-the-plumber-made-famous-during-obamas-2008-campaign-dead-at-49/joe-the-plumber-made-famous-during-obamas-2008-campaign-dead-at-49.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
         <loc>https://majordigest.com/us/2023/08/28/pope-says-backward-u-s-conservatives-have-replaced-faith-with-ideology/</loc>
         <news:news>
           <news:publication>
@@ -518,5 +504,19 @@
         </news:news>
         <image:image>
           <image:loc>https://majordigest.com/us/2023/08/28/pope-says-backward-u-s-conservatives-have-replaced-faith-with-ideology/pope-says-backward-u-s-conservatives-have-replaced-faith-with-ideology.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/us/2023/08/24/woman-in-tiktok-video-of-racist-outburst-at-california-mcdonalds-is-no-longer-employed/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-24T17:41:16.000Z</news:publication_date>
+          <news:title>Woman in TikTok video of racist outburst at California McDonald's is no longer employed</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/us/2023/08/24/woman-in-tiktok-video-of-racist-outburst-at-california-mcdonalds-is-no-longer-employed/woman-in-tiktok-video-of-racist-outburst-at-california-mcdonalds-is-no-longer-employed.webp</image:loc>
         </image:image>
       </url></urlset>
