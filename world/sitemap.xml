@@ -3,6 +3,90 @@
               xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
               xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
       <url>
+        <loc>https://majordigest.com/world/2023/08/29/neurosurgeon-investigating-patients-mystery-symptoms-plucks-worm-from-womans-brain/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-29T10:07:27.000Z</news:publication_date>
+          <news:title>Neurosurgeon investigating patient's mystery symptoms plucks worm from woman's brain</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/world/2023/08/29/neurosurgeon-investigating-patients-mystery-symptoms-plucks-worm-from-womans-brain/neurosurgeon-investigating-patients-mystery-symptoms-plucks-worm-from-womans-brain.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/world/2023/08/29/belarus-fears-risk-of-trapping-citizens-with-the-beast-opposition-leader/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-29T10:00:00.000Z</news:publication_date>
+          <news:title>Belarus fears risk of trapping citizens with &#8216;the beast&#8217;: opposition leader</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/world/2023/08/29/belarus-fears-risk-of-trapping-citizens-with-the-beast-opposition-leader/belarus-fears-risk-of-trapping-citizens-with-the-beast-opposition-leader.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/world/2023/08/29/conservatives-set-to-battle-over-ukraine-funding/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-29T10:00:00.000Z</news:publication_date>
+          <news:title>House, Senate GOP set for internal fight over Ukraine&#160;</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/world/2023/08/29/conservatives-set-to-battle-over-ukraine-funding/conservatives-set-to-battle-over-ukraine-funding.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/world/2023/08/29/the-kremlin-says-putin-is-not-planning-to-attend-wagner-chief-prigozhins-burial/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-29T09:46:35.000Z</news:publication_date>
+          <news:title>The Kremlin says Putin is not planning to attend Wagner chief Prigozhin's burial</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/world/2023/08/29/the-kremlin-says-putin-is-not-planning-to-attend-wagner-chief-prigozhins-burial/the-kremlin-says-putin-is-not-planning-to-attend-wagner-chief-prigozhins-burial.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/world/2023/08/29/neurosurgeon-investigating-patients-mystery-symptoms-plucks-a-worm-from-womans-brain-in-australia/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-29T09:42:51.000Z</news:publication_date>
+          <news:title>Neurosurgeon investigating patient's mystery symptoms plucks a worm from woman's brain in Australia</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/world/2023/08/29/neurosurgeon-investigating-patients-mystery-symptoms-plucks-a-worm-from-womans-brain-in-australia/neurosurgeon-investigating-patients-mystery-symptoms-plucks-a-worm-from-womans-brain-in-australia.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/world/2023/08/29/sudans-military-leader-travels-to-egypt-in-his-first-trip-abroad-since-the-war/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-29T09:01:59.000Z</news:publication_date>
+          <news:title>Sudan&#8217;s military leader visits Egypt on his first trip abroad since the country plunged into war</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/world/2023/08/29/sudans-military-leader-travels-to-egypt-in-his-first-trip-abroad-since-the-war/sudans-military-leader-travels-to-egypt-in-his-first-trip-abroad-since-the-war.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
         <loc>https://majordigest.com/world/2023/08/29/pakistani-court-suspends-the-corruption-conviction-and-sentence-of-former-prime-minister-imran-khan/</loc>
         <news:news>
           <news:publication>
@@ -143,17 +227,17 @@
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/world/2023/08/28/multi-party-coalition-criticizes-egyptian-government-rare-show-dissent/</loc>
+        <loc>https://majordigest.com/world/2023/08/28/colombians-turn-out-droves-protest-50-gasoline-price-hike/</loc>
         <news:news>
           <news:publication>
             <news:name>Major Digest</news:name>
             <news:language>en</news:language>
           </news:publication>
-          <news:publication_date>2023-08-28T23:52:44.000Z</news:publication_date>
-          <news:title>Multi-party coalition criticizes Egyptian government in rare show of dissent</news:title>
+          <news:publication_date>2023-08-28T23:55:21.000Z</news:publication_date>
+          <news:title>Colombians turn out in droves to protest 50% gasoline price hike</news:title>
         </news:news>
         <image:image>
-          <image:loc>https://majordigest.com/world/2023/08/28/multi-party-coalition-criticizes-egyptian-government-rare-show-dissent/multi-party-coalition-criticizes-egyptian-government-rare-show-dissent.webp</image:loc>
+          <image:loc>https://majordigest.com/world/2023/08/28/colombians-turn-out-droves-protest-50-gasoline-price-hike/colombians-turn-out-droves-protest-50-gasoline-price-hike.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -266,62 +350,6 @@
         </news:news>
         <image:image>
           <image:loc>https://majordigest.com/world/2023/08/28/us-china-to-discuss-export-controls-officials-say/us-china-to-discuss-export-controls-officials-say.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/world/2023/08/28/french-education-minister-bans-long-robes-in-classrooms-in-effort-to-defend-nations-secular-values/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-28T15:57:07.000Z</news:publication_date>
-          <news:title>France's education minister bans long robes in classrooms. They're worn mainly by Muslims</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/world/2023/08/28/french-education-minister-bans-long-robes-in-classrooms-in-effort-to-defend-nations-secular-values/french-education-minister-bans-long-robes-in-classrooms-in-effort-to-defend-nations-secular-values.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/world/2023/08/28/french-education-minister-bans-long-robes-in-classrooms-in-effort-to-defend-nations-secular-values/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-28T15:57:07.000Z</news:publication_date>
-          <news:title>France's education minister bans long robes in classrooms. They're worn mainly by Muslims</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/world/2023/08/28/french-education-minister-bans-long-robes-in-classrooms-in-effort-to-defend-nations-secular-values/french-education-minister-bans-long-robes-in-classrooms-in-effort-to-defend-nations-secular-values.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/world/2023/08/28/ukraine-claims-liberation-of-key-southeastern-town/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-28T15:46:36.000Z</news:publication_date>
-          <news:title>Ukraine claims liberation of key southeastern town</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/world/2023/08/28/ukraine-claims-liberation-of-key-southeastern-town/ukraine-claims-liberation-of-key-southeastern-town.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/world/2023/08/28/ramaswamy-unveils-foreign-policy-platform-we-will-be-uncle-sucker-no-more/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-28T15:29:05.000Z</news:publication_date>
-          <news:title>Ramaswamy unveils foreign policy platform: 'We will be Uncle Sucker no more'</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/world/2023/08/28/ramaswamy-unveils-foreign-policy-platform-we-will-be-uncle-sucker-no-more/ramaswamy-unveils-foreign-policy-platform-we-will-be-uncle-sucker-no-more.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -476,34 +504,6 @@
         </news:news>
         <image:image>
           <image:loc>https://majordigest.com/world/2023/08/23/jet-crash-in-russia-kills-10-and-wagner-chief-was-on-passenger-list-officials-say/jet-crash-in-russia-kills-10-and-wagner-chief-was-on-passenger-list-officials-say.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/world/2023/08/23/india-lands-a-spacecraft-near-the-moons-south-pole-a-first-for-the-world-as-it-joins-elite-club/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-23T15:40:35.000Z</news:publication_date>
-          <news:title>India lands a spacecraft near the moon's south pole, a first for the world as it joins elite club</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/world/2023/08/23/india-lands-a-spacecraft-near-the-moons-south-pole-a-first-for-the-world-as-it-joins-elite-club/india-lands-a-spacecraft-near-the-moons-south-pole-a-first-for-the-world-as-it-joins-elite-club.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/world/2023/08/23/indias-spacecraft-is-preparing-to-land-on-the-moon-in-the-countrys-second-attempt-in-4-years/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-23T09:51:36.000Z</news:publication_date>
-          <news:title>India successfully lands its Chandrayaan-3 rover on the moon, near the south pole</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/world/2023/08/23/indias-spacecraft-is-preparing-to-land-on-the-moon-in-the-countrys-second-attempt-in-4-years/indias-spacecraft-is-preparing-to-land-on-the-moon-in-the-countrys-second-attempt-in-4-years.webp</image:loc>
         </image:image>
       </url>
       <url>
