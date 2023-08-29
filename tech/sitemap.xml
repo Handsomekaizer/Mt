@@ -3,6 +3,20 @@
               xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
               xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
       <url>
+        <loc>https://majordigest.com/tech/2023/08/29/win-over-sec-ups-chances-for-bitcoin-etf-approval/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-29T22:43:08.000Z</news:publication_date>
+          <news:title>Win Over SEC Ups Chances for Bitcoin ETF Approval</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/tech/2023/08/29/win-over-sec-ups-chances-for-bitcoin-etf-approval/win-over-sec-ups-chances-for-bitcoin-etf-approval.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
         <loc>https://majordigest.com/tech/2023/08/29/16-attorneys-general-sec-audit-shein-forced-labor/</loc>
         <news:news>
           <news:publication>
@@ -157,6 +171,20 @@
         </image:image>
       </url>
       <url>
+        <loc>https://majordigest.com/tech/2023/08/29/amazon-ceo-tells-remote-workers-its-not-going-to-work-out/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-29T14:58:44.000Z</news:publication_date>
+          <news:title>Amazon CEO tells remote workers: 'It's not going to work out'</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/tech/2023/08/29/amazon-ceo-tells-remote-workers-its-not-going-to-work-out/amazon-ceo-tells-remote-workers-its-not-going-to-work-out.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
         <loc>https://majordigest.com/tech/2023/08/29/pentagon-announces-new-autonomous-drones-systems-program/</loc>
         <news:news>
           <news:publication>
@@ -252,20 +280,6 @@
         </news:news>
         <image:image>
           <image:loc>https://majordigest.com/tech/2023/08/28/car-cheaper-electric-gas/car-cheaper-electric-gas.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/tech/2023/08/28/musk-tech-ceos-to-attend-schumers-ai-senate-forum/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-28T21:37:48.000Z</news:publication_date>
-          <news:title>Musk, tech CEOs to attend Schumer's AI Senate forum</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/tech/2023/08/28/musk-tech-ceos-to-attend-schumers-ai-senate-forum/musk-tech-ceos-to-attend-schumers-ai-senate-forum.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -392,20 +406,6 @@
         </news:news>
         <image:image>
           <image:loc>https://majordigest.com/tech/2023/08/25/los-angeles-solar-ev-chargers-ev-arc-beam-global/los-angeles-solar-ev-chargers-ev-arc-beam-global.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/tech/2023/08/25/workers-win-raises-at-general-motors-joint-venture-battery-plant-in-ohio-as-contract-talks-continue/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-25T00:12:09.000Z</news:publication_date>
-          <news:title>Workers win raises at General Motors joint venture battery plant in Ohio as contract talks continue</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/tech/2023/08/25/workers-win-raises-at-general-motors-joint-venture-battery-plant-in-ohio-as-contract-talks-continue/workers-win-raises-at-general-motors-joint-venture-battery-plant-in-ohio-as-contract-talks-continue.webp</image:loc>
         </image:image>
       </url>
       <url>
