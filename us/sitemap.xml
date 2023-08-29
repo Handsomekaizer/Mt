@@ -3,6 +3,48 @@
               xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
               xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
       <url>
+        <loc>https://majordigest.com/us/2023/08/29/tropical-storm-idalia-is-expected-to-become-a-hurricane-and-move-toward-florida-forecasters-say/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-29T03:08:05.000Z</news:publication_date>
+          <news:title>Florida governor declares widespread state of emergency ahead of Idalia's expected landfall</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/us/2023/08/29/tropical-storm-idalia-is-expected-to-become-a-hurricane-and-move-toward-florida-forecasters-say/tropical-storm-idalia-is-expected-to-become-a-hurricane-and-move-toward-florida-forecasters-say.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/us/2023/08/29/guatemalas-electoral-registry-has-suspended-the-party-of-the-presidential-election-winner/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-29T03:00:48.000Z</news:publication_date>
+          <news:title>Guatemala progressive's presidential victory certified, but his party is suspended from operating</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/us/2023/08/29/guatemalas-electoral-registry-has-suspended-the-party-of-the-presidential-election-winner/guatemalas-electoral-registry-has-suspended-the-party-of-the-presidential-election-winner.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/us/2023/08/29/us-supreme-court-justice-barrett-says-she-welcomes-public-scrutiny-of-court/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-29T02:52:34.000Z</news:publication_date>
+          <news:title>US Supreme Court Justice Barrett says she welcomes public scrutiny of court</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/us/2023/08/29/us-supreme-court-justice-barrett-says-she-welcomes-public-scrutiny-of-court/us-supreme-court-justice-barrett-says-she-welcomes-public-scrutiny-of-court.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
         <loc>https://majordigest.com/us/2023/08/29/camp-pendleton-marines-involved-in-australia-aircraft-crash/</loc>
         <news:news>
           <news:publication>
@@ -17,45 +59,17 @@
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/us/2023/08/29/guatemalas-electoral-registry-has-suspended-the-party-of-the-presidential-election-winner/</loc>
+        <loc>https://majordigest.com/us/2023/08/29/kim-calls-for-north-korean-military-to-be-constantly-ready-to-smash-us-led-invasion-plot/</loc>
         <news:news>
           <news:publication>
             <news:name>Major Digest</news:name>
             <news:language>en</news:language>
           </news:publication>
-          <news:publication_date>2023-08-29T02:41:42.000Z</news:publication_date>
-          <news:title>Guatemala progressive's presidential victory certified, but his party is suspended from operating</news:title>
+          <news:publication_date>2023-08-29T02:41:38.000Z</news:publication_date>
+          <news:title>N. Korea's Kim calls for readiness to smash US-led invasion plot, as US trains with South and Japan</news:title>
         </news:news>
         <image:image>
-          <image:loc>https://majordigest.com/us/2023/08/29/guatemalas-electoral-registry-has-suspended-the-party-of-the-presidential-election-winner/guatemalas-electoral-registry-has-suspended-the-party-of-the-presidential-election-winner.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/us/2023/08/29/california-state-senate-leader-says-she-will-step-down-from-leadership-post/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-29T02:23:18.000Z</news:publication_date>
-          <news:title>California state Senate leader says she will step down from leadership post</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/us/2023/08/29/california-state-senate-leader-says-she-will-step-down-from-leadership-post/california-state-senate-leader-says-she-will-step-down-from-leadership-post.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/us/2023/08/29/japan-asks-china-to-urge-citizens-to-halt-harassment-after-start-of-fukushima-wastewater-release/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-29T02:21:48.000Z</news:publication_date>
-          <news:title>Japan asks China to urge citizens to halt harassment after start of Fukushima wastewater release</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/us/2023/08/29/japan-asks-china-to-urge-citizens-to-halt-harassment-after-start-of-fukushima-wastewater-release/japan-asks-china-to-urge-citizens-to-halt-harassment-after-start-of-fukushima-wastewater-release.webp</image:loc>
+          <image:loc>https://majordigest.com/us/2023/08/29/kim-calls-for-north-korean-military-to-be-constantly-ready-to-smash-us-led-invasion-plot/kim-calls-for-north-korean-military-to-be-constantly-ready-to-smash-us-led-invasion-plot.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -70,48 +84,6 @@
         </news:news>
         <image:image>
           <image:loc>https://majordigest.com/us/2023/08/29/significance-of-march-on-washington-still-felt-decades-later/significance-of-march-on-washington-still-felt-decades-later.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/us/2023/08/29/tropical-storm-idalia-is-expected-to-become-a-hurricane-and-move-toward-florida-forecasters-say/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-29T01:49:31.000Z</news:publication_date>
-          <news:title>Florida governor declares widespread state of emergency ahead of Idalia's expected landfall</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/us/2023/08/29/tropical-storm-idalia-is-expected-to-become-a-hurricane-and-move-toward-florida-forecasters-say/tropical-storm-idalia-is-expected-to-become-a-hurricane-and-move-toward-florida-forecasters-say.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/us/2023/08/29/gop-silences-tennessee-three-democrat-on-house-floor-for-day-on-out-of-order-rule-crowd-erupts/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-29T01:49:30.000Z</news:publication_date>
-          <news:title>GOP silences 'Tennessee Three' Democrat on House floor for day on 'out of order' rule; crowd erupts</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/us/2023/08/29/gop-silences-tennessee-three-democrat-on-house-floor-for-day-on-out-of-order-rule-crowd-erupts/gop-silences-tennessee-three-democrat-on-house-floor-for-day-on-out-of-order-rule-crowd-erupts.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/us/2023/08/29/search-woman-colorado-resort/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-29T01:49:02.000Z</news:publication_date>
-          <news:title>Search continues for woman missing from Colorado resort town</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/us/2023/08/29/search-woman-colorado-resort/search-woman-colorado-resort.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -157,20 +129,6 @@
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/us/2023/08/29/hawaii-power-utility-takes-responsibility-for-first-fire-on-maui-but-faults-county-firefighters/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-29T00:57:12.000Z</news:publication_date>
-          <news:title>Hawaii power utility takes responsibility for first fire on Maui, but faults county firefighters</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/us/2023/08/29/hawaii-power-utility-takes-responsibility-for-first-fire-on-maui-but-faults-county-firefighters/hawaii-power-utility-takes-responsibility-for-first-fire-on-maui-but-faults-county-firefighters.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
         <loc>https://majordigest.com/us/2023/08/29/university-of-north-carolina-warns-of-armed-person-on-campus-and-urges-people-to-stay-inside/</loc>
         <news:news>
           <news:publication>
@@ -196,20 +154,6 @@
         </news:news>
         <image:image>
           <image:loc>https://majordigest.com/us/2023/08/29/texas-historical-society-averts-lawsuit-dispute-over-how-state-history-taught-classrooms/texas-historical-society-averts-lawsuit-dispute-over-how-state-history-taught-classrooms.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/us/2023/08/28/michigan-man-far-right-boogaloo-boy-year-prison-gun-crimes/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-28T23:57:51.000Z</news:publication_date>
-          <news:title>Michigan man, far-right 'Boogaloo Boy,' gets year in prison for gun crimes</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/us/2023/08/28/michigan-man-far-right-boogaloo-boy-year-prison-gun-crimes/michigan-man-far-right-boogaloo-boy-year-prison-gun-crimes.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -283,20 +227,6 @@
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/us/2023/08/28/federal-judge-sets-march-trial-date-in-trump-2020-election-interference-case/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-28T22:20:00.000Z</news:publication_date>
-          <news:title>Federal judge sets March trial date in Trump 2020 election interference case</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/us/2023/08/28/federal-judge-sets-march-trial-date-in-trump-2020-election-interference-case/federal-judge-sets-march-trial-date-in-trump-2020-election-interference-case.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
         <loc>https://majordigest.com/us/2023/08/28/eminem-wants-ramaswamy-to-stop-using-his-music-on-the-campaign-trail/</loc>
         <news:news>
           <news:publication>
@@ -336,6 +266,48 @@
         </news:news>
         <image:image>
           <image:loc>https://majordigest.com/us/2023/08/28/need-to-know-about-live-saving-cpr-a-new-study-says-its-probably-wise-not-to-ask-alexa-or-siri/need-to-know-about-live-saving-cpr-a-new-study-says-its-probably-wise-not-to-ask-alexa-or-siri.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/us/2023/08/28/farmers-insurance-says-it-is-cutting-over-2000-jobs/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-28T21:09:46.000Z</news:publication_date>
+          <news:title>Farmers Insurance says it is cutting over 2,000 jobs</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/us/2023/08/28/farmers-insurance-says-it-is-cutting-over-2000-jobs/farmers-insurance-says-it-is-cutting-over-2000-jobs.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/us/2023/08/28/us-chinese-commerce-leaders-meet-huge-progress/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-28T20:44:31.000Z</news:publication_date>
+          <news:title>US, Chinese commerce leaders meet: 'Huge progress'</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/us/2023/08/28/us-chinese-commerce-leaders-meet-huge-progress/us-chinese-commerce-leaders-meet-huge-progress.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/us/2023/08/28/joe-the-plumber-who-questioned-obamas-tax-policies-during-the-2008-campaign-has-died-at-49/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-28T20:37:19.000Z</news:publication_date>
+          <news:title>Joe the Plumber, who questioned Obama's tax policies during the 2008 campaign, has died at 49</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/us/2023/08/28/joe-the-plumber-who-questioned-obamas-tax-policies-during-the-2008-campaign-has-died-at-49/joe-the-plumber-who-questioned-obamas-tax-policies-during-the-2008-campaign-has-died-at-49.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -395,6 +367,34 @@
         </image:image>
       </url>
       <url>
+        <loc>https://majordigest.com/us/2023/08/28/unc-police-release-photo-of-gunman-at-large-on-or-near-campus-university-on-lockdown/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-28T20:03:11.000Z</news:publication_date>
+          <news:title>Faculty member shot dead at UNC-Chapel Hill; suspect in custody</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/us/2023/08/28/unc-police-release-photo-of-gunman-at-large-on-or-near-campus-university-on-lockdown/unc-police-release-photo-of-gunman-at-large-on-or-near-campus-university-on-lockdown.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/us/2023/08/28/is-it-time-to-bring-back-the-covid-mask-we-asked-3-doctors/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-28T19:47:16.000Z</news:publication_date>
+          <news:title>Is it time to bring back the COVID mask? We asked 3 doctors</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/us/2023/08/28/is-it-time-to-bring-back-the-covid-mask-we-asked-3-doctors/is-it-time-to-bring-back-the-covid-mask-we-asked-3-doctors.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
         <loc>https://majordigest.com/us/2023/08/28/dot-fines-american-airlines-4-1m-over-tarmac-delays/</loc>
         <news:news>
           <news:publication>
@@ -420,6 +420,34 @@
         </news:news>
         <image:image>
           <image:loc>https://majordigest.com/us/2023/08/28/police-release-photo-of-gunman-at-large-on-or-near-uncs-campus-university-on-lockdown/police-release-photo-of-gunman-at-large-on-or-near-uncs-campus-university-on-lockdown.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/us/2023/08/28/former-disney-star-arrested-in-texas-reports/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-28T18:54:38.000Z</news:publication_date>
+          <news:title>Former Disney star arrested in Texas: reports</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/us/2023/08/28/former-disney-star-arrested-in-texas-reports/former-disney-star-arrested-in-texas-reports.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/us/2023/08/28/joe-the-plumber-made-famous-during-obamas-2008-campaign-dead-at-49/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-28T18:41:03.000Z</news:publication_date>
+          <news:title>Joe the Plumber dead at 49</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/us/2023/08/28/joe-the-plumber-made-famous-during-obamas-2008-campaign-dead-at-49/joe-the-plumber-made-famous-during-obamas-2008-campaign-dead-at-49.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -479,44 +507,16 @@
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/us/2023/08/28/most-states-in-south-have-banned-gender-affirming-care-for-trans-youth/</loc>
+        <loc>https://majordigest.com/us/2023/08/28/bog-snorkeling-championships-competitors-race-through-slime-in-british-contest/</loc>
         <news:news>
           <news:publication>
             <news:name>Major Digest</news:name>
             <news:language>en</news:language>
           </news:publication>
-          <news:publication_date>2023-08-28T12:52:56.000Z</news:publication_date>
-          <news:title>Most states in South have banned gender-affirming care for trans youth</news:title>
+          <news:publication_date>2023-08-28T13:35:43.000Z</news:publication_date>
+          <news:title>Bog snorkeling championships: Competitors&#160;race through slime in British contest</news:title>
         </news:news>
         <image:image>
-          <image:loc>https://majordigest.com/us/2023/08/28/most-states-in-south-have-banned-gender-affirming-care-for-trans-youth/most-states-in-south-have-banned-gender-affirming-care-for-trans-youth.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/us/2023/08/27/jacksonville-killings-what-we-know-about-the-hate-crime/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-27T18:14:10.000Z</news:publication_date>
-          <news:title>Jacksonville shootings: What we know about the hate crime</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/us/2023/08/27/jacksonville-killings-what-we-know-about-the-hate-crime/jacksonville-killings-what-we-know-about-the-hate-crime.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/us/2023/08/24/woman-in-tiktok-video-of-racist-outburst-at-california-mcdonalds-is-no-longer-employed/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-24T17:41:16.000Z</news:publication_date>
-          <news:title>Woman in TikTok video of racist outburst at California McDonald's is no longer employed</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/us/2023/08/24/woman-in-tiktok-video-of-racist-outburst-at-california-mcdonalds-is-no-longer-employed/woman-in-tiktok-video-of-racist-outburst-at-california-mcdonalds-is-no-longer-employed.webp</image:loc>
+          <image:loc>https://majordigest.com/us/2023/08/28/bog-snorkeling-championships-competitors-race-through-slime-in-british-contest/bog-snorkeling-championships-competitors-race-through-slime-in-british-contest.webp</image:loc>
         </image:image>
       </url></urlset>

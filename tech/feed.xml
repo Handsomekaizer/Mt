@@ -7,7 +7,7 @@
         <title>Major Digest - Reliable and Comprehensive News Sources: tech</title>
         <description>Get the latest news online at Major Digest, the top online news resource for the most reliable news sources. Stay informed about the world around you!</description>
         <link>https://majordigest.com/?utm_medium=RSS</link>
-        <lastBuildDate>Tue, 29 Aug 2023 02:54:33 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 29 Aug 2023 03:19:40 GMT</lastBuildDate>
         <generator>https://majordigest.com/?v=1.1.4</generator>
         <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/" />
         <atom:link rel="self" href="https://majordigest.com/tech/feed.xml" type="application/rss+xml" />
@@ -52,6 +52,17 @@
         <dc:creator>Rebecca Klar, The Hill</dc:creator>
       </item>
       <item>
+        <title>Beware of this Mac malware masquerading as an office productivity app</title>
+        <description><![CDATA[Malware is always lurking around the corner. Kurt &quot;CyberGuy&quot; Knutsson explains how this malware is disguised and what you can do to keep your data safe.]]></description>
+        <guid>https://majordigest.com/tech/2023/08/28/beware-mac-malware-masquerading-office-productivity-app/</guid>
+        <link>https://majordigest.com/tech/2023/08/28/beware-mac-malware-masquerading-office-productivity-app/</link>
+        <pubDate>Mon, 28 Aug 2023 15:28:35 EDT</pubDate>
+        <category>tech</category>
+        <media:content medium="image" url="https://majordigest.com/tech/2023/08/28/beware-mac-malware-masquerading-office-productivity-app/beware-mac-malware-masquerading-office-productivity-app.webp"/>
+        <media:thumbnail url="https://majordigest.com/tech/2023/08/28/beware-mac-malware-masquerading-office-productivity-app/beware-mac-malware-masquerading-office-productivity-app.webp"/>
+        <dc:creator>Fox News</dc:creator>
+      </item>
+      <item>
         <title>How to maximize screen space on your desktop and laptop to be more productive</title>
         <description><![CDATA[Sometimes computer screens can be so cluttered with icons and multiple windows open. Kurt &quot;CyberGuy&quot; Knutsson shows you how to maximize your screen space.]]></description>
         <guid>https://majordigest.com/tech/2023/08/28/maximize-screen-space-desktop-laptop-productive/</guid>
@@ -63,26 +74,15 @@
         <dc:creator>Fox News</dc:creator>
       </item>
       <item>
-        <title>Ex-Goldman Trader building new Bay Area city will need to appease local opponents</title>
-        <description><![CDATA[The mystery surrounding a project to convert farmland into a new green city in the Bay Area is finally being unraveled. The would-be “mega-city” is the brainchild of a novice developer backed by some of Silicon Valley’s most prominent names.]]></description>
-        <guid>https://majordigest.com/tech/2023/08/28/ex-goldman-trader-building-new-california-city-will-need-to-appease-local-opponents/</guid>
-        <link>https://majordigest.com/tech/2023/08/28/ex-goldman-trader-building-new-california-city-will-need-to-appease-local-opponents/</link>
-        <pubDate>Mon, 28 Aug 2023 17:01:07 +0000</pubDate>
+        <title>How PayPal is using AI to combat fraud, and make it easier to pay</title>
+        <description><![CDATA[Artificial intelligence has been the buzzword of 2023 ever since ChatGPT made its public debut earlier this year, with businesses, schools, universities and even non-profits looking for ways to integrate AI in their operations.]]></description>
+        <guid>https://majordigest.com/tech/2023/08/28/how-paypal-is-using-ai-to-combat-fraud-and-make-it-easier-to-pay/</guid>
+        <link>https://majordigest.com/tech/2023/08/28/how-paypal-is-using-ai-to-combat-fraud-and-make-it-easier-to-pay/</link>
+        <pubDate>Mon, 28 Aug 2023 11:42:35 +0000</pubDate>
         <category>tech</category>
-        <media:content medium="image" url="https://majordigest.com/tech/2023/08/28/ex-goldman-trader-building-new-california-city-will-need-to-appease-local-opponents/ex-goldman-trader-building-new-california-city-will-need-to-appease-local-opponents.webp"/>
-        <media:thumbnail url="https://majordigest.com/tech/2023/08/28/ex-goldman-trader-building-new-california-city-will-need-to-appease-local-opponents/ex-goldman-trader-building-new-california-city-will-need-to-appease-local-opponents.webp"/>
-        <dc:creator>Bloomberg, The Mercury News</dc:creator>
-      </item>
-      <item>
-        <title>Google makes it easier to remove personal info</title>
-        <description><![CDATA[Google recently updated a powerful privacy feature called Results About You. The improvements make it even easier to find and remove your personal information from Google Search Results. This can include information like your phone number, email and home address.]]></description>
-        <guid>https://majordigest.com/tech/2023/08/28/how-to-use-google-results-about-you-privacy-remove-personal-data/</guid>
-        <link>https://majordigest.com/tech/2023/08/28/how-to-use-google-results-about-you-privacy-remove-personal-data/</link>
-        <pubDate>Mon, 28 Aug 2023 12:01:36 +0000</pubDate>
-        <category>tech</category>
-        <media:content medium="image" url="https://majordigest.com/tech/2023/08/28/how-to-use-google-results-about-you-privacy-remove-personal-data/how-to-use-google-results-about-you-privacy-remove-personal-data.webp"/>
-        <media:thumbnail url="https://majordigest.com/tech/2023/08/28/how-to-use-google-results-about-you-privacy-remove-personal-data/how-to-use-google-results-about-you-privacy-remove-personal-data.webp"/>
-        <dc:creator>Rich DeMuro, KTLA 5</dc:creator>
+        <media:content medium="image" url="https://majordigest.com/tech/2023/08/28/how-paypal-is-using-ai-to-combat-fraud-and-make-it-easier-to-pay/how-paypal-is-using-ai-to-combat-fraud-and-make-it-easier-to-pay.webp"/>
+        <media:thumbnail url="https://majordigest.com/tech/2023/08/28/how-paypal-is-using-ai-to-combat-fraud-and-make-it-easier-to-pay/how-paypal-is-using-ai-to-combat-fraud-and-make-it-easier-to-pay.webp"/>
+        <dc:creator>Ken Sweet, Associated Press, KPRC 2</dc:creator>
       </item>
       <item>
         <title>How an AI 'gold rush' is reviving the tech industry</title>
@@ -217,17 +217,6 @@
         <dc:creator>Robert Salonga, The Mercury News</dc:creator>
       </item>
       <item>
-        <title>Musk calls Trump mug shot post 'next-level' after former president returns to 'X' platform</title>
-        <description><![CDATA[Shortly after former President Trump returned to X, the platform formerly known as Twitter, with a tweet featuring his mug shot Thursday, Elon Musk responded in a quote tweet. “Next-level,” Musk’s Thursday night post read.]]></description>
-        <guid>https://majordigest.com/tech/2023/08/25/musk-calls-trump-mug-shot-post-next-level-after-former-president-returns-to-x-platform/</guid>
-        <link>https://majordigest.com/tech/2023/08/25/musk-calls-trump-mug-shot-post-next-level-after-former-president-returns-to-x-platform/</link>
-        <pubDate>Fri, 25 Aug 2023 20:18:25 +0000</pubDate>
-        <category>tech</category>
-        <media:content medium="image" url="https://majordigest.com/tech/2023/08/25/musk-calls-trump-mug-shot-post-next-level-after-former-president-returns-to-x-platform/musk-calls-trump-mug-shot-post-next-level-after-former-president-returns-to-x-platform.webp"/>
-        <media:thumbnail url="https://majordigest.com/tech/2023/08/25/musk-calls-trump-mug-shot-post-next-level-after-former-president-returns-to-x-platform/musk-calls-trump-mug-shot-post-next-level-after-former-president-returns-to-x-platform.webp"/>
-        <dc:creator>Tara Suter, The Hill</dc:creator>
-      </item>
-      <item>
         <title>Early Apple computer that helped launch $3T company sells at auction for $223,000</title>
         <description><![CDATA[BOSTON (AP) — One of the first personal computers built by Apple and signed by company co-founder Steve Wozniak has sold at auction for more than $223,000.]]></description>
         <guid>https://majordigest.com/tech/2023/08/25/early-apple-computer-that-helped-launch-3t-company-sells-at-auction-for-223000/</guid>
@@ -261,6 +250,17 @@
         <dc:creator>Rich DeMuro, KTLA 5</dc:creator>
       </item>
       <item>
+        <title>Trump returns to Twitter, under its new moniker X</title>
+        <description><![CDATA[Former President Trump on Thursday posted on X, the platform formerly known as Twitter, for the first time since January 2021 to share an image of his mug shot following his surrender in Fulton County, Ga., on Thursday evening.]]></description>
+        <guid>https://majordigest.com/tech/2023/08/25/trump-returns-to-twitter-under-its-new-moniker-x/</guid>
+        <link>https://majordigest.com/tech/2023/08/25/trump-returns-to-twitter-under-its-new-moniker-x/</link>
+        <pubDate>Fri, 25 Aug 2023 02:13:08 +0000</pubDate>
+        <category>tech</category>
+        <media:content medium="image" url="https://majordigest.com/tech/2023/08/25/trump-returns-to-twitter-under-its-new-moniker-x/trump-returns-to-twitter-under-its-new-moniker-x.webp"/>
+        <media:thumbnail url="https://majordigest.com/tech/2023/08/25/trump-returns-to-twitter-under-its-new-moniker-x/trump-returns-to-twitter-under-its-new-moniker-x.webp"/>
+        <dc:creator>Brett Samuels, NewsNation</dc:creator>
+      </item>
+      <item>
         <title>T-Mobile to lay off 5,000 employees</title>
         <description><![CDATA["What it takes to attract and retain customers is materially more expensive than it was just a few quarters ago," Sievert wrote.]]></description>
         <guid>https://majordigest.com/tech/2023/08/25/t-mobile-lay-off-5000-employees/</guid>
@@ -281,6 +281,17 @@
         <media:content medium="image" url="https://majordigest.com/tech/2023/08/25/workers-win-raises-at-general-motors-joint-venture-battery-plant-in-ohio-as-contract-talks-continue/workers-win-raises-at-general-motors-joint-venture-battery-plant-in-ohio-as-contract-talks-continue.webp"/>
         <media:thumbnail url="https://majordigest.com/tech/2023/08/25/workers-win-raises-at-general-motors-joint-venture-battery-plant-in-ohio-as-contract-talks-continue/workers-win-raises-at-general-motors-joint-venture-battery-plant-in-ohio-as-contract-talks-continue.webp"/>
         <dc:creator>AP, ABC 4</dc:creator>
+      </item>
+      <item>
+        <title>US sues SpaceX for alleged hiring discrimination against refugees and others</title>
+        <description><![CDATA[The U.S. Department of Justice has sued SpaceX, the rocket company founded and run by Elon Musk, for alleged hiring discrimination against refugees and people granted asylum.]]></description>
+        <guid>https://majordigest.com/tech/2023/08/24/us-sues-spacex-for-alleged-hiring-discrimination-against-refugees-and-others/</guid>
+        <link>https://majordigest.com/tech/2023/08/24/us-sues-spacex-for-alleged-hiring-discrimination-against-refugees-and-others/</link>
+        <pubDate>Thu, 24 Aug 2023 22:55:51 +0000</pubDate>
+        <category>tech</category>
+        <media:content medium="image" url="https://majordigest.com/tech/2023/08/24/us-sues-spacex-for-alleged-hiring-discrimination-against-refugees-and-others/us-sues-spacex-for-alleged-hiring-discrimination-against-refugees-and-others.webp"/>
+        <media:thumbnail url="https://majordigest.com/tech/2023/08/24/us-sues-spacex-for-alleged-hiring-discrimination-against-refugees-and-others/us-sues-spacex-for-alleged-hiring-discrimination-against-refugees-and-others.webp"/>
+        <dc:creator>Associated Press, Local 4</dc:creator>
       </item>
       <item>
         <title>DOJ sues SpaceX for allegedly not hiring asylees, refugees</title>
@@ -382,17 +393,6 @@
         <dc:creator>AP, KGET 17, NBC</dc:creator>
       </item>
       <item>
-        <title>Mark Zuckerberg says a web version of Threads will be available in the next few days</title>
-        <description><![CDATA[NEW YORK (AP) — Threads users, get happy – you will finally be able to use the social media platform without an app. Meta CEO Mark Zuckerberg said in a Threads post on Tuesday morning that a web version of the app will be rolling out over the next few days.]]></description>
-        <guid>https://majordigest.com/tech/2023/08/22/mark-zuckerberg-says-a-web-version-of-threads-will-be-available-in-the-next-few-days/</guid>
-        <link>https://majordigest.com/tech/2023/08/22/mark-zuckerberg-says-a-web-version-of-threads-will-be-available-in-the-next-few-days/</link>
-        <pubDate>Tue, 22 Aug 2023 15:07:57 +0000</pubDate>
-        <category>tech</category>
-        <media:content medium="image" url="https://majordigest.com/tech/2023/08/22/mark-zuckerberg-says-a-web-version-of-threads-will-be-available-in-the-next-few-days/mark-zuckerberg-says-a-web-version-of-threads-will-be-available-in-the-next-few-days.webp"/>
-        <media:thumbnail url="https://majordigest.com/tech/2023/08/22/mark-zuckerberg-says-a-web-version-of-threads-will-be-available-in-the-next-few-days/mark-zuckerberg-says-a-web-version-of-threads-will-be-available-in-the-next-few-days.webp"/>
-        <dc:creator>Associated Press, KGET 17, NBC</dc:creator>
-      </item>
-      <item>
         <title>Microsoft budges on video game streaming rights in push for UK to approve Activision Blizzard deal</title>
         <description><![CDATA[LONDON (AP) — British competition regulators opened a new investigation Tuesday into Microsoft's revamped bid to buy video game maker Activision Blizzard, representing the last major hurdle to closing one of the biggest deals in tech history.]]></description>
         <guid>https://majordigest.com/tech/2023/08/22/microsoft-revamps-deal-for-video-game-maker-activision-blizzard-to-meet-uk-demands/</guid>
@@ -404,6 +404,17 @@
         <dc:creator>KELVIN CHAN, Associated Press, KGET 17, NBC</dc:creator>
       </item>
       <item>
+        <title>How to set up earthquake alerts on your phone</title>
+        <description><![CDATA[Did you get an earthquake alert on your phone Sunday? There are several ways to make sure they're delivered to your smartphone. Here's how. First off, there are two types of earthquake alerts: early warning alerts and notifications that an earthquake just happened.]]></description>
+        <guid>https://majordigest.com/tech/2023/08/22/how-to-set-up-earthquake-alerts-on-your-phone/</guid>
+        <link>https://majordigest.com/tech/2023/08/22/how-to-set-up-earthquake-alerts-on-your-phone/</link>
+        <pubDate>Tue, 22 Aug 2023 11:57:59 +0000</pubDate>
+        <category>tech</category>
+        <media:content medium="image" url="https://majordigest.com/tech/2023/08/22/how-to-set-up-earthquake-alerts-on-your-phone/how-to-set-up-earthquake-alerts-on-your-phone.webp"/>
+        <media:thumbnail url="https://majordigest.com/tech/2023/08/22/how-to-set-up-earthquake-alerts-on-your-phone/how-to-set-up-earthquake-alerts-on-your-phone.webp"/>
+        <dc:creator>Rich DeMuro, KTLA 5</dc:creator>
+      </item>
+      <item>
         <title>Iran unveils armed drone resembling America's MQ-9 Reaper and says it could potentially reach Israel</title>
         <description><![CDATA[TEHRAN, Iran (AP) — Iran's Defense Ministry unveiled a drone on Tuesday resembling America's armed MQ-9 Reaper, claiming that the aircraft is capable of staying airborne for 24 hours and has the range to reach the country's archenemy Israel.]]></description>
         <guid>https://majordigest.com/tech/2023/08/22/iran-unveils-armed-drone-resembling-americas-mq-9-reaper-and-says-it-could-potentially-reach-israel/</guid>
@@ -413,15 +424,4 @@
         <media:content medium="image" url="https://majordigest.com/tech/2023/08/22/iran-unveils-armed-drone-resembling-americas-mq-9-reaper-and-says-it-could-potentially-reach-israel/iran-unveils-armed-drone-resembling-americas-mq-9-reaper-and-says-it-could-potentially-reach-israel.webp"/>
         <media:thumbnail url="https://majordigest.com/tech/2023/08/22/iran-unveils-armed-drone-resembling-americas-mq-9-reaper-and-says-it-could-potentially-reach-israel/iran-unveils-armed-drone-resembling-americas-mq-9-reaper-and-says-it-could-potentially-reach-israel.webp"/>
         <dc:creator>NASSER KARIMI and JON GAMBRELL, Associated Press, KLAS, CBS News</dc:creator>
-      </item>
-      <item>
-        <title>Prime Minister Justin Trudeau slams Facebook for blocking Canada wildfire news</title>
-        <description><![CDATA[TORONTO (AP) — Canadian Prime Minister Justin Trudeau on Monday accused Facebook of putting profits over people’s safety during the emergencies created by Canada’s record wildfire season.]]></description>
-        <guid>https://majordigest.com/tech/2023/08/22/prime-minister-justin-trudeau-slams-facebook-for-blocking-canada-wildfire-news/</guid>
-        <link>https://majordigest.com/tech/2023/08/22/prime-minister-justin-trudeau-slams-facebook-for-blocking-canada-wildfire-news/</link>
-        <pubDate>Tue, 22 Aug 2023 03:43:51 +0000</pubDate>
-        <category>tech</category>
-        <media:content medium="image" url="https://majordigest.com/tech/2023/08/22/prime-minister-justin-trudeau-slams-facebook-for-blocking-canada-wildfire-news/prime-minister-justin-trudeau-slams-facebook-for-blocking-canada-wildfire-news.webp"/>
-        <media:thumbnail url="https://majordigest.com/tech/2023/08/22/prime-minister-justin-trudeau-slams-facebook-for-blocking-canada-wildfire-news/prime-minister-justin-trudeau-slams-facebook-for-blocking-canada-wildfire-news.webp"/>
-        <dc:creator>ROB GILLIES, Associated Press, KLAS, CBS News</dc:creator>
       </item></channel></rss>

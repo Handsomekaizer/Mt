@@ -3,17 +3,17 @@
               xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
               xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
       <url>
-        <loc>https://majordigest.com/world/2023/08/29/pope-francis-draws-fire-after-praising-russian-empire/</loc>
+        <loc>https://majordigest.com/world/2023/08/29/japan-asks-china-to-urge-citizens-to-halt-harassment-after-start-of-fukushima-wastewater-release/</loc>
         <news:news>
           <news:publication>
             <news:name>Major Digest</news:name>
             <news:language>en</news:language>
           </news:publication>
-          <news:publication_date>2023-08-29T00:59:50.000Z</news:publication_date>
-          <news:title>Pope Francis draws fire after praising Russian empire</news:title>
+          <news:publication_date>2023-08-29T02:21:48.000Z</news:publication_date>
+          <news:title>Japan asks China to urge citizens to halt harassment after start of Fukushima wastewater release</news:title>
         </news:news>
         <image:image>
-          <image:loc>https://majordigest.com/world/2023/08/29/pope-francis-draws-fire-after-praising-russian-empire/pope-francis-draws-fire-after-praising-russian-empire.webp</image:loc>
+          <image:loc>https://majordigest.com/world/2023/08/29/japan-asks-china-to-urge-citizens-to-halt-harassment-after-start-of-fukushima-wastewater-release/japan-asks-china-to-urge-citizens-to-halt-harassment-after-start-of-fukushima-wastewater-release.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -28,6 +28,20 @@
         </news:news>
         <image:image>
           <image:loc>https://majordigest.com/world/2023/08/29/pope-francis-draws-fire-after-praising-russian-empire/pope-francis-draws-fire-after-praising-russian-empire.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/world/2023/08/29/french-education-minister-bans-long-robes-in-classrooms-in-effort-to-defend-nations-secular-values/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-29T00:37:19.000Z</news:publication_date>
+          <news:title>France's education minister bans long robes in classrooms. They're worn mainly by Muslims</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/world/2023/08/29/french-education-minister-bans-long-robes-in-classrooms-in-effort-to-defend-nations-secular-values/french-education-minister-bans-long-robes-in-classrooms-in-effort-to-defend-nations-secular-values.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -143,6 +157,20 @@
         </image:image>
       </url>
       <url>
+        <loc>https://majordigest.com/world/2023/08/28/haiti-police-probe-killings-of-parishioners-who-were-led-by-a-pastor-into-gang-territory/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-28T21:13:51.000Z</news:publication_date>
+          <news:title>Haiti police probe killings of parishioners who were led by a pastor into gang territory</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/world/2023/08/28/haiti-police-probe-killings-of-parishioners-who-were-led-by-a-pastor-into-gang-territory/haiti-police-probe-killings-of-parishioners-who-were-led-by-a-pastor-into-gang-territory.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
         <loc>https://majordigest.com/world/2023/08/28/deadly-montreal-fire-march-being-criminally-investigated/</loc>
         <news:news>
           <news:publication>
@@ -196,6 +224,20 @@
         </news:news>
         <image:image>
           <image:loc>https://majordigest.com/world/2023/08/28/virginia-man-stolen-at-birth-meets-chilean-family-for-first-time/virginia-man-stolen-at-birth-meets-chilean-family-for-first-time.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/world/2023/08/28/libyas-foreign-minister-suspended-after-meeting-with-israels-chief-diplomat/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-28T19:13:14.000Z</news:publication_date>
+          <news:title>Libya&#8217;s foreign minister suspended, flees country after meeting with Israel&#8217;s chief diplomat</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/world/2023/08/28/libyas-foreign-minister-suspended-after-meeting-with-israels-chief-diplomat/libyas-foreign-minister-suspended-after-meeting-with-israels-chief-diplomat.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -297,20 +339,6 @@
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/world/2023/08/28/china-wont-require-covid-19-testing-for-incoming-travelers-starting-wednesday/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-28T11:07:52.000Z</news:publication_date>
-          <news:title>China won't require COVID-19 tests for incoming travelers in a milestone in its reopening</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/world/2023/08/28/china-wont-require-covid-19-testing-for-incoming-travelers-starting-wednesday/china-wont-require-covid-19-testing-for-incoming-travelers-starting-wednesday.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
         <loc>https://majordigest.com/world/2023/08/28/8-us-marines-remain-in-hospital-after-fiery-aircraft-crash-killed-3-in-australia/</loc>
         <news:news>
           <news:publication>
@@ -322,6 +350,20 @@
         </news:news>
         <image:image>
           <image:loc>https://majordigest.com/world/2023/08/28/8-us-marines-remain-in-hospital-after-fiery-aircraft-crash-killed-3-in-australia/8-us-marines-remain-in-hospital-after-fiery-aircraft-crash-killed-3-in-australia.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/world/2023/08/27/russia-says-it-has-confirmed-prigozhin-died-in-the-plane-crash/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-27T16:07:48.000Z</news:publication_date>
+          <news:title>Russia says it confirmed Wagner leader Prigozhin died in a plane crash</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/world/2023/08/27/russia-says-it-has-confirmed-prigozhin-died-in-the-plane-crash/russia-says-it-has-confirmed-prigozhin-died-in-the-plane-crash.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -378,34 +420,6 @@
         </news:news>
         <image:image>
           <image:loc>https://majordigest.com/world/2023/08/25/indias-lunar-rover-keeps-walking-on-the-moon-days-after-spacecrafts-historic-touchdown/indias-lunar-rover-keeps-walking-on-the-moon-days-after-spacecrafts-historic-touchdown.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/world/2023/08/25/indias-lunar-rover-keeps-walking-on-the-moon-days-after-spacecrafts-historic-touchdown/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-25T15:30:36.000Z</news:publication_date>
-          <news:title>India's lunar rover keeps walking on the moon, days after spacecraft's historic touchdown</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/world/2023/08/25/indias-lunar-rover-keeps-walking-on-the-moon-days-after-spacecrafts-historic-touchdown/indias-lunar-rover-keeps-walking-on-the-moon-days-after-spacecrafts-historic-touchdown.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/world/2023/08/25/from-tarantulas-to-tigers-zoo-animals-step-onto-scales-for-annual-weigh-in/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-25T13:11:05.000Z</news:publication_date>
-          <news:title>From tarantulas to tigers, zoo animals step onto scales for annual weigh-in</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/world/2023/08/25/from-tarantulas-to-tigers-zoo-animals-step-onto-scales-for-annual-weigh-in/from-tarantulas-to-tigers-zoo-animals-step-onto-scales-for-annual-weigh-in.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -490,20 +504,6 @@
         </news:news>
         <image:image>
           <image:loc>https://majordigest.com/world/2023/08/23/india-lands-a-spacecraft-near-the-moons-south-pole-a-first-for-the-world-as-it-joins-elite-club/india-lands-a-spacecraft-near-the-moons-south-pole-a-first-for-the-world-as-it-joins-elite-club.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/world/2023/08/23/indias-spacecraft-is-preparing-to-land-on-the-moon-in-the-countrys-second-attempt-in-4-years/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-23T09:51:36.000Z</news:publication_date>
-          <news:title>India successfully lands its Chandrayaan-3 rover on the moon, near the south pole</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/world/2023/08/23/indias-spacecraft-is-preparing-to-land-on-the-moon-in-the-countrys-second-attempt-in-4-years/indias-spacecraft-is-preparing-to-land-on-the-moon-in-the-countrys-second-attempt-in-4-years.webp</image:loc>
         </image:image>
       </url>
       <url>

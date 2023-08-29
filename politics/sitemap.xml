@@ -3,6 +3,20 @@
               xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
               xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
       <url>
+        <loc>https://majordigest.com/politics/2023/08/29/california-state-senate-leader-says-she-will-step-down-from-leadership-post/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-29T02:23:18.000Z</news:publication_date>
+          <news:title>California state Senate leader says she will step down from leadership post</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/politics/2023/08/29/california-state-senate-leader-says-she-will-step-down-from-leadership-post/california-state-senate-leader-says-she-will-step-down-from-leadership-post.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
         <loc>https://majordigest.com/politics/2023/08/29/chris-christie-2024-election-post-debate-trump-ramaswamy/</loc>
         <news:news>
           <news:publication>
@@ -31,17 +45,31 @@
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/politics/2023/08/29/judge-to-hear-arguments-on-mark-meadows-request-to-move-georgia-election-case-to-federal-court/</loc>
+        <loc>https://majordigest.com/politics/2023/08/29/wisconsin-supreme-court-chief-justice-accuses-liberal-majority-of-staging-a-coup/</loc>
         <news:news>
           <news:publication>
             <news:name>Major Digest</news:name>
             <news:language>en</news:language>
           </news:publication>
-          <news:publication_date>2023-08-29T01:02:42.000Z</news:publication_date>
-          <news:title>Trump chief of staff Meadows says actions laid out in Georgia indictment were part of his job</news:title>
+          <news:publication_date>2023-08-29T01:38:37.000Z</news:publication_date>
+          <news:title>Wisconsin Supreme Court chief justice accuses liberal majority of staging &#8216;coup&#8217;</news:title>
         </news:news>
         <image:image>
-          <image:loc>https://majordigest.com/politics/2023/08/29/judge-to-hear-arguments-on-mark-meadows-request-to-move-georgia-election-case-to-federal-court/judge-to-hear-arguments-on-mark-meadows-request-to-move-georgia-election-case-to-federal-court.webp</image:loc>
+          <image:loc>https://majordigest.com/politics/2023/08/29/wisconsin-supreme-court-chief-justice-accuses-liberal-majority-of-staging-a-coup/wisconsin-supreme-court-chief-justice-accuses-liberal-majority-of-staging-a-coup.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/politics/2023/08/29/trump-lawyers-back-in-dc-court-as-two-sides-differ-over-trial-date-in-election-subversion-case/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-29T01:22:22.000Z</news:publication_date>
+          <news:title>Trump trial set for March 4, 2024, in federal case charging him with plotting to overturn election</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/politics/2023/08/29/trump-lawyers-back-in-dc-court-as-two-sides-differ-over-trial-date-in-election-subversion-case/trump-lawyers-back-in-dc-court-as-two-sides-differ-over-trial-date-in-election-subversion-case.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -115,34 +143,6 @@
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/politics/2023/08/29/biden-claims-have-literally-convinced-strom-thurmond-vote-civil-rights-act-21-years-old/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-29T00:05:00.000Z</news:publication_date>
-          <news:title>Biden claims to have 'literally' convinced Strom Thurmond to vote for Civil Rights Act &#8212; at 21 years old</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/politics/2023/08/29/biden-claims-have-literally-convinced-strom-thurmond-vote-civil-rights-act-21-years-old/biden-claims-have-literally-convinced-strom-thurmond-vote-civil-rights-act-21-years-old.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/politics/2023/08/28/biden-and-harris-will-meet-with-kings-family-on-60th-anniversary-of-the-march-on-washington/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-28T23:17:27.000Z</news:publication_date>
-          <news:title>Biden says action needed against 'hate-fueled violence' after racist shooting in Florida</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/politics/2023/08/28/biden-and-harris-will-meet-with-kings-family-on-60th-anniversary-of-the-march-on-washington/biden-and-harris-will-meet-with-kings-family-on-60th-anniversary-of-the-march-on-washington.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
         <loc>https://majordigest.com/politics/2023/08/28/what-to-know-medicare-drug-price-negotiations/</loc>
         <news:news>
           <news:publication>
@@ -154,6 +154,20 @@
         </news:news>
         <image:image>
           <image:loc>https://majordigest.com/politics/2023/08/28/what-to-know-medicare-drug-price-negotiations/what-to-know-medicare-drug-price-negotiations.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/politics/2023/08/28/federal-judge-sets-march-trial-date-in-trump-2020-election-interference-case/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-28T22:20:00.000Z</news:publication_date>
+          <news:title>Federal judge sets March trial date in Trump 2020 election interference case</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/politics/2023/08/28/federal-judge-sets-march-trial-date-in-trump-2020-election-interference-case/federal-judge-sets-march-trial-date-in-trump-2020-election-interference-case.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -219,25 +233,11 @@
             <news:name>Major Digest</news:name>
             <news:language>en</news:language>
           </news:publication>
-          <news:publication_date>2023-08-28T20:42:55.000Z</news:publication_date>
+          <news:publication_date>2023-08-28T20:42:58.000Z</news:publication_date>
           <news:title>Senate candidates visit Stockton to support Rep. Josh Harder reelection campaign</news:title>
         </news:news>
         <image:image>
           <image:loc>https://majordigest.com/politics/2023/08/28/senate-candidates-visit-stockton-to-support-rep-josh-harder-reelection-campaign/senate-candidates-visit-stockton-to-support-rep-josh-harder-reelection-campaign.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/politics/2023/08/28/adam-schiff-visits-half-moon-bay-to-shed-light-on-farmworker-conditions/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-28T20:28:33.000Z</news:publication_date>
-          <news:title>Adam Schiff visits Half Moon Bay to shed light on farmworker conditions</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/politics/2023/08/28/adam-schiff-visits-half-moon-bay-to-shed-light-on-farmworker-conditions/adam-schiff-visits-half-moon-bay-to-shed-light-on-farmworker-conditions.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -283,17 +283,31 @@
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/politics/2023/08/28/biden-to-observe-911-anniversary-in-alaska-missing-nyc-virginia-and-pennsylvania-observances/</loc>
+        <loc>https://majordigest.com/politics/2023/08/28/judge-sets-march-4-2024-as-trump-trial-date-in-election-interference-case/</loc>
         <news:news>
           <news:publication>
             <news:name>Major Digest</news:name>
             <news:language>en</news:language>
           </news:publication>
-          <news:publication_date>2023-08-28T17:12:36.000Z</news:publication_date>
-          <news:title>Biden will observe 9/11 in Alaska instead of the traditional NYC, Virginia or Pennsylvania events</news:title>
+          <news:publication_date>2023-08-28T16:57:00.000Z</news:publication_date>
+          <news:title>Judge sets March 4, 2024 as Trump trial date in election interference case</news:title>
         </news:news>
         <image:image>
-          <image:loc>https://majordigest.com/politics/2023/08/28/biden-to-observe-911-anniversary-in-alaska-missing-nyc-virginia-and-pennsylvania-observances/biden-to-observe-911-anniversary-in-alaska-missing-nyc-virginia-and-pennsylvania-observances.webp</image:loc>
+          <image:loc>https://majordigest.com/politics/2023/08/28/judge-sets-march-4-2024-as-trump-trial-date-in-election-interference-case/judge-sets-march-4-2024-as-trump-trial-date-in-election-interference-case.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/politics/2023/08/28/biden-approves-emergency-declaration-for-florida-ahead-of-t-s-idalia/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-28T16:30:03.000Z</news:publication_date>
+          <news:title>Biden approves Emergency Declaration for Florida ahead of T.S. Idalia</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/politics/2023/08/28/biden-approves-emergency-declaration-for-florida-ahead-of-t-s-idalia/biden-approves-emergency-declaration-for-florida-ahead-of-t-s-idalia.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -308,6 +322,20 @@
         </news:news>
         <image:image>
           <image:loc>https://majordigest.com/politics/2023/08/28/shooting-storm-give-desantis-a-chance-to-govern-on-national-stage/shooting-storm-give-desantis-a-chance-to-govern-on-national-stage.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/politics/2023/08/27/npr-minnesota-felon-voting-rights-restoration/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-27T09:00:00.000Z</news:publication_date>
+          <news:title>Minnesota returns voting power to thousands. The question is whether they'll use it</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/politics/2023/08/27/npr-minnesota-felon-voting-rights-restoration/npr-minnesota-felon-voting-rights-restoration.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -336,34 +364,6 @@
         </news:news>
         <image:image>
           <image:loc>https://majordigest.com/politics/2023/08/26/wild-horses-that-roam-theodore-roosevelt-national-park-may-be-removed-many-oppose-the-plan/wild-horses-that-roam-theodore-roosevelt-national-park-may-be-removed-many-oppose-the-plan.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/politics/2023/08/26/npr-china-us-trade-tensions-commerce-secretary-gina-raimondo/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-26T13:48:00.000Z</news:publication_date>
-          <news:title>How high tensions between China and the U.S. are impacting American companies</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/politics/2023/08/26/npr-china-us-trade-tensions-commerce-secretary-gina-raimondo/npr-china-us-trade-tensions-commerce-secretary-gina-raimondo.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/politics/2023/08/25/st-paul-conservative-legal-scholar-says-constitution-bars-trump-from-being-president/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-25T20:30:00.000Z</news:publication_date>
-          <news:title>MN legal scholar: Constitution bars Trump presidency</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/politics/2023/08/25/st-paul-conservative-legal-scholar-says-constitution-bars-trump-from-being-president/st-paul-conservative-legal-scholar-says-constitution-bars-trump-from-being-president.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -409,6 +409,20 @@
         </image:image>
       </url>
       <url>
+        <loc>https://majordigest.com/politics/2023/08/25/election-brief-what-to-expect-in-mississippis-runoff-primaries/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-25T10:35:11.000Z</news:publication_date>
+          <news:title>AP Election Brief | What to expect in Mississippi's runoff primaries</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/politics/2023/08/25/election-brief-what-to-expect-in-mississippis-runoff-primaries/election-brief-what-to-expect-in-mississippis-runoff-primaries.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
         <loc>https://majordigest.com/politics/2023/08/25/encinitas-tackles-homelessness-issues-looks-at-possible-camping-ban/</loc>
         <news:news>
           <news:publication>
@@ -420,6 +434,20 @@
         </news:news>
         <image:image>
           <image:loc>https://majordigest.com/politics/2023/08/25/encinitas-tackles-homelessness-issues-looks-at-possible-camping-ban/encinitas-tackles-homelessness-issues-looks-at-possible-camping-ban.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/politics/2023/08/24/does-the-georgia-case-pose-greatest-threat-to-former-president-trump/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-24T23:38:30.000Z</news:publication_date>
+          <news:title>Does the Georgia case pose greatest threat to former President Trump?</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/politics/2023/08/24/does-the-georgia-case-pose-greatest-threat-to-former-president-trump/does-the-georgia-case-pose-greatest-threat-to-former-president-trump.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -448,34 +476,6 @@
         </news:news>
         <image:image>
           <image:loc>https://majordigest.com/politics/2023/08/24/covid-19-cases-rise-cdc-recommends-updated-vaccine/covid-19-cases-rise-cdc-recommends-updated-vaccine.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/politics/2023/08/24/trump-is-set-to-surrender-at-a-georgia-jail-on-2020-election-charges/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-24T20:03:45.000Z</news:publication_date>
-          <news:title>Donald Trump mug shot shows former president scowling at Atlanta booking</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/politics/2023/08/24/trump-is-set-to-surrender-at-a-georgia-jail-on-2020-election-charges/trump-is-set-to-surrender-at-a-georgia-jail-on-2020-election-charges.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/politics/2023/08/24/trump-expected-to-surrender-at-fulton-county-jail-live-updates/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-24T19:08:14.000Z</news:publication_date>
-          <news:title>Trump surrenders for historic fourth arrest: see updates</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/politics/2023/08/24/trump-expected-to-surrender-at-fulton-county-jail-live-updates/trump-expected-to-surrender-at-fulton-county-jail-live-updates.webp</image:loc>
         </image:image>
       </url>
       <url>
