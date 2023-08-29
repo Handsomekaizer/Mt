@@ -3,17 +3,87 @@
               xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
               xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
       <url>
-        <loc>https://majordigest.com/politics/2023/08/29/white-house-insists-theres-no-sign-isis-sympathizers-smuggling-ring-brought-terrorists-us/</loc>
+        <loc>https://majordigest.com/politics/2023/08/29/texas-leads-the-country-in-keeping-its-native-born-residents-home/</loc>
         <news:news>
           <news:publication>
             <news:name>Major Digest</news:name>
             <news:language>en</news:language>
           </news:publication>
-          <news:publication_date>2023-08-29T20:03:58.000Z</news:publication_date>
-          <news:title>White House insists there's 'no sign' ISIS sympathizer's smuggling ring brought terrorists into US</news:title>
+          <news:publication_date>2023-08-29T20:59:13.000Z</news:publication_date>
+          <news:title>Texas leads the country in keeping its native-born residents home</news:title>
         </news:news>
         <image:image>
-          <image:loc>https://majordigest.com/politics/2023/08/29/white-house-insists-theres-no-sign-isis-sympathizers-smuggling-ring-brought-terrorists-us/white-house-insists-theres-no-sign-isis-sympathizers-smuggling-ring-brought-terrorists-us.webp</image:loc>
+          <image:loc>https://majordigest.com/politics/2023/08/29/texas-leads-the-country-in-keeping-its-native-born-residents-home/texas-leads-the-country-in-keeping-its-native-born-residents-home.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/politics/2023/08/29/white-house-punts-yes-or-no-answer-transgender-athletes-playing-female-sports/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-29T20:43:29.000Z</news:publication_date>
+          <news:title>White House punts on 'yes or no answer' to transgender athletes playing female sports</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/politics/2023/08/29/white-house-punts-yes-or-no-answer-transgender-athletes-playing-female-sports/white-house-punts-yes-or-no-answer-transgender-athletes-playing-female-sports.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/politics/2023/08/29/what-means-congress-never-been-session-while-former-president-trump-been-indicted/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-29T20:37:58.000Z</news:publication_date>
+          <news:title>Congress has never been in session while former President Trump has been indicted</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/politics/2023/08/29/what-means-congress-never-been-session-while-former-president-trump-been-indicted/what-means-congress-never-been-session-while-former-president-trump-been-indicted.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/politics/2023/08/29/bidens-fema-director-extreme-weather-new-normal-hawaii-county-blames-fires-power-line/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-29T20:33:49.000Z</news:publication_date>
+          <news:title>Biden's FEMA director says extreme weather 'new normal' after Hawaii county blames fires on power line</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/politics/2023/08/29/bidens-fema-director-extreme-weather-new-normal-hawaii-county-blames-fires-power-line/bidens-fema-director-extreme-weather-new-normal-hawaii-county-blames-fires-power-line.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/politics/2023/08/29/fulton-county-da-asks-judge-to-expedite-cases-of-all-19-defendants-in-georgia/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-29T20:29:46.000Z</news:publication_date>
+          <news:title>Fulton County DA asks judge to expedite cases of all 19 defendants in Georgia</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/politics/2023/08/29/fulton-county-da-asks-judge-to-expedite-cases-of-all-19-defendants-in-georgia/fulton-county-da-asks-judge-to-expedite-cases-of-all-19-defendants-in-georgia.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/politics/2023/08/29/zaa-accredited-zoos-exempt-state-oversight-wisconsin-gop-proposal/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-29T20:20:01.000Z</news:publication_date>
+          <news:title>ZAA-accredited zoos would be exempt from state oversight under Wisconsin GOP proposal</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/politics/2023/08/29/zaa-accredited-zoos-exempt-state-oversight-wisconsin-gop-proposal/zaa-accredited-zoos-exempt-state-oversight-wisconsin-gop-proposal.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -45,45 +115,31 @@
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/politics/2023/08/29/gop-anger-grows-over-biden-admins-potential-plea-deal-suspected-9-11-architects/</loc>
+        <loc>https://majordigest.com/politics/2023/08/29/whos-running-for-president-see-a-rundown-of-the-2024-candidates/</loc>
         <news:news>
           <news:publication>
             <news:name>Major Digest</news:name>
             <news:language>en</news:language>
           </news:publication>
-          <news:publication_date>2023-08-29T19:39:05.000Z</news:publication_date>
-          <news:title>GOP anger grows over Biden admin's potential plea deal for suspected 9/11 architects</news:title>
+          <news:publication_date>2023-08-29T19:36:57.000Z</news:publication_date>
+          <news:title>Who's running for president? See a rundown of the 2024 candidates</news:title>
         </news:news>
         <image:image>
-          <image:loc>https://majordigest.com/politics/2023/08/29/gop-anger-grows-over-biden-admins-potential-plea-deal-suspected-9-11-architects/gop-anger-grows-over-biden-admins-potential-plea-deal-suspected-9-11-architects.webp</image:loc>
+          <image:loc>https://majordigest.com/politics/2023/08/29/whos-running-for-president-see-a-rundown-of-the-2024-candidates/whos-running-for-president-see-a-rundown-of-the-2024-candidates.webp</image:loc>
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/politics/2023/08/29/desantis-signals-possible-campaign-timeout-deal-idalia-you-do-what-you-need-do/</loc>
+        <loc>https://majordigest.com/politics/2023/08/29/hurricane-idalia-coast-gulf/</loc>
         <news:news>
           <news:publication>
             <news:name>Major Digest</news:name>
             <news:language>en</news:language>
           </news:publication>
-          <news:publication_date>2023-08-29T19:30:12.000Z</news:publication_date>
-          <news:title>DeSantis signals possible campaign timeout to deal with Idalia: 'You do what you need to do'</news:title>
+          <news:publication_date>2023-08-29T19:21:06.000Z</news:publication_date>
+          <news:title>How a steaming Gulf is powering Idalia&#8217;s threat to Florida</news:title>
         </news:news>
         <image:image>
-          <image:loc>https://majordigest.com/politics/2023/08/29/desantis-signals-possible-campaign-timeout-deal-idalia-you-do-what-you-need-do/desantis-signals-possible-campaign-timeout-deal-idalia-you-do-what-you-need-do.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/politics/2023/08/29/new-york-gop-lawmaker-staten-island-secede/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-29T19:09:22.000Z</news:publication_date>
-          <news:title>New York GOP lawmaker calls for Staten Island to 'secede'</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/politics/2023/08/29/new-york-gop-lawmaker-staten-island-secede/new-york-gop-lawmaker-staten-island-secede.webp</image:loc>
+          <image:loc>https://majordigest.com/politics/2023/08/29/hurricane-idalia-coast-gulf/hurricane-idalia-coast-gulf.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -98,34 +154,6 @@
         </news:news>
         <image:image>
           <image:loc>https://majordigest.com/politics/2023/08/29/no-2-house-republican-steve-scalise-diagnosed-with-blood-cancer-undergoing-treatment/no-2-house-republican-steve-scalise-diagnosed-with-blood-cancer-undergoing-treatment.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/politics/2023/08/29/house-republican-leaders-biden-impeachment-inquiry-next-month/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-29T18:37:17.000Z</news:publication_date>
-          <news:title>House Republican leaders want to launch Biden impeachment inquiry next month, sources say</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/politics/2023/08/29/house-republican-leaders-biden-impeachment-inquiry-next-month/house-republican-leaders-biden-impeachment-inquiry-next-month.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/politics/2023/08/29/sidney-powell-pleads-not-guilty-in-georgia-election-interference-case/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-29T18:33:05.000Z</news:publication_date>
-          <news:title>Sidney Powell pleads not guilty in Georgia election interference case</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/politics/2023/08/29/sidney-powell-pleads-not-guilty-in-georgia-election-interference-case/sidney-powell-pleads-not-guilty-in-georgia-election-interference-case.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -154,20 +182,6 @@
         </news:news>
         <image:image>
           <image:loc>https://majordigest.com/politics/2023/08/29/dem-convention-delegates-chicago/dem-convention-delegates-chicago.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/politics/2023/08/29/recruiting-is-underway-for-trump-like-wrecking-ball-to-shrink-government-and-fire-federal-workers/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-29T18:13:13.000Z</news:publication_date>
-          <news:title>Conservative groups draw up plan to dismantle the US government and replace it with Trump&#8217;s vision</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/politics/2023/08/29/recruiting-is-underway-for-trump-like-wrecking-ball-to-shrink-government-and-fire-federal-workers/recruiting-is-underway-for-trump-like-wrecking-ball-to-shrink-government-and-fire-federal-workers.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -241,62 +255,6 @@
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/politics/2023/08/29/adams-hochul-migrant-crisis-new-york/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-29T15:29:27.000Z</news:publication_date>
-          <news:title>Adams condemns Hochul's handling of New York migrant crisis as 'wrong'</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/politics/2023/08/29/adams-hochul-migrant-crisis-new-york/adams-hochul-migrant-crisis-new-york.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/politics/2023/08/29/steve-scalise-blood-cancer-treatment/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-29T15:05:09.000Z</news:publication_date>
-          <news:title>Scalise diagnosed with &#8216;very treatable&#8217; cancer</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/politics/2023/08/29/steve-scalise-blood-cancer-treatment/steve-scalise-blood-cancer-treatment.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/politics/2023/08/29/biden-targets-diabetes-drug-blood-thinner-and-8-others-for-medicare-price-talks/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-29T12:07:36.000Z</news:publication_date>
-          <news:title>Biden targets diabetes drug Jardiance, blood thinner Eliquis and 8 others for Medicare price talks</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/politics/2023/08/29/biden-targets-diabetes-drug-blood-thinner-and-8-others-for-medicare-price-talks/biden-targets-diabetes-drug-blood-thinner-and-8-others-for-medicare-price-talks.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/politics/2023/08/29/npr-rudy-giuliani-rico-origin-story/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-29T09:01:00.000Z</news:publication_date>
-          <news:title>It's time to rethink Rudy Giuliani and his claim to discover RICO</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/politics/2023/08/29/npr-rudy-giuliani-rico-origin-story/npr-rudy-giuliani-rico-origin-story.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
         <loc>https://majordigest.com/politics/2023/08/29/morris-is-a-small-minnesota-town-with-big-climate-goals/</loc>
         <news:news>
           <news:publication>
@@ -308,6 +266,20 @@
         </news:news>
         <image:image>
           <image:loc>https://majordigest.com/politics/2023/08/29/morris-is-a-small-minnesota-town-with-big-climate-goals/morris-is-a-small-minnesota-town-with-big-climate-goals.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/politics/2023/08/29/recruiting-is-underway-for-trump-like-wrecking-ball-to-shrink-government-and-fire-federal-workers/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-29T04:03:01.000Z</news:publication_date>
+          <news:title>Conservative groups draw up plan to dismantle the US government and replace it with Trump&#8217;s vision</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/politics/2023/08/29/recruiting-is-underway-for-trump-like-wrecking-ball-to-shrink-government-and-fire-federal-workers/recruiting-is-underway-for-trump-like-wrecking-ball-to-shrink-government-and-fire-federal-workers.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -336,6 +308,20 @@
         </news:news>
         <image:image>
           <image:loc>https://majordigest.com/politics/2023/08/29/chris-christie-2024-election-post-debate-trump-ramaswamy/chris-christie-2024-election-post-debate-trump-ramaswamy.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/politics/2023/08/28/npr-tuberville-pentagon-senate-hold-abortion/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-28T21:21:00.000Z</news:publication_date>
+          <news:title>With hold on confirmations, Pentagon says fate of hundreds of officers in limbo</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/politics/2023/08/28/npr-tuberville-pentagon-senate-hold-abortion/npr-tuberville-pentagon-senate-hold-abortion.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -381,6 +367,20 @@
         </image:image>
       </url>
       <url>
+        <loc>https://majordigest.com/politics/2023/08/28/biden-approves-emergency-declaration-for-florida-ahead-of-t-s-idalia/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-28T16:30:03.000Z</news:publication_date>
+          <news:title>Biden approves Emergency Declaration for Florida ahead of T.S. Idalia</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/politics/2023/08/28/biden-approves-emergency-declaration-for-florida-ahead-of-t-s-idalia/biden-approves-emergency-declaration-for-florida-ahead-of-t-s-idalia.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
         <loc>https://majordigest.com/politics/2023/08/26/gop-presidential-candidate-vivek-ramaswamy-is-an-unaffiliated-voter-nbc-reports/</loc>
         <news:news>
           <news:publication>
@@ -406,6 +406,20 @@
         </news:news>
         <image:image>
           <image:loc>https://majordigest.com/politics/2023/08/25/texans-asked-to-conserve-energy-for-a-third-time-this-week/texans-asked-to-conserve-energy-for-a-third-time-this-week.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/politics/2023/08/25/carlos-santana-issues-apology-for-anti-trans-remarks-on-stage/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-25T15:43:31.000Z</news:publication_date>
+          <news:title>Carlos Santana issues apology for anti-trans remarks on stage</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/politics/2023/08/25/carlos-santana-issues-apology-for-anti-trans-remarks-on-stage/carlos-santana-issues-apology-for-anti-trans-remarks-on-stage.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -451,31 +465,17 @@
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/politics/2023/08/24/covid-19-cases-rise-cdc-recommends-updated-vaccine/</loc>
+        <loc>https://majordigest.com/politics/2023/08/24/apple-backs-californias-right-to-repair-bill-in-major-policy-shift/</loc>
         <news:news>
           <news:publication>
             <news:name>Major Digest</news:name>
             <news:language>en</news:language>
           </news:publication>
-          <news:publication_date>2023-08-24T20:37:19.000Z</news:publication_date>
-          <news:title>COVID-19 cases rise, CDC recommends updated vaccine</news:title>
+          <news:publication_date>2023-08-24T21:36:45.000Z</news:publication_date>
+          <news:title>Apple backs California's 'Right to Repair' bill in major policy shift</news:title>
         </news:news>
         <image:image>
-          <image:loc>https://majordigest.com/politics/2023/08/24/covid-19-cases-rise-cdc-recommends-updated-vaccine/covid-19-cases-rise-cdc-recommends-updated-vaccine.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/politics/2023/08/24/trump-set-to-surrender-at-georgia-jail-on-charges-that-he-sought-to-overturn-2020-election/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-24T10:53:23.000Z</news:publication_date>
-          <news:title>Trump set to surrender at Georgia jail on charges that he sought to overturn 2020 election</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/politics/2023/08/24/trump-set-to-surrender-at-georgia-jail-on-charges-that-he-sought-to-overturn-2020-election/trump-set-to-surrender-at-georgia-jail-on-charges-that-he-sought-to-overturn-2020-election.webp</image:loc>
+          <image:loc>https://majordigest.com/politics/2023/08/24/apple-backs-californias-right-to-repair-bill-in-major-policy-shift/apple-backs-californias-right-to-repair-bill-in-major-policy-shift.webp</image:loc>
         </image:image>
       </url>
       <url>

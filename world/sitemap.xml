@@ -3,17 +3,87 @@
               xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
               xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
       <url>
-        <loc>https://majordigest.com/world/2023/08/29/guatemalas-president-elect-faces-legal-challenges-that-seek-to-weaken-him-heres-whats-happening/</loc>
+        <loc>https://majordigest.com/world/2023/08/29/ukrainian-farmers-hold-steady-winter-wheat-sowing-despite-export-challenges/</loc>
         <news:news>
           <news:publication>
             <news:name>Major Digest</news:name>
             <news:language>en</news:language>
           </news:publication>
-          <news:publication_date>2023-08-29T20:15:34.000Z</news:publication_date>
-          <news:title>Guatemala's president-elect faces legal challenges that seek to weaken him. Here's what's happening</news:title>
+          <news:publication_date>2023-08-29T20:24:22.000Z</news:publication_date>
+          <news:title>Ukrainian farmers hold steady on winter wheat sowing despite export challenges</news:title>
         </news:news>
         <image:image>
-          <image:loc>https://majordigest.com/world/2023/08/29/guatemalas-president-elect-faces-legal-challenges-that-seek-to-weaken-him-heres-whats-happening/guatemalas-president-elect-faces-legal-challenges-that-seek-to-weaken-him-heres-whats-happening.webp</image:loc>
+          <image:loc>https://majordigest.com/world/2023/08/29/ukrainian-farmers-hold-steady-winter-wheat-sowing-despite-export-challenges/ukrainian-farmers-hold-steady-winter-wheat-sowing-despite-export-challenges.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/world/2023/08/29/ukrainian-farmers-hold-steady-winter-wheat-sowing-despite-export-challenges/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-29T20:24:22.000Z</news:publication_date>
+          <news:title>Ukrainian farmers hold steady on winter wheat sowing despite export challenges</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/world/2023/08/29/ukrainian-farmers-hold-steady-winter-wheat-sowing-despite-export-challenges/ukrainian-farmers-hold-steady-winter-wheat-sowing-despite-export-challenges.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/world/2023/08/29/irish-hotel-group-sees-lasting-travel-trend-amidst-post-pandemic-consumer-spending-shifts/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-29T20:22:23.000Z</news:publication_date>
+          <news:title>Irish hotel group sees lasting travel trend amidst post-pandemic consumer spending shifts</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/world/2023/08/29/irish-hotel-group-sees-lasting-travel-trend-amidst-post-pandemic-consumer-spending-shifts/irish-hotel-group-sees-lasting-travel-trend-amidst-post-pandemic-consumer-spending-shifts.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/world/2023/08/29/top-eu-official-nominate-dutch-foreign-minister-climate-czar-post/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-29T20:17:35.000Z</news:publication_date>
+          <news:title>Top EU official to nominate Dutch foreign minister for climate czar post</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/world/2023/08/29/top-eu-official-nominate-dutch-foreign-minister-climate-czar-post/top-eu-official-nominate-dutch-foreign-minister-climate-czar-post.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/world/2023/08/29/guatemalan-president-giammattei-calls-peaceful-transition-power-leftist-successor/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-29T20:15:43.000Z</news:publication_date>
+          <news:title>Guatemalan President Giammattei calls for peaceful transition of power to leftist successor</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/world/2023/08/29/guatemalan-president-giammattei-calls-peaceful-transition-power-leftist-successor/guatemalan-president-giammattei-calls-peaceful-transition-power-leftist-successor.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/world/2023/08/29/massive-wildfire-in-northeastern-greece-persists-for-11th-day-despite-european-firefighting-efforts/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-29T19:37:35.000Z</news:publication_date>
+          <news:title>Massive Greek wildfire now in its 11th day is the biggest ever recorded in the EU</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/world/2023/08/29/massive-wildfire-in-northeastern-greece-persists-for-11th-day-despite-european-firefighting-efforts/massive-wildfire-in-northeastern-greece-persists-for-11th-day-despite-european-firefighting-efforts.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -28,76 +98,6 @@
         </news:news>
         <image:image>
           <image:loc>https://majordigest.com/world/2023/08/29/famed-carnival-terrorized-men-giant-knives-8-stabbings-275-arrests-marred-serious-violence/famed-carnival-terrorized-men-giant-knives-8-stabbings-275-arrests-marred-serious-violence.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/world/2023/08/29/jamaican-authorities-charge-female-dental-assistant-abducting-killing-8-year-old/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-29T19:19:32.000Z</news:publication_date>
-          <news:title>Jamaican authorities charge female dental assistant with abducting, killing 8-year-old</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/world/2023/08/29/jamaican-authorities-charge-female-dental-assistant-abducting-killing-8-year-old/jamaican-authorities-charge-female-dental-assistant-abducting-killing-8-year-old.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/world/2023/08/29/dutch-prosecutors-12-year-sentence-cricketer-accused-placing-bounty-populist-figurehead-wilders/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-29T19:14:09.000Z</news:publication_date>
-          <news:title>Dutch prosecutors want 12-year sentence for cricketer accused of placing bounty on populist figurehead Wilders</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/world/2023/08/29/dutch-prosecutors-12-year-sentence-cricketer-accused-placing-bounty-populist-figurehead-wilders/dutch-prosecutors-12-year-sentence-cricketer-accused-placing-bounty-populist-figurehead-wilders.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/world/2023/08/29/21-arrested-cyprus-after-greek-cypriots-attempt-attack-syrian-migrants/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-29T18:25:35.000Z</news:publication_date>
-          <news:title>21 arrested in Cyprus after Greek Cypriots attempt to attack Syrian migrants</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/world/2023/08/29/21-arrested-cyprus-after-greek-cypriots-attempt-attack-syrian-migrants/21-arrested-cyprus-after-greek-cypriots-attempt-attack-syrian-migrants.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/world/2023/08/29/china-extends-tax-breaks-foreign-workers-2027/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-29T18:24:33.000Z</news:publication_date>
-          <news:title>China extends tax breaks for foreign workers until 2027</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/world/2023/08/29/china-extends-tax-breaks-foreign-workers-2027/china-extends-tax-breaks-foreign-workers-2027.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/world/2023/08/29/the-kremlin-says-putin-is-not-planning-to-attend-wagner-chief-prigozhins-burial/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-29T18:20:58.000Z</news:publication_date>
-          <news:title>Russian mercenary boss Yevgeny Prigozhin is buried in private, ending his tumultuous journey</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/world/2023/08/29/the-kremlin-says-putin-is-not-planning-to-attend-wagner-chief-prigozhins-burial/the-kremlin-says-putin-is-not-planning-to-attend-wagner-chief-prigozhins-burial.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -213,31 +213,17 @@
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/world/2023/08/29/israelis-on-a-flight-that-made-an-emergency-landing-in-saudi-arabia-return-to-tel-aviv/</loc>
+        <loc>https://majordigest.com/world/2023/08/29/court-suspends-the-corruption-conviction-and-sentence-of-former-prime-minister-imran-khan/</loc>
         <news:news>
           <news:publication>
             <news:name>Major Digest</news:name>
             <news:language>en</news:language>
           </news:publication>
-          <news:publication_date>2023-08-29T15:04:01.000Z</news:publication_date>
-          <news:title>Saudi Arabia gets an unlikely visitor when a plane full of Israelis makes an emergency landing</news:title>
+          <news:publication_date>2023-08-29T15:01:40.000Z</news:publication_date>
+          <news:title>Pakistani court suspends the corruption conviction and sentence of former Prime Minister Imran Khan</news:title>
         </news:news>
         <image:image>
-          <image:loc>https://majordigest.com/world/2023/08/29/israelis-on-a-flight-that-made-an-emergency-landing-in-saudi-arabia-return-to-tel-aviv/israelis-on-a-flight-that-made-an-emergency-landing-in-saudi-arabia-return-to-tel-aviv.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/world/2023/08/29/israelis-on-a-flight-that-made-an-emergency-landing-in-saudi-arabia-return-to-tel-aviv/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-29T15:04:01.000Z</news:publication_date>
-          <news:title>Saudi Arabia gets an unlikely visitor when a plane full of Israelis makes an emergency landing</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/world/2023/08/29/israelis-on-a-flight-that-made-an-emergency-landing-in-saudi-arabia-return-to-tel-aviv/israelis-on-a-flight-that-made-an-emergency-landing-in-saudi-arabia-return-to-tel-aviv.webp</image:loc>
+          <image:loc>https://majordigest.com/world/2023/08/29/court-suspends-the-corruption-conviction-and-sentence-of-former-prime-minister-imran-khan/court-suspends-the-corruption-conviction-and-sentence-of-former-prime-minister-imran-khan.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -269,17 +255,17 @@
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/world/2023/08/29/hannity-grills-ramaswamy-on-israel/</loc>
+        <loc>https://majordigest.com/world/2023/08/29/israelis-on-a-flight-that-made-an-emergency-landing-in-saudi-arabia-return-to-tel-aviv/</loc>
         <news:news>
           <news:publication>
             <news:name>Major Digest</news:name>
             <news:language>en</news:language>
           </news:publication>
-          <news:publication_date>2023-08-29T14:56:25.000Z</news:publication_date>
-          <news:title>Hannity grills Ramaswamy on Israel</news:title>
+          <news:publication_date>2023-08-29T12:24:22.000Z</news:publication_date>
+          <news:title>Saudi Arabia gets an unlikely visitor when a plane full of Israelis makes an emergency landing</news:title>
         </news:news>
         <image:image>
-          <image:loc>https://majordigest.com/world/2023/08/29/hannity-grills-ramaswamy-on-israel/hannity-grills-ramaswamy-on-israel.webp</image:loc>
+          <image:loc>https://majordigest.com/world/2023/08/29/israelis-on-a-flight-that-made-an-emergency-landing-in-saudi-arabia-return-to-tel-aviv/israelis-on-a-flight-that-made-an-emergency-landing-in-saudi-arabia-return-to-tel-aviv.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -381,20 +367,6 @@
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/world/2023/08/28/8-us-marines-remain-in-hospital-after-fiery-aircraft-crash-killed-3-in-australia/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-28T05:36:17.000Z</news:publication_date>
-          <news:title>8 US Marines remain in a hospital after a fiery aircraft crash killed 3 during drills in Australia</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/world/2023/08/28/8-us-marines-remain-in-hospital-after-fiery-aircraft-crash-killed-3-in-australia/8-us-marines-remain-in-hospital-after-fiery-aircraft-crash-killed-3-in-australia.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
         <loc>https://majordigest.com/world/2023/08/27/russia-says-it-has-confirmed-prigozhin-died-in-the-plane-crash/</loc>
         <news:news>
           <news:publication>
@@ -420,6 +392,34 @@
         </news:news>
         <image:image>
           <image:loc>https://majordigest.com/world/2023/08/27/with-drones-and-webcams-volunteer-hunters-join-new-search-for-mythical-loch-ness-monster/with-drones-and-webcams-volunteer-hunters-join-new-search-for-mythical-loch-ness-monster.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/world/2023/08/27/elite-unit-of-mexican-cartel-using-drones-to-drop-bombs-report/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-27T01:26:02.000Z</news:publication_date>
+          <news:title>Elite unit of Mexican cartel using drones to drop bombs: Report</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/world/2023/08/27/elite-unit-of-mexican-cartel-using-drones-to-drop-bombs-report/elite-unit-of-mexican-cartel-using-drones-to-drop-bombs-report.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/world/2023/08/27/elite-unit-of-mexican-cartel-using-drones-to-drop-bombs-report/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-27T01:26:02.000Z</news:publication_date>
+          <news:title>Elite unit of Mexican cartel using drones to drop bombs: Report</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/world/2023/08/27/elite-unit-of-mexican-cartel-using-drones-to-drop-bombs-report/elite-unit-of-mexican-cartel-using-drones-to-drop-bombs-report.webp</image:loc>
         </image:image>
       </url>
       <url>
