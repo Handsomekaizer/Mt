@@ -3,6 +3,62 @@
               xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
               xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
       <url>
+        <loc>https://majordigest.com/politics/2023/08/29/georgia-indictment-first-trump-co-defendant-pleads-not-guilty/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-29T16:52:03.000Z</news:publication_date>
+          <news:title>Georgia indictment: First Trump co-defendant pleads 'not guilty'</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/politics/2023/08/29/georgia-indictment-first-trump-co-defendant-pleads-not-guilty/georgia-indictment-first-trump-co-defendant-pleads-not-guilty.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/politics/2023/08/29/over-100-former-clerks-justice-thomas-sign-open-letter-defending-his-integrity-independence/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-29T16:43:18.000Z</news:publication_date>
+          <news:title>Over 100 former clerks of Justice Thomas sign open letter defending his integrity, independence</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/politics/2023/08/29/over-100-former-clerks-justice-thomas-sign-open-letter-defending-his-integrity-independence/over-100-former-clerks-justice-thomas-sign-open-letter-defending-his-integrity-independence.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/politics/2023/08/29/wisconsin-assembly-republicans-propose-3-billion-tax-cut-targeting-middle-class/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-29T16:39:48.000Z</news:publication_date>
+          <news:title>Wisconsin Assembly Republicans propose $3 billion tax cut targeting middle class</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/politics/2023/08/29/wisconsin-assembly-republicans-propose-3-billion-tax-cut-targeting-middle-class/wisconsin-assembly-republicans-propose-3-billion-tax-cut-targeting-middle-class.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/politics/2023/08/29/biden-book-afghanistan/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-29T16:27:57.000Z</news:publication_date>
+          <news:title>Upcoming Biden book recounts untold timeline of Afghanistan withdrawal</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/politics/2023/08/29/biden-book-afghanistan/biden-book-afghanistan.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
         <loc>https://majordigest.com/politics/2023/08/29/here-are-the-first-10-drugs-that-medicare-will-target-for-price-cuts/</loc>
         <news:news>
           <news:publication>
@@ -14,20 +70,6 @@
         </news:news>
         <image:image>
           <image:loc>https://majordigest.com/politics/2023/08/29/here-are-the-first-10-drugs-that-medicare-will-target-for-price-cuts/here-are-the-first-10-drugs-that-medicare-will-target-for-price-cuts.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/politics/2023/08/29/conservatives-blast-eminem-for-cease-and-desist-letter-to-ramaswamy-campaign-what-a-gigantic-baby/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-29T16:13:00.000Z</news:publication_date>
-          <news:title>Conservatives blast Eminem for cease and desist letter to Ramaswamy campaign: 'What a gigantic baby'</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/politics/2023/08/29/conservatives-blast-eminem-for-cease-and-desist-letter-to-ramaswamy-campaign-what-a-gigantic-baby/conservatives-blast-eminem-for-cease-and-desist-letter-to-ramaswamy-campaign-what-a-gigantic-baby.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -45,20 +87,6 @@
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/politics/2023/08/29/steve-scalise-diagnosed-with-very-treatable-blood-cancer/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-29T15:38:58.000Z</news:publication_date>
-          <news:title>Steve Scalise diagnosed with &#8216;very treatable&#8217; blood cancer</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/politics/2023/08/29/steve-scalise-diagnosed-with-very-treatable-blood-cancer/steve-scalise-diagnosed-with-very-treatable-blood-cancer.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
         <loc>https://majordigest.com/politics/2023/08/29/adams-hochul-migrant-crisis-new-york/</loc>
         <news:news>
           <news:publication>
@@ -73,31 +101,17 @@
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/politics/2023/08/29/fbi-probes-uzbek-asylum-seekers-crossed-border-help-trafficker-linked-foreign-terror-group/</loc>
+        <loc>https://majordigest.com/politics/2023/08/29/steve-scalise-blood-cancer-treatment/</loc>
         <news:news>
           <news:publication>
             <news:name>Major Digest</news:name>
             <news:language>en</news:language>
           </news:publication>
-          <news:publication_date>2023-08-29T15:28:19.000Z</news:publication_date>
-          <news:title>FBI probes Uzbek asylum seekers who crossed border with help from trafficker linked to foreign terror group</news:title>
+          <news:publication_date>2023-08-29T15:05:09.000Z</news:publication_date>
+          <news:title>Scalise diagnosed with &#8216;very treatable&#8217; cancer</news:title>
         </news:news>
         <image:image>
-          <image:loc>https://majordigest.com/politics/2023/08/29/fbi-probes-uzbek-asylum-seekers-crossed-border-help-trafficker-linked-foreign-terror-group/fbi-probes-uzbek-asylum-seekers-crossed-border-help-trafficker-linked-foreign-terror-group.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/politics/2023/08/29/rep-steve-scalise-confirms-very-treatable-form-blood-cancer/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-29T15:06:35.000Z</news:publication_date>
-          <news:title>Rep. Steve Scalise announces cancer diagnosis, says multiple myeloma 'very treatable'</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/politics/2023/08/29/rep-steve-scalise-confirms-very-treatable-form-blood-cancer/rep-steve-scalise-confirms-very-treatable-form-blood-cancer.webp</image:loc>
+          <image:loc>https://majordigest.com/politics/2023/08/29/steve-scalise-blood-cancer-treatment/steve-scalise-blood-cancer-treatment.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -129,17 +143,17 @@
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/politics/2023/08/29/flashback-ramaswamys-bought-paid-for-debate-attack-echoes-similar-line-trump-booed-2016/</loc>
+        <loc>https://majordigest.com/politics/2023/08/29/how-the-first-10-drugs-set-for-medicare-negotiations-were-chosen/</loc>
         <news:news>
           <news:publication>
             <news:name>Major Digest</news:name>
             <news:language>en</news:language>
           </news:publication>
-          <news:publication_date>2023-08-29T14:59:25.000Z</news:publication_date>
-          <news:title>FLASHBACK: Ramaswamy's 'bought and paid for' debate attack echoes similar line Trump was booed for in 2016</news:title>
+          <news:publication_date>2023-08-29T12:34:34.000Z</news:publication_date>
+          <news:title>How the first 10 drugs set for Medicare negotiations were chosen</news:title>
         </news:news>
         <image:image>
-          <image:loc>https://majordigest.com/politics/2023/08/29/flashback-ramaswamys-bought-paid-for-debate-attack-echoes-similar-line-trump-booed-2016/flashback-ramaswamys-bought-paid-for-debate-attack-echoes-similar-line-trump-booed-2016.webp</image:loc>
+          <image:loc>https://majordigest.com/politics/2023/08/29/how-the-first-10-drugs-set-for-medicare-negotiations-were-chosen/how-the-first-10-drugs-set-for-medicare-negotiations-were-chosen.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -171,31 +185,17 @@
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/politics/2023/08/29/operation-deep-sea-how-nate-paul-pulled-the-strings-in-the-attorney-generals-office-to-investigate-his-enemies/</loc>
+        <loc>https://majordigest.com/politics/2023/08/29/president-joe-biden-is-hosting-costa-rican-president-rodrigo-chaves-at-the-white-house/</loc>
         <news:news>
           <news:publication>
             <news:name>Major Digest</news:name>
             <news:language>en</news:language>
           </news:publication>
-          <news:publication_date>2023-08-29T10:00:00.000Z</news:publication_date>
-          <news:title>&#8220;Operation Deep Sea&#8221;: How Nate Paul pulled the strings in the attorney general&#8217;s office to investigate his enemies</news:title>
+          <news:publication_date>2023-08-29T11:21:43.000Z</news:publication_date>
+          <news:title>President Joe Biden is hosting Costa Rican President Rodrigo Chaves at the White House</news:title>
         </news:news>
         <image:image>
-          <image:loc>https://majordigest.com/politics/2023/08/29/operation-deep-sea-how-nate-paul-pulled-the-strings-in-the-attorney-generals-office-to-investigate-his-enemies/operation-deep-sea-how-nate-paul-pulled-the-strings-in-the-attorney-generals-office-to-investigate-his-enemies.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/politics/2023/08/29/texas-national-guard-disbanded-intelligence-wing-after-members-used-whatsapp-to-spy-on-migrants/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-29T10:00:00.000Z</news:publication_date>
-          <news:title>Texas National Guard disbanded intelligence wing after members used WhatsApp to spy on migrants</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/politics/2023/08/29/texas-national-guard-disbanded-intelligence-wing-after-members-used-whatsapp-to-spy-on-migrants/texas-national-guard-disbanded-intelligence-wing-after-members-used-whatsapp-to-spy-on-migrants.webp</image:loc>
+          <image:loc>https://majordigest.com/politics/2023/08/29/president-joe-biden-is-hosting-costa-rican-president-rodrigo-chaves-at-the-white-house/president-joe-biden-is-hosting-costa-rican-president-rodrigo-chaves-at-the-white-house.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -210,6 +210,20 @@
         </news:news>
         <image:image>
           <image:loc>https://majordigest.com/politics/2023/08/29/texas-applies-to-import-lower-priced-canadian-medications/texas-applies-to-import-lower-priced-canadian-medications.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/politics/2023/08/29/operation-deep-sea-how-nate-paul-pulled-the-strings-in-the-attorney-generals-office-to-investigate-his-enemies/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-29T10:00:00.000Z</news:publication_date>
+          <news:title>&#8220;Operation Deep Sea&#8221;: How Nate Paul pulled the strings in the attorney general&#8217;s office to investigate his enemies</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/politics/2023/08/29/operation-deep-sea-how-nate-paul-pulled-the-strings-in-the-attorney-generals-office-to-investigate-his-enemies/operation-deep-sea-how-nate-paul-pulled-the-strings-in-the-attorney-generals-office-to-investigate-his-enemies.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -241,17 +255,17 @@
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/politics/2023/08/29/judge-to-hear-arguments-on-mark-meadows-request-to-move-georgia-election-case-to-federal-court/</loc>
+        <loc>https://majordigest.com/politics/2023/08/29/josh-lafazan-george-santos-is-lebron-james-of-lying/</loc>
         <news:news>
           <news:publication>
             <news:name>Major Digest</news:name>
             <news:language>en</news:language>
           </news:publication>
-          <news:publication_date>2023-08-29T03:30:28.000Z</news:publication_date>
-          <news:title>Trump chief of staff Meadows says actions laid out in Georgia indictment were part of his job</news:title>
+          <news:publication_date>2023-08-29T03:57:44.000Z</news:publication_date>
+          <news:title>Josh Lafazan: George Santos is &#8216;LeBron James of lying&#8217;</news:title>
         </news:news>
         <image:image>
-          <image:loc>https://majordigest.com/politics/2023/08/29/judge-to-hear-arguments-on-mark-meadows-request-to-move-georgia-election-case-to-federal-court/judge-to-hear-arguments-on-mark-meadows-request-to-move-georgia-election-case-to-federal-court.webp</image:loc>
+          <image:loc>https://majordigest.com/politics/2023/08/29/josh-lafazan-george-santos-is-lebron-james-of-lying/josh-lafazan-george-santos-is-lebron-james-of-lying.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -283,31 +297,17 @@
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/politics/2023/08/29/chris-christie-2024-election-post-debate-trump-ramaswamy/</loc>
+        <loc>https://majordigest.com/politics/2023/08/29/west-texas-am-will-no-longer-require-students-to-pay-for-textbooks-starting-next-fall/</loc>
         <news:news>
           <news:publication>
             <news:name>Major Digest</news:name>
             <news:language>en</news:language>
           </news:publication>
-          <news:publication_date>2023-08-29T02:20:55.000Z</news:publication_date>
-          <news:title>Christie: Trump nomination would be 'dream come true' for Biden</news:title>
+          <news:publication_date>2023-08-29T00:07:43.000Z</news:publication_date>
+          <news:title>West Texas A&#38;M will no longer require students to pay for textbooks starting next fall</news:title>
         </news:news>
         <image:image>
-          <image:loc>https://majordigest.com/politics/2023/08/29/chris-christie-2024-election-post-debate-trump-ramaswamy/chris-christie-2024-election-post-debate-trump-ramaswamy.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/politics/2023/08/29/wisconsin-supreme-court-chief-justice-accuses-liberal-majority-of-staging-a-coup/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-29T01:38:37.000Z</news:publication_date>
-          <news:title>Wisconsin Supreme Court chief justice accuses liberal majority of staging &#8216;coup&#8217;</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/politics/2023/08/29/wisconsin-supreme-court-chief-justice-accuses-liberal-majority-of-staging-a-coup/wisconsin-supreme-court-chief-justice-accuses-liberal-majority-of-staging-a-coup.webp</image:loc>
+          <image:loc>https://majordigest.com/politics/2023/08/29/west-texas-am-will-no-longer-require-students-to-pay-for-textbooks-starting-next-fall/west-texas-am-will-no-longer-require-students-to-pay-for-textbooks-starting-next-fall.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -322,34 +322,6 @@
         </news:news>
         <image:image>
           <image:loc>https://majordigest.com/politics/2023/08/28/house-republican-aims-to-defund-trump-prosecutions-until-2024-election/house-republican-aims-to-defund-trump-prosecutions-until-2024-election.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/politics/2023/08/28/npr-tuberville-pentagon-senate-hold-abortion/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-28T21:21:00.000Z</news:publication_date>
-          <news:title>With hold on confirmations, Pentagon says fate of hundreds of officers in limbo</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/politics/2023/08/28/npr-tuberville-pentagon-senate-hold-abortion/npr-tuberville-pentagon-senate-hold-abortion.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/politics/2023/08/28/pentagon-docs-questions-kabul-airport-bombing/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-28T21:18:10.000Z</news:publication_date>
-          <news:title>Pentagon docs raise questions about Kabul airport bombing</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/politics/2023/08/28/pentagon-docs-questions-kabul-airport-bombing/pentagon-docs-questions-kabul-airport-bombing.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -381,6 +353,20 @@
         </image:image>
       </url>
       <url>
+        <loc>https://majordigest.com/politics/2023/08/28/adam-schiff-visits-half-moon-bay-to-shed-light-on-farmworker-conditions/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-28T20:28:33.000Z</news:publication_date>
+          <news:title>Adam Schiff visits Half Moon Bay to shed light on farmworker conditions</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/politics/2023/08/28/adam-schiff-visits-half-moon-bay-to-shed-light-on-farmworker-conditions/adam-schiff-visits-half-moon-bay-to-shed-light-on-farmworker-conditions.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
         <loc>https://majordigest.com/politics/2023/08/26/gop-presidential-candidate-vivek-ramaswamy-is-an-unaffiliated-voter-nbc-reports/</loc>
         <news:news>
           <news:publication>
@@ -406,20 +392,6 @@
         </news:news>
         <image:image>
           <image:loc>https://majordigest.com/politics/2023/08/25/new-york-man-sentenced-to-3-months-in-prison-for-making-threatening-phone-calls-to-rep-marjorie-taylor-greene/new-york-man-sentenced-to-3-months-in-prison-for-making-threatening-phone-calls-to-rep-marjorie-taylor-greene.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/politics/2023/08/25/carlos-santana-issues-apology-for-anti-trans-remarks-on-stage/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-25T15:43:31.000Z</news:publication_date>
-          <news:title>Carlos Santana issues apology for anti-trans remarks on stage</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/politics/2023/08/25/carlos-santana-issues-apology-for-anti-trans-remarks-on-stage/carlos-santana-issues-apology-for-anti-trans-remarks-on-stage.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -479,6 +451,20 @@
         </image:image>
       </url>
       <url>
+        <loc>https://majordigest.com/politics/2023/08/24/covid-19-cases-rise-cdc-recommends-updated-vaccine/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-24T20:37:19.000Z</news:publication_date>
+          <news:title>COVID-19 cases rise, CDC recommends updated vaccine</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/politics/2023/08/24/covid-19-cases-rise-cdc-recommends-updated-vaccine/covid-19-cases-rise-cdc-recommends-updated-vaccine.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
         <loc>https://majordigest.com/politics/2023/08/24/trump-set-to-surrender-at-georgia-jail-on-charges-that-he-sought-to-overturn-2020-election/</loc>
         <news:news>
           <news:publication>
@@ -504,6 +490,20 @@
         </news:news>
         <image:image>
           <image:loc>https://majordigest.com/politics/2023/08/23/kelly-blue-book-survey-shows-consumer-hesitation-towards-electric-vehicles/kelly-blue-book-survey-shows-consumer-hesitation-towards-electric-vehicles.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/politics/2023/08/23/who-takes-advantage-of-donald-trumps-absence-and-other-things-to-watch-in-the-republican-debate/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-23T21:48:37.000Z</news:publication_date>
+          <news:title>Who takes advantage of Donald Trump's absence and other things to watch in the Republican debate</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/politics/2023/08/23/who-takes-advantage-of-donald-trumps-absence-and-other-things-to-watch-in-the-republican-debate/who-takes-advantage-of-donald-trumps-absence-and-other-things-to-watch-in-the-republican-debate.webp</image:loc>
         </image:image>
       </url>
       <url>

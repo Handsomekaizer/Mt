@@ -3,6 +3,20 @@
               xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
               xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
       <url>
+        <loc>https://majordigest.com/tech/2023/08/29/meta-disrupts-covert-influence-operations-facebook-instagram/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-29T17:16:22.000Z</news:publication_date>
+          <news:title>Meta disrupts covert influence operations on Facebook, Instagram</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/tech/2023/08/29/meta-disrupts-covert-influence-operations-facebook-instagram/meta-disrupts-covert-influence-operations-facebook-instagram.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
         <loc>https://majordigest.com/tech/2023/08/29/meta-says-it-disrupted-largest-known-cross-platform-china-linked-disinformation-campaign/</loc>
         <news:news>
           <news:publication>
@@ -45,17 +59,17 @@
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/tech/2023/08/29/tech-expert-existential-fears-ai-are-overblown-sees-very-disturbing-workplace-threats/</loc>
+        <loc>https://majordigest.com/tech/2023/08/29/pentagon-announces-new-autonomous-drones-systems-program/</loc>
         <news:news>
           <news:publication>
             <news:name>Major Digest</news:name>
             <news:language>en</news:language>
           </news:publication>
-          <news:publication_date>2023-08-29T14:51:23.000Z</news:publication_date>
-          <news:title>Tech expert says 'existential' fears from AI are overblown, but sees 'very disturbing' workplace threats</news:title>
+          <news:publication_date>2023-08-29T14:53:13.000Z</news:publication_date>
+          <news:title>Pentagon announces new autonomous drones, systems program</news:title>
         </news:news>
         <image:image>
-          <image:loc>https://majordigest.com/tech/2023/08/29/tech-expert-existential-fears-ai-are-overblown-sees-very-disturbing-workplace-threats/tech-expert-existential-fears-ai-are-overblown-sees-very-disturbing-workplace-threats.webp</image:loc>
+          <image:loc>https://majordigest.com/tech/2023/08/29/pentagon-announces-new-autonomous-drones-systems-program/pentagon-announces-new-autonomous-drones-systems-program.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -378,20 +392,6 @@
         </news:news>
         <image:image>
           <image:loc>https://majordigest.com/tech/2023/08/25/trump-returns-to-twitter-under-its-new-moniker-x/trump-returns-to-twitter-under-its-new-moniker-x.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/tech/2023/08/25/t-mobile-lay-off-5000-employees/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-25T01:39:17.000Z</news:publication_date>
-          <news:title>T-Mobile to lay off 5,000 employees</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/tech/2023/08/25/t-mobile-lay-off-5000-employees/t-mobile-lay-off-5000-employees.webp</image:loc>
         </image:image>
       </url>
       <url>
