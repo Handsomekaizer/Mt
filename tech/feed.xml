@@ -7,7 +7,7 @@
         <title>Major Digest - Reliable and Comprehensive News Sources: tech</title>
         <description>Get the latest news online at Major Digest, the top online news resource for the most reliable news sources. Stay informed about the world around you!</description>
         <link>https://majordigest.com/?utm_medium=RSS</link>
-        <lastBuildDate>Wed, 30 Aug 2023 22:18:23 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 30 Aug 2023 23:19:15 GMT</lastBuildDate>
         <generator>https://majordigest.com/?v=1.1.4</generator>
         <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/" />
         <atom:link rel="self" href="https://majordigest.com/tech/feed.xml" type="application/rss+xml" />
@@ -18,6 +18,17 @@
           <url>https://majordigest.com/assets/icons/logo-512x512.png</url>
           <link>https://majordigest.com/?utm_medium=RSS</link>
         </image>
+      <item>
+        <title>Mexican Navy hopes to expand net-snagging hooks to protect endangered vaquita porpoises</title>
+        <description><![CDATA[Mexico’s Navy says it is planning to expand the area where it sinks concrete blocks topped with metal hooks to snag gill nets that trap vaquita marina porpoises.]]></description>
+        <guid>https://majordigest.com/tech/2023/08/30/mexican-navy-hopes-to-expand-net-snagging-hooks-to-protect-endangered-vaquita-porpoises/</guid>
+        <link>https://majordigest.com/tech/2023/08/30/mexican-navy-hopes-to-expand-net-snagging-hooks-to-protect-endangered-vaquita-porpoises/</link>
+        <pubDate>Wed, 30 Aug 2023 21:57:35 +0000</pubDate>
+        <category>tech</category>
+        <media:content medium="image" url="https://majordigest.com/tech/2023/08/30/mexican-navy-hopes-to-expand-net-snagging-hooks-to-protect-endangered-vaquita-porpoises/mexican-navy-hopes-to-expand-net-snagging-hooks-to-protect-endangered-vaquita-porpoises.webp"/>
+        <media:thumbnail url="https://majordigest.com/tech/2023/08/30/mexican-navy-hopes-to-expand-net-snagging-hooks-to-protect-endangered-vaquita-porpoises/mexican-navy-hopes-to-expand-net-snagging-hooks-to-protect-endangered-vaquita-porpoises.webp"/>
+        <dc:creator>Fernanda Pesce, Associated Press, KPRC 2</dc:creator>
+      </item>
       <item>
         <title>FBI disrupts malicious program infecting computers</title>
         <description><![CDATA[“The FBI led a worldwide joint, sequenced operation that crippled one of the longest-running cybercriminal botnets.]]></description>
@@ -41,6 +52,17 @@
         <dc:creator>Rebecca Klar, The Hill</dc:creator>
       </item>
       <item>
+        <title>Jordan subpoenas hate speech watchdog</title>
+        <description><![CDATA[House Judiciary Chairman Jim Jordan (R-Ohio) subpoenaed a hate speech watchdog group on Wednesday, ramping up the committee’s probe into the nonprofit organization.]]></description>
+        <guid>https://majordigest.com/tech/2023/08/30/jordan-subpoenas-hate-speech-watchdog/</guid>
+        <link>https://majordigest.com/tech/2023/08/30/jordan-subpoenas-hate-speech-watchdog/</link>
+        <pubDate>Wed, 30 Aug 2023 19:18:26 +0000</pubDate>
+        <category>tech</category>
+        <media:content medium="image" url="https://majordigest.com/tech/2023/08/30/jordan-subpoenas-hate-speech-watchdog/jordan-subpoenas-hate-speech-watchdog.webp"/>
+        <media:thumbnail url="https://majordigest.com/tech/2023/08/30/jordan-subpoenas-hate-speech-watchdog/jordan-subpoenas-hate-speech-watchdog.webp"/>
+        <dc:creator>Rebecca Klar, The Hill</dc:creator>
+      </item>
+      <item>
         <title>Gannett to pause AI experiment after botched sports stories</title>
         <description><![CDATA[Several high school sports reports written by an AI service called LedeAI and published by the Columbus Dispatch earlier this month went viral on social media this week — and not in a good way.]]></description>
         <guid>https://majordigest.com/tech/2023/08/30/gannett-to-pause-ai-experiment-after-botched-sports-stories/</guid>
@@ -50,6 +72,17 @@
         <media:content medium="image" url="https://majordigest.com/tech/2023/08/30/gannett-to-pause-ai-experiment-after-botched-sports-stories/gannett-to-pause-ai-experiment-after-botched-sports-stories.webp"/>
         <media:thumbnail url="https://majordigest.com/tech/2023/08/30/gannett-to-pause-ai-experiment-after-botched-sports-stories/gannett-to-pause-ai-experiment-after-botched-sports-stories.webp"/>
         <dc:creator>Cnn.Com Wire Service, The Mercury News</dc:creator>
+      </item>
+      <item>
+        <title>Home cocktail makers aim to fire the local bartender</title>
+        <description><![CDATA[Making cocktails at home is much easier with a Bartesian Cocktail Maker. Kurt &quot;CyberGuy&quot; Knutsson explains how automatic cocktail makers work.]]></description>
+        <guid>https://majordigest.com/tech/2023/08/30/home-cocktail-makers-aim-fire-local-bartender/</guid>
+        <link>https://majordigest.com/tech/2023/08/30/home-cocktail-makers-aim-fire-local-bartender/</link>
+        <pubDate>Wed, 30 Aug 2023 15:02:55 EDT</pubDate>
+        <category>tech</category>
+        <media:content medium="image" url="https://majordigest.com/tech/2023/08/30/home-cocktail-makers-aim-fire-local-bartender/home-cocktail-makers-aim-fire-local-bartender.webp"/>
+        <media:thumbnail url="https://majordigest.com/tech/2023/08/30/home-cocktail-makers-aim-fire-local-bartender/home-cocktail-makers-aim-fire-local-bartender.webp"/>
+        <dc:creator>Fox News</dc:creator>
       </item>
       <item>
         <title>Home cocktail makers aim to fire the local bartender</title>
@@ -107,6 +140,17 @@
         <dc:creator>Miranda Nazzaro, The Hill</dc:creator>
       </item>
       <item>
+        <title>FBI disrupts malicious program infecting hundreds of thousands of computers</title>
+        <description><![CDATA[The Justice Department says the FBI was able to "disrupt" malware that had infected more than 700,000 computers across the world.]]></description>
+        <guid>https://majordigest.com/tech/2023/08/30/fbi-disrupts-malicious-program-infecting-hundreds-of-thousands-of-computers/</guid>
+        <link>https://majordigest.com/tech/2023/08/30/fbi-disrupts-malicious-program-infecting-hundreds-of-thousands-of-computers/</link>
+        <pubDate>Wed, 30 Aug 2023 15:19:40 +0000</pubDate>
+        <category>tech</category>
+        <media:content medium="image" url="https://majordigest.com/tech/2023/08/30/fbi-disrupts-malicious-program-infecting-hundreds-of-thousands-of-computers/fbi-disrupts-malicious-program-infecting-hundreds-of-thousands-of-computers.webp"/>
+        <media:thumbnail url="https://majordigest.com/tech/2023/08/30/fbi-disrupts-malicious-program-infecting-hundreds-of-thousands-of-computers/fbi-disrupts-malicious-program-infecting-hundreds-of-thousands-of-computers.webp"/>
+        <dc:creator>Tara Suter, The Hill</dc:creator>
+      </item>
+      <item>
         <title>Saudi man receives death penalty for posts online, latest case in wide-ranging crackdown on dissent</title>
         <description><![CDATA[DUBAI, United Arab Emirates (AP) — A Saudi court has sentenced a man to death over his posts on X, formerly known as Twitter, and his activity on YouTube, the latest in a widening crackdown on dissent in the kingdom that has drawn international criticism.]]></description>
         <guid>https://majordigest.com/tech/2023/08/30/saudi-man-receives-death-penalty-for-posts-online-latest-case-in-wide-ranging-crackdown-on-dissent/</guid>
@@ -149,17 +193,6 @@
         <media:content medium="image" url="https://majordigest.com/tech/2023/08/30/indonesia-arrests-88-chinese-nationals-over-online-romance-scams/indonesia-arrests-88-chinese-nationals-over-online-romance-scams.webp"/>
         <media:thumbnail url="https://majordigest.com/tech/2023/08/30/indonesia-arrests-88-chinese-nationals-over-online-romance-scams/indonesia-arrests-88-chinese-nationals-over-online-romance-scams.webp"/>
         <dc:creator>Associated Press, KPRC 2</dc:creator>
-      </item>
-      <item>
-        <title>Tesla is allowing no-hands driving with Autopilot for longer periods. US regulators have questions</title>
-        <description><![CDATA[Tesla is letting some drivers to use its Autopilot driver-assist system for extended periods without making them put their hands on the steering wheel, a development that has drawn concern from U.S. safety regulators.]]></description>
-        <guid>https://majordigest.com/tech/2023/08/30/after-tesla-relaxes-monitoring-of-drivers-using-its-autopilot-technology-us-regulators-seek-answers/</guid>
-        <link>https://majordigest.com/tech/2023/08/30/after-tesla-relaxes-monitoring-of-drivers-using-its-autopilot-technology-us-regulators-seek-answers/</link>
-        <pubDate>Wed, 30 Aug 2023 11:50:39 +0000</pubDate>
-        <category>tech</category>
-        <media:content medium="image" url="https://majordigest.com/tech/2023/08/30/after-tesla-relaxes-monitoring-of-drivers-using-its-autopilot-technology-us-regulators-seek-answers/after-tesla-relaxes-monitoring-of-drivers-using-its-autopilot-technology-us-regulators-seek-answers.webp"/>
-        <media:thumbnail url="https://majordigest.com/tech/2023/08/30/after-tesla-relaxes-monitoring-of-drivers-using-its-autopilot-technology-us-regulators-seek-answers/after-tesla-relaxes-monitoring-of-drivers-using-its-autopilot-technology-us-regulators-seek-answers.webp"/>
-        <dc:creator>Tom Krisher, Associated Press, KPRC 2</dc:creator>
       </item>
       <item>
         <title>Tesla is allowing no-hands driving with Autopilot for longer periods. US regulators have questions</title>
@@ -217,17 +250,6 @@
         <dc:creator>Huizhong Wu, Associated Press, KPRC 2</dc:creator>
       </item>
       <item>
-        <title>Win Over SEC Ups Chances for Bitcoin ETF Approval</title>
-        <description><![CDATA[Grayscale Investments’s court victory over the Securities and Exchange Commission (SEC) on Tuesday sent cryptocurrency prices soaring, as the market eyes a ruling that may allow the first ever cryptocurrency-based exchange-traded fund (ETF).]]></description>
-        <guid>https://majordigest.com/tech/2023/08/29/win-over-sec-ups-chances-for-bitcoin-etf-approval/</guid>
-        <link>https://majordigest.com/tech/2023/08/29/win-over-sec-ups-chances-for-bitcoin-etf-approval/</link>
-        <pubDate>Tue, 29 Aug 2023 22:43:08 +0000</pubDate>
-        <category>tech</category>
-        <media:content medium="image" url="https://majordigest.com/tech/2023/08/29/win-over-sec-ups-chances-for-bitcoin-etf-approval/win-over-sec-ups-chances-for-bitcoin-etf-approval.webp"/>
-        <media:thumbnail url="https://majordigest.com/tech/2023/08/29/win-over-sec-ups-chances-for-bitcoin-etf-approval/win-over-sec-ups-chances-for-bitcoin-etf-approval.webp"/>
-        <dc:creator>Nick Robertson, The Hill</dc:creator>
-      </item>
-      <item>
         <title>16 Attorneys General ask SEC to audit Shein over forced labor</title>
         <description><![CDATA["SHEIN’s growth has been built on nefarious business practices," the attorneys general wrote in a letter.]]></description>
         <guid>https://majordigest.com/tech/2023/08/29/16-attorneys-general-sec-audit-shein-forced-labor/</guid>
@@ -269,29 +291,18 @@
         <category>tech</category>
         <media:content medium="image" url="https://majordigest.com/tech/2023/08/29/indias-moon-rover-confirms-sulfur-and-detects-several-other-elements-near-the-lunar-south-pole/indias-moon-rover-confirms-sulfur-and-detects-several-other-elements-near-the-lunar-south-pole.webp"/>
         <media:thumbnail url="https://majordigest.com/tech/2023/08/29/indias-moon-rover-confirms-sulfur-and-detects-several-other-elements-near-the-lunar-south-pole/indias-moon-rover-confirms-sulfur-and-detects-several-other-elements-near-the-lunar-south-pole.webp"/>
-        <dc:creator>Ashok Sharma, Associated Press, KPRC 2</dc:creator>
+        <dc:creator>Ashok Sharma, Associated Press, Local 4</dc:creator>
       </item>
       <item>
-        <title>India's moon rover confirms sulfur and detects several other elements near the lunar south pole</title>
-        <description><![CDATA[India’s moon rover has confirmed the presence of sulfur and detected several other elements on the surface near the lunar south pole a week after the country’s historic moon landing.]]></description>
-        <guid>https://majordigest.com/tech/2023/08/29/indias-moon-rover-confirms-sulfur-and-detects-several-other-elements-near-the-lunar-south-pole/</guid>
-        <link>https://majordigest.com/tech/2023/08/29/indias-moon-rover-confirms-sulfur-and-detects-several-other-elements-near-the-lunar-south-pole/</link>
-        <pubDate>Tue, 29 Aug 2023 19:23:57 +0000</pubDate>
+        <title>Supermoon could team up with Hurricane Idalia to raise tides higher just as the storm makes landfall</title>
+        <description><![CDATA[A rare blue supermoon could be playing a role in worsening the impact of Hurricane Idalia as the storm lashes Florida's west coast.]]></description>
+        <guid>https://majordigest.com/tech/2023/08/29/supermoon-could-team-up-with-hurricane-idalia-to-raise-tides-higher-just-as-the-storm-makes-landfall/</guid>
+        <link>https://majordigest.com/tech/2023/08/29/supermoon-could-team-up-with-hurricane-idalia-to-raise-tides-higher-just-as-the-storm-makes-landfall/</link>
+        <pubDate>Tue, 29 Aug 2023 19:15:10 +0000</pubDate>
         <category>tech</category>
-        <media:content medium="image" url="https://majordigest.com/tech/2023/08/29/indias-moon-rover-confirms-sulfur-and-detects-several-other-elements-near-the-lunar-south-pole/indias-moon-rover-confirms-sulfur-and-detects-several-other-elements-near-the-lunar-south-pole.webp"/>
-        <media:thumbnail url="https://majordigest.com/tech/2023/08/29/indias-moon-rover-confirms-sulfur-and-detects-several-other-elements-near-the-lunar-south-pole/indias-moon-rover-confirms-sulfur-and-detects-several-other-elements-near-the-lunar-south-pole.webp"/>
-        <dc:creator>Ashok Sharma, Associated Press, KPRC 2</dc:creator>
-      </item>
-      <item>
-        <title>How to digitally sign a document on any device</title>
-        <description><![CDATA[You can add your signature to PDF documents by using Apple, Android or PCs. Kurt &quot;CyberGuy&quot; Knutsson shows you how to add e-signatures using your devices.]]></description>
-        <guid>https://majordigest.com/tech/2023/08/29/digitally-sign-document-device/</guid>
-        <link>https://majordigest.com/tech/2023/08/29/digitally-sign-document-device/</link>
-        <pubDate>Tue, 29 Aug 2023 13:43:01 EDT</pubDate>
-        <category>tech</category>
-        <media:content medium="image" url="https://majordigest.com/tech/2023/08/29/digitally-sign-document-device/digitally-sign-document-device.webp"/>
-        <media:thumbnail url="https://majordigest.com/tech/2023/08/29/digitally-sign-document-device/digitally-sign-document-device.webp"/>
-        <dc:creator>Fox News</dc:creator>
+        <media:content medium="image" url="https://majordigest.com/tech/2023/08/29/supermoon-could-team-up-with-hurricane-idalia-to-raise-tides-higher-just-as-the-storm-makes-landfall/supermoon-could-team-up-with-hurricane-idalia-to-raise-tides-higher-just-as-the-storm-makes-landfall.webp"/>
+        <media:thumbnail url="https://majordigest.com/tech/2023/08/29/supermoon-could-team-up-with-hurricane-idalia-to-raise-tides-higher-just-as-the-storm-makes-landfall/supermoon-could-team-up-with-hurricane-idalia-to-raise-tides-higher-just-as-the-storm-makes-landfall.webp"/>
+        <dc:creator>Jeff Martin, Associated Press, Local 4</dc:creator>
       </item>
       <item>
         <title>How to digitally sign a document on any device</title>
@@ -326,17 +337,6 @@ Andy Jassy reportedely told employees.]]></description>
         <media:content medium="image" url="https://majordigest.com/tech/2023/08/29/amazon-ceo-tells-remote-workers-its-not-going-to-work-out/amazon-ceo-tells-remote-workers-its-not-going-to-work-out.webp"/>
         <media:thumbnail url="https://majordigest.com/tech/2023/08/29/amazon-ceo-tells-remote-workers-its-not-going-to-work-out/amazon-ceo-tells-remote-workers-its-not-going-to-work-out.webp"/>
         <dc:creator>Cassie Buchman, NewsNation</dc:creator>
-      </item>
-      <item>
-        <title>Native nations on front lines of climate change share knowledge and find support at intensive camps</title>
-        <description><![CDATA[Dozens of tribal citizens and employees have benefitted in recent years from tribal climate camps that serve as a refuge for Native Americans on the front lines of climate change.]]></description>
-        <guid>https://majordigest.com/tech/2023/08/29/native-nations-on-front-lines-of-climate-change-share-knowledge-and-find-support-at-intensive-camps/</guid>
-        <link>https://majordigest.com/tech/2023/08/29/native-nations-on-front-lines-of-climate-change-share-knowledge-and-find-support-at-intensive-camps/</link>
-        <pubDate>Tue, 29 Aug 2023 05:16:19 +0000</pubDate>
-        <category>tech</category>
-        <media:content medium="image" url="https://majordigest.com/tech/2023/08/29/native-nations-on-front-lines-of-climate-change-share-knowledge-and-find-support-at-intensive-camps/native-nations-on-front-lines-of-climate-change-share-knowledge-and-find-support-at-intensive-camps.webp"/>
-        <media:thumbnail url="https://majordigest.com/tech/2023/08/29/native-nations-on-front-lines-of-climate-change-share-knowledge-and-find-support-at-intensive-camps/native-nations-on-front-lines-of-climate-change-share-knowledge-and-find-support-at-intensive-camps.webp"/>
-        <dc:creator>Hallie Golden, Associated Press, Local 4</dc:creator>
       </item>
       <item>
         <title>Amazon is raising free-shipping minimums for some customers who don't have Prime memberships</title>

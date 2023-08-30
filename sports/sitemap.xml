@@ -3,6 +3,62 @@
               xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
               xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
       <url>
+        <loc>https://majordigest.com/sports/2023/08/30/wander-franco-faces-second-complaint-relationship-minor-dominican-authorities-investigating-report/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-30T22:55:49.000Z</news:publication_date>
+          <news:title>Wander Franco faces second complaint of relationship with minor; Dominican authorities investigating: report</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/sports/2023/08/30/wander-franco-faces-second-complaint-relationship-minor-dominican-authorities-investigating-report/wander-franco-faces-second-complaint-relationship-minor-dominican-authorities-investigating-report.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/sports/2023/08/30/us-open-player-backs-claim-marijuana-smell-court-17-snoop-doggs-living-room/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-30T22:53:34.000Z</news:publication_date>
+          <news:title>US Open player backs claim of marijuana smell at Court 17: 'Smells like Snoop Dogg's living room'</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/sports/2023/08/30/us-open-player-backs-claim-marijuana-smell-court-17-snoop-doggs-living-room/us-open-player-backs-claim-marijuana-smell-court-17-snoop-doggs-living-room.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/sports/2023/08/30/realignment-prompts-fresh-look-at-the-number-of-automatic-bids-in-12-team-college-football-playoff/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-30T22:32:53.000Z</news:publication_date>
+          <news:title>Realignment prompts fresh look at the number of automatic bids in 12-team College Football Playoff</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/sports/2023/08/30/realignment-prompts-fresh-look-at-the-number-of-automatic-bids-in-12-team-college-football-playoff/realignment-prompts-fresh-look-at-the-number-of-automatic-bids-in-12-team-college-football-playoff.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/sports/2023/08/30/coco-gauff-beats-russian-teen-mirra-andreeva-to-cruise-into-us-open-third-round/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-30T22:21:05.000Z</news:publication_date>
+          <news:title>Djokovic and Swiatek roll, Tsitsipas falls in hot, sticky US Open second round</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/sports/2023/08/30/coco-gauff-beats-russian-teen-mirra-andreeva-to-cruise-into-us-open-third-round/coco-gauff-beats-russian-teen-mirra-andreeva-to-cruise-into-us-open-third-round.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
         <loc>https://majordigest.com/sports/2023/08/30/us-open-champion-undergo-brain-surgery-im-good-spirits/</loc>
         <news:news>
           <news:publication>
@@ -14,34 +70,6 @@
         </news:news>
         <image:image>
           <image:loc>https://majordigest.com/sports/2023/08/30/us-open-champion-undergo-brain-surgery-im-good-spirits/us-open-champion-undergo-brain-surgery-im-good-spirits.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/sports/2023/08/30/commanders-president-team-not-considering-changing-name-back-redskins/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-30T22:12:14.000Z</news:publication_date>
-          <news:title>Commanders president says team not considering changing name back to Redskins</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/sports/2023/08/30/commanders-president-team-not-considering-changing-name-back-redskins/commanders-president-team-not-considering-changing-name-back-redskins.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/sports/2023/08/30/colts-still-uncertain-about-timetable-for-jonathan-taylors-return/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-30T22:09:26.000Z</news:publication_date>
-          <news:title>Colts still uncertain about timetable for Jonathan Taylor's return</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/sports/2023/08/30/colts-still-uncertain-about-timetable-for-jonathan-taylors-return/colts-still-uncertain-about-timetable-for-jonathan-taylors-return.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -65,53 +93,11 @@
             <news:name>Major Digest</news:name>
             <news:language>en</news:language>
           </news:publication>
-          <news:publication_date>2023-08-30T22:03:33.000Z</news:publication_date>
+          <news:publication_date>2023-08-30T22:03:32.000Z</news:publication_date>
           <news:title>Trey Lance starts over at 'square zero' with Cowboys after QB's trade from 49ers</news:title>
         </news:news>
         <image:image>
           <image:loc>https://majordigest.com/sports/2023/08/30/trey-lance-starts-over-at-square-zero-with-cowboys-after-qbs-trade-from-49ers/trey-lance-starts-over-at-square-zero-with-cowboys-after-qbs-trade-from-49ers.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/sports/2023/08/30/phillies-bryce-harper-says-radio-caller-motivated-him-hit-home-run/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-30T22:00:28.000Z</news:publication_date>
-          <news:title>Phillies' Bryce Harper says radio caller motivated him to hit home run</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/sports/2023/08/30/phillies-bryce-harper-says-radio-caller-motivated-him-hit-home-run/phillies-bryce-harper-says-radio-caller-motivated-him-hit-home-run.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/sports/2023/08/30/cmu-football-is-ready-for-battle/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-30T21:47:10.000Z</news:publication_date>
-          <news:title>CMU Football is ready for battle</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/sports/2023/08/30/cmu-football-is-ready-for-battle/cmu-football-is-ready-for-battle.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/sports/2023/08/30/retired-olympic-skier-lindsey-vonn-opens-up-injuries-struggle-with-insomnia/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-30T21:44:12.000Z</news:publication_date>
-          <news:title>Retired Olympic skier Lindsey Vonn opens up on injuries, struggle with insomnia</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/sports/2023/08/30/retired-olympic-skier-lindsey-vonn-opens-up-injuries-struggle-with-insomnia/retired-olympic-skier-lindsey-vonn-opens-up-injuries-struggle-with-insomnia.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -122,38 +108,24 @@
             <news:language>en</news:language>
           </news:publication>
           <news:publication_date>2023-08-30T21:30:42.000Z</news:publication_date>
-          <news:title>Could 49ers trade Nick Bosa? Kyle Shanahan, John Lynch scoff at that suggestion</news:title>
+          <news:title>Could 49ers trade Nick Bosa? Kyle Shanahan, John Lynch scoff at the idea</news:title>
         </news:news>
         <image:image>
           <image:loc>https://majordigest.com/sports/2023/08/30/what-does-kyle-shanahan-say-on-49ers-nick-bosa-holdout-trade/what-does-kyle-shanahan-say-on-49ers-nick-bosa-holdout-trade.webp</image:loc>
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/sports/2023/08/30/dolphins-chris-grier-calls-talks-with-colts-about-running-back-jonathan-taylor-exploratory/</loc>
+        <loc>https://majordigest.com/sports/2023/08/30/bryce-harper-hits-300th-homer-going-deep-against-the-los-angeles-angels-matt-moore/</loc>
         <news:news>
           <news:publication>
             <news:name>Major Digest</news:name>
             <news:language>en</news:language>
           </news:publication>
-          <news:publication_date>2023-08-30T19:55:42.000Z</news:publication_date>
-          <news:title>Dolphins' Chris Grier calls talks with Colts about running back Jonathan Taylor 'exploratory'</news:title>
+          <news:publication_date>2023-08-30T19:48:56.000Z</news:publication_date>
+          <news:title>Bryce Harper hits 300th homer, going deep against the Los Angeles Angels' Matt Moore</news:title>
         </news:news>
         <image:image>
-          <image:loc>https://majordigest.com/sports/2023/08/30/dolphins-chris-grier-calls-talks-with-colts-about-running-back-jonathan-taylor-exploratory/dolphins-chris-grier-calls-talks-with-colts-about-running-back-jonathan-taylor-exploratory.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/sports/2023/08/30/nba-referee-eric-lewis-retires-league-closes-investigation-into-social-media-posts/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-30T19:53:48.000Z</news:publication_date>
-          <news:title>NBA referee Eric Lewis retires; league closes investigation into social media posts</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/sports/2023/08/30/nba-referee-eric-lewis-retires-league-closes-investigation-into-social-media-posts/nba-referee-eric-lewis-retires-league-closes-investigation-into-social-media-posts.webp</image:loc>
+          <image:loc>https://majordigest.com/sports/2023/08/30/bryce-harper-hits-300th-homer-going-deep-against-the-los-angeles-angels-matt-moore/bryce-harper-hits-300th-homer-going-deep-against-the-los-angeles-angels-matt-moore.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -171,6 +143,34 @@
         </image:image>
       </url>
       <url>
+        <loc>https://majordigest.com/sports/2023/08/30/49ers-see-trio-claimed-off-waivers-before-they-reaching-practice-squad/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-30T17:53:57.000Z</news:publication_date>
+          <news:title>49ers see trio claimed off waivers before they can reach practice squad</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/sports/2023/08/30/49ers-see-trio-claimed-off-waivers-before-they-reaching-practice-squad/49ers-see-trio-claimed-off-waivers-before-they-reaching-practice-squad.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/sports/2023/08/30/justin-jefferson-selected-top-wide-receiver-by-panel-of-ap-pro-football-writers/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-30T17:18:14.000Z</news:publication_date>
+          <news:title>Justin Jefferson selected top wide receiver by panel of AP Pro Football Writers</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/sports/2023/08/30/justin-jefferson-selected-top-wide-receiver-by-panel-of-ap-pro-football-writers/justin-jefferson-selected-top-wide-receiver-by-panel-of-ap-pro-football-writers.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
         <loc>https://majordigest.com/sports/2023/08/30/the-waiver-wire-brings-a-few-surprises-for-the-white-sox/</loc>
         <news:news>
           <news:publication>
@@ -182,20 +182,6 @@
         </news:news>
         <image:image>
           <image:loc>https://majordigest.com/sports/2023/08/30/the-waiver-wire-brings-a-few-surprises-for-the-white-sox/the-waiver-wire-brings-a-few-surprises-for-the-white-sox.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/sports/2023/08/30/garza-resigns-at-nevada-is-fresno-city-next/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-30T07:34:57.000Z</news:publication_date>
-          <news:title>Garza resigns at Nevada, is Fresno City next?</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/sports/2023/08/30/garza-resigns-at-nevada-is-fresno-city-next/garza-resigns-at-nevada-is-fresno-city-next.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -213,6 +199,20 @@
         </image:image>
       </url>
       <url>
+        <loc>https://majordigest.com/sports/2023/08/30/giants-pitcher-alex-cobb-comes-one-out-away-from-no-hitter/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-30T04:09:28.000Z</news:publication_date>
+          <news:title>Giants pitcher Alex Cobb comes one out away from no-hitter</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/sports/2023/08/30/giants-pitcher-alex-cobb-comes-one-out-away-from-no-hitter/giants-pitcher-alex-cobb-comes-one-out-away-from-no-hitter.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
         <loc>https://majordigest.com/sports/2023/08/30/like-snoop-doggs-living-room-smell-of-pot-wafts-over-notorious-u-s-open-court/</loc>
         <news:news>
           <news:publication>
@@ -227,31 +227,17 @@
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/sports/2023/08/29/men-who-rushed-coors-field-accosted-mlb-star-arrested/</loc>
+        <loc>https://majordigest.com/sports/2023/08/30/former-u-of-u-gymnasts-report-positive-experiences-despite-coach-abuse-allegations/</loc>
         <news:news>
           <news:publication>
             <news:name>Major Digest</news:name>
             <news:language>en</news:language>
           </news:publication>
-          <news:publication_date>2023-08-29T22:03:07.000Z</news:publication_date>
-          <news:title>Men who rushed Coors Field, accosted MLB star arrested</news:title>
+          <news:publication_date>2023-08-30T00:45:45.000Z</news:publication_date>
+          <news:title>Former U of U gymnasts report positive experiences despite coach abuse allegations</news:title>
         </news:news>
         <image:image>
-          <image:loc>https://majordigest.com/sports/2023/08/29/men-who-rushed-coors-field-accosted-mlb-star-arrested/men-who-rushed-coors-field-accosted-mlb-star-arrested.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/sports/2023/08/29/nebraska-volleyball-stadium-event-could-draw-90000-plus-and-set-womens-world-attendance-record/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-29T22:00:03.000Z</news:publication_date>
-          <news:title>Nebraska volleyball stadium event could draw 90,000-plus and set women's world attendance record</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/sports/2023/08/29/nebraska-volleyball-stadium-event-could-draw-90000-plus-and-set-womens-world-attendance-record/nebraska-volleyball-stadium-event-could-draw-90000-plus-and-set-womens-world-attendance-record.webp</image:loc>
+          <image:loc>https://majordigest.com/sports/2023/08/30/former-u-of-u-gymnasts-report-positive-experiences-despite-coach-abuse-allegations/former-u-of-u-gymnasts-report-positive-experiences-despite-coach-abuse-allegations.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -269,20 +255,6 @@
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/sports/2023/08/29/a-spanish-soccer-officials-kiss-unleashed-fury-soul-searching-over-sexism-and-a-hunger-strike/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-29T20:03:31.000Z</news:publication_date>
-          <news:title>A Spanish soccer official&#8217;s kiss unleashed fury, soul-searching over sexism, and a hunger strike</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/sports/2023/08/29/a-spanish-soccer-officials-kiss-unleashed-fury-soul-searching-over-sexism-and-a-hunger-strike/a-spanish-soccer-officials-kiss-unleashed-fury-soul-searching-over-sexism-and-a-hunger-strike.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
         <loc>https://majordigest.com/sports/2023/08/29/every-game-matters-for-the-lopes-cmu-sports-begin-this-week/</loc>
         <news:news>
           <news:publication>
@@ -294,6 +266,34 @@
         </news:news>
         <image:image>
           <image:loc>https://majordigest.com/sports/2023/08/29/every-game-matters-for-the-lopes-cmu-sports-begin-this-week/every-game-matters-for-the-lopes-cmu-sports-begin-this-week.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/sports/2023/08/29/tedford-talks-about-mikey-keene-as-qb1/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-29T01:56:38.000Z</news:publication_date>
+          <news:title>Tedford talks about Mikey Keene as QB1</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/sports/2023/08/29/tedford-talks-about-mikey-keene-as-qb1/tedford-talks-about-mikey-keene-as-qb1.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/sports/2023/08/29/holiday-bowl-brings-back-iconic-san-diego-fireworks-show-for-second-year/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-29T01:24:28.000Z</news:publication_date>
+          <news:title>Holiday Bowl brings back iconic San Diego fireworks show for second year</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/sports/2023/08/29/holiday-bowl-brings-back-iconic-san-diego-fireworks-show-for-second-year/holiday-bowl-brings-back-iconic-san-diego-fireworks-show-for-second-year.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -311,17 +311,17 @@
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/sports/2023/08/28/watch-live-little-league-world-series-champs-el-segundo-return-home/</loc>
+        <loc>https://majordigest.com/sports/2023/08/28/pat-corrales-1941-2023/</loc>
         <news:news>
           <news:publication>
             <news:name>Major Digest</news:name>
             <news:language>en</news:language>
           </news:publication>
-          <news:publication_date>2023-08-28T22:43:06.000Z</news:publication_date>
-          <news:title>El Segundo welcomes back Little League World Series champs</news:title>
+          <news:publication_date>2023-08-28T22:49:30.000Z</news:publication_date>
+          <news:title>Pat Corrales (1941-2023)</news:title>
         </news:news>
         <image:image>
-          <image:loc>https://majordigest.com/sports/2023/08/28/watch-live-little-league-world-series-champs-el-segundo-return-home/watch-live-little-league-world-series-champs-el-segundo-return-home.webp</image:loc>
+          <image:loc>https://majordigest.com/sports/2023/08/28/pat-corrales-1941-2023/pat-corrales-1941-2023.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -367,17 +367,17 @@
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/sports/2023/08/28/simone-biles-wins-record-8th-us-gymnastics-title-a-full-decade-after-her-first/</loc>
+        <loc>https://majordigest.com/sports/2023/08/28/simone-biles-wins-a-record-8th-us-gymnastics-title-a-full-decade-after-her-first/</loc>
         <news:news>
           <news:publication>
             <news:name>Major Digest</news:name>
             <news:language>en</news:language>
           </news:publication>
-          <news:publication_date>2023-08-28T09:57:18.000Z</news:publication_date>
-          <news:title>Simone Biles wins record 8th US Gymnastics title - a full decade after her first</news:title>
+          <news:publication_date>2023-08-28T03:36:49.000Z</news:publication_date>
+          <news:title>Simone Biles wins a record 8th US Gymnastics title a full decade after her first</news:title>
         </news:news>
         <image:image>
-          <image:loc>https://majordigest.com/sports/2023/08/28/simone-biles-wins-record-8th-us-gymnastics-title-a-full-decade-after-her-first/simone-biles-wins-record-8th-us-gymnastics-title-a-full-decade-after-her-first.webp</image:loc>
+          <image:loc>https://majordigest.com/sports/2023/08/28/simone-biles-wins-a-record-8th-us-gymnastics-title-a-full-decade-after-her-first/simone-biles-wins-a-record-8th-us-gymnastics-title-a-full-decade-after-her-first.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -392,20 +392,6 @@
         </news:news>
         <image:image>
           <image:loc>https://majordigest.com/sports/2023/08/28/ex-bulldogs-evans-burse-helping-with-youth-program/ex-bulldogs-evans-burse-helping-with-youth-program.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/sports/2023/08/27/california-wins-little-league-world-series-6-5-over-curacao-on-walk-off-homer/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-27T22:50:39.000Z</news:publication_date>
-          <news:title>California wins Little League World Series 6-5 over Curacao on walk-off homer</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/sports/2023/08/27/california-wins-little-league-world-series-6-5-over-curacao-on-walk-off-homer/california-wins-little-league-world-series-6-5-over-curacao-on-walk-off-homer.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -451,6 +437,20 @@
         </image:image>
       </url>
       <url>
+        <loc>https://majordigest.com/sports/2023/08/26/little-league-world-series-curacao-and-california-to-square-off-in-the-final/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-26T22:59:47.000Z</news:publication_date>
+          <news:title>Little League World Series: Curacao and California to square off in the final</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/sports/2023/08/26/little-league-world-series-curacao-and-california-to-square-off-in-the-final/little-league-world-series-curacao-and-california-to-square-off-in-the-final.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
         <loc>https://majordigest.com/sports/2023/08/26/tampa-bay-buccaneers-fans-can-meet-wr-chris-godwin-on-sunday-heres-where/</loc>
         <news:news>
           <news:publication>
@@ -479,20 +479,6 @@
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/sports/2023/08/25/fruitas-lethal-rushing-attack-helps-dominate-central/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-25T05:04:10.000Z</news:publication_date>
-          <news:title>Fruita's lethal rushing attack helps dominate Central</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/sports/2023/08/25/fruitas-lethal-rushing-attack-helps-dominate-central/fruitas-lethal-rushing-attack-helps-dominate-central.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
         <loc>https://majordigest.com/sports/2023/08/25/sf-prep-basketball-star-zion-sensley-commits-to-st-marys/</loc>
         <news:news>
           <news:publication>
@@ -518,5 +504,19 @@
         </news:news>
         <image:image>
           <image:loc>https://majordigest.com/sports/2023/08/24/wwe-wrestler-bray-wyatt-dies-at-36/wwe-wrestler-bray-wyatt-dies-at-36.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/sports/2023/08/24/central-vs-fruita-the-battle-is-on-tomorrow/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-24T04:48:59.000Z</news:publication_date>
+          <news:title>Central vs Fruita. The battle is on tomorrow.</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/sports/2023/08/24/central-vs-fruita-the-battle-is-on-tomorrow/central-vs-fruita-the-battle-is-on-tomorrow.webp</image:loc>
         </image:image>
       </url></urlset>

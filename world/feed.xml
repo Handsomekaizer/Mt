@@ -7,7 +7,7 @@
         <title>Major Digest - Reliable and Comprehensive News Sources: world</title>
         <description>Get the latest news online at Major Digest, the top online news resource for the most reliable news sources. Stay informed about the world around you!</description>
         <link>https://majordigest.com/?utm_medium=RSS</link>
-        <lastBuildDate>Wed, 30 Aug 2023 22:18:23 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 30 Aug 2023 23:19:15 GMT</lastBuildDate>
         <generator>https://majordigest.com/?v=1.1.4</generator>
         <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/" />
         <atom:link rel="self" href="https://majordigest.com/world/feed.xml" type="application/rss+xml" />
@@ -18,6 +18,17 @@
           <url>https://majordigest.com/assets/icons/logo-512x512.png</url>
           <link>https://majordigest.com/?utm_medium=RSS</link>
         </image>
+      <item>
+        <title>Mutineers in Gabon appoint a military leader after detaining the president, alleging corruption</title>
+        <description><![CDATA[LIBREVILLE, Gabon (AP) — Mutinous soldiers in Gabon proclaimed their republican guard chief as the country’s leader Wednesday after placing the just-reelected President Ali Bongo Ondimba under house arrest, alleging betrayal and massive embezzlement during his long-time rule over the oil-rich Centra]]></description>
+        <guid>https://majordigest.com/world/2023/08/30/gabon-military-officers-say-theyre-seizing-power-just-days-after-the-presidential-election/</guid>
+        <link>https://majordigest.com/world/2023/08/30/gabon-military-officers-say-theyre-seizing-power-just-days-after-the-presidential-election/</link>
+        <pubDate>Wed, 30 Aug 2023 21:51:01 +0000</pubDate>
+        <category>world</category>
+        <media:content medium="image" url="https://majordigest.com/world/2023/08/30/gabon-military-officers-say-theyre-seizing-power-just-days-after-the-presidential-election/gabon-military-officers-say-theyre-seizing-power-just-days-after-the-presidential-election.webp"/>
+        <media:thumbnail url="https://majordigest.com/world/2023/08/30/gabon-military-officers-say-theyre-seizing-power-just-days-after-the-presidential-election/gabon-military-officers-say-theyre-seizing-power-just-days-after-the-presidential-election.webp"/>
+        <dc:creator>YVES LAURENT GOMA and SAM MEDNICK, Associated Press, KGET 17, NBC</dc:creator>
+      </item>
       <item>
         <title>3 arrested in Dominican Republic as part of investigation into explosion that killed 34</title>
         <description><![CDATA[SANTO DOMINGO, Dominican Republic (AP) — Three people were arrested Wednesday in the Dominican Republic as part of an ongoing investigation into a powerful explosion at a plastics company that killed at least 34 people earlier this month.]]></description>
@@ -85,28 +96,6 @@
         <dc:creator>SUSIE BLANN and DASHA LITVINOVA, Associated Press, KGET 17, NBC</dc:creator>
       </item>
       <item>
-        <title>Bee alert: 5 million bees fall off truck near Toronto and drivers are asked to close windows</title>
-        <description><![CDATA[TORONTO (AP) — Police west of Toronto on Wednesday warned drivers to keep their car windows closed after a truck spilled crates carrying five million bees onto a road. Halton Regional Police said they received a call around 6:15 a.m.]]></description>
-        <guid>https://majordigest.com/world/2023/08/30/bee-alert-5-million-bees-fall-off-truck-near-toronto-and-drivers-are-asked-to-close-windows/</guid>
-        <link>https://majordigest.com/world/2023/08/30/bee-alert-5-million-bees-fall-off-truck-near-toronto-and-drivers-are-asked-to-close-windows/</link>
-        <pubDate>Wed, 30 Aug 2023 19:32:51 +0000</pubDate>
-        <category>world</category>
-        <media:content medium="image" url="https://majordigest.com/world/2023/08/30/bee-alert-5-million-bees-fall-off-truck-near-toronto-and-drivers-are-asked-to-close-windows/bee-alert-5-million-bees-fall-off-truck-near-toronto-and-drivers-are-asked-to-close-windows.webp"/>
-        <media:thumbnail url="https://majordigest.com/world/2023/08/30/bee-alert-5-million-bees-fall-off-truck-near-toronto-and-drivers-are-asked-to-close-windows/bee-alert-5-million-bees-fall-off-truck-near-toronto-and-drivers-are-asked-to-close-windows.webp"/>
-        <dc:creator>AP, KGET 17, NBC</dc:creator>
-      </item>
-      <item>
-        <title>England accelerates vaccine programs due to new COVID variant</title>
-        <description><![CDATA[England has decided to advance its autumn flu and COVID-19 vaccination campaigns as a precautionary measure following the detection of a highly mutated COVID variant.]]></description>
-        <guid>https://majordigest.com/world/2023/08/30/england-accelerates-vaccine-programs-due-to-new-covid-variant/</guid>
-        <link>https://majordigest.com/world/2023/08/30/england-accelerates-vaccine-programs-due-to-new-covid-variant/</link>
-        <pubDate>Wed, 30 Aug 2023 15:28:43 EDT</pubDate>
-        <category>world</category>
-        <media:content medium="image" url="https://majordigest.com/world/2023/08/30/england-accelerates-vaccine-programs-due-to-new-covid-variant/england-accelerates-vaccine-programs-due-to-new-covid-variant.webp"/>
-        <media:thumbnail url="https://majordigest.com/world/2023/08/30/england-accelerates-vaccine-programs-due-to-new-covid-variant/england-accelerates-vaccine-programs-due-to-new-covid-variant.webp"/>
-        <dc:creator>Fox News</dc:creator>
-      </item>
-      <item>
         <title>England accelerates vaccine programs due to new COVID variant</title>
         <description><![CDATA[England has decided to advance its autumn flu and COVID-19 vaccination campaigns as a precautionary measure following the detection of a highly mutated COVID variant.]]></description>
         <guid>https://majordigest.com/world/2023/08/30/england-accelerates-vaccine-programs-due-to-new-covid-variant/</guid>
@@ -119,7 +108,7 @@
       </item>
       <item>
         <title>First US military transfer to Taiwan approved under program for sovereign states</title>
-        <description><![CDATA[The Biden administration approved the first-ever U.S. military transfer to Taiwan under a program that is generally reserved for sovereign states.  The State Department notified Congress of the sale Wednesday, according to The Associated Press, which obtained a copy of the notification.]]></description>
+        <description><![CDATA[The Biden administration has approved the first-ever U.S. military transfer to Taiwan under a program that is generally reserved for sovereign states.  A spokesperson for the State Department confirmed to The Hill that it notified Congress of the sale on Tuesday.]]></description>
         <guid>https://majordigest.com/world/2023/08/30/first-us-military-transfer-to-taiwan-approved-under-program-for-sovereign-states/</guid>
         <link>https://majordigest.com/world/2023/08/30/first-us-military-transfer-to-taiwan-approved-under-program-for-sovereign-states/</link>
         <pubDate>Wed, 30 Aug 2023 19:22:17 +0000</pubDate>
@@ -239,8 +228,8 @@
         <dc:creator>Mari Yamaguchi, Associated Press, KPRC 2</dc:creator>
       </item>
       <item>
-        <title>Palestinians clash with their own security forces in a West Bank refugee camp, leaving 1 dead</title>
-        <description><![CDATA[Fighting has erupted in a refugee camp in the northern occupied West Bank between Palestinians and their own security forces.]]></description>
+        <title>Israeli police kill Palestinian teen assailant after stabbing. Israelis hurt in West Bank bombing</title>
+        <description><![CDATA[Israeli police say they have shot and killed a 14-year-old Palestinian boy who stabbed a man in a Jerusalem light-rail station.]]></description>
         <guid>https://majordigest.com/world/2023/08/30/palestinians-clash-with-own-security-forces-in-a-west-bank-refugee-camp-leaving-1-dead/</guid>
         <link>https://majordigest.com/world/2023/08/30/palestinians-clash-with-own-security-forces-in-a-west-bank-refugee-camp-leaving-1-dead/</link>
         <pubDate>Wed, 30 Aug 2023 12:24:14 +0000</pubDate>
@@ -248,6 +237,17 @@
         <media:content medium="image" url="https://majordigest.com/world/2023/08/30/palestinians-clash-with-own-security-forces-in-a-west-bank-refugee-camp-leaving-1-dead/palestinians-clash-with-own-security-forces-in-a-west-bank-refugee-camp-leaving-1-dead.webp"/>
         <media:thumbnail url="https://majordigest.com/world/2023/08/30/palestinians-clash-with-own-security-forces-in-a-west-bank-refugee-camp-leaving-1-dead/palestinians-clash-with-own-security-forces-in-a-west-bank-refugee-camp-leaving-1-dead.webp"/>
         <dc:creator>Isabel Debre, Associated Press, KPRC 2</dc:creator>
+      </item>
+      <item>
+        <title>US commerce secretary warns China will be 'uninvestable' without action on raids, fines</title>
+        <description><![CDATA[Commerce Secretary Gina Raimondo says she warned Chinese leaders that U.S. businesses might stop investing in their country without prompt action to address complaints about worsening conditions due to raids on firms, unexplained fines and unpredictable official behavior.]]></description>
+        <guid>https://majordigest.com/world/2023/08/30/us-commerce-secretary-warns-china-will-be-uninvestable-without-action-on-raids-fines/</guid>
+        <link>https://majordigest.com/world/2023/08/30/us-commerce-secretary-warns-china-will-be-uninvestable-without-action-on-raids-fines/</link>
+        <pubDate>Wed, 30 Aug 2023 11:59:42 +0000</pubDate>
+        <category>world</category>
+        <media:content medium="image" url="https://majordigest.com/world/2023/08/30/us-commerce-secretary-warns-china-will-be-uninvestable-without-action-on-raids-fines/us-commerce-secretary-warns-china-will-be-uninvestable-without-action-on-raids-fines.webp"/>
+        <media:thumbnail url="https://majordigest.com/world/2023/08/30/us-commerce-secretary-warns-china-will-be-uninvestable-without-action-on-raids-fines/us-commerce-secretary-warns-china-will-be-uninvestable-without-action-on-raids-fines.webp"/>
+        <dc:creator>Joe Mcdonald, Associated Press, KPRC 2</dc:creator>
       </item>
       <item>
         <title>Ukrainian drones strike deep in Russian territory, Moscow says, while a barrage in Kyiv kills 2</title>
@@ -258,7 +258,7 @@
         <category>world</category>
         <media:content medium="image" url="https://majordigest.com/world/2023/08/30/6-regions-targeted-in-biggest-drone-attack-on-russia-since-it-sent-troops-to-ukraine-officials-say/6-regions-targeted-in-biggest-drone-attack-on-russia-since-it-sent-troops-to-ukraine-officials-say.webp"/>
         <media:thumbnail url="https://majordigest.com/world/2023/08/30/6-regions-targeted-in-biggest-drone-attack-on-russia-since-it-sent-troops-to-ukraine-officials-say/6-regions-targeted-in-biggest-drone-attack-on-russia-since-it-sent-troops-to-ukraine-officials-say.webp"/>
-        <dc:creator>Associated Press, KPRC 2</dc:creator>
+        <dc:creator>Associated Press, Local 4</dc:creator>
       </item>
       <item>
         <title>Russian mercenary boss Yevgeny Prigozhin is buried in private, ending his tumultuous journey</title>
