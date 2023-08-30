@@ -3,17 +3,17 @@
               xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
               xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
       <url>
-        <loc>https://majordigest.com/politics/2023/08/30/donald-trump-georgia-polling-after-indictment/</loc>
+        <loc>https://majordigest.com/politics/2023/08/30/as-trump-and-republicans-target-georgias-fani-willis-for-retribution-the-states-governor-opts-out/</loc>
         <news:news>
           <news:publication>
             <news:name>Major Digest</news:name>
             <news:language>en</news:language>
           </news:publication>
-          <news:publication_date>2023-08-30T03:53:03.000Z</news:publication_date>
-          <news:title>Trump holds 42-point lead in Georgia after indictment</news:title>
+          <news:publication_date>2023-08-30T04:07:55.000Z</news:publication_date>
+          <news:title>As Trump and Republicans target Georgia's Fani Willis for retribution, the state's governor opts out</news:title>
         </news:news>
         <image:image>
-          <image:loc>https://majordigest.com/politics/2023/08/30/donald-trump-georgia-polling-after-indictment/donald-trump-georgia-polling-after-indictment.webp</image:loc>
+          <image:loc>https://majordigest.com/politics/2023/08/30/as-trump-and-republicans-target-georgias-fani-willis-for-retribution-the-states-governor-opts-out/as-trump-and-republicans-target-georgias-fani-willis-for-retribution-the-states-governor-opts-out.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -42,6 +42,20 @@
         </news:news>
         <image:image>
           <image:loc>https://majordigest.com/politics/2023/08/30/no-2-house-republican-steve-scalise-diagnosed-with-blood-cancer-undergoing-treatment/no-2-house-republican-steve-scalise-diagnosed-with-blood-cancer-undergoing-treatment.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/politics/2023/08/30/as-search-in-maui-nears-end-its-unclear-how-many-lost-their-lives/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-30T02:31:32.000Z</news:publication_date>
+          <news:title>As search in Maui nears end, it's unclear how many lost their lives</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/politics/2023/08/30/as-search-in-maui-nears-end-its-unclear-how-many-lost-their-lives/as-search-in-maui-nears-end-its-unclear-how-many-lost-their-lives.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -87,20 +101,6 @@
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/politics/2023/08/30/gold-star-dad-calls-biden-disgrace-nation-im-done-biting-my-tongue/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-30T00:21:42.000Z</news:publication_date>
-          <news:title>Gold Star dad calls out Biden as 'disgrace to this nation': &#8216;I'm done biting my tongue&#8217;</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/politics/2023/08/30/gold-star-dad-calls-biden-disgrace-nation-im-done-biting-my-tongue/gold-star-dad-calls-biden-disgrace-nation-im-done-biting-my-tongue.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
         <loc>https://majordigest.com/politics/2023/08/30/jim-jordan-seeks-records-on-special-counsel-attorney-meeting-with-white-house/</loc>
         <news:news>
           <news:publication>
@@ -112,20 +112,6 @@
         </news:news>
         <image:image>
           <image:loc>https://majordigest.com/politics/2023/08/30/jim-jordan-seeks-records-on-special-counsel-attorney-meeting-with-white-house/jim-jordan-seeks-records-on-special-counsel-attorney-meeting-with-white-house.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/politics/2023/08/29/anti-abortion-activists-including-one-who-kept-fetuses-convicted-of-blocking-dc-clinic/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-29T23:40:34.000Z</news:publication_date>
-          <news:title>Anti-abortion activists, including one who kept fetuses, convicted of illegally blocking DC clinic</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/politics/2023/08/29/anti-abortion-activists-including-one-who-kept-fetuses-convicted-of-blocking-dc-clinic/anti-abortion-activists-including-one-who-kept-fetuses-convicted-of-blocking-dc-clinic.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -157,20 +143,6 @@
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/politics/2023/08/29/biden-administration-to-target-drugs-for-price-negotiations-to-lower-medicare-costs/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-29T23:27:07.000Z</news:publication_date>
-          <news:title>10 drugs targeted for Medicare price negotiations as Biden pitches cost reductions</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/politics/2023/08/29/biden-administration-to-target-drugs-for-price-negotiations-to-lower-medicare-costs/biden-administration-to-target-drugs-for-price-negotiations-to-lower-medicare-costs.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
         <loc>https://majordigest.com/politics/2023/08/29/anti-abortion-activists-including-one-who-kept-fetuses-convicted-of-illegally-blocking-dc-clinic/</loc>
         <news:news>
           <news:publication>
@@ -199,6 +171,20 @@
         </image:image>
       </url>
       <url>
+        <loc>https://majordigest.com/politics/2023/08/29/democrats-walk-out-of-house-session-after-rep-jones-silenced-gallery-cleared/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-29T23:16:12.000Z</news:publication_date>
+          <news:title>Democrats walk out of House session after Rep. Jones silenced; Gallery cleared</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/politics/2023/08/29/democrats-walk-out-of-house-session-after-rep-jones-silenced-gallery-cleared/democrats-walk-out-of-house-session-after-rep-jones-silenced-gallery-cleared.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
         <loc>https://majordigest.com/politics/2023/08/29/the-us-government-hoped-companies-would-want-to-build-wind-farms-off-the-texas-coast-no-one-did/</loc>
         <news:news>
           <news:publication>
@@ -210,6 +196,20 @@
         </news:news>
         <image:image>
           <image:loc>https://majordigest.com/politics/2023/08/29/the-us-government-hoped-companies-would-want-to-build-wind-farms-off-the-texas-coast-no-one-did/the-us-government-hoped-companies-would-want-to-build-wind-farms-off-the-texas-coast-no-one-did.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/politics/2023/08/29/california-senate-elects-new-leader/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-29T22:44:23.000Z</news:publication_date>
+          <news:title>California Senate elects new leader</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/politics/2023/08/29/california-senate-elects-new-leader/california-senate-elects-new-leader.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -227,17 +227,31 @@
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/politics/2023/08/29/chaotic-tennessee-special-session-ends-with-pushing-and-shoving/</loc>
+        <loc>https://majordigest.com/politics/2023/08/29/katie-porter-partners-with-gop-rep-to-introduce-bill-to-prevent-infant-formula-crisis/</loc>
         <news:news>
           <news:publication>
             <news:name>Major Digest</news:name>
             <news:language>en</news:language>
           </news:publication>
-          <news:publication_date>2023-08-29T21:53:59.000Z</news:publication_date>
-          <news:title>Chaotic Tennessee special session ends with pushing and shoving</news:title>
+          <news:publication_date>2023-08-29T21:51:08.000Z</news:publication_date>
+          <news:title>Katie Porter partners with GOP rep to introduce bill to prevent infant formula crisis</news:title>
         </news:news>
         <image:image>
-          <image:loc>https://majordigest.com/politics/2023/08/29/chaotic-tennessee-special-session-ends-with-pushing-and-shoving/chaotic-tennessee-special-session-ends-with-pushing-and-shoving.webp</image:loc>
+          <image:loc>https://majordigest.com/politics/2023/08/29/katie-porter-partners-with-gop-rep-to-introduce-bill-to-prevent-infant-formula-crisis/katie-porter-partners-with-gop-rep-to-introduce-bill-to-prevent-infant-formula-crisis.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/politics/2023/08/29/texas-eighth-graders-will-soon-be-required-to-learn-about-climate-change-but-not-without-a-showdown-over-textbooks/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-29T21:43:43.000Z</news:publication_date>
+          <news:title>Texas eighth graders will soon be required to learn about climate change. But not without a showdown over textbooks.</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/politics/2023/08/29/texas-eighth-graders-will-soon-be-required-to-learn-about-climate-change-but-not-without-a-showdown-over-textbooks/texas-eighth-graders-will-soon-be-required-to-learn-about-climate-change-but-not-without-a-showdown-over-textbooks.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -297,20 +311,6 @@
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/politics/2023/08/29/lawyers-indicted-with-trump-say-they-were-doing-their-jobs-but-that-may-be-a-tough-argument-to-make/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-29T17:52:15.000Z</news:publication_date>
-          <news:title>Lawyers indicted with Trump say they were doing their jobs. But that may be a tough argument to make</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/politics/2023/08/29/lawyers-indicted-with-trump-say-they-were-doing-their-jobs-but-that-may-be-a-tough-argument-to-make/lawyers-indicted-with-trump-say-they-were-doing-their-jobs-but-that-may-be-a-tough-argument-to-make.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
         <loc>https://majordigest.com/politics/2023/08/29/here-are-the-first-10-drugs-that-medicare-will-target-for-price-cuts/</loc>
         <news:news>
           <news:publication>
@@ -322,6 +322,20 @@
         </news:news>
         <image:image>
           <image:loc>https://majordigest.com/politics/2023/08/29/here-are-the-first-10-drugs-that-medicare-will-target-for-price-cuts/here-are-the-first-10-drugs-that-medicare-will-target-for-price-cuts.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/politics/2023/08/29/biden-targets-diabetes-drug-blood-thinner-and-8-others-for-medicare-price-talks/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-29T12:07:36.000Z</news:publication_date>
+          <news:title>Biden targets diabetes drug Jardiance, blood thinner Eliquis and 8 others for Medicare price talks</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/politics/2023/08/29/biden-targets-diabetes-drug-blood-thinner-and-8-others-for-medicare-price-talks/biden-targets-diabetes-drug-blood-thinner-and-8-others-for-medicare-price-talks.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -353,6 +367,20 @@
         </image:image>
       </url>
       <url>
+        <loc>https://majordigest.com/politics/2023/08/29/recruiting-is-underway-for-trump-like-wrecking-ball-to-shrink-government-and-fire-federal-workers/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-29T04:03:01.000Z</news:publication_date>
+          <news:title>Conservative groups draw up plan to dismantle the US government and replace it with Trump&#8217;s vision</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/politics/2023/08/29/recruiting-is-underway-for-trump-like-wrecking-ball-to-shrink-government-and-fire-federal-workers/recruiting-is-underway-for-trump-like-wrecking-ball-to-shrink-government-and-fire-federal-workers.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
         <loc>https://majordigest.com/politics/2023/08/28/npr-tuberville-pentagon-senate-hold-abortion/</loc>
         <news:news>
           <news:publication>
@@ -367,17 +395,17 @@
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/politics/2023/08/28/senate-candidates-visit-stockton-to-support-rep-josh-harder-reelection-campaign/</loc>
+        <loc>https://majordigest.com/politics/2023/08/28/porter-warren-accuse-tax-prep-firms-of-undermining-new-irs-effort-on-electronic-free-file-tax-returns/</loc>
         <news:news>
           <news:publication>
             <news:name>Major Digest</news:name>
             <news:language>en</news:language>
           </news:publication>
-          <news:publication_date>2023-08-28T20:42:58.000Z</news:publication_date>
-          <news:title>Senate candidates visit Stockton to support Rep. Josh Harder reelection campaign</news:title>
+          <news:publication_date>2023-08-28T20:30:47.000Z</news:publication_date>
+          <news:title>Porter, Warren accuse tax prep firms of undermining new IRS effort on electronic free file tax returns</news:title>
         </news:news>
         <image:image>
-          <image:loc>https://majordigest.com/politics/2023/08/28/senate-candidates-visit-stockton-to-support-rep-josh-harder-reelection-campaign/senate-candidates-visit-stockton-to-support-rep-josh-harder-reelection-campaign.webp</image:loc>
+          <image:loc>https://majordigest.com/politics/2023/08/28/porter-warren-accuse-tax-prep-firms-of-undermining-new-irs-effort-on-electronic-free-file-tax-returns/porter-warren-accuse-tax-prep-firms-of-undermining-new-irs-effort-on-electronic-free-file-tax-returns.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -437,20 +465,6 @@
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/politics/2023/08/25/trump-recounts-terrible-experience-of-being-booked-in-georgia/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-25T12:58:40.000Z</news:publication_date>
-          <news:title>Trump recounts 'terrible experience' of being booked in Georgia</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/politics/2023/08/25/trump-recounts-terrible-experience-of-being-booked-in-georgia/trump-recounts-terrible-experience-of-being-booked-in-georgia.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
         <loc>https://majordigest.com/politics/2023/08/24/does-the-georgia-case-pose-greatest-threat-to-former-president-trump/</loc>
         <news:news>
           <news:publication>
@@ -462,20 +476,6 @@
         </news:news>
         <image:image>
           <image:loc>https://majordigest.com/politics/2023/08/24/does-the-georgia-case-pose-greatest-threat-to-former-president-trump/does-the-georgia-case-pose-greatest-threat-to-former-president-trump.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/politics/2023/08/24/covid-19-cases-rise-cdc-recommends-updated-vaccine/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-24T20:37:19.000Z</news:publication_date>
-          <news:title>COVID-19 cases rise, CDC recommends updated vaccine</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/politics/2023/08/24/covid-19-cases-rise-cdc-recommends-updated-vaccine/covid-19-cases-rise-cdc-recommends-updated-vaccine.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -493,20 +493,6 @@
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/politics/2023/08/23/kelly-blue-book-survey-shows-consumer-hesitation-towards-electric-vehicles/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-23T23:01:08.000Z</news:publication_date>
-          <news:title>Kelly Blue Book survey shows consumer hesitation towards electric vehicles</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/politics/2023/08/23/kelly-blue-book-survey-shows-consumer-hesitation-towards-electric-vehicles/kelly-blue-book-survey-shows-consumer-hesitation-towards-electric-vehicles.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
         <loc>https://majordigest.com/politics/2023/08/23/who-takes-advantage-of-donald-trumps-absence-and-other-things-to-watch-in-the-republican-debate/</loc>
         <news:news>
           <news:publication>
@@ -518,5 +504,19 @@
         </news:news>
         <image:image>
           <image:loc>https://majordigest.com/politics/2023/08/23/who-takes-advantage-of-donald-trumps-absence-and-other-things-to-watch-in-the-republican-debate/who-takes-advantage-of-donald-trumps-absence-and-other-things-to-watch-in-the-republican-debate.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/politics/2023/08/23/rudy-giuliani-surrenders-on-georgia-charges-alleging-an-illegal-plot-to-subvert-2020-election-jail-records-show/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-23T19:26:31.000Z</news:publication_date>
+          <news:title>Rudy Giuliani surrenders on Georgia charges alleging an illegal plot to subvert 2020 election, jail records show</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/politics/2023/08/23/rudy-giuliani-surrenders-on-georgia-charges-alleging-an-illegal-plot-to-subvert-2020-election-jail-records-show/rudy-giuliani-surrenders-on-georgia-charges-alleging-an-illegal-plot-to-subvert-2020-election-jail-records-show.webp</image:loc>
         </image:image>
       </url></urlset>
