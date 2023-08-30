@@ -3,6 +3,20 @@
               xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
               xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
       <url>
+        <loc>https://majordigest.com/tech/2023/08/30/ocasio-cortez-ponders-leaving-x-platform/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-30T15:21:28.000Z</news:publication_date>
+          <news:title>Ocasio-Cortez ponders leaving X: 'A formal break is something that we actively discuss'</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/tech/2023/08/30/ocasio-cortez-ponders-leaving-x-platform/ocasio-cortez-ponders-leaving-x-platform.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
         <loc>https://majordigest.com/tech/2023/08/30/saudi-man-receives-death-penalty-for-posts-online-latest-case-in-wide-ranging-crackdown-on-dissent/</loc>
         <news:news>
           <news:publication>
@@ -98,6 +112,20 @@
         </news:news>
         <image:image>
           <image:loc>https://majordigest.com/tech/2023/08/30/amazon-ceo-says-its-probably-not-going-work-out-for-employees-who-defy-return-to-office-policy/amazon-ceo-says-its-probably-not-going-work-out-for-employees-who-defy-return-to-office-policy.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/tech/2023/08/30/2023-nissan-ariya-electric-crossover-review/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-30T08:00:00.000Z</news:publication_date>
+          <news:title>Nissan's all-electric SUV is stylish and practical</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/tech/2023/08/30/2023-nissan-ariya-electric-crossover-review/2023-nissan-ariya-electric-crossover-review.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -213,20 +241,6 @@
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/tech/2023/08/29/apple-expected-to-unveil-new-iphone-at-wonderlust-special-event-at-cupertino-headquarters/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-29T17:50:52.000Z</news:publication_date>
-          <news:title>Apple expected to unveil new iPhone at &#8216;Wonderlust.&#8217; special event at Cupertino headquarters</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/tech/2023/08/29/apple-expected-to-unveil-new-iphone-at-wonderlust-special-event-at-cupertino-headquarters/apple-expected-to-unveil-new-iphone-at-wonderlust-special-event-at-cupertino-headquarters.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
         <loc>https://majordigest.com/tech/2023/08/29/digitally-sign-document-device/</loc>
         <news:news>
           <news:publication>
@@ -269,17 +283,17 @@
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/tech/2023/08/29/computer-problem-halts-toyota-production-at-japan-plants/</loc>
+        <loc>https://majordigest.com/tech/2023/08/29/meta-rejects-recommendation-to-suspend-former-cambodian-prime-minister/</loc>
         <news:news>
           <news:publication>
             <news:name>Major Digest</news:name>
             <news:language>en</news:language>
           </news:publication>
-          <news:publication_date>2023-08-29T15:34:48.000Z</news:publication_date>
-          <news:title>Computer problem halts Toyota production at Japan plants</news:title>
+          <news:publication_date>2023-08-29T16:52:49.000Z</news:publication_date>
+          <news:title>Meta rejects recommendation to suspend former Cambodian prime minister</news:title>
         </news:news>
         <image:image>
-          <image:loc>https://majordigest.com/tech/2023/08/29/computer-problem-halts-toyota-production-at-japan-plants/computer-problem-halts-toyota-production-at-japan-plants.webp</image:loc>
+          <image:loc>https://majordigest.com/tech/2023/08/29/meta-rejects-recommendation-to-suspend-former-cambodian-prime-minister/meta-rejects-recommendation-to-suspend-former-cambodian-prime-minister.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -294,20 +308,6 @@
         </news:news>
         <image:image>
           <image:loc>https://majordigest.com/tech/2023/08/29/amazon-ceo-tells-remote-workers-its-not-going-to-work-out/amazon-ceo-tells-remote-workers-its-not-going-to-work-out.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/tech/2023/08/29/tech-expert-existential-fears-ai-are-overblown-sees-very-disturbing-workplace-threats/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-29T14:51:23.000Z</news:publication_date>
-          <news:title>Tech expert says 'existential' fears from AI are overblown, but sees 'very disturbing' workplace threats</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/tech/2023/08/29/tech-expert-existential-fears-ai-are-overblown-sees-very-disturbing-workplace-threats/tech-expert-existential-fears-ai-are-overblown-sees-very-disturbing-workplace-threats.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -364,6 +364,20 @@
         </news:news>
         <image:image>
           <image:loc>https://majordigest.com/tech/2023/08/29/amazon-is-raising-free-shipping-minimums-for-some-customers-who-dont-have-prime-memberships/amazon-is-raising-free-shipping-minimums-for-some-customers-who-dont-have-prime-memberships.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/tech/2023/08/28/car-cheaper-electric-gas/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-28T22:24:36.000Z</news:publication_date>
+          <news:title>Which car is cheaper, electric or gas? It depends where you live</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/tech/2023/08/28/car-cheaper-electric-gas/car-cheaper-electric-gas.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -504,19 +518,5 @@
         </news:news>
         <image:image>
           <image:loc>https://majordigest.com/tech/2023/08/23/john-warnock-who-invented-the-pdf-and-co-founded-adobe-systems-dies-at-age-82/john-warnock-who-invented-the-pdf-and-co-founded-adobe-systems-dies-at-age-82.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/tech/2023/08/23/childrens-advocates-ask-ftc-to-investigate-google-for-targeting-ads-to-kids/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-23T16:00:09.000Z</news:publication_date>
-          <news:title>Children's advocates ask FTC to investigate Google for targeting ads to kids</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/tech/2023/08/23/childrens-advocates-ask-ftc-to-investigate-google-for-targeting-ads-to-kids/childrens-advocates-ask-ftc-to-investigate-google-for-targeting-ads-to-kids.webp</image:loc>
         </image:image>
       </url></urlset>
