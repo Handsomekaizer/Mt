@@ -3,17 +3,31 @@
               xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
               xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
       <url>
-        <loc>https://majordigest.com/world/2023/08/30/thai-man-kills-wife-2-young-sons-online-scam-leaves-family-massive-debt-police-say/</loc>
+        <loc>https://majordigest.com/world/2023/08/30/vatican-clarifies-pope-francis-remarks-ukraine-blasts-spread-russian-imperialist-propaganda/</loc>
         <news:news>
           <news:publication>
             <news:name>Major Digest</news:name>
             <news:language>en</news:language>
           </news:publication>
-          <news:publication_date>2023-08-30T13:12:35.000Z</news:publication_date>
-          <news:title>Thai man kills wife, 2 young sons after online scam leaves family in massive debt, police say</news:title>
+          <news:publication_date>2023-08-30T13:34:47.000Z</news:publication_date>
+          <news:title>Vatican clarifies Pope Francis' remarks after Ukraine blasts spread of Russian 'imperialist propaganda'</news:title>
         </news:news>
         <image:image>
-          <image:loc>https://majordigest.com/world/2023/08/30/thai-man-kills-wife-2-young-sons-online-scam-leaves-family-massive-debt-police-say/thai-man-kills-wife-2-young-sons-online-scam-leaves-family-massive-debt-police-say.webp</image:loc>
+          <image:loc>https://majordigest.com/world/2023/08/30/vatican-clarifies-pope-francis-remarks-ukraine-blasts-spread-russian-imperialist-propaganda/vatican-clarifies-pope-francis-remarks-ukraine-blasts-spread-russian-imperialist-propaganda.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/world/2023/08/30/japanese-ministers-eat-fukushima-fish-to-show-its-safe-after-nuclear-plant-wastewater-is-discharged/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-30T13:31:39.000Z</news:publication_date>
+          <news:title>Japanese ministers eat Fukushima fish to show it's safe after nuclear plant wastewater is discharged</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/world/2023/08/30/japanese-ministers-eat-fukushima-fish-to-show-its-safe-after-nuclear-plant-wastewater-is-discharged/japanese-ministers-eat-fukushima-fish-to-show-its-safe-after-nuclear-plant-wastewater-is-discharged.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -28,6 +42,34 @@
         </news:news>
         <image:image>
           <image:loc>https://majordigest.com/world/2023/08/30/thai-man-kills-wife-2-young-sons-online-scam-leaves-family-massive-debt-police-say/thai-man-kills-wife-2-young-sons-online-scam-leaves-family-massive-debt-police-say.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/world/2023/08/30/palestinians-clash-with-own-security-forces-in-a-west-bank-refugee-camp-leaving-1-dead/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-30T12:50:41.000Z</news:publication_date>
+          <news:title>Palestinians clash with own security forces in a West Bank refugee camp, leaving 1 dead</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/world/2023/08/30/palestinians-clash-with-own-security-forces-in-a-west-bank-refugee-camp-leaving-1-dead/palestinians-clash-with-own-security-forces-in-a-west-bank-refugee-camp-leaving-1-dead.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/world/2023/08/30/britains-top-diplomat-visits-china-for-the-first-time-in-5-years-hoping-to-stabilize-ties/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-30T12:31:02.000Z</news:publication_date>
+          <news:title>Britain's top diplomat raises human rights concerns with China, explores ways to boost communication</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/world/2023/08/30/britains-top-diplomat-visits-china-for-the-first-time-in-5-years-hoping-to-stabilize-ties/britains-top-diplomat-visits-china-for-the-first-time-in-5-years-hoping-to-stabilize-ties.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -115,20 +157,6 @@
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/world/2023/08/30/2-killed-germany-multi-truck-highway-crash-releases-hazardous-materials/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-30T11:37:47.000Z</news:publication_date>
-          <news:title>2 killed in Germany after multi-truck highway crash releases hazardous materials</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/world/2023/08/30/2-killed-germany-multi-truck-highway-crash-releases-hazardous-materials/2-killed-germany-multi-truck-highway-crash-releases-hazardous-materials.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
         <loc>https://majordigest.com/world/2023/08/30/pakistans-imran-khan-will-be-imprisoned-for-2-more-weeks-despite-getting-bail/</loc>
         <news:news>
           <news:publication>
@@ -157,31 +185,17 @@
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/world/2023/08/30/logging-is-growing-in-a-nigerian-forest-home-to-endangered-elephants-rangers-blame-lax-enforcement/</loc>
+        <loc>https://majordigest.com/world/2023/08/30/russia-earns-less-from-oil-and-spends-more-on-war-so-far-sanctions-are-working-like-a-slow-poison/</loc>
         <news:news>
           <news:publication>
             <news:name>Major Digest</news:name>
             <news:language>en</news:language>
           </news:publication>
-          <news:publication_date>2023-08-30T10:57:29.000Z</news:publication_date>
-          <news:title>Logging is growing in a Nigerian forest home to endangered elephants. Rangers blame lax enforcement</news:title>
+          <news:publication_date>2023-08-30T06:57:49.000Z</news:publication_date>
+          <news:title>Russia earns less from oil and spends more on war. So far, sanctions are working like a slow poison</news:title>
         </news:news>
         <image:image>
-          <image:loc>https://majordigest.com/world/2023/08/30/logging-is-growing-in-a-nigerian-forest-home-to-endangered-elephants-rangers-blame-lax-enforcement/logging-is-growing-in-a-nigerian-forest-home-to-endangered-elephants-rangers-blame-lax-enforcement.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/world/2023/08/30/176-global-leaders-and-nobel-laureates-urge-bangladesh-to-halt-cases-against-peace-prize-winner/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-30T10:43:34.000Z</news:publication_date>
-          <news:title>176 global leaders and Nobel laureates urge Bangladesh to halt cases against Peace Prize winner</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/world/2023/08/30/176-global-leaders-and-nobel-laureates-urge-bangladesh-to-halt-cases-against-peace-prize-winner/176-global-leaders-and-nobel-laureates-urge-bangladesh-to-halt-cases-against-peace-prize-winner.webp</image:loc>
+          <image:loc>https://majordigest.com/world/2023/08/30/russia-earns-less-from-oil-and-spends-more-on-war-so-far-sanctions-are-working-like-a-slow-poison/russia-earns-less-from-oil-and-spends-more-on-war-so-far-sanctions-are-working-like-a-slow-poison.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -224,20 +238,6 @@
         </news:news>
         <image:image>
           <image:loc>https://majordigest.com/world/2023/08/29/canada-warns-travelers-to-us-about-anti-lgbtq-laws/canada-warns-travelers-to-us-about-anti-lgbtq-laws.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/world/2023/08/29/paul-whelan-american-detained-in-russia-seen-in-new-video-released-by-state-media/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-29T23:18:05.000Z</news:publication_date>
-          <news:title>Paul Whelan, American detained in Russia, seen in new video released by state media</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/world/2023/08/29/paul-whelan-american-detained-in-russia-seen-in-new-video-released-by-state-media/paul-whelan-american-detained-in-russia-seen-in-new-video-released-by-state-media.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -311,17 +311,17 @@
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/world/2023/08/29/neurosurgeon-investigating-patients-mystery-symptoms-plucks-worm-from-womans-brain/</loc>
+        <loc>https://majordigest.com/world/2023/08/29/us-marines-killed-in-australian-aircraft-crash-were-from-illinois-virginia-and-colorado/</loc>
         <news:news>
           <news:publication>
             <news:name>Major Digest</news:name>
             <news:language>en</news:language>
           </news:publication>
-          <news:publication_date>2023-08-29T10:07:27.000Z</news:publication_date>
-          <news:title>Neurosurgeon investigating patient's mystery symptoms plucks worm from woman's brain</news:title>
+          <news:publication_date>2023-08-29T01:55:12.000Z</news:publication_date>
+          <news:title>US Marines killed in Australian aircraft crash were from Illinois, Virginia and Colorado</news:title>
         </news:news>
         <image:image>
-          <image:loc>https://majordigest.com/world/2023/08/29/neurosurgeon-investigating-patients-mystery-symptoms-plucks-worm-from-womans-brain/neurosurgeon-investigating-patients-mystery-symptoms-plucks-worm-from-womans-brain.webp</image:loc>
+          <image:loc>https://majordigest.com/world/2023/08/29/us-marines-killed-in-australian-aircraft-crash-were-from-illinois-virginia-and-colorado/us-marines-killed-in-australian-aircraft-crash-were-from-illinois-virginia-and-colorado.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -350,6 +350,20 @@
         </news:news>
         <image:image>
           <image:loc>https://majordigest.com/world/2023/08/28/us-chinese-commerce-leaders-meet-huge-progress/us-chinese-commerce-leaders-meet-huge-progress.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/world/2023/08/28/british-bog-snorkeling-championships-contenders-race-through-slime/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-28T20:36:33.000Z</news:publication_date>
+          <news:title>British bog snorkeling championship contenders&#160;race through slime</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/world/2023/08/28/british-bog-snorkeling-championships-contenders-race-through-slime/british-bog-snorkeling-championships-contenders-race-through-slime.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -490,20 +504,6 @@
         </news:news>
         <image:image>
           <image:loc>https://majordigest.com/world/2023/08/24/fifa-opens-case-against-spanish-soccer-official-who-kissed-player-on-lips-at-womens-world-cup/fifa-opens-case-against-spanish-soccer-official-who-kissed-player-on-lips-at-womens-world-cup.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/world/2023/08/24/putin-breaks-silence-on-plane-crash-that-presumably-killed-wagner-leaders/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-24T16:33:08.000Z</news:publication_date>
-          <news:title>Putin breaks silence on plane crash that presumably killed Wagner leaders</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/world/2023/08/24/putin-breaks-silence-on-plane-crash-that-presumably-killed-wagner-leaders/putin-breaks-silence-on-plane-crash-that-presumably-killed-wagner-leaders.webp</image:loc>
         </image:image>
       </url>
       <url>
