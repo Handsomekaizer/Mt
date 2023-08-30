@@ -3,6 +3,20 @@
               xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
               xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
       <url>
+        <loc>https://majordigest.com/tech/2023/08/30/job-growth-dips-sharply-as-labor-market-cools/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-30T16:43:54.000Z</news:publication_date>
+          <news:title>Job growth dips sharply as labor market cools</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/tech/2023/08/30/job-growth-dips-sharply-as-labor-market-cools/job-growth-dips-sharply-as-labor-market-cools.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
         <loc>https://majordigest.com/tech/2023/08/30/ocasio-cortez-ponders-leaving-x-platform/</loc>
         <news:news>
           <news:publication>
@@ -227,6 +241,20 @@
         </image:image>
       </url>
       <url>
+        <loc>https://majordigest.com/tech/2023/08/29/x-to-allow-political-ads-for-the-first-time-since-2019/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-29T17:57:46.000Z</news:publication_date>
+          <news:title>X to allow political ads for the first time since 2019</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/tech/2023/08/29/x-to-allow-political-ads-for-the-first-time-since-2019/x-to-allow-political-ads-for-the-first-time-since-2019.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
         <loc>https://majordigest.com/tech/2023/08/29/apple-expected-to-unveil-new-iphone-at-wonderlust-special-event-at-cupertino-headquarters/</loc>
         <news:news>
           <news:publication>
@@ -266,34 +294,6 @@
         </news:news>
         <image:image>
           <image:loc>https://majordigest.com/tech/2023/08/29/meta-disrupts-covert-influence-operations-facebook-instagram/meta-disrupts-covert-influence-operations-facebook-instagram.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/tech/2023/08/29/meta-rejects-recommendation-to-suspend-former-cambodian-prime-minister/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-29T16:52:49.000Z</news:publication_date>
-          <news:title>Meta rejects recommendation to suspend former Cambodian prime minister</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/tech/2023/08/29/meta-rejects-recommendation-to-suspend-former-cambodian-prime-minister/meta-rejects-recommendation-to-suspend-former-cambodian-prime-minister.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/tech/2023/08/29/meta-rejects-recommendation-to-suspend-former-cambodian-prime-minister/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-29T16:52:49.000Z</news:publication_date>
-          <news:title>Meta rejects recommendation to suspend former Cambodian prime minister</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/tech/2023/08/29/meta-rejects-recommendation-to-suspend-former-cambodian-prime-minister/meta-rejects-recommendation-to-suspend-former-cambodian-prime-minister.webp</image:loc>
         </image:image>
       </url>
       <url>

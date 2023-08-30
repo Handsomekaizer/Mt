@@ -3,6 +3,90 @@
               xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
               xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
       <url>
+        <loc>https://majordigest.com/world/2023/08/30/hawaii-crews-near-end-search-victims-lahaina-wildfire/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-30T16:51:02.000Z</news:publication_date>
+          <news:title>Hawaii crews near end of search for victims of the Lahaina wildfire</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/world/2023/08/30/hawaii-crews-near-end-search-victims-lahaina-wildfire/hawaii-crews-near-end-search-victims-lahaina-wildfire.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/world/2023/08/30/ukraine-launches-strikes-russian-territory-clever-move-putin-forces-expert/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-30T16:36:45.000Z</news:publication_date>
+          <news:title>Ukraine launches strikes on Russian territory in 'clever' move against Putin forces: expert</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/world/2023/08/30/ukraine-launches-strikes-russian-territory-clever-move-putin-forces-expert/ukraine-launches-strikes-russian-territory-clever-move-putin-forces-expert.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/world/2023/08/30/white-house-warns-russia-north-korea-weapons-negotiations-are-actively-advancing/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-30T16:34:07.000Z</news:publication_date>
+          <news:title>White House warns Russia, North Korea weapons negotiations are &#8216;actively advancing&#8217;</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/world/2023/08/30/white-house-warns-russia-north-korea-weapons-negotiations-are-actively-advancing/white-house-warns-russia-north-korea-weapons-negotiations-are-actively-advancing.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/world/2023/08/30/white-house-warns-russia-north-korea-weapons-negotiations-are-actively-advancing/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-30T16:34:07.000Z</news:publication_date>
+          <news:title>White House warns Russia, North Korea weapons negotiations are &#8216;actively advancing&#8217;</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/world/2023/08/30/white-house-warns-russia-north-korea-weapons-negotiations-are-actively-advancing/white-house-warns-russia-north-korea-weapons-negotiations-are-actively-advancing.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/world/2023/08/30/north-korea-launches-a-missile-toward-the-sea-after-us-flies-bombers-during-drills-with-south-korea/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-30T16:05:31.000Z</news:publication_date>
+          <news:title>North Korea launches ballistic missiles toward the sea after US flies bomber during drills</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/world/2023/08/30/north-korea-launches-a-missile-toward-the-sea-after-us-flies-bombers-during-drills-with-south-korea/north-korea-launches-a-missile-toward-the-sea-after-us-flies-bombers-during-drills-with-south-korea.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/world/2023/08/30/drones-targeted-5-regions-in-biggest-attack-on-russian-soil-in-18-months-defense-ministry-says/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-30T16:04:05.000Z</news:publication_date>
+          <news:title>Ukrainian drones strike deep in Russian territory, Moscow says, while a barrage in Kyiv kills 2</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/world/2023/08/30/drones-targeted-5-regions-in-biggest-attack-on-russian-soil-in-18-months-defense-ministry-says/drones-targeted-5-regions-in-biggest-attack-on-russian-soil-in-18-months-defense-ministry-says.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
         <loc>https://majordigest.com/world/2023/08/30/spain-has-condemned-inappropriate-world-cup-kiss-can-it-now-reckon-with-sexism-in-soccer/</loc>
         <news:news>
           <news:publication>
@@ -14,6 +98,20 @@
         </news:news>
         <image:image>
           <image:loc>https://majordigest.com/world/2023/08/30/spain-has-condemned-inappropriate-world-cup-kiss-can-it-now-reckon-with-sexism-in-soccer/spain-has-condemned-inappropriate-world-cup-kiss-can-it-now-reckon-with-sexism-in-soccer.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/world/2023/08/30/kremlin-says-prigozhin-crash-may-have-been-deliberate/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-30T15:56:32.000Z</news:publication_date>
+          <news:title>Kremlin says Prigozhin crash may have been 'deliberate'</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/world/2023/08/30/kremlin-says-prigozhin-crash-may-have-been-deliberate/kremlin-says-prigozhin-crash-may-have-been-deliberate.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -45,34 +143,6 @@
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/world/2023/08/30/gabon-military-officers-say-theyre-seizing-power-just-days-after-the-presidential-election/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-30T15:30:08.000Z</news:publication_date>
-          <news:title>Soldiers in Gabon say they've seized power and detained a president whose family ruled for 55 years</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/world/2023/08/30/gabon-military-officers-say-theyre-seizing-power-just-days-after-the-presidential-election/gabon-military-officers-say-theyre-seizing-power-just-days-after-the-presidential-election.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/world/2023/08/30/kremlin-says-deliberate-wrongdoing-among-possible-causes-of-plane-crash-that-killed-prigozhin/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-30T15:14:14.000Z</news:publication_date>
-          <news:title>Kremlin says 'deliberate wrongdoing' is a possible cause of the plane crash that killed Wagner chief</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/world/2023/08/30/kremlin-says-deliberate-wrongdoing-among-possible-causes-of-plane-crash-that-killed-prigozhin/kremlin-says-deliberate-wrongdoing-among-possible-causes-of-plane-crash-that-killed-prigozhin.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
         <loc>https://majordigest.com/world/2023/08/30/kremlin-says-deliberate-wrongdoing-among-possible-causes-of-plane-crash-that-killed-prigozhin/</loc>
         <news:news>
           <news:publication>
@@ -98,20 +168,6 @@
         </news:news>
         <image:image>
           <image:loc>https://majordigest.com/world/2023/08/30/court-says-netanyahus-son-must-pay-damages-to-woman-he-implied-had-affair-with-his-fathers-rival/court-says-netanyahus-son-must-pay-damages-to-woman-he-implied-had-affair-with-his-fathers-rival.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/world/2023/08/30/gabons-wealthy-dynastic-leader-thought-he-could-resist-africas-trend-of-coups-he-might-be-wrong/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-30T14:54:43.000Z</news:publication_date>
-          <news:title>Gabon's wealthy, dynastic leader thought he could resist Africa's trend of coups. He might be wrong</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/world/2023/08/30/gabons-wealthy-dynastic-leader-thought-he-could-resist-africas-trend-of-coups-he-might-be-wrong/gabons-wealthy-dynastic-leader-thought-he-could-resist-africas-trend-of-coups-he-might-be-wrong.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -213,59 +269,17 @@
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/world/2023/08/30/palestinians-clash-with-own-security-forces-in-a-west-bank-refugee-camp-leaving-1-dead/</loc>
+        <loc>https://majordigest.com/world/2023/08/30/former-official-under-belarus-president-lukashenko-to-face-swiss-trial-over-enforced-disappearances/</loc>
         <news:news>
           <news:publication>
             <news:name>Major Digest</news:name>
             <news:language>en</news:language>
           </news:publication>
-          <news:publication_date>2023-08-30T12:50:41.000Z</news:publication_date>
-          <news:title>Palestinians clash with own security forces in a West Bank refugee camp, leaving 1 dead</news:title>
+          <news:publication_date>2023-08-30T10:27:17.000Z</news:publication_date>
+          <news:title>Former official under Belarus President Lukashenko to face Swiss trial over enforced disappearances</news:title>
         </news:news>
         <image:image>
-          <image:loc>https://majordigest.com/world/2023/08/30/palestinians-clash-with-own-security-forces-in-a-west-bank-refugee-camp-leaving-1-dead/palestinians-clash-with-own-security-forces-in-a-west-bank-refugee-camp-leaving-1-dead.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/world/2023/08/30/ousted-pakistani-pm-imran-khan-remain-prison-2-more-weeks-despite-getting-bail/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-30T12:14:21.000Z</news:publication_date>
-          <news:title>Ousted Pakistani PM Imran Khan to remain in prison for 2 more weeks despite getting bail</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/world/2023/08/30/ousted-pakistani-pm-imran-khan-remain-prison-2-more-weeks-despite-getting-bail/ousted-pakistani-pm-imran-khan-remain-prison-2-more-weeks-despite-getting-bail.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/world/2023/08/30/russia-forgoes-investigation-prigozhin-crash-international-rules-report/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-30T11:40:14.000Z</news:publication_date>
-          <news:title>Russia forgoes investigation into Prigozhin crash under international rules: report</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/world/2023/08/30/russia-forgoes-investigation-prigozhin-crash-international-rules-report/russia-forgoes-investigation-prigozhin-crash-international-rules-report.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/world/2023/08/30/russia-earns-less-from-oil-and-spends-more-on-war-so-far-sanctions-are-working-like-a-slow-poison/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-30T06:57:49.000Z</news:publication_date>
-          <news:title>Russia earns less from oil and spends more on war. So far, sanctions are working like a slow poison</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/world/2023/08/30/russia-earns-less-from-oil-and-spends-more-on-war-so-far-sanctions-are-working-like-a-slow-poison/russia-earns-less-from-oil-and-spends-more-on-war-so-far-sanctions-are-working-like-a-slow-poison.webp</image:loc>
+          <image:loc>https://majordigest.com/world/2023/08/30/former-official-under-belarus-president-lukashenko-to-face-swiss-trial-over-enforced-disappearances/former-official-under-belarus-president-lukashenko-to-face-swiss-trial-over-enforced-disappearances.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -280,20 +294,6 @@
         </news:news>
         <image:image>
           <image:loc>https://majordigest.com/world/2023/08/30/britains-top-diplomat-visits-china-for-the-first-time-in-5-years-hoping-to-stabilize-ties/britains-top-diplomat-visits-china-for-the-first-time-in-5-years-hoping-to-stabilize-ties.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/world/2023/08/30/ukraine-launches-biggest-drone-attack-on-russian-soil-in-18-months-state-media/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-30T02:24:12.000Z</news:publication_date>
-          <news:title>Ukraine launches biggest drone attack on Russian soil in 18 months: state media</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/world/2023/08/30/ukraine-launches-biggest-drone-attack-on-russian-soil-in-18-months-state-media/ukraine-launches-biggest-drone-attack-on-russian-soil-in-18-months-state-media.webp</image:loc>
         </image:image>
       </url>
       <url>
