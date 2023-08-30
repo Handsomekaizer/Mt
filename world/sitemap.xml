@@ -3,6 +3,76 @@
               xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
               xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
       <url>
+        <loc>https://majordigest.com/world/2023/08/30/uks-national-health-service-introduces-groundbreaking-skin-cancer-treatment-injection/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-30T20:35:09.000Z</news:publication_date>
+          <news:title>UK's National Health Service introduces groundbreaking 'under the skin' cancer treatment injection</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/world/2023/08/30/uks-national-health-service-introduces-groundbreaking-skin-cancer-treatment-injection/uks-national-health-service-introduces-groundbreaking-skin-cancer-treatment-injection.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/world/2023/08/30/nearly-third-18-year-old-women-japan-may-children-highlighting-population-concerns/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-30T20:33:08.000Z</news:publication_date>
+          <news:title>Nearly one-third of 18-year-old women in Japan may never have children, highlighting population concerns</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/world/2023/08/30/nearly-third-18-year-old-women-japan-may-children-highlighting-population-concerns/nearly-third-18-year-old-women-japan-may-children-highlighting-population-concerns.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/world/2023/08/30/freefall-elevator-suddenly-takes-plunge-china-injuring-three-people/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-30T20:29:52.000Z</news:publication_date>
+          <news:title>Freefall: Elevator suddenly takes plunge in China apartment building, injuring three people</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/world/2023/08/30/freefall-elevator-suddenly-takes-plunge-china-injuring-three-people/freefall-elevator-suddenly-takes-plunge-china-injuring-three-people.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/world/2023/08/30/hurricane-franklin-category-2-storm-approaches-bermuda/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-30T20:25:57.000Z</news:publication_date>
+          <news:title>Hurricane Franklin, a Category 2 storm, approaches Bermuda</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/world/2023/08/30/hurricane-franklin-category-2-storm-approaches-bermuda/hurricane-franklin-category-2-storm-approaches-bermuda.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/world/2023/08/30/drones-targeted-5-regions-in-biggest-attack-on-russian-soil-in-18-months-defense-ministry-says/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-30T19:51:22.000Z</news:publication_date>
+          <news:title>Ukrainian drones strike deep in Russian territory, Moscow says, while a barrage in Kyiv kills 2</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/world/2023/08/30/drones-targeted-5-regions-in-biggest-attack-on-russian-soil-in-18-months-defense-ministry-says/drones-targeted-5-regions-in-biggest-attack-on-russian-soil-in-18-months-defense-ministry-says.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
         <loc>https://majordigest.com/world/2023/08/30/bee-alert-5-million-bees-fall-off-truck-near-toronto-and-drivers-are-asked-to-close-windows/</loc>
         <news:news>
           <news:publication>
@@ -42,48 +112,6 @@
         </news:news>
         <image:image>
           <image:loc>https://majordigest.com/world/2023/08/30/first-us-military-transfer-to-taiwan-approved-under-program-for-sovereign-states/first-us-military-transfer-to-taiwan-approved-under-program-for-sovereign-states.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/world/2023/08/30/baidu-receives-green-light-launch-ai-ernie-bot-general-public-leading-chinas-ai-revolution/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-30T19:14:02.000Z</news:publication_date>
-          <news:title>Baidu receives green light to launch AI Ernie Bot for general public, leading China's AI revolution</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/world/2023/08/30/baidu-receives-green-light-launch-ai-ernie-bot-general-public-leading-chinas-ai-revolution/baidu-receives-green-light-launch-ai-ernie-bot-general-public-leading-chinas-ai-revolution.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/world/2023/08/30/india-malaysia-reject-chinas-new-territorial-map-claims-disputed-land-own/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-30T19:02:54.000Z</news:publication_date>
-          <news:title>India, Malaysia reject China&#8217;s new territorial map that claims disputed land as its own</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/world/2023/08/30/india-malaysia-reject-chinas-new-territorial-map-claims-disputed-land-own/india-malaysia-reject-chinas-new-territorial-map-claims-disputed-land-own.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/world/2023/08/30/son-israels-netanyahu-ordered-pay-40k-woman-following-defamation-lawsuit/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-30T19:01:11.000Z</news:publication_date>
-          <news:title>Son of Israel&#8217;s Netanyahu ordered to pay $40K to a woman following defamation lawsuit</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/world/2023/08/30/son-israels-netanyahu-ordered-pay-40k-woman-following-defamation-lawsuit/son-israels-netanyahu-ordered-pay-40k-woman-following-defamation-lawsuit.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -143,34 +171,6 @@
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/world/2023/08/30/ex-member-belarus-security-forces-face-trial-switzerland-disappearances-political-opponents/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-30T18:11:09.000Z</news:publication_date>
-          <news:title>Ex-member of Belarus security forces to face trial in Switzerland for disappearances of political opponents</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/world/2023/08/30/ex-member-belarus-security-forces-face-trial-switzerland-disappearances-political-opponents/ex-member-belarus-security-forces-face-trial-switzerland-disappearances-political-opponents.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/world/2023/08/30/gabons-wealthy-dynastic-leader-thought-he-could-resist-africas-trend-of-coups-he-might-be-wrong/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-30T16:44:50.000Z</news:publication_date>
-          <news:title>Gabon's wealthy, dynastic leader thought he could resist Africa's trend of coups. He might be wrong</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/world/2023/08/30/gabons-wealthy-dynastic-leader-thought-he-could-resist-africas-trend-of-coups-he-might-be-wrong/gabons-wealthy-dynastic-leader-thought-he-could-resist-africas-trend-of-coups-he-might-be-wrong.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
         <loc>https://majordigest.com/world/2023/08/30/white-house-warns-russia-north-korea-weapons-negotiations-are-actively-advancing/</loc>
         <news:news>
           <news:publication>
@@ -196,6 +196,20 @@
         </news:news>
         <image:image>
           <image:loc>https://majordigest.com/world/2023/08/30/spain-has-condemned-inappropriate-world-cup-kiss-can-it-now-reckon-with-sexism-in-soccer/spain-has-condemned-inappropriate-world-cup-kiss-can-it-now-reckon-with-sexism-in-soccer.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/world/2023/08/30/kremlin-says-prigozhin-crash-may-have-been-deliberate/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-30T15:56:32.000Z</news:publication_date>
+          <news:title>Kremlin says Prigozhin crash may have been 'deliberate'</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/world/2023/08/30/kremlin-says-prigozhin-crash-may-have-been-deliberate/kremlin-says-prigozhin-crash-may-have-been-deliberate.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -241,17 +255,17 @@
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/world/2023/08/30/court-says-netanyahus-son-must-pay-damages-to-woman-he-implied-had-affair-with-his-fathers-rival/</loc>
+        <loc>https://majordigest.com/world/2023/08/30/gabons-wealthy-dynastic-leader-thought-he-could-resist-africas-trend-of-coups-he-might-be-wrong/</loc>
         <news:news>
           <news:publication>
             <news:name>Major Digest</news:name>
             <news:language>en</news:language>
           </news:publication>
-          <news:publication_date>2023-08-30T14:55:17.000Z</news:publication_date>
-          <news:title>Court says Netanyahu's son must pay damages to woman he implied had affair with his father's rival</news:title>
+          <news:publication_date>2023-08-30T13:36:41.000Z</news:publication_date>
+          <news:title>Gabon's wealthy, dynastic leader thought he could resist Africa's trend of coups. He might be wrong</news:title>
         </news:news>
         <image:image>
-          <image:loc>https://majordigest.com/world/2023/08/30/court-says-netanyahus-son-must-pay-damages-to-woman-he-implied-had-affair-with-his-fathers-rival/court-says-netanyahus-son-must-pay-damages-to-woman-he-implied-had-affair-with-his-fathers-rival.webp</image:loc>
+          <image:loc>https://majordigest.com/world/2023/08/30/gabons-wealthy-dynastic-leader-thought-he-could-resist-africas-trend-of-coups-he-might-be-wrong/gabons-wealthy-dynastic-leader-thought-he-could-resist-africas-trend-of-coups-he-might-be-wrong.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -280,20 +294,6 @@
         </news:news>
         <image:image>
           <image:loc>https://majordigest.com/world/2023/08/30/former-official-under-belarus-president-lukashenko-to-face-swiss-trial-over-enforced-disappearances/former-official-under-belarus-president-lukashenko-to-face-swiss-trial-over-enforced-disappearances.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/world/2023/08/30/britains-top-diplomat-visits-china-for-the-first-time-in-5-years-hoping-to-stabilize-ties/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-30T06:04:22.000Z</news:publication_date>
-          <news:title>Britain's top diplomat raises human rights concerns with China but stresses "pragmatic" relationship</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/world/2023/08/30/britains-top-diplomat-visits-china-for-the-first-time-in-5-years-hoping-to-stabilize-ties/britains-top-diplomat-visits-china-for-the-first-time-in-5-years-hoping-to-stabilize-ties.webp</image:loc>
         </image:image>
       </url>
       <url>

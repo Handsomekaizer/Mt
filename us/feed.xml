@@ -7,7 +7,7 @@
         <title>Major Digest - Reliable and Comprehensive News Sources: us</title>
         <description>Get the latest news online at Major Digest, the top online news resource for the most reliable news sources. Stay informed about the world around you!</description>
         <link>https://majordigest.com/?utm_medium=RSS</link>
-        <lastBuildDate>Wed, 30 Aug 2023 20:19:55 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 30 Aug 2023 21:17:35 GMT</lastBuildDate>
         <generator>https://majordigest.com/?v=1.1.4</generator>
         <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/" />
         <atom:link rel="self" href="https://majordigest.com/us/feed.xml" type="application/rss+xml" />
@@ -19,103 +19,180 @@
           <link>https://majordigest.com/?utm_medium=RSS</link>
         </image>
       <item>
-        <title>Texas woman who stabbed online date in Sin City revenge plot blames Hollywood actress</title>
-        <description><![CDATA[Texas woman convicted of stabbing a man in neck changes story, says in new interview that she hallucinated herself as Salma Hayek&apos;s vampire character from &quot;From Dusk Till Dawn.]]></description>
-        <guid>https://majordigest.com/us/2023/08/30/texas-woman-who-stabbed-online-date-sin-city-revenge-plot-blames-hollywood-actress/</guid>
-        <link>https://majordigest.com/us/2023/08/30/texas-woman-who-stabbed-online-date-sin-city-revenge-plot-blames-hollywood-actress/</link>
-        <pubDate>Wed, 30 Aug 2023 16:08:21 EDT</pubDate>
+        <title>Live updates | Hurricane Idalia heads into Georgia</title>
+        <description><![CDATA[Follow live updates about Hurricane Idalia, which made landfall in Florida as a dangerous Category 3 storm and is now crossing Georgia, still as a hurricane.]]></description>
+        <guid>https://majordigest.com/us/2023/08/30/live-updates-hurricane-idalia-set-to-hit-florida-as-category-4-storm/</guid>
+        <link>https://majordigest.com/us/2023/08/30/live-updates-hurricane-idalia-set-to-hit-florida-as-category-4-storm/</link>
+        <pubDate>Wed, 30 Aug 2023 21:11:48 +0000</pubDate>
         <category>us</category>
-        <media:content medium="image" url="https://majordigest.com/us/2023/08/30/texas-woman-who-stabbed-online-date-sin-city-revenge-plot-blames-hollywood-actress/texas-woman-who-stabbed-online-date-sin-city-revenge-plot-blames-hollywood-actress.webp"/>
-        <media:thumbnail url="https://majordigest.com/us/2023/08/30/texas-woman-who-stabbed-online-date-sin-city-revenge-plot-blames-hollywood-actress/texas-woman-who-stabbed-online-date-sin-city-revenge-plot-blames-hollywood-actress.webp"/>
+        <media:content medium="image" url="https://majordigest.com/us/2023/08/30/live-updates-hurricane-idalia-set-to-hit-florida-as-category-4-storm/live-updates-hurricane-idalia-set-to-hit-florida-as-category-4-storm.webp"/>
+        <media:thumbnail url="https://majordigest.com/us/2023/08/30/live-updates-hurricane-idalia-set-to-hit-florida-as-category-4-storm/live-updates-hurricane-idalia-set-to-hit-florida-as-category-4-storm.webp"/>
+        <dc:creator>The Associated Press, ABC 4</dc:creator>
+      </item>
+      <item>
+        <title>3 arrested in Dominican Republic as part of investigation into explosion that killed 34</title>
+        <description><![CDATA[SANTO DOMINGO, Dominican Republic (AP) — Three people were arrested Wednesday in the Dominican Republic as part of an ongoing investigation into a powerful explosion at a plastics company that killed at least 34 people earlier this month.]]></description>
+        <guid>https://majordigest.com/us/2023/08/30/3-arrested-in-dominican-republic-as-part-of-investigation-into-explosion-that-killed-34/</guid>
+        <link>https://majordigest.com/us/2023/08/30/3-arrested-in-dominican-republic-as-part-of-investigation-into-explosion-that-killed-34/</link>
+        <pubDate>Wed, 30 Aug 2023 21:10:16 +0000</pubDate>
+        <category>us</category>
+        <media:content medium="image" url="https://majordigest.com/us/2023/08/30/3-arrested-in-dominican-republic-as-part-of-investigation-into-explosion-that-killed-34/3-arrested-in-dominican-republic-as-part-of-investigation-into-explosion-that-killed-34.webp"/>
+        <media:thumbnail url="https://majordigest.com/us/2023/08/30/3-arrested-in-dominican-republic-as-part-of-investigation-into-explosion-that-killed-34/3-arrested-in-dominican-republic-as-part-of-investigation-into-explosion-that-killed-34.webp"/>
+        <dc:creator>MARTÍN ADAMES ALCÁNTARA, Associated Press, PHL 17</dc:creator>
+      </item>
+      <item>
+        <title>Hurricane Idalia weakens to a tropical storm after slamming Florida as a powerful hurricane</title>
+        <description><![CDATA[PERRY, Fla. (AP) — Idalia has been downgraded to a tropical storm as it passes over Georgia. The National Hurricane Center’s latest advisory says the storm was centered west of Savannah, Georgia, on Wednesday near Pembroke and had maximum sustained winds of 70 mph.]]></description>
+        <guid>https://majordigest.com/us/2023/08/30/idalia-predicted-to-hit-florida-as-category-4-hurricane-with-catastrophic-storm-surge/</guid>
+        <link>https://majordigest.com/us/2023/08/30/idalia-predicted-to-hit-florida-as-category-4-hurricane-with-catastrophic-storm-surge/</link>
+        <pubDate>Wed, 30 Aug 2023 21:06:55 +0000</pubDate>
+        <category>us</category>
+        <media:content medium="image" url="https://majordigest.com/us/2023/08/30/idalia-predicted-to-hit-florida-as-category-4-hurricane-with-catastrophic-storm-surge/idalia-predicted-to-hit-florida-as-category-4-hurricane-with-catastrophic-storm-surge.webp"/>
+        <media:thumbnail url="https://majordigest.com/us/2023/08/30/idalia-predicted-to-hit-florida-as-category-4-hurricane-with-catastrophic-storm-surge/idalia-predicted-to-hit-florida-as-category-4-hurricane-with-catastrophic-storm-surge.webp"/>
+        <dc:creator>TERRY SPENCER, Associated Press, ABC 4</dc:creator>
+      </item>
+      <item>
+        <title>Biden warns Idalia still dangerous, says he hasn't forgotten about the victims of Hawaii's wildfires</title>
+        <description><![CDATA[WASHINGTON (AP) — President Joe Biden warned Wednesday that Hurricane Idalia was “still very dangerous” even though the storm had weakened after it came ashore in Florida and said he has not forgotten about the wildfire victims in Hawaii, declaring himself “laser focused” on helping them recover.]]></description>
+        <guid>https://majordigest.com/us/2023/08/30/biden-warns-idalia-still-dangerous-says-he-hasnt-forgotten-about-the-victims-of-hawaiis-wildfires/</guid>
+        <link>https://majordigest.com/us/2023/08/30/biden-warns-idalia-still-dangerous-says-he-hasnt-forgotten-about-the-victims-of-hawaiis-wildfires/</link>
+        <pubDate>Wed, 30 Aug 2023 21:05:54 +0000</pubDate>
+        <category>us</category>
+        <media:content medium="image" url="https://majordigest.com/us/2023/08/30/biden-warns-idalia-still-dangerous-says-he-hasnt-forgotten-about-the-victims-of-hawaiis-wildfires/biden-warns-idalia-still-dangerous-says-he-hasnt-forgotten-about-the-victims-of-hawaiis-wildfires.webp"/>
+        <media:thumbnail url="https://majordigest.com/us/2023/08/30/biden-warns-idalia-still-dangerous-says-he-hasnt-forgotten-about-the-victims-of-hawaiis-wildfires/biden-warns-idalia-still-dangerous-says-he-hasnt-forgotten-about-the-victims-of-hawaiis-wildfires.webp"/>
+        <dc:creator>BY DARLENE SUPERVILLE, Associated Press, KGET 17, NBC</dc:creator>
+      </item>
+      <item>
+        <title>Biden dedicates $95 million to bolster Maui's power grid against future disasters</title>
+        <description><![CDATA[President Biden announced Wednesday that $95 million was being sent to Hawaii to bolster the power grid in Maui against future disasters.]]></description>
+        <guid>https://majordigest.com/us/2023/08/30/biden-dedicates-95-million-bolster-mauis-power-grid-against-future-disasters/</guid>
+        <link>https://majordigest.com/us/2023/08/30/biden-dedicates-95-million-bolster-mauis-power-grid-against-future-disasters/</link>
+        <pubDate>Wed, 30 Aug 2023 17:01:35 EDT</pubDate>
+        <category>us</category>
+        <media:content medium="image" url="https://majordigest.com/us/2023/08/30/biden-dedicates-95-million-bolster-mauis-power-grid-against-future-disasters/biden-dedicates-95-million-bolster-mauis-power-grid-against-future-disasters.webp"/>
+        <media:thumbnail url="https://majordigest.com/us/2023/08/30/biden-dedicates-95-million-bolster-mauis-power-grid-against-future-disasters/biden-dedicates-95-million-bolster-mauis-power-grid-against-future-disasters.webp"/>
         <dc:creator>Fox News</dc:creator>
+      </item>
+      <item>
+        <title>New York attorney general seeks immediate verdict in fraud lawsuit against Donald Trump</title>
+        <description><![CDATA[New York’s attorney general says a judge doesn’t need to wait until an October trial in her civil lawsuit against former President Donald Trump to rule that he committed fraud while building his real estate empire.]]></description>
+        <guid>https://majordigest.com/us/2023/08/30/new-york-attorney-general-seeks-immediate-verdict-in-fraud-lawsuit-against-donald-trump/</guid>
+        <link>https://majordigest.com/us/2023/08/30/new-york-attorney-general-seeks-immediate-verdict-in-fraud-lawsuit-against-donald-trump/</link>
+        <pubDate>Wed, 30 Aug 2023 21:00:48 +0000</pubDate>
+        <category>us</category>
+        <media:content medium="image" url="https://majordigest.com/us/2023/08/30/new-york-attorney-general-seeks-immediate-verdict-in-fraud-lawsuit-against-donald-trump/new-york-attorney-general-seeks-immediate-verdict-in-fraud-lawsuit-against-donald-trump.webp"/>
+        <media:thumbnail url="https://majordigest.com/us/2023/08/30/new-york-attorney-general-seeks-immediate-verdict-in-fraud-lawsuit-against-donald-trump/new-york-attorney-general-seeks-immediate-verdict-in-fraud-lawsuit-against-donald-trump.webp"/>
+        <dc:creator>Michael R. Sisak, Associated Press, KPRC 2</dc:creator>
+      </item>
+      <item>
+        <title>This is how much singles need to live comfortably in Nevada</title>
+        <description><![CDATA[A new survey outlines how much someone needs to earn as a “living wage” to live comfortably in all 50 U.S. states.]]></description>
+        <guid>https://majordigest.com/us/2023/08/30/this-is-how-much-singles-need-to-live-comfortably-in-nevada/</guid>
+        <link>https://majordigest.com/us/2023/08/30/this-is-how-much-singles-need-to-live-comfortably-in-nevada/</link>
+        <pubDate>Wed, 30 Aug 2023 20:48:26 +0000</pubDate>
+        <category>us</category>
+        <media:content medium="image" url="https://majordigest.com/us/2023/08/30/this-is-how-much-singles-need-to-live-comfortably-in-nevada/this-is-how-much-singles-need-to-live-comfortably-in-nevada.webp"/>
+        <media:thumbnail url="https://majordigest.com/us/2023/08/30/this-is-how-much-singles-need-to-live-comfortably-in-nevada/this-is-how-much-singles-need-to-live-comfortably-in-nevada.webp"/>
+        <dc:creator>Marc Sternfield, KLAS, CBS News</dc:creator>
+      </item>
+      <item>
+        <title>What's in floodwaters? Hurricane Idalia's surge poses hidden risk, CDC says</title>
+        <description><![CDATA[Hurricane Idalia left anywhere from a few inches to a few feet of standing floodwater in cities across the Florida Gulf coast on Wednesday.]]></description>
+        <guid>https://majordigest.com/us/2023/08/30/whats-in-floodwaters-hurricane-idalias-surge-poses-hidden-risk-cdc-says/</guid>
+        <link>https://majordigest.com/us/2023/08/30/whats-in-floodwaters-hurricane-idalias-surge-poses-hidden-risk-cdc-says/</link>
+        <pubDate>Wed, 30 Aug 2023 20:47:23 +0000</pubDate>
+        <category>us</category>
+        <media:content medium="image" url="https://majordigest.com/us/2023/08/30/whats-in-floodwaters-hurricane-idalias-surge-poses-hidden-risk-cdc-says/whats-in-floodwaters-hurricane-idalias-surge-poses-hidden-risk-cdc-says.webp"/>
+        <media:thumbnail url="https://majordigest.com/us/2023/08/30/whats-in-floodwaters-hurricane-idalias-surge-poses-hidden-risk-cdc-says/whats-in-floodwaters-hurricane-idalias-surge-poses-hidden-risk-cdc-says.webp"/>
+        <dc:creator>Rachel Tucker, ABC 4</dc:creator>
+      </item>
+      <item>
+        <title>Senate GOP leader Mitch McConnell appears to freeze up again, this time at a Kentucky event</title>
+        <description><![CDATA[WASHINGTON (AP) — Senate Republican leader Mitch McConnell appeared to briefly freeze up and was unable to answer a question from a reporter at an event in Kentucky on Wednesday, weeks after he had a similar episode in Washington.]]></description>
+        <guid>https://majordigest.com/us/2023/08/30/senate-gop-leader-mitch-mcconnell-appears-to-freeze-up-again-this-time-at-a-kentucky-event/</guid>
+        <link>https://majordigest.com/us/2023/08/30/senate-gop-leader-mitch-mcconnell-appears-to-freeze-up-again-this-time-at-a-kentucky-event/</link>
+        <pubDate>Wed, 30 Aug 2023 20:46:38 +0000</pubDate>
+        <category>us</category>
+        <media:content medium="image" url="https://majordigest.com/us/2023/08/30/senate-gop-leader-mitch-mcconnell-appears-to-freeze-up-again-this-time-at-a-kentucky-event/senate-gop-leader-mitch-mcconnell-appears-to-freeze-up-again-this-time-at-a-kentucky-event.webp"/>
+        <media:thumbnail url="https://majordigest.com/us/2023/08/30/senate-gop-leader-mitch-mcconnell-appears-to-freeze-up-again-this-time-at-a-kentucky-event/senate-gop-leader-mitch-mcconnell-appears-to-freeze-up-again-this-time-at-a-kentucky-event.webp"/>
+        <dc:creator>MARY CLARE JALONICK, Associated Press, PHL 17</dc:creator>
+      </item>
+      <item>
+        <title>Indiana man charged with attacking co-worker with hammer, tells colleague: 'S--- happens'</title>
+        <description><![CDATA[Indiana man Austin Hahn is charged with attempted murder after allegedly bludgeoning a co-worker with a tinner hammer, breaking his jaw and teeth, according to police.]]></description>
+        <guid>https://majordigest.com/us/2023/08/30/indiana-man-attacks-co-worker-with-hammer-tells-colleague-happens/</guid>
+        <link>https://majordigest.com/us/2023/08/30/indiana-man-attacks-co-worker-with-hammer-tells-colleague-happens/</link>
+        <pubDate>Wed, 30 Aug 2023 16:40:42 EDT</pubDate>
+        <category>us</category>
+        <media:content medium="image" url="https://majordigest.com/us/2023/08/30/indiana-man-attacks-co-worker-with-hammer-tells-colleague-happens/indiana-man-attacks-co-worker-with-hammer-tells-colleague-happens.webp"/>
+        <media:thumbnail url="https://majordigest.com/us/2023/08/30/indiana-man-attacks-co-worker-with-hammer-tells-colleague-happens/indiana-man-attacks-co-worker-with-hammer-tells-colleague-happens.webp"/>
+        <dc:creator>Fox News</dc:creator>
+      </item>
+      <item>
+        <title>Texas resident dies from rare amoeba infection after swimming in lake</title>
+        <description><![CDATA[A Texas resident is dead after contracting an amebic meningitis infection from a lake, health officials said Wednesday.]]></description>
+        <guid>https://majordigest.com/us/2023/08/30/texas-resident-dies-from-rare-amoeba-infection-after-swimming-in-lake/</guid>
+        <link>https://majordigest.com/us/2023/08/30/texas-resident-dies-from-rare-amoeba-infection-after-swimming-in-lake/</link>
+        <pubDate>Wed, 30 Aug 2023 16:38:35 EDT</pubDate>
+        <category>us</category>
+        <media:content medium="image" url="https://majordigest.com/us/2023/08/30/texas-resident-dies-from-rare-amoeba-infection-after-swimming-in-lake/texas-resident-dies-from-rare-amoeba-infection-after-swimming-in-lake.webp"/>
+        <media:thumbnail url="https://majordigest.com/us/2023/08/30/texas-resident-dies-from-rare-amoeba-infection-after-swimming-in-lake/texas-resident-dies-from-rare-amoeba-infection-after-swimming-in-lake.webp"/>
+        <dc:creator>Fox News</dc:creator>
+      </item>
+      <item>
+        <title>Bosch closes deal to buy US semiconductor foundry in EV chip push</title>
+        <description><![CDATA[Germany&apos;s Bosch Group completed the acquisition of chip manufacturer TSI Semiconductors as part of its plan to establish a manufacturing presence in the U.S. for silicon carbide chips.]]></description>
+        <guid>https://majordigest.com/us/2023/08/30/bosch-closes-deal-buy-us-semiconductor-foundry-ev-chip-push/</guid>
+        <link>https://majordigest.com/us/2023/08/30/bosch-closes-deal-buy-us-semiconductor-foundry-ev-chip-push/</link>
+        <pubDate>Wed, 30 Aug 2023 16:37:39 EDT</pubDate>
+        <category>us</category>
+        <media:content medium="image" url="https://majordigest.com/us/2023/08/30/bosch-closes-deal-buy-us-semiconductor-foundry-ev-chip-push/bosch-closes-deal-buy-us-semiconductor-foundry-ev-chip-push.webp"/>
+        <media:thumbnail url="https://majordigest.com/us/2023/08/30/bosch-closes-deal-buy-us-semiconductor-foundry-ev-chip-push/bosch-closes-deal-buy-us-semiconductor-foundry-ev-chip-push.webp"/>
+        <dc:creator>Fox News</dc:creator>
+      </item>
+      <item>
+        <title>Fatal shooting of college student who tried entering wrong home 'justifiable': South Carolina authorities</title>
+        <description><![CDATA[The 20-year-old apparently tried entering the wrong home and broke a window to reach inside for the doorknob, police said.]]></description>
+        <guid>https://majordigest.com/us/2023/08/30/fatal-shooting-of-college-student-who-tried-entering-wrong-home-justifiable-south-carolina-authorities/</guid>
+        <link>https://majordigest.com/us/2023/08/30/fatal-shooting-of-college-student-who-tried-entering-wrong-home-justifiable-south-carolina-authorities/</link>
+        <pubDate>Wed, 30 Aug 2023 20:34:20 +0000</pubDate>
+        <category>us</category>
+        <media:content medium="image" url="https://majordigest.com/us/2023/08/30/fatal-shooting-of-college-student-who-tried-entering-wrong-home-justifiable-south-carolina-authorities/fatal-shooting-of-college-student-who-tried-entering-wrong-home-justifiable-south-carolina-authorities.webp"/>
+        <media:thumbnail url="https://majordigest.com/us/2023/08/30/fatal-shooting-of-college-student-who-tried-entering-wrong-home-justifiable-south-carolina-authorities/fatal-shooting-of-college-student-who-tried-entering-wrong-home-justifiable-south-carolina-authorities.webp"/>
+        <dc:creator>Bethany Fowler, ABC 4</dc:creator>
       </item>
       <item>
         <title>Person gets sick, dies from amebic infection after swimming in Texas lake</title>
         <description><![CDATA[Austin Public Health reported the death urged people to take precautions when swimming in natural bodies of water amid the ongoing, intense heat Texas is experiencing.]]></description>
         <guid>https://majordigest.com/us/2023/08/30/person-gets-sick-dies-from-amebic-infection-after-swimming-in-texas-lake/</guid>
         <link>https://majordigest.com/us/2023/08/30/person-gets-sick-dies-from-amebic-infection-after-swimming-in-texas-lake/</link>
-        <pubDate>Wed, 30 Aug 2023 20:08:12 +0000</pubDate>
+        <pubDate>Wed, 30 Aug 2023 20:07:55 +0000</pubDate>
         <category>us</category>
         <media:content medium="image" url="https://majordigest.com/us/2023/08/30/person-gets-sick-dies-from-amebic-infection-after-swimming-in-texas-lake/person-gets-sick-dies-from-amebic-infection-after-swimming-in-texas-lake.webp"/>
         <media:thumbnail url="https://majordigest.com/us/2023/08/30/person-gets-sick-dies-from-amebic-infection-after-swimming-in-texas-lake/person-gets-sick-dies-from-amebic-infection-after-swimming-in-texas-lake.webp"/>
-        <dc:creator>Abigail Jones, ABC 4</dc:creator>
+        <dc:creator>Abigail Jones, KRON4</dc:creator>
       </item>
       <item>
         <title>$72 million in student loans canceled by Biden administration: Who qualifies</title>
         <description><![CDATA[More than 2,000 borrowers will see their loans canceled, the Biden administration announced Wednesday.]]></description>
         <guid>https://majordigest.com/us/2023/08/30/72-million-in-student-loans-canceled-by-biden-administration-who-qualifies/</guid>
         <link>https://majordigest.com/us/2023/08/30/72-million-in-student-loans-canceled-by-biden-administration-who-qualifies/</link>
-        <pubDate>Wed, 30 Aug 2023 20:06:31 +0000</pubDate>
+        <pubDate>Wed, 30 Aug 2023 20:06:14 +0000</pubDate>
         <category>us</category>
         <media:content medium="image" url="https://majordigest.com/us/2023/08/30/72-million-in-student-loans-canceled-by-biden-administration-who-qualifies/72-million-in-student-loans-canceled-by-biden-administration-who-qualifies.webp"/>
         <media:thumbnail url="https://majordigest.com/us/2023/08/30/72-million-in-student-loans-canceled-by-biden-administration-who-qualifies/72-million-in-student-loans-canceled-by-biden-administration-who-qualifies.webp"/>
-        <dc:creator>The Associated Press, ABC 4</dc:creator>
+        <dc:creator>The Associated Press, KRON4</dc:creator>
       </item>
       <item>
-        <title>Ukrainian drones strike deep in Russian territory, Moscow says, while a barrage in Kyiv kills 2</title>
-        <description><![CDATA[KYIV, Ukraine (AP) — Ukraine sent waves of drones deep into western Russia in more than four hours of nighttime attacks that struck military assets, Russian officials and media reports said Wednesday.]]></description>
-        <guid>https://majordigest.com/us/2023/08/30/drones-targeted-5-regions-in-biggest-attack-on-russian-soil-in-18-months-defense-ministry-says/</guid>
-        <link>https://majordigest.com/us/2023/08/30/drones-targeted-5-regions-in-biggest-attack-on-russian-soil-in-18-months-defense-ministry-says/</link>
-        <pubDate>Wed, 30 Aug 2023 19:51:22 +0000</pubDate>
+        <title>Biden administration cancels loans for former Ashford U. students, with plans to recoup costs</title>
+        <description><![CDATA[WASHINGTON (AP) — The Biden administration is canceling $72 million in student loans for 2,300 borrowers who say they were cheated by Ashford University, a former for-profit college that was purchased by the University of Arizona in 2020.]]></description>
+        <guid>https://majordigest.com/us/2023/08/30/biden-administration-cancels-loans-for-former-ashford-u-students-with-plans-to-recoup-costs/</guid>
+        <link>https://majordigest.com/us/2023/08/30/biden-administration-cancels-loans-for-former-ashford-u-students-with-plans-to-recoup-costs/</link>
+        <pubDate>Wed, 30 Aug 2023 19:54:49 +0000</pubDate>
         <category>us</category>
-        <media:content medium="image" url="https://majordigest.com/us/2023/08/30/drones-targeted-5-regions-in-biggest-attack-on-russian-soil-in-18-months-defense-ministry-says/drones-targeted-5-regions-in-biggest-attack-on-russian-soil-in-18-months-defense-ministry-says.webp"/>
-        <media:thumbnail url="https://majordigest.com/us/2023/08/30/drones-targeted-5-regions-in-biggest-attack-on-russian-soil-in-18-months-defense-ministry-says/drones-targeted-5-regions-in-biggest-attack-on-russian-soil-in-18-months-defense-ministry-says.webp"/>
-        <dc:creator>SUSIE BLANN and DASHA LITVINOVA, Associated Press, PHL 17</dc:creator>
-      </item>
-      <item>
-        <title>Mutineers in Gabon appoint a military leader after detaining the president, alleging corruption</title>
-        <description><![CDATA[LIBREVILLE, Gabon (AP) — Mutinous soldiers in Gabon proclaimed the republican guard chief as their country’s leader Wednesday after placing the just-reelected President Ali Bongo Ondimba under house arrest, alleging betrayal and massive embezzlement during his long-time rule over the oil-rich Centra]]></description>
-        <guid>https://majordigest.com/us/2023/08/30/gabon-military-officers-say-theyre-seizing-power-just-days-after-the-presidential-election/</guid>
-        <link>https://majordigest.com/us/2023/08/30/gabon-military-officers-say-theyre-seizing-power-just-days-after-the-presidential-election/</link>
-        <pubDate>Wed, 30 Aug 2023 19:47:54 +0000</pubDate>
-        <category>us</category>
-        <media:content medium="image" url="https://majordigest.com/us/2023/08/30/gabon-military-officers-say-theyre-seizing-power-just-days-after-the-presidential-election/gabon-military-officers-say-theyre-seizing-power-just-days-after-the-presidential-election.webp"/>
-        <media:thumbnail url="https://majordigest.com/us/2023/08/30/gabon-military-officers-say-theyre-seizing-power-just-days-after-the-presidential-election/gabon-military-officers-say-theyre-seizing-power-just-days-after-the-presidential-election.webp"/>
-        <dc:creator>YVES LAURENT GOMA and SAM MEDNICK, Associated Press, PHL 17</dc:creator>
-      </item>
-      <item>
-        <title>'Beloved' UNC-Chapel Hill shooting victim Zijie Yan was father of 2: report</title>
-        <description><![CDATA[Zijie Yan, the UNC-Chapel Hill associate professor who died in a Monday shooting on the school&apos;s campus, was a father of two and a &quot;beloved colleague&quot; and &quot;mentor.]]></description>
-        <guid>https://majordigest.com/us/2023/08/30/unc-chapel-hill-shooting-victim-zijie-yan-father-2-report/</guid>
-        <link>https://majordigest.com/us/2023/08/30/unc-chapel-hill-shooting-victim-zijie-yan-father-2-report/</link>
-        <pubDate>Wed, 30 Aug 2023 15:39:37 EDT</pubDate>
-        <category>us</category>
-        <media:content medium="image" url="https://majordigest.com/us/2023/08/30/unc-chapel-hill-shooting-victim-zijie-yan-father-2-report/unc-chapel-hill-shooting-victim-zijie-yan-father-2-report.webp"/>
-        <media:thumbnail url="https://majordigest.com/us/2023/08/30/unc-chapel-hill-shooting-victim-zijie-yan-father-2-report/unc-chapel-hill-shooting-victim-zijie-yan-father-2-report.webp"/>
-        <dc:creator>Fox News</dc:creator>
-      </item>
-      <item>
-        <title>Judge holds Giuliani liable in Georgia election workers' defamation case for withholding information</title>
-        <description><![CDATA[WASHINGTON (AP) — A federal judge on Wednesday held Rudy Giuliani liable in a defamation lawsuit brought by two Georgia election workers who say they were falsely accused of fraud, ruling that the former New York city mayor gave “only lip service” to complying with his legal obligations while trying]]></description>
-        <guid>https://majordigest.com/us/2023/08/30/judge-enters-default-judgment-against-giuliani-in-defamation-lawsuit-from-georgia-election-workers/</guid>
-        <link>https://majordigest.com/us/2023/08/30/judge-enters-default-judgment-against-giuliani-in-defamation-lawsuit-from-georgia-election-workers/</link>
-        <pubDate>Wed, 30 Aug 2023 19:35:27 +0000</pubDate>
-        <category>us</category>
-        <media:content medium="image" url="https://majordigest.com/us/2023/08/30/judge-enters-default-judgment-against-giuliani-in-defamation-lawsuit-from-georgia-election-workers/judge-enters-default-judgment-against-giuliani-in-defamation-lawsuit-from-georgia-election-workers.webp"/>
-        <media:thumbnail url="https://majordigest.com/us/2023/08/30/judge-enters-default-judgment-against-giuliani-in-defamation-lawsuit-from-georgia-election-workers/judge-enters-default-judgment-against-giuliani-in-defamation-lawsuit-from-georgia-election-workers.webp"/>
-        <dc:creator>ERIC TUCKER, Associated Press, WGN 9</dc:creator>
-      </item>
-      <item>
-        <title>Building superintendent fatally stabs wife, kids in murder-suicide before job change: police</title>
-        <description><![CDATA[Ed Lopez, 41, his wife, Aleksandra Witek, 40, and their toddlers were found dead in their Upper West Side apartment on Monday in an apparent murder-suicide.]]></description>
-        <guid>https://majordigest.com/us/2023/08/30/building-superintendent-fatally-stabs-wife-kids-murder-suicide-before-job-change-police/</guid>
-        <link>https://majordigest.com/us/2023/08/30/building-superintendent-fatally-stabs-wife-kids-murder-suicide-before-job-change-police/</link>
-        <pubDate>Wed, 30 Aug 2023 15:19:44 EDT</pubDate>
-        <category>us</category>
-        <media:content medium="image" url="https://majordigest.com/us/2023/08/30/building-superintendent-fatally-stabs-wife-kids-murder-suicide-before-job-change-police/building-superintendent-fatally-stabs-wife-kids-murder-suicide-before-job-change-police.webp"/>
-        <media:thumbnail url="https://majordigest.com/us/2023/08/30/building-superintendent-fatally-stabs-wife-kids-murder-suicide-before-job-change-police/building-superintendent-fatally-stabs-wife-kids-murder-suicide-before-job-change-police.webp"/>
-        <dc:creator>Fox News</dc:creator>
-      </item>
-      <item>
-        <title>American Airlines flight attendants overwhelmingly vote to authorize strike amid contract negotiations</title>
-        <description><![CDATA[The Association of Professional Flight Attendants announced that 99.47% of their members, representing over 26,000 flight attendants at American Airlines, voted in favor of a strike.]]></description>
-        <guid>https://majordigest.com/us/2023/08/30/american-airlines-flight-attendants-overwhelmingly-vote-authorize-strike-amid-contract-negotiations/</guid>
-        <link>https://majordigest.com/us/2023/08/30/american-airlines-flight-attendants-overwhelmingly-vote-authorize-strike-amid-contract-negotiations/</link>
-        <pubDate>Wed, 30 Aug 2023 15:15:55 EDT</pubDate>
-        <category>us</category>
-        <media:content medium="image" url="https://majordigest.com/us/2023/08/30/american-airlines-flight-attendants-overwhelmingly-vote-authorize-strike-amid-contract-negotiations/american-airlines-flight-attendants-overwhelmingly-vote-authorize-strike-amid-contract-negotiations.webp"/>
-        <media:thumbnail url="https://majordigest.com/us/2023/08/30/american-airlines-flight-attendants-overwhelmingly-vote-authorize-strike-amid-contract-negotiations/american-airlines-flight-attendants-overwhelmingly-vote-authorize-strike-amid-contract-negotiations.webp"/>
-        <dc:creator>Fox News</dc:creator>
+        <media:content medium="image" url="https://majordigest.com/us/2023/08/30/biden-administration-cancels-loans-for-former-ashford-u-students-with-plans-to-recoup-costs/biden-administration-cancels-loans-for-former-ashford-u-students-with-plans-to-recoup-costs.webp"/>
+        <media:thumbnail url="https://majordigest.com/us/2023/08/30/biden-administration-cancels-loans-for-former-ashford-u-students-with-plans-to-recoup-costs/biden-administration-cancels-loans-for-former-ashford-u-students-with-plans-to-recoup-costs.webp"/>
+        <dc:creator>COLLIN BINKLEY, Associated Press, PHL 17</dc:creator>
       </item>
       <item>
         <title>Real-time wobble tracker monitoring Hurricane Idalia</title>
@@ -140,6 +217,17 @@
         <dc:creator>Sarah Fortinsky, KRON4</dc:creator>
       </item>
       <item>
+        <title>Idalia could set record for intensification rate, expert says</title>
+        <description><![CDATA[Hurricane Idalia could set a record for its intensification rate, according to hurricane experts, who point to the hot water feeding the storm as a key factor.]]></description>
+        <guid>https://majordigest.com/us/2023/08/30/idalia-could-set-record-for-intensification-rate-expert-says/</guid>
+        <link>https://majordigest.com/us/2023/08/30/idalia-could-set-record-for-intensification-rate-expert-says/</link>
+        <pubDate>Wed, 30 Aug 2023 19:10:14 +0000</pubDate>
+        <category>us</category>
+        <media:content medium="image" url="https://majordigest.com/us/2023/08/30/idalia-could-set-record-for-intensification-rate-expert-says/idalia-could-set-record-for-intensification-rate-expert-says.webp"/>
+        <media:thumbnail url="https://majordigest.com/us/2023/08/30/idalia-could-set-record-for-intensification-rate-expert-says/idalia-could-set-record-for-intensification-rate-expert-says.webp"/>
+        <dc:creator>Sarah Fortinsky, NewsNation</dc:creator>
+      </item>
+      <item>
         <title>Warm water fueling Hurricane Idalia's intensity</title>
         <description><![CDATA[Feeding on some of the hottest water on the planet, Hurricane Idalia is rapidly strengthening as it bears down on Florida and the rest of the Gulf Coast. It’s been happening a lot lately.]]></description>
         <guid>https://majordigest.com/us/2023/08/30/warm-water-fueling-hurricane-idalias-intensity/</guid>
@@ -155,22 +243,33 @@
         <description><![CDATA[An escaped inmate from Arkansas who has been on the run for the last year has been arrested in West Virginia, along with three other people.]]></description>
         <guid>https://majordigest.com/us/2023/08/30/convicted-rapist-who-escaped-on-jet-ski-in-2022-is-arrested-in-west-virginia/</guid>
         <link>https://majordigest.com/us/2023/08/30/convicted-rapist-who-escaped-on-jet-ski-in-2022-is-arrested-in-west-virginia/</link>
-        <pubDate>Wed, 30 Aug 2023 18:34:33 +0000</pubDate>
+        <pubDate>Wed, 30 Aug 2023 18:32:55 +0000</pubDate>
         <category>us</category>
         <media:content medium="image" url="https://majordigest.com/us/2023/08/30/convicted-rapist-who-escaped-on-jet-ski-in-2022-is-arrested-in-west-virginia/convicted-rapist-who-escaped-on-jet-ski-in-2022-is-arrested-in-west-virginia.webp"/>
         <media:thumbnail url="https://majordigest.com/us/2023/08/30/convicted-rapist-who-escaped-on-jet-ski-in-2022-is-arrested-in-west-virginia/convicted-rapist-who-escaped-on-jet-ski-in-2022-is-arrested-in-west-virginia.webp"/>
-        <dc:creator>Jessica Patterson, KRON4</dc:creator>
+        <dc:creator>Jessica Patterson, KTLA 5</dc:creator>
       </item>
       <item>
         <title>As Hurricane Idalia moves inward, another storm brews off East Coast</title>
         <description><![CDATA[As Hurricane Idalia passed through Florida on its way to Georgia on Wednesday, the National Hurricane Center (NHC) warned Americans about another storm looming in the Atlantic.]]></description>
         <guid>https://majordigest.com/us/2023/08/30/as-hurricane-idalia-moves-inward-another-storm-brews-off-east-coast/</guid>
         <link>https://majordigest.com/us/2023/08/30/as-hurricane-idalia-moves-inward-another-storm-brews-off-east-coast/</link>
-        <pubDate>Wed, 30 Aug 2023 18:30:06 +0000</pubDate>
+        <pubDate>Wed, 30 Aug 2023 18:28:28 +0000</pubDate>
         <category>us</category>
         <media:content medium="image" url="https://majordigest.com/us/2023/08/30/as-hurricane-idalia-moves-inward-another-storm-brews-off-east-coast/as-hurricane-idalia-moves-inward-another-storm-brews-off-east-coast.webp"/>
         <media:thumbnail url="https://majordigest.com/us/2023/08/30/as-hurricane-idalia-moves-inward-another-storm-brews-off-east-coast/as-hurricane-idalia-moves-inward-another-storm-brews-off-east-coast.webp"/>
-        <dc:creator>Tara Suter, KRON4</dc:creator>
+        <dc:creator>Tara Suter, KTLA 5</dc:creator>
+      </item>
+      <item>
+        <title>McConnell freezes for 2nd time while taking questions</title>
+        <description><![CDATA[Senate Minority Leader Mitch McConnell (R-Ky.) appeared to freeze up at the podium while taking questions in Kentucky on Wednesday, the second time in recent weeks that he paused while talking to reporters. During a gaggle in Covington, Ky.]]></description>
+        <guid>https://majordigest.com/us/2023/08/30/mcconnell-freezes-for-second-time-during-press-conference/</guid>
+        <link>https://majordigest.com/us/2023/08/30/mcconnell-freezes-for-second-time-during-press-conference/</link>
+        <pubDate>Wed, 30 Aug 2023 17:51:11 +0000</pubDate>
+        <category>us</category>
+        <media:content medium="image" url="https://majordigest.com/us/2023/08/30/mcconnell-freezes-for-second-time-during-press-conference/mcconnell-freezes-for-second-time-during-press-conference.webp"/>
+        <media:thumbnail url="https://majordigest.com/us/2023/08/30/mcconnell-freezes-for-second-time-during-press-conference/mcconnell-freezes-for-second-time-during-press-conference.webp"/>
+        <dc:creator>Mychael Schnell, KTLA 5</dc:creator>
       </item>
       <item>
         <title>Higher education levels linked with civic engagement, better health: Gallup</title>
@@ -188,11 +287,11 @@
         <description><![CDATA[A rare blue supermoon could raise tides above normal just as Hurricane Idalia lashes Florida’s west coast, exacerbating flooding from the storm.]]></description>
         <guid>https://majordigest.com/us/2023/08/30/supermoon-could-team-up-with-idalia-to-raise-tides-even-higher/</guid>
         <link>https://majordigest.com/us/2023/08/30/supermoon-could-team-up-with-idalia-to-raise-tides-even-higher/</link>
-        <pubDate>Wed, 30 Aug 2023 17:17:09 +0000</pubDate>
+        <pubDate>Wed, 30 Aug 2023 17:19:01 +0000</pubDate>
         <category>us</category>
         <media:content medium="image" url="https://majordigest.com/us/2023/08/30/supermoon-could-team-up-with-idalia-to-raise-tides-even-higher/supermoon-could-team-up-with-idalia-to-raise-tides-even-higher.webp"/>
         <media:thumbnail url="https://majordigest.com/us/2023/08/30/supermoon-could-team-up-with-idalia-to-raise-tides-even-higher/supermoon-could-team-up-with-idalia-to-raise-tides-even-higher.webp"/>
-        <dc:creator>Associated Press, KTLA 5</dc:creator>
+        <dc:creator>The Associated Press, KGET 17, NBC</dc:creator>
       </item>
       <item>
         <title>White House says Putin and Kim Jong Un traded letters as Russia looks for munitions from North Korea</title>
@@ -217,17 +316,6 @@
         <dc:creator>Michael R. Sisak, Associated Press, KPRC 2</dc:creator>
       </item>
       <item>
-        <title>Protesters block road into Burning Man festival; rangers ram blockade</title>
-        <description><![CDATA[The group behind the protest said the purpose was to draw attention to "capitalism's inability to address climate and ecological breakdown.]]></description>
-        <guid>https://majordigest.com/us/2023/08/30/protesters-block-road-into-burning-man-festival-rangers-ram-blockade/</guid>
-        <link>https://majordigest.com/us/2023/08/30/protesters-block-road-into-burning-man-festival-rangers-ram-blockade/</link>
-        <pubDate>Wed, 30 Aug 2023 16:24:20 +0000</pubDate>
-        <category>us</category>
-        <media:content medium="image" url="https://majordigest.com/us/2023/08/30/protesters-block-road-into-burning-man-festival-rangers-ram-blockade/protesters-block-road-into-burning-man-festival-rangers-ram-blockade.webp"/>
-        <media:thumbnail url="https://majordigest.com/us/2023/08/30/protesters-block-road-into-burning-man-festival-rangers-ram-blockade/protesters-block-road-into-burning-man-festival-rangers-ram-blockade.webp"/>
-        <dc:creator>Tyler Wornell, KGET 17, NBC</dc:creator>
-      </item>
-      <item>
         <title>Hurricane Idalia makes landfall in Florida's Big Bend, the 'Nature Coast' far from tourist areas</title>
         <description><![CDATA[ORLANDO, Fla. (AP) — Florida’s Big Bend is one of the last truly natural places in the state. It's not Disney World. It’s not South Beach. This is where people go to hunt alligators, fish for tarpon and search for scallops in the shallow waters.]]></description>
         <guid>https://majordigest.com/us/2023/08/30/hurricane-idalia-menaces-floridas-big-bend-the-nature-coast-far-from-tourist-attractions/</guid>
@@ -236,73 +324,29 @@
         <category>us</category>
         <media:content medium="image" url="https://majordigest.com/us/2023/08/30/hurricane-idalia-menaces-floridas-big-bend-the-nature-coast-far-from-tourist-attractions/hurricane-idalia-menaces-floridas-big-bend-the-nature-coast-far-from-tourist-attractions.webp"/>
         <media:thumbnail url="https://majordigest.com/us/2023/08/30/hurricane-idalia-menaces-floridas-big-bend-the-nature-coast-far-from-tourist-attractions/hurricane-idalia-menaces-floridas-big-bend-the-nature-coast-far-from-tourist-attractions.webp"/>
-        <dc:creator>CURT ANDERSON, Associated Press, KGET 17, NBC</dc:creator>
+        <dc:creator>CURT ANDERSON, Associated Press, KLAS, CBS News</dc:creator>
       </item>
       <item>
-        <title>PHOTOS: Hurricane Idalia slams into Florida</title>
-        <description><![CDATA[As the eye moved inland, destructive winds shredded signs, sent sheet metal flying and snapped tall trees.]]></description>
-        <guid>https://majordigest.com/us/2023/08/30/photos-hurricane-idalia-slams-into-florida/</guid>
-        <link>https://majordigest.com/us/2023/08/30/photos-hurricane-idalia-slams-into-florida/</link>
-        <pubDate>Wed, 30 Aug 2023 16:08:09 +0000</pubDate>
+        <title>States at the forefront of fights over wetlands protections after justices slash federal rules</title>
+        <description><![CDATA[A month after the U.S. Supreme Court severely restricted the federal government's power to oversee wetlands, the Republican-dominated North Carolina legislature handed state agencies an order: Don't give the ecologically crucial waters any more protection than newly weakened federal rules provide.]]></description>
+        <guid>https://majordigest.com/us/2023/08/30/states-at-the-forefront-of-fights-over-wetlands-protections-after-justices-slash-federal-rules/</guid>
+        <link>https://majordigest.com/us/2023/08/30/states-at-the-forefront-of-fights-over-wetlands-protections-after-justices-slash-federal-rules/</link>
+        <pubDate>Wed, 30 Aug 2023 16:04:54 +0000</pubDate>
         <category>us</category>
-        <media:content medium="image" url="https://majordigest.com/us/2023/08/30/photos-hurricane-idalia-slams-into-florida/photos-hurricane-idalia-slams-into-florida.webp"/>
-        <media:thumbnail url="https://majordigest.com/us/2023/08/30/photos-hurricane-idalia-slams-into-florida/photos-hurricane-idalia-slams-into-florida.webp"/>
-        <dc:creator>Matthew Knight, KGET 17, NBC</dc:creator>
-      </item>
-      <item>
-        <title>Supermoon could team up with Hurricane Idalia to raise tides higher just as the storm makes landfall</title>
-        <description><![CDATA[A rare blue supermoon could raise tides above normal just as Hurricane Idalia lashes Florida’s west coast, exacerbating flooding from the storm.]]></description>
-        <guid>https://majordigest.com/us/2023/08/30/supermoon-could-team-up-with-hurricane-idalia-to-raise-tides-higher-just-as-the-storm-makes-landfall/</guid>
-        <link>https://majordigest.com/us/2023/08/30/supermoon-could-team-up-with-hurricane-idalia-to-raise-tides-higher-just-as-the-storm-makes-landfall/</link>
-        <pubDate>Wed, 30 Aug 2023 16:06:25 +0000</pubDate>
-        <category>us</category>
-        <media:content medium="image" url="https://majordigest.com/us/2023/08/30/supermoon-could-team-up-with-hurricane-idalia-to-raise-tides-higher-just-as-the-storm-makes-landfall/supermoon-could-team-up-with-hurricane-idalia-to-raise-tides-higher-just-as-the-storm-makes-landfall.webp"/>
-        <media:thumbnail url="https://majordigest.com/us/2023/08/30/supermoon-could-team-up-with-hurricane-idalia-to-raise-tides-higher-just-as-the-storm-makes-landfall/supermoon-could-team-up-with-hurricane-idalia-to-raise-tides-higher-just-as-the-storm-makes-landfall.webp"/>
-        <dc:creator>JEFF MARTIN, Associated Press, KLAS, CBS News</dc:creator>
-      </item>
-      <item>
-        <title>Baltimore police showed indifference leading up to July mass shooting, report says</title>
-        <description><![CDATA[BALTIMORE (AP) — Baltimore police ignored multiple warning signs and failed to take proactive measures in the hours leading up to a mass shooting at a neighborhood block party last month — failures that could indicate officer bias, according to a report examining the city’s response.]]></description>
-        <guid>https://majordigest.com/us/2023/08/30/baltimore-police-showed-indifference-leading-up-to-july-mass-shooting-report-says/</guid>
-        <link>https://majordigest.com/us/2023/08/30/baltimore-police-showed-indifference-leading-up-to-july-mass-shooting-report-says/</link>
-        <pubDate>Wed, 30 Aug 2023 15:57:52 +0000</pubDate>
-        <category>us</category>
-        <media:content medium="image" url="https://majordigest.com/us/2023/08/30/baltimore-police-showed-indifference-leading-up-to-july-mass-shooting-report-says/baltimore-police-showed-indifference-leading-up-to-july-mass-shooting-report-says.webp"/>
-        <media:thumbnail url="https://majordigest.com/us/2023/08/30/baltimore-police-showed-indifference-leading-up-to-july-mass-shooting-report-says/baltimore-police-showed-indifference-leading-up-to-july-mass-shooting-report-says.webp"/>
-        <dc:creator>LEA SKENE, Associated Press, KLAS, CBS News</dc:creator>
-      </item>
-      <item>
-        <title>'Corn sweat' and why it's heaping on the humidity</title>
-        <description><![CDATA[Regions blessed by large swaths of farmland can also be cursed with season spikes in humidity thanks to "corn sweat.]]></description>
-        <guid>https://majordigest.com/us/2023/08/30/corn-sweat-and-why-its-heaping-on-the-humidity/</guid>
-        <link>https://majordigest.com/us/2023/08/30/corn-sweat-and-why-its-heaping-on-the-humidity/</link>
-        <pubDate>Wed, 30 Aug 2023 15:47:57 +0000</pubDate>
-        <category>us</category>
-        <media:content medium="image" url="https://majordigest.com/us/2023/08/30/corn-sweat-and-why-its-heaping-on-the-humidity/corn-sweat-and-why-its-heaping-on-the-humidity.webp"/>
-        <media:thumbnail url="https://majordigest.com/us/2023/08/30/corn-sweat-and-why-its-heaping-on-the-humidity/corn-sweat-and-why-its-heaping-on-the-humidity.webp"/>
-        <dc:creator>Chip Brewster, The Hill</dc:creator>
+        <media:content medium="image" url="https://majordigest.com/us/2023/08/30/states-at-the-forefront-of-fights-over-wetlands-protections-after-justices-slash-federal-rules/states-at-the-forefront-of-fights-over-wetlands-protections-after-justices-slash-federal-rules.webp"/>
+        <media:thumbnail url="https://majordigest.com/us/2023/08/30/states-at-the-forefront-of-fights-over-wetlands-protections-after-justices-slash-federal-rules/states-at-the-forefront-of-fights-over-wetlands-protections-after-justices-slash-federal-rules.webp"/>
+        <dc:creator>JOHN FLESHER and MICHAEL PHILLIS, Associated Press, KLAS, CBS News</dc:creator>
       </item>
       <item>
         <title>FBI disrupts malicious program infecting hundreds of thousands of computers</title>
         <description><![CDATA[The Justice Department says the FBI was able to "disrupt" malware that had infected more than 700,000 computers across the world.]]></description>
         <guid>https://majordigest.com/us/2023/08/30/fbi-disrupts-malicious-program-infecting-hundreds-of-thousands-of-computers/</guid>
         <link>https://majordigest.com/us/2023/08/30/fbi-disrupts-malicious-program-infecting-hundreds-of-thousands-of-computers/</link>
-        <pubDate>Wed, 30 Aug 2023 15:31:51 +0000</pubDate>
+        <pubDate>Wed, 30 Aug 2023 15:30:29 +0000</pubDate>
         <category>us</category>
         <media:content medium="image" url="https://majordigest.com/us/2023/08/30/fbi-disrupts-malicious-program-infecting-hundreds-of-thousands-of-computers/fbi-disrupts-malicious-program-infecting-hundreds-of-thousands-of-computers.webp"/>
         <media:thumbnail url="https://majordigest.com/us/2023/08/30/fbi-disrupts-malicious-program-infecting-hundreds-of-thousands-of-computers/fbi-disrupts-malicious-program-infecting-hundreds-of-thousands-of-computers.webp"/>
-        <dc:creator>Tara Suter, KLAS, CBS News</dc:creator>
-      </item>
-      <item>
-        <title>Chicago FOP president slams migrant conditions at police stations</title>
-        <description><![CDATA[CHICAGO — According to Fraternal Order of Police President John Catanzara, migrants staying in police stations are reaching intolerable levels, causing health problems for desk officers and sergeants at district stations all across Chicago.]]></description>
-        <guid>https://majordigest.com/us/2023/08/30/chicago-fop-president-slams-migrant-conditions-at-police-stations/</guid>
-        <link>https://majordigest.com/us/2023/08/30/chicago-fop-president-slams-migrant-conditions-at-police-stations/</link>
-        <pubDate>Wed, 30 Aug 2023 15:04:58 +0000</pubDate>
-        <category>us</category>
-        <media:content medium="image" url="https://majordigest.com/us/2023/08/30/chicago-fop-president-slams-migrant-conditions-at-police-stations/chicago-fop-president-slams-migrant-conditions-at-police-stations.webp"/>
-        <media:thumbnail url="https://majordigest.com/us/2023/08/30/chicago-fop-president-slams-migrant-conditions-at-police-stations/chicago-fop-president-slams-migrant-conditions-at-police-stations.webp"/>
-        <dc:creator>Eli Ong, NewsNation</dc:creator>
+        <dc:creator>Tara Suter, Fox 5</dc:creator>
       </item>
       <item>
         <title>US questions Tesla move to allow hands-free driving longer with Autopilot</title>
@@ -327,39 +371,6 @@
         <dc:creator>The Associated Press, Fox 5</dc:creator>
       </item>
       <item>
-        <title>Extra big, bright supermoon to light up Michigan skies Wednesday night</title>
-        <description><![CDATA[It won’t literally be blue, but it’s going to be bright: The second supermoon this month will be visible in Michigan’s skies on Wednesday night.]]></description>
-        <guid>https://majordigest.com/us/2023/08/30/extra-big-bright-supermoon-to-light-up-michigan-skies-wednesday-night/</guid>
-        <link>https://majordigest.com/us/2023/08/30/extra-big-bright-supermoon-to-light-up-michigan-skies-wednesday-night/</link>
-        <pubDate>Wed, 30 Aug 2023 12:33:18 +0000</pubDate>
-        <category>us</category>
-        <media:content medium="image" url="https://majordigest.com/us/2023/08/30/extra-big-bright-supermoon-to-light-up-michigan-skies-wednesday-night/extra-big-bright-supermoon-to-light-up-michigan-skies-wednesday-night.webp"/>
-        <media:thumbnail url="https://majordigest.com/us/2023/08/30/extra-big-bright-supermoon-to-light-up-michigan-skies-wednesday-night/extra-big-bright-supermoon-to-light-up-michigan-skies-wednesday-night.webp"/>
-        <dc:creator>Cassidy Johncox, Local 4</dc:creator>
-      </item>
-      <item>
-        <title>Turbulence&#160;during Delta flight bound for Atlanta sends 11 to hospital</title>
-        <description><![CDATA[Eleven people on a Delta Air Lines flight were taken to the hospital on Tuesday after the plane hit turbulence while heading to Atlanta, officials said.]]></description>
-        <guid>https://majordigest.com/us/2023/08/30/turbulence-during-delta-flight-bound-for-atlanta-sends-11-to-hospital/</guid>
-        <link>https://majordigest.com/us/2023/08/30/turbulence-during-delta-flight-bound-for-atlanta-sends-11-to-hospital/</link>
-        <pubDate>Wed, 30 Aug 2023 11:11:08 +0000</pubDate>
-        <category>us</category>
-        <media:content medium="image" url="https://majordigest.com/us/2023/08/30/turbulence-during-delta-flight-bound-for-atlanta-sends-11-to-hospital/turbulence-during-delta-flight-bound-for-atlanta-sends-11-to-hospital.webp"/>
-        <media:thumbnail url="https://majordigest.com/us/2023/08/30/turbulence-during-delta-flight-bound-for-atlanta-sends-11-to-hospital/turbulence-during-delta-flight-bound-for-atlanta-sends-11-to-hospital.webp"/>
-        <dc:creator>The Associated Press, Fox 5</dc:creator>
-      </item>
-      <item>
-        <title>Climate anxiety on the rise as heat, disasters provoke fear</title>
-        <description><![CDATA[Story at a glance Britt Wray’s fears about a warming planet came to a head in 2017 when she and her partner first talked about having a baby.]]></description>
-        <guid>https://majordigest.com/us/2023/08/30/climate-anxiety-on-the-rise-as-heat-disasters-provoke-fear/</guid>
-        <link>https://majordigest.com/us/2023/08/30/climate-anxiety-on-the-rise-as-heat-disasters-provoke-fear/</link>
-        <pubDate>Wed, 30 Aug 2023 10:00:00 +0000</pubDate>
-        <category>us</category>
-        <media:content medium="image" url="https://majordigest.com/us/2023/08/30/climate-anxiety-on-the-rise-as-heat-disasters-provoke-fear/climate-anxiety-on-the-rise-as-heat-disasters-provoke-fear.webp"/>
-        <media:thumbnail url="https://majordigest.com/us/2023/08/30/climate-anxiety-on-the-rise-as-heat-disasters-provoke-fear/climate-anxiety-on-the-rise-as-heat-disasters-provoke-fear.webp"/>
-        <dc:creator>Alejandra O'Connell-Domenech, The Hill</dc:creator>
-      </item>
-      <item>
         <title>Live updates: Hurricane Idalia causes flooding, power outages, damage in Florida, Georgia</title>
         <description><![CDATA[Hurricane Idalia made landfall in Florida at Category 3 strength, and it’s expected to cause “catastrophic storm surge inundation,” experts said.]]></description>
         <guid>https://majordigest.com/us/2023/08/30/live-updates-hurricane-idalia-expected-to-hit-florida-at-category-4-strength/</guid>
@@ -371,15 +382,26 @@
         <dc:creator>Derick Hutchinson, Local 4</dc:creator>
       </item>
       <item>
-        <title>Massive alligator 'patiently&#160;waits' outside Dollar General</title>
-        <description><![CDATA[TAMPA, Fla. (WFLA) — An anxious alligator jumped the gun on storm preparations ahead of Hurricane Idalia's landfall in Florida. Deputies in Louisiana's Plaquemines Parish said "This little fella was patiently waiting for the Dollar General to open this morning.]]></description>
-        <guid>https://majordigest.com/us/2023/08/30/massive-alligator-patiently-waits-outside-dollar-general/</guid>
-        <link>https://majordigest.com/us/2023/08/30/massive-alligator-patiently-waits-outside-dollar-general/</link>
-        <pubDate>Wed, 30 Aug 2023 03:28:55 +0000</pubDate>
+        <title>11 taken to hospital as Delta jetliner hits turbulence near Atlanta airport</title>
+        <description><![CDATA[ATLANTA (AP) — Eleven people on a Delta Air Lines flight were taken to the hospital on Tuesday after the plane hit turbulence while heading to Atlanta, officials said.]]></description>
+        <guid>https://majordigest.com/us/2023/08/30/11-taken-to-hospital-as-delta-jetliner-hits-turbulence-near-atlanta-airport/</guid>
+        <link>https://majordigest.com/us/2023/08/30/11-taken-to-hospital-as-delta-jetliner-hits-turbulence-near-atlanta-airport/</link>
+        <pubDate>Wed, 30 Aug 2023 09:37:21 +0000</pubDate>
         <category>us</category>
-        <media:content medium="image" url="https://majordigest.com/us/2023/08/30/massive-alligator-patiently-waits-outside-dollar-general/massive-alligator-patiently-waits-outside-dollar-general.webp"/>
-        <media:thumbnail url="https://majordigest.com/us/2023/08/30/massive-alligator-patiently-waits-outside-dollar-general/massive-alligator-patiently-waits-outside-dollar-general.webp"/>
-        <dc:creator>Dylan Abad, WFLA, NBC</dc:creator>
+        <media:content medium="image" url="https://majordigest.com/us/2023/08/30/11-taken-to-hospital-as-delta-jetliner-hits-turbulence-near-atlanta-airport/11-taken-to-hospital-as-delta-jetliner-hits-turbulence-near-atlanta-airport.webp"/>
+        <media:thumbnail url="https://majordigest.com/us/2023/08/30/11-taken-to-hospital-as-delta-jetliner-hits-turbulence-near-atlanta-airport/11-taken-to-hospital-as-delta-jetliner-hits-turbulence-near-atlanta-airport.webp"/>
+        <dc:creator>The Associated Press, WFLA, NBC</dc:creator>
+      </item>
+      <item>
+        <title>Who is behind Flannery Associates, the mystery California land buyers?</title>
+        <description><![CDATA[Legal representation for Flannery has maintained the group is controlled by U.S. citizens, with 97% of its capital coming from U.S.-based investors.]]></description>
+        <guid>https://majordigest.com/us/2023/08/30/who-is-behind-flannery-associates-the-mystery-california-land-buyers/</guid>
+        <link>https://majordigest.com/us/2023/08/30/who-is-behind-flannery-associates-the-mystery-california-land-buyers/</link>
+        <pubDate>Wed, 30 Aug 2023 02:32:26 +0000</pubDate>
+        <category>us</category>
+        <media:content medium="image" url="https://majordigest.com/us/2023/08/30/who-is-behind-flannery-associates-the-mystery-california-land-buyers/who-is-behind-flannery-associates-the-mystery-california-land-buyers.webp"/>
+        <media:thumbnail url="https://majordigest.com/us/2023/08/30/who-is-behind-flannery-associates-the-mystery-california-land-buyers/who-is-behind-flannery-associates-the-mystery-california-land-buyers.webp"/>
+        <dc:creator>Emily Finn, WGN 9</dc:creator>
       </item>
       <item>
         <title>Canada warns residents visiting US about anti-LGBTQ laws</title>
@@ -391,28 +413,6 @@
         <media:content medium="image" url="https://majordigest.com/us/2023/08/30/canada-warns-residents-visiting-us-about-anti-lgbtq-laws/canada-warns-residents-visiting-us-about-anti-lgbtq-laws.webp"/>
         <media:thumbnail url="https://majordigest.com/us/2023/08/30/canada-warns-residents-visiting-us-about-anti-lgbtq-laws/canada-warns-residents-visiting-us-about-anti-lgbtq-laws.webp"/>
         <dc:creator>Brooke Migdon, WFLA, NBC</dc:creator>
-      </item>
-      <item>
-        <title>Watch: Police cruiser slams into store</title>
-        <description><![CDATA[“I saw the police cruiser in the parking lot and thought, wow, they got here fast,” store owner Jatin Popat said.]]></description>
-        <guid>https://majordigest.com/us/2023/08/29/watch-ohio-police-cruiser-slams-into-store/</guid>
-        <link>https://majordigest.com/us/2023/08/29/watch-ohio-police-cruiser-slams-into-store/</link>
-        <pubDate>Tue, 29 Aug 2023 23:19:43 +0000</pubDate>
-        <category>us</category>
-        <media:content medium="image" url="https://majordigest.com/us/2023/08/29/watch-ohio-police-cruiser-slams-into-store/watch-ohio-police-cruiser-slams-into-store.webp"/>
-        <media:thumbnail url="https://majordigest.com/us/2023/08/29/watch-ohio-police-cruiser-slams-into-store/watch-ohio-police-cruiser-slams-into-store.webp"/>
-        <dc:creator>Peggy Gallek, WFLA, NBC</dc:creator>
-      </item>
-      <item>
-        <title>What makes Idalia so potent? It's feeding on intensely warm water that acts like rocket fuel</title>
-        <description><![CDATA[Feeding on some of the hottest water on the planet, Hurricane Idalia is rapidly strengthening as it bears down on Florida.]]></description>
-        <guid>https://majordigest.com/us/2023/08/29/what-makes-idalia-so-potent-its-feeding-on-intensely-warm-water-that-acts-like-rocket-fuel/</guid>
-        <link>https://majordigest.com/us/2023/08/29/what-makes-idalia-so-potent-its-feeding-on-intensely-warm-water-that-acts-like-rocket-fuel/</link>
-        <pubDate>Tue, 29 Aug 2023 21:36:30 +0000</pubDate>
-        <category>us</category>
-        <media:content medium="image" url="https://majordigest.com/us/2023/08/29/what-makes-idalia-so-potent-its-feeding-on-intensely-warm-water-that-acts-like-rocket-fuel/what-makes-idalia-so-potent-its-feeding-on-intensely-warm-water-that-acts-like-rocket-fuel.webp"/>
-        <media:thumbnail url="https://majordigest.com/us/2023/08/29/what-makes-idalia-so-potent-its-feeding-on-intensely-warm-water-that-acts-like-rocket-fuel/what-makes-idalia-so-potent-its-feeding-on-intensely-warm-water-that-acts-like-rocket-fuel.webp"/>
-        <dc:creator>Seth Borenstein, Associated Press, KPRC 2</dc:creator>
       </item>
       <item>
         <title>Why some homeowners are dropping their insurance</title>
