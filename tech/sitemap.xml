@@ -3,6 +3,34 @@
               xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
               xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
       <url>
+        <loc>https://majordigest.com/tech/2023/08/30/typhoon-saola-strengthens-as-it-passes-taiwan-on-its-way-to-china/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-30T04:36:15.000Z</news:publication_date>
+          <news:title>Typhoon Saola strengthens as it passes Taiwan on its way to China</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/tech/2023/08/30/typhoon-saola-strengthens-as-it-passes-taiwan-on-its-way-to-china/typhoon-saola-strengthens-as-it-passes-taiwan-on-its-way-to-china.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/tech/2023/08/30/amazon-ceo-says-its-probably-not-going-work-out-for-employees-who-defy-return-to-office-policy/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-30T01:22:08.000Z</news:publication_date>
+          <news:title>Amazon CEO says 'it&#8217;s probably not going work out' for employees who defy return-to-office policy</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/tech/2023/08/30/amazon-ceo-says-its-probably-not-going-work-out-for-employees-who-defy-return-to-office-policy/amazon-ceo-says-its-probably-not-going-work-out-for-employees-who-defy-return-to-office-policy.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
         <loc>https://majordigest.com/tech/2023/08/30/amazon-ceo-says-its-probably-not-going-work-out-for-employees-who-defy-return-to-office-policy/</loc>
         <news:news>
           <news:publication>
@@ -227,20 +255,6 @@
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/tech/2023/08/29/opinion-adding-hydrogen-energy-to-california-gas-systems-too-risky/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-29T12:00:31.000Z</news:publication_date>
-          <news:title>Opinion: Adding hydrogen energy to California gas systems too risky</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/tech/2023/08/29/opinion-adding-hydrogen-energy-to-california-gas-systems-too-risky/opinion-adding-hydrogen-energy-to-california-gas-systems-too-risky.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
         <loc>https://majordigest.com/tech/2023/08/29/neurosurgeon-investigating-patients-mystery-symptoms-plucks-a-worm-from-womans-brain-in-australia/</loc>
         <news:news>
           <news:publication>
@@ -378,20 +392,6 @@
         </news:news>
         <image:image>
           <image:loc>https://majordigest.com/tech/2023/08/26/broadband-subsidy-program-that-millions-use-will-expire-next-year-if-congress-doesnt-act/broadband-subsidy-program-that-millions-use-will-expire-next-year-if-congress-doesnt-act.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/tech/2023/08/26/a-broad-genetic-test-saved-one-newborns-life-research-suggests-it-could-help-millions-of-others/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-26T11:44:30.000Z</news:publication_date>
-          <news:title>A broad genetic test saved one newborn's life. Research suggests it could help millions of others</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/tech/2023/08/26/a-broad-genetic-test-saved-one-newborns-life-research-suggests-it-could-help-millions-of-others/a-broad-genetic-test-saved-one-newborns-life-research-suggests-it-could-help-millions-of-others.webp</image:loc>
         </image:image>
       </url>
       <url>
