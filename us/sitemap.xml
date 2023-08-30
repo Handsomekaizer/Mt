@@ -3,6 +3,62 @@
               xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
               xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
       <url>
+        <loc>https://majordigest.com/us/2023/08/30/gabon-military-officers-say-theyre-seizing-power-just-days-after-the-presidential-election/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-30T09:59:49.000Z</news:publication_date>
+          <news:title>Mutinous soldiers in Gabon say they've ousted president whose family has ruled for 55 years</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/us/2023/08/30/gabon-military-officers-say-theyre-seizing-power-just-days-after-the-presidential-election/gabon-military-officers-say-theyre-seizing-power-just-days-after-the-presidential-election.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/us/2023/08/30/idalia-predicted-to-hit-florida-as-category-4-hurricane-with-catastrophic-storm-surge/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-30T09:55:30.000Z</news:publication_date>
+          <news:title>Idalia projected to hit Florida as Category 4 hurricane with 'catastrophic' storm surge</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/us/2023/08/30/idalia-predicted-to-hit-florida-as-category-4-hurricane-with-catastrophic-storm-surge/idalia-predicted-to-hit-florida-as-category-4-hurricane-with-catastrophic-storm-surge.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/us/2023/08/30/11-taken-to-hospital-as-delta-jetliner-hits-turbulence-near-atlanta-airport/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-30T09:37:21.000Z</news:publication_date>
+          <news:title>11 taken to hospital as Delta jetliner hits turbulence near Atlanta airport</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/us/2023/08/30/11-taken-to-hospital-as-delta-jetliner-hits-turbulence-near-atlanta-airport/11-taken-to-hospital-as-delta-jetliner-hits-turbulence-near-atlanta-airport.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/us/2023/08/30/pope-heads-to-mongolia-to-minister-to-its-few-catholics-and-complete-centuries-old-east-west-mission/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-30T09:28:42.000Z</news:publication_date>
+          <news:title>Pope heads to Mongolia to minister to its few Catholics and complete centuries-old East-West mission</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/us/2023/08/30/pope-heads-to-mongolia-to-minister-to-its-few-catholics-and-complete-centuries-old-east-west-mission/pope-heads-to-mongolia-to-minister-to-its-few-catholics-and-complete-centuries-old-east-west-mission.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
         <loc>https://majordigest.com/us/2023/08/30/britains-top-diplomat-visits-china-for-the-first-time-in-5-years-hoping-to-stabilize-ties/</loc>
         <news:news>
           <news:publication>
@@ -28,34 +84,6 @@
         </news:news>
         <image:image>
           <image:loc>https://majordigest.com/us/2023/08/30/drones-targeted-5-regions-in-biggest-attack-on-russian-soil-in-18-months-defense-ministry-says/drones-targeted-5-regions-in-biggest-attack-on-russian-soil-in-18-months-defense-ministry-says.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/us/2023/08/30/pakistans-imran-khan-will-be-imprisoned-for-2-more-weeks-despite-getting-bail/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-30T08:38:02.000Z</news:publication_date>
-          <news:title>Pakistan's Imran Khan will be imprisoned for 2 more weeks despite getting bail</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/us/2023/08/30/pakistans-imran-khan-will-be-imprisoned-for-2-more-weeks-despite-getting-bail/pakistans-imran-khan-will-be-imprisoned-for-2-more-weeks-despite-getting-bail.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/us/2023/08/30/idalia-predicted-to-hit-florida-as-category-4-hurricane-with-catastrophic-storm-surge/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-30T08:08:47.000Z</news:publication_date>
-          <news:title>Idalia projected to hit Florida as Category 4 hurricane with 'catastrophic' storm surge</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/us/2023/08/30/idalia-predicted-to-hit-florida-as-category-4-hurricane-with-catastrophic-storm-surge/idalia-predicted-to-hit-florida-as-category-4-hurricane-with-catastrophic-storm-surge.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -101,20 +129,6 @@
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/us/2023/08/30/add-physical-fitness-section-to-the-sat-ramaswamy-says/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-30T03:50:44.000Z</news:publication_date>
-          <news:title>Add physical fitness section to the SAT, Ramaswamy says</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/us/2023/08/30/add-physical-fitness-section-to-the-sat-ramaswamy-says/add-physical-fitness-section-to-the-sat-ramaswamy-says.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
         <loc>https://majordigest.com/us/2023/08/30/veteran-dying-dog-sapphire-george-santos-con/</loc>
         <news:news>
           <news:publication>
@@ -126,6 +140,20 @@
         </news:news>
         <image:image>
           <image:loc>https://majordigest.com/us/2023/08/30/veteran-dying-dog-sapphire-george-santos-con/veteran-dying-dog-sapphire-george-santos-con.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/us/2023/08/30/suspects-motive-unclear-in-campus-shooting-that-killed-1-at-unc-chapel-hill-police-say/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-30T03:30:21.000Z</news:publication_date>
+          <news:title>University of North Carolina graduate student left building right after killing adviser, police say</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/us/2023/08/30/suspects-motive-unclear-in-campus-shooting-that-killed-1-at-unc-chapel-hill-police-say/suspects-motive-unclear-in-campus-shooting-that-killed-1-at-unc-chapel-hill-police-say.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -143,20 +171,6 @@
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/us/2023/08/30/who-is-behind-flannery-associates-the-mystery-california-land-buyers/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-30T02:34:02.000Z</news:publication_date>
-          <news:title>Who is behind Flannery Associates, the mystery California land buyers?</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/us/2023/08/30/who-is-behind-flannery-associates-the-mystery-california-land-buyers/who-is-behind-flannery-associates-the-mystery-california-land-buyers.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
         <loc>https://majordigest.com/us/2023/08/30/new-york-man-accused-brutally-beating-urinating-unresponsive-housemate-indicted-murder/</loc>
         <news:news>
           <news:publication>
@@ -168,20 +182,6 @@
         </news:news>
         <image:image>
           <image:loc>https://majordigest.com/us/2023/08/30/new-york-man-accused-brutally-beating-urinating-unresponsive-housemate-indicted-murder/new-york-man-accused-brutally-beating-urinating-unresponsive-housemate-indicted-murder.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/us/2023/08/30/fighting-in-eastern-syria-between-us-backed-fighters-and-arab-tribesmen-kills-10/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-30T01:21:40.000Z</news:publication_date>
-          <news:title>Fighting in eastern Syria between US-backed fighters and Arab tribesmen kills 10</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/us/2023/08/30/fighting-in-eastern-syria-between-us-backed-fighters-and-arab-tribesmen-kills-10/fighting-in-eastern-syria-between-us-backed-fighters-and-arab-tribesmen-kills-10.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -227,6 +227,20 @@
         </image:image>
       </url>
       <url>
+        <loc>https://majordigest.com/us/2023/08/30/new-jersey-child-removed-house-30-dead-dogs-found-suspects-arrested-police/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-30T00:30:04.000Z</news:publication_date>
+          <news:title>New Jersey child removed from house where 30 dead dogs were found, suspects arrested: police</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/us/2023/08/30/new-jersey-child-removed-house-30-dead-dogs-found-suspects-arrested-police/new-jersey-child-removed-house-30-dead-dogs-found-suspects-arrested-police.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
         <loc>https://majordigest.com/us/2023/08/30/eye-drop-recall-grows-after-fda-warning-reports-of-adverse-events/</loc>
         <news:news>
           <news:publication>
@@ -238,6 +252,20 @@
         </news:news>
         <image:image>
           <image:loc>https://majordigest.com/us/2023/08/30/eye-drop-recall-grows-after-fda-warning-reports-of-adverse-events/eye-drop-recall-grows-after-fda-warning-reports-of-adverse-events.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/us/2023/08/30/canada-warns-residents-visiting-us-about-anti-lgbtq-laws/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-30T00:11:21.000Z</news:publication_date>
+          <news:title>Canada warns residents visiting US about anti-LGBTQ laws</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/us/2023/08/30/canada-warns-residents-visiting-us-about-anti-lgbtq-laws/canada-warns-residents-visiting-us-about-anti-lgbtq-laws.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -283,20 +311,6 @@
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/us/2023/08/29/backstreet-boys-singer-nick-carter-accused-of-sexually-assaulting-15-year-old-on-yacht-lawsuit/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-29T23:32:05.000Z</news:publication_date>
-          <news:title>Backstreet Boys singer Nick Carter accused of sexually assaulting 15-year-old on yacht: lawsuit</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/us/2023/08/29/backstreet-boys-singer-nick-carter-accused-of-sexually-assaulting-15-year-old-on-yacht-lawsuit/backstreet-boys-singer-nick-carter-accused-of-sexually-assaulting-15-year-old-on-yacht-lawsuit.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
         <loc>https://majordigest.com/us/2023/08/29/supermoon-could-team-up-with-hurricane-idalia-to-raise-tides-higher-just-as-the-storm-makes-landfall/</loc>
         <news:news>
           <news:publication>
@@ -325,17 +339,17 @@
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/us/2023/08/29/a-judge-told-kansas-authorities-to-destroy-electronic-copies-of-newspapers-files-taken-during-raid/</loc>
+        <loc>https://majordigest.com/us/2023/08/29/bodies-of-3-us-marines-killed-in-australian-aircraft-crash-retrieved-from-crash-site/</loc>
         <news:news>
           <news:publication>
             <news:name>Major Digest</news:name>
             <news:language>en</news:language>
           </news:publication>
-          <news:publication_date>2023-08-29T23:06:57.000Z</news:publication_date>
-          <news:title>A judge told Kansas authorities to destroy electronic copies of newspaper's files taken during raid</news:title>
+          <news:publication_date>2023-08-29T22:33:48.000Z</news:publication_date>
+          <news:title>Bodies of 3 US Marines killed in Australian aircraft crash retrieved from crash site</news:title>
         </news:news>
         <image:image>
-          <image:loc>https://majordigest.com/us/2023/08/29/a-judge-told-kansas-authorities-to-destroy-electronic-copies-of-newspapers-files-taken-during-raid/a-judge-told-kansas-authorities-to-destroy-electronic-copies-of-newspapers-files-taken-during-raid.webp</image:loc>
+          <image:loc>https://majordigest.com/us/2023/08/29/bodies-of-3-us-marines-killed-in-australian-aircraft-crash-retrieved-from-crash-site/bodies-of-3-us-marines-killed-in-australian-aircraft-crash-retrieved-from-crash-site.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -367,31 +381,31 @@
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/us/2023/08/29/3m-agrees-to-pay-6-billion-to-settle-earplug-lawsuits-from-service-members/</loc>
+        <loc>https://majordigest.com/us/2023/08/29/3m-agrees-to-pay-6-billion-to-settle-earplug-lawsuits-from-u-s-service-members/</loc>
         <news:news>
           <news:publication>
             <news:name>Major Digest</news:name>
             <news:language>en</news:language>
           </news:publication>
-          <news:publication_date>2023-08-29T20:40:28.000Z</news:publication_date>
+          <news:publication_date>2023-08-29T20:38:57.000Z</news:publication_date>
           <news:title>3M agrees to pay $6 billion to settle earplug lawsuits from service members</news:title>
         </news:news>
         <image:image>
-          <image:loc>https://majordigest.com/us/2023/08/29/3m-agrees-to-pay-6-billion-to-settle-earplug-lawsuits-from-service-members/3m-agrees-to-pay-6-billion-to-settle-earplug-lawsuits-from-service-members.webp</image:loc>
+          <image:loc>https://majordigest.com/us/2023/08/29/3m-agrees-to-pay-6-billion-to-settle-earplug-lawsuits-from-u-s-service-members/3m-agrees-to-pay-6-billion-to-settle-earplug-lawsuits-from-u-s-service-members.webp</image:loc>
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/us/2023/08/29/louisiana-plagued-by-unprecedented-wildfires-as-largest-active-blaze-grows/</loc>
+        <loc>https://majordigest.com/us/2023/08/29/cause-of-house-explosion-that-killed-nfl-player-caleb-farleys-father-released/</loc>
         <news:news>
           <news:publication>
             <news:name>Major Digest</news:name>
             <news:language>en</news:language>
           </news:publication>
-          <news:publication_date>2023-08-29T20:25:34.000Z</news:publication_date>
-          <news:title>Louisiana plagued by unprecedented wildfires, as largest active blaze grows</news:title>
+          <news:publication_date>2023-08-29T20:12:58.000Z</news:publication_date>
+          <news:title>Cause of house explosion that killed NFL player Caleb Farley's father released</news:title>
         </news:news>
         <image:image>
-          <image:loc>https://majordigest.com/us/2023/08/29/louisiana-plagued-by-unprecedented-wildfires-as-largest-active-blaze-grows/louisiana-plagued-by-unprecedented-wildfires-as-largest-active-blaze-grows.webp</image:loc>
+          <image:loc>https://majordigest.com/us/2023/08/29/cause-of-house-explosion-that-killed-nfl-player-caleb-farleys-father-released/cause-of-house-explosion-that-killed-nfl-player-caleb-farleys-father-released.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -420,6 +434,20 @@
         </news:news>
         <image:image>
           <image:loc>https://majordigest.com/us/2023/08/29/rare-blue-supermoon-with-saturn-in-tow-to-put-on-show-this-week-how-to-watch/rare-blue-supermoon-with-saturn-in-tow-to-put-on-show-this-week-how-to-watch.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/us/2023/08/29/suits-creator-reveals-the-word-buckingham-palace-didnt-want-meghan-markle-to-say/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-29T18:51:21.000Z</news:publication_date>
+          <news:title>'Suits' creator reveals the word Buckingham Palace didn't want Meghan Markle to say</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/us/2023/08/29/suits-creator-reveals-the-word-buckingham-palace-didnt-want-meghan-markle-to-say/suits-creator-reveals-the-word-buckingham-palace-didnt-want-meghan-markle-to-say.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -465,34 +493,6 @@
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/us/2023/08/29/live-updates-hurricane-idalia-hurtles-toward-florida/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-29T15:11:06.000Z</news:publication_date>
-          <news:title>Live updates: Hurricane Idalia intensifying en route to Florida; 15-foot storm surge possible</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/us/2023/08/29/live-updates-hurricane-idalia-hurtles-toward-florida/live-updates-hurricane-idalia-hurtles-toward-florida.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/us/2023/08/29/why-some-homeowners-are-dropping-their-insurance/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-29T14:27:40.000Z</news:publication_date>
-          <news:title>Why some homeowners are dropping their insurance</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/us/2023/08/29/why-some-homeowners-are-dropping-their-insurance/why-some-homeowners-are-dropping-their-insurance.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
         <loc>https://majordigest.com/us/2023/08/28/fight-over-mcdonalds-sauce-led-to-death-of-teenager-in-dc-police-say/</loc>
         <news:news>
           <news:publication>
@@ -507,16 +507,16 @@
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/us/2023/08/28/biden-says-action-needed-against-hate-fueled-violence-after-racist-shooting-in-florida/</loc>
+        <loc>https://majordigest.com/us/2023/08/28/eminem-wants-ramaswamy-to-stop-using-his-music-on-the-campaign-trail/</loc>
         <news:news>
           <news:publication>
             <news:name>Major Digest</news:name>
             <news:language>en</news:language>
           </news:publication>
-          <news:publication_date>2023-08-28T21:16:49.000Z</news:publication_date>
-          <news:title>Biden says action needed against 'hate-fueled violence' after racist shooting in Florida</news:title>
+          <news:publication_date>2023-08-28T22:17:28.000Z</news:publication_date>
+          <news:title>Eminem wants Ramaswamy to stop using his music on the campaign trail</news:title>
         </news:news>
         <image:image>
-          <image:loc>https://majordigest.com/us/2023/08/28/biden-says-action-needed-against-hate-fueled-violence-after-racist-shooting-in-florida/biden-says-action-needed-against-hate-fueled-violence-after-racist-shooting-in-florida.webp</image:loc>
+          <image:loc>https://majordigest.com/us/2023/08/28/eminem-wants-ramaswamy-to-stop-using-his-music-on-the-campaign-trail/eminem-wants-ramaswamy-to-stop-using-his-music-on-the-campaign-trail.webp</image:loc>
         </image:image>
       </url></urlset>
