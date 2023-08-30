@@ -7,7 +7,7 @@
         <title>Major Digest - Reliable and Comprehensive News Sources: tech</title>
         <description>Get the latest news online at Major Digest, the top online news resource for the most reliable news sources. Stay informed about the world around you!</description>
         <link>https://majordigest.com/?utm_medium=RSS</link>
-        <lastBuildDate>Wed, 30 Aug 2023 10:19:47 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 30 Aug 2023 11:16:24 GMT</lastBuildDate>
         <generator>https://majordigest.com/?v=1.1.4</generator>
         <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/" />
         <atom:link rel="self" href="https://majordigest.com/tech/feed.xml" type="application/rss+xml" />
@@ -18,6 +18,17 @@
           <url>https://majordigest.com/assets/icons/logo-512x512.png</url>
           <link>https://majordigest.com/?utm_medium=RSS</link>
         </image>
+      <item>
+        <title>Qakbot: Feds take down malware botnet that infected 200,000 U.S. computers</title>
+        <description><![CDATA[Federal authorities said they also seized nearly $9 million in cryptocurrency collected illegally as ransom payments through the robot network.]]></description>
+        <guid>https://majordigest.com/tech/2023/08/30/u-s-takes-down-rogue-robot-network-that-infected-200000-computers/</guid>
+        <link>https://majordigest.com/tech/2023/08/30/u-s-takes-down-rogue-robot-network-that-infected-200000-computers/</link>
+        <pubDate>Wed, 30 Aug 2023 10:32:50 +0000</pubDate>
+        <category>tech</category>
+        <media:content medium="image" url="https://majordigest.com/tech/2023/08/30/u-s-takes-down-rogue-robot-network-that-infected-200000-computers/u-s-takes-down-rogue-robot-network-that-infected-200000-computers.webp"/>
+        <media:thumbnail url="https://majordigest.com/tech/2023/08/30/u-s-takes-down-rogue-robot-network-that-infected-200000-computers/u-s-takes-down-rogue-robot-network-that-infected-200000-computers.webp"/>
+        <dc:creator>Nathaniel Percy, The Mercury News</dc:creator>
+      </item>
       <item>
         <title>Amazon CEO says 'it&#8217;s probably not going to work out' for employees who defy return-to-office policy</title>
         <description><![CDATA[NEW YORK (AP) — Amazon employees have been pushing back against the company’s return-to-office policy for months — and it seems CEO Andy Jassy has had enough.]]></description>
@@ -85,6 +96,17 @@
         <dc:creator>Fox News</dc:creator>
       </item>
       <item>
+        <title>Ask Kurt: Maxed out your Apple iCloud storage?</title>
+        <description><![CDATA[If you&apos;ve ran out of iCloud storage, there are a number of alternatives, including basic external hard drives as well as Dropbox and Google One subscriptions.]]></description>
+        <guid>https://majordigest.com/tech/2023/08/29/ask-kurt-maxed-out-your-apple-icloud-storage/</guid>
+        <link>https://majordigest.com/tech/2023/08/29/ask-kurt-maxed-out-your-apple-icloud-storage/</link>
+        <pubDate>Tue, 29 Aug 2023 15:33:11 EDT</pubDate>
+        <category>tech</category>
+        <media:content medium="image" url="https://majordigest.com/tech/2023/08/29/ask-kurt-maxed-out-your-apple-icloud-storage/ask-kurt-maxed-out-your-apple-icloud-storage.webp"/>
+        <media:thumbnail url="https://majordigest.com/tech/2023/08/29/ask-kurt-maxed-out-your-apple-icloud-storage/ask-kurt-maxed-out-your-apple-icloud-storage.webp"/>
+        <dc:creator>Fox News</dc:creator>
+      </item>
+      <item>
         <title>India's moon rover confirms sulfur and detects several other elements near the lunar south pole</title>
         <description><![CDATA[India’s moon rover has confirmed the presence of sulfur and detected several other elements on the surface near the lunar south pole a week after the country’s historic moon landing.]]></description>
         <guid>https://majordigest.com/tech/2023/08/29/indias-moon-rover-confirms-sulfur-and-detects-several-other-elements-near-the-lunar-south-pole/</guid>
@@ -94,17 +116,6 @@
         <media:content medium="image" url="https://majordigest.com/tech/2023/08/29/indias-moon-rover-confirms-sulfur-and-detects-several-other-elements-near-the-lunar-south-pole/indias-moon-rover-confirms-sulfur-and-detects-several-other-elements-near-the-lunar-south-pole.webp"/>
         <media:thumbnail url="https://majordigest.com/tech/2023/08/29/indias-moon-rover-confirms-sulfur-and-detects-several-other-elements-near-the-lunar-south-pole/indias-moon-rover-confirms-sulfur-and-detects-several-other-elements-near-the-lunar-south-pole.webp"/>
         <dc:creator>Ashok Sharma, Associated Press, KPRC 2</dc:creator>
-      </item>
-      <item>
-        <title>X to allow political ads for the first time since 2019</title>
-        <description><![CDATA[X, the platform formerly known as Twitter, will allow political ads heading into the 2024 election cycle for the first time since 2019, the company announced Tuesday.]]></description>
-        <guid>https://majordigest.com/tech/2023/08/29/x-to-allow-political-ads-for-the-first-time-since-2019/</guid>
-        <link>https://majordigest.com/tech/2023/08/29/x-to-allow-political-ads-for-the-first-time-since-2019/</link>
-        <pubDate>Tue, 29 Aug 2023 17:57:46 +0000</pubDate>
-        <category>tech</category>
-        <media:content medium="image" url="https://majordigest.com/tech/2023/08/29/x-to-allow-political-ads-for-the-first-time-since-2019/x-to-allow-political-ads-for-the-first-time-since-2019.webp"/>
-        <media:thumbnail url="https://majordigest.com/tech/2023/08/29/x-to-allow-political-ads-for-the-first-time-since-2019/x-to-allow-political-ads-for-the-first-time-since-2019.webp"/>
-        <dc:creator>Rebecca Klar, The Hill</dc:creator>
       </item>
       <item>
         <title>X to allow political ads for the first time since 2019</title>
@@ -251,17 +262,6 @@ Andy Jassy reportedely told employees.]]></description>
         <dc:creator>Andrew Dorn, NewsNation</dc:creator>
       </item>
       <item>
-        <title>Which car is cheaper, electric or gas? It depends where you live</title>
-        <description><![CDATA[In July, new EVs sold for $53,469 on average — down almost 20% from June 2022 but still higher than the new car sales price overall.]]></description>
-        <guid>https://majordigest.com/tech/2023/08/28/car-cheaper-electric-gas/</guid>
-        <link>https://majordigest.com/tech/2023/08/28/car-cheaper-electric-gas/</link>
-        <pubDate>Mon, 28 Aug 2023 22:24:36 +0000</pubDate>
-        <category>tech</category>
-        <media:content medium="image" url="https://majordigest.com/tech/2023/08/28/car-cheaper-electric-gas/car-cheaper-electric-gas.webp"/>
-        <media:thumbnail url="https://majordigest.com/tech/2023/08/28/car-cheaper-electric-gas/car-cheaper-electric-gas.webp"/>
-        <dc:creator>Andrew Dorn, NewsNation</dc:creator>
-      </item>
-      <item>
         <title>Beware of this Mac malware masquerading as an office productivity app</title>
         <description><![CDATA[Malware is always lurking around the corner. Kurt &quot;CyberGuy&quot; Knutsson explains how this malware is disguised and what you can do to keep your data safe.]]></description>
         <guid>https://majordigest.com/tech/2023/08/28/beware-mac-malware-masquerading-office-productivity-app/</guid>
@@ -304,17 +304,6 @@ Andy Jassy reportedely told employees.]]></description>
         <media:content medium="image" url="https://majordigest.com/tech/2023/08/28/how-to-use-google-results-about-you-privacy-remove-personal-data/how-to-use-google-results-about-you-privacy-remove-personal-data.webp"/>
         <media:thumbnail url="https://majordigest.com/tech/2023/08/28/how-to-use-google-results-about-you-privacy-remove-personal-data/how-to-use-google-results-about-you-privacy-remove-personal-data.webp"/>
         <dc:creator>Rich DeMuro, KTLA 5</dc:creator>
-      </item>
-      <item>
-        <title>Bay Area software CEO pleads guilty to tax, pandemic relief fraud</title>
-        <description><![CDATA[Some of the CEO's employees were subjected to IRS audits, authorities said, because the income they reported did not line up with the pay information the company gave to the government.]]></description>
-        <guid>https://majordigest.com/tech/2023/08/26/bay-area-software-ceo-pleads-guilty-to-tax-pandemic-relief-fraud/</guid>
-        <link>https://majordigest.com/tech/2023/08/26/bay-area-software-ceo-pleads-guilty-to-tax-pandemic-relief-fraud/</link>
-        <pubDate>Sat, 26 Aug 2023 20:32:15 +0000</pubDate>
-        <category>tech</category>
-        <media:content medium="image" url="https://majordigest.com/tech/2023/08/26/bay-area-software-ceo-pleads-guilty-to-tax-pandemic-relief-fraud/bay-area-software-ceo-pleads-guilty-to-tax-pandemic-relief-fraud.webp"/>
-        <media:thumbnail url="https://majordigest.com/tech/2023/08/26/bay-area-software-ceo-pleads-guilty-to-tax-pandemic-relief-fraud/bay-area-software-ceo-pleads-guilty-to-tax-pandemic-relief-fraud.webp"/>
-        <dc:creator>Will McCarthy, The Mercury News</dc:creator>
       </item>
       <item>
         <title>Broadband subsidy program that millions use will expire next year if Congress doesn&#8217;t act</title>
@@ -414,6 +403,17 @@ Andy Jassy reportedely told employees.]]></description>
         <media:content medium="image" url="https://majordigest.com/tech/2023/08/23/childrens-advocates-ask-ftc-to-investigate-google-for-targeting-ads-to-kids/childrens-advocates-ask-ftc-to-investigate-google-for-targeting-ads-to-kids.webp"/>
         <media:thumbnail url="https://majordigest.com/tech/2023/08/23/childrens-advocates-ask-ftc-to-investigate-google-for-targeting-ads-to-kids/childrens-advocates-ask-ftc-to-investigate-google-for-targeting-ads-to-kids.webp"/>
         <dc:creator>BARBARA ORTUTAY, Associated Press, KGET 17, NBC</dc:creator>
+      </item>
+      <item>
+        <title>Samsung Fold 5: Versatile, but with compromises</title>
+        <description><![CDATA[The Samsung Galaxy Z Fold 5 is multiple devices in one - a phone and a tablet. But if you want to join the flip side, it's not going to be cheap, and there are some compromises. It's hard not to appreciate what Samsung is doing with the Galaxy Z Fold 5.]]></description>
+        <guid>https://majordigest.com/tech/2023/08/23/samsung-fold-5-versatile-but-with-compromises/</guid>
+        <link>https://majordigest.com/tech/2023/08/23/samsung-fold-5-versatile-but-with-compromises/</link>
+        <pubDate>Wed, 23 Aug 2023 12:17:56 +0000</pubDate>
+        <category>tech</category>
+        <media:content medium="image" url="https://majordigest.com/tech/2023/08/23/samsung-fold-5-versatile-but-with-compromises/samsung-fold-5-versatile-but-with-compromises.webp"/>
+        <media:thumbnail url="https://majordigest.com/tech/2023/08/23/samsung-fold-5-versatile-but-with-compromises/samsung-fold-5-versatile-but-with-compromises.webp"/>
+        <dc:creator>Rich DeMuro, KTLA 5</dc:creator>
       </item>
       <item>
         <title>Samsung Fold 5: Versatile, but with compromises</title>
