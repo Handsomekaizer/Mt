@@ -3,6 +3,76 @@
               xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
               xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
       <url>
+        <loc>https://majordigest.com/tech/2023/08/30/gannett-to-pause-ai-experiment-after-botched-sports-stories/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-30T19:08:36.000Z</news:publication_date>
+          <news:title>Gannett to pause AI experiment after botched sports stories</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/tech/2023/08/30/gannett-to-pause-ai-experiment-after-botched-sports-stories/gannett-to-pause-ai-experiment-after-botched-sports-stories.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/tech/2023/08/30/home-cocktail-makers-aim-fire-local-bartender/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-30T19:02:55.000Z</news:publication_date>
+          <news:title>Home cocktail makers aim to fire the local bartender</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/tech/2023/08/30/home-cocktail-makers-aim-fire-local-bartender/home-cocktail-makers-aim-fire-local-bartender.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/tech/2023/08/30/home-cocktail-makers-aim-fire-local-bartender/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-30T19:02:55.000Z</news:publication_date>
+          <news:title>Home cocktail makers aim to fire the local bartender</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/tech/2023/08/30/home-cocktail-makers-aim-fire-local-bartender/home-cocktail-makers-aim-fire-local-bartender.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/tech/2023/08/30/indeed-is-offering-10000-to-trans-workers-who-want-to-relocate/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-30T18:35:48.000Z</news:publication_date>
+          <news:title>Indeed will pay $10,000 to help transgender workers relocate to states where they feel safer</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/tech/2023/08/30/indeed-is-offering-10000-to-trans-workers-who-want-to-relocate/indeed-is-offering-10000-to-trans-workers-who-want-to-relocate.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/tech/2023/08/30/review-the-monokei-standard-makes-sacrifices-to-offer-high-end-features-at-affordable-price/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-30T18:18:15.000Z</news:publication_date>
+          <news:title>Review: The Monokei Standard makes sacrifices to offer high-end features at affordable price</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/tech/2023/08/30/review-the-monokei-standard-makes-sacrifices-to-offer-high-end-features-at-affordable-price/review-the-monokei-standard-makes-sacrifices-to-offer-high-end-features-at-affordable-price.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
         <loc>https://majordigest.com/tech/2023/08/30/job-growth-dips-sharply-as-labor-market-cools/</loc>
         <news:news>
           <news:publication>
@@ -112,34 +182,6 @@
         </news:news>
         <image:image>
           <image:loc>https://majordigest.com/tech/2023/08/30/u-s-takes-down-rogue-robot-network-that-infected-200000-computers/u-s-takes-down-rogue-robot-network-that-infected-200000-computers.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/tech/2023/08/30/u-s-takes-down-rogue-robot-network-that-infected-200000-computers/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-30T10:32:50.000Z</news:publication_date>
-          <news:title>Qakbot: Feds take down malware botnet that infected 200,000 U.S. computers</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/tech/2023/08/30/u-s-takes-down-rogue-robot-network-that-infected-200000-computers/u-s-takes-down-rogue-robot-network-that-infected-200000-computers.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/tech/2023/08/30/amazon-ceo-says-its-probably-not-going-work-out-for-employees-who-defy-return-to-office-policy/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-30T08:20:12.000Z</news:publication_date>
-          <news:title>Amazon CEO says 'it&#8217;s probably not going to work out' for employees who defy return-to-office policy</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/tech/2023/08/30/amazon-ceo-says-its-probably-not-going-work-out-for-employees-who-defy-return-to-office-policy/amazon-ceo-says-its-probably-not-going-work-out-for-employees-who-defy-return-to-office-policy.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -269,20 +311,6 @@
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/tech/2023/08/29/apple-expected-to-unveil-new-iphone-at-wonderlust-special-event-at-cupertino-headquarters/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-29T17:50:52.000Z</news:publication_date>
-          <news:title>Apple expected to unveil new iPhone at &#8216;Wonderlust.&#8217; special event at Cupertino headquarters</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/tech/2023/08/29/apple-expected-to-unveil-new-iphone-at-wonderlust-special-event-at-cupertino-headquarters/apple-expected-to-unveil-new-iphone-at-wonderlust-special-event-at-cupertino-headquarters.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
         <loc>https://majordigest.com/tech/2023/08/29/digitally-sign-document-device/</loc>
         <news:news>
           <news:publication>
@@ -322,34 +350,6 @@
         </news:news>
         <image:image>
           <image:loc>https://majordigest.com/tech/2023/08/29/amazon-ceo-tells-remote-workers-its-not-going-to-work-out/amazon-ceo-tells-remote-workers-its-not-going-to-work-out.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/tech/2023/08/29/tech-expert-existential-fears-ai-are-overblown-sees-very-disturbing-workplace-threats/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-29T14:51:23.000Z</news:publication_date>
-          <news:title>Tech expert says 'existential' fears from AI are overblown, but sees 'very disturbing' workplace threats</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/tech/2023/08/29/tech-expert-existential-fears-ai-are-overblown-sees-very-disturbing-workplace-threats/tech-expert-existential-fears-ai-are-overblown-sees-very-disturbing-workplace-threats.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/tech/2023/08/29/opinion-adding-hydrogen-energy-to-california-gas-systems-too-risky/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-29T12:00:31.000Z</news:publication_date>
-          <news:title>Opinion: Adding hydrogen energy to California gas systems too risky</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/tech/2023/08/29/opinion-adding-hydrogen-energy-to-california-gas-systems-too-risky/opinion-adding-hydrogen-energy-to-california-gas-systems-too-risky.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -395,20 +395,6 @@
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/tech/2023/08/28/ex-goldman-trader-building-new-california-city-will-need-to-appease-local-opponents/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-28T17:01:07.000Z</news:publication_date>
-          <news:title>Ex-Goldman Trader building new Bay Area city will need to appease local opponents</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/tech/2023/08/28/ex-goldman-trader-building-new-california-city-will-need-to-appease-local-opponents/ex-goldman-trader-building-new-california-city-will-need-to-appease-local-opponents.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
         <loc>https://majordigest.com/tech/2023/08/28/how-to-use-google-results-about-you-privacy-remove-personal-data/</loc>
         <news:news>
           <news:publication>
@@ -434,6 +420,20 @@
         </news:news>
         <image:image>
           <image:loc>https://majordigest.com/tech/2023/08/26/broadband-subsidy-program-that-millions-use-will-expire-next-year-if-congress-doesnt-act/broadband-subsidy-program-that-millions-use-will-expire-next-year-if-congress-doesnt-act.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/tech/2023/08/25/early-apple-computer-that-helped-launch-3t-company-sells-at-auction-for-223000/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-25T17:04:31.000Z</news:publication_date>
+          <news:title>Early Apple computer that helped launch $3T company sells at auction for $223,000</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/tech/2023/08/25/early-apple-computer-that-helped-launch-3t-company-sells-at-auction-for-223000/early-apple-computer-that-helped-launch-3t-company-sells-at-auction-for-223000.webp</image:loc>
         </image:image>
       </url>
       <url>

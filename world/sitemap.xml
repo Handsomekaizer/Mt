@@ -3,17 +3,45 @@
               xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
               xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
       <url>
-        <loc>https://majordigest.com/world/2023/08/30/us-citizens-urged-to-leave-haiti-immediately/</loc>
+        <loc>https://majordigest.com/world/2023/08/30/india-malaysia-reject-chinas-new-territorial-map-claims-disputed-land-own/</loc>
         <news:news>
           <news:publication>
             <news:name>Major Digest</news:name>
             <news:language>en</news:language>
           </news:publication>
-          <news:publication_date>2023-08-30T18:11:14.000Z</news:publication_date>
-          <news:title>US citizens urged to leave Haiti immediately</news:title>
+          <news:publication_date>2023-08-30T19:02:54.000Z</news:publication_date>
+          <news:title>India, Malaysia reject China&#8217;s new territorial map that claims disputed land as its own</news:title>
         </news:news>
         <image:image>
-          <image:loc>https://majordigest.com/world/2023/08/30/us-citizens-urged-to-leave-haiti-immediately/us-citizens-urged-to-leave-haiti-immediately.webp</image:loc>
+          <image:loc>https://majordigest.com/world/2023/08/30/india-malaysia-reject-chinas-new-territorial-map-claims-disputed-land-own/india-malaysia-reject-chinas-new-territorial-map-claims-disputed-land-own.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/world/2023/08/30/son-israels-netanyahu-ordered-pay-40k-woman-following-defamation-lawsuit/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-30T19:01:11.000Z</news:publication_date>
+          <news:title>Son of Israel&#8217;s Netanyahu ordered to pay $40K to a woman following defamation lawsuit</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/world/2023/08/30/son-israels-netanyahu-ordered-pay-40k-woman-following-defamation-lawsuit/son-israels-netanyahu-ordered-pay-40k-woman-following-defamation-lawsuit.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/world/2023/08/30/japanese-ministers-eat-fukushima-fish-to-show-its-safe-after-nuclear-plant-wastewater-is-discharged/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-30T18:26:11.000Z</news:publication_date>
+          <news:title>Japanese ministers eat Fukushima fish to show it's safe after nuclear plant wastewater is discharged</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/world/2023/08/30/japanese-ministers-eat-fukushima-fish-to-show-its-safe-after-nuclear-plant-wastewater-is-discharged/japanese-ministers-eat-fukushima-fish-to-show-its-safe-after-nuclear-plant-wastewater-is-discharged.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -73,31 +101,17 @@
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/world/2023/08/30/kosovos-president-criticizes-frances-macron-visa-threat-amidst-tensions/</loc>
+        <loc>https://majordigest.com/world/2023/08/30/white-house-says-putin-and-kim-jong-un-traded-letters-as-russia-looks-for-munitions-from-north-korea/</loc>
         <news:news>
           <news:publication>
             <news:name>Major Digest</news:name>
             <news:language>en</news:language>
           </news:publication>
-          <news:publication_date>2023-08-30T18:00:17.000Z</news:publication_date>
-          <news:title>Kosovo's president criticizes France's Macron over visa threat amidst tensions</news:title>
+          <news:publication_date>2023-08-30T17:15:14.000Z</news:publication_date>
+          <news:title>White House says Putin and Kim Jong Un traded letters as Russia looks for munitions from North Korea</news:title>
         </news:news>
         <image:image>
-          <image:loc>https://majordigest.com/world/2023/08/30/kosovos-president-criticizes-frances-macron-visa-threat-amidst-tensions/kosovos-president-criticizes-frances-macron-visa-threat-amidst-tensions.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/world/2023/08/30/north-korea-fires-two-ballistic-missiles-sea-us-south-korea-military-exercises/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-30T18:00:09.000Z</news:publication_date>
-          <news:title>North Korea fires 2 ballistic missiles into sea amid US, South Korea military exercises</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/world/2023/08/30/north-korea-fires-two-ballistic-missiles-sea-us-south-korea-military-exercises/north-korea-fires-two-ballistic-missiles-sea-us-south-korea-military-exercises.webp</image:loc>
+          <image:loc>https://majordigest.com/world/2023/08/30/white-house-says-putin-and-kim-jong-un-traded-letters-as-russia-looks-for-munitions-from-north-korea/white-house-says-putin-and-kim-jong-un-traded-letters-as-russia-looks-for-munitions-from-north-korea.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -126,20 +140,6 @@
         </news:news>
         <image:image>
           <image:loc>https://majordigest.com/world/2023/08/30/white-house-warns-russia-north-korea-weapons-negotiations-are-actively-advancing/white-house-warns-russia-north-korea-weapons-negotiations-are-actively-advancing.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/world/2023/08/30/north-korea-launches-a-missile-toward-the-sea-after-us-flies-bombers-during-drills-with-south-korea/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-30T16:05:31.000Z</news:publication_date>
-          <news:title>North Korea launches ballistic missiles toward the sea after US flies bomber during drills</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/world/2023/08/30/north-korea-launches-a-missile-toward-the-sea-after-us-flies-bombers-during-drills-with-south-korea/north-korea-launches-a-missile-toward-the-sea-after-us-flies-bombers-during-drills-with-south-korea.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -247,7 +247,7 @@
             <news:name>Major Digest</news:name>
             <news:language>en</news:language>
           </news:publication>
-          <news:publication_date>2023-08-30T12:50:41.000Z</news:publication_date>
+          <news:publication_date>2023-08-30T12:24:14.000Z</news:publication_date>
           <news:title>Palestinians clash with own security forces in a West Bank refugee camp, leaving 1 dead</news:title>
         </news:news>
         <image:image>
@@ -283,20 +283,6 @@
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/world/2023/08/30/india-protests-chinas-land-claim-ahead-of-the-g20-summit-president-xi-jinping-is-expected-to-attend/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-30T05:43:42.000Z</news:publication_date>
-          <news:title>India and Malaysia protest China's land claim in a newly published map ahead of the G20 summit</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/world/2023/08/30/india-protests-chinas-land-claim-ahead-of-the-g20-summit-president-xi-jinping-is-expected-to-attend/india-protests-chinas-land-claim-ahead-of-the-g20-summit-president-xi-jinping-is-expected-to-attend.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
         <loc>https://majordigest.com/world/2023/08/30/6-regions-targeted-in-biggest-drone-attack-on-russia-since-it-sent-troops-to-ukraine-officials-say/</loc>
         <news:news>
           <news:publication>
@@ -322,6 +308,20 @@
         </news:news>
         <image:image>
           <image:loc>https://majordigest.com/world/2023/08/29/the-kremlin-says-putin-is-not-planning-to-attend-wagner-chief-prigozhins-burial/the-kremlin-says-putin-is-not-planning-to-attend-wagner-chief-prigozhins-burial.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/world/2023/08/29/neurosurgeon-investigating-patients-mystery-symptoms-plucks-worm-from-womans-brain/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-29T10:07:27.000Z</news:publication_date>
+          <news:title>Neurosurgeon investigating patient's mystery symptoms plucks worm from woman's brain</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/world/2023/08/29/neurosurgeon-investigating-patients-mystery-symptoms-plucks-worm-from-womans-brain/neurosurgeon-investigating-patients-mystery-symptoms-plucks-worm-from-womans-brain.webp</image:loc>
         </image:image>
       </url>
       <url>
