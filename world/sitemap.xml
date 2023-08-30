@@ -3,6 +3,20 @@
               xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
               xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
       <url>
+        <loc>https://majordigest.com/world/2023/08/30/3-arrested-in-dominican-republic-as-part-of-investigation-into-explosion-that-killed-34/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-30T21:10:16.000Z</news:publication_date>
+          <news:title>3 arrested in Dominican Republic as part of investigation into explosion that killed 34</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/world/2023/08/30/3-arrested-in-dominican-republic-as-part-of-investigation-into-explosion-that-killed-34/3-arrested-in-dominican-republic-as-part-of-investigation-into-explosion-that-killed-34.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
         <loc>https://majordigest.com/world/2023/08/30/uks-national-health-service-introduces-groundbreaking-skin-cancer-treatment-injection/</loc>
         <news:news>
           <news:publication>
@@ -101,6 +115,20 @@
         </image:image>
       </url>
       <url>
+        <loc>https://majordigest.com/world/2023/08/30/england-accelerates-vaccine-programs-due-to-new-covid-variant/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-30T19:28:43.000Z</news:publication_date>
+          <news:title>England accelerates vaccine programs due to new COVID variant</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/world/2023/08/30/england-accelerates-vaccine-programs-due-to-new-covid-variant/england-accelerates-vaccine-programs-due-to-new-covid-variant.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
         <loc>https://majordigest.com/world/2023/08/30/first-us-military-transfer-to-taiwan-approved-under-program-for-sovereign-states/</loc>
         <news:news>
           <news:publication>
@@ -140,20 +168,6 @@
         </news:news>
         <image:image>
           <image:loc>https://majordigest.com/world/2023/08/30/north-korea-launches-a-missile-toward-the-sea-after-us-flies-bombers-during-drills-with-south-korea/north-korea-launches-a-missile-toward-the-sea-after-us-flies-bombers-during-drills-with-south-korea.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/world/2023/08/30/japanese-ministers-eat-fukushima-fish-to-show-its-safe-after-nuclear-plant-wastewater-is-discharged/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-30T18:26:11.000Z</news:publication_date>
-          <news:title>Japanese ministers eat Fukushima fish to show it's safe after nuclear plant wastewater is discharged</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/world/2023/08/30/japanese-ministers-eat-fukushima-fish-to-show-its-safe-after-nuclear-plant-wastewater-is-discharged/japanese-ministers-eat-fukushima-fish-to-show-its-safe-after-nuclear-plant-wastewater-is-discharged.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -213,20 +227,6 @@
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/world/2023/08/30/kremlin-says-prigozhin-crash-may-have-been-deliberate/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-30T15:56:32.000Z</news:publication_date>
-          <news:title>Kremlin says Prigozhin crash may have been 'deliberate'</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/world/2023/08/30/kremlin-says-prigozhin-crash-may-have-been-deliberate/kremlin-says-prigozhin-crash-may-have-been-deliberate.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
         <loc>https://majordigest.com/world/2023/08/30/ocasio-cortez-immigration-is-arguably-this-administrations-weakest-issue/</loc>
         <news:news>
           <news:publication>
@@ -269,6 +269,20 @@
         </image:image>
       </url>
       <url>
+        <loc>https://majordigest.com/world/2023/08/30/japanese-ministers-eat-fukushima-fish-to-show-its-safe-after-nuclear-plant-wastewater-is-discharged/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-30T13:31:39.000Z</news:publication_date>
+          <news:title>Japanese ministers eat Fukushima fish to show it's safe after nuclear plant wastewater is discharged</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/world/2023/08/30/japanese-ministers-eat-fukushima-fish-to-show-its-safe-after-nuclear-plant-wastewater-is-discharged/japanese-ministers-eat-fukushima-fish-to-show-its-safe-after-nuclear-plant-wastewater-is-discharged.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
         <loc>https://majordigest.com/world/2023/08/30/palestinians-clash-with-own-security-forces-in-a-west-bank-refugee-camp-leaving-1-dead/</loc>
         <news:news>
           <news:publication>
@@ -280,20 +294,6 @@
         </news:news>
         <image:image>
           <image:loc>https://majordigest.com/world/2023/08/30/palestinians-clash-with-own-security-forces-in-a-west-bank-refugee-camp-leaving-1-dead/palestinians-clash-with-own-security-forces-in-a-west-bank-refugee-camp-leaving-1-dead.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/world/2023/08/30/former-official-under-belarus-president-lukashenko-to-face-swiss-trial-over-enforced-disappearances/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-30T10:27:17.000Z</news:publication_date>
-          <news:title>Former official under Belarus President Lukashenko to face Swiss trial over enforced disappearances</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/world/2023/08/30/former-official-under-belarus-president-lukashenko-to-face-swiss-trial-over-enforced-disappearances/former-official-under-belarus-president-lukashenko-to-face-swiss-trial-over-enforced-disappearances.webp</image:loc>
         </image:image>
       </url>
       <url>
