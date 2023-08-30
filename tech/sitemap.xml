@@ -3,6 +3,20 @@
               xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
               xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
       <url>
+        <loc>https://majordigest.com/tech/2023/08/30/amazon-ceo-says-its-probably-not-going-work-out-for-employees-who-defy-return-to-office-policy/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-30T08:20:12.000Z</news:publication_date>
+          <news:title>Amazon CEO says 'it&#8217;s probably not going to work out' for employees who defy return-to-office policy</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/tech/2023/08/30/amazon-ceo-says-its-probably-not-going-work-out-for-employees-who-defy-return-to-office-policy/amazon-ceo-says-its-probably-not-going-work-out-for-employees-who-defy-return-to-office-policy.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
         <loc>https://majordigest.com/tech/2023/08/30/typhoon-saola-strengthens-as-it-passes-taiwan-on-its-way-to-china/</loc>
         <news:news>
           <news:publication>
@@ -14,20 +28,6 @@
         </news:news>
         <image:image>
           <image:loc>https://majordigest.com/tech/2023/08/30/typhoon-saola-strengthens-as-it-passes-taiwan-on-its-way-to-china/typhoon-saola-strengthens-as-it-passes-taiwan-on-its-way-to-china.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/tech/2023/08/30/amazon-ceo-says-its-probably-not-going-work-out-for-employees-who-defy-return-to-office-policy/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-30T01:22:08.000Z</news:publication_date>
-          <news:title>Amazon CEO says 'it&#8217;s probably not going work out' for employees who defy return-to-office policy</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/tech/2023/08/30/amazon-ceo-says-its-probably-not-going-work-out-for-employees-who-defy-return-to-office-policy/amazon-ceo-says-its-probably-not-going-work-out-for-employees-who-defy-return-to-office-policy.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -56,6 +56,20 @@
         </news:news>
         <image:image>
           <image:loc>https://majordigest.com/tech/2023/08/29/16-attorneys-general-sec-audit-shein-forced-labor/16-attorneys-general-sec-audit-shein-forced-labor.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/tech/2023/08/29/un-warns-hundreds-of-thousands-in-southeast-asia-roped-into-online-scams/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-29T20:43:59.000Z</news:publication_date>
+          <news:title>UN warns that hundreds of thousands in Southeast Asia have been roped into online scams</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/tech/2023/08/29/un-warns-hundreds-of-thousands-in-southeast-asia-roped-into-online-scams/un-warns-hundreds-of-thousands-in-southeast-asia-roped-into-online-scams.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -112,20 +126,6 @@
         </news:news>
         <image:image>
           <image:loc>https://majordigest.com/tech/2023/08/29/x-to-allow-political-ads-for-the-first-time-since-2019/x-to-allow-political-ads-for-the-first-time-since-2019.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/tech/2023/08/29/apple-expected-to-unveil-new-iphone-at-wonderlust-special-event-at-cupertino-headquarters/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-29T17:50:52.000Z</news:publication_date>
-          <news:title>Apple expected to unveil new iPhone at &#8216;Wonderlust.&#8217; special event at Cupertino headquarters</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/tech/2023/08/29/apple-expected-to-unveil-new-iphone-at-wonderlust-special-event-at-cupertino-headquarters/apple-expected-to-unveil-new-iphone-at-wonderlust-special-event-at-cupertino-headquarters.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -213,6 +213,20 @@
         </image:image>
       </url>
       <url>
+        <loc>https://majordigest.com/tech/2023/08/29/amazon-ceo-tells-remote-workers-its-not-going-to-work-out/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-29T14:58:44.000Z</news:publication_date>
+          <news:title>Amazon CEO tells remote workers: 'It's not going to work out'</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/tech/2023/08/29/amazon-ceo-tells-remote-workers-its-not-going-to-work-out/amazon-ceo-tells-remote-workers-its-not-going-to-work-out.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
         <loc>https://majordigest.com/tech/2023/08/29/tech-expert-existential-fears-ai-are-overblown-sees-very-disturbing-workplace-threats/</loc>
         <news:news>
           <news:publication>
@@ -252,20 +266,6 @@
         </news:news>
         <image:image>
           <image:loc>https://majordigest.com/tech/2023/08/29/neurosurgeon-investigating-patients-mystery-symptoms-plucks-a-worm-from-womans-brain-in-australia/neurosurgeon-investigating-patients-mystery-symptoms-plucks-a-worm-from-womans-brain-in-australia.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/tech/2023/08/29/native-nations-on-front-lines-of-climate-change-share-knowledge-and-find-support-at-intensive-camps/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-29T05:16:19.000Z</news:publication_date>
-          <news:title>Native nations on front lines of climate change share knowledge and find support at intensive camps</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/tech/2023/08/29/native-nations-on-front-lines-of-climate-change-share-knowledge-and-find-support-at-intensive-camps/native-nations-on-front-lines-of-climate-change-share-knowledge-and-find-support-at-intensive-camps.webp</image:loc>
         </image:image>
       </url>
       <url>
