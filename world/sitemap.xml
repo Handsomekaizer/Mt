@@ -3,59 +3,129 @@
               xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
               xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
       <url>
-        <loc>https://majordigest.com/world/2023/08/30/pope-heads-to-mongolia-to-minister-to-its-few-catholics-and-complete-centuries-old-east-west-mission/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-30T09:28:42.000Z</news:publication_date>
-          <news:title>Pope heads to Mongolia to minister to its few Catholics and complete centuries-old East-West mission</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/world/2023/08/30/pope-heads-to-mongolia-to-minister-to-its-few-catholics-and-complete-centuries-old-east-west-mission/pope-heads-to-mongolia-to-minister-to-its-few-catholics-and-complete-centuries-old-east-west-mission.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/world/2023/08/30/pope-heads-to-mongolia-to-minister-to-its-few-catholics-and-complete-centuries-old-east-west-mission/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-30T09:28:42.000Z</news:publication_date>
-          <news:title>Pope heads to Mongolia to minister to its few Catholics and complete centuries-old East-West mission</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/world/2023/08/30/pope-heads-to-mongolia-to-minister-to-its-few-catholics-and-complete-centuries-old-east-west-mission/pope-heads-to-mongolia-to-minister-to-its-few-catholics-and-complete-centuries-old-east-west-mission.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/world/2023/08/30/britains-top-diplomat-visits-china-for-the-first-time-in-5-years-hoping-to-stabilize-ties/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-30T09:07:54.000Z</news:publication_date>
-          <news:title>Britain's top diplomat visits China for the first time in 5 years with hopes of stabilizing ties</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/world/2023/08/30/britains-top-diplomat-visits-china-for-the-first-time-in-5-years-hoping-to-stabilize-ties/britains-top-diplomat-visits-china-for-the-first-time-in-5-years-hoping-to-stabilize-ties.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
         <loc>https://majordigest.com/world/2023/08/30/drones-targeted-5-regions-in-biggest-attack-on-russian-soil-in-18-months-defense-ministry-says/</loc>
         <news:news>
           <news:publication>
             <news:name>Major Digest</news:name>
             <news:language>en</news:language>
           </news:publication>
-          <news:publication_date>2023-08-30T08:42:00.000Z</news:publication_date>
-          <news:title>Air attack kills 2 in Kyiv while Russia accuses Ukraine of biggest drone attack of the war</news:title>
+          <news:publication_date>2023-08-30T12:14:46.000Z</news:publication_date>
+          <news:title>Ukrainian drones strike deep in Russian territory, Moscow says, while a barrage in Kyiv kills 2</news:title>
         </news:news>
         <image:image>
           <image:loc>https://majordigest.com/world/2023/08/30/drones-targeted-5-regions-in-biggest-attack-on-russian-soil-in-18-months-defense-ministry-says/drones-targeted-5-regions-in-biggest-attack-on-russian-soil-in-18-months-defense-ministry-says.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/world/2023/08/30/ousted-pakistani-pm-imran-khan-remain-prison-2-more-weeks-despite-getting-bail/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-30T12:14:21.000Z</news:publication_date>
+          <news:title>Ousted Pakistani PM Imran Khan to remain in prison for 2 more weeks despite getting bail</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/world/2023/08/30/ousted-pakistani-pm-imran-khan-remain-prison-2-more-weeks-despite-getting-bail/ousted-pakistani-pm-imran-khan-remain-prison-2-more-weeks-despite-getting-bail.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/world/2023/08/30/us-commerce-secretary-warns-china-will-be-uninvestable-without-action-on-raids-fines/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-30T11:59:42.000Z</news:publication_date>
+          <news:title>US commerce secretary warns China will be 'uninvestable' without action on raids, fines</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/world/2023/08/30/us-commerce-secretary-warns-china-will-be-uninvestable-without-action-on-raids-fines/us-commerce-secretary-warns-china-will-be-uninvestable-without-action-on-raids-fines.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/world/2023/08/30/germany-will-classify-georgia-moldova-as-safe-countries-making-rejecting-asylum-seekers-easier/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-30T11:58:31.000Z</news:publication_date>
+          <news:title>Germany will classify Georgia, Moldova as 'safe countries,' making rejecting asylum-seekers easier</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/world/2023/08/30/germany-will-classify-georgia-moldova-as-safe-countries-making-rejecting-asylum-seekers-easier/germany-will-classify-georgia-moldova-as-safe-countries-making-rejecting-asylum-seekers-easier.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/world/2023/08/30/gabon-military-officers-say-theyre-seizing-power-just-days-after-the-presidential-election/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-30T11:51:18.000Z</news:publication_date>
+          <news:title>Mutinous soldiers in Gabon say they've ousted president whose family has ruled for 55 years</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/world/2023/08/30/gabon-military-officers-say-theyre-seizing-power-just-days-after-the-presidential-election/gabon-military-officers-say-theyre-seizing-power-just-days-after-the-presidential-election.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/world/2023/08/30/russia-forgoes-investigation-prigozhin-crash-international-rules-report/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-30T11:40:14.000Z</news:publication_date>
+          <news:title>Russia forgoes investigation into Prigozhin crash under international rules: report</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/world/2023/08/30/russia-forgoes-investigation-prigozhin-crash-international-rules-report/russia-forgoes-investigation-prigozhin-crash-international-rules-report.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/world/2023/08/30/6-men-killed-ambush-near-mexican-border-town-known-migrant-smuggling/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-30T11:39:00.000Z</news:publication_date>
+          <news:title>6 men killed in ambush near Mexican border town known for migrant smuggling</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/world/2023/08/30/6-men-killed-ambush-near-mexican-border-town-known-migrant-smuggling/6-men-killed-ambush-near-mexican-border-town-known-migrant-smuggling.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/world/2023/08/30/2-killed-germany-multi-truck-highway-crash-releases-hazardous-materials/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-30T11:37:47.000Z</news:publication_date>
+          <news:title>2 killed in Germany after multi-truck highway crash releases hazardous materials</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/world/2023/08/30/2-killed-germany-multi-truck-highway-crash-releases-hazardous-materials/2-killed-germany-multi-truck-highway-crash-releases-hazardous-materials.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/world/2023/08/30/withdrawal-afghanistan-emboldened-rivals-sent-message-us-wont-stand-allies/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-30T11:25:57.000Z</news:publication_date>
+          <news:title>Withdrawal from Afghanistan emboldened rivals, sent message US 'won't stand with allies'</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/world/2023/08/30/withdrawal-afghanistan-emboldened-rivals-sent-message-us-wont-stand-allies/withdrawal-afghanistan-emboldened-rivals-sent-message-us-wont-stand-allies.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -65,7 +135,7 @@
             <news:name>Major Digest</news:name>
             <news:language>en</news:language>
           </news:publication>
-          <news:publication_date>2023-08-30T08:38:02.000Z</news:publication_date>
+          <news:publication_date>2023-08-30T11:23:26.000Z</news:publication_date>
           <news:title>Pakistan's Imran Khan will be imprisoned for 2 more weeks despite getting bail</news:title>
         </news:news>
         <image:image>
@@ -73,45 +143,73 @@
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/world/2023/08/30/russia-earns-less-from-oil-and-spends-more-on-war-so-far-sanctions-are-working-like-a-slow-poison/</loc>
+        <loc>https://majordigest.com/world/2023/08/30/kremlin-says-deliberate-wrongdoing-among-possible-causes-of-plane-crash-that-killed-prigozhin/</loc>
         <news:news>
           <news:publication>
             <news:name>Major Digest</news:name>
             <news:language>en</news:language>
           </news:publication>
-          <news:publication_date>2023-08-30T06:57:49.000Z</news:publication_date>
-          <news:title>Russia earns less from oil and spends more on war. So far, sanctions are working like a slow poison</news:title>
+          <news:publication_date>2023-08-30T11:00:02.000Z</news:publication_date>
+          <news:title>Kremlin says 'Deliberate wrongdoing' among possible causes of plane crash that killed Prigozhin</news:title>
         </news:news>
         <image:image>
-          <image:loc>https://majordigest.com/world/2023/08/30/russia-earns-less-from-oil-and-spends-more-on-war-so-far-sanctions-are-working-like-a-slow-poison/russia-earns-less-from-oil-and-spends-more-on-war-so-far-sanctions-are-working-like-a-slow-poison.webp</image:loc>
+          <image:loc>https://majordigest.com/world/2023/08/30/kremlin-says-deliberate-wrongdoing-among-possible-causes-of-plane-crash-that-killed-prigozhin/kremlin-says-deliberate-wrongdoing-among-possible-causes-of-plane-crash-that-killed-prigozhin.webp</image:loc>
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/world/2023/08/30/india-protests-chinas-land-claim-ahead-of-the-g20-summit-president-xi-jinping-is-expected-to-attend/</loc>
+        <loc>https://majordigest.com/world/2023/08/30/176-global-leaders-and-nobel-laureates-urge-bangladesh-to-halt-cases-against-peace-prize-winner/</loc>
         <news:news>
           <news:publication>
             <news:name>Major Digest</news:name>
             <news:language>en</news:language>
           </news:publication>
-          <news:publication_date>2023-08-30T06:00:38.000Z</news:publication_date>
-          <news:title>India protests China's land claim ahead of the G20 summit President Xi Jinping is expected to attend</news:title>
+          <news:publication_date>2023-08-30T10:43:34.000Z</news:publication_date>
+          <news:title>176 global leaders and Nobel laureates urge Bangladesh to halt cases against Peace Prize winner</news:title>
         </news:news>
         <image:image>
-          <image:loc>https://majordigest.com/world/2023/08/30/india-protests-chinas-land-claim-ahead-of-the-g20-summit-president-xi-jinping-is-expected-to-attend/india-protests-chinas-land-claim-ahead-of-the-g20-summit-president-xi-jinping-is-expected-to-attend.webp</image:loc>
+          <image:loc>https://majordigest.com/world/2023/08/30/176-global-leaders-and-nobel-laureates-urge-bangladesh-to-halt-cases-against-peace-prize-winner/176-global-leaders-and-nobel-laureates-urge-bangladesh-to-halt-cases-against-peace-prize-winner.webp</image:loc>
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/world/2023/08/30/india-protests-chinas-land-claim-ahead-of-the-g20-summit-president-xi-jinping-is-expected-to-attend/</loc>
+        <loc>https://majordigest.com/world/2023/08/30/176-global-leaders-and-nobel-laureates-urge-bangladesh-to-halt-cases-against-peace-prize-winner/</loc>
         <news:news>
           <news:publication>
             <news:name>Major Digest</news:name>
             <news:language>en</news:language>
           </news:publication>
-          <news:publication_date>2023-08-30T06:00:38.000Z</news:publication_date>
-          <news:title>India protests China's land claim ahead of the G20 summit President Xi Jinping is expected to attend</news:title>
+          <news:publication_date>2023-08-30T10:43:34.000Z</news:publication_date>
+          <news:title>176 global leaders and Nobel laureates urge Bangladesh to halt cases against Peace Prize winner</news:title>
         </news:news>
         <image:image>
-          <image:loc>https://majordigest.com/world/2023/08/30/india-protests-chinas-land-claim-ahead-of-the-g20-summit-president-xi-jinping-is-expected-to-attend/india-protests-chinas-land-claim-ahead-of-the-g20-summit-president-xi-jinping-is-expected-to-attend.webp</image:loc>
+          <image:loc>https://majordigest.com/world/2023/08/30/176-global-leaders-and-nobel-laureates-urge-bangladesh-to-halt-cases-against-peace-prize-winner/176-global-leaders-and-nobel-laureates-urge-bangladesh-to-halt-cases-against-peace-prize-winner.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/world/2023/08/30/pope-heads-to-mongolia-to-minister-to-its-few-catholics-and-complete-centuries-old-east-west-mission/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-30T07:49:33.000Z</news:publication_date>
+          <news:title>Pope heads to Mongolia to minister to its few Catholics and complete centuries-old East-West mission</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/world/2023/08/30/pope-heads-to-mongolia-to-minister-to-its-few-catholics-and-complete-centuries-old-east-west-mission/pope-heads-to-mongolia-to-minister-to-its-few-catholics-and-complete-centuries-old-east-west-mission.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/world/2023/08/30/logging-is-growing-in-a-nigerian-forest-home-to-endangered-elephants-rangers-blame-lax-enforcement/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-30T05:41:39.000Z</news:publication_date>
+          <news:title>Logging is growing in a Nigerian forest home to endangered elephants. Rangers blame lax enforcement</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/world/2023/08/30/logging-is-growing-in-a-nigerian-forest-home-to-endangered-elephants-rangers-blame-lax-enforcement/logging-is-growing-in-a-nigerian-forest-home-to-endangered-elephants-rangers-blame-lax-enforcement.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -136,38 +234,10 @@
             <news:language>en</news:language>
           </news:publication>
           <news:publication_date>2023-08-30T01:36:44.000Z</news:publication_date>
-          <news:title>Air attack kills 2 in Kyiv while Russia accuses Ukraine of biggest drone attack of the war</news:title>
+          <news:title>Ukrainian drones strike deep in Russian territory, Moscow says, while a barrage in Kyiv kills 2</news:title>
         </news:news>
         <image:image>
           <image:loc>https://majordigest.com/world/2023/08/30/6-regions-targeted-in-biggest-drone-attack-on-russia-since-it-sent-troops-to-ukraine-officials-say/6-regions-targeted-in-biggest-drone-attack-on-russia-since-it-sent-troops-to-ukraine-officials-say.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/world/2023/08/30/bodies-of-3-marines-killed-during-australian-osprey-crash-pulled-from-site-of-crash/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-30T01:20:13.000Z</news:publication_date>
-          <news:title>Bodies of 3 Marines killed during in Australian Osprey crash pulled from site of crash</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/world/2023/08/30/bodies-of-3-marines-killed-during-australian-osprey-crash-pulled-from-site-of-crash/bodies-of-3-marines-killed-during-australian-osprey-crash-pulled-from-site-of-crash.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/world/2023/08/29/technical-failure-halted-uk-air-traffic-blamed-issues-flight-data/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-29T23:30:20.000Z</news:publication_date>
-          <news:title>Technical failure that halted UK air traffic blamed on issues with flight data</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/world/2023/08/29/technical-failure-halted-uk-air-traffic-blamed-issues-flight-data/technical-failure-halted-uk-air-traffic-blamed-issues-flight-data.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -196,62 +266,6 @@
         </news:news>
         <image:image>
           <image:loc>https://majordigest.com/world/2023/08/29/paul-whelan-american-detained-in-russia-seen-in-new-video-released-by-state-media/paul-whelan-american-detained-in-russia-seen-in-new-video-released-by-state-media.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/world/2023/08/29/japan-sees-signs-turning-point-decades-long-battle-deflation/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-29T23:00:17.000Z</news:publication_date>
-          <news:title>Japan sees signs of turning point in decades-long battle with deflation</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/world/2023/08/29/japan-sees-signs-turning-point-decades-long-battle-deflation/japan-sees-signs-turning-point-decades-long-battle-deflation.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/world/2023/08/29/japan-sees-signs-turning-point-decades-long-battle-deflation/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-29T23:00:17.000Z</news:publication_date>
-          <news:title>Japan sees signs of turning point in decades-long battle with deflation</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/world/2023/08/29/japan-sees-signs-turning-point-decades-long-battle-deflation/japan-sees-signs-turning-point-decades-long-battle-deflation.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/world/2023/08/29/ubs-paradeplatz-settle-lawsuit-credit-suisse-dispute/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-29T22:58:31.000Z</news:publication_date>
-          <news:title>UBS and Inside Paradeplatz settle lawsuit after Credit Suisse dispute</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/world/2023/08/29/ubs-paradeplatz-settle-lawsuit-credit-suisse-dispute/ubs-paradeplatz-settle-lawsuit-credit-suisse-dispute.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/world/2023/08/29/greek-wildfire-eu-largest-record-enters-11th-day/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-29T22:25:55.000Z</news:publication_date>
-          <news:title>Greek wildfire now EU's largest on record as it enters 11th day</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/world/2023/08/29/greek-wildfire-eu-largest-record-enters-11th-day/greek-wildfire-eu-largest-record-enters-11th-day.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -311,6 +325,20 @@
         </image:image>
       </url>
       <url>
+        <loc>https://majordigest.com/world/2023/08/29/neurosurgeon-investigating-patients-mystery-symptoms-plucks-worm-from-womans-brain/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-29T10:07:27.000Z</news:publication_date>
+          <news:title>Neurosurgeon investigating patient's mystery symptoms plucks worm from woman's brain</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/world/2023/08/29/neurosurgeon-investigating-patients-mystery-symptoms-plucks-worm-from-womans-brain/neurosurgeon-investigating-patients-mystery-symptoms-plucks-worm-from-womans-brain.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
         <loc>https://majordigest.com/world/2023/08/29/us-marines-killed-in-australian-aircraft-crash-were-from-illinois-virginia-and-colorado/</loc>
         <news:news>
           <news:publication>
@@ -350,20 +378,6 @@
         </news:news>
         <image:image>
           <image:loc>https://majordigest.com/world/2023/08/28/british-bog-snorkeling-championships-contenders-race-through-slime/british-bog-snorkeling-championships-contenders-race-through-slime.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/world/2023/08/28/virginia-man-stolen-at-birth-meets-chilean-family-for-first-time/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-28T19:50:29.000Z</news:publication_date>
-          <news:title>Virginia man stolen at birth meets Chilean family for first time</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/world/2023/08/28/virginia-man-stolen-at-birth-meets-chilean-family-for-first-time/virginia-man-stolen-at-birth-meets-chilean-family-for-first-time.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -462,20 +476,6 @@
         </news:news>
         <image:image>
           <image:loc>https://majordigest.com/world/2023/08/25/from-tarantulas-to-tigers-zoo-animals-step-onto-scales-for-annual-weigh-in/from-tarantulas-to-tigers-zoo-animals-step-onto-scales-for-annual-weigh-in.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/world/2023/08/25/dutch-brewer-heineken-sells-its-russian-operations-for-1-euro-taking-a-300-million-euro-hit/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-25T08:07:09.000Z</news:publication_date>
-          <news:title>Dutch brewer Heineken sells its Russian operations for 1 euro, taking a 300-million-euro hit</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/world/2023/08/25/dutch-brewer-heineken-sells-its-russian-operations-for-1-euro-taking-a-300-million-euro-hit/dutch-brewer-heineken-sells-its-russian-operations-for-1-euro-taking-a-300-million-euro-hit.webp</image:loc>
         </image:image>
       </url>
       <url>
