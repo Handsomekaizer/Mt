@@ -3,6 +3,62 @@
               xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
               xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
       <url>
+        <loc>https://majordigest.com/world/2023/08/30/bee-alert-5-million-bees-fall-off-truck-near-toronto-and-drivers-are-asked-to-close-windows/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-30T19:32:51.000Z</news:publication_date>
+          <news:title>Bee alert: 5 million bees fall off truck near Toronto and drivers are asked to close windows</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/world/2023/08/30/bee-alert-5-million-bees-fall-off-truck-near-toronto-and-drivers-are-asked-to-close-windows/bee-alert-5-million-bees-fall-off-truck-near-toronto-and-drivers-are-asked-to-close-windows.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/world/2023/08/30/england-accelerates-vaccine-programs-due-to-new-covid-variant/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-30T19:28:43.000Z</news:publication_date>
+          <news:title>England accelerates vaccine programs due to new COVID variant</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/world/2023/08/30/england-accelerates-vaccine-programs-due-to-new-covid-variant/england-accelerates-vaccine-programs-due-to-new-covid-variant.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/world/2023/08/30/first-us-military-transfer-to-taiwan-approved-under-program-for-sovereign-states/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-30T19:22:17.000Z</news:publication_date>
+          <news:title>First US military transfer to Taiwan approved under program for sovereign states</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/world/2023/08/30/first-us-military-transfer-to-taiwan-approved-under-program-for-sovereign-states/first-us-military-transfer-to-taiwan-approved-under-program-for-sovereign-states.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/world/2023/08/30/baidu-receives-green-light-launch-ai-ernie-bot-general-public-leading-chinas-ai-revolution/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-30T19:14:02.000Z</news:publication_date>
+          <news:title>Baidu receives green light to launch AI Ernie Bot for general public, leading China's AI revolution</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/world/2023/08/30/baidu-receives-green-light-launch-ai-ernie-bot-general-public-leading-chinas-ai-revolution/baidu-receives-green-light-launch-ai-ernie-bot-general-public-leading-chinas-ai-revolution.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
         <loc>https://majordigest.com/world/2023/08/30/india-malaysia-reject-chinas-new-territorial-map-claims-disputed-land-own/</loc>
         <news:news>
           <news:publication>
@@ -28,6 +84,34 @@
         </news:news>
         <image:image>
           <image:loc>https://majordigest.com/world/2023/08/30/son-israels-netanyahu-ordered-pay-40k-woman-following-defamation-lawsuit/son-israels-netanyahu-ordered-pay-40k-woman-following-defamation-lawsuit.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/world/2023/08/30/india-protests-chinas-land-claim-ahead-of-the-g20-summit-president-xi-jinping-is-expected-to-attend/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-30T18:42:57.000Z</news:publication_date>
+          <news:title>India and Malaysia protest China's land claim in a newly published map ahead of the G20 summit</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/world/2023/08/30/india-protests-chinas-land-claim-ahead-of-the-g20-summit-president-xi-jinping-is-expected-to-attend/india-protests-chinas-land-claim-ahead-of-the-g20-summit-president-xi-jinping-is-expected-to-attend.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/world/2023/08/30/north-korea-launches-a-missile-toward-the-sea-after-us-flies-bombers-during-drills-with-south-korea/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-30T18:29:28.000Z</news:publication_date>
+          <news:title>North Korea launches ballistic missiles toward the sea after US flies bombers during drills</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/world/2023/08/30/north-korea-launches-a-missile-toward-the-sea-after-us-flies-bombers-during-drills-with-south-korea/north-korea-launches-a-missile-toward-the-sea-after-us-flies-bombers-during-drills-with-south-korea.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -73,48 +157,6 @@
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/world/2023/08/30/syrias-us-backed-kurdish-troops-militia-remove-commander-end-deadly-clashes/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-30T18:07:09.000Z</news:publication_date>
-          <news:title>Syria's US-backed Kurdish troops and militia remove commander to end deadly clashes</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/world/2023/08/30/syrias-us-backed-kurdish-troops-militia-remove-commander-end-deadly-clashes/syrias-us-backed-kurdish-troops-militia-remove-commander-end-deadly-clashes.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/world/2023/08/30/saudi-man-sentenced-death-online-posts-amid-widening-crackdown-dissent/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-30T18:03:11.000Z</news:publication_date>
-          <news:title>Saudi man sentenced to death for online posts amid widening crackdown on dissent</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/world/2023/08/30/saudi-man-sentenced-death-online-posts-amid-widening-crackdown-dissent/saudi-man-sentenced-death-online-posts-amid-widening-crackdown-dissent.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/world/2023/08/30/white-house-says-putin-and-kim-jong-un-traded-letters-as-russia-looks-for-munitions-from-north-korea/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-30T17:15:14.000Z</news:publication_date>
-          <news:title>White House says Putin and Kim Jong Un traded letters as Russia looks for munitions from North Korea</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/world/2023/08/30/white-house-says-putin-and-kim-jong-un-traded-letters-as-russia-looks-for-munitions-from-north-korea/white-house-says-putin-and-kim-jong-un-traded-letters-as-russia-looks-for-munitions-from-north-korea.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
         <loc>https://majordigest.com/world/2023/08/30/gabons-wealthy-dynastic-leader-thought-he-could-resist-africas-trend-of-coups-he-might-be-wrong/</loc>
         <news:news>
           <news:publication>
@@ -140,20 +182,6 @@
         </news:news>
         <image:image>
           <image:loc>https://majordigest.com/world/2023/08/30/white-house-warns-russia-north-korea-weapons-negotiations-are-actively-advancing/white-house-warns-russia-north-korea-weapons-negotiations-are-actively-advancing.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/world/2023/08/30/drones-targeted-5-regions-in-biggest-attack-on-russian-soil-in-18-months-defense-ministry-says/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-30T16:04:05.000Z</news:publication_date>
-          <news:title>Ukrainian drones strike deep in Russian territory, Moscow says, while a barrage in Kyiv kills 2</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/world/2023/08/30/drones-targeted-5-regions-in-biggest-attack-on-russian-soil-in-18-months-defense-ministry-says/drones-targeted-5-regions-in-biggest-attack-on-russian-soil-in-18-months-defense-ministry-says.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -227,20 +255,6 @@
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/world/2023/08/30/top-republican-calls-ramaswamys-ukraine-plan-surrender-to-russian-aggression/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-30T14:52:07.000Z</news:publication_date>
-          <news:title>Top Republican calls Ramaswamy's Ukraine plan 'surrender to Russian aggression'</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/world/2023/08/30/top-republican-calls-ramaswamys-ukraine-plan-surrender-to-russian-aggression/top-republican-calls-ramaswamys-ukraine-plan-surrender-to-russian-aggression.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
         <loc>https://majordigest.com/world/2023/08/30/palestinians-clash-with-own-security-forces-in-a-west-bank-refugee-camp-leaving-1-dead/</loc>
         <news:news>
           <news:publication>
@@ -248,7 +262,7 @@
             <news:language>en</news:language>
           </news:publication>
           <news:publication_date>2023-08-30T12:24:14.000Z</news:publication_date>
-          <news:title>Palestinians clash with own security forces in a West Bank refugee camp, leaving 1 dead</news:title>
+          <news:title>Palestinians clash with their own security forces in a West Bank refugee camp, leaving 1 dead</news:title>
         </news:news>
         <image:image>
           <image:loc>https://majordigest.com/world/2023/08/30/palestinians-clash-with-own-security-forces-in-a-west-bank-refugee-camp-leaving-1-dead/palestinians-clash-with-own-security-forces-in-a-west-bank-refugee-camp-leaving-1-dead.webp</image:loc>
@@ -308,20 +322,6 @@
         </news:news>
         <image:image>
           <image:loc>https://majordigest.com/world/2023/08/29/the-kremlin-says-putin-is-not-planning-to-attend-wagner-chief-prigozhins-burial/the-kremlin-says-putin-is-not-planning-to-attend-wagner-chief-prigozhins-burial.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/world/2023/08/29/neurosurgeon-investigating-patients-mystery-symptoms-plucks-worm-from-womans-brain/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-29T10:07:27.000Z</news:publication_date>
-          <news:title>Neurosurgeon investigating patient's mystery symptoms plucks worm from woman's brain</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/world/2023/08/29/neurosurgeon-investigating-patients-mystery-symptoms-plucks-worm-from-womans-brain/neurosurgeon-investigating-patients-mystery-symptoms-plucks-worm-from-womans-brain.webp</image:loc>
         </image:image>
       </url>
       <url>

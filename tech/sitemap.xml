@@ -3,6 +3,34 @@
               xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
               xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
       <url>
+        <loc>https://majordigest.com/tech/2023/08/30/fbi-disrupts-malicious-program-infecting-computers/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-30T19:51:12.000Z</news:publication_date>
+          <news:title>FBI disrupts malicious program infecting computers</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/tech/2023/08/30/fbi-disrupts-malicious-program-infecting-computers/fbi-disrupts-malicious-program-infecting-computers.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/tech/2023/08/30/jordan-subpoenas-hate-speech-watchdog/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-30T19:18:26.000Z</news:publication_date>
+          <news:title>Jordan subpoenas hate speech watchdog</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/tech/2023/08/30/jordan-subpoenas-hate-speech-watchdog/jordan-subpoenas-hate-speech-watchdog.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
         <loc>https://majordigest.com/tech/2023/08/30/gannett-to-pause-ai-experiment-after-botched-sports-stories/</loc>
         <news:news>
           <news:publication>
@@ -14,20 +42,6 @@
         </news:news>
         <image:image>
           <image:loc>https://majordigest.com/tech/2023/08/30/gannett-to-pause-ai-experiment-after-botched-sports-stories/gannett-to-pause-ai-experiment-after-botched-sports-stories.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/tech/2023/08/30/home-cocktail-makers-aim-fire-local-bartender/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-30T19:02:55.000Z</news:publication_date>
-          <news:title>Home cocktail makers aim to fire the local bartender</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/tech/2023/08/30/home-cocktail-makers-aim-fire-local-bartender/home-cocktail-makers-aim-fire-local-bartender.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -227,6 +241,20 @@
         </image:image>
       </url>
       <url>
+        <loc>https://majordigest.com/tech/2023/08/30/typhoon-saola-strengthens-as-it-passes-taiwan-on-its-way-to-china/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-30T04:36:15.000Z</news:publication_date>
+          <news:title>Typhoon Saola strengthens as it passes Taiwan on its way to China</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/tech/2023/08/30/typhoon-saola-strengthens-as-it-passes-taiwan-on-its-way-to-china/typhoon-saola-strengthens-as-it-passes-taiwan-on-its-way-to-china.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
         <loc>https://majordigest.com/tech/2023/08/29/win-over-sec-ups-chances-for-bitcoin-etf-approval/</loc>
         <news:news>
           <news:publication>
@@ -297,20 +325,6 @@
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/tech/2023/08/29/x-to-allow-political-ads-for-the-first-time-since-2019/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-29T17:57:46.000Z</news:publication_date>
-          <news:title>X to allow political ads for the first time since 2019</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/tech/2023/08/29/x-to-allow-political-ads-for-the-first-time-since-2019/x-to-allow-political-ads-for-the-first-time-since-2019.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
         <loc>https://majordigest.com/tech/2023/08/29/digitally-sign-document-device/</loc>
         <news:news>
           <news:publication>
@@ -336,6 +350,20 @@
         </news:news>
         <image:image>
           <image:loc>https://majordigest.com/tech/2023/08/29/meta-disrupts-covert-influence-operations-facebook-instagram/meta-disrupts-covert-influence-operations-facebook-instagram.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/tech/2023/08/29/amazon-ceo-tells-remote-workers-its-not-going-to-work-out/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-29T14:58:44.000Z</news:publication_date>
+          <news:title>Amazon CEO tells remote workers: 'It's not going to work out'</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/tech/2023/08/29/amazon-ceo-tells-remote-workers-its-not-going-to-work-out/amazon-ceo-tells-remote-workers-its-not-going-to-work-out.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -381,20 +409,6 @@
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/tech/2023/08/28/car-cheaper-electric-gas/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-28T22:24:36.000Z</news:publication_date>
-          <news:title>Which car is cheaper, electric or gas? It depends where you live</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/tech/2023/08/28/car-cheaper-electric-gas/car-cheaper-electric-gas.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
         <loc>https://majordigest.com/tech/2023/08/28/how-to-use-google-results-about-you-privacy-remove-personal-data/</loc>
         <news:news>
           <news:publication>
@@ -420,20 +434,6 @@
         </news:news>
         <image:image>
           <image:loc>https://majordigest.com/tech/2023/08/26/broadband-subsidy-program-that-millions-use-will-expire-next-year-if-congress-doesnt-act/broadband-subsidy-program-that-millions-use-will-expire-next-year-if-congress-doesnt-act.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/tech/2023/08/25/early-apple-computer-that-helped-launch-3t-company-sells-at-auction-for-223000/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-25T17:04:31.000Z</news:publication_date>
-          <news:title>Early Apple computer that helped launch $3T company sells at auction for $223,000</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/tech/2023/08/25/early-apple-computer-that-helped-launch-3t-company-sells-at-auction-for-223000/early-apple-computer-that-helped-launch-3t-company-sells-at-auction-for-223000.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -507,16 +507,16 @@
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/tech/2023/08/23/study-links-childrens-screen-time-to-heart-damage-in-adulthood/</loc>
+        <loc>https://majordigest.com/tech/2023/08/24/t-mobile-will-lay-off-5000-employees-or-about-7-of-its-workforce-in-the-coming-weeks/</loc>
         <news:news>
           <news:publication>
             <news:name>Major Digest</news:name>
             <news:language>en</news:language>
           </news:publication>
-          <news:publication_date>2023-08-23T19:21:19.000Z</news:publication_date>
-          <news:title>Study links children's screen time to heart damage in adulthood</news:title>
+          <news:publication_date>2023-08-24T17:25:01.000Z</news:publication_date>
+          <news:title>T-Mobile will lay off 5,000 employees, or about 7% of its workforce, in the coming weeks</news:title>
         </news:news>
         <image:image>
-          <image:loc>https://majordigest.com/tech/2023/08/23/study-links-childrens-screen-time-to-heart-damage-in-adulthood/study-links-childrens-screen-time-to-heart-damage-in-adulthood.webp</image:loc>
+          <image:loc>https://majordigest.com/tech/2023/08/24/t-mobile-will-lay-off-5000-employees-or-about-7-of-its-workforce-in-the-coming-weeks/t-mobile-will-lay-off-5000-employees-or-about-7-of-its-workforce-in-the-coming-weeks.webp</image:loc>
         </image:image>
       </url></urlset>

@@ -3,6 +3,62 @@
               xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
               xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
       <url>
+        <loc>https://majordigest.com/politics/2023/08/30/sierra-club-endorses-maine-ballot-initiative-creating-consumer-owned-utility/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-30T19:47:36.000Z</news:publication_date>
+          <news:title>Sierra Club endorses Maine ballot initiative creating consumer-owned utility</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/politics/2023/08/30/sierra-club-endorses-maine-ballot-initiative-creating-consumer-owned-utility/sierra-club-endorses-maine-ballot-initiative-creating-consumer-owned-utility.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/politics/2023/08/30/more-see-trump-as-electable-after-mug-shot-release-skipped-debate-poll/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-30T19:37:49.000Z</news:publication_date>
+          <news:title>More see Trump as electable after mug shot release, skipped debate: poll&#160;</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/politics/2023/08/30/more-see-trump-as-electable-after-mug-shot-release-skipped-debate-poll/more-see-trump-as-electable-after-mug-shot-release-skipped-debate-poll.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/politics/2023/08/30/conservative-law-firm-suit-nara-biden-probe/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-30T19:24:00.000Z</news:publication_date>
+          <news:title>Conservative law firm files suit against NARA in Biden probe</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/politics/2023/08/30/conservative-law-firm-suit-nara-biden-probe/conservative-law-firm-suit-nara-biden-probe.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/politics/2023/08/30/opponents-ne-taxpayer-funded-school-voucher-plan-claim-enough-signatures-take-issue-ballot-box/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-30T19:18:05.000Z</news:publication_date>
+          <news:title>Opponents of NE's taxpayer-funded school voucher plan claim enough signatures to take issue to ballot box</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/politics/2023/08/30/opponents-ne-taxpayer-funded-school-voucher-plan-claim-enough-signatures-take-issue-ballot-box/opponents-ne-taxpayer-funded-school-voucher-plan-claim-enough-signatures-take-issue-ballot-box.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
         <loc>https://majordigest.com/politics/2023/08/30/pennsylvania-considering-earlier-2024-primary-date/</loc>
         <news:news>
           <news:publication>
@@ -31,17 +87,17 @@
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/politics/2023/08/30/abortion-anecdote-from-desantis-at-gop-debate-is-more-complex-than-he-made-it-sound/</loc>
+        <loc>https://majordigest.com/politics/2023/08/30/senate-gop-leader-mitch-mcconnell-appears-to-freeze-up-again-this-time-at-a-kentucky-event/</loc>
         <news:news>
           <news:publication>
             <news:name>Major Digest</news:name>
             <news:language>en</news:language>
           </news:publication>
-          <news:publication_date>2023-08-30T18:50:35.000Z</news:publication_date>
-          <news:title>Abortion anecdote from DeSantis at GOP debate is more complex than he made it sound</news:title>
+          <news:publication_date>2023-08-30T18:29:48.000Z</news:publication_date>
+          <news:title>Senate GOP leader Mitch McConnell appears to freeze up again, this time at a Kentucky event</news:title>
         </news:news>
         <image:image>
-          <image:loc>https://majordigest.com/politics/2023/08/30/abortion-anecdote-from-desantis-at-gop-debate-is-more-complex-than-he-made-it-sound/abortion-anecdote-from-desantis-at-gop-debate-is-more-complex-than-he-made-it-sound.webp</image:loc>
+          <image:loc>https://majordigest.com/politics/2023/08/30/senate-gop-leader-mitch-mcconnell-appears-to-freeze-up-again-this-time-at-a-kentucky-event/senate-gop-leader-mitch-mcconnell-appears-to-freeze-up-again-this-time-at-a-kentucky-event.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -59,20 +115,6 @@
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/politics/2023/08/30/gop-answers-billions-covid-relief-aid-international-criminals/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-30T18:16:02.000Z</news:publication_date>
-          <news:title>GOP demands answers on 'billions' in COVID relief aid that went to 'international' criminals</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/politics/2023/08/30/gop-answers-billions-covid-relief-aid-international-criminals/gop-answers-billions-covid-relief-aid-international-criminals.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
         <loc>https://majordigest.com/politics/2023/08/30/mcconnell-freezes-again-during-kentucky-press-conference/</loc>
         <news:news>
           <news:publication>
@@ -84,62 +126,6 @@
         </news:news>
         <image:image>
           <image:loc>https://majordigest.com/politics/2023/08/30/mcconnell-freezes-again-during-kentucky-press-conference/mcconnell-freezes-again-during-kentucky-press-conference.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/politics/2023/08/30/mcconnell-freezes-for-second-time-during-press-conference/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-30T17:53:10.000Z</news:publication_date>
-          <news:title>McConnell freezes for 2nd time while taking questions</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/politics/2023/08/30/mcconnell-freezes-for-second-time-during-press-conference/mcconnell-freezes-for-second-time-during-press-conference.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/politics/2023/08/30/manchin-daughter-pitch-100m-project-politically-homeless-potential-third-party-run-looms-report/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-30T17:47:50.000Z</news:publication_date>
-          <news:title>Manchin, daughter pitch $100M project for 'politically homeless' as potential third-party run looms: report</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/politics/2023/08/30/manchin-daughter-pitch-100m-project-politically-homeless-potential-third-party-run-looms-report/manchin-daughter-pitch-100m-project-politically-homeless-potential-third-party-run-looms-report.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/politics/2023/08/30/judge-enters-default-judgment-against-giuliani-in-defamation-lawsuit-from-georgia-election-workers/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-30T17:14:30.000Z</news:publication_date>
-          <news:title>Judge holds Giuliani liable in Georgia election workers' defamation case and orders him to pay fees</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/politics/2023/08/30/judge-enters-default-judgment-against-giuliani-in-defamation-lawsuit-from-georgia-election-workers/judge-enters-default-judgment-against-giuliani-in-defamation-lawsuit-from-georgia-election-workers.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/politics/2023/08/30/burgum-super-pac-ad-campaign-second-debate/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-30T17:08:00.000Z</news:publication_date>
-          <news:title>Super PAC mounts major effort to carry Burgum back to the debate stage</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/politics/2023/08/30/burgum-super-pac-ad-campaign-second-debate/burgum-super-pac-ad-campaign-second-debate.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -157,17 +143,17 @@
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/politics/2023/08/30/the-only-defendant-in-the-georgia-election-indictment-to-spend-time-in-jail-has-been-granted-bond/</loc>
+        <loc>https://majordigest.com/politics/2023/08/30/heres-what-michigan-lawmakers-will-prioritize-for-rest-of-2023-according-to-gov-whitmer/</loc>
         <news:news>
           <news:publication>
             <news:name>Major Digest</news:name>
             <news:language>en</news:language>
           </news:publication>
-          <news:publication_date>2023-08-30T16:17:11.000Z</news:publication_date>
-          <news:title>The only defendant in the Georgia election indictment to spend time in jail is released on bond</news:title>
+          <news:publication_date>2023-08-30T16:56:50.000Z</news:publication_date>
+          <news:title>Gov: Democratic-led Michigan to address paid family leave, clean energy, election security by year&#8217;s end</news:title>
         </news:news>
         <image:image>
-          <image:loc>https://majordigest.com/politics/2023/08/30/the-only-defendant-in-the-georgia-election-indictment-to-spend-time-in-jail-has-been-granted-bond/the-only-defendant-in-the-georgia-election-indictment-to-spend-time-in-jail-has-been-granted-bond.webp</image:loc>
+          <image:loc>https://majordigest.com/politics/2023/08/30/heres-what-michigan-lawmakers-will-prioritize-for-rest-of-2023-according-to-gov-whitmer/heres-what-michigan-lawmakers-will-prioritize-for-rest-of-2023-according-to-gov-whitmer.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -227,6 +213,20 @@
         </image:image>
       </url>
       <url>
+        <loc>https://majordigest.com/politics/2023/08/30/ramaswamy-supports-full-ufo-disclosure-we-can-handle-the-truth/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-30T15:28:04.000Z</news:publication_date>
+          <news:title>Ramaswamy supports full UFO disclosure: &#8216;We can handle the truth&#8217;</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/politics/2023/08/30/ramaswamy-supports-full-ufo-disclosure-we-can-handle-the-truth/ramaswamy-supports-full-ufo-disclosure-we-can-handle-the-truth.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
         <loc>https://majordigest.com/politics/2023/08/30/white-house-says-putin-and-kim-jong-un-traded-letters-as-russia-looks-for-munitions-from-north-korea-2/</loc>
         <news:news>
           <news:publication>
@@ -255,17 +255,17 @@
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/politics/2023/08/30/house-conservatives-flirt-with-shutdown-so-be-it/</loc>
+        <loc>https://majordigest.com/politics/2023/08/30/desantis-holds-news-conference-before-hurricane-idalia-makes-landfall/</loc>
         <news:news>
           <news:publication>
             <news:name>Major Digest</news:name>
             <news:language>en</news:language>
           </news:publication>
-          <news:publication_date>2023-08-30T12:32:21.000Z</news:publication_date>
-          <news:title>House conservatives flirt with shutdown: 'So be it'</news:title>
+          <news:publication_date>2023-08-30T10:02:53.000Z</news:publication_date>
+          <news:title>DeSantis discusses state response after Idalia makes landfall</news:title>
         </news:news>
         <image:image>
-          <image:loc>https://majordigest.com/politics/2023/08/30/house-conservatives-flirt-with-shutdown-so-be-it/house-conservatives-flirt-with-shutdown-so-be-it.webp</image:loc>
+          <image:loc>https://majordigest.com/politics/2023/08/30/desantis-holds-news-conference-before-hurricane-idalia-makes-landfall/desantis-holds-news-conference-before-hurricane-idalia-makes-landfall.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -297,17 +297,17 @@
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/politics/2023/08/30/add-physical-fitness-section-to-the-sat-ramaswamy-says/</loc>
+        <loc>https://majordigest.com/politics/2023/08/30/donald-trump-georgia-polling-after-indictment/</loc>
         <news:news>
           <news:publication>
             <news:name>Major Digest</news:name>
             <news:language>en</news:language>
           </news:publication>
-          <news:publication_date>2023-08-30T03:50:44.000Z</news:publication_date>
-          <news:title>Add physical fitness section to the SAT, Ramaswamy says</news:title>
+          <news:publication_date>2023-08-30T03:53:03.000Z</news:publication_date>
+          <news:title>Trump holds 42-point lead in Georgia after indictment</news:title>
         </news:news>
         <image:image>
-          <image:loc>https://majordigest.com/politics/2023/08/30/add-physical-fitness-section-to-the-sat-ramaswamy-says/add-physical-fitness-section-to-the-sat-ramaswamy-says.webp</image:loc>
+          <image:loc>https://majordigest.com/politics/2023/08/30/donald-trump-georgia-polling-after-indictment/donald-trump-georgia-polling-after-indictment.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -353,17 +353,17 @@
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/politics/2023/08/29/biden-targets-diabetes-drug-blood-thinner-and-8-others-for-medicare-price-talks/</loc>
+        <loc>https://majordigest.com/politics/2023/08/29/npr-rudy-giuliani-rico-origin-story/</loc>
         <news:news>
           <news:publication>
             <news:name>Major Digest</news:name>
             <news:language>en</news:language>
           </news:publication>
-          <news:publication_date>2023-08-29T12:07:36.000Z</news:publication_date>
-          <news:title>Biden targets diabetes drug Jardiance, blood thinner Eliquis and 8 others for Medicare price talks</news:title>
+          <news:publication_date>2023-08-29T09:01:00.000Z</news:publication_date>
+          <news:title>It's time to rethink Rudy Giuliani and his claim to discover RICO</news:title>
         </news:news>
         <image:image>
-          <image:loc>https://majordigest.com/politics/2023/08/29/biden-targets-diabetes-drug-blood-thinner-and-8-others-for-medicare-price-talks/biden-targets-diabetes-drug-blood-thinner-and-8-others-for-medicare-price-talks.webp</image:loc>
+          <image:loc>https://majordigest.com/politics/2023/08/29/npr-rudy-giuliani-rico-origin-story/npr-rudy-giuliani-rico-origin-story.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -381,20 +381,6 @@
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/politics/2023/08/29/twerking-and-breastplates-drag-is-a-performance-art-lgbtq-groups-and-performers-assert-in-federal-hearing/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-29T02:20:27.000Z</news:publication_date>
-          <news:title>Drag shows are protected by First Amendment, performers tell federal judge</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/politics/2023/08/29/twerking-and-breastplates-drag-is-a-performance-art-lgbtq-groups-and-performers-assert-in-federal-hearing/twerking-and-breastplates-drag-is-a-performance-art-lgbtq-groups-and-performers-assert-in-federal-hearing.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
         <loc>https://majordigest.com/politics/2023/08/28/senate-candidates-visit-stockton-to-support-rep-josh-harder-reelection-campaign/</loc>
         <news:news>
           <news:publication>
@@ -409,6 +395,34 @@
         </image:image>
       </url>
       <url>
+        <loc>https://majordigest.com/politics/2023/08/28/porter-warren-accuse-tax-prep-firms-of-undermining-new-irs-effort-on-electronic-free-file-tax-returns/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-28T20:30:47.000Z</news:publication_date>
+          <news:title>Porter, Warren accuse tax prep firms of undermining new IRS effort on electronic free file tax returns</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/politics/2023/08/28/porter-warren-accuse-tax-prep-firms-of-undermining-new-irs-effort-on-electronic-free-file-tax-returns/porter-warren-accuse-tax-prep-firms-of-undermining-new-irs-effort-on-electronic-free-file-tax-returns.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/politics/2023/08/28/adam-schiff-visits-half-moon-bay-to-shed-light-on-farmworker-conditions/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-28T20:28:33.000Z</news:publication_date>
+          <news:title>Adam Schiff visits Half Moon Bay to shed light on farmworker conditions</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/politics/2023/08/28/adam-schiff-visits-half-moon-bay-to-shed-light-on-farmworker-conditions/adam-schiff-visits-half-moon-bay-to-shed-light-on-farmworker-conditions.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
         <loc>https://majordigest.com/politics/2023/08/28/biden-approves-emergency-declaration-for-florida-ahead-of-t-s-idalia/</loc>
         <news:news>
           <news:publication>
@@ -420,20 +434,6 @@
         </news:news>
         <image:image>
           <image:loc>https://majordigest.com/politics/2023/08/28/biden-approves-emergency-declaration-for-florida-ahead-of-t-s-idalia/biden-approves-emergency-declaration-for-florida-ahead-of-t-s-idalia.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/politics/2023/08/26/gop-presidential-candidate-vivek-ramaswamy-is-an-unaffiliated-voter-nbc-reports/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-26T20:33:41.000Z</news:publication_date>
-          <news:title>GOP presidential candidate Vivek Ramaswamy is an 'unaffiliated' voter, NBC reports</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/politics/2023/08/26/gop-presidential-candidate-vivek-ramaswamy-is-an-unaffiliated-voter-nbc-reports/gop-presidential-candidate-vivek-ramaswamy-is-an-unaffiliated-voter-nbc-reports.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -479,17 +479,17 @@
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/politics/2023/08/24/covid-19-cases-rise-cdc-recommends-updated-vaccine/</loc>
+        <loc>https://majordigest.com/politics/2023/08/24/trump-set-to-surrender-at-georgia-jail-on-charges-that-he-sought-to-overturn-2020-election/</loc>
         <news:news>
           <news:publication>
             <news:name>Major Digest</news:name>
             <news:language>en</news:language>
           </news:publication>
-          <news:publication_date>2023-08-24T20:37:19.000Z</news:publication_date>
-          <news:title>COVID-19 cases rise, CDC recommends updated vaccine</news:title>
+          <news:publication_date>2023-08-24T10:53:23.000Z</news:publication_date>
+          <news:title>Trump set to surrender at Georgia jail on charges that he sought to overturn 2020 election</news:title>
         </news:news>
         <image:image>
-          <image:loc>https://majordigest.com/politics/2023/08/24/covid-19-cases-rise-cdc-recommends-updated-vaccine/covid-19-cases-rise-cdc-recommends-updated-vaccine.webp</image:loc>
+          <image:loc>https://majordigest.com/politics/2023/08/24/trump-set-to-surrender-at-georgia-jail-on-charges-that-he-sought-to-overturn-2020-election/trump-set-to-surrender-at-georgia-jail-on-charges-that-he-sought-to-overturn-2020-election.webp</image:loc>
         </image:image>
       </url>
       <url>
