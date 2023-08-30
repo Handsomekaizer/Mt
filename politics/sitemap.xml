@@ -3,6 +3,20 @@
               xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
               xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
       <url>
+        <loc>https://majordigest.com/politics/2023/08/30/national-archives-says-5000-emails-potentially-linked-alleged-biden-pseudonyms/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-30T01:24:40.000Z</news:publication_date>
+          <news:title>National Archives says it has 5,000 emails potentially linked to alleged Biden pseudonyms: Lawsuit</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/politics/2023/08/30/national-archives-says-5000-emails-potentially-linked-alleged-biden-pseudonyms/national-archives-says-5000-emails-potentially-linked-alleged-biden-pseudonyms.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
         <loc>https://majordigest.com/politics/2023/08/30/biden-administration-shells-additional-weapons-package-ukraine/</loc>
         <news:news>
           <news:publication>
@@ -31,6 +45,20 @@
         </image:image>
       </url>
       <url>
+        <loc>https://majordigest.com/politics/2023/08/30/jim-jordan-seeks-records-on-special-counsel-attorney-meeting-with-white-house/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-30T00:05:03.000Z</news:publication_date>
+          <news:title>Jim Jordan seeks records on special counsel attorney meeting with White House</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/politics/2023/08/30/jim-jordan-seeks-records-on-special-counsel-attorney-meeting-with-white-house/jim-jordan-seeks-records-on-special-counsel-attorney-meeting-with-white-house.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
         <loc>https://majordigest.com/politics/2023/08/29/anti-abortion-activists-including-one-who-kept-fetuses-convicted-of-blocking-dc-clinic/</loc>
         <news:news>
           <news:publication>
@@ -42,34 +70,6 @@
         </news:news>
         <image:image>
           <image:loc>https://majordigest.com/politics/2023/08/29/anti-abortion-activists-including-one-who-kept-fetuses-convicted-of-blocking-dc-clinic/anti-abortion-activists-including-one-who-kept-fetuses-convicted-of-blocking-dc-clinic.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/politics/2023/08/29/no-2-house-republican-steve-scalise-diagnosed-with-blood-cancer-undergoing-treatment/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-29T23:38:31.000Z</news:publication_date>
-          <news:title>No. 2 House Republican Steve Scalise is diagnosed with blood cancer and undergoing treatment</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/politics/2023/08/29/no-2-house-republican-steve-scalise-diagnosed-with-blood-cancer-undergoing-treatment/no-2-house-republican-steve-scalise-diagnosed-with-blood-cancer-undergoing-treatment.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/politics/2023/08/29/us-says-a-smuggler-with-terrorist-ties-helped-get-migrants-from-uzbekistan-into-the-country/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-29T23:35:01.000Z</news:publication_date>
-          <news:title>US says a smuggler with terrorist ties helped get migrants from Uzbekistan into the country</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/politics/2023/08/29/us-says-a-smuggler-with-terrorist-ties-helped-get-migrants-from-uzbekistan-into-the-country/us-says-a-smuggler-with-terrorist-ties-helped-get-migrants-from-uzbekistan-into-the-country.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -129,31 +129,31 @@
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/politics/2023/08/29/democrats-walk-out-of-house-session-after-rep-jones-silenced-gallery-cleared/</loc>
+        <loc>https://majordigest.com/politics/2023/08/29/the-us-government-hoped-companies-would-want-to-build-wind-farms-off-the-texas-coast-no-one-did/</loc>
         <news:news>
           <news:publication>
             <news:name>Major Digest</news:name>
             <news:language>en</news:language>
           </news:publication>
-          <news:publication_date>2023-08-29T23:16:12.000Z</news:publication_date>
-          <news:title>Democrats walk out of House session after Rep. Jones silenced; Gallery cleared</news:title>
+          <news:publication_date>2023-08-29T22:48:12.000Z</news:publication_date>
+          <news:title>The U.S. government hoped companies would want to build wind farms off the Texas coast. No one did.</news:title>
         </news:news>
         <image:image>
-          <image:loc>https://majordigest.com/politics/2023/08/29/democrats-walk-out-of-house-session-after-rep-jones-silenced-gallery-cleared/democrats-walk-out-of-house-session-after-rep-jones-silenced-gallery-cleared.webp</image:loc>
+          <image:loc>https://majordigest.com/politics/2023/08/29/the-us-government-hoped-companies-would-want-to-build-wind-farms-off-the-texas-coast-no-one-did/the-us-government-hoped-companies-would-want-to-build-wind-farms-off-the-texas-coast-no-one-did.webp</image:loc>
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/politics/2023/08/29/trump-fundraising-spikes-after-fulton-county-mugshot-surpassing-20m-in-august/</loc>
+        <loc>https://majordigest.com/politics/2023/08/29/california-senate-elects-new-leader/</loc>
         <news:news>
           <news:publication>
             <news:name>Major Digest</news:name>
             <news:language>en</news:language>
           </news:publication>
-          <news:publication_date>2023-08-29T22:48:17.000Z</news:publication_date>
-          <news:title>Trump fundraising spikes after Fulton County mugshot, surpassing $20M in August</news:title>
+          <news:publication_date>2023-08-29T22:44:23.000Z</news:publication_date>
+          <news:title>California Senate elects new leader</news:title>
         </news:news>
         <image:image>
-          <image:loc>https://majordigest.com/politics/2023/08/29/trump-fundraising-spikes-after-fulton-county-mugshot-surpassing-20m-in-august/trump-fundraising-spikes-after-fulton-county-mugshot-surpassing-20m-in-august.webp</image:loc>
+          <image:loc>https://majordigest.com/politics/2023/08/29/california-senate-elects-new-leader/california-senate-elects-new-leader.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -199,6 +199,20 @@
         </image:image>
       </url>
       <url>
+        <loc>https://majordigest.com/politics/2023/08/29/chaotic-tennessee-special-session-ends-with-pushing-and-shoving/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-29T21:53:59.000Z</news:publication_date>
+          <news:title>Chaotic Tennessee special session ends with pushing and shoving</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/politics/2023/08/29/chaotic-tennessee-special-session-ends-with-pushing-and-shoving/chaotic-tennessee-special-session-ends-with-pushing-and-shoving.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
         <loc>https://majordigest.com/politics/2023/08/29/katie-porter-partners-with-gop-rep-to-introduce-bill-to-prevent-infant-formula-crisis/</loc>
         <news:news>
           <news:publication>
@@ -213,17 +227,31 @@
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/politics/2023/08/29/gold-star-families-abbey-gate-attack/</loc>
+        <loc>https://majordigest.com/politics/2023/08/29/texas-eighth-graders-will-soon-be-required-to-learn-about-climate-change-but-not-without-a-showdown-over-textbooks/</loc>
         <news:news>
           <news:publication>
             <news:name>Major Digest</news:name>
             <news:language>en</news:language>
           </news:publication>
-          <news:publication_date>2023-08-29T21:35:51.000Z</news:publication_date>
-          <news:title>Gold Star families push Biden admin for Abbey Gate accountability</news:title>
+          <news:publication_date>2023-08-29T21:43:43.000Z</news:publication_date>
+          <news:title>Texas eighth graders will soon be required to learn about climate change. But not without a showdown over textbooks.</news:title>
         </news:news>
         <image:image>
-          <image:loc>https://majordigest.com/politics/2023/08/29/gold-star-families-abbey-gate-attack/gold-star-families-abbey-gate-attack.webp</image:loc>
+          <image:loc>https://majordigest.com/politics/2023/08/29/texas-eighth-graders-will-soon-be-required-to-learn-about-climate-change-but-not-without-a-showdown-over-textbooks/texas-eighth-graders-will-soon-be-required-to-learn-about-climate-change-but-not-without-a-showdown-over-textbooks.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/politics/2023/08/29/hurricane-idalia-florida-danger/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-29T21:00:00.000Z</news:publication_date>
+          <news:title>Hurricane heads for state still recovering from 2022 storm</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/politics/2023/08/29/hurricane-idalia-florida-danger/hurricane-idalia-florida-danger.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -241,17 +269,17 @@
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/politics/2023/08/29/n-h-attorney-general-carefully-reviewing-arguments-that-could-keep-trump-off-states-ballot/</loc>
+        <loc>https://majordigest.com/politics/2023/08/29/vivek-ramaswamy-stop-performing-eminem/</loc>
         <news:news>
           <news:publication>
             <news:name>Major Digest</news:name>
             <news:language>en</news:language>
           </news:publication>
-          <news:publication_date>2023-08-29T20:47:02.000Z</news:publication_date>
-          <news:title>N.H. attorney general 'carefully reviewing' arguments that could keep Trump off state's ballot</news:title>
+          <news:publication_date>2023-08-29T20:37:45.000Z</news:publication_date>
+          <news:title>Standing down: Ramaswamy agrees to stop performing Eminem's work</news:title>
         </news:news>
         <image:image>
-          <image:loc>https://majordigest.com/politics/2023/08/29/n-h-attorney-general-carefully-reviewing-arguments-that-could-keep-trump-off-states-ballot/n-h-attorney-general-carefully-reviewing-arguments-that-could-keep-trump-off-states-ballot.webp</image:loc>
+          <image:loc>https://majordigest.com/politics/2023/08/29/vivek-ramaswamy-stop-performing-eminem/vivek-ramaswamy-stop-performing-eminem.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -325,20 +353,6 @@
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/politics/2023/08/29/npr-rudy-giuliani-rico-origin-story/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-29T09:01:00.000Z</news:publication_date>
-          <news:title>It's time to rethink Rudy Giuliani and his claim to discover RICO</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/politics/2023/08/29/npr-rudy-giuliani-rico-origin-story/npr-rudy-giuliani-rico-origin-story.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
         <loc>https://majordigest.com/politics/2023/08/29/morris-is-a-small-minnesota-town-with-big-climate-goals/</loc>
         <news:news>
           <news:publication>
@@ -381,34 +395,6 @@
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/politics/2023/08/28/senate-candidates-visit-stockton-to-support-rep-josh-harder-reelection-campaign/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-28T20:42:58.000Z</news:publication_date>
-          <news:title>Senate candidates visit Stockton to support Rep. Josh Harder reelection campaign</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/politics/2023/08/28/senate-candidates-visit-stockton-to-support-rep-josh-harder-reelection-campaign/senate-candidates-visit-stockton-to-support-rep-josh-harder-reelection-campaign.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/politics/2023/08/28/porter-warren-accuse-tax-prep-firms-of-undermining-new-irs-effort-on-electronic-free-file-tax-returns/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-28T20:30:47.000Z</news:publication_date>
-          <news:title>Porter, Warren accuse tax prep firms of undermining new IRS effort on electronic free file tax returns</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/politics/2023/08/28/porter-warren-accuse-tax-prep-firms-of-undermining-new-irs-effort-on-electronic-free-file-tax-returns/porter-warren-accuse-tax-prep-firms-of-undermining-new-irs-effort-on-electronic-free-file-tax-returns.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
         <loc>https://majordigest.com/politics/2023/08/28/adam-schiff-visits-half-moon-bay-to-shed-light-on-farmworker-conditions/</loc>
         <news:news>
           <news:publication>
@@ -423,20 +409,6 @@
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/politics/2023/08/28/biden-approves-emergency-declaration-for-florida-ahead-of-t-s-idalia/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-28T16:30:03.000Z</news:publication_date>
-          <news:title>Biden approves Emergency Declaration for Florida ahead of T.S. Idalia</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/politics/2023/08/28/biden-approves-emergency-declaration-for-florida-ahead-of-t-s-idalia/biden-approves-emergency-declaration-for-florida-ahead-of-t-s-idalia.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
         <loc>https://majordigest.com/politics/2023/08/26/gop-presidential-candidate-vivek-ramaswamy-is-an-unaffiliated-voter-nbc-reports/</loc>
         <news:news>
           <news:publication>
@@ -448,6 +420,20 @@
         </news:news>
         <image:image>
           <image:loc>https://majordigest.com/politics/2023/08/26/gop-presidential-candidate-vivek-ramaswamy-is-an-unaffiliated-voter-nbc-reports/gop-presidential-candidate-vivek-ramaswamy-is-an-unaffiliated-voter-nbc-reports.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/politics/2023/08/25/carlos-santana-issues-apology-for-anti-trans-remarks-on-stage/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-25T15:43:31.000Z</news:publication_date>
+          <news:title>Carlos Santana issues apology for anti-trans remarks on stage</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/politics/2023/08/25/carlos-santana-issues-apology-for-anti-trans-remarks-on-stage/carlos-santana-issues-apology-for-anti-trans-remarks-on-stage.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -479,17 +465,17 @@
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/politics/2023/08/24/trump-set-to-surrender-at-georgia-jail-on-charges-that-he-sought-to-overturn-2020-election/</loc>
+        <loc>https://majordigest.com/politics/2023/08/24/covid-19-cases-rise-cdc-recommends-updated-vaccine/</loc>
         <news:news>
           <news:publication>
             <news:name>Major Digest</news:name>
             <news:language>en</news:language>
           </news:publication>
-          <news:publication_date>2023-08-24T10:53:23.000Z</news:publication_date>
-          <news:title>Trump set to surrender at Georgia jail on charges that he sought to overturn 2020 election</news:title>
+          <news:publication_date>2023-08-24T20:37:19.000Z</news:publication_date>
+          <news:title>COVID-19 cases rise, CDC recommends updated vaccine</news:title>
         </news:news>
         <image:image>
-          <image:loc>https://majordigest.com/politics/2023/08/24/trump-set-to-surrender-at-georgia-jail-on-charges-that-he-sought-to-overturn-2020-election/trump-set-to-surrender-at-georgia-jail-on-charges-that-he-sought-to-overturn-2020-election.webp</image:loc>
+          <image:loc>https://majordigest.com/politics/2023/08/24/covid-19-cases-rise-cdc-recommends-updated-vaccine/covid-19-cases-rise-cdc-recommends-updated-vaccine.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -518,5 +504,19 @@
         </news:news>
         <image:image>
           <image:loc>https://majordigest.com/politics/2023/08/23/who-takes-advantage-of-donald-trumps-absence-and-other-things-to-watch-in-the-republican-debate/who-takes-advantage-of-donald-trumps-absence-and-other-things-to-watch-in-the-republican-debate.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/politics/2023/08/23/rudy-giuliani-surrenders-on-georgia-charges-alleging-an-illegal-plot-to-subvert-2020-election-jail-records-show/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-23T19:26:31.000Z</news:publication_date>
+          <news:title>Rudy Giuliani surrenders on Georgia charges alleging an illegal plot to subvert 2020 election, jail records show</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/politics/2023/08/23/rudy-giuliani-surrenders-on-georgia-charges-alleging-an-illegal-plot-to-subvert-2020-election-jail-records-show/rudy-giuliani-surrenders-on-georgia-charges-alleging-an-illegal-plot-to-subvert-2020-election-jail-records-show.webp</image:loc>
         </image:image>
       </url></urlset>

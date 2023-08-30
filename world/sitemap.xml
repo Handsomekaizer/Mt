@@ -3,6 +3,90 @@
               xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
               xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
       <url>
+        <loc>https://majordigest.com/world/2023/08/30/bodies-of-3-marines-killed-during-australian-osprey-crash-pulled-from-site-of-crash/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-30T01:20:13.000Z</news:publication_date>
+          <news:title>Bodies of 3 Marines killed during in Australian Osprey crash pulled from site of crash</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/world/2023/08/30/bodies-of-3-marines-killed-during-australian-osprey-crash-pulled-from-site-of-crash/bodies-of-3-marines-killed-during-australian-osprey-crash-pulled-from-site-of-crash.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/world/2023/08/30/israelis-on-a-flight-that-made-an-emergency-landing-in-saudi-arabia-return-to-tel-aviv/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-30T00:58:50.000Z</news:publication_date>
+          <news:title>Saudi Arabia gets some unlikely visitors when a plane full of Israelis makes an emergency landing</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/world/2023/08/30/israelis-on-a-flight-that-made-an-emergency-landing-in-saudi-arabia-return-to-tel-aviv/israelis-on-a-flight-that-made-an-emergency-landing-in-saudi-arabia-return-to-tel-aviv.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/world/2023/08/30/israelis-on-a-flight-that-made-an-emergency-landing-in-saudi-arabia-return-to-tel-aviv/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-30T00:58:50.000Z</news:publication_date>
+          <news:title>Saudi Arabia gets some unlikely visitors when a plane full of Israelis makes an emergency landing</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/world/2023/08/30/israelis-on-a-flight-that-made-an-emergency-landing-in-saudi-arabia-return-to-tel-aviv/israelis-on-a-flight-that-made-an-emergency-landing-in-saudi-arabia-return-to-tel-aviv.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/world/2023/08/30/a-ugandan-man-is-charged-with-aggravated-homosexuality-and-could-face-the-death-penalty/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-30T00:55:22.000Z</news:publication_date>
+          <news:title>A Ugandan man is charged with aggravated homosexuality and could face the death penalty</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/world/2023/08/30/a-ugandan-man-is-charged-with-aggravated-homosexuality-and-could-face-the-death-penalty/a-ugandan-man-is-charged-with-aggravated-homosexuality-and-could-face-the-death-penalty.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/world/2023/08/30/guatemalas-president-elect-faces-legal-challenges-that-seek-to-weaken-him-heres-whats-happening/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-30T00:42:26.000Z</news:publication_date>
+          <news:title>Guatemala's president-elect faces legal challenges that seek to weaken him. Here's what's happening</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/world/2023/08/30/guatemalas-president-elect-faces-legal-challenges-that-seek-to-weaken-him-heres-whats-happening/guatemalas-president-elect-faces-legal-challenges-that-seek-to-weaken-him-heres-whats-happening.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/world/2023/08/29/guatemalan-president-calls-for-transition-of-power-to-anti-corruption-crusader-arevalo/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-29T23:59:52.000Z</news:publication_date>
+          <news:title>Guatemalan president calls for transition of power to anti-corruption crusader Ar&#233;valo</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/world/2023/08/29/guatemalan-president-calls-for-transition-of-power-to-anti-corruption-crusader-arevalo/guatemalan-president-calls-for-transition-of-power-to-anti-corruption-crusader-arevalo.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
         <loc>https://majordigest.com/world/2023/08/29/technical-failure-halted-uk-air-traffic-blamed-issues-flight-data/</loc>
         <news:news>
           <news:publication>
@@ -59,17 +143,17 @@
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/world/2023/08/29/paul-whelan-american-detained-in-russia-seen-in-new-video-released-by-state-media/</loc>
+        <loc>https://majordigest.com/world/2023/08/29/japan-sees-signs-turning-point-decades-long-battle-deflation/</loc>
         <news:news>
           <news:publication>
             <news:name>Major Digest</news:name>
             <news:language>en</news:language>
           </news:publication>
-          <news:publication_date>2023-08-29T23:18:05.000Z</news:publication_date>
-          <news:title>Paul Whelan, American detained in Russia, seen in new video released by state media</news:title>
+          <news:publication_date>2023-08-29T23:00:17.000Z</news:publication_date>
+          <news:title>Japan sees signs of turning point in decades-long battle with deflation</news:title>
         </news:news>
         <image:image>
-          <image:loc>https://majordigest.com/world/2023/08/29/paul-whelan-american-detained-in-russia-seen-in-new-video-released-by-state-media/paul-whelan-american-detained-in-russia-seen-in-new-video-released-by-state-media.webp</image:loc>
+          <image:loc>https://majordigest.com/world/2023/08/29/japan-sees-signs-turning-point-decades-long-battle-deflation/japan-sees-signs-turning-point-decades-long-battle-deflation.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -115,20 +199,6 @@
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/world/2023/08/29/zimbabwes-opposition-calls-internationally-supervised-redo-controversial-election/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-29T22:01:51.000Z</news:publication_date>
-          <news:title>Zimbabwe's opposition calls for internationally-supervised redo of controversial election</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/world/2023/08/29/zimbabwes-opposition-calls-internationally-supervised-redo-controversial-election/zimbabwes-opposition-calls-internationally-supervised-redo-controversial-election.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
         <loc>https://majordigest.com/world/2023/08/29/the-kremlin-says-putin-is-not-planning-to-attend-wagner-chief-prigozhins-burial/</loc>
         <news:news>
           <news:publication>
@@ -171,17 +241,17 @@
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/world/2023/08/29/eu-commission-president-will-propose-dutch-foreign-minister-as-successor-for-climate-czar-timmermans/</loc>
+        <loc>https://majordigest.com/world/2023/08/29/kim-calls-for-invasion-preparations-in-north-korea/</loc>
         <news:news>
           <news:publication>
             <news:name>Major Digest</news:name>
             <news:language>en</news:language>
           </news:publication>
-          <news:publication_date>2023-08-29T17:13:33.000Z</news:publication_date>
-          <news:title>EU Commission president will propose Dutch foreign minister as successor for climate czar Timmermans</news:title>
+          <news:publication_date>2023-08-29T17:37:46.000Z</news:publication_date>
+          <news:title>Kim calls for invasion preparations in North Korea amid US, allies' exercises</news:title>
         </news:news>
         <image:image>
-          <image:loc>https://majordigest.com/world/2023/08/29/eu-commission-president-will-propose-dutch-foreign-minister-as-successor-for-climate-czar-timmermans/eu-commission-president-will-propose-dutch-foreign-minister-as-successor-for-climate-czar-timmermans.webp</image:loc>
+          <image:loc>https://majordigest.com/world/2023/08/29/kim-calls-for-invasion-preparations-in-north-korea/kim-calls-for-invasion-preparations-in-north-korea.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -199,31 +269,17 @@
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/world/2023/08/29/zimbabwe-opposition-party-calls-for-fresh-elections-supervised-by-neighboring-countries/</loc>
+        <loc>https://majordigest.com/world/2023/08/29/meta-rejects-recommendation-to-suspend-former-cambodian-prime-minister/</loc>
         <news:news>
           <news:publication>
             <news:name>Major Digest</news:name>
             <news:language>en</news:language>
           </news:publication>
-          <news:publication_date>2023-08-29T16:42:05.000Z</news:publication_date>
-          <news:title>Zimbabwe opposition party calls for fresh elections supervised by neighboring countries</news:title>
+          <news:publication_date>2023-08-29T16:52:49.000Z</news:publication_date>
+          <news:title>Meta rejects recommendation to suspend former Cambodian prime minister</news:title>
         </news:news>
         <image:image>
-          <image:loc>https://majordigest.com/world/2023/08/29/zimbabwe-opposition-party-calls-for-fresh-elections-supervised-by-neighboring-countries/zimbabwe-opposition-party-calls-for-fresh-elections-supervised-by-neighboring-countries.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/world/2023/08/29/switzerland-indicts-algerian-ex-minister-for-alleged-crimes-against-humanity-during-1990s-insurgency/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-29T16:26:17.000Z</news:publication_date>
-          <news:title>Switzerland indicts Algerian ex-minister for alleged crimes against humanity during 1990s insurgency</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/world/2023/08/29/switzerland-indicts-algerian-ex-minister-for-alleged-crimes-against-humanity-during-1990s-insurgency/switzerland-indicts-algerian-ex-minister-for-alleged-crimes-against-humanity-during-1990s-insurgency.webp</image:loc>
+          <image:loc>https://majordigest.com/world/2023/08/29/meta-rejects-recommendation-to-suspend-former-cambodian-prime-minister/meta-rejects-recommendation-to-suspend-former-cambodian-prime-minister.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -241,34 +297,6 @@
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/world/2023/08/29/kim-calls-for-north-korean-military-to-be-constantly-ready-to-smash-us-led-invasion-plot/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-29T15:50:59.000Z</news:publication_date>
-          <news:title>Kim says North Korea must be ready against US-led invasion plots, while US, allies start new drills</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/world/2023/08/29/kim-calls-for-north-korean-military-to-be-constantly-ready-to-smash-us-led-invasion-plot/kim-calls-for-north-korean-military-to-be-constantly-ready-to-smash-us-led-invasion-plot.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/world/2023/08/29/kim-calls-for-north-korean-military-to-be-constantly-ready-to-smash-us-led-invasion-plot/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-29T15:50:59.000Z</news:publication_date>
-          <news:title>Kim says North Korea must be ready against US-led invasion plots, while US, allies start new drills</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/world/2023/08/29/kim-calls-for-north-korean-military-to-be-constantly-ready-to-smash-us-led-invasion-plot/kim-calls-for-north-korean-military-to-be-constantly-ready-to-smash-us-led-invasion-plot.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
         <loc>https://majordigest.com/world/2023/08/29/neurosurgeon-investigating-patients-mystery-symptoms-plucks-worm-from-womans-brain/</loc>
         <news:news>
           <news:publication>
@@ -283,31 +311,31 @@
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/world/2023/08/29/sudans-military-leader-travels-to-egypt-in-his-first-trip-abroad-since-the-war/</loc>
+        <loc>https://majordigest.com/world/2023/08/29/pakistani-court-suspends-the-corruption-conviction-and-sentence-of-former-prime-minister-imran-khan/</loc>
         <news:news>
           <news:publication>
             <news:name>Major Digest</news:name>
             <news:language>en</news:language>
           </news:publication>
-          <news:publication_date>2023-08-29T06:55:32.000Z</news:publication_date>
-          <news:title>Sudan&#8217;s military leader visits Egypt on his first trip abroad since his country plunged into war</news:title>
+          <news:publication_date>2023-08-29T08:29:11.000Z</news:publication_date>
+          <news:title>Pakistani court suspends the corruption conviction and sentence of former Prime Minister Imran Khan</news:title>
         </news:news>
         <image:image>
-          <image:loc>https://majordigest.com/world/2023/08/29/sudans-military-leader-travels-to-egypt-in-his-first-trip-abroad-since-the-war/sudans-military-leader-travels-to-egypt-in-his-first-trip-abroad-since-the-war.webp</image:loc>
+          <image:loc>https://majordigest.com/world/2023/08/29/pakistani-court-suspends-the-corruption-conviction-and-sentence-of-former-prime-minister-imran-khan/pakistani-court-suspends-the-corruption-conviction-and-sentence-of-former-prime-minister-imran-khan.webp</image:loc>
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/world/2023/08/28/us-chinese-commerce-leaders-meet-huge-progress/</loc>
+        <loc>https://majordigest.com/world/2023/08/29/us-marines-killed-in-australian-aircraft-crash-were-from-illinois-virginia-and-colorado/</loc>
         <news:news>
           <news:publication>
             <news:name>Major Digest</news:name>
             <news:language>en</news:language>
           </news:publication>
-          <news:publication_date>2023-08-28T20:44:31.000Z</news:publication_date>
-          <news:title>US, Chinese commerce leaders meet: 'Huge progress'</news:title>
+          <news:publication_date>2023-08-29T01:55:12.000Z</news:publication_date>
+          <news:title>US Marines killed in Australian aircraft crash were from Illinois, Virginia and Colorado</news:title>
         </news:news>
         <image:image>
-          <image:loc>https://majordigest.com/world/2023/08/28/us-chinese-commerce-leaders-meet-huge-progress/us-chinese-commerce-leaders-meet-huge-progress.webp</image:loc>
+          <image:loc>https://majordigest.com/world/2023/08/29/us-marines-killed-in-australian-aircraft-crash-were-from-illinois-virginia-and-colorado/us-marines-killed-in-australian-aircraft-crash-were-from-illinois-virginia-and-colorado.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -378,34 +406,6 @@
         </news:news>
         <image:image>
           <image:loc>https://majordigest.com/world/2023/08/28/8-us-marines-remain-in-hospital-after-fiery-aircraft-crash-killed-3-in-australia/8-us-marines-remain-in-hospital-after-fiery-aircraft-crash-killed-3-in-australia.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/world/2023/08/28/8-us-marines-remain-in-hospital-after-fiery-aircraft-crash-killed-3-in-australia/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-28T05:36:17.000Z</news:publication_date>
-          <news:title>8 US Marines remain in a hospital after a fiery aircraft crash killed 3 during drills in Australia</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/world/2023/08/28/8-us-marines-remain-in-hospital-after-fiery-aircraft-crash-killed-3-in-australia/8-us-marines-remain-in-hospital-after-fiery-aircraft-crash-killed-3-in-australia.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/world/2023/08/27/russia-says-it-has-confirmed-prigozhin-died-in-the-plane-crash/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-27T16:07:48.000Z</news:publication_date>
-          <news:title>Russia says it confirmed Wagner leader Prigozhin died in a plane crash</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/world/2023/08/27/russia-says-it-has-confirmed-prigozhin-died-in-the-plane-crash/russia-says-it-has-confirmed-prigozhin-died-in-the-plane-crash.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -493,6 +493,20 @@
         </image:image>
       </url>
       <url>
+        <loc>https://majordigest.com/world/2023/08/24/fifa-opens-case-against-spanish-soccer-official-who-kissed-player-on-lips-at-womens-world-cup/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-24T20:20:35.000Z</news:publication_date>
+          <news:title>FIFA opens case against Spanish soccer official who kissed player on lips at Women's World Cup</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/world/2023/08/24/fifa-opens-case-against-spanish-soccer-official-who-kissed-player-on-lips-at-womens-world-cup/fifa-opens-case-against-spanish-soccer-official-who-kissed-player-on-lips-at-womens-world-cup.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
         <loc>https://majordigest.com/world/2023/08/24/putin-breaks-silence-on-plane-crash-that-presumably-killed-wagner-leaders/</loc>
         <news:news>
           <news:publication>
@@ -504,19 +518,5 @@
         </news:news>
         <image:image>
           <image:loc>https://majordigest.com/world/2023/08/24/putin-breaks-silence-on-plane-crash-that-presumably-killed-wagner-leaders/putin-breaks-silence-on-plane-crash-that-presumably-killed-wagner-leaders.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/world/2023/08/23/jet-crash-in-russia-kills-10-and-wagner-chief-was-on-passenger-list-officials-say/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-23T17:38:57.000Z</news:publication_date>
-          <news:title>Jet crash in Russia kills 10 and Wagner chief was on passenger list, officials say</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/world/2023/08/23/jet-crash-in-russia-kills-10-and-wagner-chief-was-on-passenger-list-officials-say/jet-crash-in-russia-kills-10-and-wagner-chief-was-on-passenger-list-officials-say.webp</image:loc>
         </image:image>
       </url></urlset>
