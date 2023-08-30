@@ -3,6 +3,34 @@
               xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
               xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
       <url>
+        <loc>https://majordigest.com/tech/2023/08/30/saudi-man-receives-death-penalty-for-posts-online-latest-case-in-wide-ranging-crackdown-on-dissent/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-30T14:28:33.000Z</news:publication_date>
+          <news:title>Saudi man receives death penalty for posts online, latest case in wide-ranging crackdown on dissent</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/tech/2023/08/30/saudi-man-receives-death-penalty-for-posts-online-latest-case-in-wide-ranging-crackdown-on-dissent/saudi-man-receives-death-penalty-for-posts-online-latest-case-in-wide-ranging-crackdown-on-dissent.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/tech/2023/08/30/fox-news-ai-newsletter-tiktoker-sounds-alarm-scary-online-trend-affecting-children/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-30T14:26:08.000Z</news:publication_date>
+          <news:title>Fox News AI Newsletter: TikToker sounds alarm on scary online trend affecting children</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/tech/2023/08/30/fox-news-ai-newsletter-tiktoker-sounds-alarm-scary-online-trend-affecting-children/fox-news-ai-newsletter-tiktoker-sounds-alarm-scary-online-trend-affecting-children.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
         <loc>https://majordigest.com/tech/2023/08/30/indonesia-arrests-88-chinese-nationals-in-online-romance-scams/</loc>
         <news:news>
           <news:publication>
@@ -171,17 +199,17 @@
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/tech/2023/08/29/x-to-allow-political-ads-for-the-first-time-since-2019/</loc>
+        <loc>https://majordigest.com/tech/2023/08/29/apple-expected-to-unveil-new-iphone-at-wonderlust-special-event-at-cupertino-headquarters/</loc>
         <news:news>
           <news:publication>
             <news:name>Major Digest</news:name>
             <news:language>en</news:language>
           </news:publication>
-          <news:publication_date>2023-08-29T17:57:46.000Z</news:publication_date>
-          <news:title>X to allow political ads for the first time since 2019</news:title>
+          <news:publication_date>2023-08-29T17:50:52.000Z</news:publication_date>
+          <news:title>Apple expected to unveil new iPhone at &#8216;Wonderlust.&#8217; special event at Cupertino headquarters</news:title>
         </news:news>
         <image:image>
-          <image:loc>https://majordigest.com/tech/2023/08/29/x-to-allow-political-ads-for-the-first-time-since-2019/x-to-allow-political-ads-for-the-first-time-since-2019.webp</image:loc>
+          <image:loc>https://majordigest.com/tech/2023/08/29/apple-expected-to-unveil-new-iphone-at-wonderlust-special-event-at-cupertino-headquarters/apple-expected-to-unveil-new-iphone-at-wonderlust-special-event-at-cupertino-headquarters.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -227,6 +255,20 @@
         </image:image>
       </url>
       <url>
+        <loc>https://majordigest.com/tech/2023/08/29/meta-rejects-recommendation-to-suspend-former-cambodian-prime-minister/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-29T16:52:49.000Z</news:publication_date>
+          <news:title>Meta rejects recommendation to suspend former Cambodian prime minister</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/tech/2023/08/29/meta-rejects-recommendation-to-suspend-former-cambodian-prime-minister/meta-rejects-recommendation-to-suspend-former-cambodian-prime-minister.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
         <loc>https://majordigest.com/tech/2023/08/29/computer-problem-halts-toyota-production-at-japan-plants/</loc>
         <news:news>
           <news:publication>
@@ -238,20 +280,6 @@
         </news:news>
         <image:image>
           <image:loc>https://majordigest.com/tech/2023/08/29/computer-problem-halts-toyota-production-at-japan-plants/computer-problem-halts-toyota-production-at-japan-plants.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/tech/2023/08/29/meta-says-it-disrupted-largest-known-cross-platform-china-linked-disinformation-campaign/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-29T15:31:54.000Z</news:publication_date>
-          <news:title>Meta says it disrupted 'largest known cross-platform' China-linked disinformation campaign</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/tech/2023/08/29/meta-says-it-disrupted-largest-known-cross-platform-china-linked-disinformation-campaign/meta-says-it-disrupted-largest-known-cross-platform-china-linked-disinformation-campaign.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -336,34 +364,6 @@
         </news:news>
         <image:image>
           <image:loc>https://majordigest.com/tech/2023/08/29/amazon-is-raising-free-shipping-minimums-for-some-customers-who-dont-have-prime-memberships/amazon-is-raising-free-shipping-minimums-for-some-customers-who-dont-have-prime-memberships.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/tech/2023/08/28/car-cheaper-electric-gas/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-28T22:24:36.000Z</news:publication_date>
-          <news:title>Which car is cheaper, electric or gas? It depends where you live</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/tech/2023/08/28/car-cheaper-electric-gas/car-cheaper-electric-gas.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/tech/2023/08/28/beware-mac-malware-masquerading-office-productivity-app/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-28T19:28:35.000Z</news:publication_date>
-          <news:title>Beware of this Mac malware masquerading as an office productivity app</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/tech/2023/08/28/beware-mac-malware-masquerading-office-productivity-app/beware-mac-malware-masquerading-office-productivity-app.webp</image:loc>
         </image:image>
       </url>
       <url>

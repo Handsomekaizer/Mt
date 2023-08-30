@@ -3,13 +3,69 @@
               xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
               xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
       <url>
+        <loc>https://majordigest.com/us/2023/08/30/chicago-fop-president-slams-migrant-conditions-at-police-stations/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-30T15:04:58.000Z</news:publication_date>
+          <news:title>Chicago FOP president slams migrant conditions at police stations</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/us/2023/08/30/chicago-fop-president-slams-migrant-conditions-at-police-stations/chicago-fop-president-slams-migrant-conditions-at-police-stations.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/us/2023/08/30/ex-proud-boys-leader-enrique-tarrio-to-be-sentenced-for-seditious-conspiracy-in-jan-6-attack/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-30T14:59:24.000Z</news:publication_date>
+          <news:title>Judge's illness delays sentencing for ex-Proud Boys leader Enrique Tarrio in Jan. 6 case</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/us/2023/08/30/ex-proud-boys-leader-enrique-tarrio-to-be-sentenced-for-seditious-conspiracy-in-jan-6-attack/ex-proud-boys-leader-enrique-tarrio-to-be-sentenced-for-seditious-conspiracy-in-jan-6-attack.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/us/2023/08/30/court-says-netanyahus-son-must-pay-damages-to-woman-he-implied-had-affair-with-his-fathers-rival/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-30T14:55:17.000Z</news:publication_date>
+          <news:title>Court says Netanyahu's son must pay damages to woman he implied had affair with his father's rival</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/us/2023/08/30/court-says-netanyahus-son-must-pay-damages-to-woman-he-implied-had-affair-with-his-fathers-rival/court-says-netanyahus-son-must-pay-damages-to-woman-he-implied-had-affair-with-his-fathers-rival.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/us/2023/08/30/nevada-tribal-ranger-plowed-burning-man-climate-blockade-drew-weapon-scrutiny/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-30T14:55:10.000Z</news:publication_date>
+          <news:title>Nevada tribal ranger who plowed through Burning Man climate blockade and drew weapon under scrutiny</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/us/2023/08/30/nevada-tribal-ranger-plowed-burning-man-climate-blockade-drew-weapon-scrutiny/nevada-tribal-ranger-plowed-burning-man-climate-blockade-drew-weapon-scrutiny.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
         <loc>https://majordigest.com/us/2023/08/30/live-updates-hurricane-idalia-set-to-hit-florida-as-category-4-storm/</loc>
         <news:news>
           <news:publication>
             <news:name>Major Digest</news:name>
             <news:language>en</news:language>
           </news:publication>
-          <news:publication_date>2023-08-30T14:06:25.000Z</news:publication_date>
+          <news:publication_date>2023-08-30T14:29:49.000Z</news:publication_date>
           <news:title>Live updates | Hurricane Idalia makes landfall in Florida</news:title>
         </news:news>
         <image:image>
@@ -17,45 +73,59 @@
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/us/2023/08/30/idalia-predicted-to-hit-florida-as-category-4-hurricane-with-catastrophic-storm-surge/</loc>
+        <loc>https://majordigest.com/us/2023/08/30/epa-head-supports-decision-halt-alaska-mine-project-protect-salmon-rich-bristol-bay/</loc>
         <news:news>
           <news:publication>
             <news:name>Major Digest</news:name>
             <news:language>en</news:language>
           </news:publication>
-          <news:publication_date>2023-08-30T13:58:33.000Z</news:publication_date>
-          <news:title>Hurricane Idalia unleashes fury on Florida after making landfall as a dangerous Category 3 storm</news:title>
+          <news:publication_date>2023-08-30T14:29:41.000Z</news:publication_date>
+          <news:title>EPA head supports decision to halt Alaska mine project to protect salmon-rich Bristol Bay</news:title>
         </news:news>
         <image:image>
-          <image:loc>https://majordigest.com/us/2023/08/30/idalia-predicted-to-hit-florida-as-category-4-hurricane-with-catastrophic-storm-surge/idalia-predicted-to-hit-florida-as-category-4-hurricane-with-catastrophic-storm-surge.webp</image:loc>
+          <image:loc>https://majordigest.com/us/2023/08/30/epa-head-supports-decision-halt-alaska-mine-project-protect-salmon-rich-bristol-bay/epa-head-supports-decision-halt-alaska-mine-project-protect-salmon-rich-bristol-bay.webp</image:loc>
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/us/2023/08/30/india-protests-chinas-land-claim-ahead-of-the-g20-summit-president-xi-jinping-is-expected-to-attend/</loc>
+        <loc>https://majordigest.com/us/2023/08/30/us-questions-tesla-move-to-allow-hands-free-driving-longer-with-autopilot/</loc>
         <news:news>
           <news:publication>
             <news:name>Major Digest</news:name>
             <news:language>en</news:language>
           </news:publication>
-          <news:publication_date>2023-08-30T13:49:26.000Z</news:publication_date>
-          <news:title>India and Malaysia protest China's land claim in a newly published map ahead of the G20 summit</news:title>
+          <news:publication_date>2023-08-30T14:27:58.000Z</news:publication_date>
+          <news:title>US questions Tesla move to allow hands-free driving longer with Autopilot</news:title>
         </news:news>
         <image:image>
-          <image:loc>https://majordigest.com/us/2023/08/30/india-protests-chinas-land-claim-ahead-of-the-g20-summit-president-xi-jinping-is-expected-to-attend/india-protests-chinas-land-claim-ahead-of-the-g20-summit-president-xi-jinping-is-expected-to-attend.webp</image:loc>
+          <image:loc>https://majordigest.com/us/2023/08/30/us-questions-tesla-move-to-allow-hands-free-driving-longer-with-autopilot/us-questions-tesla-move-to-allow-hands-free-driving-longer-with-autopilot.webp</image:loc>
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/us/2023/08/30/gabon-military-officers-say-theyre-seizing-power-just-days-after-the-presidential-election/</loc>
+        <loc>https://majordigest.com/us/2023/08/30/illinois-judge-overturns-double-murder-conviction-chicago-man-following-34-years-imprisonment/</loc>
         <news:news>
           <news:publication>
             <news:name>Major Digest</news:name>
             <news:language>en</news:language>
           </news:publication>
-          <news:publication_date>2023-08-30T13:42:29.000Z</news:publication_date>
-          <news:title>Soldiers in Gabon say they've seized power and detained a president whose family ruled for 55 years</news:title>
+          <news:publication_date>2023-08-30T14:26:03.000Z</news:publication_date>
+          <news:title>Illinois judge overturns double-murder conviction of Chicago man following 34 years of imprisonment</news:title>
         </news:news>
         <image:image>
-          <image:loc>https://majordigest.com/us/2023/08/30/gabon-military-officers-say-theyre-seizing-power-just-days-after-the-presidential-election/gabon-military-officers-say-theyre-seizing-power-just-days-after-the-presidential-election.webp</image:loc>
+          <image:loc>https://majordigest.com/us/2023/08/30/illinois-judge-overturns-double-murder-conviction-chicago-man-following-34-years-imprisonment/illinois-judge-overturns-double-murder-conviction-chicago-man-following-34-years-imprisonment.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/us/2023/08/30/new-mexico-teen-accused-killing-newborn-faces-nonsense-petition-ban-her-college-lawyer/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-30T14:21:27.000Z</news:publication_date>
+          <news:title>New Mexico teen accused of killing newborn faces 'nonsense' petition to ban her from college: lawyer</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/us/2023/08/30/new-mexico-teen-accused-killing-newborn-faces-nonsense-petition-ban-her-college-lawyer/new-mexico-teen-accused-killing-newborn-faces-nonsense-petition-ban-her-college-lawyer.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -70,20 +140,6 @@
         </news:news>
         <image:image>
           <image:loc>https://majordigest.com/us/2023/08/30/supermoon-could-team-up-with-hurricane-idalia-to-raise-tides-higher-just-as-the-storm-makes-landfall/supermoon-could-team-up-with-hurricane-idalia-to-raise-tides-higher-just-as-the-storm-makes-landfall.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/us/2023/08/30/connecticut-police-arrest-man-who-said-found-bag-5000-cash/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-30T13:20:24.000Z</news:publication_date>
-          <news:title>Connecticut police arrest man who said he found a bag containing $5,000 in cash</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/us/2023/08/30/connecticut-police-arrest-man-who-said-found-bag-5000-cash/connecticut-police-arrest-man-who-said-found-bag-5000-cash.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -115,20 +171,6 @@
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/us/2023/08/30/us-fighting-to-stop-planned-titanic-expedition-calling-wreck-a-gravesite/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-30T13:00:52.000Z</news:publication_date>
-          <news:title>US fighting to stop planned Titanic expedition, calling wreck a gravesite</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/us/2023/08/30/us-fighting-to-stop-planned-titanic-expedition-calling-wreck-a-gravesite/us-fighting-to-stop-planned-titanic-expedition-calling-wreck-a-gravesite.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
         <loc>https://majordigest.com/us/2023/08/30/extra-big-bright-supermoon-to-light-up-michigan-skies-wednesday-night/</loc>
         <news:news>
           <news:publication>
@@ -140,6 +182,20 @@
         </news:news>
         <image:image>
           <image:loc>https://majordigest.com/us/2023/08/30/extra-big-bright-supermoon-to-light-up-michigan-skies-wednesday-night/extra-big-bright-supermoon-to-light-up-michigan-skies-wednesday-night.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/us/2023/08/30/house-conservatives-flirt-with-shutdown-so-be-it/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-30T12:32:21.000Z</news:publication_date>
+          <news:title>House conservatives flirt with shutdown: 'So be it'</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/us/2023/08/30/house-conservatives-flirt-with-shutdown-so-be-it/house-conservatives-flirt-with-shutdown-so-be-it.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -157,31 +213,31 @@
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/us/2023/08/30/updated-list-florida-evacuation-zones-by-county-for-hurricane-idalia/</loc>
+        <loc>https://majordigest.com/us/2023/08/30/what-makes-idalia-so-potent-intensely-warm-water-that-acts-like-rocket-fuel/</loc>
         <news:news>
           <news:publication>
             <news:name>Major Digest</news:name>
             <news:language>en</news:language>
           </news:publication>
-          <news:publication_date>2023-08-30T11:08:10.000Z</news:publication_date>
-          <news:title>Updated list: Florida evacuation zones by county for Hurricane Idalia</news:title>
+          <news:publication_date>2023-08-30T09:51:44.000Z</news:publication_date>
+          <news:title>What makes Idalia so potent? Intensely warm water that acts like rocket fuel</news:title>
         </news:news>
         <image:image>
-          <image:loc>https://majordigest.com/us/2023/08/30/updated-list-florida-evacuation-zones-by-county-for-hurricane-idalia/updated-list-florida-evacuation-zones-by-county-for-hurricane-idalia.webp</image:loc>
+          <image:loc>https://majordigest.com/us/2023/08/30/what-makes-idalia-so-potent-intensely-warm-water-that-acts-like-rocket-fuel/what-makes-idalia-so-potent-intensely-warm-water-that-acts-like-rocket-fuel.webp</image:loc>
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/us/2023/08/30/live-updates-hurricane-idalia-expected-to-hit-florida-at-category-4-strength/</loc>
+        <loc>https://majordigest.com/us/2023/08/30/11-taken-to-hospital-as-delta-jetliner-hits-turbulence-near-atlanta-airport/</loc>
         <news:news>
           <news:publication>
             <news:name>Major Digest</news:name>
             <news:language>en</news:language>
           </news:publication>
-          <news:publication_date>2023-08-30T10:00:00.000Z</news:publication_date>
-          <news:title>Live updates: Hurricane Idalia hits Florida at Category 3 strength</news:title>
+          <news:publication_date>2023-08-30T09:37:21.000Z</news:publication_date>
+          <news:title>11 taken to hospital as Delta jetliner hits turbulence near Atlanta airport</news:title>
         </news:news>
         <image:image>
-          <image:loc>https://majordigest.com/us/2023/08/30/live-updates-hurricane-idalia-expected-to-hit-florida-at-category-4-strength/live-updates-hurricane-idalia-expected-to-hit-florida-at-category-4-strength.webp</image:loc>
+          <image:loc>https://majordigest.com/us/2023/08/30/11-taken-to-hospital-as-delta-jetliner-hits-turbulence-near-atlanta-airport/11-taken-to-hospital-as-delta-jetliner-hits-turbulence-near-atlanta-airport.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -192,7 +248,7 @@
             <news:language>en</news:language>
           </news:publication>
           <news:publication_date>2023-08-30T09:17:07.000Z</news:publication_date>
-          <news:title>Hurricane Idalia blasts Florida after making landfall as a dangerous Category 3 storm</news:title>
+          <news:title>Idalia blasts Florida and Georgia, swamping the coast and closing highways</news:title>
         </news:news>
         <image:image>
           <image:loc>https://majordigest.com/us/2023/08/30/idalia-now-dangerous-category-4-hurricane-with-catastrophic-storm-surge/idalia-now-dangerous-category-4-hurricane-with-catastrophic-storm-surge.webp</image:loc>
@@ -213,31 +269,31 @@
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/us/2023/08/30/veteran-dying-dog-sapphire-george-santos-con/</loc>
+        <loc>https://majordigest.com/us/2023/08/30/add-physical-fitness-section-to-the-sat-ramaswamy-says/</loc>
         <news:news>
           <news:publication>
             <news:name>Major Digest</news:name>
             <news:language>en</news:language>
           </news:publication>
-          <news:publication_date>2023-08-30T03:46:29.000Z</news:publication_date>
-          <news:title>Vet who claims George Santos conned him: &#8216;I want him in trouble'</news:title>
+          <news:publication_date>2023-08-30T03:50:44.000Z</news:publication_date>
+          <news:title>Add physical fitness section to the SAT, Ramaswamy says</news:title>
         </news:news>
         <image:image>
-          <image:loc>https://majordigest.com/us/2023/08/30/veteran-dying-dog-sapphire-george-santos-con/veteran-dying-dog-sapphire-george-santos-con.webp</image:loc>
+          <image:loc>https://majordigest.com/us/2023/08/30/add-physical-fitness-section-to-the-sat-ramaswamy-says/add-physical-fitness-section-to-the-sat-ramaswamy-says.webp</image:loc>
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/us/2023/08/30/suspects-motive-unclear-in-campus-shooting-that-killed-1-at-unc-chapel-hill-police-say/</loc>
+        <loc>https://majordigest.com/us/2023/08/30/massive-alligator-patiently-waits-outside-dollar-general/</loc>
         <news:news>
           <news:publication>
             <news:name>Major Digest</news:name>
             <news:language>en</news:language>
           </news:publication>
-          <news:publication_date>2023-08-30T03:30:21.000Z</news:publication_date>
-          <news:title>University of North Carolina graduate student left building right after killing adviser, police say</news:title>
+          <news:publication_date>2023-08-30T03:28:55.000Z</news:publication_date>
+          <news:title>Massive alligator 'patiently&#160;waits' outside Dollar General</news:title>
         </news:news>
         <image:image>
-          <image:loc>https://majordigest.com/us/2023/08/30/suspects-motive-unclear-in-campus-shooting-that-killed-1-at-unc-chapel-hill-police-say/suspects-motive-unclear-in-campus-shooting-that-killed-1-at-unc-chapel-hill-police-say.webp</image:loc>
+          <image:loc>https://majordigest.com/us/2023/08/30/massive-alligator-patiently-waits-outside-dollar-general/massive-alligator-patiently-waits-outside-dollar-general.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -269,20 +325,6 @@
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/us/2023/08/30/fighting-in-eastern-syria-between-us-backed-fighters-and-arab-tribesmen-kills-10/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-30T01:21:40.000Z</news:publication_date>
-          <news:title>Fighting in eastern Syria between US-backed fighters and Arab tribesmen kills 10</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/us/2023/08/30/fighting-in-eastern-syria-between-us-backed-fighters-and-arab-tribesmen-kills-10/fighting-in-eastern-syria-between-us-backed-fighters-and-arab-tribesmen-kills-10.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
         <loc>https://majordigest.com/us/2023/08/30/unclear-how-many-in-lahaina-lost-lives-as-hawaii-authorities-near-the-end-of-their-search-for-dead/</loc>
         <news:news>
           <news:publication>
@@ -311,31 +353,17 @@
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/us/2023/08/29/tribal-ranger-draws-weapon-on-climate-activists-blocking-road-to-burning-man-conduct-under-review/</loc>
+        <loc>https://majordigest.com/us/2023/08/30/canada-warns-residents-visiting-us-about-anti-lgbtq-laws/</loc>
         <news:news>
           <news:publication>
             <news:name>Major Digest</news:name>
             <news:language>en</news:language>
           </news:publication>
-          <news:publication_date>2023-08-29T23:57:41.000Z</news:publication_date>
-          <news:title>Tribal ranger draws weapon on climate activists blocking road to Burning Man; conduct under review</news:title>
+          <news:publication_date>2023-08-30T00:11:16.000Z</news:publication_date>
+          <news:title>Canada warns residents visiting US about anti-LGBTQ laws</news:title>
         </news:news>
         <image:image>
-          <image:loc>https://majordigest.com/us/2023/08/29/tribal-ranger-draws-weapon-on-climate-activists-blocking-road-to-burning-man-conduct-under-review/tribal-ranger-draws-weapon-on-climate-activists-blocking-road-to-burning-man-conduct-under-review.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/us/2023/08/29/airline-starts-weighing-passengers-heres-why/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-29T23:46:25.000Z</news:publication_date>
-          <news:title>Airline starts weighing passengers: Here's why</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/us/2023/08/29/airline-starts-weighing-passengers-heres-why/airline-starts-weighing-passengers-heres-why.webp</image:loc>
+          <image:loc>https://majordigest.com/us/2023/08/30/canada-warns-residents-visiting-us-about-anti-lgbtq-laws/canada-warns-residents-visiting-us-about-anti-lgbtq-laws.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -367,20 +395,6 @@
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/us/2023/08/29/bodies-of-3-us-marines-killed-in-australian-aircraft-crash-retrieved-from-crash-site/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-29T22:33:48.000Z</news:publication_date>
-          <news:title>Bodies of 3 US Marines killed in Australian aircraft crash retrieved from crash site</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/us/2023/08/29/bodies-of-3-us-marines-killed-in-australian-aircraft-crash-retrieved-from-crash-site/bodies-of-3-us-marines-killed-in-australian-aircraft-crash-retrieved-from-crash-site.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
         <loc>https://majordigest.com/us/2023/08/29/men-who-rushed-coors-field-accosted-mlb-star-arrested/</loc>
         <news:news>
           <news:publication>
@@ -395,6 +409,20 @@
         </image:image>
       </url>
       <url>
+        <loc>https://majordigest.com/us/2023/08/29/what-makes-idalia-so-potent-its-feeding-on-intensely-warm-water-that-acts-like-rocket-fuel/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-29T21:36:30.000Z</news:publication_date>
+          <news:title>What makes Idalia so potent? It's feeding on intensely warm water that acts like rocket fuel</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/us/2023/08/29/what-makes-idalia-so-potent-its-feeding-on-intensely-warm-water-that-acts-like-rocket-fuel/what-makes-idalia-so-potent-its-feeding-on-intensely-warm-water-that-acts-like-rocket-fuel.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
         <loc>https://majordigest.com/us/2023/08/29/3m-agrees-to-pay-6-billion-to-settle-earplug-lawsuits-from-service-members/</loc>
         <news:news>
           <news:publication>
@@ -406,34 +434,6 @@
         </news:news>
         <image:image>
           <image:loc>https://majordigest.com/us/2023/08/29/3m-agrees-to-pay-6-billion-to-settle-earplug-lawsuits-from-service-members/3m-agrees-to-pay-6-billion-to-settle-earplug-lawsuits-from-service-members.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/us/2023/08/29/3m-agrees-to-pay-6-billion-to-settle-earplug-lawsuits-from-u-s-service-members/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-29T20:38:57.000Z</news:publication_date>
-          <news:title>3M agrees to pay $6 billion to settle earplug lawsuits from service members</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/us/2023/08/29/3m-agrees-to-pay-6-billion-to-settle-earplug-lawsuits-from-u-s-service-members/3m-agrees-to-pay-6-billion-to-settle-earplug-lawsuits-from-u-s-service-members.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/us/2023/08/29/cause-of-house-explosion-that-killed-nfl-player-caleb-farleys-father-released/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-29T20:12:48.000Z</news:publication_date>
-          <news:title>Cause of house explosion that killed NFL player Caleb Farley's father released</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/us/2023/08/29/cause-of-house-explosion-that-killed-nfl-player-caleb-farleys-father-released/cause-of-house-explosion-that-killed-nfl-player-caleb-farleys-father-released.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -465,20 +465,6 @@
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/us/2023/08/29/baby-born-with-intestines-outside-her-body-is-now-thriving/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-29T16:39:26.000Z</news:publication_date>
-          <news:title>Baby born with intestines outside her body is now thriving</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/us/2023/08/29/baby-born-with-intestines-outside-her-body-is-now-thriving/baby-born-with-intestines-outside-her-body-is-now-thriving.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
         <loc>https://majordigest.com/us/2023/08/29/parents-worried-about-adderall-shortages-as-kids-start-school/</loc>
         <news:news>
           <news:publication>
@@ -490,6 +476,20 @@
         </news:news>
         <image:image>
           <image:loc>https://majordigest.com/us/2023/08/29/parents-worried-about-adderall-shortages-as-kids-start-school/parents-worried-about-adderall-shortages-as-kids-start-school.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/us/2023/08/29/live-updates-hurricane-idalia-hurtles-toward-florida/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-29T15:11:06.000Z</news:publication_date>
+          <news:title>Live updates: Hurricane Idalia intensifying en route to Florida; 15-foot storm surge possible</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/us/2023/08/29/live-updates-hurricane-idalia-hurtles-toward-florida/live-updates-hurricane-idalia-hurtles-toward-florida.webp</image:loc>
         </image:image>
       </url>
       <url>

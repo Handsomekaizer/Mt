@@ -3,73 +3,45 @@
               xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
               xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
       <url>
-        <loc>https://majordigest.com/politics/2023/08/30/ex-proud-boys-leader-enrique-tarrio-to-be-sentenced-for-seditious-conspiracy-in-jan-6-attack/</loc>
+        <loc>https://majordigest.com/politics/2023/08/30/florida-rick-scott-immediate-disaster-relief-vote-hurricane-idalia/</loc>
         <news:news>
           <news:publication>
             <news:name>Major Digest</news:name>
             <news:language>en</news:language>
           </news:publication>
-          <news:publication_date>2023-08-30T11:30:51.000Z</news:publication_date>
-          <news:title>Ex-Proud Boys leader Enrique Tarrio will be sentenced for seditious conspiracy in the Jan. 6 attack</news:title>
+          <news:publication_date>2023-08-30T14:44:31.000Z</news:publication_date>
+          <news:title>Florida Sen Rick Scott demands 'immediate' disaster relief vote as Hurricane Idalia makes landfall</news:title>
         </news:news>
         <image:image>
-          <image:loc>https://majordigest.com/politics/2023/08/30/ex-proud-boys-leader-enrique-tarrio-to-be-sentenced-for-seditious-conspiracy-in-jan-6-attack/ex-proud-boys-leader-enrique-tarrio-to-be-sentenced-for-seditious-conspiracy-in-jan-6-attack.webp</image:loc>
+          <image:loc>https://majordigest.com/politics/2023/08/30/florida-rick-scott-immediate-disaster-relief-vote-hurricane-idalia/florida-rick-scott-immediate-disaster-relief-vote-hurricane-idalia.webp</image:loc>
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/politics/2023/08/30/adams-says-hochul-wrong-nyc-migrant-crisis-urges-real-leadership-push-asylum-seekers-across-state/</loc>
+        <loc>https://majordigest.com/politics/2023/08/30/the-only-defendant-in-the-georgia-election-indictment-to-spend-time-in-jail-has-been-granted-bond/</loc>
         <news:news>
           <news:publication>
             <news:name>Major Digest</news:name>
             <news:language>en</news:language>
           </news:publication>
-          <news:publication_date>2023-08-30T11:13:08.000Z</news:publication_date>
-          <news:title>Adams says Hochul 'wrong' on NYC migrant crisis, urges 'real leadership' to push asylum seekers across state</news:title>
+          <news:publication_date>2023-08-30T14:29:16.000Z</news:publication_date>
+          <news:title>The only defendant in the Georgia election indictment to spend time in jail has been granted bond</news:title>
         </news:news>
         <image:image>
-          <image:loc>https://majordigest.com/politics/2023/08/30/adams-says-hochul-wrong-nyc-migrant-crisis-urges-real-leadership-push-asylum-seekers-across-state/adams-says-hochul-wrong-nyc-migrant-crisis-urges-real-leadership-push-asylum-seekers-across-state.webp</image:loc>
+          <image:loc>https://majordigest.com/politics/2023/08/30/the-only-defendant-in-the-georgia-election-indictment-to-spend-time-in-jail-has-been-granted-bond/the-only-defendant-in-the-georgia-election-indictment-to-spend-time-in-jail-has-been-granted-bond.webp</image:loc>
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/politics/2023/08/30/desantis-holds-news-conference-before-hurricane-idalia-makes-landfall/</loc>
+        <loc>https://majordigest.com/politics/2023/08/30/biden-admin-stonewalling-pete-buttigiegs-private-government-jet-records-watchdog/</loc>
         <news:news>
           <news:publication>
             <news:name>Major Digest</news:name>
             <news:language>en</news:language>
           </news:publication>
-          <news:publication_date>2023-08-30T10:02:53.000Z</news:publication_date>
-          <news:title>DeSantis advises Floridians of hurricane safety as Hurricane Idalia nears landfall</news:title>
+          <news:publication_date>2023-08-30T11:00:52.000Z</news:publication_date>
+          <news:title>Biden admin stonewalling on Pete Buttigieg's private government jet records: watchdog</news:title>
         </news:news>
         <image:image>
-          <image:loc>https://majordigest.com/politics/2023/08/30/desantis-holds-news-conference-before-hurricane-idalia-makes-landfall/desantis-holds-news-conference-before-hurricane-idalia-makes-landfall.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/politics/2023/08/30/their-water-is-undrinkable-so-these-west-texas-residents-have-taken-matters-into-their-own-hands/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-30T10:00:00.000Z</news:publication_date>
-          <news:title>Their water is undrinkable. So these West Texas residents have taken matters into their own hands.</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/politics/2023/08/30/their-water-is-undrinkable-so-these-west-texas-residents-have-taken-matters-into-their-own-hands/their-water-is-undrinkable-so-these-west-texas-residents-have-taken-matters-into-their-own-hands.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/politics/2023/08/30/new-texas-law-increases-hospital-notice-before-removing-patients-from-life-support/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-30T10:00:00.000Z</news:publication_date>
-          <news:title>New Texas law increases hospital notice before removing patients from life support</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/politics/2023/08/30/new-texas-law-increases-hospital-notice-before-removing-patients-from-life-support/new-texas-law-increases-hospital-notice-before-removing-patients-from-life-support.webp</image:loc>
+          <image:loc>https://majordigest.com/politics/2023/08/30/biden-admin-stonewalling-pete-buttigiegs-private-government-jet-records-watchdog/biden-admin-stonewalling-pete-buttigiegs-private-government-jet-records-watchdog.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -87,17 +59,17 @@
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/politics/2023/08/30/gop-challenger-rips-democrat-governor-violent-crime-major-police-group-flips-support-crucial-race/</loc>
+        <loc>https://majordigest.com/politics/2023/08/30/their-water-is-undrinkable-so-these-west-texas-residents-have-taken-matters-into-their-own-hands/</loc>
         <news:news>
           <news:publication>
             <news:name>Major Digest</news:name>
             <news:language>en</news:language>
           </news:publication>
-          <news:publication_date>2023-08-30T09:03:06.000Z</news:publication_date>
-          <news:title>GOP challenger rips Dem governor over violent crime as major police group flips support in crucial race</news:title>
+          <news:publication_date>2023-08-30T10:00:00.000Z</news:publication_date>
+          <news:title>Their water is undrinkable. So these West Texas residents have taken matters into their own hands.</news:title>
         </news:news>
         <image:image>
-          <image:loc>https://majordigest.com/politics/2023/08/30/gop-challenger-rips-democrat-governor-violent-crime-major-police-group-flips-support-crucial-race/gop-challenger-rips-democrat-governor-violent-crime-major-police-group-flips-support-crucial-race.webp</image:loc>
+          <image:loc>https://majordigest.com/politics/2023/08/30/their-water-is-undrinkable-so-these-west-texas-residents-have-taken-matters-into-their-own-hands/their-water-is-undrinkable-so-these-west-texas-residents-have-taken-matters-into-their-own-hands.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -112,6 +84,20 @@
         </news:news>
         <image:image>
           <image:loc>https://majordigest.com/politics/2023/08/30/police-departments-pull-school-officers-due-to-mn-restraint-law/police-departments-pull-school-officers-due-to-mn-restraint-law.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/politics/2023/08/30/united-auto-workers-clean-energy/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-30T08:30:00.000Z</news:publication_date>
+          <news:title>Opinion | Why a Big Union Is Snubbing Biden, Doing Industry&#8217;s Dirty Work and Creating an Opening for Trump</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/politics/2023/08/30/united-auto-workers-clean-energy/united-auto-workers-clean-energy.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -143,17 +129,17 @@
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/politics/2023/08/30/donald-trump-georgia-polling-after-indictment/</loc>
+        <loc>https://majordigest.com/politics/2023/08/30/veteran-dying-dog-sapphire-george-santos-con/</loc>
         <news:news>
           <news:publication>
             <news:name>Major Digest</news:name>
             <news:language>en</news:language>
           </news:publication>
-          <news:publication_date>2023-08-30T03:53:03.000Z</news:publication_date>
-          <news:title>Trump holds 42-point lead in Georgia after indictment</news:title>
+          <news:publication_date>2023-08-30T03:46:29.000Z</news:publication_date>
+          <news:title>Vet who claims George Santos conned him: &#8216;I want him in trouble'</news:title>
         </news:news>
         <image:image>
-          <image:loc>https://majordigest.com/politics/2023/08/30/donald-trump-georgia-polling-after-indictment/donald-trump-georgia-polling-after-indictment.webp</image:loc>
+          <image:loc>https://majordigest.com/politics/2023/08/30/veteran-dying-dog-sapphire-george-santos-con/veteran-dying-dog-sapphire-george-santos-con.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -213,31 +199,17 @@
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/politics/2023/08/30/biden-administration-shells-additional-weapons-package-ukraine/</loc>
+        <loc>https://majordigest.com/politics/2023/08/30/jim-jordan-seeks-records-on-special-counsel-attorney-meeting-with-white-house/</loc>
         <news:news>
           <news:publication>
             <news:name>Major Digest</news:name>
             <news:language>en</news:language>
           </news:publication>
-          <news:publication_date>2023-08-30T01:02:41.000Z</news:publication_date>
-          <news:title>Biden administration shells out additional $250M weapons package for Ukraine</news:title>
+          <news:publication_date>2023-08-30T00:05:03.000Z</news:publication_date>
+          <news:title>Jim Jordan seeks records on special counsel attorney meeting with White House</news:title>
         </news:news>
         <image:image>
-          <image:loc>https://majordigest.com/politics/2023/08/30/biden-administration-shells-additional-weapons-package-ukraine/biden-administration-shells-additional-weapons-package-ukraine.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/politics/2023/08/29/anti-abortion-activists-including-one-who-kept-fetuses-convicted-of-blocking-dc-clinic/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-29T23:40:34.000Z</news:publication_date>
-          <news:title>Anti-abortion activists, including one who kept fetuses, convicted of illegally blocking DC clinic</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/politics/2023/08/29/anti-abortion-activists-including-one-who-kept-fetuses-convicted-of-blocking-dc-clinic/anti-abortion-activists-including-one-who-kept-fetuses-convicted-of-blocking-dc-clinic.webp</image:loc>
+          <image:loc>https://majordigest.com/politics/2023/08/30/jim-jordan-seeks-records-on-special-counsel-attorney-meeting-with-white-house/jim-jordan-seeks-records-on-special-counsel-attorney-meeting-with-white-house.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -269,17 +241,17 @@
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/politics/2023/08/29/california-senate-elects-new-leader/</loc>
+        <loc>https://majordigest.com/politics/2023/08/29/new-jersey-law-immigrant-detention-contracts-unconstitutional/</loc>
         <news:news>
           <news:publication>
             <news:name>Major Digest</news:name>
             <news:language>en</news:language>
           </news:publication>
-          <news:publication_date>2023-08-29T22:44:23.000Z</news:publication_date>
-          <news:title>California Senate elects new leader</news:title>
+          <news:publication_date>2023-08-29T22:32:04.000Z</news:publication_date>
+          <news:title>Federal judge says New Jersey law banning immigrant detention contract with private operator unconstitutional</news:title>
         </news:news>
         <image:image>
-          <image:loc>https://majordigest.com/politics/2023/08/29/california-senate-elects-new-leader/california-senate-elects-new-leader.webp</image:loc>
+          <image:loc>https://majordigest.com/politics/2023/08/29/new-jersey-law-immigrant-detention-contracts-unconstitutional/new-jersey-law-immigrant-detention-contracts-unconstitutional.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -311,6 +283,34 @@
         </image:image>
       </url>
       <url>
+        <loc>https://majordigest.com/politics/2023/08/29/texas-eighth-graders-will-soon-be-required-to-learn-about-climate-change-but-not-without-a-showdown-over-textbooks/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-29T21:43:43.000Z</news:publication_date>
+          <news:title>Texas eighth graders will soon be required to learn about climate change. But not without a showdown over textbooks.</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/politics/2023/08/29/texas-eighth-graders-will-soon-be-required-to-learn-about-climate-change-but-not-without-a-showdown-over-textbooks/texas-eighth-graders-will-soon-be-required-to-learn-about-climate-change-but-not-without-a-showdown-over-textbooks.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/politics/2023/08/29/democrat-resigning-assembly-post-to-work-for-las-vegas/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-29T17:58:23.000Z</news:publication_date>
+          <news:title>Democrat resigning Assembly post to work for Las Vegas</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/politics/2023/08/29/democrat-resigning-assembly-post-to-work-for-las-vegas/democrat-resigning-assembly-post-to-work-for-las-vegas.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
         <loc>https://majordigest.com/politics/2023/08/29/here-are-the-first-10-drugs-that-medicare-will-target-for-price-cuts/</loc>
         <news:news>
           <news:publication>
@@ -322,20 +322,6 @@
         </news:news>
         <image:image>
           <image:loc>https://majordigest.com/politics/2023/08/29/here-are-the-first-10-drugs-that-medicare-will-target-for-price-cuts/here-are-the-first-10-drugs-that-medicare-will-target-for-price-cuts.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/politics/2023/08/29/biden-targets-diabetes-drug-blood-thinner-and-8-others-for-medicare-price-talks/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-29T12:07:36.000Z</news:publication_date>
-          <news:title>Biden targets diabetes drug Jardiance, blood thinner Eliquis and 8 others for Medicare price talks</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/politics/2023/08/29/biden-targets-diabetes-drug-blood-thinner-and-8-others-for-medicare-price-talks/biden-targets-diabetes-drug-blood-thinner-and-8-others-for-medicare-price-talks.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -437,17 +423,17 @@
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/politics/2023/08/25/carlos-santana-issues-apology-for-anti-trans-remarks-on-stage/</loc>
+        <loc>https://majordigest.com/politics/2023/08/25/new-york-man-sentenced-to-3-months-in-prison-for-making-threatening-phone-calls-to-rep-marjorie-taylor-greene/</loc>
         <news:news>
           <news:publication>
             <news:name>Major Digest</news:name>
             <news:language>en</news:language>
           </news:publication>
-          <news:publication_date>2023-08-25T15:43:31.000Z</news:publication_date>
-          <news:title>Carlos Santana issues apology for anti-trans remarks on stage</news:title>
+          <news:publication_date>2023-08-25T19:49:09.000Z</news:publication_date>
+          <news:title>NY man sentenced to prison for making threatening&#160;phone calls to Rep. Marjorie Taylor Greene</news:title>
         </news:news>
         <image:image>
-          <image:loc>https://majordigest.com/politics/2023/08/25/carlos-santana-issues-apology-for-anti-trans-remarks-on-stage/carlos-santana-issues-apology-for-anti-trans-remarks-on-stage.webp</image:loc>
+          <image:loc>https://majordigest.com/politics/2023/08/25/new-york-man-sentenced-to-3-months-in-prison-for-making-threatening-phone-calls-to-rep-marjorie-taylor-greene/new-york-man-sentenced-to-3-months-in-prison-for-making-threatening-phone-calls-to-rep-marjorie-taylor-greene.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -490,6 +476,20 @@
         </news:news>
         <image:image>
           <image:loc>https://majordigest.com/politics/2023/08/24/trump-set-to-surrender-at-georgia-jail-on-charges-that-he-sought-to-overturn-2020-election/trump-set-to-surrender-at-georgia-jail-on-charges-that-he-sought-to-overturn-2020-election.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/politics/2023/08/23/kelly-blue-book-survey-shows-consumer-hesitation-towards-electric-vehicles/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-23T23:01:08.000Z</news:publication_date>
+          <news:title>Kelly Blue Book survey shows consumer hesitation towards electric vehicles</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/politics/2023/08/23/kelly-blue-book-survey-shows-consumer-hesitation-towards-electric-vehicles/kelly-blue-book-survey-shows-consumer-hesitation-towards-electric-vehicles.webp</image:loc>
         </image:image>
       </url>
       <url>
