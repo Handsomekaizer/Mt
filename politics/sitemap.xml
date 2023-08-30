@@ -3,17 +3,45 @@
               xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
               xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
       <url>
-        <loc>https://majordigest.com/politics/2023/08/30/as-search-in-maui-nears-end-its-unclear-how-many-lost-their-lives/</loc>
+        <loc>https://majordigest.com/politics/2023/08/30/donald-trump-georgia-polling-after-indictment/</loc>
         <news:news>
           <news:publication>
             <news:name>Major Digest</news:name>
             <news:language>en</news:language>
           </news:publication>
-          <news:publication_date>2023-08-30T02:31:32.000Z</news:publication_date>
-          <news:title>As search in Maui nears end, it's unclear how many lost their lives</news:title>
+          <news:publication_date>2023-08-30T03:53:03.000Z</news:publication_date>
+          <news:title>Trump holds 42-point lead in Georgia after indictment</news:title>
         </news:news>
         <image:image>
-          <image:loc>https://majordigest.com/politics/2023/08/30/as-search-in-maui-nears-end-its-unclear-how-many-lost-their-lives/as-search-in-maui-nears-end-its-unclear-how-many-lost-their-lives.webp</image:loc>
+          <image:loc>https://majordigest.com/politics/2023/08/30/donald-trump-georgia-polling-after-indictment/donald-trump-georgia-polling-after-indictment.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/politics/2023/08/30/epa-head-says-hes-proud-of-decision-to-block-alaska-mine-and-protect-salmon-rich-bristol-bay/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-30T03:19:49.000Z</news:publication_date>
+          <news:title>EPA head says he's 'proud' of decision to block Alaska mine and protect salmon-rich Bristol Bay</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/politics/2023/08/30/epa-head-says-hes-proud-of-decision-to-block-alaska-mine-and-protect-salmon-rich-bristol-bay/epa-head-says-hes-proud-of-decision-to-block-alaska-mine-and-protect-salmon-rich-bristol-bay.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/politics/2023/08/30/no-2-house-republican-steve-scalise-diagnosed-with-blood-cancer-undergoing-treatment/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-30T02:57:00.000Z</news:publication_date>
+          <news:title>No. 2 House Republican Steve Scalise is diagnosed with blood cancer and undergoing treatment</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/politics/2023/08/30/no-2-house-republican-steve-scalise-diagnosed-with-blood-cancer-undergoing-treatment/no-2-house-republican-steve-scalise-diagnosed-with-blood-cancer-undergoing-treatment.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -42,6 +70,20 @@
         </news:news>
         <image:image>
           <image:loc>https://majordigest.com/politics/2023/08/30/national-archives-says-5000-emails-potentially-linked-alleged-biden-pseudonyms/national-archives-says-5000-emails-potentially-linked-alleged-biden-pseudonyms.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/politics/2023/08/30/biden-administration-shells-additional-weapons-package-ukraine/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-30T01:02:41.000Z</news:publication_date>
+          <news:title>Biden administration shells out additional $250M weapons package for Ukraine</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/politics/2023/08/30/biden-administration-shells-additional-weapons-package-ukraine/biden-administration-shells-additional-weapons-package-ukraine.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -101,6 +143,20 @@
         </image:image>
       </url>
       <url>
+        <loc>https://majordigest.com/politics/2023/08/29/new-mexico-ag-vows-proceed-native-education-lawsuit/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-29T23:28:52.000Z</news:publication_date>
+          <news:title>New Mexico AG vows to proceed with Native education lawsuit</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/politics/2023/08/29/new-mexico-ag-vows-proceed-native-education-lawsuit/new-mexico-ag-vows-proceed-native-education-lawsuit.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
         <loc>https://majordigest.com/politics/2023/08/29/biden-administration-to-target-drugs-for-price-negotiations-to-lower-medicare-costs/</loc>
         <news:news>
           <news:publication>
@@ -143,31 +199,17 @@
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/politics/2023/08/29/democrats-walk-out-of-house-session-after-rep-jones-silenced-gallery-cleared/</loc>
+        <loc>https://majordigest.com/politics/2023/08/29/the-us-government-hoped-companies-would-want-to-build-wind-farms-off-the-texas-coast-no-one-did/</loc>
         <news:news>
           <news:publication>
             <news:name>Major Digest</news:name>
             <news:language>en</news:language>
           </news:publication>
-          <news:publication_date>2023-08-29T23:16:12.000Z</news:publication_date>
-          <news:title>Democrats walk out of House session after Rep. Jones silenced; Gallery cleared</news:title>
+          <news:publication_date>2023-08-29T22:48:12.000Z</news:publication_date>
+          <news:title>The U.S. government hoped companies would want to build wind farms off the Texas coast. No one did.</news:title>
         </news:news>
         <image:image>
-          <image:loc>https://majordigest.com/politics/2023/08/29/democrats-walk-out-of-house-session-after-rep-jones-silenced-gallery-cleared/democrats-walk-out-of-house-session-after-rep-jones-silenced-gallery-cleared.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/politics/2023/08/29/california-senate-elects-new-leader/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-29T22:44:23.000Z</news:publication_date>
-          <news:title>California Senate elects new leader</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/politics/2023/08/29/california-senate-elects-new-leader/california-senate-elects-new-leader.webp</image:loc>
+          <image:loc>https://majordigest.com/politics/2023/08/29/the-us-government-hoped-companies-would-want-to-build-wind-farms-off-the-texas-coast-no-one-did/the-us-government-hoped-companies-would-want-to-build-wind-farms-off-the-texas-coast-no-one-did.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -185,59 +227,17 @@
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/politics/2023/08/29/president-joe-biden-is-hosting-costa-rican-president-rodrigo-chaves-at-the-white-house/</loc>
+        <loc>https://majordigest.com/politics/2023/08/29/chaotic-tennessee-special-session-ends-with-pushing-and-shoving/</loc>
         <news:news>
           <news:publication>
             <news:name>Major Digest</news:name>
             <news:language>en</news:language>
           </news:publication>
-          <news:publication_date>2023-08-29T22:28:55.000Z</news:publication_date>
-          <news:title>Biden talks immigration and trade with Costa Rican President Chaves at the White House</news:title>
+          <news:publication_date>2023-08-29T21:53:59.000Z</news:publication_date>
+          <news:title>Chaotic Tennessee special session ends with pushing and shoving</news:title>
         </news:news>
         <image:image>
-          <image:loc>https://majordigest.com/politics/2023/08/29/president-joe-biden-is-hosting-costa-rican-president-rodrigo-chaves-at-the-white-house/president-joe-biden-is-hosting-costa-rican-president-rodrigo-chaves-at-the-white-house.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/politics/2023/08/29/lawyers-indicted-with-trump-say-they-were-doing-their-jobs-but-that-may-be-a-tough-argument-to-make/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-29T21:54:50.000Z</news:publication_date>
-          <news:title>Lawyers indicted with Trump say they were doing their jobs. But that may be a tough argument to make</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/politics/2023/08/29/lawyers-indicted-with-trump-say-they-were-doing-their-jobs-but-that-may-be-a-tough-argument-to-make/lawyers-indicted-with-trump-say-they-were-doing-their-jobs-but-that-may-be-a-tough-argument-to-make.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/politics/2023/08/29/katie-porter-partners-with-gop-rep-to-introduce-bill-to-prevent-infant-formula-crisis/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-29T21:51:08.000Z</news:publication_date>
-          <news:title>Katie Porter partners with GOP rep to introduce bill to prevent infant formula crisis</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/politics/2023/08/29/katie-porter-partners-with-gop-rep-to-introduce-bill-to-prevent-infant-formula-crisis/katie-porter-partners-with-gop-rep-to-introduce-bill-to-prevent-infant-formula-crisis.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/politics/2023/08/29/gold-star-families-abbey-gate-attack/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-29T21:35:51.000Z</news:publication_date>
-          <news:title>Gold Star families push Biden admin for Abbey Gate accountability</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/politics/2023/08/29/gold-star-families-abbey-gate-attack/gold-star-families-abbey-gate-attack.webp</image:loc>
+          <image:loc>https://majordigest.com/politics/2023/08/29/chaotic-tennessee-special-session-ends-with-pushing-and-shoving/chaotic-tennessee-special-session-ends-with-pushing-and-shoving.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -269,20 +269,6 @@
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/politics/2023/08/29/texas-leads-the-country-in-keeping-its-native-born-residents-home/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-29T20:59:13.000Z</news:publication_date>
-          <news:title>Texas leads the country in keeping its native-born residents home</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/politics/2023/08/29/texas-leads-the-country-in-keeping-its-native-born-residents-home/texas-leads-the-country-in-keeping-its-native-born-residents-home.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
         <loc>https://majordigest.com/politics/2023/08/29/n-h-attorney-general-carefully-reviewing-arguments-that-could-keep-trump-off-states-ballot/</loc>
         <news:news>
           <news:publication>
@@ -294,20 +280,6 @@
         </news:news>
         <image:image>
           <image:loc>https://majordigest.com/politics/2023/08/29/n-h-attorney-general-carefully-reviewing-arguments-that-could-keep-trump-off-states-ballot/n-h-attorney-general-carefully-reviewing-arguments-that-could-keep-trump-off-states-ballot.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/politics/2023/08/29/former-republican-congressman-mike-rogers-expected-to-run-for-us-senate-in-michigan-ap-sources-say/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-29T18:22:10.000Z</news:publication_date>
-          <news:title>Former Republican congressman Mike Rogers expected to run for US Senate in Michigan, AP sources say</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/politics/2023/08/29/former-republican-congressman-mike-rogers-expected-to-run-for-us-senate-in-michigan-ap-sources-say/former-republican-congressman-mike-rogers-expected-to-run-for-us-senate-in-michigan-ap-sources-say.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -325,17 +297,17 @@
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/politics/2023/08/29/miami-mayor-francis-suarez-suspends-his-2024-presidential-bid-after-failing-to-qualify-for-debate/</loc>
+        <loc>https://majordigest.com/politics/2023/08/29/lawyers-indicted-with-trump-say-they-were-doing-their-jobs-but-that-may-be-a-tough-argument-to-make/</loc>
         <news:news>
           <news:publication>
             <news:name>Major Digest</news:name>
             <news:language>en</news:language>
           </news:publication>
-          <news:publication_date>2023-08-29T17:06:31.000Z</news:publication_date>
-          <news:title>Miami Mayor Francis Suarez suspends 2024 GOP presidential bid after failing to qualify for debate</news:title>
+          <news:publication_date>2023-08-29T17:52:15.000Z</news:publication_date>
+          <news:title>Lawyers indicted with Trump say they were doing their jobs. But that may be a tough argument to make</news:title>
         </news:news>
         <image:image>
-          <image:loc>https://majordigest.com/politics/2023/08/29/miami-mayor-francis-suarez-suspends-his-2024-presidential-bid-after-failing-to-qualify-for-debate/miami-mayor-francis-suarez-suspends-his-2024-presidential-bid-after-failing-to-qualify-for-debate.webp</image:loc>
+          <image:loc>https://majordigest.com/politics/2023/08/29/lawyers-indicted-with-trump-say-they-were-doing-their-jobs-but-that-may-be-a-tough-argument-to-make/lawyers-indicted-with-trump-say-they-were-doing-their-jobs-but-that-may-be-a-tough-argument-to-make.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -353,17 +325,17 @@
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/politics/2023/08/29/biden-targets-diabetes-drug-blood-thinner-and-8-others-for-medicare-price-talks/</loc>
+        <loc>https://majordigest.com/politics/2023/08/29/npr-rudy-giuliani-rico-origin-story/</loc>
         <news:news>
           <news:publication>
             <news:name>Major Digest</news:name>
             <news:language>en</news:language>
           </news:publication>
-          <news:publication_date>2023-08-29T12:07:36.000Z</news:publication_date>
-          <news:title>Biden targets diabetes drug Jardiance, blood thinner Eliquis and 8 others for Medicare price talks</news:title>
+          <news:publication_date>2023-08-29T09:01:00.000Z</news:publication_date>
+          <news:title>It's time to rethink Rudy Giuliani and his claim to discover RICO</news:title>
         </news:news>
         <image:image>
-          <image:loc>https://majordigest.com/politics/2023/08/29/biden-targets-diabetes-drug-blood-thinner-and-8-others-for-medicare-price-talks/biden-targets-diabetes-drug-blood-thinner-and-8-others-for-medicare-price-talks.webp</image:loc>
+          <image:loc>https://majordigest.com/politics/2023/08/29/npr-rudy-giuliani-rico-origin-story/npr-rudy-giuliani-rico-origin-story.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -381,20 +353,6 @@
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/politics/2023/08/29/recruiting-is-underway-for-trump-like-wrecking-ball-to-shrink-government-and-fire-federal-workers/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-29T04:03:01.000Z</news:publication_date>
-          <news:title>Conservative groups draw up plan to dismantle the US government and replace it with Trump&#8217;s vision</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/politics/2023/08/29/recruiting-is-underway-for-trump-like-wrecking-ball-to-shrink-government-and-fire-federal-workers/recruiting-is-underway-for-trump-like-wrecking-ball-to-shrink-government-and-fire-federal-workers.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
         <loc>https://majordigest.com/politics/2023/08/28/npr-tuberville-pentagon-senate-hold-abortion/</loc>
         <news:news>
           <news:publication>
@@ -409,6 +367,20 @@
         </image:image>
       </url>
       <url>
+        <loc>https://majordigest.com/politics/2023/08/28/senate-candidates-visit-stockton-to-support-rep-josh-harder-reelection-campaign/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-28T20:42:58.000Z</news:publication_date>
+          <news:title>Senate candidates visit Stockton to support Rep. Josh Harder reelection campaign</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/politics/2023/08/28/senate-candidates-visit-stockton-to-support-rep-josh-harder-reelection-campaign/senate-candidates-visit-stockton-to-support-rep-josh-harder-reelection-campaign.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
         <loc>https://majordigest.com/politics/2023/08/28/biden-approves-emergency-declaration-for-florida-ahead-of-t-s-idalia/</loc>
         <news:news>
           <news:publication>
@@ -420,6 +392,20 @@
         </news:news>
         <image:image>
           <image:loc>https://majordigest.com/politics/2023/08/28/biden-approves-emergency-declaration-for-florida-ahead-of-t-s-idalia/biden-approves-emergency-declaration-for-florida-ahead-of-t-s-idalia.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/politics/2023/08/26/gop-presidential-candidate-vivek-ramaswamy-is-an-unaffiliated-voter-nbc-reports/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-26T20:33:41.000Z</news:publication_date>
+          <news:title>GOP presidential candidate Vivek Ramaswamy is an 'unaffiliated' voter, NBC reports</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/politics/2023/08/26/gop-presidential-candidate-vivek-ramaswamy-is-an-unaffiliated-voter-nbc-reports/gop-presidential-candidate-vivek-ramaswamy-is-an-unaffiliated-voter-nbc-reports.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -479,6 +465,20 @@
         </image:image>
       </url>
       <url>
+        <loc>https://majordigest.com/politics/2023/08/24/covid-19-cases-rise-cdc-recommends-updated-vaccine/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-24T20:37:19.000Z</news:publication_date>
+          <news:title>COVID-19 cases rise, CDC recommends updated vaccine</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/politics/2023/08/24/covid-19-cases-rise-cdc-recommends-updated-vaccine/covid-19-cases-rise-cdc-recommends-updated-vaccine.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
         <loc>https://majordigest.com/politics/2023/08/24/trump-set-to-surrender-at-georgia-jail-on-charges-that-he-sought-to-overturn-2020-election/</loc>
         <news:news>
           <news:publication>
@@ -507,16 +507,16 @@
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/politics/2023/08/23/rudy-giuliani-surrenders-on-georgia-charges-alleging-an-illegal-plot-to-subvert-2020-election-jail-records-show/</loc>
+        <loc>https://majordigest.com/politics/2023/08/23/who-takes-advantage-of-donald-trumps-absence-and-other-things-to-watch-in-the-republican-debate/</loc>
         <news:news>
           <news:publication>
             <news:name>Major Digest</news:name>
             <news:language>en</news:language>
           </news:publication>
-          <news:publication_date>2023-08-23T19:26:31.000Z</news:publication_date>
-          <news:title>Rudy Giuliani surrenders on Georgia charges alleging an illegal plot to subvert 2020 election, jail records show</news:title>
+          <news:publication_date>2023-08-23T21:48:37.000Z</news:publication_date>
+          <news:title>Who takes advantage of Donald Trump's absence and other things to watch in the Republican debate</news:title>
         </news:news>
         <image:image>
-          <image:loc>https://majordigest.com/politics/2023/08/23/rudy-giuliani-surrenders-on-georgia-charges-alleging-an-illegal-plot-to-subvert-2020-election-jail-records-show/rudy-giuliani-surrenders-on-georgia-charges-alleging-an-illegal-plot-to-subvert-2020-election-jail-records-show.webp</image:loc>
+          <image:loc>https://majordigest.com/politics/2023/08/23/who-takes-advantage-of-donald-trumps-absence-and-other-things-to-watch-in-the-republican-debate/who-takes-advantage-of-donald-trumps-absence-and-other-things-to-watch-in-the-republican-debate.webp</image:loc>
         </image:image>
       </url></urlset>

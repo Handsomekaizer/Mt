@@ -3,17 +3,73 @@
               xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
               xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
       <url>
-        <loc>https://majordigest.com/us/2023/08/30/no-2-house-republican-steve-scalise-diagnosed-with-blood-cancer-undergoing-treatment/</loc>
+        <loc>https://majordigest.com/us/2023/08/30/drones-targeted-5-regions-in-biggest-attack-on-russian-soil-in-18-months-defense-ministry-says/</loc>
         <news:news>
           <news:publication>
             <news:name>Major Digest</news:name>
             <news:language>en</news:language>
           </news:publication>
-          <news:publication_date>2023-08-30T02:57:00.000Z</news:publication_date>
-          <news:title>No. 2 House Republican Steve Scalise is diagnosed with blood cancer and undergoing treatment</news:title>
+          <news:publication_date>2023-08-30T04:15:04.000Z</news:publication_date>
+          <news:title>2 killed in Kyiv as Russia accuses Ukraine of biggest drone attack on its soil since fighting began</news:title>
         </news:news>
         <image:image>
-          <image:loc>https://majordigest.com/us/2023/08/30/no-2-house-republican-steve-scalise-diagnosed-with-blood-cancer-undergoing-treatment/no-2-house-republican-steve-scalise-diagnosed-with-blood-cancer-undergoing-treatment.webp</image:loc>
+          <image:loc>https://majordigest.com/us/2023/08/30/drones-targeted-5-regions-in-biggest-attack-on-russian-soil-in-18-months-defense-ministry-says/drones-targeted-5-regions-in-biggest-attack-on-russian-soil-in-18-months-defense-ministry-says.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/us/2023/08/30/ex-proud-boys-leader-enrique-tarrio-to-be-sentenced-for-seditious-conspiracy-in-jan-6-attack/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-30T04:05:45.000Z</news:publication_date>
+          <news:title>Ex-Proud Boys leader Enrique Tarrio to be sentenced for seditious conspiracy in Jan. 6 attack</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/us/2023/08/30/ex-proud-boys-leader-enrique-tarrio-to-be-sentenced-for-seditious-conspiracy-in-jan-6-attack/ex-proud-boys-leader-enrique-tarrio-to-be-sentenced-for-seditious-conspiracy-in-jan-6-attack.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/us/2023/08/30/israelis-on-a-flight-that-made-an-emergency-landing-in-saudi-arabia-return-to-tel-aviv/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-30T03:55:34.000Z</news:publication_date>
+          <news:title>Saudi Arabia gets some unlikely visitors when a plane full of Israelis makes an emergency landing</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/us/2023/08/30/israelis-on-a-flight-that-made-an-emergency-landing-in-saudi-arabia-return-to-tel-aviv/israelis-on-a-flight-that-made-an-emergency-landing-in-saudi-arabia-return-to-tel-aviv.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/us/2023/08/30/add-physical-fitness-section-to-the-sat-ramaswamy-says/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-30T03:50:44.000Z</news:publication_date>
+          <news:title>Add physical fitness section to the SAT, Ramaswamy says</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/us/2023/08/30/add-physical-fitness-section-to-the-sat-ramaswamy-says/add-physical-fitness-section-to-the-sat-ramaswamy-says.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/us/2023/08/30/suspects-motive-unclear-in-campus-shooting-that-killed-1-at-unc-chapel-hill-police-say/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-30T03:30:21.000Z</news:publication_date>
+          <news:title>University of North Carolina graduate student left building right after killing adviser, police say</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/us/2023/08/30/suspects-motive-unclear-in-campus-shooting-that-killed-1-at-unc-chapel-hill-police-say/suspects-motive-unclear-in-campus-shooting-that-killed-1-at-unc-chapel-hill-police-say.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -31,20 +87,6 @@
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/us/2023/08/30/australians-are-voting-on-creating-an-indigenous-voice-to-parliament-heres-what-you-need-to-know/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-30T02:26:06.000Z</news:publication_date>
-          <news:title>Australians are voting on creating an Indigenous Voice to Parliament. Here's what you need to know</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/us/2023/08/30/australians-are-voting-on-creating-an-indigenous-voice-to-parliament-heres-what-you-need-to-know/australians-are-voting-on-creating-an-indigenous-voice-to-parliament-heres-what-you-need-to-know.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
         <loc>https://majordigest.com/us/2023/08/30/new-york-man-accused-brutally-beating-urinating-unresponsive-housemate-indicted-murder/</loc>
         <news:news>
           <news:publication>
@@ -59,34 +101,6 @@
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/us/2023/08/30/investigation-finds-late-founder-of-japanese-talent-agency-for-boy-bands-sexually-assaulted-teens/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-30T01:29:49.000Z</news:publication_date>
-          <news:title>Johnny &#38; Associates founder Kitagawa sexually assaulted hundreds of teens, investigation finds</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/us/2023/08/30/investigation-finds-late-founder-of-japanese-talent-agency-for-boy-bands-sexually-assaulted-teens/investigation-finds-late-founder-of-japanese-talent-agency-for-boy-bands-sexually-assaulted-teens.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/us/2023/08/30/white-house-announces-drug-price-negotiations-for-medicare/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-30T01:23:14.000Z</news:publication_date>
-          <news:title>White House announces drug price negotiations for Medicare</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/us/2023/08/30/white-house-announces-drug-price-negotiations-for-medicare/white-house-announces-drug-price-negotiations-for-medicare.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
         <loc>https://majordigest.com/us/2023/08/30/fighting-in-eastern-syria-between-us-backed-fighters-and-arab-tribesmen-kills-10/</loc>
         <news:news>
           <news:publication>
@@ -98,20 +112,6 @@
         </news:news>
         <image:image>
           <image:loc>https://majordigest.com/us/2023/08/30/fighting-in-eastern-syria-between-us-backed-fighters-and-arab-tribesmen-kills-10/fighting-in-eastern-syria-between-us-backed-fighters-and-arab-tribesmen-kills-10.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/us/2023/08/30/vegas-hotel-room-murder-suspects-face-new-kidnapping-charge/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-30T01:13:58.000Z</news:publication_date>
-          <news:title>Vegas hotel room murder suspects face new kidnapping charge</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/us/2023/08/30/vegas-hotel-room-murder-suspects-face-new-kidnapping-charge/vegas-hotel-room-murder-suspects-face-new-kidnapping-charge.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -227,31 +227,31 @@
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/us/2023/08/29/airline-starts-weighing-passengers-heres-why/</loc>
+        <loc>https://majordigest.com/us/2023/08/29/backstreet-boys-singer-nick-carter-accused-of-sexually-assaulting-15-year-old-on-yacht-lawsuit/</loc>
         <news:news>
           <news:publication>
             <news:name>Major Digest</news:name>
             <news:language>en</news:language>
           </news:publication>
-          <news:publication_date>2023-08-29T23:46:30.000Z</news:publication_date>
-          <news:title>Airline starts weighing passengers: Here's why</news:title>
+          <news:publication_date>2023-08-29T23:33:43.000Z</news:publication_date>
+          <news:title>Backstreet Boys singer Nick Carter accused of sexually assaulting 15-year-old on yacht: lawsuit</news:title>
         </news:news>
         <image:image>
-          <image:loc>https://majordigest.com/us/2023/08/29/airline-starts-weighing-passengers-heres-why/airline-starts-weighing-passengers-heres-why.webp</image:loc>
+          <image:loc>https://majordigest.com/us/2023/08/29/backstreet-boys-singer-nick-carter-accused-of-sexually-assaulting-15-year-old-on-yacht-lawsuit/backstreet-boys-singer-nick-carter-accused-of-sexually-assaulting-15-year-old-on-yacht-lawsuit.webp</image:loc>
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/us/2023/08/29/supermoon-could-team-up-with-hurricane-idalia-to-raise-tides-higher-just-as-the-storm-makes-landfall/</loc>
+        <loc>https://majordigest.com/us/2023/08/29/backstreet-boys-singer-nick-carter-accused-of-sexually-assaulting-15-year-old-on-yacht-lawsuit-2/</loc>
         <news:news>
           <news:publication>
             <news:name>Major Digest</news:name>
             <news:language>en</news:language>
           </news:publication>
-          <news:publication_date>2023-08-29T23:32:02.000Z</news:publication_date>
-          <news:title>Supermoon could team up with Hurricane Idalia to raise tides higher just as the storm makes landfall</news:title>
+          <news:publication_date>2023-08-29T23:33:37.000Z</news:publication_date>
+          <news:title>Backstreet Boys singer Nick Carter accused of sexually assaulting 15-year-old on yacht: lawsuit</news:title>
         </news:news>
         <image:image>
-          <image:loc>https://majordigest.com/us/2023/08/29/supermoon-could-team-up-with-hurricane-idalia-to-raise-tides-higher-just-as-the-storm-makes-landfall/supermoon-could-team-up-with-hurricane-idalia-to-raise-tides-higher-just-as-the-storm-makes-landfall.webp</image:loc>
+          <image:loc>https://majordigest.com/us/2023/08/29/backstreet-boys-singer-nick-carter-accused-of-sexually-assaulting-15-year-old-on-yacht-lawsuit-2/backstreet-boys-singer-nick-carter-accused-of-sexually-assaulting-15-year-old-on-yacht-lawsuit-2.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -266,20 +266,6 @@
         </news:news>
         <image:image>
           <image:loc>https://majordigest.com/us/2023/08/29/watch-ohio-police-cruiser-slams-into-store/watch-ohio-police-cruiser-slams-into-store.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/us/2023/08/29/suspects-motive-unclear-in-campus-shooting-that-killed-1-at-unc-chapel-hill-police-say/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-29T23:09:14.000Z</news:publication_date>
-          <news:title>University of North Carolina graduate student left building right after killing adviser, police say</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/us/2023/08/29/suspects-motive-unclear-in-campus-shooting-that-killed-1-at-unc-chapel-hill-police-say/suspects-motive-unclear-in-campus-shooting-that-killed-1-at-unc-chapel-hill-police-say.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -339,20 +325,6 @@
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/us/2023/08/29/hurricane-idalia-menaces-floridas-big-bend-the-nature-coast-far-from-tourist-attractions/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-29T21:36:29.000Z</news:publication_date>
-          <news:title>Hurricane Idalia menaces Florida's Big Bend, the 'Nature Coast' far from tourist attractions</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/us/2023/08/29/hurricane-idalia-menaces-floridas-big-bend-the-nature-coast-far-from-tourist-attractions/hurricane-idalia-menaces-floridas-big-bend-the-nature-coast-far-from-tourist-attractions.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
         <loc>https://majordigest.com/us/2023/08/29/3m-agrees-to-pay-6-billion-to-settle-earplug-lawsuits-from-u-s-service-members/</loc>
         <news:news>
           <news:publication>
@@ -364,6 +336,20 @@
         </news:news>
         <image:image>
           <image:loc>https://majordigest.com/us/2023/08/29/3m-agrees-to-pay-6-billion-to-settle-earplug-lawsuits-from-u-s-service-members/3m-agrees-to-pay-6-billion-to-settle-earplug-lawsuits-from-u-s-service-members.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/us/2023/08/29/3m-agrees-to-pay-6-billion-to-settle-earplug-lawsuits-from-service-members/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-29T20:38:55.000Z</news:publication_date>
+          <news:title>3M agrees to pay $6 billion to settle earplug lawsuits from service members</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/us/2023/08/29/3m-agrees-to-pay-6-billion-to-settle-earplug-lawsuits-from-service-members/3m-agrees-to-pay-6-billion-to-settle-earplug-lawsuits-from-service-members.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -381,31 +367,31 @@
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/us/2023/08/29/the-jacksonville-shooting-killed-a-devoted-dad-a-beloved-mom-and-a-teen-helping-support-his-family/</loc>
+        <loc>https://majordigest.com/us/2023/08/29/pence-outlines-day-one-executive-actions-if-elected-president/</loc>
         <news:news>
           <news:publication>
             <news:name>Major Digest</news:name>
             <news:language>en</news:language>
           </news:publication>
-          <news:publication_date>2023-08-29T19:43:30.000Z</news:publication_date>
-          <news:title>The Jacksonville shooter killed a devoted dad, a beloved mom and a teen helping support his family</news:title>
+          <news:publication_date>2023-08-29T20:10:51.000Z</news:publication_date>
+          <news:title>Pence outlines Day 1 executive actions if elected president</news:title>
         </news:news>
         <image:image>
-          <image:loc>https://majordigest.com/us/2023/08/29/the-jacksonville-shooting-killed-a-devoted-dad-a-beloved-mom-and-a-teen-helping-support-his-family/the-jacksonville-shooting-killed-a-devoted-dad-a-beloved-mom-and-a-teen-helping-support-his-family.webp</image:loc>
+          <image:loc>https://majordigest.com/us/2023/08/29/pence-outlines-day-one-executive-actions-if-elected-president/pence-outlines-day-one-executive-actions-if-elected-president.webp</image:loc>
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/us/2023/08/29/rare-blue-supermoon-with-saturn-in-tow-to-put-on-show-this-week-how-to-watch/</loc>
+        <loc>https://majordigest.com/us/2023/08/29/suits-creator-reveals-the-word-buckingham-palace-didnt-want-meghan-markle-to-say/</loc>
         <news:news>
           <news:publication>
             <news:name>Major Digest</news:name>
             <news:language>en</news:language>
           </news:publication>
-          <news:publication_date>2023-08-29T19:16:24.000Z</news:publication_date>
-          <news:title>Rare blue supermoon, with Saturn in tow, to put on show this week: How to watch</news:title>
+          <news:publication_date>2023-08-29T18:51:21.000Z</news:publication_date>
+          <news:title>'Suits' creator reveals the word Buckingham Palace didn't want Meghan Markle to say</news:title>
         </news:news>
         <image:image>
-          <image:loc>https://majordigest.com/us/2023/08/29/rare-blue-supermoon-with-saturn-in-tow-to-put-on-show-this-week-how-to-watch/rare-blue-supermoon-with-saturn-in-tow-to-put-on-show-this-week-how-to-watch.webp</image:loc>
+          <image:loc>https://majordigest.com/us/2023/08/29/suits-creator-reveals-the-word-buckingham-palace-didnt-want-meghan-markle-to-say/suits-creator-reveals-the-word-buckingham-palace-didnt-want-meghan-markle-to-say.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -465,6 +451,20 @@
         </image:image>
       </url>
       <url>
+        <loc>https://majordigest.com/us/2023/08/29/parents-worried-about-adderall-shortages-as-kids-start-school/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-29T16:32:41.000Z</news:publication_date>
+          <news:title>Parents worried about Adderall shortages as kids start school</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/us/2023/08/29/parents-worried-about-adderall-shortages-as-kids-start-school/parents-worried-about-adderall-shortages-as-kids-start-school.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
         <loc>https://majordigest.com/us/2023/08/29/live-updates-hurricane-idalia-hurtles-toward-florida/</loc>
         <news:news>
           <news:publication>
@@ -507,16 +507,16 @@
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/us/2023/08/28/joe-the-plumber-who-questioned-obamas-tax-policies-during-the-2008-campaign-has-died-at-49/</loc>
+        <loc>https://majordigest.com/us/2023/08/28/eminem-wants-ramaswamy-to-stop-using-his-music-on-the-campaign-trail/</loc>
         <news:news>
           <news:publication>
             <news:name>Major Digest</news:name>
             <news:language>en</news:language>
           </news:publication>
-          <news:publication_date>2023-08-28T20:37:19.000Z</news:publication_date>
-          <news:title>Joe the Plumber, who questioned Obama's tax policies during the 2008 campaign, has died at 49</news:title>
+          <news:publication_date>2023-08-28T22:17:28.000Z</news:publication_date>
+          <news:title>Eminem wants Ramaswamy to stop using his music on the campaign trail</news:title>
         </news:news>
         <image:image>
-          <image:loc>https://majordigest.com/us/2023/08/28/joe-the-plumber-who-questioned-obamas-tax-policies-during-the-2008-campaign-has-died-at-49/joe-the-plumber-who-questioned-obamas-tax-policies-during-the-2008-campaign-has-died-at-49.webp</image:loc>
+          <image:loc>https://majordigest.com/us/2023/08/28/eminem-wants-ramaswamy-to-stop-using-his-music-on-the-campaign-trail/eminem-wants-ramaswamy-to-stop-using-his-music-on-the-campaign-trail.webp</image:loc>
         </image:image>
       </url></urlset>

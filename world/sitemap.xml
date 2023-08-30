@@ -3,6 +3,48 @@
               xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
               xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
       <url>
+        <loc>https://majordigest.com/world/2023/08/30/londons-plan-to-charge-drivers-of-polluting-cars-sparks-protests-and-stirs-political-passions/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-30T03:19:20.000Z</news:publication_date>
+          <news:title>London&#8217;s plan to charge drivers of polluting cars sparks protests and stirs political passions</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/world/2023/08/30/londons-plan-to-charge-drivers-of-polluting-cars-sparks-protests-and-stirs-political-passions/londons-plan-to-charge-drivers-of-polluting-cars-sparks-protests-and-stirs-political-passions.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/world/2023/08/30/australians-to-vote-in-a-referendum-on-indigenous-voice-to-parliament-on-oct-14/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-30T03:03:11.000Z</news:publication_date>
+          <news:title>Australians to vote in a referendum on Indigenous Voice to Parliament on Oct. 14</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/world/2023/08/30/australians-to-vote-in-a-referendum-on-indigenous-voice-to-parliament-on-oct-14/australians-to-vote-in-a-referendum-on-indigenous-voice-to-parliament-on-oct-14.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/world/2023/08/30/australians-are-voting-on-creating-an-indigenous-voice-to-parliament-heres-what-you-need-to-know/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-30T02:26:06.000Z</news:publication_date>
+          <news:title>Australians are voting on creating an Indigenous Voice to Parliament. Here's what you need to know</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/world/2023/08/30/australians-are-voting-on-creating-an-indigenous-voice-to-parliament-heres-what-you-need-to-know/australians-are-voting-on-creating-an-indigenous-voice-to-parliament-heres-what-you-need-to-know.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
         <loc>https://majordigest.com/world/2023/08/30/ukraine-launches-biggest-drone-attack-on-russian-soil-in-18-months-state-media/</loc>
         <news:news>
           <news:publication>
@@ -45,20 +87,6 @@
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/world/2023/08/30/israelis-on-a-flight-that-made-an-emergency-landing-in-saudi-arabia-return-to-tel-aviv/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-30T00:58:50.000Z</news:publication_date>
-          <news:title>Saudi Arabia gets some unlikely visitors when a plane full of Israelis makes an emergency landing</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/world/2023/08/30/israelis-on-a-flight-that-made-an-emergency-landing-in-saudi-arabia-return-to-tel-aviv/israelis-on-a-flight-that-made-an-emergency-landing-in-saudi-arabia-return-to-tel-aviv.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
         <loc>https://majordigest.com/world/2023/08/30/a-ugandan-man-is-charged-with-aggravated-homosexuality-and-could-face-the-death-penalty/</loc>
         <news:news>
           <news:publication>
@@ -70,34 +98,6 @@
         </news:news>
         <image:image>
           <image:loc>https://majordigest.com/world/2023/08/30/a-ugandan-man-is-charged-with-aggravated-homosexuality-and-could-face-the-death-penalty/a-ugandan-man-is-charged-with-aggravated-homosexuality-and-could-face-the-death-penalty.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/world/2023/08/30/guatemalas-president-elect-faces-legal-challenges-that-seek-to-weaken-him-heres-whats-happening/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-30T00:42:26.000Z</news:publication_date>
-          <news:title>Guatemala's president-elect faces legal challenges that seek to weaken him. Here's what's happening</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/world/2023/08/30/guatemalas-president-elect-faces-legal-challenges-that-seek-to-weaken-him-heres-whats-happening/guatemalas-president-elect-faces-legal-challenges-that-seek-to-weaken-him-heres-whats-happening.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/world/2023/08/30/guatemalas-president-elect-faces-legal-challenges-that-seek-to-weaken-him-heres-whats-happening/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-30T00:42:26.000Z</news:publication_date>
-          <news:title>Guatemala's president-elect faces legal challenges that seek to weaken him. Here's what's happening</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/world/2023/08/30/guatemalas-president-elect-faces-legal-challenges-that-seek-to-weaken-him-heres-whats-happening/guatemalas-president-elect-faces-legal-challenges-that-seek-to-weaken-him-heres-whats-happening.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -129,20 +129,6 @@
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/world/2023/08/29/technical-failure-halted-uk-air-traffic-blamed-issues-flight-data/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-29T23:30:20.000Z</news:publication_date>
-          <news:title>Technical failure that halted UK air traffic blamed on issues with flight data</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/world/2023/08/29/technical-failure-halted-uk-air-traffic-blamed-issues-flight-data/technical-failure-halted-uk-air-traffic-blamed-issues-flight-data.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
         <loc>https://majordigest.com/world/2023/08/29/canada-warns-travelers-to-us-about-anti-lgbtq-laws/</loc>
         <news:news>
           <news:publication>
@@ -154,6 +140,20 @@
         </news:news>
         <image:image>
           <image:loc>https://majordigest.com/world/2023/08/29/canada-warns-travelers-to-us-about-anti-lgbtq-laws/canada-warns-travelers-to-us-about-anti-lgbtq-laws.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/world/2023/08/29/paul-whelan-american-detained-in-russia-seen-in-new-video-released-by-state-media/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-29T23:18:05.000Z</news:publication_date>
+          <news:title>Paul Whelan, American detained in Russia, seen in new video released by state media</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/world/2023/08/29/paul-whelan-american-detained-in-russia-seen-in-new-video-released-by-state-media/paul-whelan-american-detained-in-russia-seen-in-new-video-released-by-state-media.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -227,17 +227,17 @@
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/world/2023/08/29/kim-calls-for-invasion-preparations-in-north-korea/</loc>
+        <loc>https://majordigest.com/world/2023/08/29/guatemalas-president-elect-faces-legal-challenges-that-seek-to-weaken-him-heres-whats-happening/</loc>
         <news:news>
           <news:publication>
             <news:name>Major Digest</news:name>
             <news:language>en</news:language>
           </news:publication>
-          <news:publication_date>2023-08-29T17:37:46.000Z</news:publication_date>
-          <news:title>Kim calls for invasion preparations in North Korea amid US, allies' exercises</news:title>
+          <news:publication_date>2023-08-29T20:15:34.000Z</news:publication_date>
+          <news:title>Guatemala's president-elect faces legal challenges that seek to weaken him. Here's what's happening</news:title>
         </news:news>
         <image:image>
-          <image:loc>https://majordigest.com/world/2023/08/29/kim-calls-for-invasion-preparations-in-north-korea/kim-calls-for-invasion-preparations-in-north-korea.webp</image:loc>
+          <image:loc>https://majordigest.com/world/2023/08/29/guatemalas-president-elect-faces-legal-challenges-that-seek-to-weaken-him-heres-whats-happening/guatemalas-president-elect-faces-legal-challenges-that-seek-to-weaken-him-heres-whats-happening.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -311,17 +311,17 @@
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/world/2023/08/28/us-chinese-commerce-leaders-meet-huge-progress/</loc>
+        <loc>https://majordigest.com/world/2023/08/29/us-marines-killed-in-australian-aircraft-crash-were-from-illinois-virginia-and-colorado/</loc>
         <news:news>
           <news:publication>
             <news:name>Major Digest</news:name>
             <news:language>en</news:language>
           </news:publication>
-          <news:publication_date>2023-08-28T20:44:31.000Z</news:publication_date>
-          <news:title>US, Chinese commerce leaders meet: 'Huge progress'</news:title>
+          <news:publication_date>2023-08-29T01:55:12.000Z</news:publication_date>
+          <news:title>US Marines killed in Australian aircraft crash were from Illinois, Virginia and Colorado</news:title>
         </news:news>
         <image:image>
-          <image:loc>https://majordigest.com/world/2023/08/28/us-chinese-commerce-leaders-meet-huge-progress/us-chinese-commerce-leaders-meet-huge-progress.webp</image:loc>
+          <image:loc>https://majordigest.com/world/2023/08/29/us-marines-killed-in-australian-aircraft-crash-were-from-illinois-virginia-and-colorado/us-marines-killed-in-australian-aircraft-crash-were-from-illinois-virginia-and-colorado.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -364,20 +364,6 @@
         </news:news>
         <image:image>
           <image:loc>https://majordigest.com/world/2023/08/28/virginia-man-stolen-at-birth-meets-chilean-family-for-first-time/virginia-man-stolen-at-birth-meets-chilean-family-for-first-time.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/world/2023/08/28/bog-snorkeling-championships-competitors-race-through-slime-in-british-contest/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-28T13:35:33.000Z</news:publication_date>
-          <news:title>Bog snorkeling championships: Competitors&#160;race through slime in British contest</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/world/2023/08/28/bog-snorkeling-championships-competitors-race-through-slime-in-british-contest/bog-snorkeling-championships-competitors-race-through-slime-in-british-contest.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -476,6 +462,20 @@
         </news:news>
         <image:image>
           <image:loc>https://majordigest.com/world/2023/08/25/dutch-brewer-heineken-sells-its-russian-operations-for-1-euro-taking-a-300-million-euro-hit/dutch-brewer-heineken-sells-its-russian-operations-for-1-euro-taking-a-300-million-euro-hit.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/world/2023/08/24/fifa-opens-case-against-spanish-soccer-official-who-kissed-player-on-lips-at-womens-world-cup/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-24T20:20:35.000Z</news:publication_date>
+          <news:title>FIFA opens case against Spanish soccer official who kissed player on lips at Women's World Cup</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/world/2023/08/24/fifa-opens-case-against-spanish-soccer-official-who-kissed-player-on-lips-at-womens-world-cup/fifa-opens-case-against-spanish-soccer-official-who-kissed-player-on-lips-at-womens-world-cup.webp</image:loc>
         </image:image>
       </url>
       <url>
