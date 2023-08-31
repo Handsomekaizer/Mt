@@ -3,6 +3,20 @@
               xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
               xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
       <url>
+        <loc>https://majordigest.com/tech/2023/08/31/federal-authorities-investigating-tesla-over-secret-project-to-build-austin-home-for-musk-report/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-31T18:57:10.000Z</news:publication_date>
+          <news:title>Federal authorities investigating Tesla over secret project to build Austin home for Musk: report</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/tech/2023/08/31/federal-authorities-investigating-tesla-over-secret-project-to-build-austin-home-for-musk-report/federal-authorities-investigating-tesla-over-secret-project-to-build-austin-home-for-musk-report.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
         <loc>https://majordigest.com/tech/2023/08/31/elon-musk-says-x-formerly-twitter-will-have-voice-and-video-calls-updates-privacy-policy/</loc>
         <news:news>
           <news:publication>
@@ -87,6 +101,20 @@
         </image:image>
       </url>
       <url>
+        <loc>https://majordigest.com/tech/2023/08/31/cunning-romance-scams-how-avoid-them/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-31T14:00:26.000Z</news:publication_date>
+          <news:title>Cunning romance scams and how to avoid them</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/tech/2023/08/31/cunning-romance-scams-how-avoid-them/cunning-romance-scams-how-avoid-them.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
         <loc>https://majordigest.com/tech/2023/08/31/san-jose-airport-passenger-economy-tech-covid-airline-travel-fly-july/</loc>
         <news:news>
           <news:publication>
@@ -143,6 +171,20 @@
         </image:image>
       </url>
       <url>
+        <loc>https://majordigest.com/tech/2023/08/31/looming-auto-strike-puts-bidens-labor-loyalty-to-the-test/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-31T10:00:00.000Z</news:publication_date>
+          <news:title>Looming auto strike puts Biden's labor loyalty to the test</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/tech/2023/08/31/looming-auto-strike-puts-bidens-labor-loyalty-to-the-test/looming-auto-strike-puts-bidens-labor-loyalty-to-the-test.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
         <loc>https://majordigest.com/tech/2023/08/31/chinas-baidu-makes-ai-chatbot-ernie-bot-publicly-available/</loc>
         <news:news>
           <news:publication>
@@ -154,6 +196,20 @@
         </news:news>
         <image:image>
           <image:loc>https://majordigest.com/tech/2023/08/31/chinas-baidu-makes-ai-chatbot-ernie-bot-publicly-available/chinas-baidu-makes-ai-chatbot-ernie-bot-publicly-available.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/tech/2023/08/31/trains-suspended-people-warned-away-from-the-coastline-as-typhoon-saola-churns-toward-south-china/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-31T05:48:16.000Z</news:publication_date>
+          <news:title>Typhoon Saola churns toward south China, suspending transport and delaying the school year</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/tech/2023/08/31/trains-suspended-people-warned-away-from-the-coastline-as-typhoon-saola-churns-toward-south-china/trains-suspended-people-warned-away-from-the-coastline-as-typhoon-saola-churns-toward-south-china.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -241,34 +297,6 @@
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/tech/2023/08/30/job-growth-dips-sharply-as-labor-market-cools/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-30T16:43:54.000Z</news:publication_date>
-          <news:title>Job growth dips sharply as labor market cools</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/tech/2023/08/30/job-growth-dips-sharply-as-labor-market-cools/job-growth-dips-sharply-as-labor-market-cools.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/tech/2023/08/30/ocasio-cortez-ponders-leaving-x-platform/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-30T15:21:28.000Z</news:publication_date>
-          <news:title>Ocasio-Cortez ponders leaving X: 'A formal break is something that we actively discuss'</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/tech/2023/08/30/ocasio-cortez-ponders-leaving-x-platform/ocasio-cortez-ponders-leaving-x-platform.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
         <loc>https://majordigest.com/tech/2023/08/30/saudi-man-receives-death-penalty-for-posts-online-latest-case-in-wide-ranging-crackdown-on-dissent/</loc>
         <news:news>
           <news:publication>
@@ -339,20 +367,6 @@
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/tech/2023/08/30/amazon-ceo-says-its-probably-not-going-work-out-for-employees-who-defy-return-to-office-policy/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-30T08:20:12.000Z</news:publication_date>
-          <news:title>Amazon CEO says 'it&#8217;s probably not going to work out' for employees who defy return-to-office policy</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/tech/2023/08/30/amazon-ceo-says-its-probably-not-going-work-out-for-employees-who-defy-return-to-office-policy/amazon-ceo-says-its-probably-not-going-work-out-for-employees-who-defy-return-to-office-policy.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
         <loc>https://majordigest.com/tech/2023/08/30/2023-nissan-ariya-electric-crossover-review/</loc>
         <news:news>
           <news:publication>
@@ -392,34 +406,6 @@
         </news:news>
         <image:image>
           <image:loc>https://majordigest.com/tech/2023/08/29/un-warns-hundreds-of-thousands-in-southeast-asia-roped-into-online-scams/un-warns-hundreds-of-thousands-in-southeast-asia-roped-into-online-scams.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/tech/2023/08/29/un-warns-hundreds-of-thousands-in-southeast-asia-roped-into-online-scams/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-29T20:43:59.000Z</news:publication_date>
-          <news:title>UN warns that hundreds of thousands in Southeast Asia have been roped into online scams</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/tech/2023/08/29/un-warns-hundreds-of-thousands-in-southeast-asia-roped-into-online-scams/un-warns-hundreds-of-thousands-in-southeast-asia-roped-into-online-scams.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/tech/2023/08/29/meta-disrupts-covert-influence-operations-facebook-instagram/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-29T17:16:22.000Z</news:publication_date>
-          <news:title>Meta disrupts covert influence operations on Facebook, Instagram</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/tech/2023/08/29/meta-disrupts-covert-influence-operations-facebook-instagram/meta-disrupts-covert-influence-operations-facebook-instagram.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -504,6 +490,20 @@
         </news:news>
         <image:image>
           <image:loc>https://majordigest.com/tech/2023/08/25/los-angeles-solar-ev-chargers-ev-arc-beam-global/los-angeles-solar-ev-chargers-ev-arc-beam-global.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/tech/2023/08/25/workers-win-raises-at-general-motors-joint-venture-battery-plant-in-ohio-as-contract-talks-continue/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-25T00:12:09.000Z</news:publication_date>
+          <news:title>Workers win raises at General Motors joint venture battery plant in Ohio as contract talks continue</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/tech/2023/08/25/workers-win-raises-at-general-motors-joint-venture-battery-plant-in-ohio-as-contract-talks-continue/workers-win-raises-at-general-motors-joint-venture-battery-plant-in-ohio-as-contract-talks-continue.webp</image:loc>
         </image:image>
       </url>
       <url>

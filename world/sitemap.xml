@@ -3,6 +3,34 @@
               xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
               xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
       <url>
+        <loc>https://majordigest.com/world/2023/08/31/us-military-calls-for-end-of-fighting-in-east-syria-and-warns-it-could-lead-to-is-resurgence/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-31T19:08:39.000Z</news:publication_date>
+          <news:title>US military calls for end of fighting in east Syria and warns it could lead to IS resurgence</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/world/2023/08/31/us-military-calls-for-end-of-fighting-in-east-syria-and-warns-it-could-lead-to-is-resurgence/us-military-calls-for-end-of-fighting-in-east-syria-and-warns-it-could-lead-to-is-resurgence.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/world/2023/08/31/iran-accuses-israel-sabotaging-ballistic-missile-program-sending-faulty-parts/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-31T18:22:38.000Z</news:publication_date>
+          <news:title>Iran accuses Israel of sabotaging its ballistic missile program by sending faulty parts</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/world/2023/08/31/iran-accuses-israel-sabotaging-ballistic-missile-program-sending-faulty-parts/iran-accuses-israel-sabotaging-ballistic-missile-program-sending-faulty-parts.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
         <loc>https://majordigest.com/world/2023/08/31/airstrike-southern-syria-hits-alleged-drug-factory/</loc>
         <news:news>
           <news:publication>
@@ -56,20 +84,6 @@
         </news:news>
         <image:image>
           <image:loc>https://majordigest.com/world/2023/08/31/german-court-convicts-russian-man-plotting-kill-exiled-chechen-dissident/german-court-convicts-russian-man-plotting-kill-exiled-chechen-dissident.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/world/2023/08/31/nearly-2000-killed-injured-kidnapped-haiti-april-june-un-report/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-31T17:52:40.000Z</news:publication_date>
-          <news:title>Nearly 2,000 killed, injured, kidnapped in Haiti from April to June: UN report</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/world/2023/08/31/nearly-2000-killed-injured-kidnapped-haiti-april-june-un-report/nearly-2000-killed-injured-kidnapped-haiti-april-june-un-report.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -171,6 +185,34 @@
         </image:image>
       </url>
       <url>
+        <loc>https://majordigest.com/world/2023/08/31/ukraine-breaks-through-major-russian-defense-lines-as-counteroffensive-picks-up-pace/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-31T16:07:07.000Z</news:publication_date>
+          <news:title>Ukraine breaks through major Russian defense lines as counteroffensive picks up pace</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/world/2023/08/31/ukraine-breaks-through-major-russian-defense-lines-as-counteroffensive-picks-up-pace/ukraine-breaks-through-major-russian-defense-lines-as-counteroffensive-picks-up-pace.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/world/2023/08/31/sudans-army-chief-warns-that-the-country-will-be-fragmented-if-the-deadly-conflict-is-not-resolved/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-31T15:44:11.000Z</news:publication_date>
+          <news:title>Sudan's army chief warns that the country will be fragmented if the deadly conflict is not resolved</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/world/2023/08/31/sudans-army-chief-warns-that-the-country-will-be-fragmented-if-the-deadly-conflict-is-not-resolved/sudans-army-chief-warns-that-the-country-will-be-fragmented-if-the-deadly-conflict-is-not-resolved.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
         <loc>https://majordigest.com/world/2023/08/31/sudans-army-chief-warns-that-the-country-will-be-fragmented-if-the-deadly-conflict-is-not-resolved/</loc>
         <news:news>
           <news:publication>
@@ -213,17 +255,17 @@
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/world/2023/08/31/zelenskyy-says-ukraine-has-developed-a-long-range-weapon-a-day-after-a-strike-deep-inside-russia/</loc>
+        <loc>https://majordigest.com/world/2023/08/31/iran-accuses-israel-of-supplying-potentially-exploding-parts-for-ballistic-missile-program/</loc>
         <news:news>
           <news:publication>
             <news:name>Major Digest</news:name>
             <news:language>en</news:language>
           </news:publication>
-          <news:publication_date>2023-08-31T12:59:23.000Z</news:publication_date>
-          <news:title>Zelenskyy says Ukraine has developed a long-range weapon, a day after a strike deep inside Russia</news:title>
+          <news:publication_date>2023-08-31T11:25:13.000Z</news:publication_date>
+          <news:title>Iran accuses Israel of supplying potentially exploding parts for ballistic missile program</news:title>
         </news:news>
         <image:image>
-          <image:loc>https://majordigest.com/world/2023/08/31/zelenskyy-says-ukraine-has-developed-a-long-range-weapon-a-day-after-a-strike-deep-inside-russia/zelenskyy-says-ukraine-has-developed-a-long-range-weapon-a-day-after-a-strike-deep-inside-russia.webp</image:loc>
+          <image:loc>https://majordigest.com/world/2023/08/31/iran-accuses-israel-of-supplying-potentially-exploding-parts-for-ballistic-missile-program/iran-accuses-israel-of-supplying-potentially-exploding-parts-for-ballistic-missile-program.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -339,34 +381,6 @@
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/world/2023/08/30/russia-earns-less-from-oil-and-spends-more-on-war-so-far-sanctions-are-working-like-a-slow-poison/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-30T06:57:49.000Z</news:publication_date>
-          <news:title>Russia earns less from oil and spends more on war. So far, sanctions are working like a slow poison</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/world/2023/08/30/russia-earns-less-from-oil-and-spends-more-on-war-so-far-sanctions-are-working-like-a-slow-poison/russia-earns-less-from-oil-and-spends-more-on-war-so-far-sanctions-are-working-like-a-slow-poison.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/world/2023/08/30/russia-earns-less-from-oil-and-spends-more-on-war-so-far-sanctions-are-working-like-a-slow-poison/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-30T06:57:49.000Z</news:publication_date>
-          <news:title>Russia earns less from oil and spends more on war. So far, sanctions are working like a slow poison</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/world/2023/08/30/russia-earns-less-from-oil-and-spends-more-on-war-so-far-sanctions-are-working-like-a-slow-poison/russia-earns-less-from-oil-and-spends-more-on-war-so-far-sanctions-are-working-like-a-slow-poison.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
         <loc>https://majordigest.com/world/2023/08/29/the-kremlin-says-putin-is-not-planning-to-attend-wagner-chief-prigozhins-burial/</loc>
         <news:news>
           <news:publication>
@@ -395,17 +409,17 @@
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/world/2023/08/29/neurosurgeon-investigating-patients-mystery-symptoms-plucks-worm-from-womans-brain/</loc>
+        <loc>https://majordigest.com/world/2023/08/29/us-marines-killed-in-australian-aircraft-crash-were-from-illinois-virginia-and-colorado/</loc>
         <news:news>
           <news:publication>
             <news:name>Major Digest</news:name>
             <news:language>en</news:language>
           </news:publication>
-          <news:publication_date>2023-08-29T10:07:27.000Z</news:publication_date>
-          <news:title>Neurosurgeon investigating patient's mystery symptoms plucks worm from woman's brain</news:title>
+          <news:publication_date>2023-08-29T01:55:12.000Z</news:publication_date>
+          <news:title>US Marines killed in Australian aircraft crash were from Illinois, Virginia and Colorado</news:title>
         </news:news>
         <image:image>
-          <image:loc>https://majordigest.com/world/2023/08/29/neurosurgeon-investigating-patients-mystery-symptoms-plucks-worm-from-womans-brain/neurosurgeon-investigating-patients-mystery-symptoms-plucks-worm-from-womans-brain.webp</image:loc>
+          <image:loc>https://majordigest.com/world/2023/08/29/us-marines-killed-in-australian-aircraft-crash-were-from-illinois-virginia-and-colorado/us-marines-killed-in-australian-aircraft-crash-were-from-illinois-virginia-and-colorado.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -462,20 +476,6 @@
         </news:news>
         <image:image>
           <image:loc>https://majordigest.com/world/2023/08/28/virginia-man-stolen-at-birth-meets-chilean-family-for-first-time/virginia-man-stolen-at-birth-meets-chilean-family-for-first-time.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/world/2023/08/27/with-drones-and-webcams-volunteer-hunters-join-new-search-for-mythical-loch-ness-monster/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-27T02:47:41.000Z</news:publication_date>
-          <news:title>With drones and webcams, volunteer hunters join new search for mythical Loch Ness Monster</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/world/2023/08/27/with-drones-and-webcams-volunteer-hunters-join-new-search-for-mythical-loch-ness-monster/with-drones-and-webcams-volunteer-hunters-join-new-search-for-mythical-loch-ness-monster.webp</image:loc>
         </image:image>
       </url>
       <url>

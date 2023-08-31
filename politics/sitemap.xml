@@ -3,6 +3,34 @@
               xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
               xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
       <url>
+        <loc>https://majordigest.com/politics/2023/08/31/mcconnell-cleared-resume-schedule-planned-following-ky-press-conference-freeze/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-31T18:55:07.000Z</news:publication_date>
+          <news:title>McConnell cleared to resume 'schedule as planned' following KY press conference freeze</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/politics/2023/08/31/mcconnell-cleared-resume-schedule-planned-following-ky-press-conference-freeze/mcconnell-cleared-resume-schedule-planned-following-ky-press-conference-freeze.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/politics/2023/08/31/raphael-warnocks-church-resumes-low-income-evictions-election-season/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-31T18:37:44.000Z</news:publication_date>
+          <news:title>Raphael Warnock's church resumes low-income evictions after election season</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/politics/2023/08/31/raphael-warnocks-church-resumes-low-income-evictions-election-season/raphael-warnocks-church-resumes-low-income-evictions-election-season.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
         <loc>https://majordigest.com/politics/2023/08/31/delaware-judge-orders-status-report-on-felony-gun-charge-against-hunter-biden/</loc>
         <news:news>
           <news:publication>
@@ -115,20 +143,6 @@
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/politics/2023/08/31/trump-us-avoided-nuclear-holocaust-made-deal-north-korea/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-31T16:50:33.000Z</news:publication_date>
-          <news:title>Trump says US avoided 'nuclear holocaust' when he made 'deal with North Korea'</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/politics/2023/08/31/trump-us-avoided-nuclear-holocaust-made-deal-north-korea/trump-us-avoided-nuclear-holocaust-made-deal-north-korea.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
         <loc>https://majordigest.com/politics/2023/08/31/raimondo-china-congressional-hawks/</loc>
         <news:news>
           <news:publication>
@@ -157,45 +171,17 @@
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/politics/2023/08/31/conservative-group-urges-republicans-to-reject-border-trap-in-biden-admin-funding-request/</loc>
+        <loc>https://majordigest.com/politics/2023/08/31/desantis-fema-administrator-tour-hurricane-damage/</loc>
         <news:news>
           <news:publication>
             <news:name>Major Digest</news:name>
             <news:language>en</news:language>
           </news:publication>
-          <news:publication_date>2023-08-31T16:12:58.000Z</news:publication_date>
-          <news:title>Conservative group urges Republicans to reject 'border trap' in Biden admin funding request: 'cynical ploy'</news:title>
+          <news:publication_date>2023-08-31T15:40:40.000Z</news:publication_date>
+          <news:title>Biden to visit Florida on Saturday</news:title>
         </news:news>
         <image:image>
-          <image:loc>https://majordigest.com/politics/2023/08/31/conservative-group-urges-republicans-to-reject-border-trap-in-biden-admin-funding-request/conservative-group-urges-republicans-to-reject-border-trap-in-biden-admin-funding-request.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/politics/2023/08/31/trump-georgia-not-guilty-plea/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-31T15:34:52.000Z</news:publication_date>
-          <news:title>Trump pleads 'not guilty' in Georgia racketeering case</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/politics/2023/08/31/trump-georgia-not-guilty-plea/trump-georgia-not-guilty-plea.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/politics/2023/08/31/justice-thomas-reports-he-took-3-trips-on-republican-donors-plane-last-year/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-31T15:29:01.000Z</news:publication_date>
-          <news:title>Justice Clarence Thomas reports he took 3 trips on Republican donor's plane last year</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/politics/2023/08/31/justice-thomas-reports-he-took-3-trips-on-republican-donors-plane-last-year/justice-thomas-reports-he-took-3-trips-on-republican-donors-plane-last-year.webp</image:loc>
+          <image:loc>https://majordigest.com/politics/2023/08/31/desantis-fema-administrator-tour-hurricane-damage/desantis-fema-administrator-tour-hurricane-damage.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -210,6 +196,20 @@
         </news:news>
         <image:image>
           <image:loc>https://majordigest.com/politics/2023/08/31/mitch-mcconnell-resign-tomorrow-bill-oreilly/mitch-mcconnell-resign-tomorrow-bill-oreilly.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/politics/2023/08/31/trump-pleads-not-guilty-in-georgia-waives-arraignment/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-31T15:20:38.000Z</news:publication_date>
+          <news:title>Trump pleads not guilty in Georgia, waives arraignment</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/politics/2023/08/31/trump-pleads-not-guilty-in-georgia-waives-arraignment/trump-pleads-not-guilty-in-georgia-waives-arraignment.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -241,17 +241,17 @@
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/politics/2023/08/31/mcconnell-may-have-suffered-partial-seizure-neurologist/</loc>
+        <loc>https://majordigest.com/politics/2023/08/31/justice-clarence-thomas-reports-he-took-3-trips-on-republican-donors-plane-last-year/</loc>
         <news:news>
           <news:publication>
             <news:name>Major Digest</news:name>
             <news:language>en</news:language>
           </news:publication>
-          <news:publication_date>2023-08-31T14:14:51.000Z</news:publication_date>
-          <news:title>McConnell may have suffered partial seizure: Neurologist</news:title>
+          <news:publication_date>2023-08-31T14:35:05.000Z</news:publication_date>
+          <news:title>Justice Clarence Thomas reports he took 3 trips on Republican donor's plane last year</news:title>
         </news:news>
         <image:image>
-          <image:loc>https://majordigest.com/politics/2023/08/31/mcconnell-may-have-suffered-partial-seizure-neurologist/mcconnell-may-have-suffered-partial-seizure-neurologist.webp</image:loc>
+          <image:loc>https://majordigest.com/politics/2023/08/31/justice-clarence-thomas-reports-he-took-3-trips-on-republican-donors-plane-last-year/justice-clarence-thomas-reports-he-took-3-trips-on-republican-donors-plane-last-year.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -283,20 +283,6 @@
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/politics/2023/08/31/mayor-adams-calls-for-help-getting-migrants-expedited-work-authorization/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-31T10:36:07.000Z</news:publication_date>
-          <news:title>Mayor Adams calls for help getting migrants expedited work authorization</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/politics/2023/08/31/mayor-adams-calls-for-help-getting-migrants-expedited-work-authorization/mayor-adams-calls-for-help-getting-migrants-expedited-work-authorization.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
         <loc>https://majordigest.com/politics/2023/08/31/npr-biden-air-force-one-short-stairs/</loc>
         <news:news>
           <news:publication>
@@ -308,6 +294,20 @@
         </news:news>
         <image:image>
           <image:loc>https://majordigest.com/politics/2023/08/31/npr-biden-air-force-one-short-stairs/npr-biden-air-force-one-short-stairs.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/politics/2023/08/31/qa-how-can-texans-prepare-for-extreme-heat/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-31T10:00:00.000Z</news:publication_date>
+          <news:title>Q&#38;A: How can Texans deal with extreme heat?</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/politics/2023/08/31/qa-how-can-texans-prepare-for-extreme-heat/qa-how-can-texans-prepare-for-extreme-heat.webp</image:loc>
         </image:image>
       </url>
       <url>
