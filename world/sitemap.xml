@@ -3,6 +3,34 @@
               xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
               xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
       <url>
+        <loc>https://majordigest.com/world/2023/08/31/this-trans-woman-was-begging-on-indias-streets-a-donated-electric-rickshaw-changed-her-life/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-31T01:53:33.000Z</news:publication_date>
+          <news:title>This trans woman was begging on India&#8217;s streets. A donated electric rickshaw changed her life</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/world/2023/08/31/this-trans-woman-was-begging-on-indias-streets-a-donated-electric-rickshaw-changed-her-life/this-trans-woman-was-begging-on-indias-streets-a-donated-electric-rickshaw-changed-her-life.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/world/2023/08/31/government-incentives-and-cost-conscious-customers-lead-to-electric-vehicle-boom-in-india/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-31T01:51:59.000Z</news:publication_date>
+          <news:title>Government incentives and cost-conscious customers lead to electric vehicle boom in India</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/world/2023/08/31/government-incentives-and-cost-conscious-customers-lead-to-electric-vehicle-boom-in-india/government-incentives-and-cost-conscious-customers-lead-to-electric-vehicle-boom-in-india.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
         <loc>https://majordigest.com/world/2023/08/31/this-trans-woman-was-begging-on-indias-streets-a-donated-electric-rickshaw-changed-her-life-2/</loc>
         <news:news>
           <news:publication>
@@ -135,7 +163,7 @@
             <news:name>Major Digest</news:name>
             <news:language>en</news:language>
           </news:publication>
-          <news:publication_date>2023-08-30T21:10:16.000Z</news:publication_date>
+          <news:publication_date>2023-08-30T21:10:15.000Z</news:publication_date>
           <news:title>3 arrested in Dominican Republic as part of investigation into explosion that killed 34</news:title>
         </news:news>
         <image:image>
@@ -168,6 +196,20 @@
         </news:news>
         <image:image>
           <image:loc>https://majordigest.com/world/2023/08/30/first-us-military-transfer-to-taiwan-approved-under-program-for-sovereign-states/first-us-military-transfer-to-taiwan-approved-under-program-for-sovereign-states.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/world/2023/08/30/india-protests-chinas-land-claim-ahead-of-the-g20-summit-president-xi-jinping-is-expected-to-attend/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-30T18:42:57.000Z</news:publication_date>
+          <news:title>India and Malaysia protest China's land claim in a newly published map ahead of the G20 summit</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/world/2023/08/30/india-protests-chinas-land-claim-ahead-of-the-g20-summit-president-xi-jinping-is-expected-to-attend/india-protests-chinas-land-claim-ahead-of-the-g20-summit-president-xi-jinping-is-expected-to-attend.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -294,34 +336,6 @@
         </news:news>
         <image:image>
           <image:loc>https://majordigest.com/world/2023/08/30/176-global-leaders-and-nobel-laureates-urge-bangladesh-to-halt-cases-against-peace-prize-winner/176-global-leaders-and-nobel-laureates-urge-bangladesh-to-halt-cases-against-peace-prize-winner.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/world/2023/08/30/india-protests-chinas-land-claim-ahead-of-the-g20-summit-president-xi-jinping-is-expected-to-attend/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-30T05:43:42.000Z</news:publication_date>
-          <news:title>India and Malaysia protest China's land claim in a newly published map ahead of the G20 summit</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/world/2023/08/30/india-protests-chinas-land-claim-ahead-of-the-g20-summit-president-xi-jinping-is-expected-to-attend/india-protests-chinas-land-claim-ahead-of-the-g20-summit-president-xi-jinping-is-expected-to-attend.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/world/2023/08/30/6-regions-targeted-in-biggest-drone-attack-on-russia-since-it-sent-troops-to-ukraine-officials-say/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-30T01:36:44.000Z</news:publication_date>
-          <news:title>Ukrainian drones strike deep in Russian territory, Moscow says, while a barrage in Kyiv kills 2</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/world/2023/08/30/6-regions-targeted-in-biggest-drone-attack-on-russia-since-it-sent-troops-to-ukraine-officials-say/6-regions-targeted-in-biggest-drone-attack-on-russia-since-it-sent-troops-to-ukraine-officials-say.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -476,20 +490,6 @@
         </news:news>
         <image:image>
           <image:loc>https://majordigest.com/world/2023/08/25/from-tarantulas-to-tigers-zoo-animals-step-onto-scales-for-annual-weigh-in/from-tarantulas-to-tigers-zoo-animals-step-onto-scales-for-annual-weigh-in.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/world/2023/08/25/dutch-brewer-heineken-sells-its-russian-operations-for-1-euro-taking-a-300-million-euro-hit/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-25T08:07:09.000Z</news:publication_date>
-          <news:title>Dutch brewer Heineken sells its Russian operations for 1 euro, taking a 300-million-euro hit</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/world/2023/08/25/dutch-brewer-heineken-sells-its-russian-operations-for-1-euro-taking-a-300-million-euro-hit/dutch-brewer-heineken-sells-its-russian-operations-for-1-euro-taking-a-300-million-euro-hit.webp</image:loc>
         </image:image>
       </url>
       <url>

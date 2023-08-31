@@ -3,6 +3,20 @@
               xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
               xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
       <url>
+        <loc>https://majordigest.com/politics/2023/08/31/senate-gop-leader-mitch-mcconnell-appears-to-freeze-up-again-this-time-at-a-kentucky-event/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-31T01:34:08.000Z</news:publication_date>
+          <news:title>Senate GOP leader Mitch McConnell appears to freeze up again, this time at a Kentucky event</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/politics/2023/08/31/senate-gop-leader-mitch-mcconnell-appears-to-freeze-up-again-this-time-at-a-kentucky-event/senate-gop-leader-mitch-mcconnell-appears-to-freeze-up-again-this-time-at-a-kentucky-event.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
         <loc>https://majordigest.com/politics/2023/08/31/trump-offers-advice-ramaswamy-be-a-little-bit-careful/</loc>
         <news:news>
           <news:publication>
@@ -98,20 +112,6 @@
         </news:news>
         <image:image>
           <image:loc>https://majordigest.com/politics/2023/08/30/appeals-court-delivers-major-blow-michael-avenattis-efforts-reduce-jail-sentence/appeals-court-delivers-major-blow-michael-avenattis-efforts-reduce-jail-sentence.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/politics/2023/08/30/ex-proud-boys-leader-enrique-tarrio-to-be-sentenced-for-seditious-conspiracy-in-jan-6-attack/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-30T22:38:25.000Z</news:publication_date>
-          <news:title>Judge's illness delays sentencing for ex-Proud Boys leader Enrique Tarrio in Jan. 6 case</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/politics/2023/08/30/ex-proud-boys-leader-enrique-tarrio-to-be-sentenced-for-seditious-conspiracy-in-jan-6-attack/ex-proud-boys-leader-enrique-tarrio-to-be-sentenced-for-seditious-conspiracy-in-jan-6-attack.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -213,20 +213,6 @@
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/politics/2023/08/30/sierra-club-endorses-maine-ballot-initiative-creating-consumer-owned-utility/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-30T19:47:36.000Z</news:publication_date>
-          <news:title>Sierra Club endorses Maine ballot initiative creating consumer-owned utility</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/politics/2023/08/30/sierra-club-endorses-maine-ballot-initiative-creating-consumer-owned-utility/sierra-club-endorses-maine-ballot-initiative-creating-consumer-owned-utility.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
         <loc>https://majordigest.com/politics/2023/08/30/more-see-trump-as-electable-after-mug-shot-release-skipped-debate-poll/</loc>
         <news:news>
           <news:publication>
@@ -252,6 +238,34 @@
         </news:news>
         <image:image>
           <image:loc>https://majordigest.com/politics/2023/08/30/conservative-law-firm-suit-nara-biden-probe/conservative-law-firm-suit-nara-biden-probe.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/politics/2023/08/30/mcconnell-freezes-for-second-time-during-press-conference/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-30T17:53:10.000Z</news:publication_date>
+          <news:title>McConnell freezes for 2nd time while taking questions</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/politics/2023/08/30/mcconnell-freezes-for-second-time-during-press-conference/mcconnell-freezes-for-second-time-during-press-conference.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/politics/2023/08/30/katie-porter-makes-campaign-stop-in-sf-mission-district/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-30T17:41:17.000Z</news:publication_date>
+          <news:title>Katie Porter makes campaign stop in SF Mission District</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/politics/2023/08/30/katie-porter-makes-campaign-stop-in-sf-mission-district/katie-porter-makes-campaign-stop-in-sf-mission-district.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -367,6 +381,20 @@
         </image:image>
       </url>
       <url>
+        <loc>https://majordigest.com/politics/2023/08/29/npr-rudy-giuliani-rico-origin-story/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-29T09:01:00.000Z</news:publication_date>
+          <news:title>It's time to rethink Rudy Giuliani and his claim to discover RICO</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/politics/2023/08/29/npr-rudy-giuliani-rico-origin-story/npr-rudy-giuliani-rico-origin-story.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
         <loc>https://majordigest.com/politics/2023/08/29/morris-is-a-small-minnesota-town-with-big-climate-goals/</loc>
         <news:news>
           <news:publication>
@@ -409,20 +437,6 @@
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/politics/2023/08/28/adam-schiff-visits-half-moon-bay-to-shed-light-on-farmworker-conditions/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-28T20:28:33.000Z</news:publication_date>
-          <news:title>Adam Schiff visits Half Moon Bay to shed light on farmworker conditions</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/politics/2023/08/28/adam-schiff-visits-half-moon-bay-to-shed-light-on-farmworker-conditions/adam-schiff-visits-half-moon-bay-to-shed-light-on-farmworker-conditions.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
         <loc>https://majordigest.com/politics/2023/08/28/biden-approves-emergency-declaration-for-florida-ahead-of-t-s-idalia/</loc>
         <news:news>
           <news:publication>
@@ -434,20 +448,6 @@
         </news:news>
         <image:image>
           <image:loc>https://majordigest.com/politics/2023/08/28/biden-approves-emergency-declaration-for-florida-ahead-of-t-s-idalia/biden-approves-emergency-declaration-for-florida-ahead-of-t-s-idalia.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/politics/2023/08/26/gop-presidential-candidate-vivek-ramaswamy-is-an-unaffiliated-voter-nbc-reports/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-26T20:33:41.000Z</news:publication_date>
-          <news:title>GOP presidential candidate Vivek Ramaswamy is an 'unaffiliated' voter, NBC reports</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/politics/2023/08/26/gop-presidential-candidate-vivek-ramaswamy-is-an-unaffiliated-voter-nbc-reports/gop-presidential-candidate-vivek-ramaswamy-is-an-unaffiliated-voter-nbc-reports.webp</image:loc>
         </image:image>
       </url>
       <url>
