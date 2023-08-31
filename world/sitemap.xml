@@ -3,6 +3,34 @@
               xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
               xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
       <url>
+        <loc>https://majordigest.com/world/2023/08/31/ousting-of-gabons-unpopular-leader-was-a-smokescreen-for-soldiers-to-seize-power-analysts-say/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-31T07:10:53.000Z</news:publication_date>
+          <news:title>Ousting of Gabon's unpopular leader was a 'smokescreen' for soldiers to seize power, analysts say</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/world/2023/08/31/ousting-of-gabons-unpopular-leader-was-a-smokescreen-for-soldiers-to-seize-power-analysts-say/ousting-of-gabons-unpopular-leader-was-a-smokescreen-for-soldiers-to-seize-power-analysts-say.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/world/2023/08/31/fire-multi-story-building-johannesburg-least-63-dead-over-40-injured/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-31T06:48:34.000Z</news:publication_date>
+          <news:title>Fire at multi-story building in Johannesburg leaves at least 63 dead, over 40 injured</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/world/2023/08/31/fire-multi-story-building-johannesburg-least-63-dead-over-40-injured/fire-multi-story-building-johannesburg-least-63-dead-over-40-injured.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
         <loc>https://majordigest.com/world/2023/08/31/at-least-52-people-have-died-in-a-fire-in-a-building-in-south-africas-biggest-city-authorities-say/</loc>
         <news:news>
           <news:publication>
@@ -10,10 +38,38 @@
             <news:language>en</news:language>
           </news:publication>
           <news:publication_date>2023-08-31T05:22:52.000Z</news:publication_date>
-          <news:title>At least 52 people have died in a fire in a building in South Africa's biggest city, authorities say</news:title>
+          <news:title>A building fire has killed at least 58 people, many homeless, in Johannesburg, authorities say</news:title>
         </news:news>
         <image:image>
           <image:loc>https://majordigest.com/world/2023/08/31/at-least-52-people-have-died-in-a-fire-in-a-building-in-south-africas-biggest-city-authorities-say/at-least-52-people-have-died-in-a-fire-in-a-building-in-south-africas-biggest-city-authorities-say.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/world/2023/08/31/gabon-military-officers-say-theyre-seizing-power-just-days-after-the-presidential-election/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-31T04:52:39.000Z</news:publication_date>
+          <news:title>Mutineers in Gabon appoint a military leader after detaining the president, alleging corruption</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/world/2023/08/31/gabon-military-officers-say-theyre-seizing-power-just-days-after-the-presidential-election/gabon-military-officers-say-theyre-seizing-power-just-days-after-the-presidential-election.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/world/2023/08/31/japans-pm-visits-fish-market-vows-to-help-fisheries-hit-by-china-ban-over-fukushima-water-release/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-31T04:20:25.000Z</news:publication_date>
+          <news:title>Japan's PM visits fish market, vows to help fisheries hit by China ban over Fukushima water release</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/world/2023/08/31/japans-pm-visits-fish-market-vows-to-help-fisheries-hit-by-china-ban-over-fukushima-water-release/japans-pm-visits-fish-market-vows-to-help-fisheries-hit-by-china-ban-over-fukushima-water-release.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -28,20 +84,6 @@
         </news:news>
         <image:image>
           <image:loc>https://majordigest.com/world/2023/08/31/this-trans-woman-was-begging-on-indias-streets-a-donated-electric-rickshaw-changed-her-life/this-trans-woman-was-begging-on-indias-streets-a-donated-electric-rickshaw-changed-her-life.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/world/2023/08/31/government-incentives-and-cost-conscious-customers-lead-to-electric-vehicle-boom-in-india/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-31T01:51:59.000Z</news:publication_date>
-          <news:title>Government incentives and cost-conscious customers lead to electric vehicle boom in India</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/world/2023/08/31/government-incentives-and-cost-conscious-customers-lead-to-electric-vehicle-boom-in-india/government-incentives-and-cost-conscious-customers-lead-to-electric-vehicle-boom-in-india.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -101,6 +143,20 @@
         </image:image>
       </url>
       <url>
+        <loc>https://majordigest.com/world/2023/08/30/iata-calls-mexican-government-seek-alternatives-proposed-flight-cuts-mexico-city-airport/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-30T23:54:09.000Z</news:publication_date>
+          <news:title>IATA calls on Mexican government to seek alternatives to proposed flight cuts at Mexico City airport</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/world/2023/08/30/iata-calls-mexican-government-seek-alternatives-proposed-flight-cuts-mexico-city-airport/iata-calls-mexican-government-seek-alternatives-proposed-flight-cuts-mexico-city-airport.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
         <loc>https://majordigest.com/world/2023/08/30/quite-scene-5-million-bees-loose-falling-truck-toronto/</loc>
         <news:news>
           <news:publication>
@@ -112,20 +168,6 @@
         </news:news>
         <image:image>
           <image:loc>https://majordigest.com/world/2023/08/30/quite-scene-5-million-bees-loose-falling-truck-toronto/quite-scene-5-million-bees-loose-falling-truck-toronto.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/world/2023/08/30/168-migrants-return-senegal-mauritania-refuses-accept-boat/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-30T23:34:53.000Z</news:publication_date>
-          <news:title>168 migrants return to Senegal after Mauritania refuses to accept boat</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/world/2023/08/30/168-migrants-return-senegal-mauritania-refuses-accept-boat/168-migrants-return-senegal-mauritania-refuses-accept-boat.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -199,20 +241,6 @@
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/world/2023/08/30/india-protests-chinas-land-claim-ahead-of-the-g20-summit-president-xi-jinping-is-expected-to-attend/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-30T18:42:57.000Z</news:publication_date>
-          <news:title>India and Malaysia protest China's land claim in a newly published map ahead of the G20 summit</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/world/2023/08/30/india-protests-chinas-land-claim-ahead-of-the-g20-summit-president-xi-jinping-is-expected-to-attend/india-protests-chinas-land-claim-ahead-of-the-g20-summit-president-xi-jinping-is-expected-to-attend.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
         <loc>https://majordigest.com/world/2023/08/30/japanese-ministers-eat-fukushima-fish-to-show-its-safe-after-nuclear-plant-wastewater-is-discharged/</loc>
         <news:news>
           <news:publication>
@@ -283,34 +311,6 @@
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/world/2023/08/30/palestinians-clash-with-own-security-forces-in-a-west-bank-refugee-camp-leaving-1-dead/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-30T12:24:14.000Z</news:publication_date>
-          <news:title>In latest violence, Israeli police kill Palestinian teen assailant and West Bank bomb hurts Israelis</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/world/2023/08/30/palestinians-clash-with-own-security-forces-in-a-west-bank-refugee-camp-leaving-1-dead/palestinians-clash-with-own-security-forces-in-a-west-bank-refugee-camp-leaving-1-dead.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/world/2023/08/30/us-commerce-secretary-warns-china-will-be-uninvestable-without-action-on-raids-fines/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-30T11:59:42.000Z</news:publication_date>
-          <news:title>US commerce secretary warns China will be 'uninvestable' without action on raids, fines</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/world/2023/08/30/us-commerce-secretary-warns-china-will-be-uninvestable-without-action-on-raids-fines/us-commerce-secretary-warns-china-will-be-uninvestable-without-action-on-raids-fines.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
         <loc>https://majordigest.com/world/2023/08/30/176-global-leaders-and-nobel-laureates-urge-bangladesh-to-halt-cases-against-peace-prize-winner/</loc>
         <news:news>
           <news:publication>
@@ -322,6 +322,20 @@
         </news:news>
         <image:image>
           <image:loc>https://majordigest.com/world/2023/08/30/176-global-leaders-and-nobel-laureates-urge-bangladesh-to-halt-cases-against-peace-prize-winner/176-global-leaders-and-nobel-laureates-urge-bangladesh-to-halt-cases-against-peace-prize-winner.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/world/2023/08/30/pope-heads-to-mongolia-to-minister-to-its-few-catholics-and-complete-centuries-old-east-west-mission/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-30T07:49:33.000Z</news:publication_date>
+          <news:title>Pope heads to Mongolia to minister to its few Catholics and complete centuries-old East-West mission</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/world/2023/08/30/pope-heads-to-mongolia-to-minister-to-its-few-catholics-and-complete-centuries-old-east-west-mission/pope-heads-to-mongolia-to-minister-to-its-few-catholics-and-complete-centuries-old-east-west-mission.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -476,20 +490,6 @@
         </news:news>
         <image:image>
           <image:loc>https://majordigest.com/world/2023/08/25/from-tarantulas-to-tigers-zoo-animals-step-onto-scales-for-annual-weigh-in/from-tarantulas-to-tigers-zoo-animals-step-onto-scales-for-annual-weigh-in.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/world/2023/08/25/dutch-brewer-heineken-sells-its-russian-operations-for-1-euro-taking-a-300-million-euro-hit/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-25T08:07:09.000Z</news:publication_date>
-          <news:title>Dutch brewer Heineken sells its Russian operations for 1 euro, taking a 300-million-euro hit</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/world/2023/08/25/dutch-brewer-heineken-sells-its-russian-operations-for-1-euro-taking-a-300-million-euro-hit/dutch-brewer-heineken-sells-its-russian-operations-for-1-euro-taking-a-300-million-euro-hit.webp</image:loc>
         </image:image>
       </url>
       <url>

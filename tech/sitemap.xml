@@ -23,7 +23,7 @@
             <news:name>Major Digest</news:name>
             <news:language>en</news:language>
           </news:publication>
-          <news:publication_date>2023-08-31T05:19:33.000Z</news:publication_date>
+          <news:publication_date>2023-08-31T05:19:34.000Z</news:publication_date>
           <news:title>China's Baidu makes AI chatbot Ernie Bot publicly available</news:title>
         </news:news>
         <image:image>
@@ -42,34 +42,6 @@
         </news:news>
         <image:image>
           <image:loc>https://majordigest.com/tech/2023/08/30/mexican-navy-hopes-to-expand-net-snagging-hooks-to-protect-endangered-vaquita-porpoises/mexican-navy-hopes-to-expand-net-snagging-hooks-to-protect-endangered-vaquita-porpoises.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/tech/2023/08/30/mexican-navy-hopes-to-expand-net-snagging-hooks-to-protect-endangered-vaquita-porpoises/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-30T21:57:35.000Z</news:publication_date>
-          <news:title>Mexican Navy hopes to expand net-snagging hooks to protect endangered vaquita porpoises</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/tech/2023/08/30/mexican-navy-hopes-to-expand-net-snagging-hooks-to-protect-endangered-vaquita-porpoises/mexican-navy-hopes-to-expand-net-snagging-hooks-to-protect-endangered-vaquita-porpoises.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/tech/2023/08/30/study-job-applicants-mental-health/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-30T21:56:33.000Z</news:publication_date>
-          <news:title>Study: Job applicants with mental health posts viewed differently</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/tech/2023/08/30/study-job-applicants-mental-health/study-job-applicants-mental-health.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -98,6 +70,20 @@
         </news:news>
         <image:image>
           <image:loc>https://majordigest.com/tech/2023/08/30/fbi-disrupts-malicious-program-infecting-computers/fbi-disrupts-malicious-program-infecting-computers.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/tech/2023/08/30/jordan-subpoenas-hate-speech-watchdog/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-30T19:18:26.000Z</news:publication_date>
+          <news:title>Jordan subpoenas hate speech watchdog</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/tech/2023/08/30/jordan-subpoenas-hate-speech-watchdog/jordan-subpoenas-hate-speech-watchdog.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -196,20 +182,6 @@
         </news:news>
         <image:image>
           <image:loc>https://majordigest.com/tech/2023/08/30/ocasio-cortez-ponders-leaving-x-platform/ocasio-cortez-ponders-leaving-x-platform.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/tech/2023/08/30/fbi-disrupts-malicious-program-infecting-hundreds-of-thousands-of-computers/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-30T15:19:40.000Z</news:publication_date>
-          <news:title>FBI disrupts malicious program infecting hundreds of thousands of computers</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/tech/2023/08/30/fbi-disrupts-malicious-program-infecting-hundreds-of-thousands-of-computers/fbi-disrupts-malicious-program-infecting-hundreds-of-thousands-of-computers.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -392,6 +364,34 @@
         </news:news>
         <image:image>
           <image:loc>https://majordigest.com/tech/2023/08/29/digitally-sign-document-device/digitally-sign-document-device.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/tech/2023/08/29/digitally-sign-document-device/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-29T17:43:01.000Z</news:publication_date>
+          <news:title>How to digitally sign a document on any device</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/tech/2023/08/29/digitally-sign-document-device/digitally-sign-document-device.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/tech/2023/08/29/meta-disrupts-covert-influence-operations-facebook-instagram/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-29T17:16:22.000Z</news:publication_date>
+          <news:title>Meta disrupts covert influence operations on Facebook, Instagram</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/tech/2023/08/29/meta-disrupts-covert-influence-operations-facebook-instagram/meta-disrupts-covert-influence-operations-facebook-instagram.webp</image:loc>
         </image:image>
       </url>
       <url>
