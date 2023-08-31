@@ -3,17 +3,73 @@
               xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
               xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
       <url>
-        <loc>https://majordigest.com/us/2023/08/31/iran-accuses-israel-of-supplying-potentially-exploding-parts-for-ballistic-missile-program/</loc>
+        <loc>https://majordigest.com/us/2023/08/31/3-visual-artists-sue-ai-companies-repurposing-work/</loc>
         <news:news>
           <news:publication>
             <news:name>Major Digest</news:name>
             <news:language>en</news:language>
           </news:publication>
-          <news:publication_date>2023-08-31T14:07:02.000Z</news:publication_date>
-          <news:title>Iran accuses Israel of supplying potentially exploding parts for ballistic missile program</news:title>
+          <news:publication_date>2023-08-31T15:11:46.000Z</news:publication_date>
+          <news:title>3 visual artists sue AI companies for repurposing their work</news:title>
         </news:news>
         <image:image>
-          <image:loc>https://majordigest.com/us/2023/08/31/iran-accuses-israel-of-supplying-potentially-exploding-parts-for-ballistic-missile-program/iran-accuses-israel-of-supplying-potentially-exploding-parts-for-ballistic-missile-program.webp</image:loc>
+          <image:loc>https://majordigest.com/us/2023/08/31/3-visual-artists-sue-ai-companies-repurposing-work/3-visual-artists-sue-ai-companies-repurposing-work.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/us/2023/08/31/justice-thomas-reports-he-took-3-trips-on-republican-donors-plane-last-year/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-31T14:57:54.000Z</news:publication_date>
+          <news:title>Justice Clarence Thomas reports he took 3 trips on Republican donor's plane last year</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/us/2023/08/31/justice-thomas-reports-he-took-3-trips-on-republican-donors-plane-last-year/justice-thomas-reports-he-took-3-trips-on-republican-donors-plane-last-year.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/us/2023/08/31/groups-seek-to-use-the-constitutions-insurrection-clause-to-block-trump-from-2024-ballots/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-31T14:51:59.000Z</news:publication_date>
+          <news:title>Liberal groups seek to use the Constitution's insurrection clause to block Trump from 2024 ballots</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/us/2023/08/31/groups-seek-to-use-the-constitutions-insurrection-clause-to-block-trump-from-2024-ballots/groups-seek-to-use-the-constitutions-insurrection-clause-to-block-trump-from-2024-ballots.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/us/2023/08/31/texas-attorney-general-ken-paxton-pursued-perks-beyond-impeachment-allegations-ex-staffers-say/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-31T14:51:00.000Z</news:publication_date>
+          <news:title>Texas Attorney General Ken Paxton pursued perks beyond impeachment allegations, ex-staffers say</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/us/2023/08/31/texas-attorney-general-ken-paxton-pursued-perks-beyond-impeachment-allegations-ex-staffers-say/texas-attorney-general-ken-paxton-pursued-perks-beyond-impeachment-allegations-ex-staffers-say.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/us/2023/08/31/student-loan-payments-start-soon-everything-you-need-to-know/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-31T14:43:29.000Z</news:publication_date>
+          <news:title>Student loan payments start soon: Everything you need to know</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/us/2023/08/31/student-loan-payments-start-soon-everything-you-need-to-know/student-loan-payments-start-soon-everything-you-need-to-know.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -23,7 +79,7 @@
             <news:name>Major Digest</news:name>
             <news:language>en</news:language>
           </news:publication>
-          <news:publication_date>2023-08-31T14:05:04.000Z</news:publication_date>
+          <news:publication_date>2023-08-31T14:30:03.000Z</news:publication_date>
           <news:title>White House asks Congress to pass short-term funding to keep government operating, official tells AP</news:title>
         </news:news>
         <image:image>
@@ -31,17 +87,17 @@
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/us/2023/08/31/at-least-38-people-have-died-in-a-fire-in-a-building-in-south-africas-biggest-city-authorities-say/</loc>
+        <loc>https://majordigest.com/us/2023/08/31/california-boy-dies-after-collapsing-during-pe-class/</loc>
         <news:news>
           <news:publication>
             <news:name>Major Digest</news:name>
             <news:language>en</news:language>
           </news:publication>
-          <news:publication_date>2023-08-31T13:52:00.000Z</news:publication_date>
-          <news:title>At least 73 are dead, many of them homeless, as fire rips through a rundown building in South Africa</news:title>
+          <news:publication_date>2023-08-31T14:22:15.000Z</news:publication_date>
+          <news:title>California boy dies after collapsing during PE class</news:title>
         </news:news>
         <image:image>
-          <image:loc>https://majordigest.com/us/2023/08/31/at-least-38-people-have-died-in-a-fire-in-a-building-in-south-africas-biggest-city-authorities-say/at-least-38-people-have-died-in-a-fire-in-a-building-in-south-africas-biggest-city-authorities-say.webp</image:loc>
+          <image:loc>https://majordigest.com/us/2023/08/31/california-boy-dies-after-collapsing-during-pe-class/california-boy-dies-after-collapsing-during-pe-class.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -59,69 +115,13 @@
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/us/2023/08/31/minnesota-state-fair-brings-faith-leaders-politicians-together-12-day-celebration/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-31T13:25:08.000Z</news:publication_date>
-          <news:title>Minnesota state fair brings faith leaders, politicians together for 12-day celebration</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/us/2023/08/31/minnesota-state-fair-brings-faith-leaders-politicians-together-12-day-celebration/minnesota-state-fair-brings-faith-leaders-politicians-together-12-day-celebration.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/us/2023/08/31/woman-fatally-shot-4-year-old-point-blank-range-says-firearms-safety-lesson-police/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-31T13:22:12.000Z</news:publication_date>
-          <news:title>Woman who fatally shot 4-year-old at point-blank range says it was a 'firearms safety' lesson: police</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/us/2023/08/31/woman-fatally-shot-4-year-old-point-blank-range-says-firearms-safety-lesson-police/woman-fatally-shot-4-year-old-point-blank-range-says-firearms-safety-lesson-police.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/us/2023/08/31/shooting-illinois-neighborhood-injures-5-2-critically/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-31T13:15:47.000Z</news:publication_date>
-          <news:title>Shooting in Illinois neighborhood injures 5, 2 critically</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/us/2023/08/31/shooting-illinois-neighborhood-injures-5-2-critically/shooting-illinois-neighborhood-injures-5-2-critically.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/us/2023/08/31/conductor-john-eliot-gardner-pulls-out-of-future-engagements-after-allegedly-hitting-a-singer/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-31T13:13:11.000Z</news:publication_date>
-          <news:title>Conductor John Eliot Gardiner pulls out of future engagements after allegedly hitting a singer</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/us/2023/08/31/conductor-john-eliot-gardner-pulls-out-of-future-engagements-after-allegedly-hitting-a-singer/conductor-john-eliot-gardner-pulls-out-of-future-engagements-after-allegedly-hitting-a-singer.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
         <loc>https://majordigest.com/us/2023/08/31/photos-hurricane-idalia-damage/</loc>
         <news:news>
           <news:publication>
             <news:name>Major Digest</news:name>
             <news:language>en</news:language>
           </news:publication>
-          <news:publication_date>2023-08-31T13:08:08.000Z</news:publication_date>
+          <news:publication_date>2023-08-31T13:07:51.000Z</news:publication_date>
           <news:title>Photos: Hurricane Idalia damage</news:title>
         </news:news>
         <image:image>
@@ -135,25 +135,11 @@
             <news:name>Major Digest</news:name>
             <news:language>en</news:language>
           </news:publication>
-          <news:publication_date>2023-08-31T12:46:29.000Z</news:publication_date>
+          <news:publication_date>2023-08-31T12:46:12.000Z</news:publication_date>
           <news:title>Tropical Storm Jose forms in Atlantic, 2 other disturbances being monitored</news:title>
         </news:news>
         <image:image>
           <image:loc>https://majordigest.com/us/2023/08/31/tropical-storm-jose-forms-in-atlantic-2-other-disturbances-being-monitored/tropical-storm-jose-forms-in-atlantic-2-other-disturbances-being-monitored.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/us/2023/08/31/tropical-storm-idalia-descends-on-north-carolina-after-pounding-florida-georgia-and-south-carolina/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-31T12:41:15.000Z</news:publication_date>
-          <news:title>Tropical Storm Idalia descends on North Carolina after pounding Florida, Georgia and South Carolina</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/us/2023/08/31/tropical-storm-idalia-descends-on-north-carolina-after-pounding-florida-georgia-and-south-carolina/tropical-storm-idalia-descends-on-north-carolina-after-pounding-florida-georgia-and-south-carolina.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -171,20 +157,6 @@
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/us/2023/08/31/u-s-and-mexican-leaders-say-providing-water-is-border-regions-most-important-challenge/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-31T10:31:24.000Z</news:publication_date>
-          <news:title>U.S. and Mexican leaders say providing water is border region's most important challenge</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/us/2023/08/31/u-s-and-mexican-leaders-say-providing-water-is-border-regions-most-important-challenge/u-s-and-mexican-leaders-say-providing-water-is-border-regions-most-important-challenge.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
         <loc>https://majordigest.com/us/2023/08/31/traveling-labor-day-weekend-expect-lots-of-company/</loc>
         <news:news>
           <news:publication>
@@ -199,27 +171,13 @@
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/us/2023/08/31/looming-auto-strike-puts-bidens-labor-loyalty-to-the-test/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-31T10:00:38.000Z</news:publication_date>
-          <news:title>Looming auto strike puts Biden's labor loyalty to the test</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/us/2023/08/31/looming-auto-strike-puts-bidens-labor-loyalty-to-the-test/looming-auto-strike-puts-bidens-labor-loyalty-to-the-test.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
         <loc>https://majordigest.com/us/2023/08/31/idalia-hits-north-carolina-after-pounding-florida-georgia-and-south-carolina/</loc>
         <news:news>
           <news:publication>
             <news:name>Major Digest</news:name>
             <news:language>en</news:language>
           </news:publication>
-          <news:publication_date>2023-08-31T09:49:52.000Z</news:publication_date>
+          <news:publication_date>2023-08-31T09:48:14.000Z</news:publication_date>
           <news:title>Idalia hits North Carolina after pounding Florida, Georgia and South Carolina</news:title>
         </news:news>
         <image:image>
@@ -303,11 +261,39 @@
             <news:name>Major Digest</news:name>
             <news:language>en</news:language>
           </news:publication>
-          <news:publication_date>2023-08-31T03:02:17.000Z</news:publication_date>
+          <news:publication_date>2023-08-31T03:02:32.000Z</news:publication_date>
           <news:title>Alice Cooper loses cosmetics deal after remarks about trans people</news:title>
         </news:news>
         <image:image>
           <image:loc>https://majordigest.com/us/2023/08/31/alice-cooper-loses-cosmetics-deal-after-remarks-about-trans-people/alice-cooper-loses-cosmetics-deal-after-remarks-about-trans-people.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/us/2023/08/31/former-disney-star-says-texas-arrest-was-a-misunderstanding-report/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-31T01:30:30.000Z</news:publication_date>
+          <news:title>Former Disney star says Texas arrest was 'a misunderstanding': report</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/us/2023/08/31/former-disney-star-says-texas-arrest-was-a-misunderstanding-report/former-disney-star-says-texas-arrest-was-a-misunderstanding-report.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/us/2023/08/31/alex-murdaugh-loses-prison-phone-privileges-after-lawyer-records-phone-call-for-documentary/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-31T01:26:59.000Z</news:publication_date>
+          <news:title>Alex Murdaugh loses prison phone privileges after lawyer records phone call for documentary</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/us/2023/08/31/alex-murdaugh-loses-prison-phone-privileges-after-lawyer-records-phone-call-for-documentary/alex-murdaugh-loses-prison-phone-privileges-after-lawyer-records-phone-call-for-documentary.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -322,6 +308,20 @@
         </news:news>
         <image:image>
           <image:loc>https://majordigest.com/us/2023/08/31/west-point-time-capsule-that-appeared-to-contain-nothing-more-than-silt-yields-centuries-old-coins/west-point-time-capsule-that-appeared-to-contain-nothing-more-than-silt-yields-centuries-old-coins.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/us/2023/08/31/live-updates-hurricane-idalia-set-to-hit-florida-as-category-4-storm/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-31T00:33:28.000Z</news:publication_date>
+          <news:title>Live updates | Idalia causing widespread flooding in coastal South Carolina</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/us/2023/08/31/live-updates-hurricane-idalia-set-to-hit-florida-as-category-4-storm/live-updates-hurricane-idalia-set-to-hit-florida-as-category-4-storm.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -353,17 +353,17 @@
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/us/2023/08/30/video-car-flipped-by-weak-tornado-in-south-carolina-police-say/</loc>
+        <loc>https://majordigest.com/us/2023/08/30/kansas-reporter-files-federal-lawsuit-against-police-chief-who-raided-her-newspapers-office/</loc>
         <news:news>
           <news:publication>
             <news:name>Major Digest</news:name>
             <news:language>en</news:language>
           </news:publication>
-          <news:publication_date>2023-08-30T22:49:09.000Z</news:publication_date>
-          <news:title>Video: Car flipped by weak tornado in South Carolina, police say</news:title>
+          <news:publication_date>2023-08-30T22:59:36.000Z</news:publication_date>
+          <news:title>Kansas reporter files federal lawsuit against police chief who raided her newspaper's office</news:title>
         </news:news>
         <image:image>
-          <image:loc>https://majordigest.com/us/2023/08/30/video-car-flipped-by-weak-tornado-in-south-carolina-police-say/video-car-flipped-by-weak-tornado-in-south-carolina-police-say.webp</image:loc>
+          <image:loc>https://majordigest.com/us/2023/08/30/kansas-reporter-files-federal-lawsuit-against-police-chief-who-raided-her-newspapers-office/kansas-reporter-files-federal-lawsuit-against-police-chief-who-raided-her-newspapers-office.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -373,7 +373,7 @@
             <news:name>Major Digest</news:name>
             <news:language>en</news:language>
           </news:publication>
-          <news:publication_date>2023-08-30T22:37:55.000Z</news:publication_date>
+          <news:publication_date>2023-08-30T22:36:34.000Z</news:publication_date>
           <news:title>Hurricane Idalia causes 100-year-old oak tree to split, fall on Gov. DeSantis' mansion</news:title>
         </news:news>
         <image:image>
@@ -409,17 +409,17 @@
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/us/2023/08/30/did-you-know-each-full-moon-has-its-own-name-heres-why/</loc>
+        <loc>https://majordigest.com/us/2023/08/30/biden-rule-would-give-overtime-protections-to-millions-more-workers/</loc>
         <news:news>
           <news:publication>
             <news:name>Major Digest</news:name>
             <news:language>en</news:language>
           </news:publication>
-          <news:publication_date>2023-08-30T21:46:31.000Z</news:publication_date>
-          <news:title>Did you know each full moon has its own name? Here's why</news:title>
+          <news:publication_date>2023-08-30T21:25:36.000Z</news:publication_date>
+          <news:title>Biden rule would give overtime protections to millions more workers</news:title>
         </news:news>
         <image:image>
-          <image:loc>https://majordigest.com/us/2023/08/30/did-you-know-each-full-moon-has-its-own-name-heres-why/did-you-know-each-full-moon-has-its-own-name-heres-why.webp</image:loc>
+          <image:loc>https://majordigest.com/us/2023/08/30/biden-rule-would-give-overtime-protections-to-millions-more-workers/biden-rule-would-give-overtime-protections-to-millions-more-workers.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -437,31 +437,17 @@
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/us/2023/08/30/fatal-shooting-of-college-student-who-tried-entering-wrong-home-justifiable-south-carolina-authorities/</loc>
+        <loc>https://majordigest.com/us/2023/08/30/corn-sweat-and-why-its-heaping-on-the-humidity/</loc>
         <news:news>
           <news:publication>
             <news:name>Major Digest</news:name>
             <news:language>en</news:language>
           </news:publication>
-          <news:publication_date>2023-08-30T20:32:27.000Z</news:publication_date>
-          <news:title>Fatal shooting of college student who tried entering wrong home 'justifiable': South Carolina authorities</news:title>
+          <news:publication_date>2023-08-30T15:47:57.000Z</news:publication_date>
+          <news:title>'Corn sweat' and why it's heaping on the humidity</news:title>
         </news:news>
         <image:image>
-          <image:loc>https://majordigest.com/us/2023/08/30/fatal-shooting-of-college-student-who-tried-entering-wrong-home-justifiable-south-carolina-authorities/fatal-shooting-of-college-student-who-tried-entering-wrong-home-justifiable-south-carolina-authorities.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/us/2023/08/30/higher-education-levels-linked-with-civic-engagement-better-health-gallup/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-30T17:27:05.000Z</news:publication_date>
-          <news:title>Higher education levels linked with civic engagement, better health: Gallup</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/us/2023/08/30/higher-education-levels-linked-with-civic-engagement-better-health-gallup/higher-education-levels-linked-with-civic-engagement-better-health-gallup.webp</image:loc>
+          <image:loc>https://majordigest.com/us/2023/08/30/corn-sweat-and-why-its-heaping-on-the-humidity/corn-sweat-and-why-its-heaping-on-the-humidity.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -476,6 +462,34 @@
         </news:news>
         <image:image>
           <image:loc>https://majordigest.com/us/2023/08/30/climate-anxiety-on-the-rise-as-heat-disasters-provoke-fear/climate-anxiety-on-the-rise-as-heat-disasters-provoke-fear.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/us/2023/08/30/11-taken-to-hospital-as-delta-jetliner-hits-turbulence-near-atlanta-airport/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-30T09:37:21.000Z</news:publication_date>
+          <news:title>11 taken to hospital as Delta jetliner hits turbulence near Atlanta airport</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/us/2023/08/30/11-taken-to-hospital-as-delta-jetliner-hits-turbulence-near-atlanta-airport/11-taken-to-hospital-as-delta-jetliner-hits-turbulence-near-atlanta-airport.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/us/2023/08/30/massive-alligator-patiently-waits-outside-dollar-general/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-30T03:28:55.000Z</news:publication_date>
+          <news:title>Massive alligator 'patiently&#160;waits' outside Dollar General</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/us/2023/08/30/massive-alligator-patiently-waits-outside-dollar-general/massive-alligator-patiently-waits-outside-dollar-general.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -504,19 +518,5 @@
         </news:news>
         <image:image>
           <image:loc>https://majordigest.com/us/2023/08/29/why-some-homeowners-are-dropping-their-insurance/why-some-homeowners-are-dropping-their-insurance.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/us/2023/08/29/us-marines-killed-in-australian-aircraft-crash-were-from-illinois-virginia-and-colorado/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-29T01:43:20.000Z</news:publication_date>
-          <news:title>Bodies of 3 US Marines killed in Australian aircraft crash retrieved from crash site</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/us/2023/08/29/us-marines-killed-in-australian-aircraft-crash-were-from-illinois-virginia-and-colorado/us-marines-killed-in-australian-aircraft-crash-were-from-illinois-virginia-and-colorado.webp</image:loc>
         </image:image>
       </url></urlset>
