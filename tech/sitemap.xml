@@ -3,6 +3,20 @@
               xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
               xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
       <url>
+        <loc>https://majordigest.com/tech/2023/08/31/chinas-baidu-makes-ai-chatbot-ernie-bot-publicly-available/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-31T08:06:35.000Z</news:publication_date>
+          <news:title>China's Baidu makes AI chatbot Ernie Bot publicly available</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/tech/2023/08/31/chinas-baidu-makes-ai-chatbot-ernie-bot-publicly-available/chinas-baidu-makes-ai-chatbot-ernie-bot-publicly-available.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
         <loc>https://majordigest.com/tech/2023/08/31/trains-suspended-people-warned-away-from-the-coastline-as-typhoon-saola-churns-toward-south-china/</loc>
         <news:news>
           <news:publication>
@@ -14,20 +28,6 @@
         </news:news>
         <image:image>
           <image:loc>https://majordigest.com/tech/2023/08/31/trains-suspended-people-warned-away-from-the-coastline-as-typhoon-saola-churns-toward-south-china/trains-suspended-people-warned-away-from-the-coastline-as-typhoon-saola-churns-toward-south-china.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/tech/2023/08/31/chinas-baidu-makes-ai-chatbot-ernie-bot-publicly-available/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-31T05:19:34.000Z</news:publication_date>
-          <news:title>China's Baidu makes AI chatbot Ernie Bot publicly available</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/tech/2023/08/31/chinas-baidu-makes-ai-chatbot-ernie-bot-publicly-available/chinas-baidu-makes-ai-chatbot-ernie-bot-publicly-available.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -70,20 +70,6 @@
         </news:news>
         <image:image>
           <image:loc>https://majordigest.com/tech/2023/08/30/fbi-disrupts-malicious-program-infecting-computers/fbi-disrupts-malicious-program-infecting-computers.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/tech/2023/08/30/jordan-subpoenas-hate-speech-watchdog/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-30T19:18:26.000Z</news:publication_date>
-          <news:title>Jordan subpoenas hate speech watchdog</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/tech/2023/08/30/jordan-subpoenas-hate-speech-watchdog/jordan-subpoenas-hate-speech-watchdog.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -241,6 +227,20 @@
         </image:image>
       </url>
       <url>
+        <loc>https://majordigest.com/tech/2023/08/30/indonesia-arrests-88-chinese-nationals-in-online-romance-scams/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-30T13:21:49.000Z</news:publication_date>
+          <news:title>Indonesia arrests 88 Chinese nationals over online romance scams</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/tech/2023/08/30/indonesia-arrests-88-chinese-nationals-in-online-romance-scams/indonesia-arrests-88-chinese-nationals-in-online-romance-scams.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
         <loc>https://majordigest.com/tech/2023/08/30/after-tesla-relaxes-monitoring-of-drivers-using-its-autopilot-technology-us-regulators-seek-answers/</loc>
         <news:news>
           <news:publication>
@@ -280,6 +280,20 @@
         </news:news>
         <image:image>
           <image:loc>https://majordigest.com/tech/2023/08/30/amazon-ceo-says-its-probably-not-going-work-out-for-employees-who-defy-return-to-office-policy/amazon-ceo-says-its-probably-not-going-work-out-for-employees-who-defy-return-to-office-policy.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/tech/2023/08/30/2023-nissan-ariya-electric-crossover-review/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-30T08:00:00.000Z</news:publication_date>
+          <news:title>Nissan's all-electric SUV is stylish and practical</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/tech/2023/08/30/2023-nissan-ariya-electric-crossover-review/2023-nissan-ariya-electric-crossover-review.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -367,34 +381,6 @@
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/tech/2023/08/29/digitally-sign-document-device/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-29T17:43:01.000Z</news:publication_date>
-          <news:title>How to digitally sign a document on any device</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/tech/2023/08/29/digitally-sign-document-device/digitally-sign-document-device.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/tech/2023/08/29/meta-disrupts-covert-influence-operations-facebook-instagram/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-29T17:16:22.000Z</news:publication_date>
-          <news:title>Meta disrupts covert influence operations on Facebook, Instagram</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/tech/2023/08/29/meta-disrupts-covert-influence-operations-facebook-instagram/meta-disrupts-covert-influence-operations-facebook-instagram.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
         <loc>https://majordigest.com/tech/2023/08/29/meta-disrupts-covert-influence-operations-facebook-instagram/</loc>
         <news:news>
           <news:publication>
@@ -476,6 +462,20 @@
         </news:news>
         <image:image>
           <image:loc>https://majordigest.com/tech/2023/08/25/los-angeles-solar-ev-chargers-ev-arc-beam-global/los-angeles-solar-ev-chargers-ev-arc-beam-global.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/tech/2023/08/25/workers-win-raises-at-general-motors-joint-venture-battery-plant-in-ohio-as-contract-talks-continue/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-25T00:12:09.000Z</news:publication_date>
+          <news:title>Workers win raises at General Motors joint venture battery plant in Ohio as contract talks continue</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/tech/2023/08/25/workers-win-raises-at-general-motors-joint-venture-battery-plant-in-ohio-as-contract-talks-continue/workers-win-raises-at-general-motors-joint-venture-battery-plant-in-ohio-as-contract-talks-continue.webp</image:loc>
         </image:image>
       </url>
       <url>
