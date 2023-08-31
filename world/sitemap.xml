@@ -3,17 +3,17 @@
               xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
               xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
       <url>
-        <loc>https://majordigest.com/world/2023/08/31/us-military-calls-for-end-of-fighting-in-east-syria-and-warns-it-could-lead-to-is-resurgence/</loc>
+        <loc>https://majordigest.com/world/2023/08/31/pope-makes-first-visit-to-mongolia-as-vatican-relations-with-russia-and-china-are-again-strained/</loc>
         <news:news>
           <news:publication>
             <news:name>Major Digest</news:name>
             <news:language>en</news:language>
           </news:publication>
-          <news:publication_date>2023-08-31T19:08:39.000Z</news:publication_date>
-          <news:title>US military calls for end of fighting in east Syria and warns it could lead to IS resurgence</news:title>
+          <news:publication_date>2023-08-31T18:23:49.000Z</news:publication_date>
+          <news:title>Pope makes first visit to Mongolia as Vatican relations with Russia and China are again strained</news:title>
         </news:news>
         <image:image>
-          <image:loc>https://majordigest.com/world/2023/08/31/us-military-calls-for-end-of-fighting-in-east-syria-and-warns-it-could-lead-to-is-resurgence/us-military-calls-for-end-of-fighting-in-east-syria-and-warns-it-could-lead-to-is-resurgence.webp</image:loc>
+          <image:loc>https://majordigest.com/world/2023/08/31/pope-makes-first-visit-to-mongolia-as-vatican-relations-with-russia-and-china-are-again-strained/pope-makes-first-visit-to-mongolia-as-vatican-relations-with-russia-and-china-are-again-strained.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -28,6 +28,20 @@
         </news:news>
         <image:image>
           <image:loc>https://majordigest.com/world/2023/08/31/iran-accuses-israel-sabotaging-ballistic-missile-program-sending-faulty-parts/iran-accuses-israel-sabotaging-ballistic-missile-program-sending-faulty-parts.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/world/2023/08/31/airstrike-southern-syria-hits-alleged-drug-factory/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-31T18:01:11.000Z</news:publication_date>
+          <news:title>Airstrike on southern Syria hits alleged drug factory</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/world/2023/08/31/airstrike-southern-syria-hits-alleged-drug-factory/airstrike-southern-syria-hits-alleged-drug-factory.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -98,6 +112,34 @@
         </news:news>
         <image:image>
           <image:loc>https://majordigest.com/world/2023/08/31/saudi-man-sentenced-to-death-for-online-posts/saudi-man-sentenced-to-death-for-online-posts.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/world/2023/08/31/can-you-trust-temu-how-are-their-prices-so-low-weve-got-some-answers/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-31T16:56:31.000Z</news:publication_date>
+          <news:title>Can you trust Temu? How are their prices so low? We&#8217;ve got some answers</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/world/2023/08/31/can-you-trust-temu-how-are-their-prices-so-low-weve-got-some-answers/can-you-trust-temu-how-are-their-prices-so-low-weve-got-some-answers.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/world/2023/08/31/ousting-of-gabons-unpopular-leader-was-a-smokescreen-for-soldiers-to-seize-power-analysts-say/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-31T16:44:10.000Z</news:publication_date>
+          <news:title>Gabon election results were a 'smokescreen' for soldiers to oust unpopular president, analysts say</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/world/2023/08/31/ousting-of-gabons-unpopular-leader-was-a-smokescreen-for-soldiers-to-seize-power-analysts-say/ousting-of-gabons-unpopular-leader-was-a-smokescreen-for-soldiers-to-seize-power-analysts-say.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -185,45 +227,17 @@
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/world/2023/08/31/ukraine-breaks-through-major-russian-defense-lines-as-counteroffensive-picks-up-pace/</loc>
+        <loc>https://majordigest.com/world/2023/08/31/obama-world-leaders-call-on-bangladesh-to-halt-cases-against-nobel-peace-prize-winner/</loc>
         <news:news>
           <news:publication>
             <news:name>Major Digest</news:name>
             <news:language>en</news:language>
           </news:publication>
-          <news:publication_date>2023-08-31T16:07:07.000Z</news:publication_date>
-          <news:title>Ukraine breaks through major Russian defense lines as counteroffensive picks up pace</news:title>
+          <news:publication_date>2023-08-31T15:22:01.000Z</news:publication_date>
+          <news:title>Obama, world leaders call on Bangladesh to halt cases against Nobel Peace Prize winner</news:title>
         </news:news>
         <image:image>
-          <image:loc>https://majordigest.com/world/2023/08/31/ukraine-breaks-through-major-russian-defense-lines-as-counteroffensive-picks-up-pace/ukraine-breaks-through-major-russian-defense-lines-as-counteroffensive-picks-up-pace.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/world/2023/08/31/sudans-army-chief-warns-that-the-country-will-be-fragmented-if-the-deadly-conflict-is-not-resolved/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-31T15:44:11.000Z</news:publication_date>
-          <news:title>Sudan's army chief warns that the country will be fragmented if the deadly conflict is not resolved</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/world/2023/08/31/sudans-army-chief-warns-that-the-country-will-be-fragmented-if-the-deadly-conflict-is-not-resolved/sudans-army-chief-warns-that-the-country-will-be-fragmented-if-the-deadly-conflict-is-not-resolved.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/world/2023/08/31/sudans-army-chief-warns-that-the-country-will-be-fragmented-if-the-deadly-conflict-is-not-resolved/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-31T15:44:11.000Z</news:publication_date>
-          <news:title>Sudan's army chief warns that the country will be fragmented if the deadly conflict is not resolved</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/world/2023/08/31/sudans-army-chief-warns-that-the-country-will-be-fragmented-if-the-deadly-conflict-is-not-resolved/sudans-army-chief-warns-that-the-country-will-be-fragmented-if-the-deadly-conflict-is-not-resolved.webp</image:loc>
+          <image:loc>https://majordigest.com/world/2023/08/31/obama-world-leaders-call-on-bangladesh-to-halt-cases-against-nobel-peace-prize-winner/obama-world-leaders-call-on-bangladesh-to-halt-cases-against-nobel-peace-prize-winner.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -255,17 +269,17 @@
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/world/2023/08/31/iran-accuses-israel-of-supplying-potentially-exploding-parts-for-ballistic-missile-program/</loc>
+        <loc>https://majordigest.com/world/2023/08/31/sudans-army-chief-warns-that-the-country-will-be-fragmented-if-the-deadly-conflict-is-not-resolved/</loc>
         <news:news>
           <news:publication>
             <news:name>Major Digest</news:name>
             <news:language>en</news:language>
           </news:publication>
-          <news:publication_date>2023-08-31T11:25:13.000Z</news:publication_date>
-          <news:title>Iran accuses Israel of supplying potentially exploding parts for ballistic missile program</news:title>
+          <news:publication_date>2023-08-31T11:50:58.000Z</news:publication_date>
+          <news:title>Sudan's army chief warns that the country will be fragmented if the deadly conflict is not resolved</news:title>
         </news:news>
         <image:image>
-          <image:loc>https://majordigest.com/world/2023/08/31/iran-accuses-israel-of-supplying-potentially-exploding-parts-for-ballistic-missile-program/iran-accuses-israel-of-supplying-potentially-exploding-parts-for-ballistic-missile-program.webp</image:loc>
+          <image:loc>https://majordigest.com/world/2023/08/31/sudans-army-chief-warns-that-the-country-will-be-fragmented-if-the-deadly-conflict-is-not-resolved/sudans-army-chief-warns-that-the-country-will-be-fragmented-if-the-deadly-conflict-is-not-resolved.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -280,20 +294,6 @@
         </news:news>
         <image:image>
           <image:loc>https://majordigest.com/world/2023/08/31/iran-accuses-israel-of-supplying-potentially-exploding-parts-for-ballistic-missile-program/iran-accuses-israel-of-supplying-potentially-exploding-parts-for-ballistic-missile-program.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/world/2023/08/31/greece-further-reinforces-firefighting-forces-in-massive-wildfire-in-northeast-burning-for-13th-day/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-31T08:59:40.000Z</news:publication_date>
-          <news:title>Greece sends 100 extra firefighters to a massive northeastern wildfire as it burns for a 13th day</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/world/2023/08/31/greece-further-reinforces-firefighting-forces-in-massive-wildfire-in-northeast-burning-for-13th-day/greece-further-reinforces-firefighting-forces-in-massive-wildfire-in-northeast-burning-for-13th-day.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -367,6 +367,20 @@
         </image:image>
       </url>
       <url>
+        <loc>https://majordigest.com/world/2023/08/30/japanese-ministers-eat-fukushima-fish-to-show-its-safe-after-nuclear-plant-wastewater-is-discharged/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-30T18:26:11.000Z</news:publication_date>
+          <news:title>Japanese ministers eat Fukushima fish to show it's safe after nuclear plant wastewater is discharged</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/world/2023/08/30/japanese-ministers-eat-fukushima-fish-to-show-its-safe-after-nuclear-plant-wastewater-is-discharged/japanese-ministers-eat-fukushima-fish-to-show-its-safe-after-nuclear-plant-wastewater-is-discharged.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
         <loc>https://majordigest.com/world/2023/08/30/white-house-says-putin-and-kim-jong-un-traded-letters-as-russia-looks-for-munitions-from-north-korea/</loc>
         <news:news>
           <news:publication>
@@ -406,20 +420,6 @@
         </news:news>
         <image:image>
           <image:loc>https://majordigest.com/world/2023/08/29/neurosurgeon-investigating-patients-mystery-symptoms-plucks-worm-from-womans-brain/neurosurgeon-investigating-patients-mystery-symptoms-plucks-worm-from-womans-brain.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/world/2023/08/29/us-marines-killed-in-australian-aircraft-crash-were-from-illinois-virginia-and-colorado/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-29T01:55:12.000Z</news:publication_date>
-          <news:title>US Marines killed in Australian aircraft crash were from Illinois, Virginia and Colorado</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/world/2023/08/29/us-marines-killed-in-australian-aircraft-crash-were-from-illinois-virginia-and-colorado/us-marines-killed-in-australian-aircraft-crash-were-from-illinois-virginia-and-colorado.webp</image:loc>
         </image:image>
       </url>
       <url>
