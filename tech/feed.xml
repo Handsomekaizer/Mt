@@ -7,7 +7,7 @@
         <title>Major Digest - Reliable and Comprehensive News Sources: tech</title>
         <description>Get the latest news online at Major Digest, the top online news resource for the most reliable news sources. Stay informed about the world around you!</description>
         <link>https://majordigest.com/?utm_medium=RSS</link>
-        <lastBuildDate>Thu, 31 Aug 2023 22:18:00 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 31 Aug 2023 23:18:34 GMT</lastBuildDate>
         <generator>https://majordigest.com/?v=1.1.4</generator>
         <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/" />
         <atom:link rel="self" href="https://majordigest.com/tech/feed.xml" type="application/rss+xml" />
@@ -27,7 +27,7 @@
         <category>tech</category>
         <media:content medium="image" url="https://majordigest.com/tech/2023/08/31/delta-air-lines-says-it-has-protected-its-planes-against-interference-from-5g-wireless-signals/delta-air-lines-says-it-has-protected-its-planes-against-interference-from-5g-wireless-signals.webp"/>
         <media:thumbnail url="https://majordigest.com/tech/2023/08/31/delta-air-lines-says-it-has-protected-its-planes-against-interference-from-5g-wireless-signals/delta-air-lines-says-it-has-protected-its-planes-against-interference-from-5g-wireless-signals.webp"/>
-        <dc:creator>AP, KRON4</dc:creator>
+        <dc:creator>AP, ABC 4</dc:creator>
       </item>
       <item>
         <title>Bipartisan duo urges Visa, Mastercard to call off planned swipe fee increases</title>
@@ -94,17 +94,6 @@
         <media:content medium="image" url="https://majordigest.com/tech/2023/08/31/elon-musk-says-x-formerly-twitter-will-have-voice-and-video-calls-updates-privacy-policy/elon-musk-says-x-formerly-twitter-will-have-voice-and-video-calls-updates-privacy-policy.webp"/>
         <media:thumbnail url="https://majordigest.com/tech/2023/08/31/elon-musk-says-x-formerly-twitter-will-have-voice-and-video-calls-updates-privacy-policy/elon-musk-says-x-formerly-twitter-will-have-voice-and-video-calls-updates-privacy-policy.webp"/>
         <dc:creator>AP, ABC 4</dc:creator>
-      </item>
-      <item>
-        <title>Is your doorbell camera vulnerable to jamming or interference?</title>
-        <description><![CDATA[Some people use jamming devices to interfere with the performance of your doorbell camera. Kurt &quot;CyberGuy&quot; Knutsson explains how it works and how to detect them.]]></description>
-        <guid>https://majordigest.com/tech/2023/08/31/doorbell-camera-vulnerable-jamming-interference/</guid>
-        <link>https://majordigest.com/tech/2023/08/31/doorbell-camera-vulnerable-jamming-interference/</link>
-        <pubDate>Thu, 31 Aug 2023 13:20:31 EDT</pubDate>
-        <category>tech</category>
-        <media:content medium="image" url="https://majordigest.com/tech/2023/08/31/doorbell-camera-vulnerable-jamming-interference/doorbell-camera-vulnerable-jamming-interference.webp"/>
-        <media:thumbnail url="https://majordigest.com/tech/2023/08/31/doorbell-camera-vulnerable-jamming-interference/doorbell-camera-vulnerable-jamming-interference.webp"/>
-        <dc:creator>Fox News</dc:creator>
       </item>
       <item>
         <title>Is your doorbell camera vulnerable to jamming or interference?</title>
@@ -203,7 +192,7 @@
         <category>tech</category>
         <media:content medium="image" url="https://majordigest.com/tech/2023/08/31/nissan-is-reusing-the-batteries-from-old-leaf-electric-vehicles-to-make-portable-power-sources/nissan-is-reusing-the-batteries-from-old-leaf-electric-vehicles-to-make-portable-power-sources.webp"/>
         <media:thumbnail url="https://majordigest.com/tech/2023/08/31/nissan-is-reusing-the-batteries-from-old-leaf-electric-vehicles-to-make-portable-power-sources/nissan-is-reusing-the-batteries-from-old-leaf-electric-vehicles-to-make-portable-power-sources.webp"/>
-        <dc:creator>YURI KAGEYAMA, Associated Press, ABC 4</dc:creator>
+        <dc:creator>YURI KAGEYAMA, Associated Press, KRON4</dc:creator>
       </item>
       <item>
         <title>Looming auto strike puts Biden's labor loyalty to the test</title>
@@ -358,6 +347,17 @@
         <media:content medium="image" url="https://majordigest.com/tech/2023/08/29/meta-disrupts-covert-influence-operations-facebook-instagram/meta-disrupts-covert-influence-operations-facebook-instagram.webp"/>
         <media:thumbnail url="https://majordigest.com/tech/2023/08/29/meta-disrupts-covert-influence-operations-facebook-instagram/meta-disrupts-covert-influence-operations-facebook-instagram.webp"/>
         <dc:creator>Stephanie Whiteside, NewsNation</dc:creator>
+      </item>
+      <item>
+        <title>Amazon is raising free-shipping minimums for some customers who don't have Prime memberships</title>
+        <description><![CDATA[NEW YORK (AP) — Amazon has been quietly raising the amount some customers must spend on its site to get free shipping. To qualify for no-cost deliveries, some Amazon customers who don’t have Prime memberships now need to spend $35, up from $25 previously.]]></description>
+        <guid>https://majordigest.com/tech/2023/08/29/amazon-is-raising-free-shipping-minimums-for-some-customers-who-dont-have-prime-memberships/</guid>
+        <link>https://majordigest.com/tech/2023/08/29/amazon-is-raising-free-shipping-minimums-for-some-customers-who-dont-have-prime-memberships/</link>
+        <pubDate>Tue, 29 Aug 2023 00:53:22 +0000</pubDate>
+        <category>tech</category>
+        <media:content medium="image" url="https://majordigest.com/tech/2023/08/29/amazon-is-raising-free-shipping-minimums-for-some-customers-who-dont-have-prime-memberships/amazon-is-raising-free-shipping-minimums-for-some-customers-who-dont-have-prime-memberships.webp"/>
+        <media:thumbnail url="https://majordigest.com/tech/2023/08/29/amazon-is-raising-free-shipping-minimums-for-some-customers-who-dont-have-prime-memberships/amazon-is-raising-free-shipping-minimums-for-some-customers-who-dont-have-prime-memberships.webp"/>
+        <dc:creator>HALELUYA HADERO, Associated Press, KGET 17, NBC</dc:creator>
       </item>
       <item>
         <title>Amazon is raising free-shipping minimums for some customers who don't have Prime memberships</title>

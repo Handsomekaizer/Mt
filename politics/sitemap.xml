@@ -3,17 +3,73 @@
               xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
               xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
       <url>
-        <loc>https://majordigest.com/politics/2023/08/31/federal-judge-bars-texas-from-enforcing-book-rating-law/</loc>
+        <loc>https://majordigest.com/politics/2023/08/31/murphy-new-jersey-influx-migrants/</loc>
         <news:news>
           <news:publication>
             <news:name>Major Digest</news:name>
             <news:language>en</news:language>
           </news:publication>
-          <news:publication_date>2023-08-31T22:13:47.000Z</news:publication_date>
-          <news:title>Federal judge bars Texas from enforcing book rating law</news:title>
+          <news:publication_date>2023-08-31T23:00:15.000Z</news:publication_date>
+          <news:title>New Jersey governor says state can't handle NYC migrants</news:title>
         </news:news>
         <image:image>
-          <image:loc>https://majordigest.com/politics/2023/08/31/federal-judge-bars-texas-from-enforcing-book-rating-law/federal-judge-bars-texas-from-enforcing-book-rating-law.webp</image:loc>
+          <image:loc>https://majordigest.com/politics/2023/08/31/murphy-new-jersey-influx-migrants/murphy-new-jersey-influx-migrants.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/politics/2023/08/31/mississippi-candidate-for-attorney-general-says-the-state-isnt-doing-enough-to-protect-workers/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-31T22:53:33.000Z</news:publication_date>
+          <news:title>Mississippi candidate for attorney general says the state isn't doing enough to protect workers</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/politics/2023/08/31/mississippi-candidate-for-attorney-general-says-the-state-isnt-doing-enough-to-protect-workers/mississippi-candidate-for-attorney-general-says-the-state-isnt-doing-enough-to-protect-workers.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/politics/2023/08/31/us-regulators-might-change-how-they-classify-marijuana-heres-what-that-would-mean/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-31T22:48:17.000Z</news:publication_date>
+          <news:title>US regulators might change how they classify marijuana. Here's what that would mean</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/politics/2023/08/31/us-regulators-might-change-how-they-classify-marijuana-heres-what-that-would-mean/us-regulators-might-change-how-they-classify-marijuana-heres-what-that-would-mean.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/politics/2023/08/31/california-democrat-ro-khanna-throws-shade-newsom-2024-hype/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-31T22:38:35.000Z</news:publication_date>
+          <news:title>California Democrat Ro Khanna throws shade at Newsom 2024 hype</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/politics/2023/08/31/california-democrat-ro-khanna-throws-shade-newsom-2024-hype/california-democrat-ro-khanna-throws-shade-newsom-2024-hype.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/politics/2023/08/31/amlo-to-limit-flights-in-and-out-of-mexico-citys-main-airport/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-31T22:20:09.000Z</news:publication_date>
+          <news:title>AMLO to limit flights in and out of Mexico City's main airport</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/politics/2023/08/31/amlo-to-limit-flights-in-and-out-of-mexico-citys-main-airport/amlo-to-limit-flights-in-and-out-of-mexico-citys-main-airport.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -28,6 +84,20 @@
         </news:news>
         <image:image>
           <image:loc>https://majordigest.com/politics/2023/08/31/fulton-county-trump-election-interference-trial-cameras-television/fulton-county-trump-election-interference-trial-cameras-television.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/politics/2023/08/31/democrat-governors-consultant-used-email-coded-greek-thwart-public-records-searches-lawsuit/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-31T21:42:23.000Z</news:publication_date>
+          <news:title>Democrat governor's consultant used email coded with Greek to thwart public records searches: lawsuit</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/politics/2023/08/31/democrat-governors-consultant-used-email-coded-greek-thwart-public-records-searches-lawsuit/democrat-governors-consultant-used-email-coded-greek-thwart-public-records-searches-lawsuit.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -73,34 +143,6 @@
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/politics/2023/08/31/gop-hounds-biden-admin-for-continuing-to-auction-off-border-wall-materials-outragous/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-31T20:59:23.000Z</news:publication_date>
-          <news:title>Republicans outraged as Biden administration border wall auction proceeds</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/politics/2023/08/31/gop-hounds-biden-admin-for-continuing-to-auction-off-border-wall-materials-outragous/gop-hounds-biden-admin-for-continuing-to-auction-off-border-wall-materials-outragous.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/politics/2023/08/31/hunter-bidens-firm-exchanged-1000-emails-joe-bidens-vp-office-records-show/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-31T20:49:01.000Z</news:publication_date>
-          <news:title>Hunter Biden's firm exchanged more than 1,000 emails with Joe Biden's VP office, records show</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/politics/2023/08/31/hunter-bidens-firm-exchanged-1000-emails-joe-bidens-vp-office-records-show/hunter-bidens-firm-exchanged-1000-emails-joe-bidens-vp-office-records-show.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
         <loc>https://majordigest.com/politics/2023/08/31/missouri-judge-trial-shooting-ralph-yarl/</loc>
         <news:news>
           <news:publication>
@@ -112,20 +154,6 @@
         </news:news>
         <image:image>
           <image:loc>https://majordigest.com/politics/2023/08/31/missouri-judge-trial-shooting-ralph-yarl/missouri-judge-trial-shooting-ralph-yarl.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/politics/2023/08/31/white-house-asks-congress-to-pass-short-term-funding-to-keep-government-operating-official-tells-ap/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-31T20:20:49.000Z</news:publication_date>
-          <news:title>White House asks Congress to pass short-term funding bill to keep government operating</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/politics/2023/08/31/white-house-asks-congress-to-pass-short-term-funding-to-keep-government-operating-official-tells-ap/white-house-asks-congress-to-pass-short-term-funding-to-keep-government-operating-official-tells-ap.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -143,20 +171,6 @@
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/politics/2023/08/31/justice-thomas-reports-he-took-3-trips-on-republican-donors-plane-last-year/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-31T19:24:23.000Z</news:publication_date>
-          <news:title>Justice Clarence Thomas reports he took 3 trips on Republican donor's plane last year</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/politics/2023/08/31/justice-thomas-reports-he-took-3-trips-on-republican-donors-plane-last-year/justice-thomas-reports-he-took-3-trips-on-republican-donors-plane-last-year.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
         <loc>https://majordigest.com/politics/2023/08/31/top-democrat-demands-ethics-panels-findings-from-santos-investigation/</loc>
         <news:news>
           <news:publication>
@@ -168,6 +182,34 @@
         </news:news>
         <image:image>
           <image:loc>https://majordigest.com/politics/2023/08/31/top-democrat-demands-ethics-panels-findings-from-santos-investigation/top-democrat-demands-ethics-panels-findings-from-santos-investigation.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/politics/2023/08/31/mcconnell-medically-clear-says-capitol-doctor/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-31T19:19:21.000Z</news:publication_date>
+          <news:title>McConnell 'medically clear,' says Capitol doctor&#160;</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/politics/2023/08/31/mcconnell-medically-clear-says-capitol-doctor/mcconnell-medically-clear-says-capitol-doctor.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/politics/2023/08/31/mcconnell-reassurances-freeze-up/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-31T19:18:11.000Z</news:publication_date>
+          <news:title>McConnell offers reassurances after latest freeze-up</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/politics/2023/08/31/mcconnell-reassurances-freeze-up/mcconnell-reassurances-freeze-up.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -266,20 +308,6 @@
         </news:news>
         <image:image>
           <image:loc>https://majordigest.com/politics/2023/08/31/desantis-fema-administrator-tour-hurricane-damage/desantis-fema-administrator-tour-hurricane-damage.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/politics/2023/08/31/financial-disclosures-clarence-thomas-samuel-alito-scotus/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-31T15:38:08.000Z</news:publication_date>
-          <news:title>Read the financial disclosures from Justices Clarence Thomas and Samuel Alito</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/politics/2023/08/31/financial-disclosures-clarence-thomas-samuel-alito-scotus/financial-disclosures-clarence-thomas-samuel-alito-scotus.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -409,6 +437,20 @@
         </image:image>
       </url>
       <url>
+        <loc>https://majordigest.com/politics/2023/08/30/desantis-holds-news-conference-before-hurricane-idalia-makes-landfall/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-30T10:02:53.000Z</news:publication_date>
+          <news:title>DeSantis discusses state response after Idalia makes landfall</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/politics/2023/08/30/desantis-holds-news-conference-before-hurricane-idalia-makes-landfall/desantis-holds-news-conference-before-hurricane-idalia-makes-landfall.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
         <loc>https://majordigest.com/politics/2023/08/30/as-trump-and-republicans-target-georgias-fani-willis-for-retribution-the-states-governor-opts-out/</loc>
         <news:news>
           <news:publication>
@@ -423,17 +465,17 @@
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/politics/2023/08/29/katie-porter-partners-with-gop-rep-to-introduce-bill-to-prevent-infant-formula-crisis/</loc>
+        <loc>https://majordigest.com/politics/2023/08/29/california-senate-elects-new-leader/</loc>
         <news:news>
           <news:publication>
             <news:name>Major Digest</news:name>
             <news:language>en</news:language>
           </news:publication>
-          <news:publication_date>2023-08-29T21:51:08.000Z</news:publication_date>
-          <news:title>Katie Porter partners with GOP rep to introduce bill to prevent infant formula crisis</news:title>
+          <news:publication_date>2023-08-29T22:44:23.000Z</news:publication_date>
+          <news:title>California Senate elects new leader</news:title>
         </news:news>
         <image:image>
-          <image:loc>https://majordigest.com/politics/2023/08/29/katie-porter-partners-with-gop-rep-to-introduce-bill-to-prevent-infant-formula-crisis/katie-porter-partners-with-gop-rep-to-introduce-bill-to-prevent-infant-formula-crisis.webp</image:loc>
+          <image:loc>https://majordigest.com/politics/2023/08/29/california-senate-elects-new-leader/california-senate-elects-new-leader.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -465,20 +507,6 @@
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/politics/2023/08/28/porter-warren-accuse-tax-prep-firms-of-undermining-new-irs-effort-on-electronic-free-file-tax-returns/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-28T20:30:47.000Z</news:publication_date>
-          <news:title>Porter, Warren accuse tax prep firms of undermining new IRS effort on electronic free file tax returns</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/politics/2023/08/28/porter-warren-accuse-tax-prep-firms-of-undermining-new-irs-effort-on-electronic-free-file-tax-returns/porter-warren-accuse-tax-prep-firms-of-undermining-new-irs-effort-on-electronic-free-file-tax-returns.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
         <loc>https://majordigest.com/politics/2023/08/28/biden-approves-emergency-declaration-for-florida-ahead-of-t-s-idalia/</loc>
         <news:news>
           <news:publication>
@@ -490,33 +518,5 @@
         </news:news>
         <image:image>
           <image:loc>https://majordigest.com/politics/2023/08/28/biden-approves-emergency-declaration-for-florida-ahead-of-t-s-idalia/biden-approves-emergency-declaration-for-florida-ahead-of-t-s-idalia.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/politics/2023/08/26/gop-presidential-candidate-vivek-ramaswamy-is-an-unaffiliated-voter-nbc-reports/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-26T20:33:41.000Z</news:publication_date>
-          <news:title>GOP presidential candidate Vivek Ramaswamy is an 'unaffiliated' voter, NBC reports</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/politics/2023/08/26/gop-presidential-candidate-vivek-ramaswamy-is-an-unaffiliated-voter-nbc-reports/gop-presidential-candidate-vivek-ramaswamy-is-an-unaffiliated-voter-nbc-reports.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/politics/2023/08/25/new-york-man-sentenced-to-3-months-in-prison-for-making-threatening-phone-calls-to-rep-marjorie-taylor-greene/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-25T19:49:09.000Z</news:publication_date>
-          <news:title>NY man sentenced to prison for making threatening&#160;phone calls to Rep. Marjorie Taylor Greene</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/politics/2023/08/25/new-york-man-sentenced-to-3-months-in-prison-for-making-threatening-phone-calls-to-rep-marjorie-taylor-greene/new-york-man-sentenced-to-3-months-in-prison-for-making-threatening-phone-calls-to-rep-marjorie-taylor-greene.webp</image:loc>
         </image:image>
       </url></urlset>
