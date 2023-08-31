@@ -3,6 +3,34 @@
               xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
               xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
       <url>
+        <loc>https://majordigest.com/tech/2023/08/31/trains-suspended-people-warned-away-from-the-coastline-as-typhoon-saola-churns-toward-south-china/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-31T05:48:16.000Z</news:publication_date>
+          <news:title>Trains suspended, people warned away from the coastline as Typhoon Saola churns toward south China</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/tech/2023/08/31/trains-suspended-people-warned-away-from-the-coastline-as-typhoon-saola-churns-toward-south-china/trains-suspended-people-warned-away-from-the-coastline-as-typhoon-saola-churns-toward-south-china.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/tech/2023/08/31/chinas-baidu-makes-ai-chatbot-ernie-bot-publicly-available/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-31T05:19:33.000Z</news:publication_date>
+          <news:title>China's Baidu makes AI chatbot Ernie Bot publicly available</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/tech/2023/08/31/chinas-baidu-makes-ai-chatbot-ernie-bot-publicly-available/chinas-baidu-makes-ai-chatbot-ernie-bot-publicly-available.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
         <loc>https://majordigest.com/tech/2023/08/30/mexican-navy-hopes-to-expand-net-snagging-hooks-to-protect-endangered-vaquita-porpoises/</loc>
         <news:news>
           <news:publication>
@@ -14,6 +42,34 @@
         </news:news>
         <image:image>
           <image:loc>https://majordigest.com/tech/2023/08/30/mexican-navy-hopes-to-expand-net-snagging-hooks-to-protect-endangered-vaquita-porpoises/mexican-navy-hopes-to-expand-net-snagging-hooks-to-protect-endangered-vaquita-porpoises.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/tech/2023/08/30/mexican-navy-hopes-to-expand-net-snagging-hooks-to-protect-endangered-vaquita-porpoises/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-30T21:57:35.000Z</news:publication_date>
+          <news:title>Mexican Navy hopes to expand net-snagging hooks to protect endangered vaquita porpoises</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/tech/2023/08/30/mexican-navy-hopes-to-expand-net-snagging-hooks-to-protect-endangered-vaquita-porpoises/mexican-navy-hopes-to-expand-net-snagging-hooks-to-protect-endangered-vaquita-porpoises.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/tech/2023/08/30/study-job-applicants-mental-health/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-30T21:56:33.000Z</news:publication_date>
+          <news:title>Study: Job applicants with mental health posts viewed differently</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/tech/2023/08/30/study-job-applicants-mental-health/study-job-applicants-mental-health.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -87,34 +143,6 @@
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/tech/2023/08/30/home-cocktail-makers-aim-fire-local-bartender/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-30T19:02:55.000Z</news:publication_date>
-          <news:title>Home cocktail makers aim to fire the local bartender</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/tech/2023/08/30/home-cocktail-makers-aim-fire-local-bartender/home-cocktail-makers-aim-fire-local-bartender.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/tech/2023/08/30/indeed-is-offering-10000-to-trans-workers-who-want-to-relocate/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-30T18:35:48.000Z</news:publication_date>
-          <news:title>Indeed will pay $10,000 to help transgender workers relocate to states where they feel safer</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/tech/2023/08/30/indeed-is-offering-10000-to-trans-workers-who-want-to-relocate/indeed-is-offering-10000-to-trans-workers-who-want-to-relocate.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
         <loc>https://majordigest.com/tech/2023/08/30/indeed-is-offering-10000-to-trans-workers-who-want-to-relocate/</loc>
         <news:news>
           <news:publication>
@@ -185,6 +213,20 @@
         </image:image>
       </url>
       <url>
+        <loc>https://majordigest.com/tech/2023/08/30/fbi-disrupts-malicious-program-infecting-hundreds-of-thousands-of-computers/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-30T15:19:40.000Z</news:publication_date>
+          <news:title>FBI disrupts malicious program infecting hundreds of thousands of computers</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/tech/2023/08/30/fbi-disrupts-malicious-program-infecting-hundreds-of-thousands-of-computers/fbi-disrupts-malicious-program-infecting-hundreds-of-thousands-of-computers.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
         <loc>https://majordigest.com/tech/2023/08/30/saudi-man-receives-death-penalty-for-posts-online-latest-case-in-wide-ranging-crackdown-on-dissent/</loc>
         <news:news>
           <news:publication>
@@ -213,20 +255,6 @@
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/tech/2023/08/30/fox-news-ai-newsletter-tiktoker-sounds-alarm-scary-online-trend-affecting-children/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-30T14:26:08.000Z</news:publication_date>
-          <news:title>Fox News AI Newsletter: TikToker sounds alarm on scary online trend affecting children</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/tech/2023/08/30/fox-news-ai-newsletter-tiktoker-sounds-alarm-scary-online-trend-affecting-children/fox-news-ai-newsletter-tiktoker-sounds-alarm-scary-online-trend-affecting-children.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
         <loc>https://majordigest.com/tech/2023/08/30/indonesia-arrests-88-chinese-nationals-in-online-romance-scams/</loc>
         <news:news>
           <news:publication>
@@ -238,20 +266,6 @@
         </news:news>
         <image:image>
           <image:loc>https://majordigest.com/tech/2023/08/30/indonesia-arrests-88-chinese-nationals-in-online-romance-scams/indonesia-arrests-88-chinese-nationals-in-online-romance-scams.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/tech/2023/08/30/indonesia-arrests-88-chinese-nationals-over-online-romance-scams/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-30T12:39:08.000Z</news:publication_date>
-          <news:title>Indonesia arrests 88 Chinese nationals over online romance scams</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/tech/2023/08/30/indonesia-arrests-88-chinese-nationals-over-online-romance-scams/indonesia-arrests-88-chinese-nationals-over-online-romance-scams.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -308,20 +322,6 @@
         </news:news>
         <image:image>
           <image:loc>https://majordigest.com/tech/2023/08/30/2023-nissan-ariya-electric-crossover-review/2023-nissan-ariya-electric-crossover-review.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/tech/2023/08/30/typhoon-saola-strengthens-as-it-passes-taiwan-on-its-way-to-china/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-30T04:36:15.000Z</news:publication_date>
-          <news:title>Typhoon Saola strengthens as it passes Taiwan on its way to China</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/tech/2023/08/30/typhoon-saola-strengthens-as-it-passes-taiwan-on-its-way-to-china/typhoon-saola-strengthens-as-it-passes-taiwan-on-its-way-to-china.webp</image:loc>
         </image:image>
       </url>
       <url>
