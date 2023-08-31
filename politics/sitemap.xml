@@ -3,6 +3,76 @@
               xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
               xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
       <url>
+        <loc>https://majordigest.com/politics/2023/08/31/federal-judge-bars-texas-from-enforcing-book-rating-law/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-31T22:13:47.000Z</news:publication_date>
+          <news:title>Federal judge bars Texas from enforcing book rating law</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/politics/2023/08/31/federal-judge-bars-texas-from-enforcing-book-rating-law/federal-judge-bars-texas-from-enforcing-book-rating-law.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/politics/2023/08/31/fulton-county-trump-election-interference-trial-cameras-television/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-31T21:42:53.000Z</news:publication_date>
+          <news:title>Trump's Georgia trial can be televised, Fulton County judge rules</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/politics/2023/08/31/fulton-county-trump-election-interference-trial-cameras-television/fulton-county-trump-election-interference-trial-cameras-television.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/politics/2023/08/31/karine-jean-pierre-aoc-biden-done-more-anybody-immigration-securing-border/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-31T21:30:24.000Z</news:publication_date>
+          <news:title>Karine Jean-Pierre responds to AOC: Biden has 'done more than anybody' to secure the border</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/politics/2023/08/31/karine-jean-pierre-aoc-biden-done-more-anybody-immigration-securing-border/karine-jean-pierre-aoc-biden-done-more-anybody-immigration-securing-border.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/politics/2023/08/31/mccaul-interviews-biden-officials-chaotic-afghanistan-withdrawal/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-31T21:20:58.000Z</news:publication_date>
+          <news:title>McCaul demands more interviews with Biden officials on 'chaotic and deadly' Afghanistan withdrawal</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/politics/2023/08/31/mccaul-interviews-biden-officials-chaotic-afghanistan-withdrawal/mccaul-interviews-biden-officials-chaotic-afghanistan-withdrawal.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/politics/2023/08/31/the-reason-why-nyc-doesnt-have-more-weed-dispensaries/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-31T21:13:17.000Z</news:publication_date>
+          <news:title>The reason why NYC doesn't have more weed dispensaries</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/politics/2023/08/31/the-reason-why-nyc-doesnt-have-more-weed-dispensaries/the-reason-why-nyc-doesnt-have-more-weed-dispensaries.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
         <loc>https://majordigest.com/politics/2023/08/31/gop-hounds-biden-admin-for-continuing-to-auction-off-border-wall-materials-outragous/</loc>
         <news:news>
           <news:publication>
@@ -31,20 +101,6 @@
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/politics/2023/08/31/federal-judge-issues-temporary-restraining-order-says-texas-law-banning-drag-shows-is-likely-unconstitutional/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-31T20:48:48.000Z</news:publication_date>
-          <news:title>Federal judge issues temporary restraining order, says Texas law banning drag shows is &#8220;likely&#8221; unconstitutional</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/politics/2023/08/31/federal-judge-issues-temporary-restraining-order-says-texas-law-banning-drag-shows-is-likely-unconstitutional/federal-judge-issues-temporary-restraining-order-says-texas-law-banning-drag-shows-is-likely-unconstitutional.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
         <loc>https://majordigest.com/politics/2023/08/31/missouri-judge-trial-shooting-ralph-yarl/</loc>
         <news:news>
           <news:publication>
@@ -59,17 +115,17 @@
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/politics/2023/08/31/house-republicans-second-investigation-maui-wildfires-cause/</loc>
+        <loc>https://majordigest.com/politics/2023/08/31/white-house-asks-congress-to-pass-short-term-funding-to-keep-government-operating-official-tells-ap/</loc>
         <news:news>
           <news:publication>
             <news:name>Major Digest</news:name>
             <news:language>en</news:language>
           </news:publication>
-          <news:publication_date>2023-08-31T20:15:02.000Z</news:publication_date>
-          <news:title>House Republicans launch investigation into cause of Maui wildfires</news:title>
+          <news:publication_date>2023-08-31T20:20:49.000Z</news:publication_date>
+          <news:title>White House asks Congress to pass short-term funding bill to keep government operating</news:title>
         </news:news>
         <image:image>
-          <image:loc>https://majordigest.com/politics/2023/08/31/house-republicans-second-investigation-maui-wildfires-cause/house-republicans-second-investigation-maui-wildfires-cause.webp</image:loc>
+          <image:loc>https://majordigest.com/politics/2023/08/31/white-house-asks-congress-to-pass-short-term-funding-to-keep-government-operating-official-tells-ap/white-house-asks-congress-to-pass-short-term-funding-to-keep-government-operating-official-tells-ap.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -84,20 +140,6 @@
         </news:news>
         <image:image>
           <image:loc>https://majordigest.com/politics/2023/08/31/pentagon-leadership-ufo-office/pentagon-leadership-ufo-office.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/politics/2023/08/31/biden-downplays-mcconnell-health-concerns-says-he-was-his-old-self-phone/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-31T19:27:42.000Z</news:publication_date>
-          <news:title>Biden downplays McConnell health concerns, says 'he was his old self' on the phone</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/politics/2023/08/31/biden-downplays-mcconnell-health-concerns-says-he-was-his-old-self-phone/biden-downplays-mcconnell-health-concerns-says-he-was-his-old-self-phone.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -129,59 +171,17 @@
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/politics/2023/08/31/mcconnell-medically-clear-says-capitol-doctor/</loc>
+        <loc>https://majordigest.com/politics/2023/08/31/well-kill-you-election-workers-get-threats-warnings-theyll-be-lynched-us-government-says/</loc>
         <news:news>
           <news:publication>
             <news:name>Major Digest</news:name>
             <news:language>en</news:language>
           </news:publication>
-          <news:publication_date>2023-08-31T19:19:21.000Z</news:publication_date>
-          <news:title>McConnell 'medically clear,' says Capitol doctor&#160;</news:title>
+          <news:publication_date>2023-08-31T18:54:11.000Z</news:publication_date>
+          <news:title>Election workers have gotten death threats and warnings they will be lynched, the US government says</news:title>
         </news:news>
         <image:image>
-          <image:loc>https://majordigest.com/politics/2023/08/31/mcconnell-medically-clear-says-capitol-doctor/mcconnell-medically-clear-says-capitol-doctor.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/politics/2023/08/31/rfk-jr-suggest-nyc-event-most-border-crossers-lack-asylum-claims-adams-pushes-migrant-work-authorization/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-31T19:18:17.000Z</news:publication_date>
-          <news:title>RFK Jr suggests at NYC stop most border crossers lack asylum claims as Adams pushes migrant work authorization</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/politics/2023/08/31/rfk-jr-suggest-nyc-event-most-border-crossers-lack-asylum-claims-adams-pushes-migrant-work-authorization/rfk-jr-suggest-nyc-event-most-border-crossers-lack-asylum-claims-adams-pushes-migrant-work-authorization.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/politics/2023/08/31/mcconnell-reassurances-freeze-up/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-31T19:18:11.000Z</news:publication_date>
-          <news:title>McConnell offers reassurances after latest freeze-up</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/politics/2023/08/31/mcconnell-reassurances-freeze-up/mcconnell-reassurances-freeze-up.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/politics/2023/08/31/comer-on-future-senate-run-in-kentucky-i-dont-know-whatll-happen/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-31T19:03:01.000Z</news:publication_date>
-          <news:title>Comer on future Senate run in Kentucky: 'I don't know what'll happen'</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/politics/2023/08/31/comer-on-future-senate-run-in-kentucky-i-dont-know-whatll-happen/comer-on-future-senate-run-in-kentucky-i-dont-know-whatll-happen.webp</image:loc>
+          <image:loc>https://majordigest.com/politics/2023/08/31/well-kill-you-election-workers-get-threats-warnings-theyll-be-lynched-us-government-says/well-kill-you-election-workers-get-threats-warnings-theyll-be-lynched-us-government-says.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -227,17 +227,17 @@
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/politics/2023/08/31/biden-administration-cancels-loans-for-former-ashford-u-students-with-plans-to-recoup-costs/</loc>
+        <loc>https://majordigest.com/politics/2023/08/31/raimondo-china-congressional-hawks/</loc>
         <news:news>
           <news:publication>
             <news:name>Major Digest</news:name>
             <news:language>en</news:language>
           </news:publication>
-          <news:publication_date>2023-08-31T16:55:47.000Z</news:publication_date>
-          <news:title>US government cancels loans for former Ashford University students and plans to recoup costs</news:title>
+          <news:publication_date>2023-08-31T16:32:02.000Z</news:publication_date>
+          <news:title>Raimondo&#8217;s &#8216;bold move&#8217; in China</news:title>
         </news:news>
         <image:image>
-          <image:loc>https://majordigest.com/politics/2023/08/31/biden-administration-cancels-loans-for-former-ashford-u-students-with-plans-to-recoup-costs/biden-administration-cancels-loans-for-former-ashford-u-students-with-plans-to-recoup-costs.webp</image:loc>
+          <image:loc>https://majordigest.com/politics/2023/08/31/raimondo-china-congressional-hawks/raimondo-china-congressional-hawks.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -297,20 +297,6 @@
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/politics/2023/08/31/justice-clarence-thomas-reports-he-took-3-trips-on-republican-donors-plane-last-year/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-31T14:35:05.000Z</news:publication_date>
-          <news:title>Justice Clarence Thomas reports he took 3 trips on Republican donor's plane last year</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/politics/2023/08/31/justice-clarence-thomas-reports-he-took-3-trips-on-republican-donors-plane-last-year/justice-clarence-thomas-reports-he-took-3-trips-on-republican-donors-plane-last-year.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
         <loc>https://majordigest.com/politics/2023/08/31/senate-gop-leader-mitch-mcconnell-appears-to-freeze-up-again-this-time-at-a-kentucky-event/</loc>
         <news:news>
           <news:publication>
@@ -325,17 +311,31 @@
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/politics/2023/08/31/npr-trump-hiv-aids-epidemic-defund-house-republicans/</loc>
+        <loc>https://majordigest.com/politics/2023/08/31/mayor-adams-calls-for-help-getting-migrants-expedited-work-authorization/</loc>
         <news:news>
           <news:publication>
             <news:name>Major Digest</news:name>
             <news:language>en</news:language>
           </news:publication>
-          <news:publication_date>2023-08-31T09:00:00.000Z</news:publication_date>
-          <news:title>Trump launched an ambitious effort to end HIV. House Republicans want to defund it.</news:title>
+          <news:publication_date>2023-08-31T10:36:07.000Z</news:publication_date>
+          <news:title>Mayor Adams calls for help getting migrants expedited work authorization</news:title>
         </news:news>
         <image:image>
-          <image:loc>https://majordigest.com/politics/2023/08/31/npr-trump-hiv-aids-epidemic-defund-house-republicans/npr-trump-hiv-aids-epidemic-defund-house-republicans.webp</image:loc>
+          <image:loc>https://majordigest.com/politics/2023/08/31/mayor-adams-calls-for-help-getting-migrants-expedited-work-authorization/mayor-adams-calls-for-help-getting-migrants-expedited-work-authorization.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/politics/2023/08/31/npr-biden-air-force-one-short-stairs/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-31T10:05:00.000Z</news:publication_date>
+          <news:title>Why Biden is now routinely taking the short stairs up to Air Force One</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/politics/2023/08/31/npr-biden-air-force-one-short-stairs/npr-biden-air-force-one-short-stairs.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -353,17 +353,17 @@
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/politics/2023/08/31/texas-attorney-general-ken-paxton-pursued-perks-beyond-impeachment-allegations-ex-staffers-say/</loc>
+        <loc>https://majordigest.com/politics/2023/08/31/npr-trump-hiv-aids-epidemic-defund-house-republicans/</loc>
         <news:news>
           <news:publication>
             <news:name>Major Digest</news:name>
             <news:language>en</news:language>
           </news:publication>
-          <news:publication_date>2023-08-31T04:22:37.000Z</news:publication_date>
-          <news:title>Texas Attorney General Ken Paxton pursued perks beyond impeachment allegations, ex-staffers say</news:title>
+          <news:publication_date>2023-08-31T09:00:00.000Z</news:publication_date>
+          <news:title>Trump launched an ambitious effort to end HIV. House Republicans want to defund it.</news:title>
         </news:news>
         <image:image>
-          <image:loc>https://majordigest.com/politics/2023/08/31/texas-attorney-general-ken-paxton-pursued-perks-beyond-impeachment-allegations-ex-staffers-say/texas-attorney-general-ken-paxton-pursued-perks-beyond-impeachment-allegations-ex-staffers-say.webp</image:loc>
+          <image:loc>https://majordigest.com/politics/2023/08/31/npr-trump-hiv-aids-epidemic-defund-house-republicans/npr-trump-hiv-aids-epidemic-defund-house-republicans.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -409,17 +409,17 @@
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/politics/2023/08/29/california-senate-elects-new-leader/</loc>
+        <loc>https://majordigest.com/politics/2023/08/30/as-trump-and-republicans-target-georgias-fani-willis-for-retribution-the-states-governor-opts-out/</loc>
         <news:news>
           <news:publication>
             <news:name>Major Digest</news:name>
             <news:language>en</news:language>
           </news:publication>
-          <news:publication_date>2023-08-29T22:44:23.000Z</news:publication_date>
-          <news:title>California Senate elects new leader</news:title>
+          <news:publication_date>2023-08-30T04:07:55.000Z</news:publication_date>
+          <news:title>Efforts to punish Fani Willis over Trump prosecution are 'political theater,' Georgia Gov. Kemp says</news:title>
         </news:news>
         <image:image>
-          <image:loc>https://majordigest.com/politics/2023/08/29/california-senate-elects-new-leader/california-senate-elects-new-leader.webp</image:loc>
+          <image:loc>https://majordigest.com/politics/2023/08/30/as-trump-and-republicans-target-georgias-fani-willis-for-retribution-the-states-governor-opts-out/as-trump-and-republicans-target-georgias-fani-willis-for-retribution-the-states-governor-opts-out.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -437,17 +437,17 @@
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/politics/2023/08/28/after-setback-lt-gov-dan-patrick-names-another-judge-to-help-with-ken-paxton-impeachment-trial/</loc>
+        <loc>https://majordigest.com/politics/2023/08/29/democrat-resigning-assembly-post-to-work-for-las-vegas/</loc>
         <news:news>
           <news:publication>
             <news:name>Major Digest</news:name>
             <news:language>en</news:language>
           </news:publication>
-          <news:publication_date>2023-08-28T21:20:38.000Z</news:publication_date>
-          <news:title>After setback, Lt. Gov. Dan Patrick names another judge to help with Ken Paxton impeachment trial</news:title>
+          <news:publication_date>2023-08-29T17:58:23.000Z</news:publication_date>
+          <news:title>Democrat resigning Assembly post to work for Las Vegas</news:title>
         </news:news>
         <image:image>
-          <image:loc>https://majordigest.com/politics/2023/08/28/after-setback-lt-gov-dan-patrick-names-another-judge-to-help-with-ken-paxton-impeachment-trial/after-setback-lt-gov-dan-patrick-names-another-judge-to-help-with-ken-paxton-impeachment-trial.webp</image:loc>
+          <image:loc>https://majordigest.com/politics/2023/08/29/democrat-resigning-assembly-post-to-work-for-las-vegas/democrat-resigning-assembly-post-to-work-for-las-vegas.webp</image:loc>
         </image:image>
       </url>
       <url>

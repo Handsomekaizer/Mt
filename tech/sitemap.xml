@@ -3,6 +3,34 @@
               xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
               xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
       <url>
+        <loc>https://majordigest.com/tech/2023/08/31/delta-air-lines-says-it-has-protected-its-planes-against-interference-from-5g-wireless-signals/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-31T21:59:26.000Z</news:publication_date>
+          <news:title>Delta Air Lines says it has protected its planes against interference from 5G wireless signals</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/tech/2023/08/31/delta-air-lines-says-it-has-protected-its-planes-against-interference-from-5g-wireless-signals/delta-air-lines-says-it-has-protected-its-planes-against-interference-from-5g-wireless-signals.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/tech/2023/08/31/bipartisan-duo-urges-visa-mastercard-to-call-off-swipe-fee-boost/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-31T21:25:27.000Z</news:publication_date>
+          <news:title>Bipartisan duo urges Visa, Mastercard to call off planned swipe fee increases</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/tech/2023/08/31/bipartisan-duo-urges-visa-mastercard-to-call-off-swipe-fee-boost/bipartisan-duo-urges-visa-mastercard-to-call-off-swipe-fee-boost.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
         <loc>https://majordigest.com/tech/2023/08/31/how-protect-yourself-vishing-scams/</loc>
         <news:news>
           <news:publication>
@@ -28,6 +56,20 @@
         </news:news>
         <image:image>
           <image:loc>https://majordigest.com/tech/2023/08/31/federal-authorities-investigating-tesla-over-secret-project-to-build-austin-home-for-musk-report/federal-authorities-investigating-tesla-over-secret-project-to-build-austin-home-for-musk-report.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/tech/2023/08/31/visual-artists-fight-back-against-ai-companies-for-repurposing-their-work/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-31T18:55:31.000Z</news:publication_date>
+          <news:title>Visual artists fight back against AI companies for repurposing their work</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/tech/2023/08/31/visual-artists-fight-back-against-ai-companies-for-repurposing-their-work/visual-artists-fight-back-against-ai-companies-for-repurposing-their-work.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -269,20 +311,6 @@
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/tech/2023/08/30/study-job-applicants-mental-health/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-30T21:56:33.000Z</news:publication_date>
-          <news:title>Study: Job applicants with mental health posts viewed differently</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/tech/2023/08/30/study-job-applicants-mental-health/study-job-applicants-mental-health.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
         <loc>https://majordigest.com/tech/2023/08/30/fbi-disrupts-malicious-program-infecting-computers/</loc>
         <news:news>
           <news:publication>
@@ -294,20 +322,6 @@
         </news:news>
         <image:image>
           <image:loc>https://majordigest.com/tech/2023/08/30/fbi-disrupts-malicious-program-infecting-computers/fbi-disrupts-malicious-program-infecting-computers.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/tech/2023/08/30/jordan-subpoenas-hate-speech-watchdog/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-30T19:18:26.000Z</news:publication_date>
-          <news:title>Jordan subpoenas hate speech watchdog</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/tech/2023/08/30/jordan-subpoenas-hate-speech-watchdog/jordan-subpoenas-hate-speech-watchdog.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -350,20 +364,6 @@
         </news:news>
         <image:image>
           <image:loc>https://majordigest.com/tech/2023/08/30/indonesia-arrests-88-chinese-nationals-in-online-romance-scams/indonesia-arrests-88-chinese-nationals-in-online-romance-scams.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/tech/2023/08/30/after-tesla-relaxes-monitoring-of-drivers-using-its-autopilot-technology-us-regulators-seek-answers/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-30T11:50:39.000Z</news:publication_date>
-          <news:title>Tesla is allowing no-hands driving with Autopilot for longer periods. US regulators have questions</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/tech/2023/08/30/after-tesla-relaxes-monitoring-of-drivers-using-its-autopilot-technology-us-regulators-seek-answers/after-tesla-relaxes-monitoring-of-drivers-using-its-autopilot-technology-us-regulators-seek-answers.webp</image:loc>
         </image:image>
       </url>
       <url>

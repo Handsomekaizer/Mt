@@ -3,6 +3,118 @@
               xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
               xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
       <url>
+        <loc>https://majordigest.com/world/2023/08/31/uber-launches-electric-bike-service-kenya-aiming-emissions-free-platform-2040/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-31T21:59:49.000Z</news:publication_date>
+          <news:title>Uber launches electric bike service in Kenya, aiming for emissions-free platform by 2040</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/world/2023/08/31/uber-launches-electric-bike-service-kenya-aiming-emissions-free-platform-2040/uber-launches-electric-bike-service-kenya-aiming-emissions-free-platform-2040.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/world/2023/08/31/us-denies-blocking-chip-sales-middle-east/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-31T21:58:24.000Z</news:publication_date>
+          <news:title>US denies blocking chip sales to Middle East</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/world/2023/08/31/us-denies-blocking-chip-sales-middle-east/us-denies-blocking-chip-sales-middle-east.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/world/2023/08/31/allegiant-air-raises-concerns-mexican-governments-transparency-flight-operations/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-31T21:56:06.000Z</news:publication_date>
+          <news:title>Allegiant air raises concerns about Mexican government's transparency on flight operations</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/world/2023/08/31/allegiant-air-raises-concerns-mexican-governments-transparency-flight-operations/allegiant-air-raises-concerns-mexican-governments-transparency-flight-operations.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/world/2023/08/31/video-appears-to-show-prigozhin-dismissing-security-concerns-days-before-fatal-plane-crash/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-31T21:46:08.000Z</news:publication_date>
+          <news:title>Video appears to show Prigozhin dismissing security concerns days before fatal plane crash</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/world/2023/08/31/video-appears-to-show-prigozhin-dismissing-security-concerns-days-before-fatal-plane-crash/video-appears-to-show-prigozhin-dismissing-security-concerns-days-before-fatal-plane-crash.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/world/2023/08/31/video-appears-to-show-prigozhin-dismissing-security-concerns-days-before-fatal-plane-crash/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-31T21:46:08.000Z</news:publication_date>
+          <news:title>Video appears to show Prigozhin dismissing security concerns days before fatal plane crash</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/world/2023/08/31/video-appears-to-show-prigozhin-dismissing-security-concerns-days-before-fatal-plane-crash/video-appears-to-show-prigozhin-dismissing-security-concerns-days-before-fatal-plane-crash.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/world/2023/08/31/china-says-it-deplores-us-military-transfer-to-taiwan/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-31T21:36:26.000Z</news:publication_date>
+          <news:title>China says it 'deplores' US military transfer to Taiwan</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/world/2023/08/31/china-says-it-deplores-us-military-transfer-to-taiwan/china-says-it-deplores-us-military-transfer-to-taiwan.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/world/2023/08/31/us-military-calls-for-end-of-fighting-in-east-syria-and-warns-it-could-lead-to-is-resurgence/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-31T19:43:31.000Z</news:publication_date>
+          <news:title>US military calls for end of fighting in east Syria and warns it could lead to IS resurgence</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/world/2023/08/31/us-military-calls-for-end-of-fighting-in-east-syria-and-warns-it-could-lead-to-is-resurgence/us-military-calls-for-end-of-fighting-in-east-syria-and-warns-it-could-lead-to-is-resurgence.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/world/2023/08/31/greece-further-reinforces-firefighting-forces-in-massive-wildfire-in-northeast-burning-for-13th-day/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-31T19:41:37.000Z</news:publication_date>
+          <news:title>Greece sends 100 extra firefighters to a massive northeastern wildfire as it burns for a 13th day</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/world/2023/08/31/greece-further-reinforces-firefighting-forces-in-massive-wildfire-in-northeast-burning-for-13th-day/greece-further-reinforces-firefighting-forces-in-massive-wildfire-in-northeast-burning-for-13th-day.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
         <loc>https://majordigest.com/world/2023/08/31/greece-further-reinforces-firefighting-forces-in-massive-wildfire-in-northeast-burning-for-13th-day/</loc>
         <news:news>
           <news:publication>
@@ -56,62 +168,6 @@
         </news:news>
         <image:image>
           <image:loc>https://majordigest.com/world/2023/08/31/airstrike-southern-syria-hits-alleged-drug-factory/airstrike-southern-syria-hits-alleged-drug-factory.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/world/2023/08/31/greece-sends-100-more-firefighters-countrys-northeast-blaze-flares-13th-day/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-31T17:59:26.000Z</news:publication_date>
-          <news:title>Greece sends 100 more firefighters to country's northeast as blaze flares up in 13th day</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/world/2023/08/31/greece-sends-100-more-firefighters-countrys-northeast-blaze-flares-13th-day/greece-sends-100-more-firefighters-countrys-northeast-blaze-flares-13th-day.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/world/2023/08/31/iceland-resumes-comercial-hunting-fin-whales-stricter-requirements/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-31T17:57:30.000Z</news:publication_date>
-          <news:title>Iceland resumes commercial hunting of fin whales with stricter requirements</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/world/2023/08/31/iceland-resumes-comercial-hunting-fin-whales-stricter-requirements/iceland-resumes-comercial-hunting-fin-whales-stricter-requirements.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/world/2023/08/31/iceland-resumes-comercial-hunting-fin-whales-stricter-requirements/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-31T17:57:30.000Z</news:publication_date>
-          <news:title>Iceland resumes commercial hunting of fin whales with stricter requirements</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/world/2023/08/31/iceland-resumes-comercial-hunting-fin-whales-stricter-requirements/iceland-resumes-comercial-hunting-fin-whales-stricter-requirements.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/world/2023/08/31/german-court-convicts-russian-man-plotting-kill-exiled-chechen-dissident/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-31T17:56:12.000Z</news:publication_date>
-          <news:title>German court convicts Russian man of plotting to kill exiled Chechen dissident</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/world/2023/08/31/german-court-convicts-russian-man-plotting-kill-exiled-chechen-dissident/german-court-convicts-russian-man-plotting-kill-exiled-chechen-dissident.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -171,34 +227,6 @@
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/world/2023/08/31/eu-examines-its-training-of-african-armies-as-another-coup-rocks-the-continent/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-31T16:37:46.000Z</news:publication_date>
-          <news:title>EU grapples with its African army training dilemma as another coup rocks the continent</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/world/2023/08/31/eu-examines-its-training-of-african-armies-as-another-coup-rocks-the-continent/eu-examines-its-training-of-african-armies-as-another-coup-rocks-the-continent.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/world/2023/08/31/eu-examines-its-training-of-african-armies-as-another-coup-rocks-the-continent/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-31T16:37:46.000Z</news:publication_date>
-          <news:title>EU grapples with its African army training dilemma as another coup rocks the continent</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/world/2023/08/31/eu-examines-its-training-of-african-armies-as-another-coup-rocks-the-continent/eu-examines-its-training-of-african-armies-as-another-coup-rocks-the-continent.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
         <loc>https://majordigest.com/world/2023/08/31/rahm-emmanuel-eats-sushi-in-support-of-japan-amid-controversy-over-fukushima-water-release/</loc>
         <news:news>
           <news:publication>
@@ -227,20 +255,6 @@
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/world/2023/08/31/obama-world-leaders-call-on-bangladesh-to-halt-cases-against-nobel-peace-prize-winner/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-31T15:22:01.000Z</news:publication_date>
-          <news:title>Obama, world leaders call on Bangladesh to halt cases against Nobel Peace Prize winner</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/world/2023/08/31/obama-world-leaders-call-on-bangladesh-to-halt-cases-against-nobel-peace-prize-winner/obama-world-leaders-call-on-bangladesh-to-halt-cases-against-nobel-peace-prize-winner.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
         <loc>https://majordigest.com/world/2023/08/31/iceland-says-commercial-whaling-can-resume-after-temporary-ban/</loc>
         <news:news>
           <news:publication>
@@ -252,20 +266,6 @@
         </news:news>
         <image:image>
           <image:loc>https://majordigest.com/world/2023/08/31/iceland-says-commercial-whaling-can-resume-after-temporary-ban/iceland-says-commercial-whaling-can-resume-after-temporary-ban.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/world/2023/08/31/ice-sends-deportation-flight-to-haiti-after-warning-us-citizens-to-evacuate/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-31T15:09:23.000Z</news:publication_date>
-          <news:title>ICE sends deportation flight to Haiti after warning US citizens to evacuate</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/world/2023/08/31/ice-sends-deportation-flight-to-haiti-after-warning-us-citizens-to-evacuate/ice-sends-deportation-flight-to-haiti-after-warning-us-citizens-to-evacuate.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -283,17 +283,17 @@
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/world/2023/08/31/iran-accuses-israel-of-supplying-potentially-exploding-parts-for-ballistic-missile-program/</loc>
+        <loc>https://majordigest.com/world/2023/08/31/eu-examines-its-training-of-african-armies-as-another-coup-rocks-the-continent/</loc>
         <news:news>
           <news:publication>
             <news:name>Major Digest</news:name>
             <news:language>en</news:language>
           </news:publication>
-          <news:publication_date>2023-08-31T11:25:13.000Z</news:publication_date>
-          <news:title>Iran accuses Israel of supplying potentially exploding parts for ballistic missile program</news:title>
+          <news:publication_date>2023-08-31T10:45:14.000Z</news:publication_date>
+          <news:title>EU grapples with its African army training dilemma as another coup rocks the continent</news:title>
         </news:news>
         <image:image>
-          <image:loc>https://majordigest.com/world/2023/08/31/iran-accuses-israel-of-supplying-potentially-exploding-parts-for-ballistic-missile-program/iran-accuses-israel-of-supplying-potentially-exploding-parts-for-ballistic-missile-program.webp</image:loc>
+          <image:loc>https://majordigest.com/world/2023/08/31/eu-examines-its-training-of-african-armies-as-another-coup-rocks-the-continent/eu-examines-its-training-of-african-armies-as-another-coup-rocks-the-continent.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -308,6 +308,20 @@
         </news:news>
         <image:image>
           <image:loc>https://majordigest.com/world/2023/08/31/at-least-52-people-have-died-in-a-fire-in-a-building-in-south-africas-biggest-city-authorities-say/at-least-52-people-have-died-in-a-fire-in-a-building-in-south-africas-biggest-city-authorities-say.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/world/2023/08/31/gabon-military-officers-say-theyre-seizing-power-just-days-after-the-presidential-election/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-31T04:52:39.000Z</news:publication_date>
+          <news:title>Mutineers in Gabon appoint a military leader after detaining the president, alleging corruption</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/world/2023/08/31/gabon-military-officers-say-theyre-seizing-power-just-days-after-the-presidential-election/gabon-military-officers-say-theyre-seizing-power-just-days-after-the-presidential-election.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -392,20 +406,6 @@
         </news:news>
         <image:image>
           <image:loc>https://majordigest.com/world/2023/08/29/the-kremlin-says-putin-is-not-planning-to-attend-wagner-chief-prigozhins-burial/the-kremlin-says-putin-is-not-planning-to-attend-wagner-chief-prigozhins-burial.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/world/2023/08/29/neurosurgeon-investigating-patients-mystery-symptoms-plucks-worm-from-womans-brain/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-29T10:07:27.000Z</news:publication_date>
-          <news:title>Neurosurgeon investigating patient's mystery symptoms plucks worm from woman's brain</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/world/2023/08/29/neurosurgeon-investigating-patients-mystery-symptoms-plucks-worm-from-womans-brain/neurosurgeon-investigating-patients-mystery-symptoms-plucks-worm-from-womans-brain.webp</image:loc>
         </image:image>
       </url>
       <url>
