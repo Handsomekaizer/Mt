@@ -9,7 +9,7 @@
             <news:name>Major Digest</news:name>
             <news:language>en</news:language>
           </news:publication>
-          <news:publication_date>2023-08-31T08:06:35.000Z</news:publication_date>
+          <news:publication_date>2023-08-31T08:48:27.000Z</news:publication_date>
           <news:title>China's Baidu makes AI chatbot Ernie Bot publicly available</news:title>
         </news:news>
         <image:image>
@@ -24,7 +24,21 @@
             <news:language>en</news:language>
           </news:publication>
           <news:publication_date>2023-08-31T05:48:16.000Z</news:publication_date>
-          <news:title>Trains suspended, people warned away from the coastline as Typhoon Saola churns toward south China</news:title>
+          <news:title>Typhoon Saola churns toward south China, suspending transport and delaying the school year</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/tech/2023/08/31/trains-suspended-people-warned-away-from-the-coastline-as-typhoon-saola-churns-toward-south-china/trains-suspended-people-warned-away-from-the-coastline-as-typhoon-saola-churns-toward-south-china.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/tech/2023/08/31/trains-suspended-people-warned-away-from-the-coastline-as-typhoon-saola-churns-toward-south-china/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-31T05:48:16.000Z</news:publication_date>
+          <news:title>Typhoon Saola churns toward south China, suspending transport and delaying the school year</news:title>
         </news:news>
         <image:image>
           <image:loc>https://majordigest.com/tech/2023/08/31/trains-suspended-people-warned-away-from-the-coastline-as-typhoon-saola-churns-toward-south-china/trains-suspended-people-warned-away-from-the-coastline-as-typhoon-saola-churns-toward-south-china.webp</image:loc>
@@ -199,6 +213,20 @@
         </image:image>
       </url>
       <url>
+        <loc>https://majordigest.com/tech/2023/08/30/saudi-man-receives-death-penalty-for-posts-online-latest-case-in-wide-ranging-crackdown-on-dissent/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-30T14:28:33.000Z</news:publication_date>
+          <news:title>Saudi man receives death penalty for posts online, latest case in wide-ranging crackdown on dissent</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/tech/2023/08/30/saudi-man-receives-death-penalty-for-posts-online-latest-case-in-wide-ranging-crackdown-on-dissent/saudi-man-receives-death-penalty-for-posts-online-latest-case-in-wide-ranging-crackdown-on-dissent.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
         <loc>https://majordigest.com/tech/2023/08/30/fox-news-ai-newsletter-tiktoker-sounds-alarm-scary-online-trend-affecting-children/</loc>
         <news:news>
           <news:publication>
@@ -210,20 +238,6 @@
         </news:news>
         <image:image>
           <image:loc>https://majordigest.com/tech/2023/08/30/fox-news-ai-newsletter-tiktoker-sounds-alarm-scary-online-trend-affecting-children/fox-news-ai-newsletter-tiktoker-sounds-alarm-scary-online-trend-affecting-children.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/tech/2023/08/30/indonesia-arrests-88-chinese-nationals-in-online-romance-scams/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-30T13:21:49.000Z</news:publication_date>
-          <news:title>Indonesia arrests 88 Chinese nationals over online romance scams</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/tech/2023/08/30/indonesia-arrests-88-chinese-nationals-in-online-romance-scams/indonesia-arrests-88-chinese-nationals-in-online-romance-scams.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -297,20 +311,6 @@
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/tech/2023/08/30/2023-nissan-ariya-electric-crossover-review/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-30T08:00:00.000Z</news:publication_date>
-          <news:title>Nissan's all-electric SUV is stylish and practical</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/tech/2023/08/30/2023-nissan-ariya-electric-crossover-review/2023-nissan-ariya-electric-crossover-review.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
         <loc>https://majordigest.com/tech/2023/08/29/16-attorneys-general-sec-audit-shein-forced-labor/</loc>
         <news:news>
           <news:publication>
@@ -350,6 +350,20 @@
         </news:news>
         <image:image>
           <image:loc>https://majordigest.com/tech/2023/08/29/ask-kurt-maxed-out-your-apple-icloud-storage/ask-kurt-maxed-out-your-apple-icloud-storage.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/tech/2023/08/29/supermoon-could-team-up-with-hurricane-idalia-to-raise-tides-higher-just-as-the-storm-makes-landfall/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-29T19:15:10.000Z</news:publication_date>
+          <news:title>Supermoon could team up with Hurricane Idalia to raise tides higher just as the storm makes landfall</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/tech/2023/08/29/supermoon-could-team-up-with-hurricane-idalia-to-raise-tides-higher-just-as-the-storm-makes-landfall/supermoon-could-team-up-with-hurricane-idalia-to-raise-tides-higher-just-as-the-storm-makes-landfall.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -462,20 +476,6 @@
         </news:news>
         <image:image>
           <image:loc>https://majordigest.com/tech/2023/08/25/los-angeles-solar-ev-chargers-ev-arc-beam-global/los-angeles-solar-ev-chargers-ev-arc-beam-global.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/tech/2023/08/25/workers-win-raises-at-general-motors-joint-venture-battery-plant-in-ohio-as-contract-talks-continue/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-25T00:12:09.000Z</news:publication_date>
-          <news:title>Workers win raises at General Motors joint venture battery plant in Ohio as contract talks continue</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/tech/2023/08/25/workers-win-raises-at-general-motors-joint-venture-battery-plant-in-ohio-as-contract-talks-continue/workers-win-raises-at-general-motors-joint-venture-battery-plant-in-ohio-as-contract-talks-continue.webp</image:loc>
         </image:image>
       </url>
       <url>

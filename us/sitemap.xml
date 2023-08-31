@@ -3,6 +3,20 @@
               xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
               xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
       <url>
+        <loc>https://majordigest.com/us/2023/08/31/at-least-38-people-have-died-in-a-fire-in-a-building-in-south-africas-biggest-city-authorities-say/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-31T08:59:06.000Z</news:publication_date>
+          <news:title>A building fire in Johannesburg kills at least 73 people, many of them homeless, authorities say</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/us/2023/08/31/at-least-38-people-have-died-in-a-fire-in-a-building-in-south-africas-biggest-city-authorities-say/at-least-38-people-have-died-in-a-fire-in-a-building-in-south-africas-biggest-city-authorities-say.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
         <loc>https://majordigest.com/us/2023/08/31/palestinian-driver-rams-truck-into-pedestrians-at-west-bank-checkpoint-wounding-3/</loc>
         <news:news>
           <news:publication>
@@ -28,20 +42,6 @@
         </news:news>
         <image:image>
           <image:loc>https://majordigest.com/us/2023/08/31/government-incentives-and-cost-conscious-customers-lead-to-electric-vehicle-boom-in-india/government-incentives-and-cost-conscious-customers-lead-to-electric-vehicle-boom-in-india.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/us/2023/08/31/a-fire-kills-15-in-a-philippine-factory-where-rains-and-a-wrong-address-delayed-firefighters/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-31T08:06:47.000Z</news:publication_date>
-          <news:title>Rain and a wrong address delayed firefighters reaching a Philippine factory blaze. 15 people died</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/us/2023/08/31/a-fire-kills-15-in-a-philippine-factory-where-rains-and-a-wrong-address-delayed-firefighters/a-fire-kills-15-in-a-philippine-factory-where-rains-and-a-wrong-address-delayed-firefighters.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -129,31 +129,17 @@
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/us/2023/08/31/alice-cooper-loses-cosmetics-deal-after-remarks-about-trans-people/</loc>
+        <loc>https://majordigest.com/us/2023/08/31/louisiana-woman-stabbed-grandfather-after-grandparents-asked-her-shower-police/</loc>
         <news:news>
           <news:publication>
             <news:name>Major Digest</news:name>
             <news:language>en</news:language>
           </news:publication>
-          <news:publication_date>2023-08-31T03:02:34.000Z</news:publication_date>
-          <news:title>Alice Cooper loses cosmetics deal after remarks about trans people</news:title>
+          <news:publication_date>2023-08-31T03:56:22.000Z</news:publication_date>
+          <news:title>Louisiana woman stabbed grandfather in the face after grandparents &#8216;asked her to shower&#8217;: Police</news:title>
         </news:news>
         <image:image>
-          <image:loc>https://majordigest.com/us/2023/08/31/alice-cooper-loses-cosmetics-deal-after-remarks-about-trans-people/alice-cooper-loses-cosmetics-deal-after-remarks-about-trans-people.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/us/2023/08/31/dc-teens-captured-video-attempted-carjacking-grubhub-driver-arrested-charged-robbery-spree/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-31T02:04:53.000Z</news:publication_date>
-          <news:title>DC teens captured on video in attempted carjacking of Grubhub driver arrested, charged in robbery spree</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/us/2023/08/31/dc-teens-captured-video-attempted-carjacking-grubhub-driver-arrested-charged-robbery-spree/dc-teens-captured-video-attempted-carjacking-grubhub-driver-arrested-charged-robbery-spree.webp</image:loc>
+          <image:loc>https://majordigest.com/us/2023/08/31/louisiana-woman-stabbed-grandfather-after-grandparents-asked-her-shower-police/louisiana-woman-stabbed-grandfather-after-grandparents-asked-her-shower-police.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -199,20 +185,6 @@
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/us/2023/08/31/car-weak-tornado-south-carolina/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-31T00:29:50.000Z</news:publication_date>
-          <news:title>Video: Car flipped by weak tornado in South Carolina, police say</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/us/2023/08/31/car-weak-tornado-south-carolina/car-weak-tornado-south-carolina.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
         <loc>https://majordigest.com/us/2023/08/30/this-is-how-much-singles-need-to-live-comfortably-in-every-state/</loc>
         <news:news>
           <news:publication>
@@ -241,6 +213,48 @@
         </image:image>
       </url>
       <url>
+        <loc>https://majordigest.com/us/2023/08/30/video-car-flipped-by-weak-tornado-in-south-carolina-police-say/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-30T22:49:14.000Z</news:publication_date>
+          <news:title>Video: Car flipped by weak tornado in South Carolina, police say</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/us/2023/08/30/video-car-flipped-by-weak-tornado-in-south-carolina-police-say/video-car-flipped-by-weak-tornado-in-south-carolina-police-say.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/us/2023/08/30/hurricane-idalia-causes-100-year-old-oak-tree-to-split-fall-on-gov-desantis-mansion/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-30T22:38:00.000Z</news:publication_date>
+          <news:title>Hurricane Idalia causes 100-year-old oak tree to split, fall on Gov. DeSantis' mansion</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/us/2023/08/30/hurricane-idalia-causes-100-year-old-oak-tree-to-split-fall-on-gov-desantis-mansion/hurricane-idalia-causes-100-year-old-oak-tree-to-split-fall-on-gov-desantis-mansion.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/us/2023/08/30/university-of-north-carolina-students-rally-for-gun-safety-after-fatal-shooting-of-faculty-member/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-30T22:28:02.000Z</news:publication_date>
+          <news:title>University of North Carolina students rally for gun safety after fatal shooting of faculty member</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/us/2023/08/30/university-of-north-carolina-students-rally-for-gun-safety-after-fatal-shooting-of-faculty-member/university-of-north-carolina-students-rally-for-gun-safety-after-fatal-shooting-of-faculty-member.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
         <loc>https://majordigest.com/us/2023/08/30/late-night-hosts-team-up-for-strike-force-five-podcast-to-benefit-their-out-of-work-staff/</loc>
         <news:news>
           <news:publication>
@@ -252,20 +266,6 @@
         </news:news>
         <image:image>
           <image:loc>https://majordigest.com/us/2023/08/30/late-night-hosts-team-up-for-strike-force-five-podcast-to-benefit-their-out-of-work-staff/late-night-hosts-team-up-for-strike-force-five-podcast-to-benefit-their-out-of-work-staff.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/us/2023/08/30/biden-warns-idalia-still-dangerous-says-he-hasnt-forgotten-about-the-victims-of-hawaiis-wildfires/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-30T22:03:01.000Z</news:publication_date>
-          <news:title>Biden warns Idalia still dangerous, says he hasn't forgotten about the victims of Hawaii's wildfires</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/us/2023/08/30/biden-warns-idalia-still-dangerous-says-he-hasnt-forgotten-about-the-victims-of-hawaiis-wildfires/biden-warns-idalia-still-dangerous-says-he-hasnt-forgotten-about-the-victims-of-hawaiis-wildfires.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -367,6 +367,34 @@
         </image:image>
       </url>
       <url>
+        <loc>https://majordigest.com/us/2023/08/30/fatal-shooting-of-college-student-who-tried-entering-wrong-home-justifiable-south-carolina-authorities/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-30T20:32:26.000Z</news:publication_date>
+          <news:title>Fatal shooting of college student who tried entering wrong home 'justifiable': South Carolina authorities</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/us/2023/08/30/fatal-shooting-of-college-student-who-tried-entering-wrong-home-justifiable-south-carolina-authorities/fatal-shooting-of-college-student-who-tried-entering-wrong-home-justifiable-south-carolina-authorities.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/us/2023/08/30/person-gets-sick-dies-from-amebic-infection-after-swimming-in-texas-lake/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-30T20:06:18.000Z</news:publication_date>
+          <news:title>Person gets sick, dies from amebic infection after swimming in Texas lake</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/us/2023/08/30/person-gets-sick-dies-from-amebic-infection-after-swimming-in-texas-lake/person-gets-sick-dies-from-amebic-infection-after-swimming-in-texas-lake.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
         <loc>https://majordigest.com/us/2023/08/30/72-million-in-student-loans-canceled-by-biden-administration-who-qualifies/</loc>
         <news:news>
           <news:publication>
@@ -381,17 +409,17 @@
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/us/2023/08/30/judge-enters-default-judgment-against-giuliani-in-defamation-lawsuit-from-georgia-election-workers/</loc>
+        <loc>https://majordigest.com/us/2023/08/30/federal-health-officials-recommend-reclassifying-marijuana/</loc>
         <news:news>
           <news:publication>
             <news:name>Major Digest</news:name>
             <news:language>en</news:language>
           </news:publication>
-          <news:publication_date>2023-08-30T19:35:27.000Z</news:publication_date>
-          <news:title>Judge holds Giuliani liable in Georgia election workers' defamation case for withholding information</news:title>
+          <news:publication_date>2023-08-30T19:34:40.000Z</news:publication_date>
+          <news:title>Federal health officials recommend reclassifying marijuana</news:title>
         </news:news>
         <image:image>
-          <image:loc>https://majordigest.com/us/2023/08/30/judge-enters-default-judgment-against-giuliani-in-defamation-lawsuit-from-georgia-election-workers/judge-enters-default-judgment-against-giuliani-in-defamation-lawsuit-from-georgia-election-workers.webp</image:loc>
+          <image:loc>https://majordigest.com/us/2023/08/30/federal-health-officials-recommend-reclassifying-marijuana/federal-health-officials-recommend-reclassifying-marijuana.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -437,20 +465,6 @@
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/us/2023/08/30/11-taken-to-hospital-as-delta-jetliner-hits-turbulence-near-atlanta-airport/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-30T09:37:21.000Z</news:publication_date>
-          <news:title>11 taken to hospital as Delta jetliner hits turbulence near Atlanta airport</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/us/2023/08/30/11-taken-to-hospital-as-delta-jetliner-hits-turbulence-near-atlanta-airport/11-taken-to-hospital-as-delta-jetliner-hits-turbulence-near-atlanta-airport.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
         <loc>https://majordigest.com/us/2023/08/30/massive-alligator-patiently-waits-outside-dollar-general/</loc>
         <news:news>
           <news:publication>
@@ -462,20 +476,6 @@
         </news:news>
         <image:image>
           <image:loc>https://majordigest.com/us/2023/08/30/massive-alligator-patiently-waits-outside-dollar-general/massive-alligator-patiently-waits-outside-dollar-general.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/us/2023/08/30/canada-warns-residents-visiting-us-about-anti-lgbtq-laws/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-30T00:10:09.000Z</news:publication_date>
-          <news:title>Canada warns residents visiting US about anti-LGBTQ laws</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/us/2023/08/30/canada-warns-residents-visiting-us-about-anti-lgbtq-laws/canada-warns-residents-visiting-us-about-anti-lgbtq-laws.webp</image:loc>
         </image:image>
       </url>
       <url>

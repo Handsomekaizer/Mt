@@ -3,6 +3,20 @@
               xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
               xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
       <url>
+        <loc>https://majordigest.com/politics/2023/08/31/still-no-strong-2024-gop-challenger-for-klobuchar/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-31T09:00:00.000Z</news:publication_date>
+          <news:title>Still no strong 2024 GOP challenger for Klobuchar</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/politics/2023/08/31/still-no-strong-2024-gop-challenger-for-klobuchar/still-no-strong-2024-gop-challenger-for-klobuchar.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
         <loc>https://majordigest.com/politics/2023/08/31/texas-attorney-general-ken-paxton-pursued-perks-beyond-impeachment-allegations-ex-staffers-say/</loc>
         <news:news>
           <news:publication>
@@ -143,20 +157,6 @@
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/politics/2023/08/30/voters-in-one-iowa-county-reject-gop-appointed-auditor-who-posted-about-2020-election-doubts/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-30T23:02:11.000Z</news:publication_date>
-          <news:title>Voters in one Iowa county reject GOP-appointed auditor who posted about 2020 election doubts</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/politics/2023/08/30/voters-in-one-iowa-county-reject-gop-appointed-auditor-who-posted-about-2020-election-doubts/voters-in-one-iowa-county-reject-gop-appointed-auditor-who-posted-about-2020-election-doubts.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
         <loc>https://majordigest.com/politics/2023/08/30/trump-tudor-dixon-abortion-michigan-race/</loc>
         <news:news>
           <news:publication>
@@ -199,20 +199,6 @@
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/politics/2023/08/30/desantis-warns-hurricane-pillagers-florida/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-30T21:48:25.000Z</news:publication_date>
-          <news:title>DeSantis warns hurricane pillagers: 'You loot, we shoot'</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/politics/2023/08/30/desantis-warns-hurricane-pillagers-florida/desantis-warns-hurricane-pillagers-florida.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
         <loc>https://majordigest.com/politics/2023/08/30/newsom-aliso-canyon-dirty-energy-blackouts/</loc>
         <news:news>
           <news:publication>
@@ -241,17 +227,17 @@
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/politics/2023/08/30/giuliani-loses-georgia-election-worker-defamation-suit-by-default-judge-rules/</loc>
+        <loc>https://majordigest.com/politics/2023/08/30/trump-net-worth-fraud-trial/</loc>
         <news:news>
           <news:publication>
             <news:name>Major Digest</news:name>
             <news:language>en</news:language>
           </news:publication>
-          <news:publication_date>2023-08-30T19:47:41.000Z</news:publication_date>
-          <news:title>Giuliani loses Georgia election worker defamation suit by default, judge rules</news:title>
+          <news:publication_date>2023-08-30T20:46:36.000Z</news:publication_date>
+          <news:title>Trump fraudulently inflated his net worth by billions of dollars, New York AG says</news:title>
         </news:news>
         <image:image>
-          <image:loc>https://majordigest.com/politics/2023/08/30/giuliani-loses-georgia-election-worker-defamation-suit-by-default-judge-rules/giuliani-loses-georgia-election-worker-defamation-suit-by-default-judge-rules.webp</image:loc>
+          <image:loc>https://majordigest.com/politics/2023/08/30/trump-net-worth-fraud-trial/trump-net-worth-fraud-trial.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -269,20 +255,6 @@
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/politics/2023/08/30/katie-porter-makes-campaign-stop-in-sf-mission-district/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-30T17:41:17.000Z</news:publication_date>
-          <news:title>Katie Porter makes campaign stop in SF Mission District</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/politics/2023/08/30/katie-porter-makes-campaign-stop-in-sf-mission-district/katie-porter-makes-campaign-stop-in-sf-mission-district.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
         <loc>https://majordigest.com/politics/2023/08/30/judge-blocks-new-texas-law-that-would-erode-cities-power-to-enact-local-rules/</loc>
         <news:news>
           <news:publication>
@@ -297,6 +269,34 @@
         </image:image>
       </url>
       <url>
+        <loc>https://majordigest.com/politics/2023/08/30/desantis-holds-news-conference-before-hurricane-idalia-makes-landfall/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-30T10:02:53.000Z</news:publication_date>
+          <news:title>DeSantis discusses state response after Idalia makes landfall</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/politics/2023/08/30/desantis-holds-news-conference-before-hurricane-idalia-makes-landfall/desantis-holds-news-conference-before-hurricane-idalia-makes-landfall.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/politics/2023/08/30/new-texas-law-increases-hospital-notice-before-removing-patients-from-life-support/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-30T10:00:00.000Z</news:publication_date>
+          <news:title>New Texas law increases hospital notice before removing patients from life support</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/politics/2023/08/30/new-texas-law-increases-hospital-notice-before-removing-patients-from-life-support/new-texas-law-increases-hospital-notice-before-removing-patients-from-life-support.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
         <loc>https://majordigest.com/politics/2023/08/30/police-departments-pull-school-officers-due-to-mn-restraint-law/</loc>
         <news:news>
           <news:publication>
@@ -308,6 +308,20 @@
         </news:news>
         <image:image>
           <image:loc>https://majordigest.com/politics/2023/08/30/police-departments-pull-school-officers-due-to-mn-restraint-law/police-departments-pull-school-officers-due-to-mn-restraint-law.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/politics/2023/08/30/ex-proud-boys-leader-enrique-tarrio-to-be-sentenced-for-seditious-conspiracy-in-jan-6-attack/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-30T04:05:44.000Z</news:publication_date>
+          <news:title>Judge's illness delays sentencing for ex-Proud Boys leader Enrique Tarrio in Jan. 6 case</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/politics/2023/08/30/ex-proud-boys-leader-enrique-tarrio-to-be-sentenced-for-seditious-conspiracy-in-jan-6-attack/ex-proud-boys-leader-enrique-tarrio-to-be-sentenced-for-seditious-conspiracy-in-jan-6-attack.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -381,17 +395,17 @@
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/politics/2023/08/29/morris-is-a-small-minnesota-town-with-big-climate-goals/</loc>
+        <loc>https://majordigest.com/politics/2023/08/29/npr-rudy-giuliani-rico-origin-story/</loc>
         <news:news>
           <news:publication>
             <news:name>Major Digest</news:name>
             <news:language>en</news:language>
           </news:publication>
-          <news:publication_date>2023-08-29T09:00:00.000Z</news:publication_date>
-          <news:title>Morris is a small Minnesota town with big climate goals</news:title>
+          <news:publication_date>2023-08-29T09:01:00.000Z</news:publication_date>
+          <news:title>It's time to rethink Rudy Giuliani and his claim to discover RICO</news:title>
         </news:news>
         <image:image>
-          <image:loc>https://majordigest.com/politics/2023/08/29/morris-is-a-small-minnesota-town-with-big-climate-goals/morris-is-a-small-minnesota-town-with-big-climate-goals.webp</image:loc>
+          <image:loc>https://majordigest.com/politics/2023/08/29/npr-rudy-giuliani-rico-origin-story/npr-rudy-giuliani-rico-origin-story.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -448,20 +462,6 @@
         </news:news>
         <image:image>
           <image:loc>https://majordigest.com/politics/2023/08/26/gop-presidential-candidate-vivek-ramaswamy-is-an-unaffiliated-voter-nbc-reports/gop-presidential-candidate-vivek-ramaswamy-is-an-unaffiliated-voter-nbc-reports.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/politics/2023/08/25/new-york-man-sentenced-to-3-months-in-prison-for-making-threatening-phone-calls-to-rep-marjorie-taylor-greene/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-25T19:49:09.000Z</news:publication_date>
-          <news:title>NY man sentenced to prison for making threatening&#160;phone calls to Rep. Marjorie Taylor Greene</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/politics/2023/08/25/new-york-man-sentenced-to-3-months-in-prison-for-making-threatening-phone-calls-to-rep-marjorie-taylor-greene/new-york-man-sentenced-to-3-months-in-prison-for-making-threatening-phone-calls-to-rep-marjorie-taylor-greene.webp</image:loc>
         </image:image>
       </url>
       <url>
