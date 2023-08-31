@@ -3,6 +3,62 @@
               xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
               xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
       <url>
+        <loc>https://majordigest.com/politics/2023/08/31/trump-offers-advice-ramaswamy-be-a-little-bit-careful/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-31T00:55:27.000Z</news:publication_date>
+          <news:title>Trump offers advice to Ramaswamy: 'Be a little bit careful' with what you say so you aren't 'controversial'</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/politics/2023/08/31/trump-offers-advice-ramaswamy-be-a-little-bit-careful/trump-offers-advice-ramaswamy-be-a-little-bit-careful.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/politics/2023/08/31/biden-observe-upcoming-9-11-anniversary-alaska-departure-tradition/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-31T00:14:08.000Z</news:publication_date>
+          <news:title>Biden to observe upcoming 9/11 anniversary in Alaska in departure from tradition</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/politics/2023/08/31/biden-observe-upcoming-9-11-anniversary-alaska-departure-tradition/biden-observe-upcoming-9-11-anniversary-alaska-departure-tradition.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/politics/2023/08/30/whitmer-calls-michigans-democratic-legislature-advance-healthcare-climate-bills/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-30T23:46:43.000Z</news:publication_date>
+          <news:title>Whitmer calls on Michigan's Democratic Legislature to advance healthcare, climate bills</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/politics/2023/08/30/whitmer-calls-michigans-democratic-legislature-advance-healthcare-climate-bills/whitmer-calls-michigans-democratic-legislature-advance-healthcare-climate-bills.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/politics/2023/08/30/white-house-snaps-reporter-hurricane-idalia-response-compared-maui-your-question-is-wrong/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-30T23:31:59.000Z</news:publication_date>
+          <news:title>White House snaps at reporter when Hurricane Idalia response is compared to Maui: 'Your question is wrong'</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/politics/2023/08/30/white-house-snaps-reporter-hurricane-idalia-response-compared-maui-your-question-is-wrong/white-house-snaps-reporter-hurricane-idalia-response-compared-maui-your-question-is-wrong.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
         <loc>https://majordigest.com/politics/2023/08/30/trump-tudor-dixon-abortion-michigan-race/</loc>
         <news:news>
           <news:publication>
@@ -31,34 +87,6 @@
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/politics/2023/08/30/desantis-gives-stern-warning-looters-after-idalia-you-loot-we-shoot/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-30T22:31:50.000Z</news:publication_date>
-          <news:title>DeSantis gives stern warning to would-be looters after Idalia: 'You loot, we shoot'</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/politics/2023/08/30/desantis-gives-stern-warning-looters-after-idalia-you-loot-we-shoot/desantis-gives-stern-warning-looters-after-idalia-you-loot-we-shoot.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/politics/2023/08/30/biden-warns-maui-residents-recovery-take-time-recalls-kitchen-fire-displaced-months/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-30T22:13:06.000Z</news:publication_date>
-          <news:title>Biden warns Maui residents recovery will take time, recalls kitchen fire that displaced him for 7 months</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/politics/2023/08/30/biden-warns-maui-residents-recovery-take-time-recalls-kitchen-fire-displaced-months/biden-warns-maui-residents-recovery-take-time-recalls-kitchen-fire-displaced-months.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
         <loc>https://majordigest.com/politics/2023/08/30/mcconnell-second-public-freeze/</loc>
         <news:news>
           <news:publication>
@@ -70,20 +98,6 @@
         </news:news>
         <image:image>
           <image:loc>https://majordigest.com/politics/2023/08/30/mcconnell-second-public-freeze/mcconnell-second-public-freeze.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/politics/2023/08/30/cori-bush-faces-increased-pressure-campaign-payments-husband-security-services/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-30T22:00:11.000Z</news:publication_date>
-          <news:title>'Squad' Rep. Cori Bush faces increased pressure over campaign payments to husband for security services</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/politics/2023/08/30/cori-bush-faces-increased-pressure-campaign-payments-husband-security-services/cori-bush-faces-increased-pressure-campaign-payments-husband-security-services.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -112,20 +126,6 @@
         </news:news>
         <image:image>
           <image:loc>https://majordigest.com/politics/2023/08/30/senate-gop-leader-mitch-mcconnell-appears-to-freeze-up-again-this-time-at-a-kentucky-event/senate-gop-leader-mitch-mcconnell-appears-to-freeze-up-again-this-time-at-a-kentucky-event.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/politics/2023/08/30/biden-admin-hit-lawsuit-restricting-oil-gas-production-put-american-jobs-risk/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-30T21:41:16.000Z</news:publication_date>
-          <news:title>Biden admin hit with lawsuit for restricting oil, gas production: 'Put American jobs at risk'</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/politics/2023/08/30/biden-admin-hit-lawsuit-restricting-oil-gas-production-put-american-jobs-risk/biden-admin-hit-lawsuit-restricting-oil-gas-production-put-american-jobs-risk.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -227,6 +227,34 @@
         </image:image>
       </url>
       <url>
+        <loc>https://majordigest.com/politics/2023/08/30/judge-blocks-new-texas-law-that-would-erode-cities-power-to-enact-local-rules/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-30T17:04:09.000Z</news:publication_date>
+          <news:title>Judge declares new Texas law that would erode cities&#8217; power to enact local rules unconstitutional</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/politics/2023/08/30/judge-blocks-new-texas-law-that-would-erode-cities-power-to-enact-local-rules/judge-blocks-new-texas-law-that-would-erode-cities-power-to-enact-local-rules.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/politics/2023/08/30/ramaswamy-supports-full-ufo-disclosure-we-can-handle-the-truth/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-30T15:28:04.000Z</news:publication_date>
+          <news:title>Ramaswamy supports full UFO disclosure: &#8216;We can handle the truth&#8217;</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/politics/2023/08/30/ramaswamy-supports-full-ufo-disclosure-we-can-handle-the-truth/ramaswamy-supports-full-ufo-disclosure-we-can-handle-the-truth.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
         <loc>https://majordigest.com/politics/2023/08/30/white-house-says-putin-and-kim-jong-un-traded-letters-as-russia-looks-for-munitions-from-north-korea-2/</loc>
         <news:news>
           <news:publication>
@@ -238,20 +266,6 @@
         </news:news>
         <image:image>
           <image:loc>https://majordigest.com/politics/2023/08/30/white-house-says-putin-and-kim-jong-un-traded-letters-as-russia-looks-for-munitions-from-north-korea-2/white-house-says-putin-and-kim-jong-un-traded-letters-as-russia-looks-for-munitions-from-north-korea-2.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/politics/2023/08/30/giuliani-loses-georgia-election-worker-defamation-suit-by-default-judge-rules/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-30T15:26:48.000Z</news:publication_date>
-          <news:title>Giuliani loses Georgia election worker defamation suit by default, judge rules</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/politics/2023/08/30/giuliani-loses-georgia-election-worker-defamation-suit-by-default-judge-rules/giuliani-loses-georgia-election-worker-defamation-suit-by-default-judge-rules.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -294,20 +308,6 @@
         </news:news>
         <image:image>
           <image:loc>https://majordigest.com/politics/2023/08/30/police-departments-pull-school-officers-due-to-mn-restraint-law/police-departments-pull-school-officers-due-to-mn-restraint-law.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/politics/2023/08/29/california-senate-elects-new-leader/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-29T22:44:23.000Z</news:publication_date>
-          <news:title>California Senate elects new leader</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/politics/2023/08/29/california-senate-elects-new-leader/california-senate-elects-new-leader.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -423,17 +423,17 @@
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/politics/2023/08/28/adam-schiff-visits-half-moon-bay-to-shed-light-on-farmworker-conditions/</loc>
+        <loc>https://majordigest.com/politics/2023/08/28/biden-approves-emergency-declaration-for-florida-ahead-of-t-s-idalia/</loc>
         <news:news>
           <news:publication>
             <news:name>Major Digest</news:name>
             <news:language>en</news:language>
           </news:publication>
-          <news:publication_date>2023-08-28T20:28:33.000Z</news:publication_date>
-          <news:title>Adam Schiff visits Half Moon Bay to shed light on farmworker conditions</news:title>
+          <news:publication_date>2023-08-28T16:30:03.000Z</news:publication_date>
+          <news:title>Biden approves Emergency Declaration for Florida ahead of T.S. Idalia</news:title>
         </news:news>
         <image:image>
-          <image:loc>https://majordigest.com/politics/2023/08/28/adam-schiff-visits-half-moon-bay-to-shed-light-on-farmworker-conditions/adam-schiff-visits-half-moon-bay-to-shed-light-on-farmworker-conditions.webp</image:loc>
+          <image:loc>https://majordigest.com/politics/2023/08/28/biden-approves-emergency-declaration-for-florida-ahead-of-t-s-idalia/biden-approves-emergency-declaration-for-florida-ahead-of-t-s-idalia.webp</image:loc>
         </image:image>
       </url>
       <url>

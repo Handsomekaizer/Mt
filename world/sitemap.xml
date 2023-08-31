@@ -3,6 +3,62 @@
               xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
               xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
       <url>
+        <loc>https://majordigest.com/world/2023/08/30/us-asks-mexico-investigate-labor-rights-cargo-airline-trade-agreement/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-30T23:55:50.000Z</news:publication_date>
+          <news:title>US asks Mexico to investigate labor rights at cargo airline under trade agreement</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/world/2023/08/30/us-asks-mexico-investigate-labor-rights-cargo-airline-trade-agreement/us-asks-mexico-investigate-labor-rights-cargo-airline-trade-agreement.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/world/2023/08/30/iata-calls-mexican-government-seek-alternatives-proposed-flight-cuts-mexico-city-airport/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-30T23:54:09.000Z</news:publication_date>
+          <news:title>IATA calls on Mexican government to seek alternatives to proposed flight cuts at Mexico City airport</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/world/2023/08/30/iata-calls-mexican-government-seek-alternatives-proposed-flight-cuts-mexico-city-airport/iata-calls-mexican-government-seek-alternatives-proposed-flight-cuts-mexico-city-airport.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/world/2023/08/30/quite-scene-5-million-bees-loose-falling-truck-toronto/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-30T23:36:21.000Z</news:publication_date>
+          <news:title>'Quite the scene': 5 million bees loose after falling off truck outside Toronto</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/world/2023/08/30/quite-scene-5-million-bees-loose-falling-truck-toronto/quite-scene-5-million-bees-loose-falling-truck-toronto.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/world/2023/08/30/168-migrants-return-senegal-mauritania-refuses-accept-boat/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-30T23:34:53.000Z</news:publication_date>
+          <news:title>168 migrants return to Senegal after Mauritania refuses to accept boat</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/world/2023/08/30/168-migrants-return-senegal-mauritania-refuses-accept-boat/168-migrants-return-senegal-mauritania-refuses-accept-boat.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
         <loc>https://majordigest.com/world/2023/08/30/gabon-military-officers-say-theyre-seizing-power-just-days-after-the-presidential-election/</loc>
         <news:news>
           <news:publication>
@@ -45,48 +101,6 @@
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/world/2023/08/30/nearly-third-18-year-old-women-japan-may-children-highlighting-population-concerns/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-30T20:33:08.000Z</news:publication_date>
-          <news:title>Nearly one-third of 18-year-old women in Japan may never have children, highlighting population concerns</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/world/2023/08/30/nearly-third-18-year-old-women-japan-may-children-highlighting-population-concerns/nearly-third-18-year-old-women-japan-may-children-highlighting-population-concerns.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/world/2023/08/30/freefall-elevator-suddenly-takes-plunge-china-injuring-three-people/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-30T20:29:52.000Z</news:publication_date>
-          <news:title>Freefall: Elevator suddenly takes plunge in China apartment building, injuring three people</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/world/2023/08/30/freefall-elevator-suddenly-takes-plunge-china-injuring-three-people/freefall-elevator-suddenly-takes-plunge-china-injuring-three-people.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/world/2023/08/30/hurricane-franklin-category-2-storm-approaches-bermuda/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-30T20:25:57.000Z</news:publication_date>
-          <news:title>Hurricane Franklin, a Category 2 storm, approaches Bermuda</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/world/2023/08/30/hurricane-franklin-category-2-storm-approaches-bermuda/hurricane-franklin-category-2-storm-approaches-bermuda.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
         <loc>https://majordigest.com/world/2023/08/30/drones-targeted-5-regions-in-biggest-attack-on-russian-soil-in-18-months-defense-ministry-says/</loc>
         <news:news>
           <news:publication>
@@ -98,20 +112,6 @@
         </news:news>
         <image:image>
           <image:loc>https://majordigest.com/world/2023/08/30/drones-targeted-5-regions-in-biggest-attack-on-russian-soil-in-18-months-defense-ministry-says/drones-targeted-5-regions-in-biggest-attack-on-russian-soil-in-18-months-defense-ministry-says.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/world/2023/08/30/england-accelerates-vaccine-programs-due-to-new-covid-variant/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-30T19:28:43.000Z</news:publication_date>
-          <news:title>England accelerates vaccine programs due to new COVID variant</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/world/2023/08/30/england-accelerates-vaccine-programs-due-to-new-covid-variant/england-accelerates-vaccine-programs-due-to-new-covid-variant.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -276,7 +276,7 @@
             <news:language>en</news:language>
           </news:publication>
           <news:publication_date>2023-08-30T12:24:14.000Z</news:publication_date>
-          <news:title>Israeli police kill Palestinian teen assailant after stabbing. Israelis hurt in West Bank bombing</news:title>
+          <news:title>In latest violence, Israeli police kill Palestinian teen assailant and West Bank bomb hurts Israelis</news:title>
         </news:news>
         <image:image>
           <image:loc>https://majordigest.com/world/2023/08/30/palestinians-clash-with-own-security-forces-in-a-west-bank-refugee-camp-leaving-1-dead/palestinians-clash-with-own-security-forces-in-a-west-bank-refugee-camp-leaving-1-dead.webp</image:loc>
@@ -339,17 +339,17 @@
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/world/2023/08/29/us-marines-killed-in-australian-aircraft-crash-were-from-illinois-virginia-and-colorado/</loc>
+        <loc>https://majordigest.com/world/2023/08/29/neurosurgeon-investigating-patients-mystery-symptoms-plucks-worm-from-womans-brain/</loc>
         <news:news>
           <news:publication>
             <news:name>Major Digest</news:name>
             <news:language>en</news:language>
           </news:publication>
-          <news:publication_date>2023-08-29T01:55:12.000Z</news:publication_date>
-          <news:title>US Marines killed in Australian aircraft crash were from Illinois, Virginia and Colorado</news:title>
+          <news:publication_date>2023-08-29T10:07:27.000Z</news:publication_date>
+          <news:title>Neurosurgeon investigating patient's mystery symptoms plucks worm from woman's brain</news:title>
         </news:news>
         <image:image>
-          <image:loc>https://majordigest.com/world/2023/08/29/us-marines-killed-in-australian-aircraft-crash-were-from-illinois-virginia-and-colorado/us-marines-killed-in-australian-aircraft-crash-were-from-illinois-virginia-and-colorado.webp</image:loc>
+          <image:loc>https://majordigest.com/world/2023/08/29/neurosurgeon-investigating-patients-mystery-symptoms-plucks-worm-from-womans-brain/neurosurgeon-investigating-patients-mystery-symptoms-plucks-worm-from-womans-brain.webp</image:loc>
         </image:image>
       </url>
       <url>
