@@ -3,6 +3,104 @@
               xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
               xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
       <url>
+        <loc>https://majordigest.com/politics/2023/08/31/conservative-group-urges-republicans-to-reject-border-trap-in-biden-admin-funding-request/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-31T16:12:58.000Z</news:publication_date>
+          <news:title>Conservative group urges Republicans to reject 'border trap' in Biden admin funding request: 'cynical ploy'</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/politics/2023/08/31/conservative-group-urges-republicans-to-reject-border-trap-in-biden-admin-funding-request/conservative-group-urges-republicans-to-reject-border-trap-in-biden-admin-funding-request.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/politics/2023/08/31/financial-disclosures-clarence-thomas-samuel-alito-scotus/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-31T15:38:08.000Z</news:publication_date>
+          <news:title>Read the financial disclosures from Justices Clarence Thomas and Samuel Alito</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/politics/2023/08/31/financial-disclosures-clarence-thomas-samuel-alito-scotus/financial-disclosures-clarence-thomas-samuel-alito-scotus.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/politics/2023/08/31/trump-pleads-not-guilty-georgia-election-case-waives-arraignment/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-31T15:36:23.000Z</news:publication_date>
+          <news:title>Trump pleads not guilty in Georgia election case, waives arraignment</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/politics/2023/08/31/trump-pleads-not-guilty-georgia-election-case-waives-arraignment/trump-pleads-not-guilty-georgia-election-case-waives-arraignment.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/politics/2023/08/31/trump-georgia-not-guilty-plea/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-31T15:34:52.000Z</news:publication_date>
+          <news:title>Trump pleads 'not guilty' in Georgia racketeering case</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/politics/2023/08/31/trump-georgia-not-guilty-plea/trump-georgia-not-guilty-plea.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/politics/2023/08/31/austin-crime-victims-mother-rips-city-council-cowards-defunding-police-turning-citizens-into-targets/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-31T15:22:44.000Z</news:publication_date>
+          <news:title>Austin crime victim's mother rips city council 'cowards' for defunding police, turning citizens into 'targets'</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/politics/2023/08/31/austin-crime-victims-mother-rips-city-council-cowards-defunding-police-turning-citizens-into-targets/austin-crime-victims-mother-rips-city-council-cowards-defunding-police-turning-citizens-into-targets.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/politics/2023/08/31/mitch-mcconnell-resign-tomorrow-bill-oreilly/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-31T15:20:55.000Z</news:publication_date>
+          <news:title>Mitch McConnell should resign 'tomorrow,' Bill O'Reilly says</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/politics/2023/08/31/mitch-mcconnell-resign-tomorrow-bill-oreilly/mitch-mcconnell-resign-tomorrow-bill-oreilly.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/politics/2023/08/31/trump-pleads-not-guilty-in-georgia-waives-arraignment/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-31T15:20:38.000Z</news:publication_date>
+          <news:title>Trump pleads not guilty in Georgia, waives arraignment</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/politics/2023/08/31/trump-pleads-not-guilty-in-georgia-waives-arraignment/trump-pleads-not-guilty-in-georgia-waives-arraignment.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
         <loc>https://majordigest.com/politics/2023/08/31/gold-star-families-vow-keep-up-fight-accountability-over-abbey-gate-attack-after-emotional-hearing/</loc>
         <news:news>
           <news:publication>
@@ -14,6 +112,20 @@
         </news:news>
         <image:image>
           <image:loc>https://majordigest.com/politics/2023/08/31/gold-star-families-vow-keep-up-fight-accountability-over-abbey-gate-attack-after-emotional-hearing/gold-star-families-vow-keep-up-fight-accountability-over-abbey-gate-attack-after-emotional-hearing.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/politics/2023/08/31/texas-attorney-general-ken-paxton-pursued-perks-beyond-impeachment-allegations-ex-staffers-say/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-31T14:51:00.000Z</news:publication_date>
+          <news:title>Texas Attorney General Ken Paxton pursued perks beyond impeachment allegations, ex-staffers say</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/politics/2023/08/31/texas-attorney-general-ken-paxton-pursued-perks-beyond-impeachment-allegations-ex-staffers-say/texas-attorney-general-ken-paxton-pursued-perks-beyond-impeachment-allegations-ex-staffers-say.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -45,31 +157,17 @@
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/politics/2023/08/31/biden-marks-2nd-anniversary-botched-afghan-withdrawal-touts-one-largest-airlifts-history/</loc>
+        <loc>https://majordigest.com/politics/2023/08/31/white-house-asks-congress-to-pass-short-term-funding-to-keep-government-operating-official-tells-ap/</loc>
         <news:news>
           <news:publication>
             <news:name>Major Digest</news:name>
             <news:language>en</news:language>
           </news:publication>
-          <news:publication_date>2023-08-31T14:34:32.000Z</news:publication_date>
-          <news:title>Biden marks 2nd anniversary of botched Afghan withdrawal, touts it as &#8216;one of the largest airlifts in history&#8217;</news:title>
+          <news:publication_date>2023-08-31T14:30:03.000Z</news:publication_date>
+          <news:title>White House asks Congress to pass short-term funding to keep government operating, official tells AP</news:title>
         </news:news>
         <image:image>
-          <image:loc>https://majordigest.com/politics/2023/08/31/biden-marks-2nd-anniversary-botched-afghan-withdrawal-touts-one-largest-airlifts-history/biden-marks-2nd-anniversary-botched-afghan-withdrawal-touts-one-largest-airlifts-history.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/politics/2023/08/31/haley-ramaswamys-feud-intensifies-compares-israel-policies-aoc-far-left-squad/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-31T14:18:16.000Z</news:publication_date>
-          <news:title>Haley, Ramaswamy&#8217;s feud intensifies after she compares his Israel policies to AOC and far-left 'Squad'</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/politics/2023/08/31/haley-ramaswamys-feud-intensifies-compares-israel-policies-aoc-far-left-squad/haley-ramaswamys-feud-intensifies-compares-israel-policies-aoc-far-left-squad.webp</image:loc>
+          <image:loc>https://majordigest.com/politics/2023/08/31/white-house-asks-congress-to-pass-short-term-funding-to-keep-government-operating-official-tells-ap/white-house-asks-congress-to-pass-short-term-funding-to-keep-government-operating-official-tells-ap.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -87,20 +185,6 @@
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/politics/2023/08/31/republican-pull-taxpayer-cash-schools-gender-ideology-sexual-material/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-31T14:03:36.000Z</news:publication_date>
-          <news:title>Top Republican calls to pull taxpayer cash from schools promoting 'gender ideology' and 'sexual material'</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/politics/2023/08/31/republican-pull-taxpayer-cash-schools-gender-ideology-sexual-material/republican-pull-taxpayer-cash-schools-gender-ideology-sexual-material.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
         <loc>https://majordigest.com/politics/2023/08/31/building-fire-johannesburg-deaths/</loc>
         <news:news>
           <news:publication>
@@ -112,6 +196,20 @@
         </news:news>
         <image:image>
           <image:loc>https://majordigest.com/politics/2023/08/31/building-fire-johannesburg-deaths/building-fire-johannesburg-deaths.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/politics/2023/08/31/senate-gop-leader-mitch-mcconnell-appears-to-freeze-up-again-this-time-at-a-kentucky-event/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-31T10:43:03.000Z</news:publication_date>
+          <news:title>Senate GOP leader Mitch McConnell appears to freeze up again, this time at a Kentucky event</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/politics/2023/08/31/senate-gop-leader-mitch-mcconnell-appears-to-freeze-up-again-this-time-at-a-kentucky-event/senate-gop-leader-mitch-mcconnell-appears-to-freeze-up-again-this-time-at-a-kentucky-event.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -129,45 +227,31 @@
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/politics/2023/08/31/mayor-adams-calls-for-help-getting-migrants-expedited-work-authorization/</loc>
+        <loc>https://majordigest.com/politics/2023/08/31/looming-auto-strike-puts-bidens-labor-loyalty-to-the-test/</loc>
         <news:news>
           <news:publication>
             <news:name>Major Digest</news:name>
             <news:language>en</news:language>
           </news:publication>
-          <news:publication_date>2023-08-31T10:36:07.000Z</news:publication_date>
-          <news:title>Mayor Adams calls for help getting migrants expedited work authorization</news:title>
+          <news:publication_date>2023-08-31T10:29:20.000Z</news:publication_date>
+          <news:title>Looming auto strike puts Biden's labor loyalty to the test</news:title>
         </news:news>
         <image:image>
-          <image:loc>https://majordigest.com/politics/2023/08/31/mayor-adams-calls-for-help-getting-migrants-expedited-work-authorization/mayor-adams-calls-for-help-getting-migrants-expedited-work-authorization.webp</image:loc>
+          <image:loc>https://majordigest.com/politics/2023/08/31/looming-auto-strike-puts-bidens-labor-loyalty-to-the-test/looming-auto-strike-puts-bidens-labor-loyalty-to-the-test.webp</image:loc>
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/politics/2023/08/31/white-house-warns-gop-biden-impeachment-will-backfire/</loc>
+        <loc>https://majordigest.com/politics/2023/08/31/npr-biden-air-force-one-short-stairs/</loc>
         <news:news>
           <news:publication>
             <news:name>Major Digest</news:name>
             <news:language>en</news:language>
           </news:publication>
-          <news:publication_date>2023-08-31T10:27:41.000Z</news:publication_date>
-          <news:title>White House warns GOP Biden impeachment will backfire</news:title>
+          <news:publication_date>2023-08-31T10:05:00.000Z</news:publication_date>
+          <news:title>Why Biden is now routinely taking the short stairs up to Air Force One</news:title>
         </news:news>
         <image:image>
-          <image:loc>https://majordigest.com/politics/2023/08/31/white-house-warns-gop-biden-impeachment-will-backfire/white-house-warns-gop-biden-impeachment-will-backfire.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/politics/2023/08/31/gop-long-shots-face-steep-hurdles-ahead-of-second-debate/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-31T10:26:45.000Z</news:publication_date>
-          <news:title>GOP long shots face steep hurdles ahead of second debate</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/politics/2023/08/31/gop-long-shots-face-steep-hurdles-ahead-of-second-debate/gop-long-shots-face-steep-hurdles-ahead-of-second-debate.webp</image:loc>
+          <image:loc>https://majordigest.com/politics/2023/08/31/npr-biden-air-force-one-short-stairs/npr-biden-air-force-one-short-stairs.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -185,20 +269,6 @@
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/politics/2023/08/31/still-no-strong-2024-gop-challenger-for-klobuchar/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-31T09:00:00.000Z</news:publication_date>
-          <news:title>Still no strong 2024 GOP challenger for Amy Klobuchar</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/politics/2023/08/31/still-no-strong-2024-gop-challenger-for-klobuchar/still-no-strong-2024-gop-challenger-for-klobuchar.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
         <loc>https://majordigest.com/politics/2023/08/31/npr-trump-hiv-aids-epidemic-defund-house-republicans/</loc>
         <news:news>
           <news:publication>
@@ -213,20 +283,6 @@
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/politics/2023/08/31/dianne-feinstein-trust-dispute/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-31T08:30:00.000Z</news:publication_date>
-          <news:title>Feinstein is a silent character in her sad and messy final chapter</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/politics/2023/08/31/dianne-feinstein-trust-dispute/dianne-feinstein-trust-dispute.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
         <loc>https://majordigest.com/politics/2023/08/31/mortgage-housing-bank-cops/</loc>
         <news:news>
           <news:publication>
@@ -238,6 +294,20 @@
         </news:news>
         <image:image>
           <image:loc>https://majordigest.com/politics/2023/08/31/mortgage-housing-bank-cops/mortgage-housing-bank-cops.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/politics/2023/08/31/dianne-feinstein-trust-dispute/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-31T08:30:00.000Z</news:publication_date>
+          <news:title>Feinstein is a silent character in her sad and messy final chapter</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/politics/2023/08/31/dianne-feinstein-trust-dispute/dianne-feinstein-trust-dispute.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -261,81 +331,11 @@
             <news:name>Major Digest</news:name>
             <news:language>en</news:language>
           </news:publication>
-          <news:publication_date>2023-08-31T03:28:33.000Z</news:publication_date>
-          <news:title>Marijuana recommendation by US health agency hailed as first step to easing weed restrictions</news:title>
+          <news:publication_date>2023-08-31T01:39:41.000Z</news:publication_date>
+          <news:title>US health agency recommends easing federal marijuana restrictions</news:title>
         </news:news>
         <image:image>
           <image:loc>https://majordigest.com/politics/2023/08/31/senators-hail-health-dept-recommendation-to-ease-restrictions-on-marijuana/senators-hail-health-dept-recommendation-to-ease-restrictions-on-marijuana.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/politics/2023/08/31/senate-gop-leader-mitch-mcconnell-appears-to-freeze-up-again-this-time-at-a-kentucky-event/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-31T01:34:08.000Z</news:publication_date>
-          <news:title>Senate GOP leader Mitch McConnell appears to freeze up again, this time at a Kentucky event</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/politics/2023/08/31/senate-gop-leader-mitch-mcconnell-appears-to-freeze-up-again-this-time-at-a-kentucky-event/senate-gop-leader-mitch-mcconnell-appears-to-freeze-up-again-this-time-at-a-kentucky-event.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/politics/2023/08/30/biden-rule-overtime-protections/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-30T23:58:36.000Z</news:publication_date>
-          <news:title>Biden rule would give overtime protections to millions more workers</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/politics/2023/08/30/biden-rule-overtime-protections/biden-rule-overtime-protections.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/politics/2023/08/30/voters-in-one-iowa-county-reject-gop-appointed-auditor-who-posted-about-2020-election-doubts/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-30T23:25:19.000Z</news:publication_date>
-          <news:title>Voters in one Iowa county reject GOP-appointed auditor who posted about 2020 election doubts</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/politics/2023/08/30/voters-in-one-iowa-county-reject-gop-appointed-auditor-who-posted-about-2020-election-doubts/voters-in-one-iowa-county-reject-gop-appointed-auditor-who-posted-about-2020-election-doubts.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/politics/2023/08/30/ex-proud-boys-leader-enrique-tarrio-to-be-sentenced-for-seditious-conspiracy-in-jan-6-attack/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-30T22:38:25.000Z</news:publication_date>
-          <news:title>Judge's illness delays sentencing for ex-Proud Boys leader Enrique Tarrio in Jan. 6 case</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/politics/2023/08/30/ex-proud-boys-leader-enrique-tarrio-to-be-sentenced-for-seditious-conspiracy-in-jan-6-attack/ex-proud-boys-leader-enrique-tarrio-to-be-sentenced-for-seditious-conspiracy-in-jan-6-attack.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/politics/2023/08/30/mcconnell-second-public-freeze/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-30T22:06:31.000Z</news:publication_date>
-          <news:title>McConnell quickly convenes with allies after second public freeze</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/politics/2023/08/30/mcconnell-second-public-freeze/mcconnell-second-public-freeze.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -409,17 +409,17 @@
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/politics/2023/08/29/here-are-the-first-10-drugs-that-medicare-will-target-for-price-cuts/</loc>
+        <loc>https://majordigest.com/politics/2023/08/29/democrat-resigning-assembly-post-to-work-for-las-vegas/</loc>
         <news:news>
           <news:publication>
             <news:name>Major Digest</news:name>
             <news:language>en</news:language>
           </news:publication>
-          <news:publication_date>2023-08-29T16:16:00.000Z</news:publication_date>
-          <news:title>Here are the first 10 drugs that Medicare will target for price cuts</news:title>
+          <news:publication_date>2023-08-29T17:58:23.000Z</news:publication_date>
+          <news:title>Democrat resigning Assembly post to work for Las Vegas</news:title>
         </news:news>
         <image:image>
-          <image:loc>https://majordigest.com/politics/2023/08/29/here-are-the-first-10-drugs-that-medicare-will-target-for-price-cuts/here-are-the-first-10-drugs-that-medicare-will-target-for-price-cuts.webp</image:loc>
+          <image:loc>https://majordigest.com/politics/2023/08/29/democrat-resigning-assembly-post-to-work-for-las-vegas/democrat-resigning-assembly-post-to-work-for-las-vegas.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -493,17 +493,17 @@
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/politics/2023/08/25/trump-recounts-terrible-experience-of-being-booked-in-georgia/</loc>
+        <loc>https://majordigest.com/politics/2023/08/25/carlos-santana-issues-apology-for-anti-trans-remarks-on-stage/</loc>
         <news:news>
           <news:publication>
             <news:name>Major Digest</news:name>
             <news:language>en</news:language>
           </news:publication>
-          <news:publication_date>2023-08-25T12:58:40.000Z</news:publication_date>
-          <news:title>Trump recounts 'terrible experience' of being booked in Georgia</news:title>
+          <news:publication_date>2023-08-25T15:43:31.000Z</news:publication_date>
+          <news:title>Carlos Santana issues apology for anti-trans remarks on stage</news:title>
         </news:news>
         <image:image>
-          <image:loc>https://majordigest.com/politics/2023/08/25/trump-recounts-terrible-experience-of-being-booked-in-georgia/trump-recounts-terrible-experience-of-being-booked-in-georgia.webp</image:loc>
+          <image:loc>https://majordigest.com/politics/2023/08/25/carlos-santana-issues-apology-for-anti-trans-remarks-on-stage/carlos-santana-issues-apology-for-anti-trans-remarks-on-stage.webp</image:loc>
         </image:image>
       </url>
       <url>
