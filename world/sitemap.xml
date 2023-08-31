@@ -3,17 +3,87 @@
               xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
               xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
       <url>
-        <loc>https://majordigest.com/world/2023/08/31/nigers-military-regime-orders-police-to-expel-french-ambassador-and-revokes-his-diplomatic-immunity/</loc>
+        <loc>https://majordigest.com/world/2023/08/31/norwegian-preschoolers-start-day-hikes-kindergartens-boosting-early-exposure-to-outdoor-life/</loc>
         <news:news>
           <news:publication>
             <news:name>Major Digest</news:name>
             <news:language>en</news:language>
           </news:publication>
-          <news:publication_date>2023-08-31T12:27:34.000Z</news:publication_date>
-          <news:title>Niger's military regime orders police to expel French ambassador and revokes his diplomatic immunity</news:title>
+          <news:publication_date>2023-08-31T12:54:16.000Z</news:publication_date>
+          <news:title>Norwegian preschoolers start day with hikes around kindergartens, boosting early exposure to outdoor life</news:title>
         </news:news>
         <image:image>
-          <image:loc>https://majordigest.com/world/2023/08/31/nigers-military-regime-orders-police-to-expel-french-ambassador-and-revokes-his-diplomatic-immunity/nigers-military-regime-orders-police-to-expel-french-ambassador-and-revokes-his-diplomatic-immunity.webp</image:loc>
+          <image:loc>https://majordigest.com/world/2023/08/31/norwegian-preschoolers-start-day-hikes-kindergartens-boosting-early-exposure-to-outdoor-life/norwegian-preschoolers-start-day-hikes-kindergartens-boosting-early-exposure-to-outdoor-life.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/world/2023/08/31/norwegian-preschoolers-start-day-hikes-kindergartens-boosting-early-exposure-to-outdoor-life/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-31T12:54:16.000Z</news:publication_date>
+          <news:title>Norwegian preschoolers start day with hikes around kindergartens, boosting early exposure to outdoor life</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/world/2023/08/31/norwegian-preschoolers-start-day-hikes-kindergartens-boosting-early-exposure-to-outdoor-life/norwegian-preschoolers-start-day-hikes-kindergartens-boosting-early-exposure-to-outdoor-life.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/world/2023/08/31/15-dead-philippine-firefighters-arrive-late-factory-blaze-delay-caused-rain-wrong-address/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-31T12:51:16.000Z</news:publication_date>
+          <news:title>15 dead after Philippine firefighters arrive late to factory blaze; delay caused by rain, wrong address</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/world/2023/08/31/15-dead-philippine-firefighters-arrive-late-factory-blaze-delay-caused-rain-wrong-address/15-dead-philippine-firefighters-arrive-late-factory-blaze-delay-caused-rain-wrong-address.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/world/2023/08/31/north-korea-says-it-simulated-nuclear-attack/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-31T12:35:36.000Z</news:publication_date>
+          <news:title>North Korea says it simulated nuclear attack on South, rehearsed occupation</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/world/2023/08/31/north-korea-says-it-simulated-nuclear-attack/north-korea-says-it-simulated-nuclear-attack.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/world/2023/08/31/north-korea-says-it-simulated-nuclear-attack/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-31T12:35:36.000Z</news:publication_date>
+          <news:title>North Korea says it simulated nuclear attack on South, rehearsed occupation</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/world/2023/08/31/north-korea-says-it-simulated-nuclear-attack/north-korea-says-it-simulated-nuclear-attack.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/world/2023/08/31/some-in-africa-are-celebrating-the-coups-many-are-fed-up-and-desperate-for-change-analysts-say/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-31T12:32:47.000Z</news:publication_date>
+          <news:title>Some in Africa are celebrating the coups. Many are fed up and desperate for change, analysts say</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/world/2023/08/31/some-in-africa-are-celebrating-the-coups-many-are-fed-up-and-desperate-for-change-analysts-say/some-in-africa-are-celebrating-the-coups-many-are-fed-up-and-desperate-for-change-analysts-say.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -87,48 +157,6 @@
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/world/2023/08/31/greece-further-reinforces-firefighting-forces-in-massive-wildfire-in-northeast-burning-for-13th-day/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-31T11:32:43.000Z</news:publication_date>
-          <news:title>Greece reinforces firefighting forces as a massive wildfire in the northeast burns for a 13th day</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/world/2023/08/31/greece-further-reinforces-firefighting-forces-in-massive-wildfire-in-northeast-burning-for-13th-day/greece-further-reinforces-firefighting-forces-in-massive-wildfire-in-northeast-burning-for-13th-day.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/world/2023/08/31/unseen-video-prigozhin-appears-online-days-funeral/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-31T11:26:20.000Z</news:publication_date>
-          <news:title>Unseen video of Prigozhin appears online days after funeral</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/world/2023/08/31/unseen-video-prigozhin-appears-online-days-funeral/unseen-video-prigozhin-appears-online-days-funeral.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/world/2023/08/31/some-in-africa-are-celebrating-the-coups-many-are-fed-up-and-desperate-for-change-analysts-say/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-31T11:24:39.000Z</news:publication_date>
-          <news:title>Some in Africa are celebrating the coups. Many are fed up and desperate for change, analysts say</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/world/2023/08/31/some-in-africa-are-celebrating-the-coups-many-are-fed-up-and-desperate-for-change-analysts-say/some-in-africa-are-celebrating-the-coups-many-are-fed-up-and-desperate-for-change-analysts-say.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
         <loc>https://majordigest.com/world/2023/08/31/ousting-of-gabons-unpopular-leader-was-a-smokescreen-for-soldiers-to-seize-power-analysts-say/</loc>
         <news:news>
           <news:publication>
@@ -140,20 +168,6 @@
         </news:news>
         <image:image>
           <image:loc>https://majordigest.com/world/2023/08/31/ousting-of-gabons-unpopular-leader-was-a-smokescreen-for-soldiers-to-seize-power-analysts-say/ousting-of-gabons-unpopular-leader-was-a-smokescreen-for-soldiers-to-seize-power-analysts-say.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/world/2023/08/31/british-prime-minister-rishi-sunak-names-grant-shapps-next-defense-secretary/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-31T11:08:15.000Z</news:publication_date>
-          <news:title>British Prime Minister Rishi Sunak names Grant Shapps as next defense secretary</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/world/2023/08/31/british-prime-minister-rishi-sunak-names-grant-shapps-next-defense-secretary/british-prime-minister-rishi-sunak-names-grant-shapps-next-defense-secretary.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -185,45 +199,17 @@
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/world/2023/08/31/at-least-38-people-have-died-in-a-fire-in-a-building-in-south-africas-biggest-city-authorities-say/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-31T10:55:11.000Z</news:publication_date>
-          <news:title>A building fire in Johannesburg leaves at least 73 dead, many of them homeless, authorities say</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/world/2023/08/31/at-least-38-people-have-died-in-a-fire-in-a-building-in-south-africas-biggest-city-authorities-say/at-least-38-people-have-died-in-a-fire-in-a-building-in-south-africas-biggest-city-authorities-say.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
         <loc>https://majordigest.com/world/2023/08/31/eu-examines-its-training-of-african-armies-as-another-coup-rocks-the-continent/</loc>
         <news:news>
           <news:publication>
             <news:name>Major Digest</news:name>
             <news:language>en</news:language>
           </news:publication>
-          <news:publication_date>2023-08-31T10:45:14.000Z</news:publication_date>
+          <news:publication_date>2023-08-31T10:45:16.000Z</news:publication_date>
           <news:title>EU examines its training of African armies as another coup rocks the continent</news:title>
         </news:news>
         <image:image>
           <image:loc>https://majordigest.com/world/2023/08/31/eu-examines-its-training-of-african-armies-as-another-coup-rocks-the-continent/eu-examines-its-training-of-african-armies-as-another-coup-rocks-the-continent.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/world/2023/08/31/uk-defense-secretary-is-resigning-after-4-years-in-the-job/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-31T07:58:38.000Z</news:publication_date>
-          <news:title>UK Prime Minister Rishi Sunak appoints new defense secretary after Ben Wallace resigns role</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/world/2023/08/31/uk-defense-secretary-is-resigning-after-4-years-in-the-job/uk-defense-secretary-is-resigning-after-4-years-in-the-job.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -234,7 +220,7 @@
             <news:language>en</news:language>
           </news:publication>
           <news:publication_date>2023-08-31T06:54:41.000Z</news:publication_date>
-          <news:title>Palestinian kills 1 after ramming truck into soldiers at West Bank checkpoint and is fatally shot</news:title>
+          <news:title>A Palestinian kills an Israeli soldier in a West Bank truck ramming attack and is fatally shot</news:title>
         </news:news>
         <image:image>
           <image:loc>https://majordigest.com/world/2023/08/31/palestinian-driver-rams-truck-into-pedestrians-at-west-bank-checkpoint-wounding-3/palestinian-driver-rams-truck-into-pedestrians-at-west-bank-checkpoint-wounding-3.webp</image:loc>
@@ -353,20 +339,6 @@
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/world/2023/08/30/kremlin-says-prigozhin-crash-may-have-been-deliberate/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-30T15:56:32.000Z</news:publication_date>
-          <news:title>Kremlin says Prigozhin crash may have been 'deliberate'</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/world/2023/08/30/kremlin-says-prigozhin-crash-may-have-been-deliberate/kremlin-says-prigozhin-crash-may-have-been-deliberate.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
         <loc>https://majordigest.com/world/2023/08/29/the-kremlin-says-putin-is-not-planning-to-attend-wagner-chief-prigozhins-burial/</loc>
         <news:news>
           <news:publication>
@@ -392,6 +364,20 @@
         </news:news>
         <image:image>
           <image:loc>https://majordigest.com/world/2023/08/29/neurosurgeon-investigating-patients-mystery-symptoms-plucks-worm-from-womans-brain/neurosurgeon-investigating-patients-mystery-symptoms-plucks-worm-from-womans-brain.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/world/2023/08/28/us-chinese-commerce-leaders-meet-huge-progress/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-28T20:44:31.000Z</news:publication_date>
+          <news:title>US, Chinese commerce leaders meet: 'Huge progress'</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/world/2023/08/28/us-chinese-commerce-leaders-meet-huge-progress/us-chinese-commerce-leaders-meet-huge-progress.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -448,6 +434,20 @@
         </news:news>
         <image:image>
           <image:loc>https://majordigest.com/world/2023/08/28/bog-snorkeling-championships-competitors-race-through-slime-in-british-contest/bog-snorkeling-championships-competitors-race-through-slime-in-british-contest.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/world/2023/08/28/8-us-marines-remain-in-hospital-after-fiery-aircraft-crash-killed-3-in-australia/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-28T05:36:17.000Z</news:publication_date>
+          <news:title>8 US Marines remain in a hospital after a fiery aircraft crash killed 3 during drills in Australia</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/world/2023/08/28/8-us-marines-remain-in-hospital-after-fiery-aircraft-crash-killed-3-in-australia/8-us-marines-remain-in-hospital-after-fiery-aircraft-crash-killed-3-in-australia.webp</image:loc>
         </image:image>
       </url>
       <url>

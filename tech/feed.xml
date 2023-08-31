@@ -7,7 +7,7 @@
         <title>Major Digest - Reliable and Comprehensive News Sources: tech</title>
         <description>Get the latest news online at Major Digest, the top online news resource for the most reliable news sources. Stay informed about the world around you!</description>
         <link>https://majordigest.com/?utm_medium=RSS</link>
-        <lastBuildDate>Thu, 31 Aug 2023 12:35:20 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 31 Aug 2023 13:22:50 GMT</lastBuildDate>
         <generator>https://majordigest.com/?v=1.1.4</generator>
         <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/" />
         <atom:link rel="self" href="https://majordigest.com/tech/feed.xml" type="application/rss+xml" />
@@ -206,17 +206,6 @@
         <dc:creator>Tara Suter, The Hill</dc:creator>
       </item>
       <item>
-        <title>FBI disrupts malicious program infecting hundreds of thousands of computers</title>
-        <description><![CDATA[The Justice Department says the FBI was able to "disrupt" malware that had infected more than 700,000 computers across the world.]]></description>
-        <guid>https://majordigest.com/tech/2023/08/30/fbi-disrupts-malicious-program-infecting-hundreds-of-thousands-of-computers/</guid>
-        <link>https://majordigest.com/tech/2023/08/30/fbi-disrupts-malicious-program-infecting-hundreds-of-thousands-of-computers/</link>
-        <pubDate>Wed, 30 Aug 2023 15:19:40 +0000</pubDate>
-        <category>tech</category>
-        <media:content medium="image" url="https://majordigest.com/tech/2023/08/30/fbi-disrupts-malicious-program-infecting-hundreds-of-thousands-of-computers/fbi-disrupts-malicious-program-infecting-hundreds-of-thousands-of-computers.webp"/>
-        <media:thumbnail url="https://majordigest.com/tech/2023/08/30/fbi-disrupts-malicious-program-infecting-hundreds-of-thousands-of-computers/fbi-disrupts-malicious-program-infecting-hundreds-of-thousands-of-computers.webp"/>
-        <dc:creator>Tara Suter, The Hill</dc:creator>
-      </item>
-      <item>
         <title>Saudi man receives death penalty for posts online, latest case in wide-ranging crackdown on dissent</title>
         <description><![CDATA[DUBAI, United Arab Emirates (AP) — A Saudi court has sentenced a man to death over his posts on X, formerly known as Twitter, and his activity on YouTube, the latest in a widening crackdown on dissent in the kingdom that has drawn international criticism.]]></description>
         <guid>https://majordigest.com/tech/2023/08/30/saudi-man-receives-death-penalty-for-posts-online-latest-case-in-wide-ranging-crackdown-on-dissent/</guid>
@@ -237,6 +226,17 @@
         <media:content medium="image" url="https://majordigest.com/tech/2023/08/30/fox-news-ai-newsletter-tiktoker-sounds-alarm-scary-online-trend-affecting-children/fox-news-ai-newsletter-tiktoker-sounds-alarm-scary-online-trend-affecting-children.webp"/>
         <media:thumbnail url="https://majordigest.com/tech/2023/08/30/fox-news-ai-newsletter-tiktoker-sounds-alarm-scary-online-trend-affecting-children/fox-news-ai-newsletter-tiktoker-sounds-alarm-scary-online-trend-affecting-children.webp"/>
         <dc:creator>Fox News</dc:creator>
+      </item>
+      <item>
+        <title>Indonesia arrests 88 Chinese nationals over online romance scams</title>
+        <description><![CDATA[BATAM, Indonesia (AP) — Indonesian police said Wednesday they have arrested 88 Chinese citizens for involvement in a cross-border telephone and online romance scam syndicate after receiving a tip from the Chinese security ministry.]]></description>
+        <guid>https://majordigest.com/tech/2023/08/30/indonesia-arrests-88-chinese-nationals-in-online-romance-scams/</guid>
+        <link>https://majordigest.com/tech/2023/08/30/indonesia-arrests-88-chinese-nationals-in-online-romance-scams/</link>
+        <pubDate>Wed, 30 Aug 2023 13:21:49 +0000</pubDate>
+        <category>tech</category>
+        <media:content medium="image" url="https://majordigest.com/tech/2023/08/30/indonesia-arrests-88-chinese-nationals-in-online-romance-scams/indonesia-arrests-88-chinese-nationals-in-online-romance-scams.webp"/>
+        <media:thumbnail url="https://majordigest.com/tech/2023/08/30/indonesia-arrests-88-chinese-nationals-in-online-romance-scams/indonesia-arrests-88-chinese-nationals-in-online-romance-scams.webp"/>
+        <dc:creator>AP, KRON4</dc:creator>
       </item>
       <item>
         <title>Indonesia arrests 88 Chinese nationals over online romance scams</title>

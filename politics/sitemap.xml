@@ -3,17 +3,45 @@
               xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
               xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
       <url>
-        <loc>https://majordigest.com/politics/2023/08/31/pennsylvania-senate-reconvenes-unusual-august-session-2-month-budget-stalemate-continues/</loc>
+        <loc>https://majordigest.com/politics/2023/08/31/cowboy-up-dark-horse-gop-presidential-candidate-doesnt-let-leg-injury-derail-him-campaign-trail/</loc>
         <news:news>
           <news:publication>
             <news:name>Major Digest</news:name>
             <news:language>en</news:language>
           </news:publication>
-          <news:publication_date>2023-08-31T12:21:13.000Z</news:publication_date>
-          <news:title>Pennsylvania Senate reconvenes for unusual August session as 2-month budget stalemate continues</news:title>
+          <news:publication_date>2023-08-31T13:08:36.000Z</news:publication_date>
+          <news:title>&#8216;Cowboy up&#8217; &#8211; dark horse GOP presidential candidate doesn&#8217;t let leg injury derail him on campaign trail</news:title>
         </news:news>
         <image:image>
-          <image:loc>https://majordigest.com/politics/2023/08/31/pennsylvania-senate-reconvenes-unusual-august-session-2-month-budget-stalemate-continues/pennsylvania-senate-reconvenes-unusual-august-session-2-month-budget-stalemate-continues.webp</image:loc>
+          <image:loc>https://majordigest.com/politics/2023/08/31/cowboy-up-dark-horse-gop-presidential-candidate-doesnt-let-leg-injury-derail-him-campaign-trail/cowboy-up-dark-horse-gop-presidential-candidate-doesnt-let-leg-injury-derail-him-campaign-trail.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/politics/2023/08/31/deconstructing-firestorm-vivek-ramaswamys-israel-comments/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-31T13:00:37.000Z</news:publication_date>
+          <news:title>Deconstructing the firestorm of Vivek Ramaswamy's Israel comments</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/politics/2023/08/31/deconstructing-firestorm-vivek-ramaswamys-israel-comments/deconstructing-firestorm-vivek-ramaswamys-israel-comments.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/politics/2023/08/31/iowa-city-repeals-ban-conversion-therapy-first-amendment/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-31T12:44:53.000Z</news:publication_date>
+          <news:title>Iowa city rolls back ban on 'conversion therapy' after legal group complained of First Amendment violation</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/politics/2023/08/31/iowa-city-repeals-ban-conversion-therapy-first-amendment/iowa-city-repeals-ban-conversion-therapy-first-amendment.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -42,34 +70,6 @@
         </news:news>
         <image:image>
           <image:loc>https://majordigest.com/politics/2023/08/31/building-fire-johannesburg-deaths/building-fire-johannesburg-deaths.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/politics/2023/08/31/connecticut-democratic-sen-chris-murphy-tests-positive-coronavirus/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-31T11:40:03.000Z</news:publication_date>
-          <news:title>Connecticut Democratic Sen. Chris Murphy tests positive for coronavirus</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/politics/2023/08/31/connecticut-democratic-sen-chris-murphy-tests-positive-coronavirus/connecticut-democratic-sen-chris-murphy-tests-positive-coronavirus.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/politics/2023/08/31/la-city-council-votes-lawsuit-criminal-probe-texas-migrant-busing-program/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-31T10:57:50.000Z</news:publication_date>
-          <news:title>LA city council votes for lawsuit, criminal probe against Texas over migrant busing program</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/politics/2023/08/31/la-city-council-votes-lawsuit-criminal-probe-texas-migrant-busing-program/la-city-council-votes-lawsuit-criminal-probe-texas-migrant-busing-program.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -115,20 +115,6 @@
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/politics/2023/08/31/white-house-warns-gop-biden-impeachment-will-backfire/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-31T10:27:41.000Z</news:publication_date>
-          <news:title>White House warns GOP Biden impeachment will backfire</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/politics/2023/08/31/white-house-warns-gop-biden-impeachment-will-backfire/white-house-warns-gop-biden-impeachment-will-backfire.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
         <loc>https://majordigest.com/politics/2023/08/31/gop-long-shots-face-steep-hurdles-ahead-of-second-debate/</loc>
         <news:news>
           <news:publication>
@@ -157,20 +143,6 @@
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/politics/2023/08/31/qa-how-can-texans-prepare-for-extreme-heat/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-31T10:00:00.000Z</news:publication_date>
-          <news:title>Q&#38;A: How can Texans prepare for extreme heat?</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/politics/2023/08/31/qa-how-can-texans-prepare-for-extreme-heat/qa-how-can-texans-prepare-for-extreme-heat.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
         <loc>https://majordigest.com/politics/2023/08/31/npr-trump-hiv-aids-epidemic-defund-house-republicans/</loc>
         <news:news>
           <news:publication>
@@ -182,20 +154,6 @@
         </news:news>
         <image:image>
           <image:loc>https://majordigest.com/politics/2023/08/31/npr-trump-hiv-aids-epidemic-defund-house-republicans/npr-trump-hiv-aids-epidemic-defund-house-republicans.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/politics/2023/08/31/still-no-strong-2024-gop-challenger-for-klobuchar/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-31T09:00:00.000Z</news:publication_date>
-          <news:title>Still no strong 2024 GOP challenger for Amy Klobuchar</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/politics/2023/08/31/still-no-strong-2024-gop-challenger-for-klobuchar/still-no-strong-2024-gop-challenger-for-klobuchar.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -283,31 +241,17 @@
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/politics/2023/08/30/biden-rule-overtime-protections/</loc>
+        <loc>https://majordigest.com/politics/2023/08/30/voters-in-one-iowa-county-reject-gop-appointed-auditor-who-posted-about-2020-election-doubts/</loc>
         <news:news>
           <news:publication>
             <news:name>Major Digest</news:name>
             <news:language>en</news:language>
           </news:publication>
-          <news:publication_date>2023-08-30T23:58:36.000Z</news:publication_date>
-          <news:title>Biden rule would give overtime protections to millions more workers</news:title>
+          <news:publication_date>2023-08-30T23:02:11.000Z</news:publication_date>
+          <news:title>Voters in one Iowa county reject GOP-appointed auditor who posted about 2020 election doubts</news:title>
         </news:news>
         <image:image>
-          <image:loc>https://majordigest.com/politics/2023/08/30/biden-rule-overtime-protections/biden-rule-overtime-protections.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/politics/2023/08/30/trump-tudor-dixon-abortion-michigan-race/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-30T22:55:48.000Z</news:publication_date>
-          <news:title>Trump advised Tudor Dixon to soften her line on abortion during Michigan governor's race</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/politics/2023/08/30/trump-tudor-dixon-abortion-michigan-race/trump-tudor-dixon-abortion-michigan-race.webp</image:loc>
+          <image:loc>https://majordigest.com/politics/2023/08/30/voters-in-one-iowa-county-reject-gop-appointed-auditor-who-posted-about-2020-election-doubts/voters-in-one-iowa-county-reject-gop-appointed-auditor-who-posted-about-2020-election-doubts.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -353,6 +297,20 @@
         </image:image>
       </url>
       <url>
+        <loc>https://majordigest.com/politics/2023/08/30/judge-blocks-new-texas-law-that-would-erode-cities-power-to-enact-local-rules/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-30T17:04:09.000Z</news:publication_date>
+          <news:title>Judge declares new Texas law that would erode cities&#8217; power to enact local rules unconstitutional</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/politics/2023/08/30/judge-blocks-new-texas-law-that-would-erode-cities-power-to-enact-local-rules/judge-blocks-new-texas-law-that-would-erode-cities-power-to-enact-local-rules.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
         <loc>https://majordigest.com/politics/2023/08/30/desantis-holds-news-conference-before-hurricane-idalia-makes-landfall/</loc>
         <news:news>
           <news:publication>
@@ -364,6 +322,20 @@
         </news:news>
         <image:image>
           <image:loc>https://majordigest.com/politics/2023/08/30/desantis-holds-news-conference-before-hurricane-idalia-makes-landfall/desantis-holds-news-conference-before-hurricane-idalia-makes-landfall.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/politics/2023/08/30/police-departments-pull-school-officers-due-to-mn-restraint-law/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-30T09:00:00.000Z</news:publication_date>
+          <news:title>Police departments pull school officers due to Minnesota restraint law</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/politics/2023/08/30/police-departments-pull-school-officers-due-to-mn-restraint-law/police-departments-pull-school-officers-due-to-mn-restraint-law.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -406,6 +378,20 @@
         </news:news>
         <image:image>
           <image:loc>https://majordigest.com/politics/2023/08/29/katie-porter-partners-with-gop-rep-to-introduce-bill-to-prevent-infant-formula-crisis/katie-porter-partners-with-gop-rep-to-introduce-bill-to-prevent-infant-formula-crisis.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/politics/2023/08/29/democrat-resigning-assembly-post-to-work-for-las-vegas/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-29T17:58:23.000Z</news:publication_date>
+          <news:title>Democrat resigning Assembly post to work for Las Vegas</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/politics/2023/08/29/democrat-resigning-assembly-post-to-work-for-las-vegas/democrat-resigning-assembly-post-to-work-for-las-vegas.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -476,6 +462,20 @@
         </news:news>
         <image:image>
           <image:loc>https://majordigest.com/politics/2023/08/26/gop-presidential-candidate-vivek-ramaswamy-is-an-unaffiliated-voter-nbc-reports/gop-presidential-candidate-vivek-ramaswamy-is-an-unaffiliated-voter-nbc-reports.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/politics/2023/08/25/new-york-man-sentenced-to-3-months-in-prison-for-making-threatening-phone-calls-to-rep-marjorie-taylor-greene/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-25T19:49:09.000Z</news:publication_date>
+          <news:title>NY man sentenced to prison for making threatening&#160;phone calls to Rep. Marjorie Taylor Greene</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/politics/2023/08/25/new-york-man-sentenced-to-3-months-in-prison-for-making-threatening-phone-calls-to-rep-marjorie-taylor-greene/new-york-man-sentenced-to-3-months-in-prison-for-making-threatening-phone-calls-to-rep-marjorie-taylor-greene.webp</image:loc>
         </image:image>
       </url>
       <url>
