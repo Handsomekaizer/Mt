@@ -3,6 +3,20 @@
               xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
               xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
       <url>
+        <loc>https://majordigest.com/world/2023/08/31/greece-further-reinforces-firefighting-forces-in-massive-wildfire-in-northeast-burning-for-13th-day/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-31T19:41:37.000Z</news:publication_date>
+          <news:title>Greece sends 100 extra firefighters to a massive northeastern wildfire as it burns for a 13th day</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/world/2023/08/31/greece-further-reinforces-firefighting-forces-in-massive-wildfire-in-northeast-burning-for-13th-day/greece-further-reinforces-firefighting-forces-in-massive-wildfire-in-northeast-burning-for-13th-day.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
         <loc>https://majordigest.com/world/2023/08/31/pope-makes-first-visit-to-mongolia-as-vatican-relations-with-russia-and-china-are-again-strained/</loc>
         <news:news>
           <news:publication>
@@ -45,20 +59,6 @@
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/world/2023/08/31/airstrike-southern-syria-hits-alleged-drug-factory/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-31T18:01:11.000Z</news:publication_date>
-          <news:title>Airstrike on southern Syria hits alleged drug factory</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/world/2023/08/31/airstrike-southern-syria-hits-alleged-drug-factory/airstrike-southern-syria-hits-alleged-drug-factory.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
         <loc>https://majordigest.com/world/2023/08/31/greece-sends-100-more-firefighters-countrys-northeast-blaze-flares-13th-day/</loc>
         <news:news>
           <news:publication>
@@ -70,6 +70,20 @@
         </news:news>
         <image:image>
           <image:loc>https://majordigest.com/world/2023/08/31/greece-sends-100-more-firefighters-countrys-northeast-blaze-flares-13th-day/greece-sends-100-more-firefighters-countrys-northeast-blaze-flares-13th-day.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/world/2023/08/31/iceland-resumes-comercial-hunting-fin-whales-stricter-requirements/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-31T17:57:30.000Z</news:publication_date>
+          <news:title>Iceland resumes commercial hunting of fin whales with stricter requirements</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/world/2023/08/31/iceland-resumes-comercial-hunting-fin-whales-stricter-requirements/iceland-resumes-comercial-hunting-fin-whales-stricter-requirements.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -143,20 +157,6 @@
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/world/2023/08/31/ousting-of-gabons-unpopular-leader-was-a-smokescreen-for-soldiers-to-seize-power-analysts-say/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-31T16:44:10.000Z</news:publication_date>
-          <news:title>Gabon election results were a 'smokescreen' for soldiers to oust unpopular president, analysts say</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/world/2023/08/31/ousting-of-gabons-unpopular-leader-was-a-smokescreen-for-soldiers-to-seize-power-analysts-say/ousting-of-gabons-unpopular-leader-was-a-smokescreen-for-soldiers-to-seize-power-analysts-say.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
         <loc>https://majordigest.com/world/2023/08/31/nigers-military-regime-orders-police-to-expel-french-ambassador-and-revokes-his-diplomatic-immunity/</loc>
         <news:news>
           <news:publication>
@@ -185,17 +185,17 @@
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/world/2023/08/31/iceland-says-commercial-whaling-can-resume-after-temporary-ban/</loc>
+        <loc>https://majordigest.com/world/2023/08/31/eu-examines-its-training-of-african-armies-as-another-coup-rocks-the-continent/</loc>
         <news:news>
           <news:publication>
             <news:name>Major Digest</news:name>
             <news:language>en</news:language>
           </news:publication>
-          <news:publication_date>2023-08-31T16:29:57.000Z</news:publication_date>
-          <news:title>Iceland says commercial whaling can resume after temporary ban</news:title>
+          <news:publication_date>2023-08-31T16:37:46.000Z</news:publication_date>
+          <news:title>EU grapples with its African army training dilemma as another coup rocks the continent</news:title>
         </news:news>
         <image:image>
-          <image:loc>https://majordigest.com/world/2023/08/31/iceland-says-commercial-whaling-can-resume-after-temporary-ban/iceland-says-commercial-whaling-can-resume-after-temporary-ban.webp</image:loc>
+          <image:loc>https://majordigest.com/world/2023/08/31/eu-examines-its-training-of-african-armies-as-another-coup-rocks-the-continent/eu-examines-its-training-of-african-armies-as-another-coup-rocks-the-continent.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -241,17 +241,17 @@
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/world/2023/08/31/obama-world-leaders-call-on-bangladesh-to-halt-cases-against-nobel-peace-prize-winner/</loc>
+        <loc>https://majordigest.com/world/2023/08/31/iceland-says-commercial-whaling-can-resume-after-temporary-ban/</loc>
         <news:news>
           <news:publication>
             <news:name>Major Digest</news:name>
             <news:language>en</news:language>
           </news:publication>
-          <news:publication_date>2023-08-31T15:22:01.000Z</news:publication_date>
-          <news:title>Obama, world leaders call on Bangladesh to halt cases against Nobel Peace Prize winner</news:title>
+          <news:publication_date>2023-08-31T15:17:21.000Z</news:publication_date>
+          <news:title>Iceland says commercial whaling can resume after temporary ban</news:title>
         </news:news>
         <image:image>
-          <image:loc>https://majordigest.com/world/2023/08/31/obama-world-leaders-call-on-bangladesh-to-halt-cases-against-nobel-peace-prize-winner/obama-world-leaders-call-on-bangladesh-to-halt-cases-against-nobel-peace-prize-winner.webp</image:loc>
+          <image:loc>https://majordigest.com/world/2023/08/31/iceland-says-commercial-whaling-can-resume-after-temporary-ban/iceland-says-commercial-whaling-can-resume-after-temporary-ban.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -367,20 +367,6 @@
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/world/2023/08/30/japanese-ministers-eat-fukushima-fish-to-show-its-safe-after-nuclear-plant-wastewater-is-discharged/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-30T18:26:11.000Z</news:publication_date>
-          <news:title>Japanese ministers eat Fukushima fish to show it's safe after nuclear plant wastewater is discharged</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/world/2023/08/30/japanese-ministers-eat-fukushima-fish-to-show-its-safe-after-nuclear-plant-wastewater-is-discharged/japanese-ministers-eat-fukushima-fish-to-show-its-safe-after-nuclear-plant-wastewater-is-discharged.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
         <loc>https://majordigest.com/world/2023/08/30/white-house-says-putin-and-kim-jong-un-traded-letters-as-russia-looks-for-munitions-from-north-korea/</loc>
         <news:news>
           <news:publication>
@@ -406,6 +392,20 @@
         </news:news>
         <image:image>
           <image:loc>https://majordigest.com/world/2023/08/29/the-kremlin-says-putin-is-not-planning-to-attend-wagner-chief-prigozhins-burial/the-kremlin-says-putin-is-not-planning-to-attend-wagner-chief-prigozhins-burial.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/world/2023/08/29/neurosurgeon-investigating-patients-mystery-symptoms-plucks-worm-from-womans-brain/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-29T10:07:27.000Z</news:publication_date>
+          <news:title>Neurosurgeon investigating patient's mystery symptoms plucks worm from woman's brain</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/world/2023/08/29/neurosurgeon-investigating-patients-mystery-symptoms-plucks-worm-from-womans-brain/neurosurgeon-investigating-patients-mystery-symptoms-plucks-worm-from-womans-brain.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -493,6 +493,20 @@
         </image:image>
       </url>
       <url>
+        <loc>https://majordigest.com/world/2023/08/27/with-drones-and-webcams-volunteer-hunters-join-new-search-for-mythical-loch-ness-monster/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-27T02:47:41.000Z</news:publication_date>
+          <news:title>With drones and webcams, volunteer hunters join new search for mythical Loch Ness Monster</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/world/2023/08/27/with-drones-and-webcams-volunteer-hunters-join-new-search-for-mythical-loch-ness-monster/with-drones-and-webcams-volunteer-hunters-join-new-search-for-mythical-loch-ness-monster.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
         <loc>https://majordigest.com/world/2023/08/25/from-tarantulas-to-tigers-zoo-animals-step-onto-scales-for-annual-weigh-in/</loc>
         <news:news>
           <news:publication>
@@ -504,19 +518,5 @@
         </news:news>
         <image:image>
           <image:loc>https://majordigest.com/world/2023/08/25/from-tarantulas-to-tigers-zoo-animals-step-onto-scales-for-annual-weigh-in/from-tarantulas-to-tigers-zoo-animals-step-onto-scales-for-annual-weigh-in.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/world/2023/08/24/fifa-opens-case-against-spanish-soccer-official-who-kissed-player-on-lips-at-womens-world-cup/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-24T20:20:35.000Z</news:publication_date>
-          <news:title>FIFA opens case against Spanish soccer official who kissed player on lips at Women's World Cup</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/world/2023/08/24/fifa-opens-case-against-spanish-soccer-official-who-kissed-player-on-lips-at-womens-world-cup/fifa-opens-case-against-spanish-soccer-official-who-kissed-player-on-lips-at-womens-world-cup.webp</image:loc>
         </image:image>
       </url></urlset>

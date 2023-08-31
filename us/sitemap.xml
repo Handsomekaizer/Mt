@@ -3,17 +3,157 @@
               xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
               xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
       <url>
+        <loc>https://majordigest.com/us/2023/08/31/white-house-defends-maui-wildfire-response-announces-95m-for-recovery/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-31T21:10:16.000Z</news:publication_date>
+          <news:title>White House defends Maui wildfire response, announces $95M for recovery</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/us/2023/08/31/white-house-defends-maui-wildfire-response-announces-95m-for-recovery/white-house-defends-maui-wildfire-response-announces-95m-for-recovery.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/us/2023/08/31/missing-colorado-hikers-car-found-national-park-peak/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-31T21:08:35.000Z</news:publication_date>
+          <news:title>Missing Colorado hiker's car found near national park peak</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/us/2023/08/31/missing-colorado-hikers-car-found-national-park-peak/missing-colorado-hikers-car-found-national-park-peak.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/us/2023/08/31/biden-administration-proposes-rule-that-would-require-more-firearms-dealers-to-run-background-checks/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-31T21:03:05.000Z</news:publication_date>
+          <news:title>Biden administration proposes rule that would require more firearms dealers to run background checks</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/us/2023/08/31/biden-administration-proposes-rule-that-would-require-more-firearms-dealers-to-run-background-checks/biden-administration-proposes-rule-that-would-require-more-firearms-dealers-to-run-background-checks.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/us/2023/08/31/pennsylvania-man-incarcerated-murder-escapes-prison-search-underway/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-31T21:02:32.000Z</news:publication_date>
+          <news:title>Pennsylvania man incarcerated for murder escapes prison, search underway</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/us/2023/08/31/pennsylvania-man-incarcerated-murder-escapes-prison-search-underway/pennsylvania-man-incarcerated-murder-escapes-prison-search-underway.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/us/2023/08/31/reports-inmate-dead-others-injured-in-stabbings-at-atlanta-jail-where-trump-was-booked/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-31T21:00:58.000Z</news:publication_date>
+          <news:title>Reports: Inmate dead, others injured in stabbings at Atlanta jail where Trump was booked</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/us/2023/08/31/reports-inmate-dead-others-injured-in-stabbings-at-atlanta-jail-where-trump-was-booked/reports-inmate-dead-others-injured-in-stabbings-at-atlanta-jail-where-trump-was-booked.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/us/2023/08/31/police-stop-nebraska-man-for-bucking-the-law-with-a-bull-riding-shotgun-in-his-car/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-31T21:00:55.000Z</news:publication_date>
+          <news:title>Police stop Nebraska man for bucking the law with a bull riding shotgun in his car</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/us/2023/08/31/police-stop-nebraska-man-for-bucking-the-law-with-a-bull-riding-shotgun-in-his-car/police-stop-nebraska-man-for-bucking-the-law-with-a-bull-riding-shotgun-in-his-car.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/us/2023/08/31/youtube-mommy-bloggers-arrested-allegations-child-abuse-finally/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-31T21:00:54.000Z</news:publication_date>
+          <news:title>YouTube mommy bloggers arrested on allegations of child abuse: 'Finally'</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/us/2023/08/31/youtube-mommy-bloggers-arrested-allegations-child-abuse-finally/youtube-mommy-bloggers-arrested-allegations-child-abuse-finally.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/us/2023/08/31/video-live-bull-rides-shotgun-in-car-driver-gets-pulled-over-by-police-in-nebraska/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-31T20:58:45.000Z</news:publication_date>
+          <news:title>VIDEO: Live bull rides shotgun in car, driver gets pulled over by police in Nebraska</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/us/2023/08/31/video-live-bull-rides-shotgun-in-car-driver-gets-pulled-over-by-police-in-nebraska/video-live-bull-rides-shotgun-in-car-driver-gets-pulled-over-by-police-in-nebraska.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
         <loc>https://majordigest.com/us/2023/08/31/missouri-judge-says-white-man-will-stand-trial-for-shooting-black-teen-who-went-to-wrong-house/</loc>
         <news:news>
           <news:publication>
             <news:name>Major Digest</news:name>
             <news:language>en</news:language>
           </news:publication>
-          <news:publication_date>2023-08-31T19:57:22.000Z</news:publication_date>
+          <news:publication_date>2023-08-31T20:58:32.000Z</news:publication_date>
           <news:title>Judge rules white man will stand trial for shooting Black teen Ralph Yarl, who went to wrong house</news:title>
         </news:news>
         <image:image>
           <image:loc>https://majordigest.com/us/2023/08/31/missouri-judge-says-white-man-will-stand-trial-for-shooting-black-teen-who-went-to-wrong-house/missouri-judge-says-white-man-will-stand-trial-for-shooting-black-teen-who-went-to-wrong-house.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/us/2023/08/31/x-formerly-twitter-to-allow-paid-political-advertising-again/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-31T20:47:49.000Z</news:publication_date>
+          <news:title>X, formerly Twitter,&#160;to allow paid political advertising again</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/us/2023/08/31/x-formerly-twitter-to-allow-paid-political-advertising-again/x-formerly-twitter-to-allow-paid-political-advertising-again.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/us/2023/08/31/lawyer-la-sex-therapists-accused-killer-presents-surprising-defense/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-31T20:34:22.000Z</news:publication_date>
+          <news:title>Lawyer for LA sex therapist's accused killer presents surprising defense</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/us/2023/08/31/lawyer-la-sex-therapists-accused-killer-presents-surprising-defense/lawyer-la-sex-therapists-accused-killer-presents-surprising-defense.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -31,59 +171,17 @@
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/us/2023/08/31/police-stop-nebraska-man-for-bucking-the-law-with-a-bull-riding-shotgun-in-his-car/</loc>
+        <loc>https://majordigest.com/us/2023/08/31/us-military-calls-for-end-of-fighting-in-east-syria-and-warns-it-could-lead-to-is-resurgence/</loc>
         <news:news>
           <news:publication>
             <news:name>Major Digest</news:name>
             <news:language>en</news:language>
           </news:publication>
-          <news:publication_date>2023-08-31T19:46:59.000Z</news:publication_date>
-          <news:title>Police stop Nebraska man for bucking the law with a bull riding shotgun in his car</news:title>
+          <news:publication_date>2023-08-31T19:43:31.000Z</news:publication_date>
+          <news:title>US military calls for end of fighting in east Syria and warns it could lead to IS resurgence</news:title>
         </news:news>
         <image:image>
-          <image:loc>https://majordigest.com/us/2023/08/31/police-stop-nebraska-man-for-bucking-the-law-with-a-bull-riding-shotgun-in-his-car/police-stop-nebraska-man-for-bucking-the-law-with-a-bull-riding-shotgun-in-his-car.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/us/2023/08/31/west-point-time-capsule-that-appeared-to-contain-nothing-more-than-silt-yields-centuries-old-coins/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-31T19:35:40.000Z</news:publication_date>
-          <news:title>West Point time capsule that appeared to contain nothing more than silt yields centuries-old coins</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/us/2023/08/31/west-point-time-capsule-that-appeared-to-contain-nothing-more-than-silt-yields-centuries-old-coins/west-point-time-capsule-that-appeared-to-contain-nothing-more-than-silt-yields-centuries-old-coins.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/us/2023/08/31/biden-administration-proposes-rule-that-would-require-more-firearms-dealers-to-run-background-checks/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-31T19:35:08.000Z</news:publication_date>
-          <news:title>Biden administration proposes rule that would require more firearms dealers to run background checks</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/us/2023/08/31/biden-administration-proposes-rule-that-would-require-more-firearms-dealers-to-run-background-checks/biden-administration-proposes-rule-that-would-require-more-firearms-dealers-to-run-background-checks.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/us/2023/08/31/mom-accused-shooting-daughters-allegedly-abusive-boyfriend-he-yelled-just-shoot-me-report/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-31T19:34:18.000Z</news:publication_date>
-          <news:title>Mom accused of shooting daughter's allegedly abusive boyfriend after he yelled, 'Just shoot me': report</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/us/2023/08/31/mom-accused-shooting-daughters-allegedly-abusive-boyfriend-he-yelled-just-shoot-me-report/mom-accused-shooting-daughters-allegedly-abusive-boyfriend-he-yelled-just-shoot-me-report.webp</image:loc>
+          <image:loc>https://majordigest.com/us/2023/08/31/us-military-calls-for-end-of-fighting-in-east-syria-and-warns-it-could-lead-to-is-resurgence/us-military-calls-for-end-of-fighting-in-east-syria-and-warns-it-could-lead-to-is-resurgence.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -115,20 +213,6 @@
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/us/2023/08/31/justice-thomas-reports-he-took-3-trips-on-republican-donors-plane-last-year/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-31T19:24:23.000Z</news:publication_date>
-          <news:title>Justice Clarence Thomas reports he took 3 trips on Republican donor's plane last year</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/us/2023/08/31/justice-thomas-reports-he-took-3-trips-on-republican-donors-plane-last-year/justice-thomas-reports-he-took-3-trips-on-republican-donors-plane-last-year.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
         <loc>https://majordigest.com/us/2023/08/31/union-sues-over-changes-in-teacher-evaluations-prompted-by-texas-takeover-of-houston-school-district/</loc>
         <news:news>
           <news:publication>
@@ -140,6 +224,20 @@
         </news:news>
         <image:image>
           <image:loc>https://majordigest.com/us/2023/08/31/union-sues-over-changes-in-teacher-evaluations-prompted-by-texas-takeover-of-houston-school-district/union-sues-over-changes-in-teacher-evaluations-prompted-by-texas-takeover-of-houston-school-district.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/us/2023/08/31/8-passengers-mom-ruby-franke-arrested-for-alleged-child-abuse/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-31T19:06:40.000Z</news:publication_date>
+          <news:title>'8 Passengers' mom Ruby Franke arrested for alleged child abuse</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/us/2023/08/31/8-passengers-mom-ruby-franke-arrested-for-alleged-child-abuse/8-passengers-mom-ruby-franke-arrested-for-alleged-child-abuse.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -157,59 +255,17 @@
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/us/2023/08/31/washington-sheriff-issues-scathing-warning-smash-grab-thieves-were-going-chase-you/</loc>
+        <loc>https://majordigest.com/us/2023/08/31/statue-believed-to-depict-marcus-aurelius-seized-from-cleveland-museum-in-looting-investigation/</loc>
         <news:news>
           <news:publication>
             <news:name>Major Digest</news:name>
             <news:language>en</news:language>
           </news:publication>
-          <news:publication_date>2023-08-31T18:42:41.000Z</news:publication_date>
-          <news:title>Washington sheriff issues scathing warning to smash-and-grab thieves: 'We'll chase you'</news:title>
+          <news:publication_date>2023-08-31T19:00:38.000Z</news:publication_date>
+          <news:title>Statue believed to depict Marcus Aurelius seized from Cleveland museum in looting investigation</news:title>
         </news:news>
         <image:image>
-          <image:loc>https://majordigest.com/us/2023/08/31/washington-sheriff-issues-scathing-warning-smash-grab-thieves-were-going-chase-you/washington-sheriff-issues-scathing-warning-smash-grab-thieves-were-going-chase-you.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/us/2023/08/31/biden-says-he-has-no-concerns-about-mcconnells-health-after-speaking-to-him/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-31T18:34:35.000Z</news:publication_date>
-          <news:title>Biden says he has no concerns about McConnell's health after speaking to him</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/us/2023/08/31/biden-says-he-has-no-concerns-about-mcconnells-health-after-speaking-to-him/biden-says-he-has-no-concerns-about-mcconnells-health-after-speaking-to-him.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/us/2023/08/31/capitol-physician-mcconnell-medically-clear-to-continue-schedule-after-freeze-up/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-31T18:32:42.000Z</news:publication_date>
-          <news:title>McConnell 'medically clear,' says Capitol doctor&#160;</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/us/2023/08/31/capitol-physician-mcconnell-medically-clear-to-continue-schedule-after-freeze-up/capitol-physician-mcconnell-medically-clear-to-continue-schedule-after-freeze-up.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/us/2023/08/31/x-formerly-known-as-twitter-will-collect-user-biometric-data-job-and-education-history/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-31T18:20:57.000Z</news:publication_date>
-          <news:title>X, formerly known as Twitter, will collect user biometric data, job and education history</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/us/2023/08/31/x-formerly-known-as-twitter-will-collect-user-biometric-data-job-and-education-history/x-formerly-known-as-twitter-will-collect-user-biometric-data-job-and-education-history.webp</image:loc>
+          <image:loc>https://majordigest.com/us/2023/08/31/statue-believed-to-depict-marcus-aurelius-seized-from-cleveland-museum-in-looting-investigation/statue-believed-to-depict-marcus-aurelius-seized-from-cleveland-museum-in-looting-investigation.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -227,6 +283,34 @@
         </image:image>
       </url>
       <url>
+        <loc>https://majordigest.com/us/2023/08/31/texas-high-court-allows-law-banning-gender-affirming-care-for-transgender-minors-to-take-effect/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-31T18:15:28.000Z</news:publication_date>
+          <news:title>Texas high court allows law banning gender-affirming care for transgender minors to take effect</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/us/2023/08/31/texas-high-court-allows-law-banning-gender-affirming-care-for-transgender-minors-to-take-effect/texas-high-court-allows-law-banning-gender-affirming-care-for-transgender-minors-to-take-effect.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/us/2023/08/31/late-night-hosts-team-up-for-strike-force-five-podcast-to-benefit-their-out-of-work-staff/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-31T18:07:18.000Z</news:publication_date>
+          <news:title>Late-night hosts team up for 'Strike Force Five' podcast to benefit their out-of-work staff</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/us/2023/08/31/late-night-hosts-team-up-for-strike-force-five-podcast-to-benefit-their-out-of-work-staff/late-night-hosts-team-up-for-strike-force-five-podcast-to-benefit-their-out-of-work-staff.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
         <loc>https://majordigest.com/us/2023/08/31/aclu-sues-tennessee-district-attorney-who-promises-to-enforce-the-states-new-anti-drag-show-ban/</loc>
         <news:news>
           <news:publication>
@@ -241,34 +325,6 @@
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/us/2023/08/31/ex-proud-boys-organizer-sentenced-to-17-years-in-prison-for-plot-to-keep-trump-in-power/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-31T17:51:20.000Z</news:publication_date>
-          <news:title>Ex-Proud Boys organizer sentenced to 17 years in prison for plot to keep Trump in power</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/us/2023/08/31/ex-proud-boys-organizer-sentenced-to-17-years-in-prison-for-plot-to-keep-trump-in-power/ex-proud-boys-organizer-sentenced-to-17-years-in-prison-for-plot-to-keep-trump-in-power.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/us/2023/08/31/alex-murdaugh-loses-prison-phone-privileges-after-lawyer-records-phone-call-for-documentary/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-31T17:31:15.000Z</news:publication_date>
-          <news:title>Alex Murdaugh loses prison phone privileges after lawyer records phone call for documentary</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/us/2023/08/31/alex-murdaugh-loses-prison-phone-privileges-after-lawyer-records-phone-call-for-documentary/alex-murdaugh-loses-prison-phone-privileges-after-lawyer-records-phone-call-for-documentary.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
         <loc>https://majordigest.com/us/2023/08/31/at-least-38-people-have-died-in-a-fire-in-a-building-in-south-africas-biggest-city-authorities-say/</loc>
         <news:news>
           <news:publication>
@@ -280,6 +336,20 @@
         </news:news>
         <image:image>
           <image:loc>https://majordigest.com/us/2023/08/31/at-least-38-people-have-died-in-a-fire-in-a-building-in-south-africas-biggest-city-authorities-say/at-least-38-people-have-died-in-a-fire-in-a-building-in-south-africas-biggest-city-authorities-say.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/us/2023/08/31/first-proud-boy-sentenced-to-17-years-in-prison-after-seditious-conspiracy-conviction/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-31T16:59:51.000Z</news:publication_date>
+          <news:title>First Proud Boy sentenced to 17 years in prison after seditious conspiracy conviction</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/us/2023/08/31/first-proud-boy-sentenced-to-17-years-in-prison-after-seditious-conspiracy-conviction/first-proud-boy-sentenced-to-17-years-in-prison-after-seditious-conspiracy-conviction.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -308,20 +378,6 @@
         </news:news>
         <image:image>
           <image:loc>https://majordigest.com/us/2023/08/31/oprah-and-dwayne-the-rock-johnson-launch-fund-for-maui-fire-victims/oprah-and-dwayne-the-rock-johnson-launch-fund-for-maui-fire-victims.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/us/2023/08/31/tampa-bay-area-gets-serious-flooding-but-again-dodges-a-direct-hit-from-a-major-hurricane/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-31T16:02:14.000Z</news:publication_date>
-          <news:title>Tampa Bay area gets serious flooding but again dodges a direct hit from a major hurricane</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/us/2023/08/31/tampa-bay-area-gets-serious-flooding-but-again-dodges-a-direct-hit-from-a-major-hurricane/tampa-bay-area-gets-serious-flooding-but-again-dodges-a-direct-hit-from-a-major-hurricane.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -367,17 +423,17 @@
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/us/2023/08/31/us-oks-military-aid-to-taiwan-under-program-usually-reserved-for-sovereign-nations/</loc>
+        <loc>https://majordigest.com/us/2023/08/31/missed-taylor-swifts-the-eras-tour-heres-your-chance-to-catch-it-in-theaters/</loc>
         <news:news>
           <news:publication>
             <news:name>Major Digest</news:name>
             <news:language>en</news:language>
           </news:publication>
-          <news:publication_date>2023-08-31T15:22:23.000Z</news:publication_date>
-          <news:title>China objects as US approves military aid to Taiwan under program aimed at sovereign nations</news:title>
+          <news:publication_date>2023-08-31T14:56:53.000Z</news:publication_date>
+          <news:title>Missed Taylor Swift's 'The Eras Tour?' Here's your chance to catch it in theaters</news:title>
         </news:news>
         <image:image>
-          <image:loc>https://majordigest.com/us/2023/08/31/us-oks-military-aid-to-taiwan-under-program-usually-reserved-for-sovereign-nations/us-oks-military-aid-to-taiwan-under-program-usually-reserved-for-sovereign-nations.webp</image:loc>
+          <image:loc>https://majordigest.com/us/2023/08/31/missed-taylor-swifts-the-eras-tour-heres-your-chance-to-catch-it-in-theaters/missed-taylor-swifts-the-eras-tour-heres-your-chance-to-catch-it-in-theaters.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -395,31 +451,17 @@
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/us/2023/08/31/photos-hurricane-idalia-damage/</loc>
+        <loc>https://majordigest.com/us/2023/08/31/visual-artists-fight-back-against-ai-companies-for-repurposing-their-work/</loc>
         <news:news>
           <news:publication>
             <news:name>Major Digest</news:name>
             <news:language>en</news:language>
           </news:publication>
-          <news:publication_date>2023-08-31T13:06:25.000Z</news:publication_date>
-          <news:title>Photos: Hurricane Idalia damage</news:title>
+          <news:publication_date>2023-08-31T05:49:07.000Z</news:publication_date>
+          <news:title>Visual artists fight back against AI companies for repurposing their work</news:title>
         </news:news>
         <image:image>
-          <image:loc>https://majordigest.com/us/2023/08/31/photos-hurricane-idalia-damage/photos-hurricane-idalia-damage.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/us/2023/08/31/tropical-storm-jose-forms-in-atlantic-2-other-disturbances-being-monitored/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-31T12:44:46.000Z</news:publication_date>
-          <news:title>Tropical Storm Jose forms in Atlantic, 2 other disturbances being monitored</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/us/2023/08/31/tropical-storm-jose-forms-in-atlantic-2-other-disturbances-being-monitored/tropical-storm-jose-forms-in-atlantic-2-other-disturbances-being-monitored.webp</image:loc>
+          <image:loc>https://majordigest.com/us/2023/08/31/visual-artists-fight-back-against-ai-companies-for-repurposing-their-work/visual-artists-fight-back-against-ai-companies-for-repurposing-their-work.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -437,20 +479,6 @@
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/us/2023/08/31/watch-nasa-satellite-captures-view-of-hurricanes-idalia/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-31T04:11:00.000Z</news:publication_date>
-          <news:title>Watch: NASA satellite captures view of Hurricane Idalia</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/us/2023/08/31/watch-nasa-satellite-captures-view-of-hurricanes-idalia/watch-nasa-satellite-captures-view-of-hurricanes-idalia.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
         <loc>https://majordigest.com/us/2023/08/31/tennessee-house-speaker-2-lawmakers-are-trying-to-cause-chaos/</loc>
         <news:news>
           <news:publication>
@@ -462,34 +490,6 @@
         </news:news>
         <image:image>
           <image:loc>https://majordigest.com/us/2023/08/31/tennessee-house-speaker-2-lawmakers-are-trying-to-cause-chaos/tennessee-house-speaker-2-lawmakers-are-trying-to-cause-chaos.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/us/2023/08/31/former-disney-star-says-texas-arrest-was-a-misunderstanding-report/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-31T01:28:39.000Z</news:publication_date>
-          <news:title>Former Disney star says Texas arrest was 'a misunderstanding': report</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/us/2023/08/31/former-disney-star-says-texas-arrest-was-a-misunderstanding-report/former-disney-star-says-texas-arrest-was-a-misunderstanding-report.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/us/2023/08/30/hurricane-idalia-slams-florida-as-biden-rallies-fema-support/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-30T23:14:03.000Z</news:publication_date>
-          <news:title>Hurricane Idalia slams Florida as Biden rallies FEMA support</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/us/2023/08/30/hurricane-idalia-slams-florida-as-biden-rallies-fema-support/hurricane-idalia-slams-florida-as-biden-rallies-fema-support.webp</image:loc>
         </image:image>
       </url>
       <url>

@@ -3,6 +3,20 @@
               xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
               xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
       <url>
+        <loc>https://majordigest.com/tech/2023/08/31/how-protect-yourself-vishing-scams/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-31T20:30:36.000Z</news:publication_date>
+          <news:title>How to protect yourself from 'vishing' scams</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/tech/2023/08/31/how-protect-yourself-vishing-scams/how-protect-yourself-vishing-scams.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
         <loc>https://majordigest.com/tech/2023/08/31/federal-authorities-investigating-tesla-over-secret-project-to-build-austin-home-for-musk-report/</loc>
         <news:news>
           <news:publication>
@@ -255,6 +269,20 @@
         </image:image>
       </url>
       <url>
+        <loc>https://majordigest.com/tech/2023/08/30/study-job-applicants-mental-health/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-30T21:56:33.000Z</news:publication_date>
+          <news:title>Study: Job applicants with mental health posts viewed differently</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/tech/2023/08/30/study-job-applicants-mental-health/study-job-applicants-mental-health.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
         <loc>https://majordigest.com/tech/2023/08/30/fbi-disrupts-malicious-program-infecting-computers/</loc>
         <news:news>
           <news:publication>
@@ -308,20 +336,6 @@
         </news:news>
         <image:image>
           <image:loc>https://majordigest.com/tech/2023/08/30/saudi-man-receives-death-penalty-for-posts-online-latest-case-in-wide-ranging-crackdown-on-dissent/saudi-man-receives-death-penalty-for-posts-online-latest-case-in-wide-ranging-crackdown-on-dissent.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/tech/2023/08/30/fox-news-ai-newsletter-tiktoker-sounds-alarm-scary-online-trend-affecting-children/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-30T14:26:08.000Z</news:publication_date>
-          <news:title>Fox News AI Newsletter: TikToker sounds alarm on scary online trend affecting children</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/tech/2023/08/30/fox-news-ai-newsletter-tiktoker-sounds-alarm-scary-online-trend-affecting-children/fox-news-ai-newsletter-tiktoker-sounds-alarm-scary-online-trend-affecting-children.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -490,20 +504,6 @@
         </news:news>
         <image:image>
           <image:loc>https://majordigest.com/tech/2023/08/25/los-angeles-solar-ev-chargers-ev-arc-beam-global/los-angeles-solar-ev-chargers-ev-arc-beam-global.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/tech/2023/08/25/workers-win-raises-at-general-motors-joint-venture-battery-plant-in-ohio-as-contract-talks-continue/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-25T00:12:09.000Z</news:publication_date>
-          <news:title>Workers win raises at General Motors joint venture battery plant in Ohio as contract talks continue</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/tech/2023/08/25/workers-win-raises-at-general-motors-joint-venture-battery-plant-in-ohio-as-contract-talks-continue/workers-win-raises-at-general-motors-joint-venture-battery-plant-in-ohio-as-contract-talks-continue.webp</image:loc>
         </image:image>
       </url>
       <url>

@@ -3,6 +3,76 @@
               xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
               xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
       <url>
+        <loc>https://majordigest.com/politics/2023/08/31/gop-hounds-biden-admin-for-continuing-to-auction-off-border-wall-materials-outragous/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-31T20:59:23.000Z</news:publication_date>
+          <news:title>Republicans outraged as Biden administration border wall auction proceeds</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/politics/2023/08/31/gop-hounds-biden-admin-for-continuing-to-auction-off-border-wall-materials-outragous/gop-hounds-biden-admin-for-continuing-to-auction-off-border-wall-materials-outragous.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/politics/2023/08/31/hunter-bidens-firm-exchanged-1000-emails-joe-bidens-vp-office-records-show/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-31T20:49:01.000Z</news:publication_date>
+          <news:title>Hunter Biden's firm exchanged more than 1,000 emails with Joe Biden's VP office, records show</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/politics/2023/08/31/hunter-bidens-firm-exchanged-1000-emails-joe-bidens-vp-office-records-show/hunter-bidens-firm-exchanged-1000-emails-joe-bidens-vp-office-records-show.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/politics/2023/08/31/federal-judge-issues-temporary-restraining-order-says-texas-law-banning-drag-shows-is-likely-unconstitutional/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-31T20:48:48.000Z</news:publication_date>
+          <news:title>Federal judge issues temporary restraining order, says Texas law banning drag shows is &#8220;likely&#8221; unconstitutional</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/politics/2023/08/31/federal-judge-issues-temporary-restraining-order-says-texas-law-banning-drag-shows-is-likely-unconstitutional/federal-judge-issues-temporary-restraining-order-says-texas-law-banning-drag-shows-is-likely-unconstitutional.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/politics/2023/08/31/missouri-judge-trial-shooting-ralph-yarl/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-31T20:27:30.000Z</news:publication_date>
+          <news:title>Missouri judge rules white man will stand trial for shooting Black teen who went to wrong house</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/politics/2023/08/31/missouri-judge-trial-shooting-ralph-yarl/missouri-judge-trial-shooting-ralph-yarl.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/politics/2023/08/31/house-republicans-second-investigation-maui-wildfires-cause/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-31T20:15:02.000Z</news:publication_date>
+          <news:title>House Republicans launch investigation into cause of Maui wildfires</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/politics/2023/08/31/house-republicans-second-investigation-maui-wildfires-cause/house-republicans-second-investigation-maui-wildfires-cause.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
         <loc>https://majordigest.com/politics/2023/08/31/pentagon-leadership-ufo-office/</loc>
         <news:news>
           <news:publication>
@@ -28,6 +98,20 @@
         </news:news>
         <image:image>
           <image:loc>https://majordigest.com/politics/2023/08/31/biden-downplays-mcconnell-health-concerns-says-he-was-his-old-self-phone/biden-downplays-mcconnell-health-concerns-says-he-was-his-old-self-phone.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/politics/2023/08/31/justice-thomas-reports-he-took-3-trips-on-republican-donors-plane-last-year/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-31T19:24:23.000Z</news:publication_date>
+          <news:title>Justice Clarence Thomas reports he took 3 trips on Republican donor's plane last year</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/politics/2023/08/31/justice-thomas-reports-he-took-3-trips-on-republican-donors-plane-last-year/justice-thomas-reports-he-took-3-trips-on-republican-donors-plane-last-year.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -73,17 +157,17 @@
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/politics/2023/08/31/white-house-announces-additional-450-million-funding-fight-opioid-epidemic/</loc>
+        <loc>https://majordigest.com/politics/2023/08/31/mcconnell-reassurances-freeze-up/</loc>
         <news:news>
           <news:publication>
             <news:name>Major Digest</news:name>
             <news:language>en</news:language>
           </news:publication>
-          <news:publication_date>2023-08-31T19:15:51.000Z</news:publication_date>
-          <news:title>White House announces additional $450 million in funding to fight opioid epidemic</news:title>
+          <news:publication_date>2023-08-31T19:18:11.000Z</news:publication_date>
+          <news:title>McConnell offers reassurances after latest freeze-up</news:title>
         </news:news>
         <image:image>
-          <image:loc>https://majordigest.com/politics/2023/08/31/white-house-announces-additional-450-million-funding-fight-opioid-epidemic/white-house-announces-additional-450-million-funding-fight-opioid-epidemic.webp</image:loc>
+          <image:loc>https://majordigest.com/politics/2023/08/31/mcconnell-reassurances-freeze-up/mcconnell-reassurances-freeze-up.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -98,62 +182,6 @@
         </news:news>
         <image:image>
           <image:loc>https://majordigest.com/politics/2023/08/31/comer-on-future-senate-run-in-kentucky-i-dont-know-whatll-happen/comer-on-future-senate-run-in-kentucky-i-dont-know-whatll-happen.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/politics/2023/08/31/mcconnell-cleared-resume-schedule-planned-following-ky-press-conference-freeze/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-31T18:55:07.000Z</news:publication_date>
-          <news:title>McConnell cleared to resume 'schedule as planned' following KY press conference freeze</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/politics/2023/08/31/mcconnell-cleared-resume-schedule-planned-following-ky-press-conference-freeze/mcconnell-cleared-resume-schedule-planned-following-ky-press-conference-freeze.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/politics/2023/08/31/well-kill-you-election-workers-get-threats-warnings-theyll-be-lynched-us-government-says/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-31T18:54:11.000Z</news:publication_date>
-          <news:title>Election workers have gotten death threats and warnings they will be lynched, the US government says</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/politics/2023/08/31/well-kill-you-election-workers-get-threats-warnings-theyll-be-lynched-us-government-says/well-kill-you-election-workers-get-threats-warnings-theyll-be-lynched-us-government-says.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/politics/2023/08/31/raphael-warnocks-church-resumes-low-income-evictions-election-season/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-31T18:37:44.000Z</news:publication_date>
-          <news:title>Raphael Warnock's church resumes low-income evictions after election season</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/politics/2023/08/31/raphael-warnocks-church-resumes-low-income-evictions-election-season/raphael-warnocks-church-resumes-low-income-evictions-election-season.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/politics/2023/08/31/delaware-judge-orders-status-report-on-felony-gun-charge-against-hunter-biden/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-31T18:10:48.000Z</news:publication_date>
-          <news:title>Delaware judge orders status report on felony gun charge against Hunter Biden</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/politics/2023/08/31/delaware-judge-orders-status-report-on-felony-gun-charge-against-hunter-biden/delaware-judge-orders-status-report-on-felony-gun-charge-against-hunter-biden.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -185,20 +213,6 @@
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/politics/2023/08/31/first-proud-boy-sentenced-to-17-years-in-prison-after-seditious-conspiracy-conviction/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-31T17:01:13.000Z</news:publication_date>
-          <news:title>First Proud Boy sentenced to 17 years in prison after seditious conspiracy conviction</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/politics/2023/08/31/first-proud-boy-sentenced-to-17-years-in-prison-after-seditious-conspiracy-conviction/first-proud-boy-sentenced-to-17-years-in-prison-after-seditious-conspiracy-conviction.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
         <loc>https://majordigest.com/politics/2023/08/31/minnesota-thc-beverage-company-cofounder-sees-black-ownership-in-the-marijuana-business/</loc>
         <news:news>
           <news:publication>
@@ -213,17 +227,17 @@
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/politics/2023/08/31/raimondo-china-congressional-hawks/</loc>
+        <loc>https://majordigest.com/politics/2023/08/31/biden-administration-cancels-loans-for-former-ashford-u-students-with-plans-to-recoup-costs/</loc>
         <news:news>
           <news:publication>
             <news:name>Major Digest</news:name>
             <news:language>en</news:language>
           </news:publication>
-          <news:publication_date>2023-08-31T16:32:02.000Z</news:publication_date>
-          <news:title>Raimondo&#8217;s &#8216;bold move&#8217; in China</news:title>
+          <news:publication_date>2023-08-31T16:55:47.000Z</news:publication_date>
+          <news:title>US government cancels loans for former Ashford University students and plans to recoup costs</news:title>
         </news:news>
         <image:image>
-          <image:loc>https://majordigest.com/politics/2023/08/31/raimondo-china-congressional-hawks/raimondo-china-congressional-hawks.webp</image:loc>
+          <image:loc>https://majordigest.com/politics/2023/08/31/biden-administration-cancels-loans-for-former-ashford-u-students-with-plans-to-recoup-costs/biden-administration-cancels-loans-for-former-ashford-u-students-with-plans-to-recoup-costs.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -241,6 +255,20 @@
         </image:image>
       </url>
       <url>
+        <loc>https://majordigest.com/politics/2023/08/31/desantis-fema-administrator-tour-hurricane-damage/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-31T15:40:40.000Z</news:publication_date>
+          <news:title>Biden will visit Florida over the weekend to survey Hurricane Idalia damage</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/politics/2023/08/31/desantis-fema-administrator-tour-hurricane-damage/desantis-fema-administrator-tour-hurricane-damage.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
         <loc>https://majordigest.com/politics/2023/08/31/financial-disclosures-clarence-thomas-samuel-alito-scotus/</loc>
         <news:news>
           <news:publication>
@@ -255,17 +283,17 @@
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/politics/2023/08/31/trump-georgia-not-guilty-plea/</loc>
+        <loc>https://majordigest.com/politics/2023/08/31/trump-pleads-not-guilty-in-georgia-waives-arraignment/</loc>
         <news:news>
           <news:publication>
             <news:name>Major Digest</news:name>
             <news:language>en</news:language>
           </news:publication>
-          <news:publication_date>2023-08-31T15:34:52.000Z</news:publication_date>
-          <news:title>Trump pleads 'not guilty' in Georgia racketeering case</news:title>
+          <news:publication_date>2023-08-31T15:20:38.000Z</news:publication_date>
+          <news:title>Trump pleads not guilty in Georgia, waives arraignment</news:title>
         </news:news>
         <image:image>
-          <image:loc>https://majordigest.com/politics/2023/08/31/trump-georgia-not-guilty-plea/trump-georgia-not-guilty-plea.webp</image:loc>
+          <image:loc>https://majordigest.com/politics/2023/08/31/trump-pleads-not-guilty-in-georgia-waives-arraignment/trump-pleads-not-guilty-in-georgia-waives-arraignment.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -297,48 +325,6 @@
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/politics/2023/08/31/mayor-adams-calls-for-help-getting-migrants-expedited-work-authorization/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-31T10:36:07.000Z</news:publication_date>
-          <news:title>Mayor Adams calls for help getting migrants expedited work authorization</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/politics/2023/08/31/mayor-adams-calls-for-help-getting-migrants-expedited-work-authorization/mayor-adams-calls-for-help-getting-migrants-expedited-work-authorization.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/politics/2023/08/31/npr-biden-air-force-one-short-stairs/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-31T10:05:00.000Z</news:publication_date>
-          <news:title>Why Biden is now routinely taking the short stairs up to Air Force One</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/politics/2023/08/31/npr-biden-air-force-one-short-stairs/npr-biden-air-force-one-short-stairs.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/politics/2023/08/31/qa-how-can-texans-prepare-for-extreme-heat/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-31T10:00:00.000Z</news:publication_date>
-          <news:title>Q&#38;A: How can Texans deal with extreme heat?</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/politics/2023/08/31/qa-how-can-texans-prepare-for-extreme-heat/qa-how-can-texans-prepare-for-extreme-heat.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
         <loc>https://majordigest.com/politics/2023/08/31/npr-trump-hiv-aids-epidemic-defund-house-republicans/</loc>
         <news:news>
           <news:publication>
@@ -364,6 +350,34 @@
         </news:news>
         <image:image>
           <image:loc>https://majordigest.com/politics/2023/08/31/still-no-strong-2024-gop-challenger-for-klobuchar/still-no-strong-2024-gop-challenger-for-klobuchar.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/politics/2023/08/31/texas-attorney-general-ken-paxton-pursued-perks-beyond-impeachment-allegations-ex-staffers-say/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-31T04:22:37.000Z</news:publication_date>
+          <news:title>Texas Attorney General Ken Paxton pursued perks beyond impeachment allegations, ex-staffers say</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/politics/2023/08/31/texas-attorney-general-ken-paxton-pursued-perks-beyond-impeachment-allegations-ex-staffers-say/texas-attorney-general-ken-paxton-pursued-perks-beyond-impeachment-allegations-ex-staffers-say.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/politics/2023/08/30/hurricane-idalia-slams-florida-as-biden-rallies-fema-support/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-30T23:13:56.000Z</news:publication_date>
+          <news:title>Hurricane Idalia slams Florida as Biden rallies FEMA support</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/politics/2023/08/30/hurricane-idalia-slams-florida-as-biden-rallies-fema-support/hurricane-idalia-slams-florida-as-biden-rallies-fema-support.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -395,20 +409,6 @@
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/politics/2023/08/30/desantis-holds-news-conference-before-hurricane-idalia-makes-landfall/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-30T10:02:53.000Z</news:publication_date>
-          <news:title>DeSantis discusses state response after Idalia makes landfall</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/politics/2023/08/30/desantis-holds-news-conference-before-hurricane-idalia-makes-landfall/desantis-holds-news-conference-before-hurricane-idalia-makes-landfall.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
         <loc>https://majordigest.com/politics/2023/08/29/california-senate-elects-new-leader/</loc>
         <news:news>
           <news:publication>
@@ -434,6 +434,20 @@
         </news:news>
         <image:image>
           <image:loc>https://majordigest.com/politics/2023/08/29/katie-porter-partners-with-gop-rep-to-introduce-bill-to-prevent-infant-formula-crisis/katie-porter-partners-with-gop-rep-to-introduce-bill-to-prevent-infant-formula-crisis.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/politics/2023/08/28/after-setback-lt-gov-dan-patrick-names-another-judge-to-help-with-ken-paxton-impeachment-trial/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-28T21:20:38.000Z</news:publication_date>
+          <news:title>After setback, Lt. Gov. Dan Patrick names another judge to help with Ken Paxton impeachment trial</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/politics/2023/08/28/after-setback-lt-gov-dan-patrick-names-another-judge-to-help-with-ken-paxton-impeachment-trial/after-setback-lt-gov-dan-patrick-names-another-judge-to-help-with-ken-paxton-impeachment-trial.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -504,19 +518,5 @@
         </news:news>
         <image:image>
           <image:loc>https://majordigest.com/politics/2023/08/25/new-york-man-sentenced-to-3-months-in-prison-for-making-threatening-phone-calls-to-rep-marjorie-taylor-greene/new-york-man-sentenced-to-3-months-in-prison-for-making-threatening-phone-calls-to-rep-marjorie-taylor-greene.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/politics/2023/08/24/covid-19-cases-rise-cdc-recommends-updated-vaccine/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-24T20:37:19.000Z</news:publication_date>
-          <news:title>COVID-19 cases rise, CDC recommends updated vaccine</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/politics/2023/08/24/covid-19-cases-rise-cdc-recommends-updated-vaccine/covid-19-cases-rise-cdc-recommends-updated-vaccine.webp</image:loc>
         </image:image>
       </url></urlset>
