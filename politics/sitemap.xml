@@ -3,6 +3,48 @@
               xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
               xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
       <url>
+        <loc>https://majordigest.com/politics/2023/08/31/what-to-know-about-the-impeachment-trial-of-texas-attorney-general-ken-paxton/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-31T04:06:33.000Z</news:publication_date>
+          <news:title>What to know about the impeachment trial of Texas Attorney General Ken Paxton</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/politics/2023/08/31/what-to-know-about-the-impeachment-trial-of-texas-attorney-general-ken-paxton/what-to-know-about-the-impeachment-trial-of-texas-attorney-general-ken-paxton.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/politics/2023/08/31/groups-seek-to-use-the-constitutions-insurrection-clause-to-block-trump-from-2024-ballots/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-31T04:04:20.000Z</news:publication_date>
+          <news:title>Groups seek to use the Constitution's 'insurrection' clause to block Trump from 2024 ballots</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/politics/2023/08/31/groups-seek-to-use-the-constitutions-insurrection-clause-to-block-trump-from-2024-ballots/groups-seek-to-use-the-constitutions-insurrection-clause-to-block-trump-from-2024-ballots.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/politics/2023/08/31/senators-hail-health-dept-recommendation-to-ease-restrictions-on-marijuana/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-31T03:28:33.000Z</news:publication_date>
+          <news:title>Marijuana recommendation by US health agency hailed as first step to easing weed restrictions</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/politics/2023/08/31/senators-hail-health-dept-recommendation-to-ease-restrictions-on-marijuana/senators-hail-health-dept-recommendation-to-ease-restrictions-on-marijuana.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
         <loc>https://majordigest.com/politics/2023/08/31/senate-gop-leader-mitch-mcconnell-appears-to-freeze-up-again-this-time-at-a-kentucky-event/</loc>
         <news:news>
           <news:publication>
@@ -42,6 +84,20 @@
         </news:news>
         <image:image>
           <image:loc>https://majordigest.com/politics/2023/08/31/biden-observe-upcoming-9-11-anniversary-alaska-departure-tradition/biden-observe-upcoming-9-11-anniversary-alaska-departure-tradition.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/politics/2023/08/30/biden-rule-overtime-protections/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-30T23:58:36.000Z</news:publication_date>
+          <news:title>Biden rule would give overtime protections to millions more workers</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/politics/2023/08/30/biden-rule-overtime-protections/biden-rule-overtime-protections.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -115,34 +171,6 @@
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/politics/2023/08/30/mcconnell-second-public-freeze/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-30T22:06:31.000Z</news:publication_date>
-          <news:title>McConnell quickly convenes with allies after second public freeze</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/politics/2023/08/30/mcconnell-second-public-freeze/mcconnell-second-public-freeze.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/politics/2023/08/30/desantis-warns-hurricane-pillagers-florida/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-30T21:48:25.000Z</news:publication_date>
-          <news:title>DeSantis warns hurricane pillagers: 'You loot, we shoot'</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/politics/2023/08/30/desantis-warns-hurricane-pillagers-florida/desantis-warns-hurricane-pillagers-florida.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
         <loc>https://majordigest.com/politics/2023/08/30/newsom-aliso-canyon-dirty-energy-blackouts/</loc>
         <news:news>
           <news:publication>
@@ -157,20 +185,6 @@
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/politics/2023/08/30/72m-in-student-loans-canceled-by-biden-administration-who-qualifies/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-30T21:05:29.000Z</news:publication_date>
-          <news:title>$72M in student loans canceled by Biden administration: Who qualifies</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/politics/2023/08/30/72m-in-student-loans-canceled-by-biden-administration-who-qualifies/72m-in-student-loans-canceled-by-biden-administration-who-qualifies.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
         <loc>https://majordigest.com/politics/2023/08/30/trump-net-worth-fraud-trial/</loc>
         <news:news>
           <news:publication>
@@ -182,20 +196,6 @@
         </news:news>
         <image:image>
           <image:loc>https://majordigest.com/politics/2023/08/30/trump-net-worth-fraud-trial/trump-net-worth-fraud-trial.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/politics/2023/08/30/biden-administration-cancels-loans-for-former-ashford-u-students-with-plans-to-recoup-costs/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-30T19:54:49.000Z</news:publication_date>
-          <news:title>Biden administration cancels loans for former Ashford U. students, with plans to recoup costs</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/politics/2023/08/30/biden-administration-cancels-loans-for-former-ashford-u-students-with-plans-to-recoup-costs/biden-administration-cancels-loans-for-former-ashford-u-students-with-plans-to-recoup-costs.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -238,34 +238,6 @@
         </news:news>
         <image:image>
           <image:loc>https://majordigest.com/politics/2023/08/30/conservative-law-firm-suit-nara-biden-probe/conservative-law-firm-suit-nara-biden-probe.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/politics/2023/08/30/mcconnell-freezes-for-second-time-during-press-conference/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-30T17:53:10.000Z</news:publication_date>
-          <news:title>McConnell freezes for 2nd time while taking questions</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/politics/2023/08/30/mcconnell-freezes-for-second-time-during-press-conference/mcconnell-freezes-for-second-time-during-press-conference.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/politics/2023/08/30/katie-porter-makes-campaign-stop-in-sf-mission-district/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-30T17:41:17.000Z</news:publication_date>
-          <news:title>Katie Porter makes campaign stop in SF Mission District</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/politics/2023/08/30/katie-porter-makes-campaign-stop-in-sf-mission-district/katie-porter-makes-campaign-stop-in-sf-mission-district.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -322,6 +294,20 @@
         </news:news>
         <image:image>
           <image:loc>https://majordigest.com/politics/2023/08/30/police-departments-pull-school-officers-due-to-mn-restraint-law/police-departments-pull-school-officers-due-to-mn-restraint-law.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/politics/2023/08/29/california-senate-elects-new-leader/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-29T22:44:23.000Z</news:publication_date>
+          <news:title>California Senate elects new leader</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/politics/2023/08/29/california-senate-elects-new-leader/california-senate-elects-new-leader.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -448,6 +434,20 @@
         </news:news>
         <image:image>
           <image:loc>https://majordigest.com/politics/2023/08/28/biden-approves-emergency-declaration-for-florida-ahead-of-t-s-idalia/biden-approves-emergency-declaration-for-florida-ahead-of-t-s-idalia.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/politics/2023/08/26/gop-presidential-candidate-vivek-ramaswamy-is-an-unaffiliated-voter-nbc-reports/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-26T20:33:41.000Z</news:publication_date>
+          <news:title>GOP presidential candidate Vivek Ramaswamy is an 'unaffiliated' voter, NBC reports</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/politics/2023/08/26/gop-presidential-candidate-vivek-ramaswamy-is-an-unaffiliated-voter-nbc-reports/gop-presidential-candidate-vivek-ramaswamy-is-an-unaffiliated-voter-nbc-reports.webp</image:loc>
         </image:image>
       </url>
       <url>

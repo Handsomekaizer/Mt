@@ -3,6 +3,62 @@
               xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
               xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
       <url>
+        <loc>https://majordigest.com/us/2023/08/31/gabon-military-officers-say-theyre-seizing-power-just-days-after-the-presidential-election/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-31T04:52:39.000Z</news:publication_date>
+          <news:title>Mutineers in Gabon appoint a military leader after detaining the president, alleging corruption</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/us/2023/08/31/gabon-military-officers-say-theyre-seizing-power-just-days-after-the-presidential-election/gabon-military-officers-say-theyre-seizing-power-just-days-after-the-presidential-election.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/us/2023/08/31/btk-inquiry-childhood-friend-of-potential-victim-seeks-justice/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-31T04:36:09.000Z</news:publication_date>
+          <news:title>BTK inquiry: Childhood friend of potential victim seeks justice</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/us/2023/08/31/btk-inquiry-childhood-friend-of-potential-victim-seeks-justice/btk-inquiry-childhood-friend-of-potential-victim-seeks-justice.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/us/2023/08/31/texas-attorney-general-ken-paxton-pursued-perks-beyond-impeachment-allegations-ex-staffers-say/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-31T04:22:39.000Z</news:publication_date>
+          <news:title>Texas Attorney General Ken Paxton pursued perks beyond impeachment allegations, ex-staffers say</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/us/2023/08/31/texas-attorney-general-ken-paxton-pursued-perks-beyond-impeachment-allegations-ex-staffers-say/texas-attorney-general-ken-paxton-pursued-perks-beyond-impeachment-allegations-ex-staffers-say.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/us/2023/08/31/japans-pm-visits-fish-market-vows-to-help-fisheries-hit-by-china-ban-over-fukushima-water-release/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-31T04:20:25.000Z</news:publication_date>
+          <news:title>Japan's PM visits fish market, vows to help fisheries hit by China ban over Fukushima water release</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/us/2023/08/31/japans-pm-visits-fish-market-vows-to-help-fisheries-hit-by-china-ban-over-fukushima-water-release/japans-pm-visits-fish-market-vows-to-help-fisheries-hit-by-china-ban-over-fukushima-water-release.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
         <loc>https://majordigest.com/us/2023/08/31/watch-nasa-satellite-captures-view-of-hurricanes-idalia/</loc>
         <news:news>
           <news:publication>
@@ -10,52 +66,10 @@
             <news:language>en</news:language>
           </news:publication>
           <news:publication_date>2023-08-31T04:11:00.000Z</news:publication_date>
-          <news:title>Watch: NASA satellite captures view of Hurricanes Idalia</news:title>
+          <news:title>Watch: NASA satellite captures view of Hurricane Idalia</news:title>
         </news:news>
         <image:image>
           <image:loc>https://majordigest.com/us/2023/08/31/watch-nasa-satellite-captures-view-of-hurricanes-idalia/watch-nasa-satellite-captures-view-of-hurricanes-idalia.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/us/2023/08/31/north-korea-says-it-simulated-nuclear-attacks-on-south-korea-and-rehearsed-occupation-of-its-rivals/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-31T04:08:11.000Z</news:publication_date>
-          <news:title>North Korea says it simulated nuclear attacks on South Korea and rehearsed occupation of its rivals</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/us/2023/08/31/north-korea-says-it-simulated-nuclear-attacks-on-south-korea-and-rehearsed-occupation-of-its-rivals/north-korea-says-it-simulated-nuclear-attacks-on-south-korea-and-rehearsed-occupation-of-its-rivals.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/us/2023/08/31/what-to-know-about-the-impeachment-trial-of-texas-attorney-general-ken-paxton/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-31T04:06:33.000Z</news:publication_date>
-          <news:title>What to know about the impeachment trial of Texas Attorney General Ken Paxton</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/us/2023/08/31/what-to-know-about-the-impeachment-trial-of-texas-attorney-general-ken-paxton/what-to-know-about-the-impeachment-trial-of-texas-attorney-general-ken-paxton.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/us/2023/08/31/groups-seek-to-use-the-constitutions-insurrection-clause-to-block-trump-from-2024-ballots/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-31T04:04:20.000Z</news:publication_date>
-          <news:title>Groups seek to use the Constitution's 'insurrection' clause to block Trump from 2024 ballots</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/us/2023/08/31/groups-seek-to-use-the-constitutions-insurrection-clause-to-block-trump-from-2024-ballots/groups-seek-to-use-the-constitutions-insurrection-clause-to-block-trump-from-2024-ballots.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -73,20 +87,6 @@
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/us/2023/08/31/japans-pm-visits-fish-market-vows-to-help-fisheries-hit-by-china-ban-over-fukushima-water-release/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-31T04:02:14.000Z</news:publication_date>
-          <news:title>Japan's PM visits fish market, vows to help fisheries hit by China ban over Fukushima water release</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/us/2023/08/31/japans-pm-visits-fish-market-vows-to-help-fisheries-hit-by-china-ban-over-fukushima-water-release/japans-pm-visits-fish-market-vows-to-help-fisheries-hit-by-china-ban-over-fukushima-water-release.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
         <loc>https://majordigest.com/us/2023/08/31/tennessee-house-speaker-2-lawmakers-are-trying-to-cause-chaos/</loc>
         <news:news>
           <news:publication>
@@ -98,20 +98,6 @@
         </news:news>
         <image:image>
           <image:loc>https://majordigest.com/us/2023/08/31/tennessee-house-speaker-2-lawmakers-are-trying-to-cause-chaos/tennessee-house-speaker-2-lawmakers-are-trying-to-cause-chaos.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/us/2023/08/31/louisiana-woman-stabbed-grandfather-after-grandparents-asked-her-shower-police/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-31T03:56:22.000Z</news:publication_date>
-          <news:title>Louisiana woman stabbed grandfather in the face after grandparents &#8216;asked her to shower&#8217;: Police</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/us/2023/08/31/louisiana-woman-stabbed-grandfather-after-grandparents-asked-her-shower-police/louisiana-woman-stabbed-grandfather-after-grandparents-asked-her-shower-police.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -171,6 +157,34 @@
         </image:image>
       </url>
       <url>
+        <loc>https://majordigest.com/us/2023/08/31/alex-murdaugh-loses-prison-phone-privileges-after-lawyer-records-phone-call-for-documentary/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-31T01:26:59.000Z</news:publication_date>
+          <news:title>Alex Murdaugh loses prison phone privileges after lawyer records phone call for documentary</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/us/2023/08/31/alex-murdaugh-loses-prison-phone-privileges-after-lawyer-records-phone-call-for-documentary/alex-murdaugh-loses-prison-phone-privileges-after-lawyer-records-phone-call-for-documentary.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/us/2023/08/31/west-point-time-capsule-that-appeared-to-contain-nothing-more-than-silt-yields-centuries-old-coins/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-31T00:58:32.000Z</news:publication_date>
+          <news:title>West Point time capsule that appeared to contain nothing more than silt yields centuries-old coins</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/us/2023/08/31/west-point-time-capsule-that-appeared-to-contain-nothing-more-than-silt-yields-centuries-old-coins/west-point-time-capsule-that-appeared-to-contain-nothing-more-than-silt-yields-centuries-old-coins.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
         <loc>https://majordigest.com/us/2023/08/31/live-updates-hurricane-idalia-set-to-hit-florida-as-category-4-storm/</loc>
         <news:news>
           <news:publication>
@@ -185,17 +199,31 @@
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/us/2023/08/30/biden-rule-overtime-protections/</loc>
+        <loc>https://majordigest.com/us/2023/08/31/texas-dps-trooper-kicked-scuffle-smuggler-high-speed-chase-foot-pursuit/</loc>
         <news:news>
           <news:publication>
             <news:name>Major Digest</news:name>
             <news:language>en</news:language>
           </news:publication>
-          <news:publication_date>2023-08-30T23:58:36.000Z</news:publication_date>
-          <news:title>Biden rule would give overtime protections to millions more workers</news:title>
+          <news:publication_date>2023-08-31T00:31:43.000Z</news:publication_date>
+          <news:title>Texas DPS trooper kicked during scuffle with human smuggler after high-speed chase and foot pursuit</news:title>
         </news:news>
         <image:image>
-          <image:loc>https://majordigest.com/us/2023/08/30/biden-rule-overtime-protections/biden-rule-overtime-protections.webp</image:loc>
+          <image:loc>https://majordigest.com/us/2023/08/31/texas-dps-trooper-kicked-scuffle-smuggler-high-speed-chase-foot-pursuit/texas-dps-trooper-kicked-scuffle-smuggler-high-speed-chase-foot-pursuit.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/us/2023/08/31/car-weak-tornado-south-carolina/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-31T00:29:50.000Z</news:publication_date>
+          <news:title>Video: Car flipped by weak tornado in South Carolina, police say</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/us/2023/08/31/car-weak-tornado-south-carolina/car-weak-tornado-south-carolina.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -213,45 +241,31 @@
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/us/2023/08/30/video-car-flipped-by-weak-tornado-in-south-carolina-police-say/</loc>
+        <loc>https://majordigest.com/us/2023/08/30/this-is-how-much-singles-need-to-live-comfortably-in-every-state/</loc>
         <news:news>
           <news:publication>
             <news:name>Major Digest</news:name>
             <news:language>en</news:language>
           </news:publication>
-          <news:publication_date>2023-08-30T22:49:14.000Z</news:publication_date>
-          <news:title>Video: Car flipped by weak tornado in South Carolina, police say</news:title>
+          <news:publication_date>2023-08-30T23:07:40.000Z</news:publication_date>
+          <news:title>This is how much singles need to live comfortably in every state</news:title>
         </news:news>
         <image:image>
-          <image:loc>https://majordigest.com/us/2023/08/30/video-car-flipped-by-weak-tornado-in-south-carolina-police-say/video-car-flipped-by-weak-tornado-in-south-carolina-police-say.webp</image:loc>
+          <image:loc>https://majordigest.com/us/2023/08/30/this-is-how-much-singles-need-to-live-comfortably-in-every-state/this-is-how-much-singles-need-to-live-comfortably-in-every-state.webp</image:loc>
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/us/2023/08/30/hurricane-idalia-causes-100-year-old-oak-tree-to-split-fall-on-gov-desantis-mansion/</loc>
+        <loc>https://majordigest.com/us/2023/08/30/kansas-reporter-files-federal-lawsuit-against-police-chief-who-raided-her-newspapers-office/</loc>
         <news:news>
           <news:publication>
             <news:name>Major Digest</news:name>
             <news:language>en</news:language>
           </news:publication>
-          <news:publication_date>2023-08-30T22:38:00.000Z</news:publication_date>
-          <news:title>Hurricane Idalia causes 100-year-old oak tree to split, fall on Gov. DeSantis' mansion</news:title>
+          <news:publication_date>2023-08-30T22:59:36.000Z</news:publication_date>
+          <news:title>Kansas reporter files federal lawsuit against police chief who raided her newspaper's office</news:title>
         </news:news>
         <image:image>
-          <image:loc>https://majordigest.com/us/2023/08/30/hurricane-idalia-causes-100-year-old-oak-tree-to-split-fall-on-gov-desantis-mansion/hurricane-idalia-causes-100-year-old-oak-tree-to-split-fall-on-gov-desantis-mansion.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/us/2023/08/30/university-of-north-carolina-students-rally-for-gun-safety-after-fatal-shooting-of-faculty-member/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-30T22:28:02.000Z</news:publication_date>
-          <news:title>University of North Carolina students rally for gun safety after fatal shooting of faculty member</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/us/2023/08/30/university-of-north-carolina-students-rally-for-gun-safety-after-fatal-shooting-of-faculty-member/university-of-north-carolina-students-rally-for-gun-safety-after-fatal-shooting-of-faculty-member.webp</image:loc>
+          <image:loc>https://majordigest.com/us/2023/08/30/kansas-reporter-files-federal-lawsuit-against-police-chief-who-raided-her-newspapers-office/kansas-reporter-files-federal-lawsuit-against-police-chief-who-raided-her-newspapers-office.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -283,34 +297,6 @@
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/us/2023/08/30/arrest-tied-to-viral-2021-photo-of-woman-flashing-ak-47-in-san-francisco/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-30T21:59:53.000Z</news:publication_date>
-          <news:title>Arrest tied to viral 2021 photo of woman flashing AK-47 in San Francisco</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/us/2023/08/30/arrest-tied-to-viral-2021-photo-of-woman-flashing-ak-47-in-san-francisco/arrest-tied-to-viral-2021-photo-of-woman-flashing-ak-47-in-san-francisco.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/us/2023/08/30/did-you-know-each-full-moon-has-its-own-name-heres-why/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-30T21:47:58.000Z</news:publication_date>
-          <news:title>Did you know each full moon has its own name? Here's why</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/us/2023/08/30/did-you-know-each-full-moon-has-its-own-name-heres-why/did-you-know-each-full-moon-has-its-own-name-heres-why.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
         <loc>https://majordigest.com/us/2023/08/30/us-oks-military-aid-to-taiwan-under-program-usually-reserved-for-sovereign-nations/</loc>
         <news:news>
           <news:publication>
@@ -339,34 +325,6 @@
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/us/2023/08/30/this-is-how-much-singles-need-to-live-comfortably-in-nevada/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-30T20:48:26.000Z</news:publication_date>
-          <news:title>This is how much singles need to live comfortably in Nevada</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/us/2023/08/30/this-is-how-much-singles-need-to-live-comfortably-in-nevada/this-is-how-much-singles-need-to-live-comfortably-in-nevada.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/us/2023/08/30/whats-in-floodwaters-hurricane-idalias-surge-poses-hidden-risk-cdc-says/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-30T20:45:28.000Z</news:publication_date>
-          <news:title>What's in floodwaters? Hurricane Idalia's surge poses hidden risk, CDC says</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/us/2023/08/30/whats-in-floodwaters-hurricane-idalias-surge-poses-hidden-risk-cdc-says/whats-in-floodwaters-hurricane-idalias-surge-poses-hidden-risk-cdc-says.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
         <loc>https://majordigest.com/us/2023/08/30/fatal-shooting-of-college-student-who-tried-entering-wrong-home-justifiable-south-carolina-authorities/</loc>
         <news:news>
           <news:publication>
@@ -381,17 +339,17 @@
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/us/2023/08/30/72-million-in-student-loans-canceled-by-biden-administration-who-qualifies/</loc>
+        <loc>https://majordigest.com/us/2023/08/30/person-gets-sick-dies-from-amebic-infection-after-swimming-in-texas-lake/</loc>
         <news:news>
           <news:publication>
             <news:name>Major Digest</news:name>
             <news:language>en</news:language>
           </news:publication>
-          <news:publication_date>2023-08-30T20:06:08.000Z</news:publication_date>
-          <news:title>$72 million in student loans canceled by Biden administration: Who qualifies</news:title>
+          <news:publication_date>2023-08-30T20:06:18.000Z</news:publication_date>
+          <news:title>Person gets sick, dies from amebic infection after swimming in Texas lake</news:title>
         </news:news>
         <image:image>
-          <image:loc>https://majordigest.com/us/2023/08/30/72-million-in-student-loans-canceled-by-biden-administration-who-qualifies/72-million-in-student-loans-canceled-by-biden-administration-who-qualifies.webp</image:loc>
+          <image:loc>https://majordigest.com/us/2023/08/30/person-gets-sick-dies-from-amebic-infection-after-swimming-in-texas-lake/person-gets-sick-dies-from-amebic-infection-after-swimming-in-texas-lake.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -406,6 +364,34 @@
         </news:news>
         <image:image>
           <image:loc>https://majordigest.com/us/2023/08/30/judge-enters-default-judgment-against-giuliani-in-defamation-lawsuit-from-georgia-election-workers/judge-enters-default-judgment-against-giuliani-in-defamation-lawsuit-from-georgia-election-workers.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/us/2023/08/30/federal-health-officials-recommend-reclassifying-marijuana/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-30T19:34:40.000Z</news:publication_date>
+          <news:title>Federal health officials recommend reclassifying marijuana</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/us/2023/08/30/federal-health-officials-recommend-reclassifying-marijuana/federal-health-officials-recommend-reclassifying-marijuana.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/us/2023/08/30/the-only-defendant-in-the-georgia-election-indictment-to-spend-time-in-jail-has-been-granted-bond/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-30T19:28:02.000Z</news:publication_date>
+          <news:title>The only defendant in the Georgia election indictment to spend time in jail is released on bond</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/us/2023/08/30/the-only-defendant-in-the-georgia-election-indictment-to-spend-time-in-jail-has-been-granted-bond/the-only-defendant-in-the-georgia-election-indictment-to-spend-time-in-jail-has-been-granted-bond.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -451,6 +437,34 @@
         </image:image>
       </url>
       <url>
+        <loc>https://majordigest.com/us/2023/08/30/corn-sweat-and-why-its-heaping-on-the-humidity/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-30T15:47:57.000Z</news:publication_date>
+          <news:title>'Corn sweat' and why it's heaping on the humidity</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/us/2023/08/30/corn-sweat-and-why-its-heaping-on-the-humidity/corn-sweat-and-why-its-heaping-on-the-humidity.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/us/2023/08/30/11-taken-to-hospital-as-delta-jetliner-hits-turbulence-near-atlanta-airport/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-30T09:37:21.000Z</news:publication_date>
+          <news:title>11 taken to hospital as Delta jetliner hits turbulence near Atlanta airport</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/us/2023/08/30/11-taken-to-hospital-as-delta-jetliner-hits-turbulence-near-atlanta-airport/11-taken-to-hospital-as-delta-jetliner-hits-turbulence-near-atlanta-airport.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
         <loc>https://majordigest.com/us/2023/08/30/massive-alligator-patiently-waits-outside-dollar-general/</loc>
         <news:news>
           <news:publication>
@@ -476,20 +490,6 @@
         </news:news>
         <image:image>
           <image:loc>https://majordigest.com/us/2023/08/30/canada-warns-residents-visiting-us-about-anti-lgbtq-laws/canada-warns-residents-visiting-us-about-anti-lgbtq-laws.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/us/2023/08/29/watch-ohio-police-cruiser-slams-into-store/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-29T23:19:43.000Z</news:publication_date>
-          <news:title>Watch: Police cruiser slams into store</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/us/2023/08/29/watch-ohio-police-cruiser-slams-into-store/watch-ohio-police-cruiser-slams-into-store.webp</image:loc>
         </image:image>
       </url>
       <url>
