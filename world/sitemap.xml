@@ -3,6 +3,34 @@
               xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
               xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
       <url>
+        <loc>https://majordigest.com/world/2023/08/31/north-korea-simulates-massive-scorched-earth-nuclear-attack-south-korea-includes-conquering-rival/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-31T09:43:01.000Z</news:publication_date>
+          <news:title>North Korea simulates massive 'scorched earth' nuclear attack on South Korea, includes conquering rival</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/world/2023/08/31/north-korea-simulates-massive-scorched-earth-nuclear-attack-south-korea-includes-conquering-rival/north-korea-simulates-massive-scorched-earth-nuclear-attack-south-korea-includes-conquering-rival.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/world/2023/08/31/government-incentives-and-cost-conscious-customers-lead-to-electric-vehicle-boom-in-india/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-31T08:08:56.000Z</news:publication_date>
+          <news:title>India is one of the world's fastest-growing EV markets. This is why</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/world/2023/08/31/government-incentives-and-cost-conscious-customers-lead-to-electric-vehicle-boom-in-india/government-incentives-and-cost-conscious-customers-lead-to-electric-vehicle-boom-in-india.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
         <loc>https://majordigest.com/world/2023/08/31/a-fire-kills-15-in-a-philippine-factory-where-rains-and-a-wrong-address-delayed-firefighters/</loc>
         <news:news>
           <news:publication>
@@ -52,7 +80,7 @@
             <news:language>en</news:language>
           </news:publication>
           <news:publication_date>2023-08-31T06:48:34.000Z</news:publication_date>
-          <news:title>Fire at multi-story building in Johannesburg leaves at least 63 dead, more than 40 injured</news:title>
+          <news:title>Johannesburg building fire leaves at least 73 dead, 52 injured</news:title>
         </news:news>
         <image:image>
           <image:loc>https://majordigest.com/world/2023/08/31/fire-multi-story-building-johannesburg-least-63-dead-over-40-injured/fire-multi-story-building-johannesburg-least-63-dead-over-40-injured.webp</image:loc>
@@ -129,6 +157,20 @@
         </image:image>
       </url>
       <url>
+        <loc>https://majordigest.com/world/2023/08/31/33-year-old-brazilian-fitness-influence-dies-double-cardiac-arrest/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-31T01:29:12.000Z</news:publication_date>
+          <news:title>33-year-old Brazilian fitness influencer dies after double cardiac arrest</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/world/2023/08/31/33-year-old-brazilian-fitness-influence-dies-double-cardiac-arrest/33-year-old-brazilian-fitness-influence-dies-double-cardiac-arrest.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
         <loc>https://majordigest.com/world/2023/08/30/us-asks-mexico-investigate-labor-rights-cargo-airline-trade-agreement/</loc>
         <news:news>
           <news:publication>
@@ -157,20 +199,6 @@
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/world/2023/08/30/quite-scene-5-million-bees-loose-falling-truck-toronto/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-30T23:36:21.000Z</news:publication_date>
-          <news:title>'Quite the scene': 5 million bees loose after falling off truck outside Toronto</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/world/2023/08/30/quite-scene-5-million-bees-loose-falling-truck-toronto/quite-scene-5-million-bees-loose-falling-truck-toronto.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
         <loc>https://majordigest.com/world/2023/08/30/drones-targeted-5-regions-in-biggest-attack-on-russian-soil-in-18-months-defense-ministry-says/</loc>
         <news:news>
           <news:publication>
@@ -182,20 +210,6 @@
         </news:news>
         <image:image>
           <image:loc>https://majordigest.com/world/2023/08/30/drones-targeted-5-regions-in-biggest-attack-on-russian-soil-in-18-months-defense-ministry-says/drones-targeted-5-regions-in-biggest-attack-on-russian-soil-in-18-months-defense-ministry-says.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/world/2023/08/30/first-us-military-transfer-to-taiwan-approved-under-program-for-sovereign-states/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-30T19:22:17.000Z</news:publication_date>
-          <news:title>First US military transfer to Taiwan approved under program for sovereign states</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/world/2023/08/30/first-us-military-transfer-to-taiwan-approved-under-program-for-sovereign-states/first-us-military-transfer-to-taiwan-approved-under-program-for-sovereign-states.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -269,6 +283,34 @@
         </image:image>
       </url>
       <url>
+        <loc>https://majordigest.com/world/2023/08/30/white-house-warns-russia-north-korea-weapons-negotiations-are-actively-advancing/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-30T16:34:07.000Z</news:publication_date>
+          <news:title>White House warns Russia, North Korea weapons negotiations are &#8216;actively advancing&#8217;</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/world/2023/08/30/white-house-warns-russia-north-korea-weapons-negotiations-are-actively-advancing/white-house-warns-russia-north-korea-weapons-negotiations-are-actively-advancing.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/world/2023/08/30/kremlin-says-prigozhin-crash-may-have-been-deliberate/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-30T15:56:32.000Z</news:publication_date>
+          <news:title>Kremlin says Prigozhin crash may have been 'deliberate'</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/world/2023/08/30/kremlin-says-prigozhin-crash-may-have-been-deliberate/kremlin-says-prigozhin-crash-may-have-been-deliberate.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
         <loc>https://majordigest.com/world/2023/08/30/kremlin-says-prigozhin-crash-may-have-been-deliberate/</loc>
         <news:news>
           <news:publication>
@@ -294,20 +336,6 @@
         </news:news>
         <image:image>
           <image:loc>https://majordigest.com/world/2023/08/30/ocasio-cortez-immigration-is-arguably-this-administrations-weakest-issue/ocasio-cortez-immigration-is-arguably-this-administrations-weakest-issue.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/world/2023/08/30/pope-heads-to-mongolia-to-minister-to-its-few-catholics-and-complete-centuries-old-east-west-mission/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-30T07:49:33.000Z</news:publication_date>
-          <news:title>Pope heads to Mongolia to minister to its few Catholics and complete centuries-old East-West mission</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/world/2023/08/30/pope-heads-to-mongolia-to-minister-to-its-few-catholics-and-complete-centuries-old-east-west-mission/pope-heads-to-mongolia-to-minister-to-its-few-catholics-and-complete-centuries-old-east-west-mission.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -395,20 +423,6 @@
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/world/2023/08/28/virginia-man-stolen-at-birth-meets-chilean-family-for-first-time/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-28T19:50:29.000Z</news:publication_date>
-          <news:title>Virginia man stolen at birth meets Chilean family for first time</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/world/2023/08/28/virginia-man-stolen-at-birth-meets-chilean-family-for-first-time/virginia-man-stolen-at-birth-meets-chilean-family-for-first-time.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
         <loc>https://majordigest.com/world/2023/08/28/bog-snorkeling-championships-competitors-race-through-slime-in-british-contest/</loc>
         <news:news>
           <news:publication>
@@ -420,20 +434,6 @@
         </news:news>
         <image:image>
           <image:loc>https://majordigest.com/world/2023/08/28/bog-snorkeling-championships-competitors-race-through-slime-in-british-contest/bog-snorkeling-championships-competitors-race-through-slime-in-british-contest.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/world/2023/08/28/8-us-marines-remain-in-hospital-after-fiery-aircraft-crash-killed-3-in-australia/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-28T05:36:17.000Z</news:publication_date>
-          <news:title>8 US Marines remain in a hospital after a fiery aircraft crash killed 3 during drills in Australia</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/world/2023/08/28/8-us-marines-remain-in-hospital-after-fiery-aircraft-crash-killed-3-in-australia/8-us-marines-remain-in-hospital-after-fiery-aircraft-crash-killed-3-in-australia.webp</image:loc>
         </image:image>
       </url>
       <url>
