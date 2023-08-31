@@ -3,17 +3,101 @@
               xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
               xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
       <url>
-        <loc>https://majordigest.com/us/2023/08/31/west-point-time-capsule-that-appeared-to-contain-nothing-more-than-silt-yields-centuries-old-coins/</loc>
+        <loc>https://majordigest.com/us/2023/08/31/dc-teens-captured-video-attempted-carjacking-grubhub-driver-arrested-charged-robbery-spree/</loc>
         <news:news>
           <news:publication>
             <news:name>Major Digest</news:name>
             <news:language>en</news:language>
           </news:publication>
-          <news:publication_date>2023-08-31T00:58:32.000Z</news:publication_date>
-          <news:title>West Point time capsule that appeared to contain nothing more than silt yields centuries-old coins</news:title>
+          <news:publication_date>2023-08-31T02:04:53.000Z</news:publication_date>
+          <news:title>DC teens captured on video in attempted carjacking of Grubhub driver arrested, charged in robbery spree</news:title>
         </news:news>
         <image:image>
-          <image:loc>https://majordigest.com/us/2023/08/31/west-point-time-capsule-that-appeared-to-contain-nothing-more-than-silt-yields-centuries-old-coins/west-point-time-capsule-that-appeared-to-contain-nothing-more-than-silt-yields-centuries-old-coins.webp</image:loc>
+          <image:loc>https://majordigest.com/us/2023/08/31/dc-teens-captured-video-attempted-carjacking-grubhub-driver-arrested-charged-robbery-spree/dc-teens-captured-video-attempted-carjacking-grubhub-driver-arrested-charged-robbery-spree.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/us/2023/08/31/this-trans-woman-was-begging-on-indias-streets-a-donated-electric-rickshaw-changed-her-life/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-31T01:53:33.000Z</news:publication_date>
+          <news:title>This trans woman was begging on India&#8217;s streets. A donated electric rickshaw changed her life</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/us/2023/08/31/this-trans-woman-was-begging-on-indias-streets-a-donated-electric-rickshaw-changed-her-life/this-trans-woman-was-begging-on-indias-streets-a-donated-electric-rickshaw-changed-her-life.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/us/2023/08/31/government-incentives-and-cost-conscious-customers-lead-to-electric-vehicle-boom-in-india/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-31T01:51:59.000Z</news:publication_date>
+          <news:title>Government incentives and cost-conscious customers lead to electric vehicle boom in India</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/us/2023/08/31/government-incentives-and-cost-conscious-customers-lead-to-electric-vehicle-boom-in-india/government-incentives-and-cost-conscious-customers-lead-to-electric-vehicle-boom-in-india.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/us/2023/08/31/nyc-migrants-living-temporary-shelters-dont-need-vaccinations-initially-enroll-public-school/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-31T01:41:01.000Z</news:publication_date>
+          <news:title>NYC migrants living in temporary shelters don't need vaccinations to initially enroll in public school</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/us/2023/08/31/nyc-migrants-living-temporary-shelters-dont-need-vaccinations-initially-enroll-public-school/nyc-migrants-living-temporary-shelters-dont-need-vaccinations-initially-enroll-public-school.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/us/2023/08/31/senate-gop-leader-mitch-mcconnell-appears-to-freeze-up-again-this-time-at-a-kentucky-event/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-31T01:34:08.000Z</news:publication_date>
+          <news:title>Senate GOP leader Mitch McConnell appears to freeze up again, this time at a Kentucky event</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/us/2023/08/31/senate-gop-leader-mitch-mcconnell-appears-to-freeze-up-again-this-time-at-a-kentucky-event/senate-gop-leader-mitch-mcconnell-appears-to-freeze-up-again-this-time-at-a-kentucky-event.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/us/2023/08/31/former-disney-star-says-texas-arrest-was-a-misunderstanding-report/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-31T01:30:32.000Z</news:publication_date>
+          <news:title>Former Disney star says Texas arrest was 'a misunderstanding': report</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/us/2023/08/31/former-disney-star-says-texas-arrest-was-a-misunderstanding-report/former-disney-star-says-texas-arrest-was-a-misunderstanding-report.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/us/2023/08/31/alex-murdaugh-loses-prison-phone-privileges-after-lawyer-records-phone-call-for-documentary/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-31T01:26:59.000Z</news:publication_date>
+          <news:title>Alex Murdaugh loses prison phone privileges after lawyer records phone call for documentary</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/us/2023/08/31/alex-murdaugh-loses-prison-phone-privileges-after-lawyer-records-phone-call-for-documentary/alex-murdaugh-loses-prison-phone-privileges-after-lawyer-records-phone-call-for-documentary.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -31,6 +115,34 @@
         </image:image>
       </url>
       <url>
+        <loc>https://majordigest.com/us/2023/08/31/car-weak-tornado-south-carolina/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-31T00:29:50.000Z</news:publication_date>
+          <news:title>Video: Car flipped by weak tornado in South Carolina, police say</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/us/2023/08/31/car-weak-tornado-south-carolina/car-weak-tornado-south-carolina.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/us/2023/08/30/biden-rule-overtime-protections/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-30T23:58:36.000Z</news:publication_date>
+          <news:title>Biden rule would give overtime protections to millions more workers</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/us/2023/08/30/biden-rule-overtime-protections/biden-rule-overtime-protections.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
         <loc>https://majordigest.com/us/2023/08/30/each-full-moon-own-name/</loc>
         <news:news>
           <news:publication>
@@ -42,20 +154,6 @@
         </news:news>
         <image:image>
           <image:loc>https://majordigest.com/us/2023/08/30/each-full-moon-own-name/each-full-moon-own-name.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/us/2023/08/30/major-price-reductions-tuberculosis-drug-bedaquiline-lower-income-countries-jj-lupin/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-30T23:42:11.000Z</news:publication_date>
-          <news:title>Major price reductions for tuberculosis drug Bedaquiline in lower-income countries by J&#38;J and Lupin</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/us/2023/08/30/major-price-reductions-tuberculosis-drug-bedaquiline-lower-income-countries-jj-lupin/major-price-reductions-tuberculosis-drug-bedaquiline-lower-income-countries-jj-lupin.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -73,45 +171,31 @@
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/us/2023/08/30/voters-in-one-iowa-county-reject-gop-appointed-auditor-who-posted-about-2020-election-doubts/</loc>
+        <loc>https://majordigest.com/us/2023/08/30/hurricane-idalia-slams-florida-as-biden-rallies-fema-support/</loc>
         <news:news>
           <news:publication>
             <news:name>Major Digest</news:name>
             <news:language>en</news:language>
           </news:publication>
-          <news:publication_date>2023-08-30T23:25:19.000Z</news:publication_date>
-          <news:title>Voters in one Iowa county reject GOP-appointed auditor who posted about 2020 election doubts</news:title>
+          <news:publication_date>2023-08-30T23:14:03.000Z</news:publication_date>
+          <news:title>Hurricane Idalia slams Florida as Biden rallies FEMA support</news:title>
         </news:news>
         <image:image>
-          <image:loc>https://majordigest.com/us/2023/08/30/voters-in-one-iowa-county-reject-gop-appointed-auditor-who-posted-about-2020-election-doubts/voters-in-one-iowa-county-reject-gop-appointed-auditor-who-posted-about-2020-election-doubts.webp</image:loc>
+          <image:loc>https://majordigest.com/us/2023/08/30/hurricane-idalia-slams-florida-as-biden-rallies-fema-support/hurricane-idalia-slams-florida-as-biden-rallies-fema-support.webp</image:loc>
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/us/2023/08/30/alex-murdaugh-loses-prison-phone-privileges-after-lawyer-records-phone-call-for-documentary/</loc>
+        <loc>https://majordigest.com/us/2023/08/30/this-is-how-much-singles-need-to-live-comfortably-in-every-state/</loc>
         <news:news>
           <news:publication>
             <news:name>Major Digest</news:name>
             <news:language>en</news:language>
           </news:publication>
-          <news:publication_date>2023-08-30T23:11:37.000Z</news:publication_date>
-          <news:title>Alex Murdaugh loses prison phone privileges after lawyer records phone call for documentary</news:title>
+          <news:publication_date>2023-08-30T23:07:40.000Z</news:publication_date>
+          <news:title>This is how much singles need to live comfortably in every state</news:title>
         </news:news>
         <image:image>
-          <image:loc>https://majordigest.com/us/2023/08/30/alex-murdaugh-loses-prison-phone-privileges-after-lawyer-records-phone-call-for-documentary/alex-murdaugh-loses-prison-phone-privileges-after-lawyer-records-phone-call-for-documentary.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/us/2023/08/30/bee-alert-5-million-bees-fall-off-truck-near-toronto-and-drivers-are-asked-to-close-windows/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-30T23:07:11.000Z</news:publication_date>
-          <news:title>Bee alert: 5 million bees fall off truck near Toronto and drivers are asked to close windows</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/us/2023/08/30/bee-alert-5-million-bees-fall-off-truck-near-toronto-and-drivers-are-asked-to-close-windows/bee-alert-5-million-bees-fall-off-truck-near-toronto-and-drivers-are-asked-to-close-windows.webp</image:loc>
+          <image:loc>https://majordigest.com/us/2023/08/30/this-is-how-much-singles-need-to-live-comfortably-in-every-state/this-is-how-much-singles-need-to-live-comfortably-in-every-state.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -143,31 +227,17 @@
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/us/2023/08/30/ex-proud-boys-leader-enrique-tarrio-to-be-sentenced-for-seditious-conspiracy-in-jan-6-attack/</loc>
+        <loc>https://majordigest.com/us/2023/08/30/hurricane-idalia-causes-100-year-old-oak-tree-to-split-fall-on-gov-desantis-mansion/</loc>
         <news:news>
           <news:publication>
             <news:name>Major Digest</news:name>
             <news:language>en</news:language>
           </news:publication>
-          <news:publication_date>2023-08-30T22:38:25.000Z</news:publication_date>
-          <news:title>Judge's illness delays sentencing for ex-Proud Boys leader Enrique Tarrio in Jan. 6 case</news:title>
+          <news:publication_date>2023-08-30T22:38:00.000Z</news:publication_date>
+          <news:title>Hurricane Idalia causes 100-year-old oak tree to split, fall on Gov. DeSantis' mansion</news:title>
         </news:news>
         <image:image>
-          <image:loc>https://majordigest.com/us/2023/08/30/ex-proud-boys-leader-enrique-tarrio-to-be-sentenced-for-seditious-conspiracy-in-jan-6-attack/ex-proud-boys-leader-enrique-tarrio-to-be-sentenced-for-seditious-conspiracy-in-jan-6-attack.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/us/2023/08/30/white-house-says-putin-and-kim-jong-un-traded-letters-as-russia-looks-for-munitions-from-north-korea/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-30T22:37:21.000Z</news:publication_date>
-          <news:title>White House says Putin and Kim Jong Un traded letters as Russia looks for munitions from North Korea</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/us/2023/08/30/white-house-says-putin-and-kim-jong-un-traded-letters-as-russia-looks-for-munitions-from-north-korea/white-house-says-putin-and-kim-jong-un-traded-letters-as-russia-looks-for-munitions-from-north-korea.webp</image:loc>
+          <image:loc>https://majordigest.com/us/2023/08/30/hurricane-idalia-causes-100-year-old-oak-tree-to-split-fall-on-gov-desantis-mansion/hurricane-idalia-causes-100-year-old-oak-tree-to-split-fall-on-gov-desantis-mansion.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -185,20 +255,6 @@
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/us/2023/08/30/biden-warns-idalia-still-dangerous-says-he-hasnt-forgotten-about-the-victims-of-hawaiis-wildfires/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-30T22:03:01.000Z</news:publication_date>
-          <news:title>Biden warns Idalia still dangerous, says he hasn't forgotten about the victims of Hawaii's wildfires</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/us/2023/08/30/biden-warns-idalia-still-dangerous-says-he-hasnt-forgotten-about-the-victims-of-hawaiis-wildfires/biden-warns-idalia-still-dangerous-says-he-hasnt-forgotten-about-the-victims-of-hawaiis-wildfires.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
         <loc>https://majordigest.com/us/2023/08/30/arrest-tied-to-viral-2021-photo-of-woman-flashing-ak-47-in-san-francisco/</loc>
         <news:news>
           <news:publication>
@@ -210,6 +266,20 @@
         </news:news>
         <image:image>
           <image:loc>https://majordigest.com/us/2023/08/30/arrest-tied-to-viral-2021-photo-of-woman-flashing-ak-47-in-san-francisco/arrest-tied-to-viral-2021-photo-of-woman-flashing-ak-47-in-san-francisco.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/us/2023/08/30/did-you-know-each-full-moon-has-its-own-name-heres-why/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-30T21:47:58.000Z</news:publication_date>
+          <news:title>Did you know each full moon has its own name? Here's why</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/us/2023/08/30/did-you-know-each-full-moon-has-its-own-name-heres-why/did-you-know-each-full-moon-has-its-own-name-heres-why.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -227,17 +297,17 @@
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/us/2023/08/30/this-is-how-much-singles-need-to-live-comfortably-in-every-state/</loc>
+        <loc>https://majordigest.com/us/2023/08/30/biden-rule-would-give-overtime-protections-to-millions-more-workers/</loc>
         <news:news>
           <news:publication>
             <news:name>Major Digest</news:name>
             <news:language>en</news:language>
           </news:publication>
-          <news:publication_date>2023-08-30T21:38:34.000Z</news:publication_date>
-          <news:title>This is how much singles need to live comfortably in every state</news:title>
+          <news:publication_date>2023-08-30T21:27:12.000Z</news:publication_date>
+          <news:title>Biden rule would give overtime protections to millions more workers</news:title>
         </news:news>
         <image:image>
-          <image:loc>https://majordigest.com/us/2023/08/30/this-is-how-much-singles-need-to-live-comfortably-in-every-state/this-is-how-much-singles-need-to-live-comfortably-in-every-state.webp</image:loc>
+          <image:loc>https://majordigest.com/us/2023/08/30/biden-rule-would-give-overtime-protections-to-millions-more-workers/biden-rule-would-give-overtime-protections-to-millions-more-workers.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -269,20 +339,6 @@
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/us/2023/08/30/whats-in-floodwaters-hurricane-idalias-surge-poses-hidden-risk-cdc-says/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-30T20:45:28.000Z</news:publication_date>
-          <news:title>What's in floodwaters? Hurricane Idalia's surge poses hidden risk, CDC says</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/us/2023/08/30/whats-in-floodwaters-hurricane-idalias-surge-poses-hidden-risk-cdc-says/whats-in-floodwaters-hurricane-idalias-surge-poses-hidden-risk-cdc-says.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
         <loc>https://majordigest.com/us/2023/08/30/fatal-shooting-of-college-student-who-tried-entering-wrong-home-justifiable-south-carolina-authorities/</loc>
         <news:news>
           <news:publication>
@@ -294,6 +350,20 @@
         </news:news>
         <image:image>
           <image:loc>https://majordigest.com/us/2023/08/30/fatal-shooting-of-college-student-who-tried-entering-wrong-home-justifiable-south-carolina-authorities/fatal-shooting-of-college-student-who-tried-entering-wrong-home-justifiable-south-carolina-authorities.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/us/2023/08/30/person-gets-sick-dies-from-amebic-infection-after-swimming-in-texas-lake/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-30T20:06:18.000Z</news:publication_date>
+          <news:title>Person gets sick, dies from amebic infection after swimming in Texas lake</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/us/2023/08/30/person-gets-sick-dies-from-amebic-infection-after-swimming-in-texas-lake/person-gets-sick-dies-from-amebic-infection-after-swimming-in-texas-lake.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -325,20 +395,6 @@
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/us/2023/08/30/judge-enters-default-judgment-against-giuliani-in-defamation-lawsuit-from-georgia-election-workers/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-30T19:35:27.000Z</news:publication_date>
-          <news:title>Judge holds Giuliani liable in Georgia election workers' defamation case for withholding information</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/us/2023/08/30/judge-enters-default-judgment-against-giuliani-in-defamation-lawsuit-from-georgia-election-workers/judge-enters-default-judgment-against-giuliani-in-defamation-lawsuit-from-georgia-election-workers.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
         <loc>https://majordigest.com/us/2023/08/30/the-only-defendant-in-the-georgia-election-indictment-to-spend-time-in-jail-has-been-granted-bond/</loc>
         <news:news>
           <news:publication>
@@ -367,34 +423,6 @@
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/us/2023/08/30/convicted-rapist-who-escaped-on-jet-ski-in-2022-is-arrested-in-west-virginia/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-30T18:33:07.000Z</news:publication_date>
-          <news:title>Convicted rapist who escaped on jet ski in 2022 is arrested in West Virginia</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/us/2023/08/30/convicted-rapist-who-escaped-on-jet-ski-in-2022-is-arrested-in-west-virginia/convicted-rapist-who-escaped-on-jet-ski-in-2022-is-arrested-in-west-virginia.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/us/2023/08/30/as-hurricane-idalia-moves-inward-another-storm-brews-off-east-coast/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-30T18:28:39.000Z</news:publication_date>
-          <news:title>As Hurricane Idalia moves inward, another storm brews off East Coast</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/us/2023/08/30/as-hurricane-idalia-moves-inward-another-storm-brews-off-east-coast/as-hurricane-idalia-moves-inward-another-storm-brews-off-east-coast.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
         <loc>https://majordigest.com/us/2023/08/30/anti-abortion-activist-who-kept-fetuses-at-home-convicted-of-blocking-access-to-dc-clinic/</loc>
         <news:news>
           <news:publication>
@@ -420,34 +448,6 @@
         </news:news>
         <image:image>
           <image:loc>https://majordigest.com/us/2023/08/30/higher-education-levels-linked-with-civic-engagement-better-health-gallup/higher-education-levels-linked-with-civic-engagement-better-health-gallup.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/us/2023/08/30/supermoon-could-team-up-with-idalia-to-raise-tides-even-higher/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-30T17:17:20.000Z</news:publication_date>
-          <news:title>Supermoon could team up with Idalia to raise tides even higher</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/us/2023/08/30/supermoon-could-team-up-with-idalia-to-raise-tides-even-higher/supermoon-could-team-up-with-idalia-to-raise-tides-even-higher.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/us/2023/08/30/corn-sweat-and-why-its-heaping-on-the-humidity/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-30T15:47:57.000Z</news:publication_date>
-          <news:title>'Corn sweat' and why it's heaping on the humidity</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/us/2023/08/30/corn-sweat-and-why-its-heaping-on-the-humidity/corn-sweat-and-why-its-heaping-on-the-humidity.webp</image:loc>
         </image:image>
       </url>
       <url>

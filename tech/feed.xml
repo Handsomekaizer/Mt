@@ -7,7 +7,7 @@
         <title>Major Digest - Reliable and Comprehensive News Sources: tech</title>
         <description>Get the latest news online at Major Digest, the top online news resource for the most reliable news sources. Stay informed about the world around you!</description>
         <link>https://majordigest.com/?utm_medium=RSS</link>
-        <lastBuildDate>Thu, 31 Aug 2023 01:14:03 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 31 Aug 2023 02:23:40 GMT</lastBuildDate>
         <generator>https://majordigest.com/?v=1.1.4</generator>
         <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/" />
         <atom:link rel="self" href="https://majordigest.com/tech/feed.xml" type="application/rss+xml" />
@@ -39,17 +39,6 @@
         <media:content medium="image" url="https://majordigest.com/tech/2023/08/30/study-job-applicants-mental-health/study-job-applicants-mental-health.webp"/>
         <media:thumbnail url="https://majordigest.com/tech/2023/08/30/study-job-applicants-mental-health/study-job-applicants-mental-health.webp"/>
         <dc:creator>Caitlyn Shelton, NewsNation</dc:creator>
-      </item>
-      <item>
-        <title>FBI disrupts malicious program infecting computers</title>
-        <description><![CDATA[“The FBI led a worldwide joint, sequenced operation that crippled one of the longest-running cybercriminal botnets.]]></description>
-        <guid>https://majordigest.com/tech/2023/08/30/fbi-disrupts-malicious-program-infecting-computers/</guid>
-        <link>https://majordigest.com/tech/2023/08/30/fbi-disrupts-malicious-program-infecting-computers/</link>
-        <pubDate>Wed, 30 Aug 2023 19:51:12 +0000</pubDate>
-        <category>tech</category>
-        <media:content medium="image" url="https://majordigest.com/tech/2023/08/30/fbi-disrupts-malicious-program-infecting-computers/fbi-disrupts-malicious-program-infecting-computers.webp"/>
-        <media:thumbnail url="https://majordigest.com/tech/2023/08/30/fbi-disrupts-malicious-program-infecting-computers/fbi-disrupts-malicious-program-infecting-computers.webp"/>
-        <dc:creator>Tara Suter, NewsNation</dc:creator>
       </item>
       <item>
         <title>FBI disrupts malicious program infecting computers</title>
@@ -138,6 +127,17 @@
         <media:content medium="image" url="https://majordigest.com/tech/2023/08/30/ocasio-cortez-ponders-leaving-x-platform/ocasio-cortez-ponders-leaving-x-platform.webp"/>
         <media:thumbnail url="https://majordigest.com/tech/2023/08/30/ocasio-cortez-ponders-leaving-x-platform/ocasio-cortez-ponders-leaving-x-platform.webp"/>
         <dc:creator>Miranda Nazzaro, The Hill</dc:creator>
+      </item>
+      <item>
+        <title>FBI disrupts malicious program infecting hundreds of thousands of computers</title>
+        <description><![CDATA[The Justice Department says the FBI was able to "disrupt" malware that had infected more than 700,000 computers across the world.]]></description>
+        <guid>https://majordigest.com/tech/2023/08/30/fbi-disrupts-malicious-program-infecting-hundreds-of-thousands-of-computers/</guid>
+        <link>https://majordigest.com/tech/2023/08/30/fbi-disrupts-malicious-program-infecting-hundreds-of-thousands-of-computers/</link>
+        <pubDate>Wed, 30 Aug 2023 15:19:40 +0000</pubDate>
+        <category>tech</category>
+        <media:content medium="image" url="https://majordigest.com/tech/2023/08/30/fbi-disrupts-malicious-program-infecting-hundreds-of-thousands-of-computers/fbi-disrupts-malicious-program-infecting-hundreds-of-thousands-of-computers.webp"/>
+        <media:thumbnail url="https://majordigest.com/tech/2023/08/30/fbi-disrupts-malicious-program-infecting-hundreds-of-thousands-of-computers/fbi-disrupts-malicious-program-infecting-hundreds-of-thousands-of-computers.webp"/>
+        <dc:creator>Tara Suter, The Hill</dc:creator>
       </item>
       <item>
         <title>FBI disrupts malicious program infecting hundreds of thousands of computers</title>
@@ -294,6 +294,17 @@
         <dc:creator>Ashok Sharma, Associated Press, Local 4</dc:creator>
       </item>
       <item>
+        <title>India's moon rover confirms sulfur and detects several other elements near the lunar south pole</title>
+        <description><![CDATA[India’s moon rover has confirmed the presence of sulfur and detected several other elements on the surface near the lunar south pole a week after the country’s historic moon landing.]]></description>
+        <guid>https://majordigest.com/tech/2023/08/29/indias-moon-rover-confirms-sulfur-and-detects-several-other-elements-near-the-lunar-south-pole/</guid>
+        <link>https://majordigest.com/tech/2023/08/29/indias-moon-rover-confirms-sulfur-and-detects-several-other-elements-near-the-lunar-south-pole/</link>
+        <pubDate>Tue, 29 Aug 2023 19:23:57 +0000</pubDate>
+        <category>tech</category>
+        <media:content medium="image" url="https://majordigest.com/tech/2023/08/29/indias-moon-rover-confirms-sulfur-and-detects-several-other-elements-near-the-lunar-south-pole/indias-moon-rover-confirms-sulfur-and-detects-several-other-elements-near-the-lunar-south-pole.webp"/>
+        <media:thumbnail url="https://majordigest.com/tech/2023/08/29/indias-moon-rover-confirms-sulfur-and-detects-several-other-elements-near-the-lunar-south-pole/indias-moon-rover-confirms-sulfur-and-detects-several-other-elements-near-the-lunar-south-pole.webp"/>
+        <dc:creator>Ashok Sharma, Associated Press, Local 4</dc:creator>
+      </item>
+      <item>
         <title>Supermoon could team up with Hurricane Idalia to raise tides higher just as the storm makes landfall</title>
         <description><![CDATA[A rare blue supermoon could be playing a role in worsening the impact of Hurricane Idalia as the storm lashes Florida's west coast.]]></description>
         <guid>https://majordigest.com/tech/2023/08/29/supermoon-could-team-up-with-hurricane-idalia-to-raise-tides-higher-just-as-the-storm-makes-landfall/</guid>
@@ -358,17 +369,6 @@
         <media:content medium="image" url="https://majordigest.com/tech/2023/08/26/broadband-subsidy-program-that-millions-use-will-expire-next-year-if-congress-doesnt-act/broadband-subsidy-program-that-millions-use-will-expire-next-year-if-congress-doesnt-act.webp"/>
         <media:thumbnail url="https://majordigest.com/tech/2023/08/26/broadband-subsidy-program-that-millions-use-will-expire-next-year-if-congress-doesnt-act/broadband-subsidy-program-that-millions-use-will-expire-next-year-if-congress-doesnt-act.webp"/>
         <dc:creator>KAVISH HARJAI, Associated Press, KRON4</dc:creator>
-      </item>
-      <item>
-        <title>Early Apple computer that helped launch $3T company sells at auction for $223,000</title>
-        <description><![CDATA[BOSTON (AP) — One of the first personal computers built by Apple and signed by company co-founder Steve Wozniak has sold at auction for more than $223,000.]]></description>
-        <guid>https://majordigest.com/tech/2023/08/25/early-apple-computer-that-helped-launch-3t-company-sells-at-auction-for-223000/</guid>
-        <link>https://majordigest.com/tech/2023/08/25/early-apple-computer-that-helped-launch-3t-company-sells-at-auction-for-223000/</link>
-        <pubDate>Fri, 25 Aug 2023 17:04:31 +0000</pubDate>
-        <category>tech</category>
-        <media:content medium="image" url="https://majordigest.com/tech/2023/08/25/early-apple-computer-that-helped-launch-3t-company-sells-at-auction-for-223000/early-apple-computer-that-helped-launch-3t-company-sells-at-auction-for-223000.webp"/>
-        <media:thumbnail url="https://majordigest.com/tech/2023/08/25/early-apple-computer-that-helped-launch-3t-company-sells-at-auction-for-223000/early-apple-computer-that-helped-launch-3t-company-sells-at-auction-for-223000.webp"/>
-        <dc:creator>AP, KRON4</dc:creator>
       </item>
       <item>
         <title>Early Apple computer that helped launch $3T company sells at auction for $223,000</title>
