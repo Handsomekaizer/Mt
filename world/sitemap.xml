@@ -3,17 +3,31 @@
               xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
               xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
       <url>
-        <loc>https://majordigest.com/world/2023/08/31/norwegian-preschoolers-start-day-hikes-kindergartens-boosting-early-exposure-to-outdoor-life/</loc>
+        <loc>https://majordigest.com/world/2023/08/31/north-korea-russia-arms-deal-actively-advancing-national-security-council/</loc>
         <news:news>
           <news:publication>
             <news:name>Major Digest</news:name>
             <news:language>en</news:language>
           </news:publication>
-          <news:publication_date>2023-08-31T12:54:16.000Z</news:publication_date>
-          <news:title>Norwegian preschoolers start day with hikes around kindergartens, boosting early exposure to outdoor life</news:title>
+          <news:publication_date>2023-08-31T13:43:21.000Z</news:publication_date>
+          <news:title>North Korea, Russia arms deal 'actively advancing' says National Security Council</news:title>
         </news:news>
         <image:image>
-          <image:loc>https://majordigest.com/world/2023/08/31/norwegian-preschoolers-start-day-hikes-kindergartens-boosting-early-exposure-to-outdoor-life/norwegian-preschoolers-start-day-hikes-kindergartens-boosting-early-exposure-to-outdoor-life.webp</image:loc>
+          <image:loc>https://majordigest.com/world/2023/08/31/north-korea-russia-arms-deal-actively-advancing-national-security-council/north-korea-russia-arms-deal-actively-advancing-national-security-council.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/world/2023/08/31/zelenskyy-says-ukraine-has-developed-a-long-range-weapon-a-day-after-a-strike-deep-inside-russia/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-31T12:59:23.000Z</news:publication_date>
+          <news:title>Zelenskyy says Ukraine has developed a long-range weapon, a day after a strike deep inside Russia</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/world/2023/08/31/zelenskyy-says-ukraine-has-developed-a-long-range-weapon-a-day-after-a-strike-deep-inside-russia/zelenskyy-says-ukraine-has-developed-a-long-range-weapon-a-day-after-a-strike-deep-inside-russia.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -45,17 +59,17 @@
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/world/2023/08/31/north-korea-says-it-simulated-nuclear-attack/</loc>
+        <loc>https://majordigest.com/world/2023/08/31/greece-further-reinforces-firefighting-forces-in-massive-wildfire-in-northeast-burning-for-13th-day/</loc>
         <news:news>
           <news:publication>
             <news:name>Major Digest</news:name>
             <news:language>en</news:language>
           </news:publication>
-          <news:publication_date>2023-08-31T12:35:36.000Z</news:publication_date>
-          <news:title>North Korea says it simulated nuclear attack on South, rehearsed occupation</news:title>
+          <news:publication_date>2023-08-31T12:39:09.000Z</news:publication_date>
+          <news:title>Greece reinforces firefighting forces as a massive wildfire in the northeast burns for a 13th day</news:title>
         </news:news>
         <image:image>
-          <image:loc>https://majordigest.com/world/2023/08/31/north-korea-says-it-simulated-nuclear-attack/north-korea-says-it-simulated-nuclear-attack.webp</image:loc>
+          <image:loc>https://majordigest.com/world/2023/08/31/greece-further-reinforces-firefighting-forces-in-massive-wildfire-in-northeast-burning-for-13th-day/greece-further-reinforces-firefighting-forces-in-massive-wildfire-in-northeast-burning-for-13th-day.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -115,20 +129,6 @@
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/world/2023/08/31/iran-accuses-israel-of-supplying-potentially-exploding-parts-for-ballistic-missile-program/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-31T11:55:42.000Z</news:publication_date>
-          <news:title>Iran accuses Israel of supplying potentially exploding parts for ballistic missile program</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/world/2023/08/31/iran-accuses-israel-of-supplying-potentially-exploding-parts-for-ballistic-missile-program/iran-accuses-israel-of-supplying-potentially-exploding-parts-for-ballistic-missile-program.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
         <loc>https://majordigest.com/world/2023/08/31/spain-annual-tomatina-street-battle-kicks-15000-people-hurling-tomatoes/</loc>
         <news:news>
           <news:publication>
@@ -140,20 +140,6 @@
         </news:news>
         <image:image>
           <image:loc>https://majordigest.com/world/2023/08/31/spain-annual-tomatina-street-battle-kicks-15000-people-hurling-tomatoes/spain-annual-tomatina-street-battle-kicks-15000-people-hurling-tomatoes.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/world/2023/08/31/mexican-navy-conduct-net-sinking-operation-wider-gulf-area-protect-endangered-vaquita-porpoises/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-31T11:37:41.000Z</news:publication_date>
-          <news:title>Mexican Navy to conduct net-sinking operation in wider Gulf area to protect endangered vaquita porpoises</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/world/2023/08/31/mexican-navy-conduct-net-sinking-operation-wider-gulf-area-protect-endangered-vaquita-porpoises/mexican-navy-conduct-net-sinking-operation-wider-gulf-area-protect-endangered-vaquita-porpoises.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -171,20 +157,6 @@
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/world/2023/08/31/north-korea-says-it-simulated-nuclear-attacks-on-south-korea-and-rehearsed-occupation-of-its-rivals/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-31T10:59:26.000Z</news:publication_date>
-          <news:title>North Korea says it simulated nuclear attacks on South Korea and rehearsed occupation of its rival</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/world/2023/08/31/north-korea-says-it-simulated-nuclear-attacks-on-south-korea-and-rehearsed-occupation-of-its-rivals/north-korea-says-it-simulated-nuclear-attacks-on-south-korea-and-rehearsed-occupation-of-its-rivals.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
         <loc>https://majordigest.com/world/2023/08/31/north-korea-says-it-simulated-nuclear-attacks-on-south-korea-and-rehearsed-occupation-of-its-rival/</loc>
         <news:news>
           <news:publication>
@@ -199,13 +171,27 @@
         </image:image>
       </url>
       <url>
+        <loc>https://majordigest.com/world/2023/08/31/north-korea-says-it-simulated-nuclear-attacks-on-south-korea-and-rehearsed-occupation-of-its-rivals/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-31T10:59:26.000Z</news:publication_date>
+          <news:title>North Korea says it simulated nuclear attacks on South Korea and rehearsed occupation of its rival</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/world/2023/08/31/north-korea-says-it-simulated-nuclear-attacks-on-south-korea-and-rehearsed-occupation-of-its-rivals/north-korea-says-it-simulated-nuclear-attacks-on-south-korea-and-rehearsed-occupation-of-its-rivals.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
         <loc>https://majordigest.com/world/2023/08/31/eu-examines-its-training-of-african-armies-as-another-coup-rocks-the-continent/</loc>
         <news:news>
           <news:publication>
             <news:name>Major Digest</news:name>
             <news:language>en</news:language>
           </news:publication>
-          <news:publication_date>2023-08-31T10:45:16.000Z</news:publication_date>
+          <news:publication_date>2023-08-31T10:45:14.000Z</news:publication_date>
           <news:title>EU examines its training of African armies as another coup rocks the continent</news:title>
         </news:news>
         <image:image>
@@ -234,7 +220,7 @@
             <news:language>en</news:language>
           </news:publication>
           <news:publication_date>2023-08-31T05:22:52.000Z</news:publication_date>
-          <news:title>A building fire in Johannesburg leaves at least 73 dead, many of them homeless, authorities say</news:title>
+          <news:title>At least 73 are dead, many of them homeless, as fire rips through a rundown building in South Africa</news:title>
         </news:news>
         <image:image>
           <image:loc>https://majordigest.com/world/2023/08/31/at-least-52-people-have-died-in-a-fire-in-a-building-in-south-africas-biggest-city-authorities-say/at-least-52-people-have-died-in-a-fire-in-a-building-in-south-africas-biggest-city-authorities-say.webp</image:loc>
@@ -297,6 +283,20 @@
         </image:image>
       </url>
       <url>
+        <loc>https://majordigest.com/world/2023/08/30/japanese-ministers-eat-fukushima-fish-to-show-its-safe-after-nuclear-plant-wastewater-is-discharged/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-30T18:26:11.000Z</news:publication_date>
+          <news:title>Japanese ministers eat Fukushima fish to show it's safe after nuclear plant wastewater is discharged</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/world/2023/08/30/japanese-ministers-eat-fukushima-fish-to-show-its-safe-after-nuclear-plant-wastewater-is-discharged/japanese-ministers-eat-fukushima-fish-to-show-its-safe-after-nuclear-plant-wastewater-is-discharged.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
         <loc>https://majordigest.com/world/2023/08/30/us-citizens-urged-to-leave-haiti-immediately/</loc>
         <news:news>
           <news:publication>
@@ -308,6 +308,34 @@
         </news:news>
         <image:image>
           <image:loc>https://majordigest.com/world/2023/08/30/us-citizens-urged-to-leave-haiti-immediately/us-citizens-urged-to-leave-haiti-immediately.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/world/2023/08/30/us-citizens-urged-to-leave-haiti-immediately/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-30T18:11:14.000Z</news:publication_date>
+          <news:title>US citizens urged to leave Haiti immediately</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/world/2023/08/30/us-citizens-urged-to-leave-haiti-immediately/us-citizens-urged-to-leave-haiti-immediately.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/world/2023/08/30/white-house-says-putin-and-kim-jong-un-traded-letters-as-russia-looks-for-munitions-from-north-korea/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-30T17:15:14.000Z</news:publication_date>
+          <news:title>White House says Putin and Kim Jong Un traded letters as Russia looks for munitions from North Korea</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/world/2023/08/30/white-house-says-putin-and-kim-jong-un-traded-letters-as-russia-looks-for-munitions-from-north-korea/white-house-says-putin-and-kim-jong-un-traded-letters-as-russia-looks-for-munitions-from-north-korea.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -381,20 +409,6 @@
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/world/2023/08/28/us-chinese-commerce-leaders-meet-huge-progress/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-28T20:44:31.000Z</news:publication_date>
-          <news:title>US, Chinese commerce leaders meet: 'Huge progress'</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/world/2023/08/28/us-chinese-commerce-leaders-meet-huge-progress/us-chinese-commerce-leaders-meet-huge-progress.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
         <loc>https://majordigest.com/world/2023/08/28/british-bog-snorkeling-championships-contenders-race-through-slime/</loc>
         <news:news>
           <news:publication>
@@ -434,20 +448,6 @@
         </news:news>
         <image:image>
           <image:loc>https://majordigest.com/world/2023/08/28/bog-snorkeling-championships-competitors-race-through-slime-in-british-contest/bog-snorkeling-championships-competitors-race-through-slime-in-british-contest.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/world/2023/08/28/8-us-marines-remain-in-hospital-after-fiery-aircraft-crash-killed-3-in-australia/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-28T05:36:17.000Z</news:publication_date>
-          <news:title>8 US Marines remain in a hospital after a fiery aircraft crash killed 3 during drills in Australia</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/world/2023/08/28/8-us-marines-remain-in-hospital-after-fiery-aircraft-crash-killed-3-in-australia/8-us-marines-remain-in-hospital-after-fiery-aircraft-crash-killed-3-in-australia.webp</image:loc>
         </image:image>
       </url>
       <url>

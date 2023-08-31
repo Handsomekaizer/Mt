@@ -3,6 +3,20 @@
               xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
               xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
       <url>
+        <loc>https://majordigest.com/tech/2023/08/31/cunning-romance-scams-how-avoid-them/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-31T14:00:26.000Z</news:publication_date>
+          <news:title>Cunning romance scams and how to avoid them</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/tech/2023/08/31/cunning-romance-scams-how-avoid-them/cunning-romance-scams-how-avoid-them.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
         <loc>https://majordigest.com/tech/2023/08/31/san-jose-airport-passenger-economy-tech-covid-airline-travel-fly-july/</loc>
         <news:news>
           <news:publication>
@@ -213,6 +227,20 @@
         </image:image>
       </url>
       <url>
+        <loc>https://majordigest.com/tech/2023/08/30/job-growth-dips-sharply-as-labor-market-cools/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-30T16:43:54.000Z</news:publication_date>
+          <news:title>Job growth dips sharply as labor market cools</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/tech/2023/08/30/job-growth-dips-sharply-as-labor-market-cools/job-growth-dips-sharply-as-labor-market-cools.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
         <loc>https://majordigest.com/tech/2023/08/30/ocasio-cortez-ponders-leaving-x-platform/</loc>
         <news:news>
           <news:publication>
@@ -266,20 +294,6 @@
         </news:news>
         <image:image>
           <image:loc>https://majordigest.com/tech/2023/08/30/fox-news-ai-newsletter-tiktoker-sounds-alarm-scary-online-trend-affecting-children/fox-news-ai-newsletter-tiktoker-sounds-alarm-scary-online-trend-affecting-children.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/tech/2023/08/30/indonesia-arrests-88-chinese-nationals-in-online-romance-scams/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-30T13:21:49.000Z</news:publication_date>
-          <news:title>Indonesia arrests 88 Chinese nationals over online romance scams</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/tech/2023/08/30/indonesia-arrests-88-chinese-nationals-in-online-romance-scams/indonesia-arrests-88-chinese-nationals-in-online-romance-scams.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -378,20 +392,6 @@
         </news:news>
         <image:image>
           <image:loc>https://majordigest.com/tech/2023/08/29/ask-kurt-maxed-out-your-apple-icloud-storage/ask-kurt-maxed-out-your-apple-icloud-storage.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/tech/2023/08/29/digitally-sign-document-device/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-29T17:43:01.000Z</news:publication_date>
-          <news:title>How to digitally sign a document on any device</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/tech/2023/08/29/digitally-sign-document-device/digitally-sign-document-device.webp</image:loc>
         </image:image>
       </url>
       <url>

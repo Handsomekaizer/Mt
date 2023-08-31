@@ -3,6 +3,90 @@
               xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
               xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
       <url>
+        <loc>https://majordigest.com/us/2023/08/31/iran-accuses-israel-of-supplying-potentially-exploding-parts-for-ballistic-missile-program/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-31T14:07:02.000Z</news:publication_date>
+          <news:title>Iran accuses Israel of supplying potentially exploding parts for ballistic missile program</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/us/2023/08/31/iran-accuses-israel-of-supplying-potentially-exploding-parts-for-ballistic-missile-program/iran-accuses-israel-of-supplying-potentially-exploding-parts-for-ballistic-missile-program.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/us/2023/08/31/white-house-asks-congress-to-pass-short-term-funding-to-keep-government-operating-official-tells-ap/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-31T14:05:04.000Z</news:publication_date>
+          <news:title>White House asks Congress to pass short-term funding to keep government operating, official tells AP</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/us/2023/08/31/white-house-asks-congress-to-pass-short-term-funding-to-keep-government-operating-official-tells-ap/white-house-asks-congress-to-pass-short-term-funding-to-keep-government-operating-official-tells-ap.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/us/2023/08/31/at-least-38-people-have-died-in-a-fire-in-a-building-in-south-africas-biggest-city-authorities-say/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-31T13:52:00.000Z</news:publication_date>
+          <news:title>At least 73 are dead, many of them homeless, as fire rips through a rundown building in South Africa</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/us/2023/08/31/at-least-38-people-have-died-in-a-fire-in-a-building-in-south-africas-biggest-city-authorities-say/at-least-38-people-have-died-in-a-fire-in-a-building-in-south-africas-biggest-city-authorities-say.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/us/2023/08/31/centuries-old-west-point-time-capsule-contents-revealed-more-we-can-learn-from-this/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-31T13:51:19.000Z</news:publication_date>
+          <news:title>Centuries-old West Point time capsule contents revealed: 'More we can learn from this'</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/us/2023/08/31/centuries-old-west-point-time-capsule-contents-revealed-more-we-can-learn-from-this/centuries-old-west-point-time-capsule-contents-revealed-more-we-can-learn-from-this.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/us/2023/08/31/minnesota-state-fair-brings-faith-leaders-politicians-together-12-day-celebration/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-31T13:25:08.000Z</news:publication_date>
+          <news:title>Minnesota state fair brings faith leaders, politicians together for 12-day celebration</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/us/2023/08/31/minnesota-state-fair-brings-faith-leaders-politicians-together-12-day-celebration/minnesota-state-fair-brings-faith-leaders-politicians-together-12-day-celebration.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/us/2023/08/31/woman-fatally-shot-4-year-old-point-blank-range-says-firearms-safety-lesson-police/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-31T13:22:12.000Z</news:publication_date>
+          <news:title>Woman who fatally shot 4-year-old at point-blank range says it was a 'firearms safety' lesson: police</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/us/2023/08/31/woman-fatally-shot-4-year-old-point-blank-range-says-firearms-safety-lesson-police/woman-fatally-shot-4-year-old-point-blank-range-says-firearms-safety-lesson-police.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
         <loc>https://majordigest.com/us/2023/08/31/shooting-illinois-neighborhood-injures-5-2-critically/</loc>
         <news:news>
           <news:publication>
@@ -31,20 +115,6 @@
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/us/2023/08/31/nigers-military-regime-orders-police-to-expel-french-ambassador-and-revokes-his-diplomatic-immunity/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-31T13:11:11.000Z</news:publication_date>
-          <news:title>Niger's military regime orders police to expel French ambassador and revokes his diplomatic immunity</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/us/2023/08/31/nigers-military-regime-orders-police-to-expel-french-ambassador-and-revokes-his-diplomatic-immunity/nigers-military-regime-orders-police-to-expel-french-ambassador-and-revokes-his-diplomatic-immunity.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
         <loc>https://majordigest.com/us/2023/08/31/photos-hurricane-idalia-damage/</loc>
         <news:news>
           <news:publication>
@@ -56,20 +126,6 @@
         </news:news>
         <image:image>
           <image:loc>https://majordigest.com/us/2023/08/31/photos-hurricane-idalia-damage/photos-hurricane-idalia-damage.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/us/2023/08/31/new-mexico-ag-raul-torrez-13-others-support-effort-compensate-sickened-during-nuclear-weapon-testing/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-31T12:50:35.000Z</news:publication_date>
-          <news:title>New Mexico AG Ra&#250;l Torrez, 13 others support effort to compensate those sickened during nuclear weapon testing</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/us/2023/08/31/new-mexico-ag-raul-torrez-13-others-support-effort-compensate-sickened-during-nuclear-weapon-testing/new-mexico-ag-raul-torrez-13-others-support-effort-compensate-sickened-during-nuclear-weapon-testing.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -101,31 +157,17 @@
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/us/2023/08/31/56k-michigan-kids-could-lose-child-care-in-september-if-federal-support-funds-disappear/</loc>
+        <loc>https://majordigest.com/us/2023/08/31/food-fight-streets-awash-in-tomato-pulp-during-spains-tomatina-party/</loc>
         <news:news>
           <news:publication>
             <news:name>Major Digest</news:name>
             <news:language>en</news:language>
           </news:publication>
-          <news:publication_date>2023-08-31T11:45:25.000Z</news:publication_date>
-          <news:title>56K Michigan kids could lose child care in September if federal support funds disappear</news:title>
+          <news:publication_date>2023-08-31T11:47:20.000Z</news:publication_date>
+          <news:title>Food fight! Streets awash in tomato pulp during Spain's Tomatina party</news:title>
         </news:news>
         <image:image>
-          <image:loc>https://majordigest.com/us/2023/08/31/56k-michigan-kids-could-lose-child-care-in-september-if-federal-support-funds-disappear/56k-michigan-kids-could-lose-child-care-in-september-if-federal-support-funds-disappear.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/us/2023/08/31/college-students-struggling-basic-math-many-stuck-9th-grade-level-professors-blame-pandemic/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-31T11:42:11.000Z</news:publication_date>
-          <news:title>College students are struggling with basic math, many stuck at 9th grade level; professors blame the pandemic</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/us/2023/08/31/college-students-struggling-basic-math-many-stuck-9th-grade-level-professors-blame-pandemic/college-students-struggling-basic-math-many-stuck-9th-grade-level-professors-blame-pandemic.webp</image:loc>
+          <image:loc>https://majordigest.com/us/2023/08/31/food-fight-streets-awash-in-tomato-pulp-during-spains-tomatina-party/food-fight-streets-awash-in-tomato-pulp-during-spains-tomatina-party.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -140,6 +182,20 @@
         </news:news>
         <image:image>
           <image:loc>https://majordigest.com/us/2023/08/31/u-s-and-mexican-leaders-say-providing-water-is-border-regions-most-important-challenge/u-s-and-mexican-leaders-say-providing-water-is-border-regions-most-important-challenge.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/us/2023/08/31/traveling-labor-day-weekend-expect-lots-of-company/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-31T10:09:49.000Z</news:publication_date>
+          <news:title>Traveling Labor Day weekend? Expect lots of company</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/us/2023/08/31/traveling-labor-day-weekend-expect-lots-of-company/traveling-labor-day-weekend-expect-lots-of-company.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -227,6 +283,20 @@
         </image:image>
       </url>
       <url>
+        <loc>https://majordigest.com/us/2023/08/31/tennessee-house-speaker-2-lawmakers-are-trying-to-cause-chaos/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-31T03:59:12.000Z</news:publication_date>
+          <news:title>Tennessee House speaker: 2 lawmakers &#8216;trying to cause chaos&#8217;</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/us/2023/08/31/tennessee-house-speaker-2-lawmakers-are-trying-to-cause-chaos/tennessee-house-speaker-2-lawmakers-are-trying-to-cause-chaos.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
         <loc>https://majordigest.com/us/2023/08/31/alice-cooper-loses-cosmetics-deal-after-remarks-about-trans-people/</loc>
         <news:news>
           <news:publication>
@@ -241,34 +311,6 @@
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/us/2023/08/31/former-disney-star-says-texas-arrest-was-a-misunderstanding-report/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-31T01:28:38.000Z</news:publication_date>
-          <news:title>Former Disney star says Texas arrest was 'a misunderstanding': report</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/us/2023/08/31/former-disney-star-says-texas-arrest-was-a-misunderstanding-report/former-disney-star-says-texas-arrest-was-a-misunderstanding-report.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/us/2023/08/31/alex-murdaugh-loses-prison-phone-privileges-after-lawyer-records-phone-call-for-documentary/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-31T01:26:59.000Z</news:publication_date>
-          <news:title>Alex Murdaugh loses prison phone privileges after lawyer records phone call for documentary</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/us/2023/08/31/alex-murdaugh-loses-prison-phone-privileges-after-lawyer-records-phone-call-for-documentary/alex-murdaugh-loses-prison-phone-privileges-after-lawyer-records-phone-call-for-documentary.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
         <loc>https://majordigest.com/us/2023/08/31/west-point-time-capsule-that-appeared-to-contain-nothing-more-than-silt-yields-centuries-old-coins/</loc>
         <news:news>
           <news:publication>
@@ -280,20 +322,6 @@
         </news:news>
         <image:image>
           <image:loc>https://majordigest.com/us/2023/08/31/west-point-time-capsule-that-appeared-to-contain-nothing-more-than-silt-yields-centuries-old-coins/west-point-time-capsule-that-appeared-to-contain-nothing-more-than-silt-yields-centuries-old-coins.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/us/2023/08/31/live-updates-hurricane-idalia-set-to-hit-florida-as-category-4-storm/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-31T00:33:28.000Z</news:publication_date>
-          <news:title>Live updates | Idalia causing widespread flooding in coastal South Carolina</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/us/2023/08/31/live-updates-hurricane-idalia-set-to-hit-florida-as-category-4-storm/live-updates-hurricane-idalia-set-to-hit-florida-as-category-4-storm.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -325,17 +353,17 @@
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/us/2023/08/30/kansas-reporter-files-federal-lawsuit-against-police-chief-who-raided-her-newspapers-office/</loc>
+        <loc>https://majordigest.com/us/2023/08/30/video-car-flipped-by-weak-tornado-in-south-carolina-police-say/</loc>
         <news:news>
           <news:publication>
             <news:name>Major Digest</news:name>
             <news:language>en</news:language>
           </news:publication>
-          <news:publication_date>2023-08-30T22:59:36.000Z</news:publication_date>
-          <news:title>Kansas reporter files federal lawsuit against police chief who raided her newspaper's office</news:title>
+          <news:publication_date>2023-08-30T22:49:09.000Z</news:publication_date>
+          <news:title>Video: Car flipped by weak tornado in South Carolina, police say</news:title>
         </news:news>
         <image:image>
-          <image:loc>https://majordigest.com/us/2023/08/30/kansas-reporter-files-federal-lawsuit-against-police-chief-who-raided-her-newspapers-office/kansas-reporter-files-federal-lawsuit-against-police-chief-who-raided-her-newspapers-office.webp</image:loc>
+          <image:loc>https://majordigest.com/us/2023/08/30/video-car-flipped-by-weak-tornado-in-south-carolina-police-say/video-car-flipped-by-weak-tornado-in-south-carolina-police-say.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -350,20 +378,6 @@
         </news:news>
         <image:image>
           <image:loc>https://majordigest.com/us/2023/08/30/hurricane-idalia-causes-100-year-old-oak-tree-to-split-fall-on-gov-desantis-mansion/hurricane-idalia-causes-100-year-old-oak-tree-to-split-fall-on-gov-desantis-mansion.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/us/2023/08/30/university-of-north-carolina-students-rally-for-gun-safety-after-fatal-shooting-of-faculty-member/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-30T22:28:02.000Z</news:publication_date>
-          <news:title>University of North Carolina students rally for gun safety after fatal shooting of faculty member</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/us/2023/08/30/university-of-north-carolina-students-rally-for-gun-safety-after-fatal-shooting-of-faculty-member/university-of-north-carolina-students-rally-for-gun-safety-after-fatal-shooting-of-faculty-member.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -409,20 +423,6 @@
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/us/2023/08/30/biden-rule-would-give-overtime-protections-to-millions-more-workers/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-30T21:25:46.000Z</news:publication_date>
-          <news:title>Biden rule would give overtime protections to millions more workers</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/us/2023/08/30/biden-rule-would-give-overtime-protections-to-millions-more-workers/biden-rule-would-give-overtime-protections-to-millions-more-workers.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
         <loc>https://majordigest.com/us/2023/08/30/new-york-attorney-general-seeks-immediate-verdict-in-fraud-lawsuit-against-donald-trump/</loc>
         <news:news>
           <news:publication>
@@ -434,6 +434,20 @@
         </news:news>
         <image:image>
           <image:loc>https://majordigest.com/us/2023/08/30/new-york-attorney-general-seeks-immediate-verdict-in-fraud-lawsuit-against-donald-trump/new-york-attorney-general-seeks-immediate-verdict-in-fraud-lawsuit-against-donald-trump.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/us/2023/08/30/fatal-shooting-of-college-student-who-tried-entering-wrong-home-justifiable-south-carolina-authorities/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-30T20:32:27.000Z</news:publication_date>
+          <news:title>Fatal shooting of college student who tried entering wrong home 'justifiable': South Carolina authorities</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/us/2023/08/30/fatal-shooting-of-college-student-who-tried-entering-wrong-home-justifiable-south-carolina-authorities/fatal-shooting-of-college-student-who-tried-entering-wrong-home-justifiable-south-carolina-authorities.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -451,45 +465,31 @@
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/us/2023/08/30/11-taken-to-hospital-as-delta-jetliner-hits-turbulence-near-atlanta-airport/</loc>
+        <loc>https://majordigest.com/us/2023/08/30/climate-anxiety-on-the-rise-as-heat-disasters-provoke-fear/</loc>
         <news:news>
           <news:publication>
             <news:name>Major Digest</news:name>
             <news:language>en</news:language>
           </news:publication>
-          <news:publication_date>2023-08-30T09:37:21.000Z</news:publication_date>
-          <news:title>11 taken to hospital as Delta jetliner hits turbulence near Atlanta airport</news:title>
+          <news:publication_date>2023-08-30T10:00:00.000Z</news:publication_date>
+          <news:title>Climate anxiety on the rise as heat, disasters provoke fear</news:title>
         </news:news>
         <image:image>
-          <image:loc>https://majordigest.com/us/2023/08/30/11-taken-to-hospital-as-delta-jetliner-hits-turbulence-near-atlanta-airport/11-taken-to-hospital-as-delta-jetliner-hits-turbulence-near-atlanta-airport.webp</image:loc>
+          <image:loc>https://majordigest.com/us/2023/08/30/climate-anxiety-on-the-rise-as-heat-disasters-provoke-fear/climate-anxiety-on-the-rise-as-heat-disasters-provoke-fear.webp</image:loc>
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/us/2023/08/30/massive-alligator-patiently-waits-outside-dollar-general/</loc>
+        <loc>https://majordigest.com/us/2023/08/29/watch-ohio-police-cruiser-slams-into-store/</loc>
         <news:news>
           <news:publication>
             <news:name>Major Digest</news:name>
             <news:language>en</news:language>
           </news:publication>
-          <news:publication_date>2023-08-30T03:28:55.000Z</news:publication_date>
-          <news:title>Massive alligator 'patiently&#160;waits' outside Dollar General</news:title>
+          <news:publication_date>2023-08-29T23:19:43.000Z</news:publication_date>
+          <news:title>Watch: Police cruiser slams into store</news:title>
         </news:news>
         <image:image>
-          <image:loc>https://majordigest.com/us/2023/08/30/massive-alligator-patiently-waits-outside-dollar-general/massive-alligator-patiently-waits-outside-dollar-general.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/us/2023/08/30/canada-warns-residents-visiting-us-about-anti-lgbtq-laws/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-30T00:10:09.000Z</news:publication_date>
-          <news:title>Canada warns residents visiting US about anti-LGBTQ laws</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/us/2023/08/30/canada-warns-residents-visiting-us-about-anti-lgbtq-laws/canada-warns-residents-visiting-us-about-anti-lgbtq-laws.webp</image:loc>
+          <image:loc>https://majordigest.com/us/2023/08/29/watch-ohio-police-cruiser-slams-into-store/watch-ohio-police-cruiser-slams-into-store.webp</image:loc>
         </image:image>
       </url>
       <url>
