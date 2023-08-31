@@ -7,7 +7,7 @@
         <title>Major Digest - Reliable and Comprehensive News Sources: tech</title>
         <description>Get the latest news online at Major Digest, the top online news resource for the most reliable news sources. Stay informed about the world around you!</description>
         <link>https://majordigest.com/?utm_medium=RSS</link>
-        <lastBuildDate>Thu, 31 Aug 2023 10:19:08 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 31 Aug 2023 11:16:28 GMT</lastBuildDate>
         <generator>https://majordigest.com/?v=1.1.4</generator>
         <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/" />
         <atom:link rel="self" href="https://majordigest.com/tech/feed.xml" type="application/rss+xml" />
@@ -18,6 +18,17 @@
           <url>https://majordigest.com/assets/icons/logo-512x512.png</url>
           <link>https://majordigest.com/?utm_medium=RSS</link>
         </image>
+      <item>
+        <title>Microsoft to stop packaging Teams and Office software in Europe to head off EU antitrust action</title>
+        <description><![CDATA[LONDON (AP) — Microsoft will stop packaging its Teams videoconferencing app with its Office software in Europe in an effort to head off antitrust penalties by regulators.]]></description>
+        <guid>https://majordigest.com/tech/2023/08/31/microsoft-to-stop-packaging-teams-and-office-software-in-europe-to-head-off-eu-antitrust-action/</guid>
+        <link>https://majordigest.com/tech/2023/08/31/microsoft-to-stop-packaging-teams-and-office-software-in-europe-to-head-off-eu-antitrust-action/</link>
+        <pubDate>Thu, 31 Aug 2023 10:54:01 +0000</pubDate>
+        <category>tech</category>
+        <media:content medium="image" url="https://majordigest.com/tech/2023/08/31/microsoft-to-stop-packaging-teams-and-office-software-in-europe-to-head-off-eu-antitrust-action/microsoft-to-stop-packaging-teams-and-office-software-in-europe-to-head-off-eu-antitrust-action.webp"/>
+        <media:thumbnail url="https://majordigest.com/tech/2023/08/31/microsoft-to-stop-packaging-teams-and-office-software-in-europe-to-head-off-eu-antitrust-action/microsoft-to-stop-packaging-teams-and-office-software-in-europe-to-head-off-eu-antitrust-action.webp"/>
+        <dc:creator>KELVIN CHAN, Associated Press, ABC 4</dc:creator>
+      </item>
       <item>
         <title>China's Baidu makes AI chatbot Ernie Bot publicly available</title>
         <description><![CDATA[HONG KONG (AP) — Chinese search engine and artificial intelligence firm Baidu made its ChatGPT-equivalent language model fully available to the public Thursday, raising the company’s stock price by over 3% following the announcement.]]></description>
@@ -39,6 +50,17 @@
         <media:content medium="image" url="https://majordigest.com/tech/2023/08/31/trains-suspended-people-warned-away-from-the-coastline-as-typhoon-saola-churns-toward-south-china/trains-suspended-people-warned-away-from-the-coastline-as-typhoon-saola-churns-toward-south-china.webp"/>
         <media:thumbnail url="https://majordigest.com/tech/2023/08/31/trains-suspended-people-warned-away-from-the-coastline-as-typhoon-saola-churns-toward-south-china/trains-suspended-people-warned-away-from-the-coastline-as-typhoon-saola-churns-toward-south-china.webp"/>
         <dc:creator>Associated Press, KPRC 2</dc:creator>
+      </item>
+      <item>
+        <title>Japan's PM visits fish market, vows to help fisheries hit by China ban over Fukushima water release</title>
+        <description><![CDATA[Japan’s Prime Minister Fumio Kishida has sampled seafood and talked to workers at Tokyo’s Toyosu fish market on a visit to assess the impact of China’s ban on Japanese seafood in reaction to the release of wastewater from the Fukushima Daiichi plant.]]></description>
+        <guid>https://majordigest.com/tech/2023/08/31/japans-pm-visits-fish-market-vows-to-help-fisheries-hit-by-china-ban-over-fukushima-water-release/</guid>
+        <link>https://majordigest.com/tech/2023/08/31/japans-pm-visits-fish-market-vows-to-help-fisheries-hit-by-china-ban-over-fukushima-water-release/</link>
+        <pubDate>Thu, 31 Aug 2023 04:02:13 +0000</pubDate>
+        <category>tech</category>
+        <media:content medium="image" url="https://majordigest.com/tech/2023/08/31/japans-pm-visits-fish-market-vows-to-help-fisheries-hit-by-china-ban-over-fukushima-water-release/japans-pm-visits-fish-market-vows-to-help-fisheries-hit-by-china-ban-over-fukushima-water-release.webp"/>
+        <media:thumbnail url="https://majordigest.com/tech/2023/08/31/japans-pm-visits-fish-market-vows-to-help-fisheries-hit-by-china-ban-over-fukushima-water-release/japans-pm-visits-fish-market-vows-to-help-fisheries-hit-by-china-ban-over-fukushima-water-release.webp"/>
+        <dc:creator>Mari Yamaguchi, Associated Press, KPRC 2</dc:creator>
       </item>
       <item>
         <title>Mexican Navy hopes to expand net-snagging hooks to protect endangered vaquita porpoises</title>
@@ -83,17 +105,6 @@
         <media:content medium="image" url="https://majordigest.com/tech/2023/08/30/jordan-subpoenas-hate-speech-watchdog/jordan-subpoenas-hate-speech-watchdog.webp"/>
         <media:thumbnail url="https://majordigest.com/tech/2023/08/30/jordan-subpoenas-hate-speech-watchdog/jordan-subpoenas-hate-speech-watchdog.webp"/>
         <dc:creator>Rebecca Klar, The Hill</dc:creator>
-      </item>
-      <item>
-        <title>Gannett to pause AI experiment after botched sports stories</title>
-        <description><![CDATA[Several high school sports reports written by an AI service called LedeAI and published by the Columbus Dispatch earlier this month went viral on social media this week — and not in a good way.]]></description>
-        <guid>https://majordigest.com/tech/2023/08/30/gannett-to-pause-ai-experiment-after-botched-sports-stories/</guid>
-        <link>https://majordigest.com/tech/2023/08/30/gannett-to-pause-ai-experiment-after-botched-sports-stories/</link>
-        <pubDate>Wed, 30 Aug 2023 19:08:36 +0000</pubDate>
-        <category>tech</category>
-        <media:content medium="image" url="https://majordigest.com/tech/2023/08/30/gannett-to-pause-ai-experiment-after-botched-sports-stories/gannett-to-pause-ai-experiment-after-botched-sports-stories.webp"/>
-        <media:thumbnail url="https://majordigest.com/tech/2023/08/30/gannett-to-pause-ai-experiment-after-botched-sports-stories/gannett-to-pause-ai-experiment-after-botched-sports-stories.webp"/>
-        <dc:creator>Cnn.Com Wire Service, The Mercury News</dc:creator>
       </item>
       <item>
         <title>Gannett to pause AI experiment after botched sports stories</title>
@@ -236,7 +247,7 @@
         <category>tech</category>
         <media:content medium="image" url="https://majordigest.com/tech/2023/08/30/amazon-ceo-says-its-probably-not-going-work-out-for-employees-who-defy-return-to-office-policy/amazon-ceo-says-its-probably-not-going-work-out-for-employees-who-defy-return-to-office-policy.webp"/>
         <media:thumbnail url="https://majordigest.com/tech/2023/08/30/amazon-ceo-says-its-probably-not-going-work-out-for-employees-who-defy-return-to-office-policy/amazon-ceo-says-its-probably-not-going-work-out-for-employees-who-defy-return-to-office-policy.webp"/>
-        <dc:creator>HALELUYA HADERO, Associated Press, ABC 4</dc:creator>
+        <dc:creator>HALELUYA HADERO, Associated Press, KRON4</dc:creator>
       </item>
       <item>
         <title>Nissan's all-electric SUV is stylish and practical</title>
@@ -291,18 +302,7 @@
         <category>tech</category>
         <media:content medium="image" url="https://majordigest.com/tech/2023/08/29/supermoon-could-team-up-with-hurricane-idalia-to-raise-tides-higher-just-as-the-storm-makes-landfall/supermoon-could-team-up-with-hurricane-idalia-to-raise-tides-higher-just-as-the-storm-makes-landfall.webp"/>
         <media:thumbnail url="https://majordigest.com/tech/2023/08/29/supermoon-could-team-up-with-hurricane-idalia-to-raise-tides-higher-just-as-the-storm-makes-landfall/supermoon-could-team-up-with-hurricane-idalia-to-raise-tides-higher-just-as-the-storm-makes-landfall.webp"/>
-        <dc:creator>Jeff Martin, Associated Press, KPRC 2</dc:creator>
-      </item>
-      <item>
-        <title>Supermoon could team up with Hurricane Idalia to raise tides higher just as the storm makes landfall</title>
-        <description><![CDATA[A rare blue supermoon could be playing a role in worsening the impact of Hurricane Idalia as the storm lashes Florida's west coast.]]></description>
-        <guid>https://majordigest.com/tech/2023/08/29/supermoon-could-team-up-with-hurricane-idalia-to-raise-tides-higher-just-as-the-storm-makes-landfall/</guid>
-        <link>https://majordigest.com/tech/2023/08/29/supermoon-could-team-up-with-hurricane-idalia-to-raise-tides-higher-just-as-the-storm-makes-landfall/</link>
-        <pubDate>Tue, 29 Aug 2023 19:15:10 +0000</pubDate>
-        <category>tech</category>
-        <media:content medium="image" url="https://majordigest.com/tech/2023/08/29/supermoon-could-team-up-with-hurricane-idalia-to-raise-tides-higher-just-as-the-storm-makes-landfall/supermoon-could-team-up-with-hurricane-idalia-to-raise-tides-higher-just-as-the-storm-makes-landfall.webp"/>
-        <media:thumbnail url="https://majordigest.com/tech/2023/08/29/supermoon-could-team-up-with-hurricane-idalia-to-raise-tides-higher-just-as-the-storm-makes-landfall/supermoon-could-team-up-with-hurricane-idalia-to-raise-tides-higher-just-as-the-storm-makes-landfall.webp"/>
-        <dc:creator>Jeff Martin, Associated Press, KPRC 2</dc:creator>
+        <dc:creator>Jeff Martin, Associated Press, Local 4</dc:creator>
       </item>
       <item>
         <title>How to digitally sign a document on any device</title>
@@ -360,15 +360,15 @@
         <dc:creator>KAVISH HARJAI, Associated Press, KRON4</dc:creator>
       </item>
       <item>
-        <title>Broadband subsidy program that millions use will expire next year if Congress doesn&#8217;t act</title>
-        <description><![CDATA[LOS ANGELES (AP) — One of the features that President Joe Biden cited in his plan to bring internet to every home and business in the United States by 2030 was affordability.]]></description>
-        <guid>https://majordigest.com/tech/2023/08/26/broadband-subsidy-program-that-millions-use-will-expire-next-year-if-congress-doesnt-act/</guid>
-        <link>https://majordigest.com/tech/2023/08/26/broadband-subsidy-program-that-millions-use-will-expire-next-year-if-congress-doesnt-act/</link>
-        <pubDate>Sat, 26 Aug 2023 12:17:34 +0000</pubDate>
+        <title>Early Apple computer that helped launch $3T company sells at auction for $223,000</title>
+        <description><![CDATA[BOSTON (AP) — One of the first personal computers built by Apple and signed by company co-founder Steve Wozniak has sold at auction for more than $223,000.]]></description>
+        <guid>https://majordigest.com/tech/2023/08/25/early-apple-computer-that-helped-launch-3t-company-sells-at-auction-for-223000/</guid>
+        <link>https://majordigest.com/tech/2023/08/25/early-apple-computer-that-helped-launch-3t-company-sells-at-auction-for-223000/</link>
+        <pubDate>Fri, 25 Aug 2023 17:04:31 +0000</pubDate>
         <category>tech</category>
-        <media:content medium="image" url="https://majordigest.com/tech/2023/08/26/broadband-subsidy-program-that-millions-use-will-expire-next-year-if-congress-doesnt-act/broadband-subsidy-program-that-millions-use-will-expire-next-year-if-congress-doesnt-act.webp"/>
-        <media:thumbnail url="https://majordigest.com/tech/2023/08/26/broadband-subsidy-program-that-millions-use-will-expire-next-year-if-congress-doesnt-act/broadband-subsidy-program-that-millions-use-will-expire-next-year-if-congress-doesnt-act.webp"/>
-        <dc:creator>KAVISH HARJAI, Associated Press, KRON4</dc:creator>
+        <media:content medium="image" url="https://majordigest.com/tech/2023/08/25/early-apple-computer-that-helped-launch-3t-company-sells-at-auction-for-223000/early-apple-computer-that-helped-launch-3t-company-sells-at-auction-for-223000.webp"/>
+        <media:thumbnail url="https://majordigest.com/tech/2023/08/25/early-apple-computer-that-helped-launch-3t-company-sells-at-auction-for-223000/early-apple-computer-that-helped-launch-3t-company-sells-at-auction-for-223000.webp"/>
+        <dc:creator>AP, KGET 17, NBC</dc:creator>
       </item>
       <item>
         <title>Early Apple computer that helped launch $3T company sells at auction for $223,000</title>
@@ -379,7 +379,7 @@
         <category>tech</category>
         <media:content medium="image" url="https://majordigest.com/tech/2023/08/25/early-apple-computer-that-helped-launch-3t-company-sells-at-auction-for-223000/early-apple-computer-that-helped-launch-3t-company-sells-at-auction-for-223000.webp"/>
         <media:thumbnail url="https://majordigest.com/tech/2023/08/25/early-apple-computer-that-helped-launch-3t-company-sells-at-auction-for-223000/early-apple-computer-that-helped-launch-3t-company-sells-at-auction-for-223000.webp"/>
-        <dc:creator>AP, KRON4</dc:creator>
+        <dc:creator>AP, KGET 17, NBC</dc:creator>
       </item>
       <item>
         <title>Los Angeles installing solar-powered EV charging stations</title>

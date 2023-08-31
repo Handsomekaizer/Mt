@@ -3,17 +3,101 @@
               xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
               xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
       <url>
-        <loc>https://majordigest.com/politics/2023/08/31/qa-how-can-texans-prepare-for-extreme-heat/</loc>
+        <loc>https://majordigest.com/politics/2023/08/31/la-city-council-votes-lawsuit-criminal-probe-texas-migrant-busing-program/</loc>
         <news:news>
           <news:publication>
             <news:name>Major Digest</news:name>
             <news:language>en</news:language>
           </news:publication>
-          <news:publication_date>2023-08-31T10:00:00.000Z</news:publication_date>
-          <news:title>Q&#38;A: How can Texans prepare for extreme heat?</news:title>
+          <news:publication_date>2023-08-31T10:57:50.000Z</news:publication_date>
+          <news:title>LA city council votes for lawsuit, criminal probe against Texas over migrant busing program</news:title>
         </news:news>
         <image:image>
-          <image:loc>https://majordigest.com/politics/2023/08/31/qa-how-can-texans-prepare-for-extreme-heat/qa-how-can-texans-prepare-for-extreme-heat.webp</image:loc>
+          <image:loc>https://majordigest.com/politics/2023/08/31/la-city-council-votes-lawsuit-criminal-probe-texas-migrant-busing-program/la-city-council-votes-lawsuit-criminal-probe-texas-migrant-busing-program.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/politics/2023/08/31/ramaswamy-leans-into-controversy-despite-political-risks/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-31T10:36:52.000Z</news:publication_date>
+          <news:title>Ramaswamy leans into controversy despite political risks</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/politics/2023/08/31/ramaswamy-leans-into-controversy-despite-political-risks/ramaswamy-leans-into-controversy-despite-political-risks.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/politics/2023/08/31/mayor-adams-calls-for-help-getting-migrants-expedited-work-authorization/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-31T10:36:07.000Z</news:publication_date>
+          <news:title>Mayor Adams calls for help getting migrants expedited work authorization</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/politics/2023/08/31/mayor-adams-calls-for-help-getting-migrants-expedited-work-authorization/mayor-adams-calls-for-help-getting-migrants-expedited-work-authorization.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/politics/2023/08/31/looming-auto-strike-puts-bidens-labor-loyalty-to-the-test/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-31T10:29:20.000Z</news:publication_date>
+          <news:title>Looming auto strike puts Biden's labor loyalty to the test</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/politics/2023/08/31/looming-auto-strike-puts-bidens-labor-loyalty-to-the-test/looming-auto-strike-puts-bidens-labor-loyalty-to-the-test.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/politics/2023/08/31/white-house-warns-gop-biden-impeachment-will-backfire/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-31T10:27:41.000Z</news:publication_date>
+          <news:title>White House warns GOP Biden impeachment will backfire</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/politics/2023/08/31/white-house-warns-gop-biden-impeachment-will-backfire/white-house-warns-gop-biden-impeachment-will-backfire.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/politics/2023/08/31/gop-long-shots-face-steep-hurdles-ahead-of-second-debate/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-31T10:26:45.000Z</news:publication_date>
+          <news:title>GOP long shots face steep hurdles ahead of second debate</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/politics/2023/08/31/gop-long-shots-face-steep-hurdles-ahead-of-second-debate/gop-long-shots-face-steep-hurdles-ahead-of-second-debate.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/politics/2023/08/31/npr-biden-air-force-one-short-stairs/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-31T10:05:00.000Z</news:publication_date>
+          <news:title>Why Biden is now routinely taking the short stairs up to Air Force One</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/politics/2023/08/31/npr-biden-air-force-one-short-stairs/npr-biden-air-force-one-short-stairs.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -31,6 +115,20 @@
         </image:image>
       </url>
       <url>
+        <loc>https://majordigest.com/politics/2023/08/31/npr-trump-hiv-aids-epidemic-defund-house-republicans/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-31T09:00:00.000Z</news:publication_date>
+          <news:title>Trump launched an ambitious effort to end HIV. House Republicans want to defund it.</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/politics/2023/08/31/npr-trump-hiv-aids-epidemic-defund-house-republicans/npr-trump-hiv-aids-epidemic-defund-house-republicans.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
         <loc>https://majordigest.com/politics/2023/08/31/still-no-strong-2024-gop-challenger-for-klobuchar/</loc>
         <news:news>
           <news:publication>
@@ -38,10 +136,24 @@
             <news:language>en</news:language>
           </news:publication>
           <news:publication_date>2023-08-31T09:00:00.000Z</news:publication_date>
-          <news:title>Still no strong 2024 GOP challenger for Klobuchar</news:title>
+          <news:title>Still no strong 2024 GOP challenger for Amy Klobuchar</news:title>
         </news:news>
         <image:image>
           <image:loc>https://majordigest.com/politics/2023/08/31/still-no-strong-2024-gop-challenger-for-klobuchar/still-no-strong-2024-gop-challenger-for-klobuchar.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/politics/2023/08/31/dianne-feinstein-trust-dispute/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-31T08:30:00.000Z</news:publication_date>
+          <news:title>Feinstein is a silent character in her sad and messy final chapter</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/politics/2023/08/31/dianne-feinstein-trust-dispute/dianne-feinstein-trust-dispute.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -87,20 +199,6 @@
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/politics/2023/08/31/senators-hail-health-dept-recommendation-to-ease-restrictions-on-marijuana/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-31T03:28:33.000Z</news:publication_date>
-          <news:title>Marijuana recommendation by US health agency hailed as first step to easing weed restrictions</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/politics/2023/08/31/senators-hail-health-dept-recommendation-to-ease-restrictions-on-marijuana/senators-hail-health-dept-recommendation-to-ease-restrictions-on-marijuana.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
         <loc>https://majordigest.com/politics/2023/08/31/senate-gop-leader-mitch-mcconnell-appears-to-freeze-up-again-this-time-at-a-kentucky-event/</loc>
         <news:news>
           <news:publication>
@@ -143,20 +241,6 @@
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/politics/2023/08/30/biden-rule-overtime-protections/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-30T23:58:36.000Z</news:publication_date>
-          <news:title>Biden rule would give overtime protections to millions more workers</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/politics/2023/08/30/biden-rule-overtime-protections/biden-rule-overtime-protections.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
         <loc>https://majordigest.com/politics/2023/08/30/whitmer-calls-michigans-democratic-legislature-advance-healthcare-climate-bills/</loc>
         <news:news>
           <news:publication>
@@ -171,27 +255,13 @@
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/politics/2023/08/30/white-house-snaps-reporter-hurricane-idalia-response-compared-maui-your-question-is-wrong/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-30T23:31:59.000Z</news:publication_date>
-          <news:title>White House snaps at reporter when Hurricane Idalia response is compared to Maui: 'Your question is wrong'</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/politics/2023/08/30/white-house-snaps-reporter-hurricane-idalia-response-compared-maui-your-question-is-wrong/white-house-snaps-reporter-hurricane-idalia-response-compared-maui-your-question-is-wrong.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
         <loc>https://majordigest.com/politics/2023/08/30/voters-in-one-iowa-county-reject-gop-appointed-auditor-who-posted-about-2020-election-doubts/</loc>
         <news:news>
           <news:publication>
             <news:name>Major Digest</news:name>
             <news:language>en</news:language>
           </news:publication>
-          <news:publication_date>2023-08-30T23:02:11.000Z</news:publication_date>
+          <news:publication_date>2023-08-30T23:25:19.000Z</news:publication_date>
           <news:title>Voters in one Iowa county reject GOP-appointed auditor who posted about 2020 election doubts</news:title>
         </news:news>
         <image:image>
@@ -224,62 +294,6 @@
         </news:news>
         <image:image>
           <image:loc>https://majordigest.com/politics/2023/08/30/mcconnell-second-public-freeze/mcconnell-second-public-freeze.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/politics/2023/08/30/newsom-aliso-canyon-dirty-energy-blackouts/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-30T21:40:00.000Z</news:publication_date>
-          <news:title>Newsom embraces dirty energy in bid to stave off blackouts</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/politics/2023/08/30/newsom-aliso-canyon-dirty-energy-blackouts/newsom-aliso-canyon-dirty-energy-blackouts.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/politics/2023/08/30/giuliani-loses-georgia-election-worker-defamation-suit-by-default-judge-rules/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-30T19:47:41.000Z</news:publication_date>
-          <news:title>Giuliani loses Georgia election worker defamation suit by default, judge rules</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/politics/2023/08/30/giuliani-loses-georgia-election-worker-defamation-suit-by-default-judge-rules/giuliani-loses-georgia-election-worker-defamation-suit-by-default-judge-rules.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/politics/2023/08/30/more-see-trump-as-electable-after-mug-shot-release-skipped-debate-poll/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-30T19:37:49.000Z</news:publication_date>
-          <news:title>More see Trump as electable after mug shot release, skipped debate: poll&#160;</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/politics/2023/08/30/more-see-trump-as-electable-after-mug-shot-release-skipped-debate-poll/more-see-trump-as-electable-after-mug-shot-release-skipped-debate-poll.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/politics/2023/08/30/conservative-law-firm-suit-nara-biden-probe/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-30T19:24:00.000Z</news:publication_date>
-          <news:title>Conservative law firm files suit against NARA in Biden probe</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/politics/2023/08/30/conservative-law-firm-suit-nara-biden-probe/conservative-law-firm-suit-nara-biden-probe.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -353,6 +367,20 @@
         </image:image>
       </url>
       <url>
+        <loc>https://majordigest.com/politics/2023/08/29/california-senate-elects-new-leader/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-29T22:44:23.000Z</news:publication_date>
+          <news:title>California Senate elects new leader</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/politics/2023/08/29/california-senate-elects-new-leader/california-senate-elects-new-leader.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
         <loc>https://majordigest.com/politics/2023/08/29/katie-porter-partners-with-gop-rep-to-introduce-bill-to-prevent-infant-formula-crisis/</loc>
         <news:news>
           <news:publication>
@@ -392,20 +420,6 @@
         </news:news>
         <image:image>
           <image:loc>https://majordigest.com/politics/2023/08/29/here-are-the-first-10-drugs-that-medicare-will-target-for-price-cuts/here-are-the-first-10-drugs-that-medicare-will-target-for-price-cuts.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/politics/2023/08/29/biden-targets-diabetes-drug-blood-thinner-and-8-others-for-medicare-price-talks/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-29T12:07:36.000Z</news:publication_date>
-          <news:title>Biden targets diabetes drug Jardiance, blood thinner Eliquis and 8 others for Medicare price talks</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/politics/2023/08/29/biden-targets-diabetes-drug-blood-thinner-and-8-others-for-medicare-price-talks/biden-targets-diabetes-drug-blood-thinner-and-8-others-for-medicare-price-talks.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -465,20 +479,6 @@
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/politics/2023/08/25/new-york-man-sentenced-to-3-months-in-prison-for-making-threatening-phone-calls-to-rep-marjorie-taylor-greene/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-25T19:49:09.000Z</news:publication_date>
-          <news:title>NY man sentenced to prison for making threatening&#160;phone calls to Rep. Marjorie Taylor Greene</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/politics/2023/08/25/new-york-man-sentenced-to-3-months-in-prison-for-making-threatening-phone-calls-to-rep-marjorie-taylor-greene/new-york-man-sentenced-to-3-months-in-prison-for-making-threatening-phone-calls-to-rep-marjorie-taylor-greene.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
         <loc>https://majordigest.com/politics/2023/08/25/carlos-santana-issues-apology-for-anti-trans-remarks-on-stage/</loc>
         <news:news>
           <news:publication>
@@ -493,6 +493,20 @@
         </image:image>
       </url>
       <url>
+        <loc>https://majordigest.com/politics/2023/08/25/trump-recounts-terrible-experience-of-being-booked-in-georgia/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-25T12:58:40.000Z</news:publication_date>
+          <news:title>Trump recounts 'terrible experience' of being booked in Georgia</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/politics/2023/08/25/trump-recounts-terrible-experience-of-being-booked-in-georgia/trump-recounts-terrible-experience-of-being-booked-in-georgia.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
         <loc>https://majordigest.com/politics/2023/08/24/covid-19-cases-rise-cdc-recommends-updated-vaccine/</loc>
         <news:news>
           <news:publication>
@@ -504,19 +518,5 @@
         </news:news>
         <image:image>
           <image:loc>https://majordigest.com/politics/2023/08/24/covid-19-cases-rise-cdc-recommends-updated-vaccine/covid-19-cases-rise-cdc-recommends-updated-vaccine.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/politics/2023/08/24/trump-set-to-surrender-at-georgia-jail-on-charges-that-he-sought-to-overturn-2020-election/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-24T10:53:23.000Z</news:publication_date>
-          <news:title>Trump set to surrender at Georgia jail on charges that he sought to overturn 2020 election</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/politics/2023/08/24/trump-set-to-surrender-at-georgia-jail-on-charges-that-he-sought-to-overturn-2020-election/trump-set-to-surrender-at-georgia-jail-on-charges-that-he-sought-to-overturn-2020-election.webp</image:loc>
         </image:image>
       </url></urlset>
