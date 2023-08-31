@@ -3,17 +3,59 @@
               xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
               xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
       <url>
+        <loc>https://majordigest.com/tech/2023/08/31/san-jose-airport-passenger-economy-tech-covid-airline-travel-fly-july/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-31T12:30:54.000Z</news:publication_date>
+          <news:title>San Jose Airport passenger trips cruise to higher levels in July</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/tech/2023/08/31/san-jose-airport-passenger-economy-tech-covid-airline-travel-fly-july/san-jose-airport-passenger-economy-tech-covid-airline-travel-fly-july.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/tech/2023/08/31/livermore-tesla-real-estate-buy-economy-tech-green-electric-car-covid/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-31T12:30:06.000Z</news:publication_date>
+          <news:title>Huge East Bay buildings that include Tesla operations are bought</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/tech/2023/08/31/livermore-tesla-real-estate-buy-economy-tech-green-electric-car-covid/livermore-tesla-real-estate-buy-economy-tech-green-electric-car-covid.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
         <loc>https://majordigest.com/tech/2023/08/31/microsoft-to-stop-packaging-teams-and-office-software-in-europe-to-head-off-eu-antitrust-action/</loc>
         <news:news>
           <news:publication>
             <news:name>Major Digest</news:name>
             <news:language>en</news:language>
           </news:publication>
-          <news:publication_date>2023-08-31T10:54:01.000Z</news:publication_date>
+          <news:publication_date>2023-08-31T12:03:34.000Z</news:publication_date>
           <news:title>Microsoft to stop packaging Teams and Office software in Europe to head off EU antitrust action</news:title>
         </news:news>
         <image:image>
           <image:loc>https://majordigest.com/tech/2023/08/31/microsoft-to-stop-packaging-teams-and-office-software-in-europe-to-head-off-eu-antitrust-action/microsoft-to-stop-packaging-teams-and-office-software-in-europe-to-head-off-eu-antitrust-action.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/tech/2023/08/31/nissan-is-reusing-the-batteries-from-old-leaf-electric-vehicles-to-make-portable-power-sources/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-31T11:24:36.000Z</news:publication_date>
+          <news:title>Nissan is reusing the batteries from old Leaf electric vehicles to make portable power sources</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/tech/2023/08/31/nissan-is-reusing-the-batteries-from-old-leaf-electric-vehicles-to-make-portable-power-sources/nissan-is-reusing-the-batteries-from-old-leaf-electric-vehicles-to-make-portable-power-sources.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -157,20 +199,6 @@
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/tech/2023/08/30/review-the-monokei-standard-makes-sacrifices-to-offer-high-end-features-at-affordable-price/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-30T18:18:15.000Z</news:publication_date>
-          <news:title>Review: The Monokei Standard makes sacrifices to offer high-end features at affordable price</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/tech/2023/08/30/review-the-monokei-standard-makes-sacrifices-to-offer-high-end-features-at-affordable-price/review-the-monokei-standard-makes-sacrifices-to-offer-high-end-features-at-affordable-price.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
         <loc>https://majordigest.com/tech/2023/08/30/job-growth-dips-sharply-as-labor-market-cools/</loc>
         <news:news>
           <news:publication>
@@ -196,6 +224,20 @@
         </news:news>
         <image:image>
           <image:loc>https://majordigest.com/tech/2023/08/30/ocasio-cortez-ponders-leaving-x-platform/ocasio-cortez-ponders-leaving-x-platform.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/tech/2023/08/30/fbi-disrupts-malicious-program-infecting-hundreds-of-thousands-of-computers/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-30T15:19:40.000Z</news:publication_date>
+          <news:title>FBI disrupts malicious program infecting hundreds of thousands of computers</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/tech/2023/08/30/fbi-disrupts-malicious-program-infecting-hundreds-of-thousands-of-computers/fbi-disrupts-malicious-program-infecting-hundreds-of-thousands-of-computers.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -269,20 +311,6 @@
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/tech/2023/08/30/u-s-takes-down-rogue-robot-network-that-infected-200000-computers/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-30T10:32:50.000Z</news:publication_date>
-          <news:title>Qakbot: Feds take down malware botnet that infected 200,000 U.S. computers</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/tech/2023/08/30/u-s-takes-down-rogue-robot-network-that-infected-200000-computers/u-s-takes-down-rogue-robot-network-that-infected-200000-computers.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
         <loc>https://majordigest.com/tech/2023/08/30/amazon-ceo-says-its-probably-not-going-work-out-for-employees-who-defy-return-to-office-policy/</loc>
         <news:news>
           <news:publication>
@@ -353,20 +381,6 @@
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/tech/2023/08/29/supermoon-could-team-up-with-hurricane-idalia-to-raise-tides-higher-just-as-the-storm-makes-landfall/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-29T19:15:10.000Z</news:publication_date>
-          <news:title>Supermoon could team up with Hurricane Idalia to raise tides higher just as the storm makes landfall</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/tech/2023/08/29/supermoon-could-team-up-with-hurricane-idalia-to-raise-tides-higher-just-as-the-storm-makes-landfall/supermoon-could-team-up-with-hurricane-idalia-to-raise-tides-higher-just-as-the-storm-makes-landfall.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
         <loc>https://majordigest.com/tech/2023/08/29/digitally-sign-document-device/</loc>
         <news:news>
           <news:publication>
@@ -434,20 +448,6 @@
         </news:news>
         <image:image>
           <image:loc>https://majordigest.com/tech/2023/08/26/broadband-subsidy-program-that-millions-use-will-expire-next-year-if-congress-doesnt-act/broadband-subsidy-program-that-millions-use-will-expire-next-year-if-congress-doesnt-act.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/tech/2023/08/25/early-apple-computer-that-helped-launch-3t-company-sells-at-auction-for-223000/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-25T17:04:31.000Z</news:publication_date>
-          <news:title>Early Apple computer that helped launch $3T company sells at auction for $223,000</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/tech/2023/08/25/early-apple-computer-that-helped-launch-3t-company-sells-at-auction-for-223000/early-apple-computer-that-helped-launch-3t-company-sells-at-auction-for-223000.webp</image:loc>
         </image:image>
       </url>
       <url>
