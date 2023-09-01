@@ -3,31 +3,101 @@
               xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
               xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
       <url>
-        <loc>https://majordigest.com/us/2023/09/01/gabons-opposition-candidate-alleges-the-ousted-presidents-family-is-behind-a-plot-to-retain-power/</loc>
+        <loc>https://majordigest.com/us/2023/09/01/ex-proud-boys-organizer-sentenced-to-17-years-in-prison-for-plot-to-keep-trump-in-power/</loc>
         <news:news>
           <news:publication>
             <news:name>Major Digest</news:name>
             <news:language>en</news:language>
           </news:publication>
-          <news:publication_date>2023-09-01T16:04:25.000Z</news:publication_date>
-          <news:title>Gabon opposition leader alleges the ousted president's family arranged the coup to retain power</news:title>
+          <news:publication_date>2023-09-01T16:43:11.000Z</news:publication_date>
+          <news:title>Two ex-Proud Boys leaders get among the longest sentences in the Jan. 6 Capitol attack</news:title>
         </news:news>
         <image:image>
-          <image:loc>https://majordigest.com/us/2023/09/01/gabons-opposition-candidate-alleges-the-ousted-presidents-family-is-behind-a-plot-to-retain-power/gabons-opposition-candidate-alleges-the-ousted-presidents-family-is-behind-a-plot-to-retain-power.webp</image:loc>
+          <image:loc>https://majordigest.com/us/2023/09/01/ex-proud-boys-organizer-sentenced-to-17-years-in-prison-for-plot-to-keep-trump-in-power/ex-proud-boys-organizer-sentenced-to-17-years-in-prison-for-plot-to-keep-trump-in-power.webp</image:loc>
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/us/2023/09/01/hispanic-heritage-starts-this-month-but-not-on-september-1st/</loc>
+        <loc>https://majordigest.com/us/2023/09/01/russian-students-are-returning-to-school-where-they-face-new-lessons-to-boost-their-patriotism/</loc>
         <news:news>
           <news:publication>
             <news:name>Major Digest</news:name>
             <news:language>en</news:language>
           </news:publication>
-          <news:publication_date>2023-09-01T15:38:42.000Z</news:publication_date>
-          <news:title>Hispanic heritage starts this month, but not on September 1st</news:title>
+          <news:publication_date>2023-09-01T16:36:29.000Z</news:publication_date>
+          <news:title>Russian students are returning to school, where they face new lessons to boost their patriotism</news:title>
         </news:news>
         <image:image>
-          <image:loc>https://majordigest.com/us/2023/09/01/hispanic-heritage-starts-this-month-but-not-on-september-1st/hispanic-heritage-starts-this-month-but-not-on-september-1st.webp</image:loc>
+          <image:loc>https://majordigest.com/us/2023/09/01/russian-students-are-returning-to-school-where-they-face-new-lessons-to-boost-their-patriotism/russian-students-are-returning-to-school-where-they-face-new-lessons-to-boost-their-patriotism.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/us/2023/09/01/russia-reports-more-drone-attacks-as-satellite-photos-indicate-earlier-barrage-destroyed-2-aircraft/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-09-01T16:30:11.000Z</news:publication_date>
+          <news:title>Russia's Putin and Turkey's Erdogan set to meet amid efforts to repair Ukraine grain deal</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/us/2023/09/01/russia-reports-more-drone-attacks-as-satellite-photos-indicate-earlier-barrage-destroyed-2-aircraft/russia-reports-more-drone-attacks-as-satellite-photos-indicate-earlier-barrage-destroyed-2-aircraft.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/us/2023/09/01/uaw-strike-feels-more-likely-as-tensions-rise-against-big-three-what-we-know/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-09-01T16:25:12.000Z</news:publication_date>
+          <news:title>UAW strike feels more likely as tensions rise against Big Three: What we know</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/us/2023/09/01/uaw-strike-feels-more-likely-as-tensions-rise-against-big-three-what-we-know/uaw-strike-feels-more-likely-as-tensions-rise-against-big-three-what-we-know.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/us/2023/09/01/12-year-old-shot-to-death-dumped-in-trash-can-report/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-09-01T16:02:01.000Z</news:publication_date>
+          <news:title>'Brutally killed': 12-year-old shot to death, dumped in trash can, report says</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/us/2023/09/01/12-year-old-shot-to-death-dumped-in-trash-can-report/12-year-old-shot-to-death-dumped-in-trash-can-report.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/us/2023/09/01/things-to-know-about-the-latest-court-and-policy-action-on-transgender-issues-in-the-us/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-09-01T15:43:23.000Z</news:publication_date>
+          <news:title>Things to know about the latest court and policy action on transgender issues in the US</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/us/2023/09/01/things-to-know-about-the-latest-court-and-policy-action-on-transgender-issues-in-the-us/things-to-know-about-the-latest-court-and-policy-action-on-transgender-issues-in-the-us.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/us/2023/09/01/parenting-advice-youtuber-ruby-franke-arrested-on-suspicion-of-child-abuse/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-09-01T15:35:24.000Z</news:publication_date>
+          <news:title>Parenting advice YouTuber Ruby Franke arrested on suspicion of child abuse</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/us/2023/09/01/parenting-advice-youtuber-ruby-franke-arrested-on-suspicion-of-child-abuse/parenting-advice-youtuber-ruby-franke-arrested-on-suspicion-of-child-abuse.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -56,34 +126,6 @@
         </news:news>
         <image:image>
           <image:loc>https://majordigest.com/us/2023/09/01/a-federal-judge-strikes-down-a-texas-law-requiring-age-verification-to-view-pornographic-websites/a-federal-judge-strikes-down-a-texas-law-requiring-age-verification-to-view-pornographic-websites.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/us/2023/09/01/after-mauis-wildfires-thousands-brace-for-long-process-of-restoring-safe-water-service/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-09-01T15:15:27.000Z</news:publication_date>
-          <news:title>After Maui's wildfires, thousands brace for long process of restoring safe water service</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/us/2023/09/01/after-mauis-wildfires-thousands-brace-for-long-process-of-restoring-safe-water-service/after-mauis-wildfires-thousands-brace-for-long-process-of-restoring-safe-water-service.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/us/2023/09/01/ap-election-brief-what-to-expect-in-utahs-special-congressional-primary/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-09-01T15:09:04.000Z</news:publication_date>
-          <news:title>AP Election Brief | What to expect in Utah's special congressional primary</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/us/2023/09/01/ap-election-brief-what-to-expect-in-utahs-special-congressional-primary/ap-election-brief-what-to-expect-in-utahs-special-congressional-primary.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -121,7 +163,7 @@
             <news:name>Major Digest</news:name>
             <news:language>en</news:language>
           </news:publication>
-          <news:publication_date>2023-09-01T14:31:29.000Z</news:publication_date>
+          <news:publication_date>2023-09-01T14:31:12.000Z</news:publication_date>
           <news:title>Americans on both sides of the aisle want congressional term limits</news:title>
         </news:news>
         <image:image>
@@ -157,6 +199,34 @@
         </image:image>
       </url>
       <url>
+        <loc>https://majordigest.com/us/2023/09/01/walking-dead-spinoffs-interview-with-the-vampire-to-resume-with-actors-union-approval/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-09-01T13:08:22.000Z</news:publication_date>
+          <news:title>'Walking Dead' spinoffs, 'Interview With the Vampire' to resume with actors' union approval</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/us/2023/09/01/walking-dead-spinoffs-interview-with-the-vampire-to-resume-with-actors-union-approval/walking-dead-spinoffs-interview-with-the-vampire-to-resume-with-actors-union-approval.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/us/2023/09/01/interest-on-student-loans-is-back-heres-what-to-know/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-09-01T12:45:43.000Z</news:publication_date>
+          <news:title>Interest on student loans is back: Here's what to know</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/us/2023/09/01/interest-on-student-loans-is-back-heres-what-to-know/interest-on-student-loans-is-back-heres-what-to-know.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
         <loc>https://majordigest.com/us/2023/09/01/after-nearly-30-years-pennsylvania-will-end-state-funding-for-anti-abortion-counseling-centers/</loc>
         <news:news>
           <news:publication>
@@ -171,13 +241,27 @@
         </image:image>
       </url>
       <url>
+        <loc>https://majordigest.com/us/2023/09/01/fema-is-running-out-of-money-but-these-strategies-can-help-survivors-of-hurricane-idalia-and-the-maui-fires-get-aid-faster/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-09-01T12:02:09.000Z</news:publication_date>
+          <news:title>FEMA is running out of money, but these strategies can help survivors of Hurricane Idalia and the Maui fires get aid&#160;faster</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/us/2023/09/01/fema-is-running-out-of-money-but-these-strategies-can-help-survivors-of-hurricane-idalia-and-the-maui-fires-get-aid-faster/fema-is-running-out-of-money-but-these-strategies-can-help-survivors-of-hurricane-idalia-and-the-maui-fires-get-aid-faster.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
         <loc>https://majordigest.com/us/2023/09/01/congress-faces-ticking-clock-on-flood-insurance-as-hurricane-season-picks-up/</loc>
         <news:news>
           <news:publication>
             <news:name>Major Digest</news:name>
             <news:language>en</news:language>
           </news:publication>
-          <news:publication_date>2023-09-01T11:10:37.000Z</news:publication_date>
+          <news:publication_date>2023-09-01T11:08:59.000Z</news:publication_date>
           <news:title>Congress faces ticking clock on flood insurance as hurricane season picks up</news:title>
         </news:news>
         <image:image>
@@ -185,31 +269,17 @@
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/us/2023/09/01/residents-return-to-find-homes-gone-towns-devastated-in-path-of-idalia/</loc>
+        <loc>https://majordigest.com/us/2023/09/01/residents-find-homes-gone-towns-devastated-after-idalia/</loc>
         <news:news>
           <news:publication>
             <news:name>Major Digest</news:name>
             <news:language>en</news:language>
           </news:publication>
-          <news:publication_date>2023-09-01T10:38:49.000Z</news:publication_date>
-          <news:title>Residents return to find homes gone, towns devastated in path of Idalia</news:title>
+          <news:publication_date>2023-09-01T09:56:24.000Z</news:publication_date>
+          <news:title>Residents find homes gone, towns devastated after Idalia</news:title>
         </news:news>
         <image:image>
-          <image:loc>https://majordigest.com/us/2023/09/01/residents-return-to-find-homes-gone-towns-devastated-in-path-of-idalia/residents-return-to-find-homes-gone-towns-devastated-in-path-of-idalia.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/us/2023/09/01/regulators-may-change-how-they-classify-marijuana-heres-what-that-would-mean/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-09-01T10:06:51.000Z</news:publication_date>
-          <news:title>Regulators may change how marijuana is classified. Here's what that would mean</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/us/2023/09/01/regulators-may-change-how-they-classify-marijuana-heres-what-that-would-mean/regulators-may-change-how-they-classify-marijuana-heres-what-that-would-mean.webp</image:loc>
+          <image:loc>https://majordigest.com/us/2023/09/01/residents-find-homes-gone-towns-devastated-after-idalia/residents-find-homes-gone-towns-devastated-after-idalia.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -252,34 +322,6 @@
         </news:news>
         <image:image>
           <image:loc>https://majordigest.com/us/2023/09/01/in-final-hours-before-landfall-hurricane-idalia-stopped-intensifying-and-turned-from-tallahassee/in-final-hours-before-landfall-hurricane-idalia-stopped-intensifying-and-turned-from-tallahassee.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/us/2023/09/01/total-miracle-dog-home-safe-after-ohio-storm-saved-from-river/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-09-01T02:14:27.000Z</news:publication_date>
-          <news:title>'Total miracle': Dog home safe after Ohio storm, saved from river</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/us/2023/09/01/total-miracle-dog-home-safe-after-ohio-storm-saved-from-river/total-miracle-dog-home-safe-after-ohio-storm-saved-from-river.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/us/2023/09/01/a-look-inside-donald-trumps-deposition-defiance-deflection-and-the-hottest-brand-in-the-world/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-09-01T01:51:58.000Z</news:publication_date>
-          <news:title>A look inside Donald Trump's deposition: Defiance, deflection and the 'hottest brand in the world'</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/us/2023/09/01/a-look-inside-donald-trumps-deposition-defiance-deflection-and-the-hottest-brand-in-the-world/a-look-inside-donald-trumps-deposition-defiance-deflection-and-the-hottest-brand-in-the-world.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -353,17 +395,17 @@
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/us/2023/09/01/alaska-board-of-education-votes-to-ban-transgender-girls-from-competing-on-high-school-girls-teams/</loc>
+        <loc>https://majordigest.com/us/2023/09/01/trader-joes-recall-black-bean-tamales-may-contain-undeclared-milk/</loc>
         <news:news>
           <news:publication>
             <news:name>Major Digest</news:name>
             <news:language>en</news:language>
           </news:publication>
-          <news:publication_date>2023-09-01T00:57:30.000Z</news:publication_date>
-          <news:title>Alaska board of education votes to ban transgender girls from competing on high school girls teams</news:title>
+          <news:publication_date>2023-09-01T00:50:30.000Z</news:publication_date>
+          <news:title>Trader Joe&#8217;s recall: Black bean tamales may contain undeclared milk</news:title>
         </news:news>
         <image:image>
-          <image:loc>https://majordigest.com/us/2023/09/01/alaska-board-of-education-votes-to-ban-transgender-girls-from-competing-on-high-school-girls-teams/alaska-board-of-education-votes-to-ban-transgender-girls-from-competing-on-high-school-girls-teams.webp</image:loc>
+          <image:loc>https://majordigest.com/us/2023/09/01/trader-joes-recall-black-bean-tamales-may-contain-undeclared-milk/trader-joes-recall-black-bean-tamales-may-contain-undeclared-milk.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -406,48 +448,6 @@
         </news:news>
         <image:image>
           <image:loc>https://majordigest.com/us/2023/08/31/pentagon-releases-new-website-on-ufos/pentagon-releases-new-website-on-ufos.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/us/2023/08/31/leaders-speeding-up-work-permits-can-fix-labor-shortage/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-31T21:32:42.000Z</news:publication_date>
-          <news:title>Leaders: Speeding up work permits can fix labor shortage</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/us/2023/08/31/leaders-speeding-up-work-permits-can-fix-labor-shortage/leaders-speeding-up-work-permits-can-fix-labor-shortage.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/us/2023/08/31/white-house-defends-maui-wildfire-response-announces-95m-for-recovery/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-31T21:10:16.000Z</news:publication_date>
-          <news:title>White House defends Maui wildfire response, announces $95M for recovery</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/us/2023/08/31/white-house-defends-maui-wildfire-response-announces-95m-for-recovery/white-house-defends-maui-wildfire-response-announces-95m-for-recovery.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/us/2023/08/31/video-live-bull-rides-shotgun-in-car-driver-gets-pulled-over-by-police-in-nebraska/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-31T20:57:01.000Z</news:publication_date>
-          <news:title>VIDEO: Live bull rides shotgun in car, driver gets pulled over by police in Nebraska</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/us/2023/08/31/video-live-bull-rides-shotgun-in-car-driver-gets-pulled-over-by-police-in-nebraska/video-live-bull-rides-shotgun-in-car-driver-gets-pulled-over-by-police-in-nebraska.webp</image:loc>
         </image:image>
       </url>
       <url>

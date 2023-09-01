@@ -3,17 +3,73 @@
               xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
               xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
       <url>
-        <loc>https://majordigest.com/sports/2023/09/01/cubs-calling-up-a-prospect-as-september-begins/</loc>
+        <loc>https://majordigest.com/sports/2023/09/01/micah-parsons-claims-the-top-spot-in-aps-nfl-defensive-line-rankings/</loc>
         <news:news>
           <news:publication>
             <news:name>Major Digest</news:name>
             <news:language>en</news:language>
           </news:publication>
-          <news:publication_date>2023-09-01T16:21:46.000Z</news:publication_date>
-          <news:title>Cubs calling up a prospect as September begins</news:title>
+          <news:publication_date>2023-09-01T17:10:26.000Z</news:publication_date>
+          <news:title>Micah Parsons claims the top spot in AP's NFL defensive line rankings</news:title>
         </news:news>
         <image:image>
-          <image:loc>https://majordigest.com/sports/2023/09/01/cubs-calling-up-a-prospect-as-september-begins/cubs-calling-up-a-prospect-as-september-begins.webp</image:loc>
+          <image:loc>https://majordigest.com/sports/2023/09/01/micah-parsons-claims-the-top-spot-in-aps-nfl-defensive-line-rankings/micah-parsons-claims-the-top-spot-in-aps-nfl-defensive-line-rankings.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/sports/2023/09/01/fifa-president-world-cup-kissing-scandal-spoiled-spains-celebration/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-09-01T16:56:38.000Z</news:publication_date>
+          <news:title>FIFA president says World Cup kissing scandal &#8216;spoiled&#8217; Spain&#8217;s celebration</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/sports/2023/09/01/fifa-president-world-cup-kissing-scandal-spoiled-spains-celebration/fifa-president-world-cup-kissing-scandal-spoiled-spains-celebration.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/sports/2023/09/01/utequake-fans-shake-the-stadium-during-utah-win/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-09-01T16:54:09.000Z</news:publication_date>
+          <news:title>UteQuake: Fans shake the stadium during Utah win</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/sports/2023/09/01/utequake-fans-shake-the-stadium-during-utah-win/utequake-fans-shake-the-stadium-during-utah-win.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/sports/2023/09/01/trent-williams-claims-the-top-spot-in-aps-nfl-offensive-line-rankings/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-09-01T16:52:58.000Z</news:publication_date>
+          <news:title>Trent Williams claims the top spot in AP's NFL offensive line rankings</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/sports/2023/09/01/trent-williams-claims-the-top-spot-in-aps-nfl-offensive-line-rankings/trent-williams-claims-the-top-spot-in-aps-nfl-offensive-line-rankings.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/sports/2023/09/01/sacramento-kings-sign-3-time-nba-champion-javale-mcgee/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-09-01T16:41:49.000Z</news:publication_date>
+          <news:title>Sacramento Kings sign 3-time NBA Champion JaVale McGee</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/sports/2023/09/01/sacramento-kings-sign-3-time-nba-champion-javale-mcgee/sacramento-kings-sign-3-time-nba-champion-javale-mcgee.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -73,20 +129,6 @@
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/sports/2023/09/01/germany-slovenia-us-and-lithuania-make-world-cup-quarterfinals/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-09-01T15:42:06.000Z</news:publication_date>
-          <news:title>Germany, Slovenia, US and Lithuania make World Cup quarterfinals</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/sports/2023/09/01/germany-slovenia-us-and-lithuania-make-world-cup-quarterfinals/germany-slovenia-us-and-lithuania-make-world-cup-quarterfinals.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
         <loc>https://majordigest.com/sports/2023/09/01/stanford-uc-berkeley-to-join-atlantic-coast-conference-in-2024/</loc>
         <news:news>
           <news:publication>
@@ -101,31 +143,31 @@
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/sports/2023/09/01/usa-basketball-survives-a-tough-test-and-rallies-to-beat-montenegro-85-73-at-the-world-cup/</loc>
+        <loc>https://majordigest.com/sports/2023/09/01/new-general-managers-darwitz-and-sauvageau-head-list-of-pro-womens-hockey-leagues-six-leaders/</loc>
         <news:news>
           <news:publication>
             <news:name>Major Digest</news:name>
             <news:language>en</news:language>
           </news:publication>
-          <news:publication_date>2023-09-01T14:37:51.000Z</news:publication_date>
-          <news:title>USA Basketball rallies to beat Montenegro 85-73 at the World Cup, reaches quarterfinals</news:title>
+          <news:publication_date>2023-09-01T13:00:57.000Z</news:publication_date>
+          <news:title>New general managers Darwitz and Sauvageau head list of Pro Women's Hockey League's six leaders</news:title>
         </news:news>
         <image:image>
-          <image:loc>https://majordigest.com/sports/2023/09/01/usa-basketball-survives-a-tough-test-and-rallies-to-beat-montenegro-85-73-at-the-world-cup/usa-basketball-survives-a-tough-test-and-rallies-to-beat-montenegro-85-73-at-the-world-cup.webp</image:loc>
+          <image:loc>https://majordigest.com/sports/2023/09/01/new-general-managers-darwitz-and-sauvageau-head-list-of-pro-womens-hockey-leagues-six-leaders/new-general-managers-darwitz-and-sauvageau-head-list-of-pro-womens-hockey-leagues-six-leaders.webp</image:loc>
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/sports/2023/09/01/acc-votes-add-three-schools-conference-realignment-continues-report/</loc>
+        <loc>https://majordigest.com/sports/2023/09/01/in-photos-world-record-set-during-volleyball-match-at-football-stadium/</loc>
         <news:news>
           <news:publication>
             <news:name>Major Digest</news:name>
             <news:language>en</news:language>
           </news:publication>
-          <news:publication_date>2023-09-01T14:13:57.000Z</news:publication_date>
-          <news:title>ACC votes to add 3 schools as conference realignment continues</news:title>
+          <news:publication_date>2023-09-01T12:57:56.000Z</news:publication_date>
+          <news:title>IN PHOTOS: World record set during volleyball match at football stadium</news:title>
         </news:news>
         <image:image>
-          <image:loc>https://majordigest.com/sports/2023/09/01/acc-votes-add-three-schools-conference-realignment-continues-report/acc-votes-add-three-schools-conference-realignment-continues-report.webp</image:loc>
+          <image:loc>https://majordigest.com/sports/2023/09/01/in-photos-world-record-set-during-volleyball-match-at-football-stadium/in-photos-world-record-set-during-volleyball-match-at-football-stadium.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -157,45 +199,31 @@
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/sports/2023/09/01/packers-super-bowl-champion-speaks-out-following-untimely-death-teen-son-special-soul/</loc>
+        <loc>https://majordigest.com/sports/2023/09/01/u-s-open-john-isners-17-year-career-ends-in-5-set-thriller/</loc>
         <news:news>
           <news:publication>
             <news:name>Major Digest</news:name>
             <news:language>en</news:language>
           </news:publication>
-          <news:publication_date>2023-09-01T12:25:20.000Z</news:publication_date>
-          <news:title>Packers Super Bowl champion speaks out following untimely death of teen son: &#8216;A special soul&#8217;</news:title>
+          <news:publication_date>2023-09-01T11:08:44.000Z</news:publication_date>
+          <news:title>U.S. Open: John Isner&#8217;s 17-year career ends in 5-set thriller</news:title>
         </news:news>
         <image:image>
-          <image:loc>https://majordigest.com/sports/2023/09/01/packers-super-bowl-champion-speaks-out-following-untimely-death-teen-son-special-soul/packers-super-bowl-champion-speaks-out-following-untimely-death-teen-son-special-soul.webp</image:loc>
+          <image:loc>https://majordigest.com/sports/2023/09/01/u-s-open-john-isners-17-year-career-ends-in-5-set-thriller/u-s-open-john-isners-17-year-career-ends-in-5-set-thriller.webp</image:loc>
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/sports/2023/09/01/transfer-deadline-day-the-premier-leagues-wild-spending-far-from-done-after-2-5-billion-spree/</loc>
+        <loc>https://majordigest.com/sports/2023/09/01/acuna-hits-grand-slam-on-wedding-night-to-become-30-hr-60-sb-player-as-braves-beat-dodgers-8-7/</loc>
         <news:news>
           <news:publication>
             <news:name>Major Digest</news:name>
             <news:language>en</news:language>
           </news:publication>
-          <news:publication_date>2023-09-01T10:37:31.000Z</news:publication_date>
-          <news:title>Transfer deadline day: The Premier League's wild spending far from done after $2.5 billion spree</news:title>
+          <news:publication_date>2023-09-01T10:58:05.000Z</news:publication_date>
+          <news:title>Braves star Ronald Acu&#241;a Jr. gets married, then hits grand slam to become 1st 30-HR, 60-SB player</news:title>
         </news:news>
         <image:image>
-          <image:loc>https://majordigest.com/sports/2023/09/01/transfer-deadline-day-the-premier-leagues-wild-spending-far-from-done-after-2-5-billion-spree/transfer-deadline-day-the-premier-leagues-wild-spending-far-from-done-after-2-5-billion-spree.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/sports/2023/09/01/nascar-playoffs-begin-with-denny-hamlin-ready-to-shake-label-as-greatest-driver-without-a-cup-title/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-09-01T10:00:06.000Z</news:publication_date>
-          <news:title>NASCAR playoffs begin with Denny Hamlin ready to shake label as greatest driver without a Cup title</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/sports/2023/09/01/nascar-playoffs-begin-with-denny-hamlin-ready-to-shake-label-as-greatest-driver-without-a-cup-title/nascar-playoffs-begin-with-denny-hamlin-ready-to-shake-label-as-greatest-driver-without-a-cup-title.webp</image:loc>
+          <image:loc>https://majordigest.com/sports/2023/09/01/acuna-hits-grand-slam-on-wedding-night-to-become-30-hr-60-sb-player-as-braves-beat-dodgers-8-7/acuna-hits-grand-slam-on-wedding-night-to-become-30-hr-60-sb-player-as-braves-beat-dodgers-8-7.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -213,17 +241,17 @@
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/sports/2023/09/01/acuna-hits-grand-slam-on-wedding-night-to-become-30-hr-60-sb-player-as-braves-beat-dodgers-8-7/</loc>
+        <loc>https://majordigest.com/sports/2023/09/01/utes-shut-down-florida-in-season-opener-24-11/</loc>
         <news:news>
           <news:publication>
             <news:name>Major Digest</news:name>
             <news:language>en</news:language>
           </news:publication>
-          <news:publication_date>2023-09-01T05:21:16.000Z</news:publication_date>
-          <news:title>Braves star Ronald Acu&#241;a Jr. gets married, then hits grand slam to become 1st 30-HR, 60-SB player</news:title>
+          <news:publication_date>2023-09-01T04:07:24.000Z</news:publication_date>
+          <news:title>Utes shut down Florida in season opener, 24-11</news:title>
         </news:news>
         <image:image>
-          <image:loc>https://majordigest.com/sports/2023/09/01/acuna-hits-grand-slam-on-wedding-night-to-become-30-hr-60-sb-player-as-braves-beat-dodgers-8-7/acuna-hits-grand-slam-on-wedding-night-to-become-30-hr-60-sb-player-as-braves-beat-dodgers-8-7.webp</image:loc>
+          <image:loc>https://majordigest.com/sports/2023/09/01/utes-shut-down-florida-in-season-opener-24-11/utes-shut-down-florida-in-season-opener-24-11.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -255,17 +283,17 @@
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/sports/2023/08/31/here-are-the-biggest-takeaways-from-the-bucs-53-man-roster/</loc>
+        <loc>https://majordigest.com/sports/2023/08/31/baker-and-emily-mayfield-foundation-raises-100000-at-first-event-in-tampa/</loc>
         <news:news>
           <news:publication>
             <news:name>Major Digest</news:name>
             <news:language>en</news:language>
           </news:publication>
-          <news:publication_date>2023-08-31T21:48:08.000Z</news:publication_date>
-          <news:title>Here are the biggest takeaways from the Bucs' 53-man roster</news:title>
+          <news:publication_date>2023-08-31T23:09:23.000Z</news:publication_date>
+          <news:title>Baker and Emily Mayfield Foundation raises over $100K at first event&#160;in Tampa</news:title>
         </news:news>
         <image:image>
-          <image:loc>https://majordigest.com/sports/2023/08/31/here-are-the-biggest-takeaways-from-the-bucs-53-man-roster/here-are-the-biggest-takeaways-from-the-bucs-53-man-roster.webp</image:loc>
+          <image:loc>https://majordigest.com/sports/2023/08/31/baker-and-emily-mayfield-foundation-raises-100000-at-first-event-in-tampa/baker-and-emily-mayfield-foundation-raises-100000-at-first-event-in-tampa.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -297,6 +325,20 @@
         </image:image>
       </url>
       <url>
+        <loc>https://majordigest.com/sports/2023/08/31/sauce-gardner-voted-top-nfl-cornerback/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-31T19:05:13.000Z</news:publication_date>
+          <news:title>Sauce Gardner voted top NFL cornerback&#160;</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/sports/2023/08/31/sauce-gardner-voted-top-nfl-cornerback/sauce-gardner-voted-top-nfl-cornerback.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
         <loc>https://majordigest.com/sports/2023/08/31/its-tradition-utah-tailgaters-begin-gameday-at-the-crack-of-dawn/</loc>
         <news:news>
           <news:publication>
@@ -308,34 +350,6 @@
         </news:news>
         <image:image>
           <image:loc>https://majordigest.com/sports/2023/08/31/its-tradition-utah-tailgaters-begin-gameday-at-the-crack-of-dawn/its-tradition-utah-tailgaters-begin-gameday-at-the-crack-of-dawn.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/sports/2023/08/31/want-to-see-lionel-messi-play-in-l-a-heres-how-much-tickets-cost/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-31T17:06:54.000Z</news:publication_date>
-          <news:title>Want to see Lionel Messi play in L.A.? Here's how much tickets cost</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/sports/2023/08/31/want-to-see-lionel-messi-play-in-l-a-heres-how-much-tickets-cost/want-to-see-lionel-messi-play-in-l-a-heres-how-much-tickets-cost.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/sports/2023/08/31/nebraska-volleyball-stadium-event-draws-92003-to-set-womens-world-attendance-record/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-31T15:33:47.000Z</news:publication_date>
-          <news:title>Nebraska volleyball stadium event draws 92,003 to set women's world attendance record</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/sports/2023/08/31/nebraska-volleyball-stadium-event-draws-92003-to-set-womens-world-attendance-record/nebraska-volleyball-stadium-event-draws-92003-to-set-womens-world-attendance-record.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -353,20 +367,6 @@
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/sports/2023/08/31/rsl-drops-fourth-straight-falling-to-portland-2-1/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-31T04:55:23.000Z</news:publication_date>
-          <news:title>RSL drops fourth straight, falling to Portland, 2-1</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/sports/2023/08/31/rsl-drops-fourth-straight-falling-to-portland-2-1/rsl-drops-fourth-straight-falling-to-portland-2-1.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
         <loc>https://majordigest.com/sports/2023/08/30/cmu-football-is-ready-for-battle/</loc>
         <news:news>
           <news:publication>
@@ -378,6 +378,20 @@
         </news:news>
         <image:image>
           <image:loc>https://majordigest.com/sports/2023/08/30/cmu-football-is-ready-for-battle/cmu-football-is-ready-for-battle.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/sports/2023/08/30/garza-resigns-at-nevada-is-fresno-city-next/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-30T07:34:57.000Z</news:publication_date>
+          <news:title>Garza resigns at Nevada, is Fresno City next?</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/sports/2023/08/30/garza-resigns-at-nevada-is-fresno-city-next/garza-resigns-at-nevada-is-fresno-city-next.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -437,20 +451,6 @@
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/sports/2023/08/29/a-spanish-soccer-officials-kiss-unleashed-fury-soul-searching-over-sexism-and-a-hunger-strike/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-29T20:03:31.000Z</news:publication_date>
-          <news:title>A Spanish soccer official&#8217;s kiss unleashed fury, soul-searching over sexism, and a hunger strike</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/sports/2023/08/29/a-spanish-soccer-officials-kiss-unleashed-fury-soul-searching-over-sexism-and-a-hunger-strike/a-spanish-soccer-officials-kiss-unleashed-fury-soul-searching-over-sexism-and-a-hunger-strike.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
         <loc>https://majordigest.com/sports/2023/08/29/tedford-talks-about-mikey-keene-as-qb1/</loc>
         <news:news>
           <news:publication>
@@ -465,17 +465,17 @@
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/sports/2023/08/29/holiday-bowl-brings-back-iconic-san-diego-fireworks-show-for-second-year/</loc>
+        <loc>https://majordigest.com/sports/2023/08/29/massapequa-international-little-league-honored-with-parade-after-winning-softball-world-series/</loc>
         <news:news>
           <news:publication>
             <news:name>Major Digest</news:name>
             <news:language>en</news:language>
           </news:publication>
-          <news:publication_date>2023-08-29T01:24:28.000Z</news:publication_date>
-          <news:title>Holiday Bowl brings back iconic San Diego fireworks show for second year</news:title>
+          <news:publication_date>2023-08-29T01:18:42.000Z</news:publication_date>
+          <news:title>Massapequa International Little League honored with parade after winning softball World Series</news:title>
         </news:news>
         <image:image>
-          <image:loc>https://majordigest.com/sports/2023/08/29/holiday-bowl-brings-back-iconic-san-diego-fireworks-show-for-second-year/holiday-bowl-brings-back-iconic-san-diego-fireworks-show-for-second-year.webp</image:loc>
+          <image:loc>https://majordigest.com/sports/2023/08/29/massapequa-international-little-league-honored-with-parade-after-winning-softball-world-series/massapequa-international-little-league-honored-with-parade-after-winning-softball-world-series.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -493,30 +493,30 @@
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/sports/2023/08/28/simone-biles-wins-record-8th-us-gymnastics-title-a-full-decade-after-her-first/</loc>
+        <loc>https://majordigest.com/sports/2023/08/28/fight-at-in-n-out-after-chargers-49ers-game-leads-to-stabbing/</loc>
         <news:news>
           <news:publication>
             <news:name>Major Digest</news:name>
             <news:language>en</news:language>
           </news:publication>
-          <news:publication_date>2023-08-28T09:57:18.000Z</news:publication_date>
-          <news:title>Simone Biles wins record 8th US Gymnastics title - a full decade after her first</news:title>
+          <news:publication_date>2023-08-28T18:21:13.000Z</news:publication_date>
+          <news:title>Fight at In-N-Out after Chargers-49ers game leads to stabbing</news:title>
         </news:news>
         <image:image>
-          <image:loc>https://majordigest.com/sports/2023/08/28/simone-biles-wins-record-8th-us-gymnastics-title-a-full-decade-after-her-first/simone-biles-wins-record-8th-us-gymnastics-title-a-full-decade-after-her-first.webp</image:loc>
+          <image:loc>https://majordigest.com/sports/2023/08/28/fight-at-in-n-out-after-chargers-49ers-game-leads-to-stabbing/fight-at-in-n-out-after-chargers-49ers-game-leads-to-stabbing.webp</image:loc>
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/sports/2023/08/28/local-sports-teams-react-to-el-segundo-winning-little-league-world-series/</loc>
+        <loc>https://majordigest.com/sports/2023/08/28/escondido-basketball-player-becomes-viral-tiktok-sensation/</loc>
         <news:news>
           <news:publication>
             <news:name>Major Digest</news:name>
             <news:language>en</news:language>
           </news:publication>
-          <news:publication_date>2023-08-28T01:41:48.000Z</news:publication_date>
-          <news:title>Local sports teams react to El Segundo winning Little League World Series</news:title>
+          <news:publication_date>2023-08-28T15:37:09.000Z</news:publication_date>
+          <news:title>Escondido basketball player becomes viral TikTok sensation&#160;</news:title>
         </news:news>
         <image:image>
-          <image:loc>https://majordigest.com/sports/2023/08/28/local-sports-teams-react-to-el-segundo-winning-little-league-world-series/local-sports-teams-react-to-el-segundo-winning-little-league-world-series.webp</image:loc>
+          <image:loc>https://majordigest.com/sports/2023/08/28/escondido-basketball-player-becomes-viral-tiktok-sensation/escondido-basketball-player-becomes-viral-tiktok-sensation.webp</image:loc>
         </image:image>
       </url></urlset>

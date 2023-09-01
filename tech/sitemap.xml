@@ -10,7 +10,7 @@
             <news:language>en</news:language>
           </news:publication>
           <news:publication_date>2023-09-01T16:19:19.000Z</news:publication_date>
-          <news:title>Online marketplaces, social media platforms under fire by Congress over recalled products</news:title>
+          <news:title>Online marketplaces, social media platforms under fire from Congress over recalled products</news:title>
         </news:news>
         <image:image>
           <image:loc>https://majordigest.com/tech/2023/09/01/online-marketplaces-social-media-platforms-under-fire-congress-recalled-products/online-marketplaces-social-media-platforms-under-fire-congress-recalled-products.webp</image:loc>
@@ -437,6 +437,20 @@
         </image:image>
       </url>
       <url>
+        <loc>https://majordigest.com/tech/2023/08/30/2023-nissan-ariya-electric-crossover-review/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-30T08:00:00.000Z</news:publication_date>
+          <news:title>Nissan's all-electric SUV is stylish and practical</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/tech/2023/08/30/2023-nissan-ariya-electric-crossover-review/2023-nissan-ariya-electric-crossover-review.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
         <loc>https://majordigest.com/tech/2023/08/29/16-attorneys-general-sec-audit-shein-forced-labor/</loc>
         <news:news>
           <news:publication>
@@ -504,19 +518,5 @@
         </news:news>
         <image:image>
           <image:loc>https://majordigest.com/tech/2023/08/26/broadband-subsidy-program-that-millions-use-will-expire-next-year-if-congress-doesnt-act/broadband-subsidy-program-that-millions-use-will-expire-next-year-if-congress-doesnt-act.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/tech/2023/08/25/early-apple-computer-that-helped-launch-3t-company-sells-at-auction-for-223000/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-25T17:04:31.000Z</news:publication_date>
-          <news:title>Early Apple computer that helped launch $3T company sells at auction for $223,000</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/tech/2023/08/25/early-apple-computer-that-helped-launch-3t-company-sells-at-auction-for-223000/early-apple-computer-that-helped-launch-3t-company-sells-at-auction-for-223000.webp</image:loc>
         </image:image>
       </url></urlset>
