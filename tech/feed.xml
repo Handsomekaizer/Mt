@@ -7,7 +7,7 @@
         <title>Major Digest - Reliable and Comprehensive News Sources: tech</title>
         <description>Get the latest news online at Major Digest, the top online news resource for the most reliable news sources. Stay informed about the world around you!</description>
         <link>https://majordigest.com/?utm_medium=RSS</link>
-        <lastBuildDate>Fri, 01 Sep 2023 05:18:08 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 01 Sep 2023 06:23:31 GMT</lastBuildDate>
         <generator>https://majordigest.com/?v=1.1.4</generator>
         <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/" />
         <atom:link rel="self" href="https://majordigest.com/tech/feed.xml" type="application/rss+xml" />
@@ -18,6 +18,17 @@
           <url>https://majordigest.com/assets/icons/logo-512x512.png</url>
           <link>https://majordigest.com/?utm_medium=RSS</link>
         </image>
+      <item>
+        <title>Newspaper giant pauses AI experiment after readers mock bizarre sports reporting</title>
+        <description><![CDATA[Newspaper publisher Gannett paused its AI experiment following backlash over awkward phrasing and errors that made it into published stories, Fox News Digital has learned.]]></description>
+        <guid>https://majordigest.com/tech/2023/09/01/newspaper-giant-pauses-ai-experiment-readers-mock-bizarre-sports-reporting/</guid>
+        <link>https://majordigest.com/tech/2023/09/01/newspaper-giant-pauses-ai-experiment-readers-mock-bizarre-sports-reporting/</link>
+        <pubDate>Fri, 01 Sep 2023 02:00:36 EDT</pubDate>
+        <category>tech</category>
+        <media:content medium="image" url="https://majordigest.com/tech/2023/09/01/newspaper-giant-pauses-ai-experiment-readers-mock-bizarre-sports-reporting/newspaper-giant-pauses-ai-experiment-readers-mock-bizarre-sports-reporting.webp"/>
+        <media:thumbnail url="https://majordigest.com/tech/2023/09/01/newspaper-giant-pauses-ai-experiment-readers-mock-bizarre-sports-reporting/newspaper-giant-pauses-ai-experiment-readers-mock-bizarre-sports-reporting.webp"/>
+        <dc:creator>Fox News</dc:creator>
+      </item>
       <item>
         <title>Trump-era rule change allowing the logging of old-growth forests violates laws, judge says</title>
         <description><![CDATA[A federal judge has found that a Trump-era rule change that allowed for the logging of old-growth forests in the Pacific Northwest violates several laws.]]></description>
@@ -281,17 +292,6 @@
         <media:content medium="image" url="https://majordigest.com/tech/2023/08/30/fbi-disrupts-malicious-program-infecting-computers/fbi-disrupts-malicious-program-infecting-computers.webp"/>
         <media:thumbnail url="https://majordigest.com/tech/2023/08/30/fbi-disrupts-malicious-program-infecting-computers/fbi-disrupts-malicious-program-infecting-computers.webp"/>
         <dc:creator>Tara Suter, NewsNation</dc:creator>
-      </item>
-      <item>
-        <title>Home cocktail makers aim to fire the local bartender</title>
-        <description><![CDATA[Making cocktails at home is much easier with a Bartesian Cocktail Maker. Kurt &quot;CyberGuy&quot; Knutsson explains how automatic cocktail makers work.]]></description>
-        <guid>https://majordigest.com/tech/2023/08/30/home-cocktail-makers-aim-fire-local-bartender/</guid>
-        <link>https://majordigest.com/tech/2023/08/30/home-cocktail-makers-aim-fire-local-bartender/</link>
-        <pubDate>Wed, 30 Aug 2023 15:02:55 EDT</pubDate>
-        <category>tech</category>
-        <media:content medium="image" url="https://majordigest.com/tech/2023/08/30/home-cocktail-makers-aim-fire-local-bartender/home-cocktail-makers-aim-fire-local-bartender.webp"/>
-        <media:thumbnail url="https://majordigest.com/tech/2023/08/30/home-cocktail-makers-aim-fire-local-bartender/home-cocktail-makers-aim-fire-local-bartender.webp"/>
-        <dc:creator>Fox News</dc:creator>
       </item>
       <item>
         <title>Saudi man receives death penalty for posts online, latest case in wide-ranging crackdown on dissent</title>

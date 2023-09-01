@@ -3,6 +3,20 @@
               xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
               xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
       <url>
+        <loc>https://majordigest.com/world/2023/09/01/israel-unveils-advanced-surveillance-plane-ai-powered-sensors-unprecedented/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-09-01T06:00:06.000Z</news:publication_date>
+          <news:title>Israel unveils 'most advanced' surveillance plane with AI-powered sensors: 'Unprecedented'</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/world/2023/09/01/israel-unveils-advanced-surveillance-plane-ai-powered-sensors-unprecedented/israel-unveils-advanced-surveillance-plane-ai-powered-sensors-unprecedented.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
         <loc>https://majordigest.com/world/2023/09/01/canada-issues-us-travel-advisory-warning-lgbtq-community-about-laws-thay-may-affect-them/</loc>
         <news:news>
           <news:publication>
@@ -28,6 +42,34 @@
         </news:news>
         <image:image>
           <image:loc>https://majordigest.com/world/2023/08/31/china-xi-jinping-reportedly-skip-g20-summit-biden/china-xi-jinping-reportedly-skip-g20-summit-biden.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/world/2023/08/31/china-xi-jinping-reportedly-skip-g20-summit-biden/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-31T23:21:17.000Z</news:publication_date>
+          <news:title>China's Xi set to snub G20, dashing chance of Biden meeting: reports</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/world/2023/08/31/china-xi-jinping-reportedly-skip-g20-summit-biden/china-xi-jinping-reportedly-skip-g20-summit-biden.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/world/2023/08/31/us-military-urges-halt-clashes-eastern-syria-concerns-isis-resurgence/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-31T23:03:36.000Z</news:publication_date>
+          <news:title>US military urges halt to clashes in eastern Syria amid concerns of ISIS resurgence</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/world/2023/08/31/us-military-urges-halt-clashes-eastern-syria-concerns-isis-resurgence/us-military-urges-halt-clashes-eastern-syria-concerns-isis-resurgence.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -101,20 +143,6 @@
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/world/2023/08/31/us-denies-blocking-chip-sales-middle-east/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-31T21:58:24.000Z</news:publication_date>
-          <news:title>US denies blocking chip sales to Middle East</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/world/2023/08/31/us-denies-blocking-chip-sales-middle-east/us-denies-blocking-chip-sales-middle-east.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
         <loc>https://majordigest.com/world/2023/08/31/video-appears-to-show-prigozhin-dismissing-security-concerns-days-before-fatal-plane-crash/</loc>
         <news:news>
           <news:publication>
@@ -140,20 +168,6 @@
         </news:news>
         <image:image>
           <image:loc>https://majordigest.com/world/2023/08/31/mexicos-broad-opposition-coalition-announces-sen-xochitl-galvez-will-run-for-presidency-in-2024/mexicos-broad-opposition-coalition-announces-sen-xochitl-galvez-will-run-for-presidency-in-2024.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/world/2023/08/31/china-says-it-deplores-us-military-transfer-to-taiwan/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-31T21:36:26.000Z</news:publication_date>
-          <news:title>China says it 'deplores' US military transfer to Taiwan</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/world/2023/08/31/china-says-it-deplores-us-military-transfer-to-taiwan/china-says-it-deplores-us-military-transfer-to-taiwan.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -227,17 +241,17 @@
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/world/2023/08/31/can-you-trust-temu-how-are-their-prices-so-low-weve-got-some-answers/</loc>
+        <loc>https://majordigest.com/world/2023/08/31/at-least-38-people-have-died-in-a-fire-in-a-building-in-south-africas-biggest-city-authorities-say/</loc>
         <news:news>
           <news:publication>
             <news:name>Major Digest</news:name>
             <news:language>en</news:language>
           </news:publication>
-          <news:publication_date>2023-08-31T16:56:31.000Z</news:publication_date>
-          <news:title>Can you trust Temu? How are their prices so low? We&#8217;ve got some answers</news:title>
+          <news:publication_date>2023-08-31T17:16:00.000Z</news:publication_date>
+          <news:title>At least 74 are dead, many of them homeless, as fire rips through a rundown building in South Africa</news:title>
         </news:news>
         <image:image>
-          <image:loc>https://majordigest.com/world/2023/08/31/can-you-trust-temu-how-are-their-prices-so-low-weve-got-some-answers/can-you-trust-temu-how-are-their-prices-so-low-weve-got-some-answers.webp</image:loc>
+          <image:loc>https://majordigest.com/world/2023/08/31/at-least-38-people-have-died-in-a-fire-in-a-building-in-south-africas-biggest-city-authorities-say/at-least-38-people-have-died-in-a-fire-in-a-building-in-south-africas-biggest-city-authorities-say.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -252,20 +266,6 @@
         </news:news>
         <image:image>
           <image:loc>https://majordigest.com/world/2023/08/31/can-you-trust-temu-how-are-their-prices-so-low-weve-got-some-answers/can-you-trust-temu-how-are-their-prices-so-low-weve-got-some-answers.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/world/2023/08/31/iceland-says-commercial-whaling-can-resume-after-temporary-ban/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-31T15:17:21.000Z</news:publication_date>
-          <news:title>Iceland says commercial whaling can resume after temporary ban</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/world/2023/08/31/iceland-says-commercial-whaling-can-resume-after-temporary-ban/iceland-says-commercial-whaling-can-resume-after-temporary-ban.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -297,20 +297,6 @@
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/world/2023/08/31/eu-examines-its-training-of-african-armies-as-another-coup-rocks-the-continent/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-31T10:45:14.000Z</news:publication_date>
-          <news:title>EU grapples with its African army training dilemma as another coup rocks the continent</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/world/2023/08/31/eu-examines-its-training-of-african-armies-as-another-coup-rocks-the-continent/eu-examines-its-training-of-african-armies-as-another-coup-rocks-the-continent.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
         <loc>https://majordigest.com/world/2023/08/31/ousting-of-gabons-unpopular-leader-was-a-smokescreen-for-soldiers-to-seize-power-analysts-say/</loc>
         <news:news>
           <news:publication>
@@ -322,6 +308,20 @@
         </news:news>
         <image:image>
           <image:loc>https://majordigest.com/world/2023/08/31/ousting-of-gabons-unpopular-leader-was-a-smokescreen-for-soldiers-to-seize-power-analysts-say/ousting-of-gabons-unpopular-leader-was-a-smokescreen-for-soldiers-to-seize-power-analysts-say.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/world/2023/08/31/at-least-52-people-have-died-in-a-fire-in-a-building-in-south-africas-biggest-city-authorities-say/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-31T05:22:52.000Z</news:publication_date>
+          <news:title>At least 74 are dead, many of them homeless, as fire rips through a rundown building in South Africa</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/world/2023/08/31/at-least-52-people-have-died-in-a-fire-in-a-building-in-south-africas-biggest-city-authorities-say/at-least-52-people-have-died-in-a-fire-in-a-building-in-south-africas-biggest-city-authorities-say.webp</image:loc>
         </image:image>
       </url>
       <url>

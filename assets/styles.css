@@ -294,6 +294,8 @@ fieldset legend h2 {
 .article h3,
 .article img,
 .article p,
+.article > div > ul,
+.article > div > ul li,
 .page > *,
 .page li {
   margin: 1em 5%;
