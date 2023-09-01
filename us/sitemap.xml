@@ -3,6 +3,48 @@
               xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
               xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
       <url>
+        <loc>https://majordigest.com/us/2023/09/01/residents-return-to-find-homes-gone-towns-devastated-in-path-of-idalia/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-09-01T05:03:48.000Z</news:publication_date>
+          <news:title>Residents return to find homes gone, towns devastated in path of Idalia</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/us/2023/09/01/residents-return-to-find-homes-gone-towns-devastated-in-path-of-idalia/residents-return-to-find-homes-gone-towns-devastated-in-path-of-idalia.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/us/2023/09/01/in-final-hours-before-landfall-hurricane-idalia-stopped-intensifying-and-turned-from-tallahassee/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-09-01T04:38:40.000Z</news:publication_date>
+          <news:title>In final hours before landfall, Hurricane Idalia stopped intensifying and turned from Tallahassee</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/us/2023/09/01/in-final-hours-before-landfall-hurricane-idalia-stopped-intensifying-and-turned-from-tallahassee/in-final-hours-before-landfall-hurricane-idalia-stopped-intensifying-and-turned-from-tallahassee.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/us/2023/09/01/hong-kong-and-parts-of-southern-china-grind-to-near-standstill-as-super-typhoon-saola-edges-closer/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-09-01T03:41:43.000Z</news:publication_date>
+          <news:title>Hong Kong and parts of southern China grind to near standstill as Super Typhoon Saola edges closer</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/us/2023/09/01/hong-kong-and-parts-of-southern-china-grind-to-near-standstill-as-super-typhoon-saola-edges-closer/hong-kong-and-parts-of-southern-china-grind-to-near-standstill-as-super-typhoon-saola-edges-closer.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
         <loc>https://majordigest.com/us/2023/09/01/an-honorary-captain-allen-robinson-returns-to-happy-valley/</loc>
         <news:news>
           <news:publication>
@@ -17,17 +59,17 @@
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/us/2023/09/01/justice-thomas-reports-he-took-3-trips-on-republican-donors-plane-last-year/</loc>
+        <loc>https://majordigest.com/us/2023/09/01/pope-makes-first-visit-to-mongolia-as-vatican-relations-with-russia-and-china-are-again-strained/</loc>
         <news:news>
           <news:publication>
             <news:name>Major Digest</news:name>
             <news:language>en</news:language>
           </news:publication>
-          <news:publication_date>2023-09-01T02:32:26.000Z</news:publication_date>
-          <news:title>Justice Clarence Thomas reports he took 3 trips on Republican donor's plane last year</news:title>
+          <news:publication_date>2023-09-01T02:40:45.000Z</news:publication_date>
+          <news:title>Pope arrives on first visit to Mongolia as Vatican relations with Russia and China remain strained</news:title>
         </news:news>
         <image:image>
-          <image:loc>https://majordigest.com/us/2023/09/01/justice-thomas-reports-he-took-3-trips-on-republican-donors-plane-last-year/justice-thomas-reports-he-took-3-trips-on-republican-donors-plane-last-year.webp</image:loc>
+          <image:loc>https://majordigest.com/us/2023/09/01/pope-makes-first-visit-to-mongolia-as-vatican-relations-with-russia-and-china-are-again-strained/pope-makes-first-visit-to-mongolia-as-vatican-relations-with-russia-and-china-are-again-strained.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -42,34 +84,6 @@
         </news:news>
         <image:image>
           <image:loc>https://majordigest.com/us/2023/09/01/total-miracle-dog-home-safe-after-ohio-storm-saved-from-river/total-miracle-dog-home-safe-after-ohio-storm-saved-from-river.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/us/2023/09/01/philadelphia-vietnam-veterans-memorial-vandalized-20k-damage-caretakers/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-09-01T02:00:54.000Z</news:publication_date>
-          <news:title>Philadelphia Vietnam Veterans Memorial vandalized; $20K in damage, caretakers say</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/us/2023/09/01/philadelphia-vietnam-veterans-memorial-vandalized-20k-damage-caretakers/philadelphia-vietnam-veterans-memorial-vandalized-20k-damage-caretakers.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/us/2023/09/01/video-captures-florida-suspect-grabbing-7-eleven-employee-throat-during-robbery/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-09-01T01:57:37.000Z</news:publication_date>
-          <news:title>Video captures Florida suspect grabbing 7-Eleven employee by throat during robbery</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/us/2023/09/01/video-captures-florida-suspect-grabbing-7-eleven-employee-throat-during-robbery/video-captures-florida-suspect-grabbing-7-eleven-employee-throat-during-robbery.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -101,6 +115,20 @@
         </image:image>
       </url>
       <url>
+        <loc>https://majordigest.com/us/2023/09/01/which-states-have-the-most-confrontational-drivers/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-09-01T01:29:32.000Z</news:publication_date>
+          <news:title>Which states have the most confrontational drivers?</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/us/2023/09/01/which-states-have-the-most-confrontational-drivers/which-states-have-the-most-confrontational-drivers.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
         <loc>https://majordigest.com/us/2023/09/01/opening-statements-begin-in-website-founders-2nd-trial-over-ads-promoting-prostitution/</loc>
         <news:news>
           <news:publication>
@@ -112,20 +140,6 @@
         </news:news>
         <image:image>
           <image:loc>https://majordigest.com/us/2023/09/01/opening-statements-begin-in-website-founders-2nd-trial-over-ads-promoting-prostitution/opening-statements-begin-in-website-founders-2nd-trial-over-ads-promoting-prostitution.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/us/2023/09/01/federal-indictment-claims-multistate-crime-ring-committed-armed-carjackings-armed-robberies-laundered-money/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-09-01T01:07:25.000Z</news:publication_date>
-          <news:title>Federal indictment claims multistate crime ring committed armed carjackings, armed robberies, laundered money</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/us/2023/09/01/federal-indictment-claims-multistate-crime-ring-committed-armed-carjackings-armed-robberies-laundered-money/federal-indictment-claims-multistate-crime-ring-committed-armed-carjackings-armed-robberies-laundered-money.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -213,6 +227,34 @@
         </image:image>
       </url>
       <url>
+        <loc>https://majordigest.com/us/2023/09/01/massachusetts-boy-2-dies-horrific-accident-auto-repair-shop/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-09-01T00:42:06.000Z</news:publication_date>
+          <news:title>Massachusetts boy, 2, dies in horrific accident at auto repair shop</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/us/2023/09/01/massachusetts-boy-2-dies-horrific-accident-auto-repair-shop/massachusetts-boy-2-dies-horrific-accident-auto-repair-shop.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/us/2023/09/01/nitazines-synthetic-opioids-fentanyl/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-09-01T00:41:52.000Z</news:publication_date>
+          <news:title>Nitazines: Why are these synthetic opioids deadlier than fentanyl?</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/us/2023/09/01/nitazines-synthetic-opioids-fentanyl/nitazines-synthetic-opioids-fentanyl.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
         <loc>https://majordigest.com/us/2023/09/01/missouri-judge-says-white-man-will-stand-trial-for-shooting-black-teen-who-went-to-wrong-house/</loc>
         <news:news>
           <news:publication>
@@ -224,6 +266,20 @@
         </news:news>
         <image:image>
           <image:loc>https://majordigest.com/us/2023/09/01/missouri-judge-says-white-man-will-stand-trial-for-shooting-black-teen-who-went-to-wrong-house/missouri-judge-says-white-man-will-stand-trial-for-shooting-black-teen-who-went-to-wrong-house.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/us/2023/09/01/video-live-bull-rides-shotgun-in-car-driver-gets-pulled-over-in-nebraska/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-09-01T00:23:27.000Z</news:publication_date>
+          <news:title>VIDEO: Live bull rides shotgun in car, driver gets pulled over in Nebraska</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/us/2023/09/01/video-live-bull-rides-shotgun-in-car-driver-gets-pulled-over-in-nebraska/video-live-bull-rides-shotgun-in-car-driver-gets-pulled-over-in-nebraska.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -241,34 +297,6 @@
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/us/2023/08/31/union-sues-over-changes-in-teacher-evaluations-prompted-by-texas-takeover-of-houston-school-district/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-31T23:18:40.000Z</news:publication_date>
-          <news:title>Judge blocks changes in teacher evaluations prompted by Texas' takeover of Houston school district</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/us/2023/08/31/union-sues-over-changes-in-teacher-evaluations-prompted-by-texas-takeover-of-houston-school-district/union-sues-over-changes-in-teacher-evaluations-prompted-by-texas-takeover-of-houston-school-district.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/us/2023/08/31/utah-mom-who-gave-youtube-parenting-advice-arrested-on-suspicion-of-child-abuse-police-say/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-31T22:55:32.000Z</news:publication_date>
-          <news:title>Utah mom who gave YouTube parenting advice arrested on suspicion of child abuse, police say</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/us/2023/08/31/utah-mom-who-gave-youtube-parenting-advice-arrested-on-suspicion-of-child-abuse-police-say/utah-mom-who-gave-youtube-parenting-advice-arrested-on-suspicion-of-child-abuse-police-say.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
         <loc>https://majordigest.com/us/2023/08/31/pentagon-releases-new-website-on-ufos/</loc>
         <news:news>
           <news:publication>
@@ -283,17 +311,17 @@
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/us/2023/08/31/south-carolina-woman-recalls-moment-a-tornado-flipped-her-car-during-idalia/</loc>
+        <loc>https://majordigest.com/us/2023/08/31/americans-want-congressional-term-limits/</loc>
         <news:news>
           <news:publication>
             <news:name>Major Digest</news:name>
             <news:language>en</news:language>
           </news:publication>
-          <news:publication_date>2023-08-31T22:34:18.000Z</news:publication_date>
-          <news:title>South Carolina woman recalls moment a tornado flipped her car during Idalia</news:title>
+          <news:publication_date>2023-08-31T22:19:10.000Z</news:publication_date>
+          <news:title>Americans on both sides of the aisle want congressional term limits</news:title>
         </news:news>
         <image:image>
-          <image:loc>https://majordigest.com/us/2023/08/31/south-carolina-woman-recalls-moment-a-tornado-flipped-her-car-during-idalia/south-carolina-woman-recalls-moment-a-tornado-flipped-her-car-during-idalia.webp</image:loc>
+          <image:loc>https://majordigest.com/us/2023/08/31/americans-want-congressional-term-limits/americans-want-congressional-term-limits.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -353,20 +381,6 @@
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/us/2023/08/31/new-york-police-will-use-drones-to-monitor-backyard-parties-this-weekend-spurring-privacy-concerns/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-31T20:43:41.000Z</news:publication_date>
-          <news:title>New York police will use drones to monitor backyard parties this weekend, spurring privacy concerns</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/us/2023/08/31/new-york-police-will-use-drones-to-monitor-backyard-parties-this-weekend-spurring-privacy-concerns/new-york-police-will-use-drones-to-monitor-backyard-parties-this-weekend-spurring-privacy-concerns.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
         <loc>https://majordigest.com/us/2023/08/31/watch-car-with-giant-bull-named-howdy-doody-riding-shotgun-pulled-over-in-nebraska/</loc>
         <news:news>
           <news:publication>
@@ -409,31 +423,17 @@
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/us/2023/08/31/x-formerly-known-as-twitter-will-collect-user-biometric-data-job-and-education-history/</loc>
+        <loc>https://majordigest.com/us/2023/08/31/capitol-physician-mcconnell-medically-clear-to-continue-schedule-after-freeze-up/</loc>
         <news:news>
           <news:publication>
             <news:name>Major Digest</news:name>
             <news:language>en</news:language>
           </news:publication>
-          <news:publication_date>2023-08-31T18:19:20.000Z</news:publication_date>
-          <news:title>X, formerly known as Twitter, will collect user biometric data, job and education history</news:title>
+          <news:publication_date>2023-08-31T18:32:42.000Z</news:publication_date>
+          <news:title>McConnell 'medically clear,' says Capitol doctor&#160;</news:title>
         </news:news>
         <image:image>
-          <image:loc>https://majordigest.com/us/2023/08/31/x-formerly-known-as-twitter-will-collect-user-biometric-data-job-and-education-history/x-formerly-known-as-twitter-will-collect-user-biometric-data-job-and-education-history.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/us/2023/08/31/ex-proud-boys-organizer-sentenced-to-17-years-in-prison-for-plot-to-keep-trump-in-power/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-31T17:51:20.000Z</news:publication_date>
-          <news:title>Ex-Proud Boys organizer sentenced to 17 years in prison for plot to keep Trump in power</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/us/2023/08/31/ex-proud-boys-organizer-sentenced-to-17-years-in-prison-for-plot-to-keep-trump-in-power/ex-proud-boys-organizer-sentenced-to-17-years-in-prison-for-plot-to-keep-trump-in-power.webp</image:loc>
+          <image:loc>https://majordigest.com/us/2023/08/31/capitol-physician-mcconnell-medically-clear-to-continue-schedule-after-freeze-up/capitol-physician-mcconnell-medically-clear-to-continue-schedule-after-freeze-up.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -448,20 +448,6 @@
         </news:news>
         <image:image>
           <image:loc>https://majordigest.com/us/2023/08/31/these-spooky-movies-will-be-released-ahead-of-halloween/these-spooky-movies-will-be-released-ahead-of-halloween.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/us/2023/08/31/student-loan-payments-start-soon-everything-you-need-to-know/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-31T16:00:13.000Z</news:publication_date>
-          <news:title>Student loan payments start soon: Everything you need to know</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/us/2023/08/31/student-loan-payments-start-soon-everything-you-need-to-know/student-loan-payments-start-soon-everything-you-need-to-know.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -518,5 +504,19 @@
         </news:news>
         <image:image>
           <image:loc>https://majordigest.com/us/2023/08/31/man-charged-after-finding-bag-filled-with-nearly-5000-in-parking-lot/man-charged-after-finding-bag-filled-with-nearly-5000-in-parking-lot.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/us/2023/08/30/climate-anxiety-on-the-rise-as-heat-disasters-provoke-fear/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-30T10:00:00.000Z</news:publication_date>
+          <news:title>Climate anxiety on the rise as heat, disasters provoke fear</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/us/2023/08/30/climate-anxiety-on-the-rise-as-heat-disasters-provoke-fear/climate-anxiety-on-the-rise-as-heat-disasters-provoke-fear.webp</image:loc>
         </image:image>
       </url></urlset>
