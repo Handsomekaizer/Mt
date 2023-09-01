@@ -3,6 +3,48 @@
               xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
               xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
       <url>
+        <loc>https://majordigest.com/us/2023/09/01/pope-makes-first-visit-to-mongolia-as-vatican-relations-with-russia-and-china-are-again-strained/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-09-01T07:12:03.000Z</news:publication_date>
+          <news:title>Pope arrives on first visit to Mongolia as Vatican relations with Russia and China remain strained</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/us/2023/09/01/pope-makes-first-visit-to-mongolia-as-vatican-relations-with-russia-and-china-are-again-strained/pope-makes-first-visit-to-mongolia-as-vatican-relations-with-russia-and-china-are-again-strained.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/us/2023/09/01/car-bomb-explosions-and-hostage-taking-inside-prisons-underscore-ecuadors-fragile-security/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-09-01T05:41:39.000Z</news:publication_date>
+          <news:title>Car bomb explosions and hostage-taking inside prisons underscore Ecuador's fragile security</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/us/2023/09/01/car-bomb-explosions-and-hostage-taking-inside-prisons-underscore-ecuadors-fragile-security/car-bomb-explosions-and-hostage-taking-inside-prisons-underscore-ecuadors-fragile-security.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/us/2023/09/01/hong-kong-and-parts-of-southern-china-grind-to-near-standstill-as-super-typhoon-saola-edges-closer/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-09-01T05:25:09.000Z</news:publication_date>
+          <news:title>Hong Kong, other parts of south China grind to near standstill as Super Typhoon Saola edges closer</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/us/2023/09/01/hong-kong-and-parts-of-southern-china-grind-to-near-standstill-as-super-typhoon-saola-edges-closer/hong-kong-and-parts-of-southern-china-grind-to-near-standstill-as-super-typhoon-saola-edges-closer.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
         <loc>https://majordigest.com/us/2023/09/01/smugglers-are-steering-migrants-into-the-remote-arizona-desert-posing-new-border-patrol-challenges/</loc>
         <news:news>
           <news:publication>
@@ -17,20 +59,6 @@
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/us/2023/09/01/residents-return-to-find-homes-gone-towns-devastated-in-path-of-idalia/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-09-01T05:03:48.000Z</news:publication_date>
-          <news:title>Residents return to find homes gone, towns devastated in path of Idalia</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/us/2023/09/01/residents-return-to-find-homes-gone-towns-devastated-in-path-of-idalia/residents-return-to-find-homes-gone-towns-devastated-in-path-of-idalia.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
         <loc>https://majordigest.com/us/2023/09/01/in-final-hours-before-landfall-hurricane-idalia-stopped-intensifying-and-turned-from-tallahassee/</loc>
         <news:news>
           <news:publication>
@@ -42,34 +70,6 @@
         </news:news>
         <image:image>
           <image:loc>https://majordigest.com/us/2023/09/01/in-final-hours-before-landfall-hurricane-idalia-stopped-intensifying-and-turned-from-tallahassee/in-final-hours-before-landfall-hurricane-idalia-stopped-intensifying-and-turned-from-tallahassee.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/us/2023/09/01/an-honorary-captain-allen-robinson-returns-to-happy-valley/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-09-01T03:07:10.000Z</news:publication_date>
-          <news:title>An honorary Captain, Allen Robinson returns to Happy Valley</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/us/2023/09/01/an-honorary-captain-allen-robinson-returns-to-happy-valley/an-honorary-captain-allen-robinson-returns-to-happy-valley.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/us/2023/09/01/pope-makes-first-visit-to-mongolia-as-vatican-relations-with-russia-and-china-are-again-strained/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-09-01T02:40:45.000Z</news:publication_date>
-          <news:title>Pope arrives on first visit to Mongolia as Vatican relations with Russia and China remain strained</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/us/2023/09/01/pope-makes-first-visit-to-mongolia-as-vatican-relations-with-russia-and-china-are-again-strained/pope-makes-first-visit-to-mongolia-as-vatican-relations-with-russia-and-china-are-again-strained.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -143,6 +143,34 @@
         </image:image>
       </url>
       <url>
+        <loc>https://majordigest.com/us/2023/09/01/federal-indictment-claims-multistate-crime-ring-committed-armed-carjackings-armed-robberies-laundered-money/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-09-01T01:07:25.000Z</news:publication_date>
+          <news:title>Federal indictment claims multistate crime ring committed armed carjackings, armed robberies, laundered money</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/us/2023/09/01/federal-indictment-claims-multistate-crime-ring-committed-armed-carjackings-armed-robberies-laundered-money/federal-indictment-claims-multistate-crime-ring-committed-armed-carjackings-armed-robberies-laundered-money.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/us/2023/09/01/three-found-dead-at-remote-rocky-mountain-campsite-were-trying-to-escape-society-stepsister-says/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-09-01T01:02:51.000Z</news:publication_date>
+          <news:title>Three found dead at remote Rocky Mountain campsite were trying to escape society, stepsister says</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/us/2023/09/01/three-found-dead-at-remote-rocky-mountain-campsite-were-trying-to-escape-society-stepsister-says/three-found-dead-at-remote-rocky-mountain-campsite-were-trying-to-escape-society-stepsister-says.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
         <loc>https://majordigest.com/us/2023/09/01/2-dead-1-injured-after-shooting-at-the-arboretum-in-northwest-austin/</loc>
         <news:news>
           <news:publication>
@@ -154,6 +182,20 @@
         </news:news>
         <image:image>
           <image:loc>https://majordigest.com/us/2023/09/01/2-dead-1-injured-after-shooting-at-the-arboretum-in-northwest-austin/2-dead-1-injured-after-shooting-at-the-arboretum-in-northwest-austin.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/us/2023/09/01/alaska-board-of-education-votes-to-ban-transgender-girls-from-competing-on-high-school-girls-teams/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-09-01T00:57:30.000Z</news:publication_date>
+          <news:title>Alaska board of education votes to ban transgender girls from competing on high school girls teams</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/us/2023/09/01/alaska-board-of-education-votes-to-ban-transgender-girls-from-competing-on-high-school-girls-teams/alaska-board-of-education-votes-to-ban-transgender-girls-from-competing-on-high-school-girls-teams.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -185,17 +227,31 @@
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/us/2023/09/01/nitazines-synthetic-opioids-fentanyl/</loc>
+        <loc>https://majordigest.com/us/2023/09/01/ms-13-gang-member-pleads-guilty-in-2016-slaying-of-two-teenage-girls-on-new-york-street/</loc>
         <news:news>
           <news:publication>
             <news:name>Major Digest</news:name>
             <news:language>en</news:language>
           </news:publication>
-          <news:publication_date>2023-09-01T00:41:52.000Z</news:publication_date>
-          <news:title>Nitazines: Why are these synthetic opioids deadlier than fentanyl?</news:title>
+          <news:publication_date>2023-09-01T00:45:23.000Z</news:publication_date>
+          <news:title>MS-13 gang member pleads guilty in 2016 slaying of two teenage girls on New York street</news:title>
         </news:news>
         <image:image>
-          <image:loc>https://majordigest.com/us/2023/09/01/nitazines-synthetic-opioids-fentanyl/nitazines-synthetic-opioids-fentanyl.webp</image:loc>
+          <image:loc>https://majordigest.com/us/2023/09/01/ms-13-gang-member-pleads-guilty-in-2016-slaying-of-two-teenage-girls-on-new-york-street/ms-13-gang-member-pleads-guilty-in-2016-slaying-of-two-teenage-girls-on-new-york-street.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/us/2023/09/01/massachusetts-boy-2-dies-horrific-accident-auto-repair-shop/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-09-01T00:42:06.000Z</news:publication_date>
+          <news:title>Massachusetts boy, 2, dies in horrific accident at auto repair shop</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/us/2023/09/01/massachusetts-boy-2-dies-horrific-accident-auto-repair-shop/massachusetts-boy-2-dies-horrific-accident-auto-repair-shop.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -227,17 +283,31 @@
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/us/2023/08/31/judge-says-kansas-shouldnt-keep-changing-trans-peoples-birth-certificates-due-to-new-state-law/</loc>
+        <loc>https://majordigest.com/us/2023/08/31/prosecutor-asks-indiana-state-police-to-investigate-dog-deaths-in-uncooled-rear-of-truck/</loc>
         <news:news>
           <news:publication>
             <news:name>Major Digest</news:name>
             <news:language>en</news:language>
           </news:publication>
-          <news:publication_date>2023-08-31T23:55:54.000Z</news:publication_date>
-          <news:title>Kansas officials are no longer required to change trans people&#8217;s birth certificates, judge says</news:title>
+          <news:publication_date>2023-08-31T23:55:25.000Z</news:publication_date>
+          <news:title>Prosecutor asks Indiana State Police to investigate dog deaths in uncooled rear of truck</news:title>
         </news:news>
         <image:image>
-          <image:loc>https://majordigest.com/us/2023/08/31/judge-says-kansas-shouldnt-keep-changing-trans-peoples-birth-certificates-due-to-new-state-law/judge-says-kansas-shouldnt-keep-changing-trans-peoples-birth-certificates-due-to-new-state-law.webp</image:loc>
+          <image:loc>https://majordigest.com/us/2023/08/31/prosecutor-asks-indiana-state-police-to-investigate-dog-deaths-in-uncooled-rear-of-truck/prosecutor-asks-indiana-state-police-to-investigate-dog-deaths-in-uncooled-rear-of-truck.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/us/2023/08/31/south-carolina-woman-recalls-moment-a-tornado-flipped-her-car-during-idalia/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-31T22:34:18.000Z</news:publication_date>
+          <news:title>South Carolina woman recalls moment a tornado flipped her car during Idalia</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/us/2023/08/31/south-carolina-woman-recalls-moment-a-tornado-flipped-her-car-during-idalia/south-carolina-woman-recalls-moment-a-tornado-flipped-her-car-during-idalia.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -269,34 +339,6 @@
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/us/2023/08/31/white-house-defends-maui-wildfire-response-announces-95m-for-recovery/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-31T21:10:16.000Z</news:publication_date>
-          <news:title>White House defends Maui wildfire response, announces $95M for recovery</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/us/2023/08/31/white-house-defends-maui-wildfire-response-announces-95m-for-recovery/white-house-defends-maui-wildfire-response-announces-95m-for-recovery.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/us/2023/08/31/reports-inmate-dead-others-injured-in-stabbings-at-atlanta-jail-where-trump-was-booked/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-31T21:00:58.000Z</news:publication_date>
-          <news:title>Inmate dead, others injured in stabbings at Atlanta jail where Trump was booked</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/us/2023/08/31/reports-inmate-dead-others-injured-in-stabbings-at-atlanta-jail-where-trump-was-booked/reports-inmate-dead-others-injured-in-stabbings-at-atlanta-jail-where-trump-was-booked.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
         <loc>https://majordigest.com/us/2023/08/31/video-live-bull-rides-shotgun-in-car-driver-gets-pulled-over-by-police-in-nebraska/</loc>
         <news:news>
           <news:publication>
@@ -322,34 +364,6 @@
         </news:news>
         <image:image>
           <image:loc>https://majordigest.com/us/2023/08/31/watch-car-with-giant-bull-named-howdy-doody-riding-shotgun-pulled-over-in-nebraska/watch-car-with-giant-bull-named-howdy-doody-riding-shotgun-pulled-over-in-nebraska.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/us/2023/08/31/8-passengers-mom-ruby-franke-arrested-for-alleged-child-abuse/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-31T19:05:03.000Z</news:publication_date>
-          <news:title>'8 Passengers' mom Ruby Franke arrested for alleged child abuse</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/us/2023/08/31/8-passengers-mom-ruby-franke-arrested-for-alleged-child-abuse/8-passengers-mom-ruby-franke-arrested-for-alleged-child-abuse.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/us/2023/08/31/statue-believed-to-depict-marcus-aurelius-seized-from-cleveland-museum-in-looting-investigation/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-31T19:00:38.000Z</news:publication_date>
-          <news:title>Statue believed to depict Marcus Aurelius seized from Cleveland museum in looting investigation</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/us/2023/08/31/statue-believed-to-depict-marcus-aurelius-seized-from-cleveland-museum-in-looting-investigation/statue-believed-to-depict-marcus-aurelius-seized-from-cleveland-museum-in-looting-investigation.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -434,20 +448,6 @@
         </news:news>
         <image:image>
           <image:loc>https://majordigest.com/us/2023/08/31/student-loan-payments-start-soon-everything-you-need-to-know/student-loan-payments-start-soon-everything-you-need-to-know.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/us/2023/08/31/this-is-how-much-singles-need-to-live-comfortably-in-every-state/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-31T15:27:00.000Z</news:publication_date>
-          <news:title>This is how much singles need to live comfortably in every state</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/us/2023/08/31/this-is-how-much-singles-need-to-live-comfortably-in-every-state/this-is-how-much-singles-need-to-live-comfortably-in-every-state.webp</image:loc>
         </image:image>
       </url>
       <url>
