@@ -3,6 +3,20 @@
               xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
               xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
       <url>
+        <loc>https://majordigest.com/politics/2023/09/01/biden-apparently-used-pseudonym-discuss-white-house-hire-hunter-2014-email-shows/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-09-01T09:00:23.000Z</news:publication_date>
+          <news:title>Biden apparently used pseudonym to discuss White House hire with Hunter, 2014 email shows</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/politics/2023/09/01/biden-apparently-used-pseudonym-discuss-white-house-hire-hunter-2014-email-shows/biden-apparently-used-pseudonym-discuss-white-house-hire-hunter-2014-email-shows.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
         <loc>https://majordigest.com/politics/2023/09/01/arkansas-law-parental-consent-minors-create-social-media-accounts-temporarily-blocked/</loc>
         <news:news>
           <news:publication>
@@ -56,6 +70,20 @@
         </news:news>
         <image:image>
           <image:loc>https://majordigest.com/politics/2023/09/01/greene-says-she-wont-vote-for-government-funding-without-biden-impeachment-inquiry/greene-says-she-wont-vote-for-government-funding-without-biden-impeachment-inquiry.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/politics/2023/09/01/conservative-dad-brews-woke-free-beer/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-09-01T02:54:54.000Z</news:publication_date>
+          <news:title>Conservative dad brews 'woke-free' beer&#160;</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/politics/2023/09/01/conservative-dad-brews-woke-free-beer/conservative-dad-brews-woke-free-beer.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -143,48 +171,6 @@
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/politics/2023/08/31/white-house-defends-maui-wildfire-response/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-31T23:47:55.000Z</news:publication_date>
-          <news:title>White House defends Maui wildfire response, announces $95M for recovery</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/politics/2023/08/31/white-house-defends-maui-wildfire-response/white-house-defends-maui-wildfire-response.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/politics/2023/08/31/judge-arkansas-law-parental-consent-social-media/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-31T23:16:21.000Z</news:publication_date>
-          <news:title>Judge blocks law requiring parental consent for kids to use social media</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/politics/2023/08/31/judge-arkansas-law-parental-consent-social-media/judge-arkansas-law-parental-consent-social-media.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/politics/2023/08/31/murphy-new-jersey-influx-migrants/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-31T23:00:15.000Z</news:publication_date>
-          <news:title>New Jersey governor says state can't handle NYC migrants</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/politics/2023/08/31/murphy-new-jersey-influx-migrants/murphy-new-jersey-influx-migrants.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
         <loc>https://majordigest.com/politics/2023/08/31/mississippi-candidate-for-attorney-general-says-the-state-isnt-doing-enough-to-protect-workers/</loc>
         <news:news>
           <news:publication>
@@ -210,6 +196,20 @@
         </news:news>
         <image:image>
           <image:loc>https://majordigest.com/politics/2023/08/31/amlo-to-limit-flights-in-and-out-of-mexico-citys-main-airport/amlo-to-limit-flights-in-and-out-of-mexico-citys-main-airport.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/politics/2023/08/31/hurricane-shooting-test-desantis-leadership-as-he-trades-the-campaign-trail-for-crisis-management/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-31T22:02:34.000Z</news:publication_date>
+          <news:title>Hurricane, shooting test DeSantis leadership as he trades the campaign trail for crisis management</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/politics/2023/08/31/hurricane-shooting-test-desantis-leadership-as-he-trades-the-campaign-trail-for-crisis-management/hurricane-shooting-test-desantis-leadership-as-he-trades-the-campaign-trail-for-crisis-management.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -269,20 +269,6 @@
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/politics/2023/08/31/biden-administration-proposes-rule-that-would-require-more-firearms-dealers-to-run-background-checks/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-31T17:28:33.000Z</news:publication_date>
-          <news:title>Biden administration proposes rule that would require more firearms dealers to run background checks</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/politics/2023/08/31/biden-administration-proposes-rule-that-would-require-more-firearms-dealers-to-run-background-checks/biden-administration-proposes-rule-that-would-require-more-firearms-dealers-to-run-background-checks.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
         <loc>https://majordigest.com/politics/2023/08/31/minnesota-thc-beverage-company-cofounder-sees-black-ownership-in-the-marijuana-business/</loc>
         <news:news>
           <news:publication>
@@ -339,6 +325,34 @@
         </image:image>
       </url>
       <url>
+        <loc>https://majordigest.com/politics/2023/08/31/justice-clarence-thomas-reports-he-took-3-trips-on-republican-donors-plane-last-year/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-31T14:35:05.000Z</news:publication_date>
+          <news:title>Justice Clarence Thomas reports he took 3 trips on Republican donor's plane last year</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/politics/2023/08/31/justice-clarence-thomas-reports-he-took-3-trips-on-republican-donors-plane-last-year/justice-clarence-thomas-reports-he-took-3-trips-on-republican-donors-plane-last-year.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/politics/2023/08/31/senate-gop-leader-mitch-mcconnell-appears-to-freeze-up-again-this-time-at-a-kentucky-event/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-31T10:43:03.000Z</news:publication_date>
+          <news:title>Senate GOP leader Mitch McConnell appears to freeze up again, this time at a Kentucky event</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/politics/2023/08/31/senate-gop-leader-mitch-mcconnell-appears-to-freeze-up-again-this-time-at-a-kentucky-event/senate-gop-leader-mitch-mcconnell-appears-to-freeze-up-again-this-time-at-a-kentucky-event.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
         <loc>https://majordigest.com/politics/2023/08/31/mayor-adams-calls-for-help-getting-migrants-expedited-work-authorization/</loc>
         <news:news>
           <news:publication>
@@ -367,17 +381,17 @@
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/politics/2023/08/31/npr-trump-hiv-aids-epidemic-defund-house-republicans/</loc>
+        <loc>https://majordigest.com/politics/2023/08/31/still-no-strong-2024-gop-challenger-for-klobuchar/</loc>
         <news:news>
           <news:publication>
             <news:name>Major Digest</news:name>
             <news:language>en</news:language>
           </news:publication>
           <news:publication_date>2023-08-31T09:00:00.000Z</news:publication_date>
-          <news:title>Trump launched an ambitious effort to end HIV. House Republicans want to defund it.</news:title>
+          <news:title>Still no strong 2024 GOP challenger for Amy Klobuchar</news:title>
         </news:news>
         <image:image>
-          <image:loc>https://majordigest.com/politics/2023/08/31/npr-trump-hiv-aids-epidemic-defund-house-republicans/npr-trump-hiv-aids-epidemic-defund-house-republicans.webp</image:loc>
+          <image:loc>https://majordigest.com/politics/2023/08/31/still-no-strong-2024-gop-challenger-for-klobuchar/still-no-strong-2024-gop-challenger-for-klobuchar.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -437,20 +451,6 @@
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/politics/2023/08/29/california-senate-elects-new-leader/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-29T22:44:23.000Z</news:publication_date>
-          <news:title>California Senate elects new leader</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/politics/2023/08/29/california-senate-elects-new-leader/california-senate-elects-new-leader.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
         <loc>https://majordigest.com/politics/2023/08/29/katie-porter-partners-with-gop-rep-to-introduce-bill-to-prevent-infant-formula-crisis/</loc>
         <news:news>
           <news:publication>
@@ -493,20 +493,6 @@
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/politics/2023/08/28/biden-approves-emergency-declaration-for-florida-ahead-of-t-s-idalia/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-28T16:30:03.000Z</news:publication_date>
-          <news:title>Biden approves Emergency Declaration for Florida ahead of T.S. Idalia</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/politics/2023/08/28/biden-approves-emergency-declaration-for-florida-ahead-of-t-s-idalia/biden-approves-emergency-declaration-for-florida-ahead-of-t-s-idalia.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
         <loc>https://majordigest.com/politics/2023/08/26/gop-presidential-candidate-vivek-ramaswamy-is-an-unaffiliated-voter-nbc-reports/</loc>
         <news:news>
           <news:publication>
@@ -518,5 +504,19 @@
         </news:news>
         <image:image>
           <image:loc>https://majordigest.com/politics/2023/08/26/gop-presidential-candidate-vivek-ramaswamy-is-an-unaffiliated-voter-nbc-reports/gop-presidential-candidate-vivek-ramaswamy-is-an-unaffiliated-voter-nbc-reports.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/politics/2023/08/25/new-york-man-sentenced-to-3-months-in-prison-for-making-threatening-phone-calls-to-rep-marjorie-taylor-greene/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-25T19:49:09.000Z</news:publication_date>
+          <news:title>NY man sentenced to prison for making threatening&#160;phone calls to Rep. Marjorie Taylor Greene</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/politics/2023/08/25/new-york-man-sentenced-to-3-months-in-prison-for-making-threatening-phone-calls-to-rep-marjorie-taylor-greene/new-york-man-sentenced-to-3-months-in-prison-for-making-threatening-phone-calls-to-rep-marjorie-taylor-greene.webp</image:loc>
         </image:image>
       </url></urlset>

@@ -3,6 +3,34 @@
               xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
               xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
       <url>
+        <loc>https://majordigest.com/us/2023/09/01/russia-reports-more-drone-attacks-as-satellite-photos-indicate-earlier-barrage-destroyed-2-aircraft/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-09-01T08:34:59.000Z</news:publication_date>
+          <news:title>Russia reports more drone attacks as satellite photos indicate earlier barrage destroyed 2 aircraft</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/us/2023/09/01/russia-reports-more-drone-attacks-as-satellite-photos-indicate-earlier-barrage-destroyed-2-aircraft/russia-reports-more-drone-attacks-as-satellite-photos-indicate-earlier-barrage-destroyed-2-aircraft.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/us/2023/09/01/swedens-nobel-reverses-invitation-policy-russia-belarus-iran-and-far-right-leader-are-welcome/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-09-01T08:20:47.000Z</news:publication_date>
+          <news:title>Sweden's Nobel reverses invitation policy. Russia, Belarus, Iran and far-right leader are welcome</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/us/2023/09/01/swedens-nobel-reverses-invitation-policy-russia-belarus-iran-and-far-right-leader-are-welcome/swedens-nobel-reverses-invitation-policy-russia-belarus-iran-and-far-right-leader-are-welcome.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
         <loc>https://majordigest.com/us/2023/09/01/cool-new-ai-tools-to-try/</loc>
         <news:news>
           <news:publication>
@@ -17,31 +45,17 @@
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/us/2023/09/01/pope-makes-first-visit-to-mongolia-as-vatican-relations-with-russia-and-china-are-again-strained/</loc>
+        <loc>https://majordigest.com/us/2023/09/01/japan-marks-100-years-since-the-devastating-great-kanto-quake-with-disaster-drills-nationwide/</loc>
         <news:news>
           <news:publication>
             <news:name>Major Digest</news:name>
             <news:language>en</news:language>
           </news:publication>
-          <news:publication_date>2023-09-01T07:12:03.000Z</news:publication_date>
-          <news:title>Pope arrives on first visit to Mongolia as Vatican relations with Russia and China remain strained</news:title>
+          <news:publication_date>2023-09-01T06:39:29.000Z</news:publication_date>
+          <news:title>Japan marks 100 years since the devastating Great Kanto Quake, with disaster drills nationwide</news:title>
         </news:news>
         <image:image>
-          <image:loc>https://majordigest.com/us/2023/09/01/pope-makes-first-visit-to-mongolia-as-vatican-relations-with-russia-and-china-are-again-strained/pope-makes-first-visit-to-mongolia-as-vatican-relations-with-russia-and-china-are-again-strained.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/us/2023/09/01/car-bomb-explosions-and-hostage-taking-inside-prisons-underscore-ecuadors-fragile-security/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-09-01T05:41:39.000Z</news:publication_date>
-          <news:title>Car bomb explosions and hostage-taking inside prisons underscore Ecuador's fragile security</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/us/2023/09/01/car-bomb-explosions-and-hostage-taking-inside-prisons-underscore-ecuadors-fragile-security/car-bomb-explosions-and-hostage-taking-inside-prisons-underscore-ecuadors-fragile-security.webp</image:loc>
+          <image:loc>https://majordigest.com/us/2023/09/01/japan-marks-100-years-since-the-devastating-great-kanto-quake-with-disaster-drills-nationwide/japan-marks-100-years-since-the-devastating-great-kanto-quake-with-disaster-drills-nationwide.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -101,34 +115,6 @@
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/us/2023/09/01/philadelphia-vietnam-veterans-memorial-vandalized-20k-damage-caretakers/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-09-01T02:00:54.000Z</news:publication_date>
-          <news:title>Philadelphia Vietnam Veterans Memorial vandalized; $20K in damage, caretakers say</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/us/2023/09/01/philadelphia-vietnam-veterans-memorial-vandalized-20k-damage-caretakers/philadelphia-vietnam-veterans-memorial-vandalized-20k-damage-caretakers.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/us/2023/09/01/video-captures-florida-suspect-grabbing-7-eleven-employee-throat-during-robbery/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-09-01T01:57:37.000Z</news:publication_date>
-          <news:title>Video captures Florida suspect grabbing 7-Eleven employee by throat during robbery</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/us/2023/09/01/video-captures-florida-suspect-grabbing-7-eleven-employee-throat-during-robbery/video-captures-florida-suspect-grabbing-7-eleven-employee-throat-during-robbery.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
         <loc>https://majordigest.com/us/2023/09/01/a-look-inside-donald-trumps-deposition-defiance-deflection-and-the-hottest-brand-in-the-world/</loc>
         <news:news>
           <news:publication>
@@ -171,20 +157,6 @@
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/us/2023/09/01/three-found-dead-at-remote-rocky-mountain-campsite-were-trying-to-escape-society-stepsister-says/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-09-01T01:02:51.000Z</news:publication_date>
-          <news:title>Three found dead at remote Rocky Mountain campsite were trying to escape society, stepsister says</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/us/2023/09/01/three-found-dead-at-remote-rocky-mountain-campsite-were-trying-to-escape-society-stepsister-says/three-found-dead-at-remote-rocky-mountain-campsite-were-trying-to-escape-society-stepsister-says.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
         <loc>https://majordigest.com/us/2023/09/01/2-dead-1-injured-after-shooting-at-the-arboretum-in-northwest-austin/</loc>
         <news:news>
           <news:publication>
@@ -199,6 +171,20 @@
         </image:image>
       </url>
       <url>
+        <loc>https://majordigest.com/us/2023/09/01/alaska-board-of-education-votes-to-ban-transgender-girls-from-competing-on-high-school-girls-teams/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-09-01T00:57:30.000Z</news:publication_date>
+          <news:title>Alaska board of education votes to ban transgender girls from competing on high school girls teams</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/us/2023/09/01/alaska-board-of-education-votes-to-ban-transgender-girls-from-competing-on-high-school-girls-teams/alaska-board-of-education-votes-to-ban-transgender-girls-from-competing-on-high-school-girls-teams.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
         <loc>https://majordigest.com/us/2023/09/01/trump-pleads-not-guilty-and-waives-arraignment-in-georgia-election-case/</loc>
         <news:news>
           <news:publication>
@@ -210,6 +196,34 @@
         </news:news>
         <image:image>
           <image:loc>https://majordigest.com/us/2023/09/01/trump-pleads-not-guilty-and-waives-arraignment-in-georgia-election-case/trump-pleads-not-guilty-and-waives-arraignment-in-georgia-election-case.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/us/2023/09/01/trader-joes-recall-black-bean-tamales-may-contain-undeclared-milk/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-09-01T00:51:57.000Z</news:publication_date>
+          <news:title>Trader Joe&#8217;s recall: Black bean tamales may contain undeclared milk</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/us/2023/09/01/trader-joes-recall-black-bean-tamales-may-contain-undeclared-milk/trader-joes-recall-black-bean-tamales-may-contain-undeclared-milk.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/us/2023/09/01/ms-13-gang-member-pleads-guilty-in-2016-slaying-of-two-teenage-girls-on-new-york-street/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-09-01T00:45:23.000Z</news:publication_date>
+          <news:title>MS-13 gang member pleads guilty in 2016 slaying of two teenage girls on New York street</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/us/2023/09/01/ms-13-gang-member-pleads-guilty-in-2016-slaying-of-two-teenage-girls-on-new-york-street/ms-13-gang-member-pleads-guilty-in-2016-slaying-of-two-teenage-girls-on-new-york-street.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -297,20 +311,6 @@
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/us/2023/08/31/pentagon-releases-new-website-on-ufos/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-31T22:50:52.000Z</news:publication_date>
-          <news:title>Pentagon releases new website on UFOs</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/us/2023/08/31/pentagon-releases-new-website-on-ufos/pentagon-releases-new-website-on-ufos.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
         <loc>https://majordigest.com/us/2023/08/31/south-carolina-woman-recalls-moment-a-tornado-flipped-her-car-during-idalia/</loc>
         <news:news>
           <news:publication>
@@ -339,31 +339,17 @@
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/us/2023/08/31/leaders-speeding-up-work-permits-can-fix-labor-shortage/</loc>
+        <loc>https://majordigest.com/us/2023/08/31/reports-inmate-dead-others-injured-in-stabbings-at-atlanta-jail-where-trump-was-booked/</loc>
         <news:news>
           <news:publication>
             <news:name>Major Digest</news:name>
             <news:language>en</news:language>
           </news:publication>
-          <news:publication_date>2023-08-31T21:32:42.000Z</news:publication_date>
-          <news:title>Leaders: Speeding up work permits can fix labor shortage</news:title>
+          <news:publication_date>2023-08-31T21:00:58.000Z</news:publication_date>
+          <news:title>Inmate dead, others injured in stabbings at Atlanta jail where Trump was booked</news:title>
         </news:news>
         <image:image>
-          <image:loc>https://majordigest.com/us/2023/08/31/leaders-speeding-up-work-permits-can-fix-labor-shortage/leaders-speeding-up-work-permits-can-fix-labor-shortage.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/us/2023/08/31/white-house-defends-maui-wildfire-response-announces-95m-for-recovery/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-31T21:10:16.000Z</news:publication_date>
-          <news:title>White House defends Maui wildfire response, announces $95M for recovery</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/us/2023/08/31/white-house-defends-maui-wildfire-response-announces-95m-for-recovery/white-house-defends-maui-wildfire-response-announces-95m-for-recovery.webp</image:loc>
+          <image:loc>https://majordigest.com/us/2023/08/31/reports-inmate-dead-others-injured-in-stabbings-at-atlanta-jail-where-trump-was-booked/reports-inmate-dead-others-injured-in-stabbings-at-atlanta-jail-where-trump-was-booked.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -409,20 +395,6 @@
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/us/2023/08/31/8-passengers-mom-ruby-franke-arrested-for-alleged-child-abuse/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-31T19:05:03.000Z</news:publication_date>
-          <news:title>'8 Passengers' mom Ruby Franke arrested for alleged child abuse</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/us/2023/08/31/8-passengers-mom-ruby-franke-arrested-for-alleged-child-abuse/8-passengers-mom-ruby-franke-arrested-for-alleged-child-abuse.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
         <loc>https://majordigest.com/us/2023/08/31/statue-believed-to-depict-marcus-aurelius-seized-from-cleveland-museum-in-looting-investigation/</loc>
         <news:news>
           <news:publication>
@@ -448,6 +420,20 @@
         </news:news>
         <image:image>
           <image:loc>https://majordigest.com/us/2023/08/31/biden-says-he-has-no-concerns-about-mcconnells-health-after-speaking-to-him/biden-says-he-has-no-concerns-about-mcconnells-health-after-speaking-to-him.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/us/2023/08/31/capitol-physician-mcconnell-medically-clear-to-continue-schedule-after-freeze-up/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-31T18:32:42.000Z</news:publication_date>
+          <news:title>McConnell 'medically clear,' says Capitol doctor&#160;</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/us/2023/08/31/capitol-physician-mcconnell-medically-clear-to-continue-schedule-after-freeze-up/capitol-physician-mcconnell-medically-clear-to-continue-schedule-after-freeze-up.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -504,6 +490,20 @@
         </news:news>
         <image:image>
           <image:loc>https://majordigest.com/us/2023/08/31/missed-taylor-swifts-the-eras-tour-heres-your-chance-to-catch-it-in-theaters/missed-taylor-swifts-the-eras-tour-heres-your-chance-to-catch-it-in-theaters.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/us/2023/08/30/higher-education-levels-linked-with-civic-engagement-better-health-gallup/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-30T17:27:05.000Z</news:publication_date>
+          <news:title>Higher education levels linked with civic engagement, better health: Gallup</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/us/2023/08/30/higher-education-levels-linked-with-civic-engagement-better-health-gallup/higher-education-levels-linked-with-civic-engagement-better-health-gallup.webp</image:loc>
         </image:image>
       </url>
       <url>
