@@ -3,6 +3,20 @@
               xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
               xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
       <url>
+        <loc>https://majordigest.com/tech/2023/09/01/progressive-campaign-blasts-california-democrat-as-big-techs-best-friend/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-09-01T10:00:00.000Z</news:publication_date>
+          <news:title>Progressive campaign blasts California Democrat as &#8216;Big Tech&#8217;s Best Friend&#8217;&#160;</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/tech/2023/09/01/progressive-campaign-blasts-california-democrat-as-big-techs-best-friend/progressive-campaign-blasts-california-democrat-as-big-techs-best-friend.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
         <loc>https://majordigest.com/tech/2023/09/01/newspaper-giant-pauses-ai-experiment-readers-mock-bizarre-sports-reporting/</loc>
         <news:news>
           <news:publication>
@@ -98,20 +112,6 @@
         </news:news>
         <image:image>
           <image:loc>https://majordigest.com/tech/2023/08/31/how-protect-yourself-vishing-scams/how-protect-yourself-vishing-scams.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/tech/2023/08/31/federal-authorities-investigating-tesla-over-secret-project-to-build-austin-home-for-musk-report/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-31T18:57:10.000Z</news:publication_date>
-          <news:title>Federal authorities investigating Tesla over secret project to build Austin home for Musk: report</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/tech/2023/08/31/federal-authorities-investigating-tesla-over-secret-project-to-build-austin-home-for-musk-report/federal-authorities-investigating-tesla-over-secret-project-to-build-austin-home-for-musk-report.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -269,20 +269,6 @@
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/tech/2023/08/31/nissan-is-reusing-the-batteries-from-old-leaf-electric-vehicles-to-make-portable-power-sources/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-31T11:24:36.000Z</news:publication_date>
-          <news:title>Nissan is reusing the batteries from old Leaf electric vehicles to make portable power sources</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/tech/2023/08/31/nissan-is-reusing-the-batteries-from-old-leaf-electric-vehicles-to-make-portable-power-sources/nissan-is-reusing-the-batteries-from-old-leaf-electric-vehicles-to-make-portable-power-sources.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
         <loc>https://majordigest.com/tech/2023/08/31/chinas-baidu-makes-ai-chatbot-ernie-bot-publicly-available/</loc>
         <news:news>
           <news:publication>
@@ -420,6 +406,20 @@
         </news:news>
         <image:image>
           <image:loc>https://majordigest.com/tech/2023/08/30/2023-nissan-ariya-electric-crossover-review/2023-nissan-ariya-electric-crossover-review.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/tech/2023/08/29/16-attorneys-general-sec-audit-shein-forced-labor/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-29T21:59:00.000Z</news:publication_date>
+          <news:title>16 Attorneys General ask SEC to audit Shein over forced labor</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/tech/2023/08/29/16-attorneys-general-sec-audit-shein-forced-labor/16-attorneys-general-sec-audit-shein-forced-labor.webp</image:loc>
         </image:image>
       </url>
       <url>

@@ -3,17 +3,59 @@
               xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
               xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
       <url>
-        <loc>https://majordigest.com/world/2023/09/01/israel-unveils-advanced-surveillance-plane-ai-powered-sensors-unprecedented/</loc>
+        <loc>https://majordigest.com/world/2023/09/01/ramaswamy-isolates-himself-on-ukraine-with-proposed-putin-pact/</loc>
         <news:news>
           <news:publication>
             <news:name>Major Digest</news:name>
             <news:language>en</news:language>
           </news:publication>
-          <news:publication_date>2023-09-01T06:00:06.000Z</news:publication_date>
-          <news:title>Israel unveils 'most advanced' surveillance plane with AI-powered sensors: 'Unprecedented'</news:title>
+          <news:publication_date>2023-09-01T09:30:00.000Z</news:publication_date>
+          <news:title>Ramaswamy isolates himself on Ukraine with proposed Putin pact</news:title>
         </news:news>
         <image:image>
-          <image:loc>https://majordigest.com/world/2023/09/01/israel-unveils-advanced-surveillance-plane-ai-powered-sensors-unprecedented/israel-unveils-advanced-surveillance-plane-ai-powered-sensors-unprecedented.webp</image:loc>
+          <image:loc>https://majordigest.com/world/2023/09/01/ramaswamy-isolates-himself-on-ukraine-with-proposed-putin-pact/ramaswamy-isolates-himself-on-ukraine-with-proposed-putin-pact.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/world/2023/09/01/ramaswamy-isolates-himself-on-ukraine-with-proposed-putin-pact/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-09-01T09:30:00.000Z</news:publication_date>
+          <news:title>Ramaswamy isolates himself on Ukraine with proposed Putin pact</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/world/2023/09/01/ramaswamy-isolates-himself-on-ukraine-with-proposed-putin-pact/ramaswamy-isolates-himself-on-ukraine-with-proposed-putin-pact.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/world/2023/09/01/swedens-nobel-reverses-invitation-policy-russia-belarus-iran-and-far-right-leader-are-welcome/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-09-01T08:20:47.000Z</news:publication_date>
+          <news:title>Sweden's Nobel reverses invitation policy. Russia, Belarus, Iran and far-right leader are welcome</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/world/2023/09/01/swedens-nobel-reverses-invitation-policy-russia-belarus-iran-and-far-right-leader-are-welcome/swedens-nobel-reverses-invitation-policy-russia-belarus-iran-and-far-right-leader-are-welcome.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/world/2023/09/01/japan-marks-100-years-since-the-devastating-great-kanto-quake-with-disaster-drills-nationwide/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-09-01T06:39:29.000Z</news:publication_date>
+          <news:title>Japan marks 100 years since the devastating Great Kanto Quake, with disaster drills nationwide</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/world/2023/09/01/japan-marks-100-years-since-the-devastating-great-kanto-quake-with-disaster-drills-nationwide/japan-marks-100-years-since-the-devastating-great-kanto-quake-with-disaster-drills-nationwide.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -73,20 +115,6 @@
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/world/2023/09/01/canada-issues-us-travel-advisory-warning-lgbtq-community-about-laws-thay-may-affect-them/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-09-01T02:23:44.000Z</news:publication_date>
-          <news:title>Canada issues US travel advisory warning LGBTQ+ community about laws that may affect them</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/world/2023/09/01/canada-issues-us-travel-advisory-warning-lgbtq-community-about-laws-thay-may-affect-them/canada-issues-us-travel-advisory-warning-lgbtq-community-about-laws-thay-may-affect-them.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
         <loc>https://majordigest.com/world/2023/08/31/china-xi-jinping-reportedly-skip-g20-summit-biden/</loc>
         <news:news>
           <news:publication>
@@ -101,17 +129,17 @@
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/world/2023/08/31/us-military-urges-halt-clashes-eastern-syria-concerns-isis-resurgence/</loc>
+        <loc>https://majordigest.com/world/2023/08/31/china-xi-jinping-reportedly-skip-g20-summit-biden/</loc>
         <news:news>
           <news:publication>
             <news:name>Major Digest</news:name>
             <news:language>en</news:language>
           </news:publication>
-          <news:publication_date>2023-08-31T23:03:36.000Z</news:publication_date>
-          <news:title>US military urges halt to clashes in eastern Syria amid concerns of ISIS resurgence</news:title>
+          <news:publication_date>2023-08-31T23:21:17.000Z</news:publication_date>
+          <news:title>China's Xi set to snub G20, dashing chance of Biden meeting: reports</news:title>
         </news:news>
         <image:image>
-          <image:loc>https://majordigest.com/world/2023/08/31/us-military-urges-halt-clashes-eastern-syria-concerns-isis-resurgence/us-military-urges-halt-clashes-eastern-syria-concerns-isis-resurgence.webp</image:loc>
+          <image:loc>https://majordigest.com/world/2023/08/31/china-xi-jinping-reportedly-skip-g20-summit-biden/china-xi-jinping-reportedly-skip-g20-summit-biden.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -171,6 +199,20 @@
         </image:image>
       </url>
       <url>
+        <loc>https://majordigest.com/world/2023/08/31/australia-introduces-law-empowering-gig-workers-negotiate-minimum-pay-conditions/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-31T22:56:38.000Z</news:publication_date>
+          <news:title>Australia introduces law empowering gig workers to negotiate minimum pay and conditions</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/world/2023/08/31/australia-introduces-law-empowering-gig-workers-negotiate-minimum-pay-conditions/australia-introduces-law-empowering-gig-workers-negotiate-minimum-pay-conditions.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
         <loc>https://majordigest.com/world/2023/08/31/uber-launches-electric-bike-service-kenya-aiming-emissions-free-platform-2040/</loc>
         <news:news>
           <news:publication>
@@ -205,7 +247,7 @@
             <news:name>Major Digest</news:name>
             <news:language>en</news:language>
           </news:publication>
-          <news:publication_date>2023-08-31T21:41:05.000Z</news:publication_date>
+          <news:publication_date>2023-08-31T21:41:04.000Z</news:publication_date>
           <news:title>Mexico's broad opposition coalition announces Sen. X&#243;chitl G&#225;lvez will run for presidency in 2024</news:title>
         </news:news>
         <image:image>
@@ -233,53 +275,11 @@
             <news:name>Major Digest</news:name>
             <news:language>en</news:language>
           </news:publication>
-          <news:publication_date>2023-08-31T19:43:31.000Z</news:publication_date>
+          <news:publication_date>2023-08-31T19:08:39.000Z</news:publication_date>
           <news:title>US military calls for end of fighting in east Syria and warns it could lead to IS resurgence</news:title>
         </news:news>
         <image:image>
           <image:loc>https://majordigest.com/world/2023/08/31/us-military-calls-for-end-of-fighting-in-east-syria-and-warns-it-could-lead-to-is-resurgence/us-military-calls-for-end-of-fighting-in-east-syria-and-warns-it-could-lead-to-is-resurgence.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/world/2023/08/31/us-military-calls-for-end-of-fighting-in-east-syria-and-warns-it-could-lead-to-is-resurgence/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-31T19:43:31.000Z</news:publication_date>
-          <news:title>US military calls for end of fighting in east Syria and warns it could lead to IS resurgence</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/world/2023/08/31/us-military-calls-for-end-of-fighting-in-east-syria-and-warns-it-could-lead-to-is-resurgence/us-military-calls-for-end-of-fighting-in-east-syria-and-warns-it-could-lead-to-is-resurgence.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/world/2023/08/31/saudi-man-sentenced-to-death-for-online-posts/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-31T17:42:48.000Z</news:publication_date>
-          <news:title>Saudi man sentenced to death for online posts</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/world/2023/08/31/saudi-man-sentenced-to-death-for-online-posts/saudi-man-sentenced-to-death-for-online-posts.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/world/2023/08/31/can-you-trust-temu-how-are-their-prices-so-low-weve-got-some-answers/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-31T16:56:31.000Z</news:publication_date>
-          <news:title>Can you trust Temu? How are their prices so low? We&#8217;ve got some answers</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/world/2023/08/31/can-you-trust-temu-how-are-their-prices-so-low-weve-got-some-answers/can-you-trust-temu-how-are-their-prices-so-low-weve-got-some-answers.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -297,34 +297,6 @@
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/world/2023/08/31/ousting-of-gabons-unpopular-leader-was-a-smokescreen-for-soldiers-to-seize-power-analysts-say/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-31T07:10:53.000Z</news:publication_date>
-          <news:title>Gabon election results were a 'smokescreen' for soldiers to oust unpopular president, analysts say</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/world/2023/08/31/ousting-of-gabons-unpopular-leader-was-a-smokescreen-for-soldiers-to-seize-power-analysts-say/ousting-of-gabons-unpopular-leader-was-a-smokescreen-for-soldiers-to-seize-power-analysts-say.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/world/2023/08/31/at-least-52-people-have-died-in-a-fire-in-a-building-in-south-africas-biggest-city-authorities-say/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-31T05:22:52.000Z</news:publication_date>
-          <news:title>At least 74 are dead, many of them homeless, as fire rips through a rundown building in South Africa</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/world/2023/08/31/at-least-52-people-have-died-in-a-fire-in-a-building-in-south-africas-biggest-city-authorities-say/at-least-52-people-have-died-in-a-fire-in-a-building-in-south-africas-biggest-city-authorities-say.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
         <loc>https://majordigest.com/world/2023/08/31/gabon-military-officers-say-theyre-seizing-power-just-days-after-the-presidential-election/</loc>
         <news:news>
           <news:publication>
@@ -336,20 +308,6 @@
         </news:news>
         <image:image>
           <image:loc>https://majordigest.com/world/2023/08/31/gabon-military-officers-say-theyre-seizing-power-just-days-after-the-presidential-election/gabon-military-officers-say-theyre-seizing-power-just-days-after-the-presidential-election.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/world/2023/08/30/drones-targeted-5-regions-in-biggest-attack-on-russian-soil-in-18-months-defense-ministry-says/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-30T19:51:22.000Z</news:publication_date>
-          <news:title>Ukrainian drones strike deep in Russian territory, Moscow says, while a barrage in Kyiv kills 2</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/world/2023/08/30/drones-targeted-5-regions-in-biggest-attack-on-russian-soil-in-18-months-defense-ministry-says/drones-targeted-5-regions-in-biggest-attack-on-russian-soil-in-18-months-defense-ministry-says.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -423,6 +381,20 @@
         </image:image>
       </url>
       <url>
+        <loc>https://majordigest.com/world/2023/08/29/the-kremlin-says-putin-is-not-planning-to-attend-wagner-chief-prigozhins-burial/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-29T20:48:57.000Z</news:publication_date>
+          <news:title>Russian mercenary boss Yevgeny Prigozhin is buried in private, ending his tumultuous journey</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/world/2023/08/29/the-kremlin-says-putin-is-not-planning-to-attend-wagner-chief-prigozhins-burial/the-kremlin-says-putin-is-not-planning-to-attend-wagner-chief-prigozhins-burial.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
         <loc>https://majordigest.com/world/2023/08/29/neurosurgeon-investigating-patients-mystery-symptoms-plucks-worm-from-womans-brain/</loc>
         <news:news>
           <news:publication>
@@ -434,6 +406,20 @@
         </news:news>
         <image:image>
           <image:loc>https://majordigest.com/world/2023/08/29/neurosurgeon-investigating-patients-mystery-symptoms-plucks-worm-from-womans-brain/neurosurgeon-investigating-patients-mystery-symptoms-plucks-worm-from-womans-brain.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/world/2023/08/29/us-marines-killed-in-australian-aircraft-crash-were-from-illinois-virginia-and-colorado/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-29T01:55:12.000Z</news:publication_date>
+          <news:title>US Marines killed in Australian aircraft crash were from Illinois, Virginia and Colorado</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/world/2023/08/29/us-marines-killed-in-australian-aircraft-crash-were-from-illinois-virginia-and-colorado/us-marines-killed-in-australian-aircraft-crash-were-from-illinois-virginia-and-colorado.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -490,6 +476,20 @@
         </news:news>
         <image:image>
           <image:loc>https://majordigest.com/world/2023/08/28/virginia-man-stolen-at-birth-meets-chilean-family-for-first-time/virginia-man-stolen-at-birth-meets-chilean-family-for-first-time.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/world/2023/08/27/with-drones-and-webcams-volunteer-hunters-join-new-search-for-mythical-loch-ness-monster/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-27T02:47:41.000Z</news:publication_date>
+          <news:title>With drones and webcams, volunteer hunters join new search for mythical Loch Ness Monster</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/world/2023/08/27/with-drones-and-webcams-volunteer-hunters-join-new-search-for-mythical-loch-ness-monster/with-drones-and-webcams-volunteer-hunters-join-new-search-for-mythical-loch-ness-monster.webp</image:loc>
         </image:image>
       </url>
       <url>

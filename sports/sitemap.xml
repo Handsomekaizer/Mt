@@ -3,20 +3,6 @@
               xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
               xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
       <url>
-        <loc>https://majordigest.com/sports/2023/09/01/sage-steele-opens-up-espn-exit-much-bigger-me/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-09-01T08:00:05.000Z</news:publication_date>
-          <news:title>Sage Steele opens up following ESPN exit: &#8216;This is so much bigger than me&#8217;</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/sports/2023/09/01/sage-steele-opens-up-espn-exit-much-bigger-me/sage-steele-opens-up-espn-exit-much-bigger-me.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
         <loc>https://majordigest.com/sports/2023/09/01/acuna-hits-grand-slam-on-wedding-night-to-become-30-hr-60-sb-player-as-braves-beat-dodgers-8-7/</loc>
         <news:news>
           <news:publication>
@@ -45,17 +31,31 @@
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/sports/2023/09/01/acuna-hits-grand-slam-to-become-first-player-with-30-home-runs-and-60-stolen-bases/</loc>
+        <loc>https://majordigest.com/sports/2023/09/01/after-years-of-fighting-a-praying-football-coach-got-his-job-back-now-hes-unsure-he-wants-it/</loc>
         <news:news>
           <news:publication>
             <news:name>Major Digest</news:name>
             <news:language>en</news:language>
           </news:publication>
-          <news:publication_date>2023-09-01T05:05:04.000Z</news:publication_date>
-          <news:title>Acu&#241;a hits grand slam to become first player with 30 home runs and 60 stolen bases</news:title>
+          <news:publication_date>2023-09-01T05:32:37.000Z</news:publication_date>
+          <news:title>After years of fighting, a praying football coach got his job back. Now he's unsure he wants it</news:title>
         </news:news>
         <image:image>
-          <image:loc>https://majordigest.com/sports/2023/09/01/acuna-hits-grand-slam-to-become-first-player-with-30-home-runs-and-60-stolen-bases/acuna-hits-grand-slam-to-become-first-player-with-30-home-runs-and-60-stolen-bases.webp</image:loc>
+          <image:loc>https://majordigest.com/sports/2023/09/01/after-years-of-fighting-a-praying-football-coach-got-his-job-back-now-hes-unsure-he-wants-it/after-years-of-fighting-a-praying-football-coach-got-his-job-back-now-hes-unsure-he-wants-it.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/sports/2023/09/01/jannik-sinner-dominates-fellow-italian-to-advance-at-us-open/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-09-01T05:21:51.000Z</news:publication_date>
+          <news:title>John Isner heads to retirement after US Open last-set tiebreaker losses in singles and doubles</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/sports/2023/09/01/jannik-sinner-dominates-fellow-italian-to-advance-at-us-open/jannik-sinner-dominates-fellow-italian-to-advance-at-us-open.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -87,6 +87,20 @@
         </image:image>
       </url>
       <url>
+        <loc>https://majordigest.com/sports/2023/09/01/bryson-barnes-helps-no-14-utah-beat-florida-24-11-in-season-opener/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-09-01T03:29:12.000Z</news:publication_date>
+          <news:title>Bryson Barnes helps No. 14 Utah beat Florida 24-11 in season opener</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/sports/2023/09/01/bryson-barnes-helps-no-14-utah-beat-florida-24-11-in-season-opener/bryson-barnes-helps-no-14-utah-beat-florida-24-11-in-season-opener.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
         <loc>https://majordigest.com/sports/2023/09/01/north-carolina-states-ashford-taken-off-field-on-stretcher-in-opener-at-uconn/</loc>
         <news:news>
           <news:publication>
@@ -112,6 +126,20 @@
         </news:news>
         <image:image>
           <image:loc>https://majordigest.com/sports/2023/09/01/espn-networks-go-dark-on-charter-spectrum-cable-systems-on-busy-night-for-sports/espn-networks-go-dark-on-charter-spectrum-cable-systems-on-busy-night-for-sports.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/sports/2023/09/01/perrine-delacour-shoots-63-at-rainy-columbia-edgewater-to-take-portland-classic-lead/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-09-01T01:49:37.000Z</news:publication_date>
+          <news:title>Perrine Delacour shoots 63 at rainy Columbia Edgewater to take Portland Classic lead</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/sports/2023/09/01/perrine-delacour-shoots-63-at-rainy-columbia-edgewater-to-take-portland-classic-lead/perrine-delacour-shoots-63-at-rainy-columbia-edgewater-to-take-portland-classic-lead.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -185,6 +213,20 @@
         </image:image>
       </url>
       <url>
+        <loc>https://majordigest.com/sports/2023/08/31/all-30-managers-who-started-the-mlb-season-are-still-employed-but-the-ax-could-be-coming-soon/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-31T23:37:58.000Z</news:publication_date>
+          <news:title>All 30 managers who started the MLB season are still employed, but the ax could be coming soon</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/sports/2023/08/31/all-30-managers-who-started-the-mlb-season-are-still-employed-but-the-ax-could-be-coming-soon/all-30-managers-who-started-the-mlb-season-are-still-employed-but-the-ax-could-be-coming-soon.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
         <loc>https://majordigest.com/sports/2023/08/31/utes-fans-pumped-up-for-season-opener/</loc>
         <news:news>
           <news:publication>
@@ -227,31 +269,17 @@
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/sports/2023/08/31/here-are-the-biggest-takeaways-from-the-bucs-53-man-roster/</loc>
+        <loc>https://majordigest.com/sports/2023/08/31/white-sox-owner-jerry-reinsdorf-says-he-doesnt-see-how-shooting-could-have-occurred-in-ballpark/</loc>
         <news:news>
           <news:publication>
             <news:name>Major Digest</news:name>
             <news:language>en</news:language>
           </news:publication>
-          <news:publication_date>2023-08-31T21:48:08.000Z</news:publication_date>
-          <news:title>Here are the biggest takeaways from the Bucs' 53-man roster</news:title>
+          <news:publication_date>2023-08-31T20:49:19.000Z</news:publication_date>
+          <news:title>White Sox owner Jerry Reinsdorf says he doesn't see how shooting could have occurred in ballpark</news:title>
         </news:news>
         <image:image>
-          <image:loc>https://majordigest.com/sports/2023/08/31/here-are-the-biggest-takeaways-from-the-bucs-53-man-roster/here-are-the-biggest-takeaways-from-the-bucs-53-man-roster.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/sports/2023/08/31/with-acc-leaders-set-to-take-up-stanford-cal-smu-expansion-2-unc-trustees-announce-opposition/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-31T21:18:42.000Z</news:publication_date>
-          <news:title>With ACC leaders set to take up Stanford, Cal, SMU expansion, 2 UNC trustees announce opposition</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/sports/2023/08/31/with-acc-leaders-set-to-take-up-stanford-cal-smu-expansion-2-unc-trustees-announce-opposition/with-acc-leaders-set-to-take-up-stanford-cal-smu-expansion-2-unc-trustees-announce-opposition.webp</image:loc>
+          <image:loc>https://majordigest.com/sports/2023/08/31/white-sox-owner-jerry-reinsdorf-says-he-doesnt-see-how-shooting-could-have-occurred-in-ballpark/white-sox-owner-jerry-reinsdorf-says-he-doesnt-see-how-shooting-could-have-occurred-in-ballpark.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -283,6 +311,20 @@
         </image:image>
       </url>
       <url>
+        <loc>https://majordigest.com/sports/2023/08/31/illnesses-after-tough-mudder-race-in-sonoma-county-grows-to-300-officials-estimate/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-31T18:18:34.000Z</news:publication_date>
+          <news:title>People reporting illnesses after Tough Mudder race in Sonoma County grows to 300, officials estimate</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/sports/2023/08/31/illnesses-after-tough-mudder-race-in-sonoma-county-grows-to-300-officials-estimate/illnesses-after-tough-mudder-race-in-sonoma-county-grows-to-300-officials-estimate.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
         <loc>https://majordigest.com/sports/2023/08/31/its-tradition-utah-tailgaters-begin-gameday-at-the-crack-of-dawn/</loc>
         <news:news>
           <news:publication>
@@ -294,48 +336,6 @@
         </news:news>
         <image:image>
           <image:loc>https://majordigest.com/sports/2023/08/31/its-tradition-utah-tailgaters-begin-gameday-at-the-crack-of-dawn/its-tradition-utah-tailgaters-begin-gameday-at-the-crack-of-dawn.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/sports/2023/08/31/want-to-see-lionel-messi-play-in-l-a-heres-how-much-tickets-cost/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-31T17:06:54.000Z</news:publication_date>
-          <news:title>Want to see Lionel Messi play in L.A.? Here's how much tickets cost</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/sports/2023/08/31/want-to-see-lionel-messi-play-in-l-a-heres-how-much-tickets-cost/want-to-see-lionel-messi-play-in-l-a-heres-how-much-tickets-cost.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/sports/2023/08/31/nebraska-volleyball-stadium-event-draws-92003-to-set-womens-world-attendance-record/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-31T15:33:47.000Z</news:publication_date>
-          <news:title>Nebraska volleyball stadium event draws 92,003 to set women's world attendance record</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/sports/2023/08/31/nebraska-volleyball-stadium-event-draws-92003-to-set-womens-world-attendance-record/nebraska-volleyball-stadium-event-draws-92003-to-set-womens-world-attendance-record.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/sports/2023/08/31/chris-getz-named-white-sox-general-manager/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-31T14:41:51.000Z</news:publication_date>
-          <news:title>Chris Getz named White Sox general manager</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/sports/2023/08/31/chris-getz-named-white-sox-general-manager/chris-getz-named-white-sox-general-manager.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -409,20 +409,6 @@
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/sports/2023/08/30/giants-pitcher-alex-cobb-comes-one-out-away-from-no-hitter/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-30T04:09:28.000Z</news:publication_date>
-          <news:title>Giants pitcher Alex Cobb comes one out away from no-hitter</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/sports/2023/08/30/giants-pitcher-alex-cobb-comes-one-out-away-from-no-hitter/giants-pitcher-alex-cobb-comes-one-out-away-from-no-hitter.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
         <loc>https://majordigest.com/sports/2023/08/30/like-snoop-doggs-living-room-smell-of-pot-wafts-over-notorious-u-s-open-court/</loc>
         <news:news>
           <news:publication>
@@ -437,31 +423,45 @@
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/sports/2023/08/29/cleveland-cuts-former-mets-star-noah-syndergaard/</loc>
+        <loc>https://majordigest.com/sports/2023/08/29/half-of-usd-football-team-facing-discipline-amid-alleged-hazing/</loc>
         <news:news>
           <news:publication>
             <news:name>Major Digest</news:name>
             <news:language>en</news:language>
           </news:publication>
-          <news:publication_date>2023-08-29T23:45:33.000Z</news:publication_date>
-          <news:title>Cleveland cuts former Mets star Noah Syndergaard</news:title>
+          <news:publication_date>2023-08-29T21:21:34.000Z</news:publication_date>
+          <news:title>Half of USD football team facing discipline amid alleged hazing</news:title>
         </news:news>
         <image:image>
-          <image:loc>https://majordigest.com/sports/2023/08/29/cleveland-cuts-former-mets-star-noah-syndergaard/cleveland-cuts-former-mets-star-noah-syndergaard.webp</image:loc>
+          <image:loc>https://majordigest.com/sports/2023/08/29/half-of-usd-football-team-facing-discipline-amid-alleged-hazing/half-of-usd-football-team-facing-discipline-amid-alleged-hazing.webp</image:loc>
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/sports/2023/08/29/every-game-matters-for-the-lopes-cmu-sports-begin-this-week/</loc>
+        <loc>https://majordigest.com/sports/2023/08/29/a-spanish-soccer-officials-kiss-unleashed-fury-soul-searching-over-sexism-and-a-hunger-strike/</loc>
         <news:news>
           <news:publication>
             <news:name>Major Digest</news:name>
             <news:language>en</news:language>
           </news:publication>
-          <news:publication_date>2023-08-29T04:30:14.000Z</news:publication_date>
-          <news:title>Every game matters for the Lopes; CMU sports begin this week</news:title>
+          <news:publication_date>2023-08-29T20:03:31.000Z</news:publication_date>
+          <news:title>A Spanish soccer official&#8217;s kiss unleashed fury, soul-searching over sexism, and a hunger strike</news:title>
         </news:news>
         <image:image>
-          <image:loc>https://majordigest.com/sports/2023/08/29/every-game-matters-for-the-lopes-cmu-sports-begin-this-week/every-game-matters-for-the-lopes-cmu-sports-begin-this-week.webp</image:loc>
+          <image:loc>https://majordigest.com/sports/2023/08/29/a-spanish-soccer-officials-kiss-unleashed-fury-soul-searching-over-sexism-and-a-hunger-strike/a-spanish-soccer-officials-kiss-unleashed-fury-soul-searching-over-sexism-and-a-hunger-strike.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/sports/2023/08/29/holiday-bowl-brings-back-iconic-san-diego-fireworks-show-for-second-year/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-29T01:24:28.000Z</news:publication_date>
+          <news:title>Holiday Bowl brings back iconic San Diego fireworks show for second year</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/sports/2023/08/29/holiday-bowl-brings-back-iconic-san-diego-fireworks-show-for-second-year/holiday-bowl-brings-back-iconic-san-diego-fireworks-show-for-second-year.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -479,31 +479,31 @@
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/sports/2023/08/28/fight-at-in-n-out-after-chargers-49ers-game-leads-to-stabbing/</loc>
+        <loc>https://majordigest.com/sports/2023/08/28/escondido-basketball-player-becomes-viral-tiktok-sensation/</loc>
         <news:news>
           <news:publication>
             <news:name>Major Digest</news:name>
             <news:language>en</news:language>
           </news:publication>
-          <news:publication_date>2023-08-28T18:21:13.000Z</news:publication_date>
-          <news:title>Fight at In-N-Out after Chargers-49ers game leads to stabbing</news:title>
+          <news:publication_date>2023-08-28T15:37:09.000Z</news:publication_date>
+          <news:title>Escondido basketball player becomes viral TikTok sensation&#160;</news:title>
         </news:news>
         <image:image>
-          <image:loc>https://majordigest.com/sports/2023/08/28/fight-at-in-n-out-after-chargers-49ers-game-leads-to-stabbing/fight-at-in-n-out-after-chargers-49ers-game-leads-to-stabbing.webp</image:loc>
+          <image:loc>https://majordigest.com/sports/2023/08/28/escondido-basketball-player-becomes-viral-tiktok-sensation/escondido-basketball-player-becomes-viral-tiktok-sensation.webp</image:loc>
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/sports/2023/08/28/ex-bulldogs-evans-burse-helping-with-youth-program/</loc>
+        <loc>https://majordigest.com/sports/2023/08/28/simone-biles-wins-record-8th-us-gymnastics-title-a-full-decade-after-her-first/</loc>
         <news:news>
           <news:publication>
             <news:name>Major Digest</news:name>
             <news:language>en</news:language>
           </news:publication>
-          <news:publication_date>2023-08-28T02:04:20.000Z</news:publication_date>
-          <news:title>Bulldog Insider feature: ex-Bulldogs Evans, Burse helping with youth program</news:title>
+          <news:publication_date>2023-08-28T09:57:18.000Z</news:publication_date>
+          <news:title>Simone Biles wins record 8th US Gymnastics title - a full decade after her first</news:title>
         </news:news>
         <image:image>
-          <image:loc>https://majordigest.com/sports/2023/08/28/ex-bulldogs-evans-burse-helping-with-youth-program/ex-bulldogs-evans-burse-helping-with-youth-program.webp</image:loc>
+          <image:loc>https://majordigest.com/sports/2023/08/28/simone-biles-wins-record-8th-us-gymnastics-title-a-full-decade-after-her-first/simone-biles-wins-record-8th-us-gymnastics-title-a-full-decade-after-her-first.webp</image:loc>
         </image:image>
       </url>
       <url>

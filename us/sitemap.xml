@@ -3,6 +3,48 @@
               xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
               xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
       <url>
+        <loc>https://majordigest.com/us/2023/09/01/thailands-king-reduces-prison-term-of-former-prime-minister-thaksin-shinawatra-to-a-single-year/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-09-01T10:13:47.000Z</news:publication_date>
+          <news:title>Thailand's king reduces prison term of former Prime Minister Thaksin Shinawatra to a single year</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/us/2023/09/01/thailands-king-reduces-prison-term-of-former-prime-minister-thaksin-shinawatra-to-a-single-year/thailands-king-reduces-prison-term-of-former-prime-minister-thaksin-shinawatra-to-a-single-year.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/us/2023/09/01/regulators-may-change-how-they-classify-marijuana-heres-what-that-would-mean/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-09-01T10:08:45.000Z</news:publication_date>
+          <news:title>Regulators may change how they classify marijuana. Here's what that would mean</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/us/2023/09/01/regulators-may-change-how-they-classify-marijuana-heres-what-that-would-mean/regulators-may-change-how-they-classify-marijuana-heres-what-that-would-mean.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/us/2023/09/01/a-98-year-old-german-man-is-charged-as-an-accessory-to-murder-at-a-nazi-concentration-camp/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-09-01T09:28:41.000Z</news:publication_date>
+          <news:title>A 98-year-old German man is charged as an accessory to murder at a Nazi concentration camp</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/us/2023/09/01/a-98-year-old-german-man-is-charged-as-an-accessory-to-murder-at-a-nazi-concentration-camp/a-98-year-old-german-man-is-charged-as-an-accessory-to-murder-at-a-nazi-concentration-camp.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
         <loc>https://majordigest.com/us/2023/09/01/russia-reports-more-drone-attacks-as-satellite-photos-indicate-earlier-barrage-destroyed-2-aircraft/</loc>
         <news:news>
           <news:publication>
@@ -17,17 +59,17 @@
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/us/2023/09/01/swedens-nobel-reverses-invitation-policy-russia-belarus-iran-and-far-right-leader-are-welcome/</loc>
+        <loc>https://majordigest.com/us/2023/09/01/pope-makes-first-visit-to-mongolia-as-vatican-relations-with-russia-and-china-are-again-strained/</loc>
         <news:news>
           <news:publication>
             <news:name>Major Digest</news:name>
             <news:language>en</news:language>
           </news:publication>
-          <news:publication_date>2023-09-01T08:20:47.000Z</news:publication_date>
-          <news:title>Sweden's Nobel reverses invitation policy. Russia, Belarus, Iran and far-right leader are welcome</news:title>
+          <news:publication_date>2023-09-01T08:22:31.000Z</news:publication_date>
+          <news:title>Pope arrives on first visit to Mongolia as Vatican relations with Russia and China remain strained</news:title>
         </news:news>
         <image:image>
-          <image:loc>https://majordigest.com/us/2023/09/01/swedens-nobel-reverses-invitation-policy-russia-belarus-iran-and-far-right-leader-are-welcome/swedens-nobel-reverses-invitation-policy-russia-belarus-iran-and-far-right-leader-are-welcome.webp</image:loc>
+          <image:loc>https://majordigest.com/us/2023/09/01/pope-makes-first-visit-to-mongolia-as-vatican-relations-with-russia-and-china-are-again-strained/pope-makes-first-visit-to-mongolia-as-vatican-relations-with-russia-and-china-are-again-strained.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -42,20 +84,6 @@
         </news:news>
         <image:image>
           <image:loc>https://majordigest.com/us/2023/09/01/cool-new-ai-tools-to-try/cool-new-ai-tools-to-try.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/us/2023/09/01/japan-marks-100-years-since-the-devastating-great-kanto-quake-with-disaster-drills-nationwide/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-09-01T06:39:29.000Z</news:publication_date>
-          <news:title>Japan marks 100 years since the devastating Great Kanto Quake, with disaster drills nationwide</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/us/2023/09/01/japan-marks-100-years-since-the-devastating-great-kanto-quake-with-disaster-drills-nationwide/japan-marks-100-years-since-the-devastating-great-kanto-quake-with-disaster-drills-nationwide.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -101,17 +129,31 @@
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/us/2023/09/01/total-miracle-dog-home-safe-after-ohio-storm-saved-from-river/</loc>
+        <loc>https://majordigest.com/us/2023/09/01/philadelphia-vietnam-veterans-memorial-vandalized-20k-damage-caretakers/</loc>
         <news:news>
           <news:publication>
             <news:name>Major Digest</news:name>
             <news:language>en</news:language>
           </news:publication>
-          <news:publication_date>2023-09-01T02:16:22.000Z</news:publication_date>
-          <news:title>'Total miracle': Dog home safe after Ohio storm, saved from river</news:title>
+          <news:publication_date>2023-09-01T02:00:54.000Z</news:publication_date>
+          <news:title>Philadelphia Vietnam Veterans Memorial vandalized; $20K in damage, caretakers say</news:title>
         </news:news>
         <image:image>
-          <image:loc>https://majordigest.com/us/2023/09/01/total-miracle-dog-home-safe-after-ohio-storm-saved-from-river/total-miracle-dog-home-safe-after-ohio-storm-saved-from-river.webp</image:loc>
+          <image:loc>https://majordigest.com/us/2023/09/01/philadelphia-vietnam-veterans-memorial-vandalized-20k-damage-caretakers/philadelphia-vietnam-veterans-memorial-vandalized-20k-damage-caretakers.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/us/2023/09/01/video-captures-florida-suspect-grabbing-7-eleven-employee-throat-during-robbery/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-09-01T01:57:37.000Z</news:publication_date>
+          <news:title>Video captures Florida suspect grabbing 7-Eleven employee by throat during robbery</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/us/2023/09/01/video-captures-florida-suspect-grabbing-7-eleven-employee-throat-during-robbery/video-captures-florida-suspect-grabbing-7-eleven-employee-throat-during-robbery.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -126,6 +168,34 @@
         </news:news>
         <image:image>
           <image:loc>https://majordigest.com/us/2023/09/01/a-look-inside-donald-trumps-deposition-defiance-deflection-and-the-hottest-brand-in-the-world/a-look-inside-donald-trumps-deposition-defiance-deflection-and-the-hottest-brand-in-the-world.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/us/2023/09/01/idaho-killings-kohberger-hearing-cameras/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-09-01T01:31:34.000Z</news:publication_date>
+          <news:title>Idaho killings: Kohberger hearing on cameras scheduled for Friday</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/us/2023/09/01/idaho-killings-kohberger-hearing-cameras/idaho-killings-kohberger-hearing-cameras.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/us/2023/09/01/which-states-have-the-most-confrontational-drivers/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-09-01T01:29:15.000Z</news:publication_date>
+          <news:title>Which states have the most confrontational drivers?</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/us/2023/09/01/which-states-have-the-most-confrontational-drivers/which-states-have-the-most-confrontational-drivers.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -157,17 +227,17 @@
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/us/2023/09/01/2-dead-1-injured-after-shooting-at-the-arboretum-in-northwest-austin/</loc>
+        <loc>https://majordigest.com/us/2023/09/01/three-found-dead-at-remote-rocky-mountain-campsite-were-trying-to-escape-society-stepsister-says/</loc>
         <news:news>
           <news:publication>
             <news:name>Major Digest</news:name>
             <news:language>en</news:language>
           </news:publication>
-          <news:publication_date>2023-09-01T00:58:20.000Z</news:publication_date>
-          <news:title>2 dead, including shooter, and 1 injured in shooting at The Arboretum</news:title>
+          <news:publication_date>2023-09-01T01:02:51.000Z</news:publication_date>
+          <news:title>Three found dead at remote Rocky Mountain campsite were trying to escape society, stepsister says</news:title>
         </news:news>
         <image:image>
-          <image:loc>https://majordigest.com/us/2023/09/01/2-dead-1-injured-after-shooting-at-the-arboretum-in-northwest-austin/2-dead-1-injured-after-shooting-at-the-arboretum-in-northwest-austin.webp</image:loc>
+          <image:loc>https://majordigest.com/us/2023/09/01/three-found-dead-at-remote-rocky-mountain-campsite-were-trying-to-escape-society-stepsister-says/three-found-dead-at-remote-rocky-mountain-campsite-were-trying-to-escape-society-stepsister-says.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -199,20 +269,6 @@
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/us/2023/09/01/trader-joes-recall-black-bean-tamales-may-contain-undeclared-milk/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-09-01T00:51:57.000Z</news:publication_date>
-          <news:title>Trader Joe&#8217;s recall: Black bean tamales may contain undeclared milk</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/us/2023/09/01/trader-joes-recall-black-bean-tamales-may-contain-undeclared-milk/trader-joes-recall-black-bean-tamales-may-contain-undeclared-milk.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
         <loc>https://majordigest.com/us/2023/09/01/ms-13-gang-member-pleads-guilty-in-2016-slaying-of-two-teenage-girls-on-new-york-street/</loc>
         <news:news>
           <news:publication>
@@ -224,20 +280,6 @@
         </news:news>
         <image:image>
           <image:loc>https://majordigest.com/us/2023/09/01/ms-13-gang-member-pleads-guilty-in-2016-slaying-of-two-teenage-girls-on-new-york-street/ms-13-gang-member-pleads-guilty-in-2016-slaying-of-two-teenage-girls-on-new-york-street.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/us/2023/09/01/massachusetts-boy-2-dies-horrific-accident-auto-repair-shop/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-09-01T00:42:06.000Z</news:publication_date>
-          <news:title>Massachusetts boy, 2, dies in horrific accident at auto repair shop</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/us/2023/09/01/massachusetts-boy-2-dies-horrific-accident-auto-repair-shop/massachusetts-boy-2-dies-horrific-accident-auto-repair-shop.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -283,45 +325,17 @@
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/us/2023/08/31/judge-says-kansas-shouldnt-keep-changing-trans-peoples-birth-certificates-due-to-new-state-law/</loc>
+        <loc>https://majordigest.com/us/2023/08/31/pentagon-releases-new-website-on-ufos/</loc>
         <news:news>
           <news:publication>
             <news:name>Major Digest</news:name>
             <news:language>en</news:language>
           </news:publication>
-          <news:publication_date>2023-08-31T23:55:54.000Z</news:publication_date>
-          <news:title>Kansas officials are no longer required to change trans people&#8217;s birth certificates, judge says</news:title>
+          <news:publication_date>2023-08-31T22:50:52.000Z</news:publication_date>
+          <news:title>Pentagon releases new website on UFOs</news:title>
         </news:news>
         <image:image>
-          <image:loc>https://majordigest.com/us/2023/08/31/judge-says-kansas-shouldnt-keep-changing-trans-peoples-birth-certificates-due-to-new-state-law/judge-says-kansas-shouldnt-keep-changing-trans-peoples-birth-certificates-due-to-new-state-law.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/us/2023/08/31/prosecutor-asks-indiana-state-police-to-investigate-dog-deaths-in-uncooled-rear-of-truck/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-31T23:55:25.000Z</news:publication_date>
-          <news:title>Prosecutor asks Indiana State Police to investigate dog deaths in uncooled rear of truck</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/us/2023/08/31/prosecutor-asks-indiana-state-police-to-investigate-dog-deaths-in-uncooled-rear-of-truck/prosecutor-asks-indiana-state-police-to-investigate-dog-deaths-in-uncooled-rear-of-truck.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/us/2023/08/31/south-carolina-woman-recalls-moment-a-tornado-flipped-her-car-during-idalia/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-31T22:34:18.000Z</news:publication_date>
-          <news:title>South Carolina woman recalls moment a tornado flipped her car during Idalia</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/us/2023/08/31/south-carolina-woman-recalls-moment-a-tornado-flipped-her-car-during-idalia/south-carolina-woman-recalls-moment-a-tornado-flipped-her-car-during-idalia.webp</image:loc>
+          <image:loc>https://majordigest.com/us/2023/08/31/pentagon-releases-new-website-on-ufos/pentagon-releases-new-website-on-ufos.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -339,6 +353,20 @@
         </image:image>
       </url>
       <url>
+        <loc>https://majordigest.com/us/2023/08/31/leaders-speeding-up-work-permits-can-fix-labor-shortage/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-31T21:32:42.000Z</news:publication_date>
+          <news:title>Leaders: Speeding up work permits can fix labor shortage</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/us/2023/08/31/leaders-speeding-up-work-permits-can-fix-labor-shortage/leaders-speeding-up-work-permits-can-fix-labor-shortage.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
         <loc>https://majordigest.com/us/2023/08/31/reports-inmate-dead-others-injured-in-stabbings-at-atlanta-jail-where-trump-was-booked/</loc>
         <news:news>
           <news:publication>
@@ -350,20 +378,6 @@
         </news:news>
         <image:image>
           <image:loc>https://majordigest.com/us/2023/08/31/reports-inmate-dead-others-injured-in-stabbings-at-atlanta-jail-where-trump-was-booked/reports-inmate-dead-others-injured-in-stabbings-at-atlanta-jail-where-trump-was-booked.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/us/2023/08/31/video-live-bull-rides-shotgun-in-car-driver-gets-pulled-over-by-police-in-nebraska/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-31T20:56:50.000Z</news:publication_date>
-          <news:title>VIDEO: Live bull rides shotgun in car, driver gets pulled over by police in Nebraska</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/us/2023/08/31/video-live-bull-rides-shotgun-in-car-driver-gets-pulled-over-by-police-in-nebraska/video-live-bull-rides-shotgun-in-car-driver-gets-pulled-over-by-police-in-nebraska.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -381,17 +395,17 @@
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/us/2023/08/31/watch-car-with-giant-bull-named-howdy-doody-riding-shotgun-pulled-over-in-nebraska/</loc>
+        <loc>https://majordigest.com/us/2023/08/31/8-passengers-mom-ruby-franke-arrested-for-alleged-child-abuse/</loc>
         <news:news>
           <news:publication>
             <news:name>Major Digest</news:name>
             <news:language>en</news:language>
           </news:publication>
-          <news:publication_date>2023-08-31T20:32:56.000Z</news:publication_date>
-          <news:title>WATCH: Car with giant bull named Howdy Doody riding shotgun pulled over in Nebraska</news:title>
+          <news:publication_date>2023-08-31T19:05:03.000Z</news:publication_date>
+          <news:title>'8 Passengers' mom Ruby Franke arrested for alleged child abuse</news:title>
         </news:news>
         <image:image>
-          <image:loc>https://majordigest.com/us/2023/08/31/watch-car-with-giant-bull-named-howdy-doody-riding-shotgun-pulled-over-in-nebraska/watch-car-with-giant-bull-named-howdy-doody-riding-shotgun-pulled-over-in-nebraska.webp</image:loc>
+          <image:loc>https://majordigest.com/us/2023/08/31/8-passengers-mom-ruby-franke-arrested-for-alleged-child-abuse/8-passengers-mom-ruby-franke-arrested-for-alleged-child-abuse.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -429,7 +443,7 @@
             <news:name>Major Digest</news:name>
             <news:language>en</news:language>
           </news:publication>
-          <news:publication_date>2023-08-31T18:32:42.000Z</news:publication_date>
+          <news:publication_date>2023-08-31T18:33:14.000Z</news:publication_date>
           <news:title>McConnell 'medically clear,' says Capitol doctor&#160;</news:title>
         </news:news>
         <image:image>
@@ -437,45 +451,17 @@
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/us/2023/08/31/x-formerly-known-as-twitter-will-collect-user-biometric-data-job-and-education-history/</loc>
+        <loc>https://majordigest.com/us/2023/08/31/student-loan-payments-start-soon-everything-you-need-to-know/</loc>
         <news:news>
           <news:publication>
             <news:name>Major Digest</news:name>
             <news:language>en</news:language>
           </news:publication>
-          <news:publication_date>2023-08-31T18:19:31.000Z</news:publication_date>
-          <news:title>X, formerly known as Twitter, will collect user biometric data, job and education history</news:title>
+          <news:publication_date>2023-08-31T16:00:13.000Z</news:publication_date>
+          <news:title>Student loan payments start soon: Everything you need to know</news:title>
         </news:news>
         <image:image>
-          <image:loc>https://majordigest.com/us/2023/08/31/x-formerly-known-as-twitter-will-collect-user-biometric-data-job-and-education-history/x-formerly-known-as-twitter-will-collect-user-biometric-data-job-and-education-history.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/us/2023/08/31/ex-proud-boys-organizer-sentenced-to-17-years-in-prison-for-plot-to-keep-trump-in-power/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-31T17:51:20.000Z</news:publication_date>
-          <news:title>Ex-Proud Boys organizer sentenced to 17 years in prison for plot to keep Trump in power</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/us/2023/08/31/ex-proud-boys-organizer-sentenced-to-17-years-in-prison-for-plot-to-keep-trump-in-power/ex-proud-boys-organizer-sentenced-to-17-years-in-prison-for-plot-to-keep-trump-in-power.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/us/2023/08/31/this-is-how-much-singles-need-to-live-comfortably-in-every-state/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-31T15:27:00.000Z</news:publication_date>
-          <news:title>This is how much singles need to live comfortably in every state</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/us/2023/08/31/this-is-how-much-singles-need-to-live-comfortably-in-every-state/this-is-how-much-singles-need-to-live-comfortably-in-every-state.webp</image:loc>
+          <image:loc>https://majordigest.com/us/2023/08/31/student-loan-payments-start-soon-everything-you-need-to-know/student-loan-payments-start-soon-everything-you-need-to-know.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -490,6 +476,20 @@
         </news:news>
         <image:image>
           <image:loc>https://majordigest.com/us/2023/08/31/missed-taylor-swifts-the-eras-tour-heres-your-chance-to-catch-it-in-theaters/missed-taylor-swifts-the-eras-tour-heres-your-chance-to-catch-it-in-theaters.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/us/2023/08/31/california-boy-dies-after-collapsing-during-pe-class/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-31T14:20:31.000Z</news:publication_date>
+          <news:title>California boy dies after collapsing during PE class</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/us/2023/08/31/california-boy-dies-after-collapsing-during-pe-class/california-boy-dies-after-collapsing-during-pe-class.webp</image:loc>
         </image:image>
       </url>
       <url>

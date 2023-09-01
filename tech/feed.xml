@@ -7,7 +7,7 @@
         <title>Major Digest - Reliable and Comprehensive News Sources: tech</title>
         <description>Get the latest news online at Major Digest, the top online news resource for the most reliable news sources. Stay informed about the world around you!</description>
         <link>https://majordigest.com/?utm_medium=RSS</link>
-        <lastBuildDate>Fri, 01 Sep 2023 09:18:16 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 01 Sep 2023 10:20:31 GMT</lastBuildDate>
         <generator>https://majordigest.com/?v=1.1.4</generator>
         <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/" />
         <atom:link rel="self" href="https://majordigest.com/tech/feed.xml" type="application/rss+xml" />
@@ -18,6 +18,17 @@
           <url>https://majordigest.com/assets/icons/logo-512x512.png</url>
           <link>https://majordigest.com/?utm_medium=RSS</link>
         </image>
+      <item>
+        <title>Progressive campaign blasts California Democrat as &#8216;Big Tech&#8217;s Best Friend&#8217;&#160;</title>
+        <description><![CDATA[A progressive campaign is slamming Rep. Lou Correa (D-Calif.), the top Democrat on the House Judiciary antitrust subcommittee over his opposition to a series of antitrust reform bills that target dominant tech companies.]]></description>
+        <guid>https://majordigest.com/tech/2023/09/01/progressive-campaign-blasts-california-democrat-as-big-techs-best-friend/</guid>
+        <link>https://majordigest.com/tech/2023/09/01/progressive-campaign-blasts-california-democrat-as-big-techs-best-friend/</link>
+        <pubDate>Fri, 01 Sep 2023 10:00:00 +0000</pubDate>
+        <category>tech</category>
+        <media:content medium="image" url="https://majordigest.com/tech/2023/09/01/progressive-campaign-blasts-california-democrat-as-big-techs-best-friend/progressive-campaign-blasts-california-democrat-as-big-techs-best-friend.webp"/>
+        <media:thumbnail url="https://majordigest.com/tech/2023/09/01/progressive-campaign-blasts-california-democrat-as-big-techs-best-friend/progressive-campaign-blasts-california-democrat-as-big-techs-best-friend.webp"/>
+        <dc:creator>Rebecca Klar, The Hill</dc:creator>
+      </item>
       <item>
         <title>Newspaper giant pauses AI experiment after readers mock bizarre sports reporting</title>
         <description><![CDATA[Newspaper publisher Gannett paused its AI experiment following backlash over awkward phrasing and errors that made it into published stories, Fox News Digital has learned.]]></description>
@@ -94,17 +105,6 @@
         <media:content medium="image" url="https://majordigest.com/tech/2023/08/31/how-protect-yourself-vishing-scams/how-protect-yourself-vishing-scams.webp"/>
         <media:thumbnail url="https://majordigest.com/tech/2023/08/31/how-protect-yourself-vishing-scams/how-protect-yourself-vishing-scams.webp"/>
         <dc:creator>Fox News</dc:creator>
-      </item>
-      <item>
-        <title>Federal authorities investigating Tesla over secret project to build Austin home for Musk: report</title>
-        <description><![CDATA[Federal authorities are investigating Tesla over its alleged use of company funds on a secret project to build CEO Elon Musk a home in Austin, Texas, according to The Wall Street Journal. The U.S.]]></description>
-        <guid>https://majordigest.com/tech/2023/08/31/federal-authorities-investigating-tesla-over-secret-project-to-build-austin-home-for-musk-report/</guid>
-        <link>https://majordigest.com/tech/2023/08/31/federal-authorities-investigating-tesla-over-secret-project-to-build-austin-home-for-musk-report/</link>
-        <pubDate>Thu, 31 Aug 2023 18:57:10 +0000</pubDate>
-        <category>tech</category>
-        <media:content medium="image" url="https://majordigest.com/tech/2023/08/31/federal-authorities-investigating-tesla-over-secret-project-to-build-austin-home-for-musk-report/federal-authorities-investigating-tesla-over-secret-project-to-build-austin-home-for-musk-report.webp"/>
-        <media:thumbnail url="https://majordigest.com/tech/2023/08/31/federal-authorities-investigating-tesla-over-secret-project-to-build-austin-home-for-musk-report/federal-authorities-investigating-tesla-over-secret-project-to-build-austin-home-for-musk-report.webp"/>
-        <dc:creator>Julia Shapero, The Hill</dc:creator>
       </item>
       <item>
         <title>Visual artists fight back against AI companies for repurposing their work</title>
@@ -228,17 +228,6 @@
         <dc:creator>YURI KAGEYAMA, Associated Press, KRON4</dc:creator>
       </item>
       <item>
-        <title>Nissan is reusing the batteries from old Leaf electric vehicles to make portable power sources</title>
-        <description><![CDATA[YOKOHAMA, Japan (AP) — Batteries in older Nissan Leaf electric vehicles are getting a new life as portable power sources that can be used to run gadgets on the go or deliver emergency power in disasters. Japanese automaker Nissan Motor Co. has sold more than 650,000 Leaf EVs.]]></description>
-        <guid>https://majordigest.com/tech/2023/08/31/nissan-is-reusing-the-batteries-from-old-leaf-electric-vehicles-to-make-portable-power-sources/</guid>
-        <link>https://majordigest.com/tech/2023/08/31/nissan-is-reusing-the-batteries-from-old-leaf-electric-vehicles-to-make-portable-power-sources/</link>
-        <pubDate>Thu, 31 Aug 2023 11:24:36 +0000</pubDate>
-        <category>tech</category>
-        <media:content medium="image" url="https://majordigest.com/tech/2023/08/31/nissan-is-reusing-the-batteries-from-old-leaf-electric-vehicles-to-make-portable-power-sources/nissan-is-reusing-the-batteries-from-old-leaf-electric-vehicles-to-make-portable-power-sources.webp"/>
-        <media:thumbnail url="https://majordigest.com/tech/2023/08/31/nissan-is-reusing-the-batteries-from-old-leaf-electric-vehicles-to-make-portable-power-sources/nissan-is-reusing-the-batteries-from-old-leaf-electric-vehicles-to-make-portable-power-sources.webp"/>
-        <dc:creator>YURI KAGEYAMA, Associated Press, KRON4</dc:creator>
-      </item>
-      <item>
         <title>China's Baidu makes AI chatbot Ernie Bot publicly available</title>
         <description><![CDATA[HONG KONG (AP) — Chinese search engine and artificial intelligence firm Baidu made its ChatGPT-equivalent language model fully available to the public Thursday, raising the company’s stock price by over 3% following the announcement.]]></description>
         <guid>https://majordigest.com/tech/2023/08/31/chinas-baidu-makes-ai-chatbot-ernie-bot-publicly-available/</guid>
@@ -347,6 +336,17 @@
         <media:content medium="image" url="https://majordigest.com/tech/2023/08/30/2023-nissan-ariya-electric-crossover-review/2023-nissan-ariya-electric-crossover-review.webp"/>
         <media:thumbnail url="https://majordigest.com/tech/2023/08/30/2023-nissan-ariya-electric-crossover-review/2023-nissan-ariya-electric-crossover-review.webp"/>
         <dc:creator>Rich DeMuro, KTLA 5</dc:creator>
+      </item>
+      <item>
+        <title>16 Attorneys General ask SEC to audit Shein over forced labor</title>
+        <description><![CDATA["SHEIN’s growth has been built on nefarious business practices," the attorneys general wrote in a letter.]]></description>
+        <guid>https://majordigest.com/tech/2023/08/29/16-attorneys-general-sec-audit-shein-forced-labor/</guid>
+        <link>https://majordigest.com/tech/2023/08/29/16-attorneys-general-sec-audit-shein-forced-labor/</link>
+        <pubDate>Tue, 29 Aug 2023 21:59:00 +0000</pubDate>
+        <category>tech</category>
+        <media:content medium="image" url="https://majordigest.com/tech/2023/08/29/16-attorneys-general-sec-audit-shein-forced-labor/16-attorneys-general-sec-audit-shein-forced-labor.webp"/>
+        <media:thumbnail url="https://majordigest.com/tech/2023/08/29/16-attorneys-general-sec-audit-shein-forced-labor/16-attorneys-general-sec-audit-shein-forced-labor.webp"/>
+        <dc:creator>Nichole Berlie, NewsNation</dc:creator>
       </item>
       <item>
         <title>16 Attorneys General ask SEC to audit Shein over forced labor</title>
