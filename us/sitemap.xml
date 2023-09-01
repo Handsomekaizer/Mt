@@ -3,6 +3,20 @@
               xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
               xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
       <url>
+        <loc>https://majordigest.com/us/2023/09/01/cool-new-ai-tools-to-try/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-09-01T08:00:00.000Z</news:publication_date>
+          <news:title>Cool new AI tools to try</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/us/2023/09/01/cool-new-ai-tools-to-try/cool-new-ai-tools-to-try.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
         <loc>https://majordigest.com/us/2023/09/01/pope-makes-first-visit-to-mongolia-as-vatican-relations-with-russia-and-china-are-again-strained/</loc>
         <news:news>
           <news:publication>
@@ -31,20 +45,6 @@
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/us/2023/09/01/hong-kong-and-parts-of-southern-china-grind-to-near-standstill-as-super-typhoon-saola-edges-closer/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-09-01T05:25:09.000Z</news:publication_date>
-          <news:title>Hong Kong, other parts of south China grind to near standstill as Super Typhoon Saola edges closer</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/us/2023/09/01/hong-kong-and-parts-of-southern-china-grind-to-near-standstill-as-super-typhoon-saola-edges-closer/hong-kong-and-parts-of-southern-china-grind-to-near-standstill-as-super-typhoon-saola-edges-closer.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
         <loc>https://majordigest.com/us/2023/09/01/smugglers-are-steering-migrants-into-the-remote-arizona-desert-posing-new-border-patrol-challenges/</loc>
         <news:news>
           <news:publication>
@@ -56,6 +56,20 @@
         </news:news>
         <image:image>
           <image:loc>https://majordigest.com/us/2023/09/01/smugglers-are-steering-migrants-into-the-remote-arizona-desert-posing-new-border-patrol-challenges/smugglers-are-steering-migrants-into-the-remote-arizona-desert-posing-new-border-patrol-challenges.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/us/2023/09/01/residents-return-to-find-homes-gone-towns-devastated-in-path-of-idalia/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-09-01T05:03:48.000Z</news:publication_date>
+          <news:title>Residents return to find homes gone, towns devastated in path of Idalia</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/us/2023/09/01/residents-return-to-find-homes-gone-towns-devastated-in-path-of-idalia/residents-return-to-find-homes-gone-towns-devastated-in-path-of-idalia.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -185,20 +199,6 @@
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/us/2023/09/01/alaska-board-of-education-votes-to-ban-transgender-girls-from-competing-on-high-school-girls-teams/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-09-01T00:57:30.000Z</news:publication_date>
-          <news:title>Alaska board of education votes to ban transgender girls from competing on high school girls teams</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/us/2023/09/01/alaska-board-of-education-votes-to-ban-transgender-girls-from-competing-on-high-school-girls-teams/alaska-board-of-education-votes-to-ban-transgender-girls-from-competing-on-high-school-girls-teams.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
         <loc>https://majordigest.com/us/2023/09/01/trump-pleads-not-guilty-and-waives-arraignment-in-georgia-election-case/</loc>
         <news:news>
           <news:publication>
@@ -213,34 +213,6 @@
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/us/2023/09/01/trader-joes-recall-black-bean-tamales-may-contain-undeclared-milk/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-09-01T00:51:57.000Z</news:publication_date>
-          <news:title>Trader Joe&#8217;s recall: Black bean tamales may contain undeclared milk</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/us/2023/09/01/trader-joes-recall-black-bean-tamales-may-contain-undeclared-milk/trader-joes-recall-black-bean-tamales-may-contain-undeclared-milk.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/us/2023/09/01/ms-13-gang-member-pleads-guilty-in-2016-slaying-of-two-teenage-girls-on-new-york-street/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-09-01T00:45:23.000Z</news:publication_date>
-          <news:title>MS-13 gang member pleads guilty in 2016 slaying of two teenage girls on New York street</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/us/2023/09/01/ms-13-gang-member-pleads-guilty-in-2016-slaying-of-two-teenage-girls-on-new-york-street/ms-13-gang-member-pleads-guilty-in-2016-slaying-of-two-teenage-girls-on-new-york-street.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
         <loc>https://majordigest.com/us/2023/09/01/massachusetts-boy-2-dies-horrific-accident-auto-repair-shop/</loc>
         <news:news>
           <news:publication>
@@ -252,6 +224,20 @@
         </news:news>
         <image:image>
           <image:loc>https://majordigest.com/us/2023/09/01/massachusetts-boy-2-dies-horrific-accident-auto-repair-shop/massachusetts-boy-2-dies-horrific-accident-auto-repair-shop.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/us/2023/09/01/nitazines-synthetic-opioids-fentanyl/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-09-01T00:41:52.000Z</news:publication_date>
+          <news:title>Nitazines: Why are these synthetic opioids deadlier than fentanyl?</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/us/2023/09/01/nitazines-synthetic-opioids-fentanyl/nitazines-synthetic-opioids-fentanyl.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -283,6 +269,20 @@
         </image:image>
       </url>
       <url>
+        <loc>https://majordigest.com/us/2023/08/31/judge-says-kansas-shouldnt-keep-changing-trans-peoples-birth-certificates-due-to-new-state-law/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-31T23:55:54.000Z</news:publication_date>
+          <news:title>Kansas officials are no longer required to change trans people&#8217;s birth certificates, judge says</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/us/2023/08/31/judge-says-kansas-shouldnt-keep-changing-trans-peoples-birth-certificates-due-to-new-state-law/judge-says-kansas-shouldnt-keep-changing-trans-peoples-birth-certificates-due-to-new-state-law.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
         <loc>https://majordigest.com/us/2023/08/31/prosecutor-asks-indiana-state-police-to-investigate-dog-deaths-in-uncooled-rear-of-truck/</loc>
         <news:news>
           <news:publication>
@@ -294,6 +294,20 @@
         </news:news>
         <image:image>
           <image:loc>https://majordigest.com/us/2023/08/31/prosecutor-asks-indiana-state-police-to-investigate-dog-deaths-in-uncooled-rear-of-truck/prosecutor-asks-indiana-state-police-to-investigate-dog-deaths-in-uncooled-rear-of-truck.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/us/2023/08/31/pentagon-releases-new-website-on-ufos/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-31T22:50:52.000Z</news:publication_date>
+          <news:title>Pentagon releases new website on UFOs</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/us/2023/08/31/pentagon-releases-new-website-on-ufos/pentagon-releases-new-website-on-ufos.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -339,6 +353,20 @@
         </image:image>
       </url>
       <url>
+        <loc>https://majordigest.com/us/2023/08/31/white-house-defends-maui-wildfire-response-announces-95m-for-recovery/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-31T21:10:16.000Z</news:publication_date>
+          <news:title>White House defends Maui wildfire response, announces $95M for recovery</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/us/2023/08/31/white-house-defends-maui-wildfire-response-announces-95m-for-recovery/white-house-defends-maui-wildfire-response-announces-95m-for-recovery.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
         <loc>https://majordigest.com/us/2023/08/31/video-live-bull-rides-shotgun-in-car-driver-gets-pulled-over-by-police-in-nebraska/</loc>
         <news:news>
           <news:publication>
@@ -350,6 +378,20 @@
         </news:news>
         <image:image>
           <image:loc>https://majordigest.com/us/2023/08/31/video-live-bull-rides-shotgun-in-car-driver-gets-pulled-over-by-police-in-nebraska/video-live-bull-rides-shotgun-in-car-driver-gets-pulled-over-by-police-in-nebraska.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/us/2023/08/31/x-formerly-twitter-to-allow-paid-political-advertising-again/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-31T20:47:49.000Z</news:publication_date>
+          <news:title>X, formerly Twitter,&#160;to allow paid political advertising again</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/us/2023/08/31/x-formerly-twitter-to-allow-paid-political-advertising-again/x-formerly-twitter-to-allow-paid-political-advertising-again.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -367,6 +409,34 @@
         </image:image>
       </url>
       <url>
+        <loc>https://majordigest.com/us/2023/08/31/8-passengers-mom-ruby-franke-arrested-for-alleged-child-abuse/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-31T19:05:03.000Z</news:publication_date>
+          <news:title>'8 Passengers' mom Ruby Franke arrested for alleged child abuse</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/us/2023/08/31/8-passengers-mom-ruby-franke-arrested-for-alleged-child-abuse/8-passengers-mom-ruby-franke-arrested-for-alleged-child-abuse.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/us/2023/08/31/statue-believed-to-depict-marcus-aurelius-seized-from-cleveland-museum-in-looting-investigation/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-31T19:00:38.000Z</news:publication_date>
+          <news:title>Statue believed to depict Marcus Aurelius seized from Cleveland museum in looting investigation</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/us/2023/08/31/statue-believed-to-depict-marcus-aurelius-seized-from-cleveland-museum-in-looting-investigation/statue-believed-to-depict-marcus-aurelius-seized-from-cleveland-museum-in-looting-investigation.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
         <loc>https://majordigest.com/us/2023/08/31/biden-says-he-has-no-concerns-about-mcconnells-health-after-speaking-to-him/</loc>
         <news:news>
           <news:publication>
@@ -381,27 +451,13 @@
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/us/2023/08/31/capitol-physician-mcconnell-medically-clear-to-continue-schedule-after-freeze-up/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-31T18:32:42.000Z</news:publication_date>
-          <news:title>McConnell 'medically clear,' says Capitol doctor&#160;</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/us/2023/08/31/capitol-physician-mcconnell-medically-clear-to-continue-schedule-after-freeze-up/capitol-physician-mcconnell-medically-clear-to-continue-schedule-after-freeze-up.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
         <loc>https://majordigest.com/us/2023/08/31/x-formerly-known-as-twitter-will-collect-user-biometric-data-job-and-education-history/</loc>
         <news:news>
           <news:publication>
             <news:name>Major Digest</news:name>
             <news:language>en</news:language>
           </news:publication>
-          <news:publication_date>2023-08-31T18:19:20.000Z</news:publication_date>
+          <news:publication_date>2023-08-31T18:19:31.000Z</news:publication_date>
           <news:title>X, formerly known as Twitter, will collect user biometric data, job and education history</news:title>
         </news:news>
         <image:image>
@@ -423,31 +479,17 @@
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/us/2023/08/31/these-spooky-movies-will-be-released-ahead-of-halloween/</loc>
+        <loc>https://majordigest.com/us/2023/08/31/this-is-how-much-singles-need-to-live-comfortably-in-every-state/</loc>
         <news:news>
           <news:publication>
             <news:name>Major Digest</news:name>
             <news:language>en</news:language>
           </news:publication>
-          <news:publication_date>2023-08-31T16:00:46.000Z</news:publication_date>
-          <news:title>These spooky movies will be released ahead of Halloween</news:title>
+          <news:publication_date>2023-08-31T15:27:00.000Z</news:publication_date>
+          <news:title>This is how much singles need to live comfortably in every state</news:title>
         </news:news>
         <image:image>
-          <image:loc>https://majordigest.com/us/2023/08/31/these-spooky-movies-will-be-released-ahead-of-halloween/these-spooky-movies-will-be-released-ahead-of-halloween.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/us/2023/08/31/student-loan-payments-start-soon-everything-you-need-to-know/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-31T16:00:13.000Z</news:publication_date>
-          <news:title>Student loan payments start soon: Everything you need to know</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/us/2023/08/31/student-loan-payments-start-soon-everything-you-need-to-know/student-loan-payments-start-soon-everything-you-need-to-know.webp</image:loc>
+          <image:loc>https://majordigest.com/us/2023/08/31/this-is-how-much-singles-need-to-live-comfortably-in-every-state/this-is-how-much-singles-need-to-live-comfortably-in-every-state.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -462,48 +504,6 @@
         </news:news>
         <image:image>
           <image:loc>https://majordigest.com/us/2023/08/31/missed-taylor-swifts-the-eras-tour-heres-your-chance-to-catch-it-in-theaters/missed-taylor-swifts-the-eras-tour-heres-your-chance-to-catch-it-in-theaters.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/us/2023/08/31/california-boy-dies-after-collapsing-during-pe-class/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-31T14:20:31.000Z</news:publication_date>
-          <news:title>California boy dies after collapsing during PE class</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/us/2023/08/31/california-boy-dies-after-collapsing-during-pe-class/california-boy-dies-after-collapsing-during-pe-class.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/us/2023/08/31/man-charged-after-finding-bag-filled-with-nearly-5000-in-parking-lot/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-31T13:59:21.000Z</news:publication_date>
-          <news:title>Man charged after finding bag filled with nearly $5,000 in parking lot</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/us/2023/08/31/man-charged-after-finding-bag-filled-with-nearly-5000-in-parking-lot/man-charged-after-finding-bag-filled-with-nearly-5000-in-parking-lot.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/us/2023/08/30/higher-education-levels-linked-with-civic-engagement-better-health-gallup/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-30T17:27:05.000Z</news:publication_date>
-          <news:title>Higher education levels linked with civic engagement, better health: Gallup</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/us/2023/08/30/higher-education-levels-linked-with-civic-engagement-better-health-gallup/higher-education-levels-linked-with-civic-engagement-better-health-gallup.webp</image:loc>
         </image:image>
       </url>
       <url>

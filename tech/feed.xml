@@ -7,7 +7,7 @@
         <title>Major Digest - Reliable and Comprehensive News Sources: tech</title>
         <description>Get the latest news online at Major Digest, the top online news resource for the most reliable news sources. Stay informed about the world around you!</description>
         <link>https://majordigest.com/?utm_medium=RSS</link>
-        <lastBuildDate>Fri, 01 Sep 2023 07:17:20 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 01 Sep 2023 08:22:39 GMT</lastBuildDate>
         <generator>https://majordigest.com/?v=1.1.4</generator>
         <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/" />
         <atom:link rel="self" href="https://majordigest.com/tech/feed.xml" type="application/rss+xml" />
@@ -116,6 +116,17 @@
         <media:content medium="image" url="https://majordigest.com/tech/2023/08/31/visual-artists-fight-back-against-ai-companies-for-repurposing-their-work/visual-artists-fight-back-against-ai-companies-for-repurposing-their-work.webp"/>
         <media:thumbnail url="https://majordigest.com/tech/2023/08/31/visual-artists-fight-back-against-ai-companies-for-repurposing-their-work/visual-artists-fight-back-against-ai-companies-for-repurposing-their-work.webp"/>
         <dc:creator>JOCELYN NOVECK and MATT O'BRIEN, Associated Press, ABC 4</dc:creator>
+      </item>
+      <item>
+        <title>Scientists say study found a direct link between greenhouse gas emissions and polar bear survival</title>
+        <description><![CDATA[Scientists say in a new study that they've established a direct link between greenhouse gas emissions and polar bear cub survival.]]></description>
+        <guid>https://majordigest.com/tech/2023/08/31/scientists-say-study-found-a-direct-link-between-greenhouse-gas-emissions-and-polar-bear-survival/</guid>
+        <link>https://majordigest.com/tech/2023/08/31/scientists-say-study-found-a-direct-link-between-greenhouse-gas-emissions-and-polar-bear-survival/</link>
+        <pubDate>Thu, 31 Aug 2023 18:08:37 +0000</pubDate>
+        <category>tech</category>
+        <media:content medium="image" url="https://majordigest.com/tech/2023/08/31/scientists-say-study-found-a-direct-link-between-greenhouse-gas-emissions-and-polar-bear-survival/scientists-say-study-found-a-direct-link-between-greenhouse-gas-emissions-and-polar-bear-survival.webp"/>
+        <media:thumbnail url="https://majordigest.com/tech/2023/08/31/scientists-say-study-found-a-direct-link-between-greenhouse-gas-emissions-and-polar-bear-survival/scientists-say-study-found-a-direct-link-between-greenhouse-gas-emissions-and-polar-bear-survival.webp"/>
+        <dc:creator>Tammy Webber, Associated Press, KPRC 2</dc:creator>
       </item>
       <item>
         <title>Scientists say study found a direct link between greenhouse gas emissions and polar bear survival</title>
@@ -413,15 +424,4 @@
         <media:content medium="image" url="https://majordigest.com/tech/2023/08/25/early-apple-computer-that-helped-launch-3t-company-sells-at-auction-for-223000/early-apple-computer-that-helped-launch-3t-company-sells-at-auction-for-223000.webp"/>
         <media:thumbnail url="https://majordigest.com/tech/2023/08/25/early-apple-computer-that-helped-launch-3t-company-sells-at-auction-for-223000/early-apple-computer-that-helped-launch-3t-company-sells-at-auction-for-223000.webp"/>
         <dc:creator>AP, KLAS, CBS News</dc:creator>
-      </item>
-      <item>
-        <title>Los Angeles installing solar-powered EV charging stations</title>
-        <description><![CDATA[One of the biggest reasons people don’t buy electric cars is because they’re worried about where they’ll charge them. One company has a unique answer with a solar charger that fits into a standard parking spot. San Diego based Beam Global has a solution for putting more chargers in more places.]]></description>
-        <guid>https://majordigest.com/tech/2023/08/25/los-angeles-solar-ev-chargers-ev-arc-beam-global/</guid>
-        <link>https://majordigest.com/tech/2023/08/25/los-angeles-solar-ev-chargers-ev-arc-beam-global/</link>
-        <pubDate>Fri, 25 Aug 2023 08:00:00 +0000</pubDate>
-        <category>tech</category>
-        <media:content medium="image" url="https://majordigest.com/tech/2023/08/25/los-angeles-solar-ev-chargers-ev-arc-beam-global/los-angeles-solar-ev-chargers-ev-arc-beam-global.webp"/>
-        <media:thumbnail url="https://majordigest.com/tech/2023/08/25/los-angeles-solar-ev-chargers-ev-arc-beam-global/los-angeles-solar-ev-chargers-ev-arc-beam-global.webp"/>
-        <dc:creator>Rich DeMuro, KTLA 5</dc:creator>
       </item></channel></rss>
