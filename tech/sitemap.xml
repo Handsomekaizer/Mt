@@ -3,6 +3,34 @@
               xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
               xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
       <url>
+        <loc>https://majordigest.com/tech/2023/09/01/google-alleges-doj-antitrust-head-of-deep-seated-bias/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-09-01T20:01:40.000Z</news:publication_date>
+          <news:title>Google alleges DOJ antitrust head of &#8216;deep-seated bias&#8217;</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/tech/2023/09/01/google-alleges-doj-antitrust-head-of-deep-seated-bias/google-alleges-doj-antitrust-head-of-deep-seated-bias.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/tech/2023/09/01/the-guardian-will-block-open-ai-chatgpt-from-content/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-09-01T19:26:15.000Z</news:publication_date>
+          <news:title>The Guardian says it's blocking OpenAI from building off its content</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/tech/2023/09/01/the-guardian-will-block-open-ai-chatgpt-from-content/the-guardian-will-block-open-ai-chatgpt-from-content.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
         <loc>https://majordigest.com/tech/2023/09/01/online-marketplaces-social-media-platforms-under-fire-congress-recalled-products/</loc>
         <news:news>
           <news:publication>
@@ -129,6 +157,20 @@
         </image:image>
       </url>
       <url>
+        <loc>https://majordigest.com/tech/2023/09/01/cool-new-ai-tools-to-try/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-09-01T08:00:00.000Z</news:publication_date>
+          <news:title>Cool new AI tools to try</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/tech/2023/09/01/cool-new-ai-tools-to-try/cool-new-ai-tools-to-try.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
         <loc>https://majordigest.com/tech/2023/09/01/newspaper-giant-pauses-ai-experiment-readers-mock-bizarre-sports-reporting/</loc>
         <news:news>
           <news:publication>
@@ -154,34 +196,6 @@
         </news:news>
         <image:image>
           <image:loc>https://majordigest.com/tech/2023/09/01/trump-era-rule-change-allowing-the-logging-of-old-growth-forests-violates-laws-judge-says/trump-era-rule-change-allowing-the-logging-of-old-growth-forests-violates-laws-judge-says.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/tech/2023/09/01/man-pleads-guilty-to-threatening-georgia-public-officials-over-2020-election/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-09-01T02:04:59.000Z</news:publication_date>
-          <news:title>Man pleads guilty to threatening Georgia public officials over 2020 election</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/tech/2023/09/01/man-pleads-guilty-to-threatening-georgia-public-officials-over-2020-election/man-pleads-guilty-to-threatening-georgia-public-officials-over-2020-election.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/tech/2023/09/01/judge-temporarily-blocks-arkansas-parental-social-media-consent-law/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-09-01T01:22:00.000Z</news:publication_date>
-          <news:title>Judge temporarily blocks Arkansas parental social media consent law</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/tech/2023/09/01/judge-temporarily-blocks-arkansas-parental-social-media-consent-law/judge-temporarily-blocks-arkansas-parental-social-media-consent-law.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -392,20 +406,6 @@
         </news:news>
         <image:image>
           <image:loc>https://majordigest.com/tech/2023/08/30/saudi-man-receives-death-penalty-for-posts-online-latest-case-in-wide-ranging-crackdown-on-dissent/saudi-man-receives-death-penalty-for-posts-online-latest-case-in-wide-ranging-crackdown-on-dissent.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/tech/2023/08/30/indonesia-arrests-88-chinese-nationals-in-online-romance-scams/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-30T13:21:49.000Z</news:publication_date>
-          <news:title>Indonesia arrests 88 Chinese nationals over online romance scams</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/tech/2023/08/30/indonesia-arrests-88-chinese-nationals-in-online-romance-scams/indonesia-arrests-88-chinese-nationals-in-online-romance-scams.webp</image:loc>
         </image:image>
       </url>
       <url>

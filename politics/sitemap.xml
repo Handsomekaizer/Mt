@@ -3,17 +3,59 @@
               xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
               xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
       <url>
-        <loc>https://majordigest.com/politics/2023/09/01/sound-of-freedom-director-labels-dangerous/</loc>
+        <loc>https://majordigest.com/politics/2023/09/01/fourteenth-amendment-insurrection-clause-trump/</loc>
         <news:news>
           <news:publication>
             <news:name>Major Digest</news:name>
             <news:language>en</news:language>
           </news:publication>
-          <news:publication_date>2023-09-01T19:00:28.000Z</news:publication_date>
-          <news:title>'Sound of Freedom' director: Labels are 'very dangerous'</news:title>
+          <news:publication_date>2023-09-01T19:52:18.000Z</news:publication_date>
+          <news:title>The sleeper legal fight that could define 2024: Is Trump even eligible to run?</news:title>
         </news:news>
         <image:image>
-          <image:loc>https://majordigest.com/politics/2023/09/01/sound-of-freedom-director-labels-dangerous/sound-of-freedom-director-labels-dangerous.webp</image:loc>
+          <image:loc>https://majordigest.com/politics/2023/09/01/fourteenth-amendment-insurrection-clause-trump/fourteenth-amendment-insurrection-clause-trump.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/politics/2023/09/01/house-republicans-mayorkas-central-asian-migrants-smuggled-through-mexico/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-09-01T19:51:47.000Z</news:publication_date>
+          <news:title>House Republicans push Mayorkas for full accounting of central Asian migrants smuggled to US through Mexico</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/politics/2023/09/01/house-republicans-mayorkas-central-asian-migrants-smuggled-through-mexico/house-republicans-mayorkas-central-asian-migrants-smuggled-through-mexico.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/politics/2023/09/01/ftc-deceptive-advertising-case-intuit/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-09-01T19:03:09.000Z</news:publication_date>
+          <news:title>TurboTax&#8217;s free filings deceived customers, FTC judge rules</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/politics/2023/09/01/ftc-deceptive-advertising-case-intuit/ftc-deceptive-advertising-case-intuit.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/politics/2023/09/01/a-proud-boy-pleaded-for-leniency-from-a-judge-then-yelled-trump-won-on-his-way-out/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-09-01T19:02:00.000Z</news:publication_date>
+          <news:title>A Proud Boy pleaded for leniency from a judge, then yelled 'Trump won' on his way out</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/politics/2023/09/01/a-proud-boy-pleaded-for-leniency-from-a-judge-then-yelled-trump-won-on-his-way-out/a-proud-boy-pleaded-for-leniency-from-a-judge-then-yelled-trump-won-on-his-way-out.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -28,20 +70,6 @@
         </news:news>
         <image:image>
           <image:loc>https://majordigest.com/politics/2023/09/01/new-book-inside-biden-presidency/new-book-inside-biden-presidency.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/politics/2023/09/01/new-hampshire-democrats-defy-biden-dnc-ultimatum-ditch-first-in-nation-primary/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-09-01T18:23:34.000Z</news:publication_date>
-          <news:title>New Hampshire Democrats defy Biden, DNC ultimatum to ditch first-in-nation primary: 'embarrassing situation'</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/politics/2023/09/01/new-hampshire-democrats-defy-biden-dnc-ultimatum-ditch-first-in-nation-primary/new-hampshire-democrats-defy-biden-dnc-ultimatum-ditch-first-in-nation-primary.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -115,34 +143,6 @@
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/politics/2023/09/01/pennsylvania-to-end-pro-life-counseling-center-funding-after-almost-three-decades/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-09-01T16:31:00.000Z</news:publication_date>
-          <news:title>Pennsylvania to cut funding for pro-life counseling centers after almost 3 decades</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/politics/2023/09/01/pennsylvania-to-end-pro-life-counseling-center-funding-after-almost-three-decades/pennsylvania-to-end-pro-life-counseling-center-funding-after-almost-three-decades.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/politics/2023/09/01/white-house-bashes-greene-over-threat-to-not-fund-government-without-impeachment-inquiry/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-09-01T15:34:36.000Z</news:publication_date>
-          <news:title>White House bashes Greene over threat to not fund government without impeachment inquiry</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/politics/2023/09/01/white-house-bashes-greene-over-threat-to-not-fund-government-without-impeachment-inquiry/white-house-bashes-greene-over-threat-to-not-fund-government-without-impeachment-inquiry.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
         <loc>https://majordigest.com/politics/2023/09/01/ap-election-brief-what-to-expect-in-utahs-special-congressional-primary/</loc>
         <news:news>
           <news:publication>
@@ -199,20 +199,6 @@
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/politics/2023/09/01/government-shutdown-2023-schumer/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-09-01T12:53:21.000Z</news:publication_date>
-          <news:title>Schumer moves to split House and Senate Republicans ahead of potential shutdown</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/politics/2023/09/01/government-shutdown-2023-schumer/government-shutdown-2023-schumer.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
         <loc>https://majordigest.com/politics/2023/09/01/election-brief-what-to-expect-in-rhode-islands-special-primaries/</loc>
         <news:news>
           <news:publication>
@@ -224,6 +210,20 @@
         </news:news>
         <image:image>
           <image:loc>https://majordigest.com/politics/2023/09/01/election-brief-what-to-expect-in-rhode-islands-special-primaries/election-brief-what-to-expect-in-rhode-islands-special-primaries.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/politics/2023/09/01/election-brief-what-to-expect-in-utahs-special-congressional-primary/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-09-01T10:54:52.000Z</news:publication_date>
+          <news:title>AP Election Brief | What to expect in Utah's special congressional primary</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/politics/2023/09/01/election-brief-what-to-expect-in-utahs-special-congressional-primary/election-brief-what-to-expect-in-utahs-special-congressional-primary.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -241,20 +241,6 @@
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/politics/2023/09/01/dan-patrick-says-he-wont-accept-donations-during-trial-after-taking-heat-for-pro-paxton-money/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-09-01T10:00:00.000Z</news:publication_date>
-          <news:title>Dan Patrick says he won&#8217;t accept donations during trial, after taking heat for pro-Paxton money</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/politics/2023/09/01/dan-patrick-says-he-wont-accept-donations-during-trial-after-taking-heat-for-pro-paxton-money/dan-patrick-says-he-wont-accept-donations-during-trial-after-taking-heat-for-pro-paxton-money.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
         <loc>https://majordigest.com/politics/2023/09/01/whos-who-in-the-ken-paxton-impeachment-trial-from-key-participants-to-potential-witnesses/</loc>
         <news:news>
           <news:publication>
@@ -269,17 +255,31 @@
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/politics/2023/09/01/npr-canada-issues-travel-advisory-warning-over-u-s-states-lgbtq-laws/</loc>
+        <loc>https://majordigest.com/politics/2023/09/01/dan-patrick-says-he-wont-accept-donations-during-trial-after-taking-heat-for-pro-paxton-money/</loc>
         <news:news>
           <news:publication>
             <news:name>Major Digest</news:name>
             <news:language>en</news:language>
           </news:publication>
-          <news:publication_date>2023-09-01T09:06:00.000Z</news:publication_date>
-          <news:title>Canada issues travel advisory warning over U.S. states' LGBTQ+ laws</news:title>
+          <news:publication_date>2023-09-01T10:00:00.000Z</news:publication_date>
+          <news:title>Dan Patrick says he won&#8217;t accept donations during trial, after taking heat for pro-Paxton money</news:title>
         </news:news>
         <image:image>
-          <image:loc>https://majordigest.com/politics/2023/09/01/npr-canada-issues-travel-advisory-warning-over-u-s-states-lgbtq-laws/npr-canada-issues-travel-advisory-warning-over-u-s-states-lgbtq-laws.webp</image:loc>
+          <image:loc>https://majordigest.com/politics/2023/09/01/dan-patrick-says-he-wont-accept-donations-during-trial-after-taking-heat-for-pro-paxton-money/dan-patrick-says-he-wont-accept-donations-during-trial-after-taking-heat-for-pro-paxton-money.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/politics/2023/09/01/npr-georgia-trump-election-case-legal-complexities/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-09-01T09:00:00.000Z</news:publication_date>
+          <news:title>In the Trump Georgia case, conflicting legal strategies complicate the path to trial</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/politics/2023/09/01/npr-georgia-trump-election-case-legal-complexities/npr-georgia-trump-election-case-legal-complexities.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -325,17 +325,45 @@
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/politics/2023/09/01/greene-says-she-wont-vote-for-government-funding-without-biden-impeachment-inquiry/</loc>
+        <loc>https://majordigest.com/politics/2023/09/01/justice-thomas-reports-he-took-3-trips-on-republican-donors-plane-last-year/</loc>
         <news:news>
           <news:publication>
             <news:name>Major Digest</news:name>
             <news:language>en</news:language>
           </news:publication>
-          <news:publication_date>2023-09-01T03:00:21.000Z</news:publication_date>
-          <news:title>Greene says she won't vote for government funding without Biden impeachment inquiry</news:title>
+          <news:publication_date>2023-09-01T02:32:26.000Z</news:publication_date>
+          <news:title>Justice Clarence Thomas reports he took 3 trips on Republican donor's plane last year</news:title>
         </news:news>
         <image:image>
-          <image:loc>https://majordigest.com/politics/2023/09/01/greene-says-she-wont-vote-for-government-funding-without-biden-impeachment-inquiry/greene-says-she-wont-vote-for-government-funding-without-biden-impeachment-inquiry.webp</image:loc>
+          <image:loc>https://majordigest.com/politics/2023/09/01/justice-thomas-reports-he-took-3-trips-on-republican-donors-plane-last-year/justice-thomas-reports-he-took-3-trips-on-republican-donors-plane-last-year.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/politics/2023/09/01/republican-files-ethics-complaint-against-democratic-lawmaker-over-funding-vote/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-09-01T00:35:55.000Z</news:publication_date>
+          <news:title>Republican files ethics complaint against Democratic lawmaker over funding vote</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/politics/2023/09/01/republican-files-ethics-complaint-against-democratic-lawmaker-over-funding-vote/republican-files-ethics-complaint-against-democratic-lawmaker-over-funding-vote.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/politics/2023/08/31/amlo-to-limit-flights-in-and-out-of-mexico-citys-main-airport/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-31T22:20:09.000Z</news:publication_date>
+          <news:title>AMLO to limit flights in and out of Mexico City's main airport</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/politics/2023/08/31/amlo-to-limit-flights-in-and-out-of-mexico-citys-main-airport/amlo-to-limit-flights-in-and-out-of-mexico-citys-main-airport.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -367,6 +395,34 @@
         </image:image>
       </url>
       <url>
+        <loc>https://majordigest.com/politics/2023/08/31/biden-says-he-has-no-concerns-about-mcconnells-health-after-speaking-to-him/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-31T18:34:35.000Z</news:publication_date>
+          <news:title>Biden says he has no concerns about McConnell's health after speaking to him</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/politics/2023/08/31/biden-says-he-has-no-concerns-about-mcconnells-health-after-speaking-to-him/biden-says-he-has-no-concerns-about-mcconnells-health-after-speaking-to-him.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/politics/2023/08/31/capitol-physician-mcconnell-medically-clear-to-continue-schedule-after-freeze-up/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-31T18:33:14.000Z</news:publication_date>
+          <news:title>McConnell 'medically clear,' says Capitol doctor&#160;</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/politics/2023/08/31/capitol-physician-mcconnell-medically-clear-to-continue-schedule-after-freeze-up/capitol-physician-mcconnell-medically-clear-to-continue-schedule-after-freeze-up.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
         <loc>https://majordigest.com/politics/2023/08/31/minnesota-thc-beverage-company-cofounder-sees-black-ownership-in-the-marijuana-business/</loc>
         <news:news>
           <news:publication>
@@ -381,17 +437,17 @@
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/politics/2023/08/31/trump-pleads-not-guilty-in-georgia-waives-arraignment/</loc>
+        <loc>https://majordigest.com/politics/2023/08/31/justice-clarence-thomas-reports-he-took-3-trips-on-republican-donors-plane-last-year/</loc>
         <news:news>
           <news:publication>
             <news:name>Major Digest</news:name>
             <news:language>en</news:language>
           </news:publication>
-          <news:publication_date>2023-08-31T15:20:38.000Z</news:publication_date>
-          <news:title>Trump pleads not guilty in Georgia, waives arraignment</news:title>
+          <news:publication_date>2023-08-31T14:35:05.000Z</news:publication_date>
+          <news:title>Justice Clarence Thomas reports he took 3 trips on Republican donor's plane last year</news:title>
         </news:news>
         <image:image>
-          <image:loc>https://majordigest.com/politics/2023/08/31/trump-pleads-not-guilty-in-georgia-waives-arraignment/trump-pleads-not-guilty-in-georgia-waives-arraignment.webp</image:loc>
+          <image:loc>https://majordigest.com/politics/2023/08/31/justice-clarence-thomas-reports-he-took-3-trips-on-republican-donors-plane-last-year/justice-clarence-thomas-reports-he-took-3-trips-on-republican-donors-plane-last-year.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -409,20 +465,6 @@
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/politics/2023/08/30/hurricane-idalia-causes-100-year-old-oak-tree-to-split-fall-on-gov-desantis-mansion/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-30T18:25:42.000Z</news:publication_date>
-          <news:title>Hurricane Idalia causes 100-year-old oak tree to split, fall on Gov. DeSantis' mansion</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/politics/2023/08/30/hurricane-idalia-causes-100-year-old-oak-tree-to-split-fall-on-gov-desantis-mansion/hurricane-idalia-causes-100-year-old-oak-tree-to-split-fall-on-gov-desantis-mansion.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
         <loc>https://majordigest.com/politics/2023/08/30/katie-porter-makes-campaign-stop-in-sf-mission-district/</loc>
         <news:news>
           <news:publication>
@@ -434,20 +476,6 @@
         </news:news>
         <image:image>
           <image:loc>https://majordigest.com/politics/2023/08/30/katie-porter-makes-campaign-stop-in-sf-mission-district/katie-porter-makes-campaign-stop-in-sf-mission-district.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/politics/2023/08/30/desantis-holds-news-conference-before-hurricane-idalia-makes-landfall/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-30T10:02:53.000Z</news:publication_date>
-          <news:title>DeSantis discusses state response after Idalia makes landfall</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/politics/2023/08/30/desantis-holds-news-conference-before-hurricane-idalia-makes-landfall/desantis-holds-news-conference-before-hurricane-idalia-makes-landfall.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -490,33 +518,5 @@
         </news:news>
         <image:image>
           <image:loc>https://majordigest.com/politics/2023/08/29/democrat-resigning-assembly-post-to-work-for-las-vegas/democrat-resigning-assembly-post-to-work-for-las-vegas.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/politics/2023/08/28/senate-candidates-visit-stockton-to-support-rep-josh-harder-reelection-campaign/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-28T20:42:58.000Z</news:publication_date>
-          <news:title>Senate candidates visit Stockton to support Rep. Josh Harder reelection campaign</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/politics/2023/08/28/senate-candidates-visit-stockton-to-support-rep-josh-harder-reelection-campaign/senate-candidates-visit-stockton-to-support-rep-josh-harder-reelection-campaign.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/politics/2023/08/25/new-york-man-sentenced-to-3-months-in-prison-for-making-threatening-phone-calls-to-rep-marjorie-taylor-greene/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-25T19:49:09.000Z</news:publication_date>
-          <news:title>NY man sentenced to prison for making threatening&#160;phone calls to Rep. Marjorie Taylor Greene</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/politics/2023/08/25/new-york-man-sentenced-to-3-months-in-prison-for-making-threatening-phone-calls-to-rep-marjorie-taylor-greene/new-york-man-sentenced-to-3-months-in-prison-for-making-threatening-phone-calls-to-rep-marjorie-taylor-greene.webp</image:loc>
         </image:image>
       </url></urlset>

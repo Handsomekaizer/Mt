@@ -7,7 +7,7 @@
         <title>Major Digest - Reliable and Comprehensive News Sources: tech</title>
         <description>Get the latest news online at Major Digest, the top online news resource for the most reliable news sources. Stay informed about the world around you!</description>
         <link>https://majordigest.com/?utm_medium=RSS</link>
-        <lastBuildDate>Fri, 01 Sep 2023 19:15:23 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 01 Sep 2023 20:19:32 GMT</lastBuildDate>
         <generator>https://majordigest.com/?v=1.1.4</generator>
         <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/" />
         <atom:link rel="self" href="https://majordigest.com/tech/feed.xml" type="application/rss+xml" />
@@ -18,6 +18,28 @@
           <url>https://majordigest.com/assets/icons/logo-512x512.png</url>
           <link>https://majordigest.com/?utm_medium=RSS</link>
         </image>
+      <item>
+        <title>Google alleges DOJ antitrust head of &#8216;deep-seated bias&#8217;</title>
+        <description><![CDATA[Google is alleging the Department of Justice’s top antitrust official is biased against the company over his previous work for rival firms, according to a filing in one of the government’s antitrust cases against the tech giant.]]></description>
+        <guid>https://majordigest.com/tech/2023/09/01/google-alleges-doj-antitrust-head-of-deep-seated-bias/</guid>
+        <link>https://majordigest.com/tech/2023/09/01/google-alleges-doj-antitrust-head-of-deep-seated-bias/</link>
+        <pubDate>Fri, 01 Sep 2023 20:01:40 +0000</pubDate>
+        <category>tech</category>
+        <media:content medium="image" url="https://majordigest.com/tech/2023/09/01/google-alleges-doj-antitrust-head-of-deep-seated-bias/google-alleges-doj-antitrust-head-of-deep-seated-bias.webp"/>
+        <media:thumbnail url="https://majordigest.com/tech/2023/09/01/google-alleges-doj-antitrust-head-of-deep-seated-bias/google-alleges-doj-antitrust-head-of-deep-seated-bias.webp"/>
+        <dc:creator>Rebecca Klar, The Hill</dc:creator>
+      </item>
+      <item>
+        <title>The Guardian says it's blocking OpenAI from building off its content</title>
+        <description><![CDATA[The Guardian announced Friday that it will block artificial intelligence (AI) text generation program ChatGPT from accessing and using its content. AI products, such as ChatGPT, scrape content already online and use it as data to create new content via complex algorithms.]]></description>
+        <guid>https://majordigest.com/tech/2023/09/01/the-guardian-will-block-open-ai-chatgpt-from-content/</guid>
+        <link>https://majordigest.com/tech/2023/09/01/the-guardian-will-block-open-ai-chatgpt-from-content/</link>
+        <pubDate>Fri, 01 Sep 2023 19:26:15 +0000</pubDate>
+        <category>tech</category>
+        <media:content medium="image" url="https://majordigest.com/tech/2023/09/01/the-guardian-will-block-open-ai-chatgpt-from-content/the-guardian-will-block-open-ai-chatgpt-from-content.webp"/>
+        <media:thumbnail url="https://majordigest.com/tech/2023/09/01/the-guardian-will-block-open-ai-chatgpt-from-content/the-guardian-will-block-open-ai-chatgpt-from-content.webp"/>
+        <dc:creator>Nick Robertson, The Hill</dc:creator>
+      </item>
       <item>
         <title>Online marketplaces, social media platforms under fire from Congress over recalled products</title>
         <description><![CDATA[The House Energy and Commerce Committee is pressing online retailers like Meta and eBay for answers on dangerous products being sold to consumers.]]></description>
@@ -118,6 +140,17 @@
         <dc:creator>Rebecca Klar, The Hill</dc:creator>
       </item>
       <item>
+        <title>Cool new AI tools to try</title>
+        <description><![CDATA[AI is powering some amazing new tools - from kid friendly chatbots to magical apps that can animate old images and more. Here's a look at some AI-powered tools that are interesting, useful, and fun.]]></description>
+        <guid>https://majordigest.com/tech/2023/09/01/cool-new-ai-tools-to-try/</guid>
+        <link>https://majordigest.com/tech/2023/09/01/cool-new-ai-tools-to-try/</link>
+        <pubDate>Fri, 01 Sep 2023 08:00:00 +0000</pubDate>
+        <category>tech</category>
+        <media:content medium="image" url="https://majordigest.com/tech/2023/09/01/cool-new-ai-tools-to-try/cool-new-ai-tools-to-try.webp"/>
+        <media:thumbnail url="https://majordigest.com/tech/2023/09/01/cool-new-ai-tools-to-try/cool-new-ai-tools-to-try.webp"/>
+        <dc:creator>Rich DeMuro, KTLA 5</dc:creator>
+      </item>
+      <item>
         <title>Newspaper giant pauses AI experiment after readers mock bizarre sports reporting</title>
         <description><![CDATA[Newspaper publisher Gannett paused its AI experiment following backlash over awkward phrasing and errors that made it into published stories, Fox News Digital has learned.]]></description>
         <guid>https://majordigest.com/tech/2023/09/01/newspaper-giant-pauses-ai-experiment-readers-mock-bizarre-sports-reporting/</guid>
@@ -138,28 +171,6 @@
         <media:content medium="image" url="https://majordigest.com/tech/2023/09/01/trump-era-rule-change-allowing-the-logging-of-old-growth-forests-violates-laws-judge-says/trump-era-rule-change-allowing-the-logging-of-old-growth-forests-violates-laws-judge-says.webp"/>
         <media:thumbnail url="https://majordigest.com/tech/2023/09/01/trump-era-rule-change-allowing-the-logging-of-old-growth-forests-violates-laws-judge-says/trump-era-rule-change-allowing-the-logging-of-old-growth-forests-violates-laws-judge-says.webp"/>
         <dc:creator>Associated Press, KPRC 2</dc:creator>
-      </item>
-      <item>
-        <title>Man pleads guilty to threatening Georgia public officials over 2020 election</title>
-        <description><![CDATA[A Texas man pleaded guilty to threatening Georgia officials in the wake of the 2020 election, the Justice Department announced Thursday.]]></description>
-        <guid>https://majordigest.com/tech/2023/09/01/man-pleads-guilty-to-threatening-georgia-public-officials-over-2020-election/</guid>
-        <link>https://majordigest.com/tech/2023/09/01/man-pleads-guilty-to-threatening-georgia-public-officials-over-2020-election/</link>
-        <pubDate>Fri, 01 Sep 2023 02:04:59 +0000</pubDate>
-        <category>tech</category>
-        <media:content medium="image" url="https://majordigest.com/tech/2023/09/01/man-pleads-guilty-to-threatening-georgia-public-officials-over-2020-election/man-pleads-guilty-to-threatening-georgia-public-officials-over-2020-election.webp"/>
-        <media:thumbnail url="https://majordigest.com/tech/2023/09/01/man-pleads-guilty-to-threatening-georgia-public-officials-over-2020-election/man-pleads-guilty-to-threatening-georgia-public-officials-over-2020-election.webp"/>
-        <dc:creator>Tara Suter, The Hill</dc:creator>
-      </item>
-      <item>
-        <title>Judge temporarily blocks Arkansas parental social media consent law</title>
-        <description><![CDATA[A federal judge temporarily blocked an Arkansas law that requires parental consent for children to create social media accounts. District Judge Timothy L.]]></description>
-        <guid>https://majordigest.com/tech/2023/09/01/judge-temporarily-blocks-arkansas-parental-social-media-consent-law/</guid>
-        <link>https://majordigest.com/tech/2023/09/01/judge-temporarily-blocks-arkansas-parental-social-media-consent-law/</link>
-        <pubDate>Fri, 01 Sep 2023 01:22:00 +0000</pubDate>
-        <category>tech</category>
-        <media:content medium="image" url="https://majordigest.com/tech/2023/09/01/judge-temporarily-blocks-arkansas-parental-social-media-consent-law/judge-temporarily-blocks-arkansas-parental-social-media-consent-law.webp"/>
-        <media:thumbnail url="https://majordigest.com/tech/2023/09/01/judge-temporarily-blocks-arkansas-parental-social-media-consent-law/judge-temporarily-blocks-arkansas-parental-social-media-consent-law.webp"/>
-        <dc:creator>Tara Suter, The Hill</dc:creator>
       </item>
       <item>
         <title>Delta Air Lines says it has protected its planes against interference from 5G wireless signals</title>
@@ -325,17 +336,6 @@
         <media:content medium="image" url="https://majordigest.com/tech/2023/08/30/saudi-man-receives-death-penalty-for-posts-online-latest-case-in-wide-ranging-crackdown-on-dissent/saudi-man-receives-death-penalty-for-posts-online-latest-case-in-wide-ranging-crackdown-on-dissent.webp"/>
         <media:thumbnail url="https://majordigest.com/tech/2023/08/30/saudi-man-receives-death-penalty-for-posts-online-latest-case-in-wide-ranging-crackdown-on-dissent/saudi-man-receives-death-penalty-for-posts-online-latest-case-in-wide-ranging-crackdown-on-dissent.webp"/>
         <dc:creator>JON GAMBRELL, Associated Press, KRON4</dc:creator>
-      </item>
-      <item>
-        <title>Indonesia arrests 88 Chinese nationals over online romance scams</title>
-        <description><![CDATA[BATAM, Indonesia (AP) — Indonesian police said Wednesday they have arrested 88 Chinese citizens for involvement in a cross-border telephone and online romance scam syndicate after receiving a tip from the Chinese security ministry.]]></description>
-        <guid>https://majordigest.com/tech/2023/08/30/indonesia-arrests-88-chinese-nationals-in-online-romance-scams/</guid>
-        <link>https://majordigest.com/tech/2023/08/30/indonesia-arrests-88-chinese-nationals-in-online-romance-scams/</link>
-        <pubDate>Wed, 30 Aug 2023 13:21:49 +0000</pubDate>
-        <category>tech</category>
-        <media:content medium="image" url="https://majordigest.com/tech/2023/08/30/indonesia-arrests-88-chinese-nationals-in-online-romance-scams/indonesia-arrests-88-chinese-nationals-in-online-romance-scams.webp"/>
-        <media:thumbnail url="https://majordigest.com/tech/2023/08/30/indonesia-arrests-88-chinese-nationals-in-online-romance-scams/indonesia-arrests-88-chinese-nationals-in-online-romance-scams.webp"/>
-        <dc:creator>AP, KGET 17, NBC</dc:creator>
       </item>
       <item>
         <title>Indonesia arrests 88 Chinese nationals over online romance scams</title>
