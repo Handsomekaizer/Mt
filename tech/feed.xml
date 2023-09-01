@@ -7,7 +7,7 @@
         <title>Major Digest - Reliable and Comprehensive News Sources: tech</title>
         <description>Get the latest news online at Major Digest, the top online news resource for the most reliable news sources. Stay informed about the world around you!</description>
         <link>https://majordigest.com/?utm_medium=RSS</link>
-        <lastBuildDate>Fri, 01 Sep 2023 10:20:31 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 01 Sep 2023 11:16:49 GMT</lastBuildDate>
         <generator>https://majordigest.com/?v=1.1.4</generator>
         <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/" />
         <atom:link rel="self" href="https://majordigest.com/tech/feed.xml" type="application/rss+xml" />
@@ -28,6 +28,17 @@
         <media:content medium="image" url="https://majordigest.com/tech/2023/09/01/progressive-campaign-blasts-california-democrat-as-big-techs-best-friend/progressive-campaign-blasts-california-democrat-as-big-techs-best-friend.webp"/>
         <media:thumbnail url="https://majordigest.com/tech/2023/09/01/progressive-campaign-blasts-california-democrat-as-big-techs-best-friend/progressive-campaign-blasts-california-democrat-as-big-techs-best-friend.webp"/>
         <dc:creator>Rebecca Klar, The Hill</dc:creator>
+      </item>
+      <item>
+        <title>Newspaper giant pauses AI experiment after readers mock bizarre sports reporting</title>
+        <description><![CDATA[Newspaper publisher Gannett paused its AI experiment following backlash over awkward phrasing and errors that made it into published stories, Fox News Digital has learned.]]></description>
+        <guid>https://majordigest.com/tech/2023/09/01/newspaper-giant-pauses-ai-experiment-readers-mock-bizarre-sports-reporting/</guid>
+        <link>https://majordigest.com/tech/2023/09/01/newspaper-giant-pauses-ai-experiment-readers-mock-bizarre-sports-reporting/</link>
+        <pubDate>Fri, 01 Sep 2023 02:00:36 EDT</pubDate>
+        <category>tech</category>
+        <media:content medium="image" url="https://majordigest.com/tech/2023/09/01/newspaper-giant-pauses-ai-experiment-readers-mock-bizarre-sports-reporting/newspaper-giant-pauses-ai-experiment-readers-mock-bizarre-sports-reporting.webp"/>
+        <media:thumbnail url="https://majordigest.com/tech/2023/09/01/newspaper-giant-pauses-ai-experiment-readers-mock-bizarre-sports-reporting/newspaper-giant-pauses-ai-experiment-readers-mock-bizarre-sports-reporting.webp"/>
+        <dc:creator>Fox News</dc:creator>
       </item>
       <item>
         <title>Newspaper giant pauses AI experiment after readers mock bizarre sports reporting</title>
@@ -336,17 +347,6 @@
         <media:content medium="image" url="https://majordigest.com/tech/2023/08/30/2023-nissan-ariya-electric-crossover-review/2023-nissan-ariya-electric-crossover-review.webp"/>
         <media:thumbnail url="https://majordigest.com/tech/2023/08/30/2023-nissan-ariya-electric-crossover-review/2023-nissan-ariya-electric-crossover-review.webp"/>
         <dc:creator>Rich DeMuro, KTLA 5</dc:creator>
-      </item>
-      <item>
-        <title>16 Attorneys General ask SEC to audit Shein over forced labor</title>
-        <description><![CDATA["SHEIN’s growth has been built on nefarious business practices," the attorneys general wrote in a letter.]]></description>
-        <guid>https://majordigest.com/tech/2023/08/29/16-attorneys-general-sec-audit-shein-forced-labor/</guid>
-        <link>https://majordigest.com/tech/2023/08/29/16-attorneys-general-sec-audit-shein-forced-labor/</link>
-        <pubDate>Tue, 29 Aug 2023 21:59:00 +0000</pubDate>
-        <category>tech</category>
-        <media:content medium="image" url="https://majordigest.com/tech/2023/08/29/16-attorneys-general-sec-audit-shein-forced-labor/16-attorneys-general-sec-audit-shein-forced-labor.webp"/>
-        <media:thumbnail url="https://majordigest.com/tech/2023/08/29/16-attorneys-general-sec-audit-shein-forced-labor/16-attorneys-general-sec-audit-shein-forced-labor.webp"/>
-        <dc:creator>Nichole Berlie, NewsNation</dc:creator>
       </item>
       <item>
         <title>16 Attorneys General ask SEC to audit Shein over forced labor</title>

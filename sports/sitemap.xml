@@ -3,31 +3,59 @@
               xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
               xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
       <url>
+        <loc>https://majordigest.com/sports/2023/09/01/u-s-open-john-isners-17-year-career-ends-in-5-set-thriller/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-09-01T11:08:44.000Z</news:publication_date>
+          <news:title>U.S. Open: John Isner&#8217;s 17-year career ends in 5-set thriller</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/sports/2023/09/01/u-s-open-john-isners-17-year-career-ends-in-5-set-thriller/u-s-open-john-isners-17-year-career-ends-in-5-set-thriller.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
         <loc>https://majordigest.com/sports/2023/09/01/acuna-hits-grand-slam-on-wedding-night-to-become-30-hr-60-sb-player-as-braves-beat-dodgers-8-7/</loc>
         <news:news>
           <news:publication>
             <news:name>Major Digest</news:name>
             <news:language>en</news:language>
           </news:publication>
-          <news:publication_date>2023-09-01T06:34:18.000Z</news:publication_date>
-          <news:title>Acu&#241;a hits grand slam on wedding night to become 30-HR, 60-SB player as Braves beat Dodgers 8-7</news:title>
+          <news:publication_date>2023-09-01T10:58:05.000Z</news:publication_date>
+          <news:title>Braves star Ronald Acu&#241;a Jr. gets married, then hits grand slam to become 1st 30-HR, 60-SB player</news:title>
         </news:news>
         <image:image>
           <image:loc>https://majordigest.com/sports/2023/09/01/acuna-hits-grand-slam-on-wedding-night-to-become-30-hr-60-sb-player-as-braves-beat-dodgers-8-7/acuna-hits-grand-slam-on-wedding-night-to-become-30-hr-60-sb-player-as-braves-beat-dodgers-8-7.webp</image:loc>
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/sports/2023/09/01/new-local-bike-park-offers-downhill-riding-for-thrill-seekers/</loc>
+        <loc>https://majordigest.com/sports/2023/09/01/usa-basketball-survives-a-tough-test-and-rallies-to-beat-montenegro-85-73-at-the-world-cup/</loc>
         <news:news>
           <news:publication>
             <news:name>Major Digest</news:name>
             <news:language>en</news:language>
           </news:publication>
-          <news:publication_date>2023-09-01T05:55:31.000Z</news:publication_date>
-          <news:title>New local bike park offers downhill riding for thrill seekers</news:title>
+          <news:publication_date>2023-09-01T10:33:21.000Z</news:publication_date>
+          <news:title>USA Basketball survives a tough test and rallies to beat Montenegro 85-73 at the World Cup</news:title>
         </news:news>
         <image:image>
-          <image:loc>https://majordigest.com/sports/2023/09/01/new-local-bike-park-offers-downhill-riding-for-thrill-seekers/new-local-bike-park-offers-downhill-riding-for-thrill-seekers.webp</image:loc>
+          <image:loc>https://majordigest.com/sports/2023/09/01/usa-basketball-survives-a-tough-test-and-rallies-to-beat-montenegro-85-73-at-the-world-cup/usa-basketball-survives-a-tough-test-and-rallies-to-beat-montenegro-85-73-at-the-world-cup.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/sports/2023/09/01/sage-steele-opens-up-espn-exit-much-bigger-me/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-09-01T08:00:05.000Z</news:publication_date>
+          <news:title>Sage Steele opens up following ESPN exit: &#8216;This is so much bigger than me&#8217;</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/sports/2023/09/01/sage-steele-opens-up-espn-exit-much-bigger-me/sage-steele-opens-up-espn-exit-much-bigger-me.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -42,20 +70,6 @@
         </news:news>
         <image:image>
           <image:loc>https://majordigest.com/sports/2023/09/01/after-years-of-fighting-a-praying-football-coach-got-his-job-back-now-hes-unsure-he-wants-it/after-years-of-fighting-a-praying-football-coach-got-his-job-back-now-hes-unsure-he-wants-it.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/sports/2023/09/01/jannik-sinner-dominates-fellow-italian-to-advance-at-us-open/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-09-01T05:21:51.000Z</news:publication_date>
-          <news:title>John Isner heads to retirement after US Open last-set tiebreaker losses in singles and doubles</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/sports/2023/09/01/jannik-sinner-dominates-fellow-italian-to-advance-at-us-open/jannik-sinner-dominates-fellow-italian-to-advance-at-us-open.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -101,6 +115,20 @@
         </image:image>
       </url>
       <url>
+        <loc>https://majordigest.com/sports/2023/09/01/acuna-hits-grand-slam-to-become-first-player-with-30-home-runs-and-60-stolen-bases/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-09-01T03:03:10.000Z</news:publication_date>
+          <news:title>Acu&#241;a hits grand slam to become first player with 30 home runs and 60 stolen bases</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/sports/2023/09/01/acuna-hits-grand-slam-to-become-first-player-with-30-home-runs-and-60-stolen-bases/acuna-hits-grand-slam-to-become-first-player-with-30-home-runs-and-60-stolen-bases.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
         <loc>https://majordigest.com/sports/2023/09/01/north-carolina-states-ashford-taken-off-field-on-stretcher-in-opener-at-uconn/</loc>
         <news:news>
           <news:publication>
@@ -112,62 +140,6 @@
         </news:news>
         <image:image>
           <image:loc>https://majordigest.com/sports/2023/09/01/north-carolina-states-ashford-taken-off-field-on-stretcher-in-opener-at-uconn/north-carolina-states-ashford-taken-off-field-on-stretcher-in-opener-at-uconn.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/sports/2023/09/01/espn-networks-go-dark-on-charter-spectrum-cable-systems-on-busy-night-for-sports/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-09-01T01:59:25.000Z</news:publication_date>
-          <news:title>ESPN networks go dark on Charter Spectrum cable systems on busy night for sports</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/sports/2023/09/01/espn-networks-go-dark-on-charter-spectrum-cable-systems-on-busy-night-for-sports/espn-networks-go-dark-on-charter-spectrum-cable-systems-on-busy-night-for-sports.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/sports/2023/09/01/perrine-delacour-shoots-63-at-rainy-columbia-edgewater-to-take-portland-classic-lead/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-09-01T01:49:37.000Z</news:publication_date>
-          <news:title>Perrine Delacour shoots 63 at rainy Columbia Edgewater to take Portland Classic lead</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/sports/2023/09/01/perrine-delacour-shoots-63-at-rainy-columbia-edgewater-to-take-portland-classic-lead/perrine-delacour-shoots-63-at-rainy-columbia-edgewater-to-take-portland-classic-lead.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/sports/2023/09/01/sf-giants-when-kyle-harrison-will-make-his-next-start-brandon-crawford-update/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-09-01T01:44:23.000Z</news:publication_date>
-          <news:title>SF Giants: When Kyle Harrison will make his next start; Brandon Crawford update</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/sports/2023/09/01/sf-giants-when-kyle-harrison-will-make-his-next-start-brandon-crawford-update/sf-giants-when-kyle-harrison-will-make-his-next-start-brandon-crawford-update.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/sports/2023/09/01/odell-beckham-jr-salutes-giants-rookie-sent-fans-frenzy-choosing-veterans-old-jersey-number/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-09-01T01:30:56.000Z</news:publication_date>
-          <news:title>Odell Beckham Jr. salutes Giants rookie who sent fans into frenzy for choosing veteran's old jersey number</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/sports/2023/09/01/odell-beckham-jr-salutes-giants-rookie-sent-fans-frenzy-choosing-veterans-old-jersey-number/odell-beckham-jr-salutes-giants-rookie-sent-fans-frenzy-choosing-veterans-old-jersey-number.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -241,20 +213,6 @@
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/sports/2023/08/31/baker-and-emily-mayfield-foundation-raises-100000-at-first-event-in-tampa/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-31T23:09:23.000Z</news:publication_date>
-          <news:title>Baker and Emily Mayfield Foundation raises over $100K at first event&#160;in Tampa</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/sports/2023/08/31/baker-and-emily-mayfield-foundation-raises-100000-at-first-event-in-tampa/baker-and-emily-mayfield-foundation-raises-100000-at-first-event-in-tampa.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
         <loc>https://majordigest.com/sports/2023/08/31/sf-giants-miss-out-on-waivers-extravaganza-but-its-not-all-bad-news/</loc>
         <news:news>
           <news:publication>
@@ -269,17 +227,31 @@
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/sports/2023/08/31/white-sox-owner-jerry-reinsdorf-says-he-doesnt-see-how-shooting-could-have-occurred-in-ballpark/</loc>
+        <loc>https://majordigest.com/sports/2023/08/31/its-a-lot-of-great-energy-buccaneers-finalize-young-roster-for-2023-season/</loc>
         <news:news>
           <news:publication>
             <news:name>Major Digest</news:name>
             <news:language>en</news:language>
           </news:publication>
-          <news:publication_date>2023-08-31T20:49:19.000Z</news:publication_date>
-          <news:title>White Sox owner Jerry Reinsdorf says he doesn't see how shooting could have occurred in ballpark</news:title>
+          <news:publication_date>2023-08-31T21:32:01.000Z</news:publication_date>
+          <news:title>'It's a lot of great energy': Buccaneers finalize young roster for 2023 season</news:title>
         </news:news>
         <image:image>
-          <image:loc>https://majordigest.com/sports/2023/08/31/white-sox-owner-jerry-reinsdorf-says-he-doesnt-see-how-shooting-could-have-occurred-in-ballpark/white-sox-owner-jerry-reinsdorf-says-he-doesnt-see-how-shooting-could-have-occurred-in-ballpark.webp</image:loc>
+          <image:loc>https://majordigest.com/sports/2023/08/31/its-a-lot-of-great-energy-buccaneers-finalize-young-roster-for-2023-season/its-a-lot-of-great-energy-buccaneers-finalize-young-roster-for-2023-season.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/sports/2023/08/31/with-acc-leaders-set-to-take-up-stanford-cal-smu-expansion-2-unc-trustees-announce-opposition/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-31T21:18:42.000Z</news:publication_date>
+          <news:title>With ACC leaders set to take up Stanford, Cal, SMU expansion, 2 UNC trustees announce opposition</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/sports/2023/08/31/with-acc-leaders-set-to-take-up-stanford-cal-smu-expansion-2-unc-trustees-announce-opposition/with-acc-leaders-set-to-take-up-stanford-cal-smu-expansion-2-unc-trustees-announce-opposition.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -297,34 +269,6 @@
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/sports/2023/08/31/sauce-gardner-voted-top-nfl-cornerback/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-31T19:05:13.000Z</news:publication_date>
-          <news:title>Sauce Gardner voted top NFL cornerback&#160;</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/sports/2023/08/31/sauce-gardner-voted-top-nfl-cornerback/sauce-gardner-voted-top-nfl-cornerback.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/sports/2023/08/31/illnesses-after-tough-mudder-race-in-sonoma-county-grows-to-300-officials-estimate/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-31T18:18:34.000Z</news:publication_date>
-          <news:title>People reporting illnesses after Tough Mudder race in Sonoma County grows to 300, officials estimate</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/sports/2023/08/31/illnesses-after-tough-mudder-race-in-sonoma-county-grows-to-300-officials-estimate/illnesses-after-tough-mudder-race-in-sonoma-county-grows-to-300-officials-estimate.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
         <loc>https://majordigest.com/sports/2023/08/31/its-tradition-utah-tailgaters-begin-gameday-at-the-crack-of-dawn/</loc>
         <news:news>
           <news:publication>
@@ -336,6 +280,34 @@
         </news:news>
         <image:image>
           <image:loc>https://majordigest.com/sports/2023/08/31/its-tradition-utah-tailgaters-begin-gameday-at-the-crack-of-dawn/its-tradition-utah-tailgaters-begin-gameday-at-the-crack-of-dawn.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/sports/2023/08/31/want-to-see-lionel-messi-play-in-l-a-heres-how-much-tickets-cost/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-31T17:06:54.000Z</news:publication_date>
+          <news:title>Want to see Lionel Messi play in L.A.? Here's how much tickets cost</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/sports/2023/08/31/want-to-see-lionel-messi-play-in-l-a-heres-how-much-tickets-cost/want-to-see-lionel-messi-play-in-l-a-heres-how-much-tickets-cost.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/sports/2023/08/31/nebraska-volleyball-stadium-event-draws-92003-to-set-womens-world-attendance-record/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-31T15:33:47.000Z</news:publication_date>
+          <news:title>Nebraska volleyball stadium event draws 92,003 to set women's world attendance record</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/sports/2023/08/31/nebraska-volleyball-stadium-event-draws-92003-to-set-womens-world-attendance-record/nebraska-volleyball-stadium-event-draws-92003-to-set-womens-world-attendance-record.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -367,20 +339,6 @@
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/sports/2023/08/30/see-the-bears-latest-roster-moves-including-practice-squad/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-30T23:02:32.000Z</news:publication_date>
-          <news:title>See the Bears' latest roster moves, including practice squad</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/sports/2023/08/30/see-the-bears-latest-roster-moves-including-practice-squad/see-the-bears-latest-roster-moves-including-practice-squad.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
         <loc>https://majordigest.com/sports/2023/08/30/cmu-football-is-ready-for-battle/</loc>
         <news:news>
           <news:publication>
@@ -406,6 +364,20 @@
         </news:news>
         <image:image>
           <image:loc>https://majordigest.com/sports/2023/08/30/garza-resigns-at-nevada-is-fresno-city-next/garza-resigns-at-nevada-is-fresno-city-next.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/sports/2023/08/30/giants-pitcher-alex-cobb-comes-one-out-away-from-no-hitter/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-30T04:09:28.000Z</news:publication_date>
+          <news:title>Giants pitcher Alex Cobb comes one out away from no-hitter</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/sports/2023/08/30/giants-pitcher-alex-cobb-comes-one-out-away-from-no-hitter/giants-pitcher-alex-cobb-comes-one-out-away-from-no-hitter.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -451,6 +423,20 @@
         </image:image>
       </url>
       <url>
+        <loc>https://majordigest.com/sports/2023/08/29/tedford-talks-about-mikey-keene-as-qb1/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-29T01:56:38.000Z</news:publication_date>
+          <news:title>Tedford talks about Mikey Keene as QB1</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/sports/2023/08/29/tedford-talks-about-mikey-keene-as-qb1/tedford-talks-about-mikey-keene-as-qb1.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
         <loc>https://majordigest.com/sports/2023/08/29/holiday-bowl-brings-back-iconic-san-diego-fireworks-show-for-second-year/</loc>
         <news:news>
           <news:publication>
@@ -479,17 +465,31 @@
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/sports/2023/08/28/escondido-basketball-player-becomes-viral-tiktok-sensation/</loc>
+        <loc>https://majordigest.com/sports/2023/08/28/pat-corrales-1941-2023/</loc>
         <news:news>
           <news:publication>
             <news:name>Major Digest</news:name>
             <news:language>en</news:language>
           </news:publication>
-          <news:publication_date>2023-08-28T15:37:09.000Z</news:publication_date>
-          <news:title>Escondido basketball player becomes viral TikTok sensation&#160;</news:title>
+          <news:publication_date>2023-08-28T22:49:30.000Z</news:publication_date>
+          <news:title>Pat Corrales (1941-2023)</news:title>
         </news:news>
         <image:image>
-          <image:loc>https://majordigest.com/sports/2023/08/28/escondido-basketball-player-becomes-viral-tiktok-sensation/escondido-basketball-player-becomes-viral-tiktok-sensation.webp</image:loc>
+          <image:loc>https://majordigest.com/sports/2023/08/28/pat-corrales-1941-2023/pat-corrales-1941-2023.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/sports/2023/08/28/fight-at-in-n-out-after-chargers-49ers-game-leads-to-stabbing/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-28T18:21:13.000Z</news:publication_date>
+          <news:title>Fight at In-N-Out after Chargers-49ers game leads to stabbing</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/sports/2023/08/28/fight-at-in-n-out-after-chargers-49ers-game-leads-to-stabbing/fight-at-in-n-out-after-chargers-49ers-game-leads-to-stabbing.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -507,16 +507,16 @@
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/sports/2023/08/25/49ers-to-trade-qb-trey-lance-to-cowboys-reports/</loc>
+        <loc>https://majordigest.com/sports/2023/08/28/local-sports-teams-react-to-el-segundo-winning-little-league-world-series/</loc>
         <news:news>
           <news:publication>
             <news:name>Major Digest</news:name>
             <news:language>en</news:language>
           </news:publication>
-          <news:publication_date>2023-08-25T23:36:11.000Z</news:publication_date>
-          <news:title>49ers to trade QB Trey Lance to Cowboys: reports</news:title>
+          <news:publication_date>2023-08-28T01:41:48.000Z</news:publication_date>
+          <news:title>Local sports teams react to El Segundo winning Little League World Series</news:title>
         </news:news>
         <image:image>
-          <image:loc>https://majordigest.com/sports/2023/08/25/49ers-to-trade-qb-trey-lance-to-cowboys-reports/49ers-to-trade-qb-trey-lance-to-cowboys-reports.webp</image:loc>
+          <image:loc>https://majordigest.com/sports/2023/08/28/local-sports-teams-react-to-el-segundo-winning-little-league-world-series/local-sports-teams-react-to-el-segundo-winning-little-league-world-series.webp</image:loc>
         </image:image>
       </url></urlset>

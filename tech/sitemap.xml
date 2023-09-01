@@ -31,6 +31,20 @@
         </image:image>
       </url>
       <url>
+        <loc>https://majordigest.com/tech/2023/09/01/newspaper-giant-pauses-ai-experiment-readers-mock-bizarre-sports-reporting/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-09-01T06:00:36.000Z</news:publication_date>
+          <news:title>Newspaper giant pauses AI experiment after readers mock bizarre sports reporting</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/tech/2023/09/01/newspaper-giant-pauses-ai-experiment-readers-mock-bizarre-sports-reporting/newspaper-giant-pauses-ai-experiment-readers-mock-bizarre-sports-reporting.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
         <loc>https://majordigest.com/tech/2023/09/01/trump-era-rule-change-allowing-the-logging-of-old-growth-forests-violates-laws-judge-says/</loc>
         <news:news>
           <news:publication>
@@ -406,20 +420,6 @@
         </news:news>
         <image:image>
           <image:loc>https://majordigest.com/tech/2023/08/30/2023-nissan-ariya-electric-crossover-review/2023-nissan-ariya-electric-crossover-review.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/tech/2023/08/29/16-attorneys-general-sec-audit-shein-forced-labor/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-29T21:59:00.000Z</news:publication_date>
-          <news:title>16 Attorneys General ask SEC to audit Shein over forced labor</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/tech/2023/08/29/16-attorneys-general-sec-audit-shein-forced-labor/16-attorneys-general-sec-audit-shein-forced-labor.webp</image:loc>
         </image:image>
       </url>
       <url>
