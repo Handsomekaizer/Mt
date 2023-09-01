@@ -3,6 +3,34 @@
               xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
               xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
       <url>
+        <loc>https://majordigest.com/world/2023/09/01/emergency-services-leave-south-africa-fire-scene-now-comes-the-grisly-task-of-identifying-bodies/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-09-01T17:32:59.000Z</news:publication_date>
+          <news:title>Death toll from Johannesburg fire rises to 76 as city turns to tough job of identifying victims</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/world/2023/09/01/emergency-services-leave-south-africa-fire-scene-now-comes-the-grisly-task-of-identifying-bodies/emergency-services-leave-south-africa-fire-scene-now-comes-the-grisly-task-of-identifying-bodies.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/world/2023/09/01/gabons-opposition-candidate-alleges-the-ousted-presidents-family-is-behind-a-plot-to-retain-power/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-09-01T17:22:14.000Z</news:publication_date>
+          <news:title>Gabon opposition leader alleges the ousted president's family arranged the coup to retain power</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/world/2023/09/01/gabons-opposition-candidate-alleges-the-ousted-presidents-family-is-behind-a-plot-to-retain-power/gabons-opposition-candidate-alleges-the-ousted-presidents-family-is-behind-a-plot-to-retain-power.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
         <loc>https://majordigest.com/world/2023/09/01/over-2000-russian-troops-take-part-military-exercises-belarus-near-borders-nato-countries/</loc>
         <news:news>
           <news:publication>
@@ -45,20 +73,6 @@
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/world/2023/09/01/nazi-ties-halt-christies-auction-of-late-austrian-billionaires-jewels/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-09-01T16:41:05.000Z</news:publication_date>
-          <news:title>Nazi ties halt Christie's auction of late Austrian billionaire's jewels</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/world/2023/09/01/nazi-ties-halt-christies-auction-of-late-austrian-billionaires-jewels/nazi-ties-halt-christies-auction-of-late-austrian-billionaires-jewels.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
         <loc>https://majordigest.com/world/2023/09/01/wagner-group-flag-seen-flying-prigozhin-crash-site-russia/</loc>
         <news:news>
           <news:publication>
@@ -70,6 +84,20 @@
         </news:news>
         <image:image>
           <image:loc>https://majordigest.com/world/2023/09/01/wagner-group-flag-seen-flying-prigozhin-crash-site-russia/wagner-group-flag-seen-flying-prigozhin-crash-site-russia.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/world/2023/09/01/russia-reports-more-drone-attacks-as-satellite-photos-indicate-earlier-barrage-destroyed-2-aircraft/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-09-01T16:30:11.000Z</news:publication_date>
+          <news:title>Russia's Putin and Turkey's Erdogan set to meet amid efforts to repair Ukraine grain deal</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/world/2023/09/01/russia-reports-more-drone-attacks-as-satellite-photos-indicate-earlier-barrage-destroyed-2-aircraft/russia-reports-more-drone-attacks-as-satellite-photos-indicate-earlier-barrage-destroyed-2-aircraft.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -101,20 +129,6 @@
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/world/2023/09/01/thailands-king-reduces-prison-sentence-former-prime-minister-thaksin-shinawatra-single-year/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-09-01T16:07:21.000Z</news:publication_date>
-          <news:title>Thailand's king reduces prison sentence of former Prime Minister Thaksin Shinawatra to a single year</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/world/2023/09/01/thailands-king-reduces-prison-sentence-former-prime-minister-thaksin-shinawatra-single-year/thailands-king-reduces-prison-sentence-former-prime-minister-thaksin-shinawatra-single-year.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
         <loc>https://majordigest.com/world/2023/09/01/emergency-services-now-begin-identifying-remains-south-african-fire-left-least-74-dead/</loc>
         <news:news>
           <news:publication>
@@ -129,17 +143,17 @@
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/world/2023/09/01/hong-kong-and-parts-of-southern-china-grind-to-near-standstill-as-super-typhoon-saola-edges-closer/</loc>
+        <loc>https://majordigest.com/world/2023/09/01/swedens-nobel-reverses-invitation-policy-russia-belarus-iran-and-far-right-leader-are-welcome/</loc>
         <news:news>
           <news:publication>
             <news:name>Major Digest</news:name>
             <news:language>en</news:language>
           </news:publication>
-          <news:publication_date>2023-09-01T15:49:31.000Z</news:publication_date>
-          <news:title>Hong Kong, other parts of south China grind to near standstill as powerful Typhoon Saola approaches</news:title>
+          <news:publication_date>2023-09-01T15:37:29.000Z</news:publication_date>
+          <news:title>Anger in Sweden as Nobel Prize organizers invite Russia and Belarus to the award ceremonies</news:title>
         </news:news>
         <image:image>
-          <image:loc>https://majordigest.com/world/2023/09/01/hong-kong-and-parts-of-southern-china-grind-to-near-standstill-as-super-typhoon-saola-edges-closer/hong-kong-and-parts-of-southern-china-grind-to-near-standstill-as-super-typhoon-saola-edges-closer.webp</image:loc>
+          <image:loc>https://majordigest.com/world/2023/09/01/swedens-nobel-reverses-invitation-policy-russia-belarus-iran-and-far-right-leader-are-welcome/swedens-nobel-reverses-invitation-policy-russia-belarus-iran-and-far-right-leader-are-welcome.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -191,7 +205,7 @@
             <news:name>Major Digest</news:name>
             <news:language>en</news:language>
           </news:publication>
-          <news:publication_date>2023-09-01T14:44:02.000Z</news:publication_date>
+          <news:publication_date>2023-09-01T14:44:00.000Z</news:publication_date>
           <news:title>It's joy mixed with sorrow as Ukrainian children go back to school in the midst of war</news:title>
         </news:news>
         <image:image>
@@ -213,20 +227,6 @@
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/world/2023/09/01/indias-opposition-parties-join-hands-to-challenge-modis-hindu-nationalist-party-in-2024-elections/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-09-01T13:47:38.000Z</news:publication_date>
-          <news:title>India's opposition parties team up to challenge Modi's Hindu nationalist party in 2024 elections</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/world/2023/09/01/indias-opposition-parties-join-hands-to-challenge-modis-hindu-nationalist-party-in-2024-elections/indias-opposition-parties-join-hands-to-challenge-modis-hindu-nationalist-party-in-2024-elections.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
         <loc>https://majordigest.com/world/2023/09/01/ukraine-has-developed-long-range-weapon-zelensky-says/</loc>
         <news:news>
           <news:publication>
@@ -238,20 +238,6 @@
         </news:news>
         <image:image>
           <image:loc>https://majordigest.com/world/2023/09/01/ukraine-has-developed-long-range-weapon-zelensky-says/ukraine-has-developed-long-range-weapon-zelensky-says.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/world/2023/09/01/indias-opposition-parties-team-up-to-challenge-modis-hindu-nationalist-party-in-2024-elections/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-09-01T12:25:00.000Z</news:publication_date>
-          <news:title>India's opposition parties team up to challenge Modi's Hindu nationalist party in 2024 elections</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/world/2023/09/01/indias-opposition-parties-team-up-to-challenge-modis-hindu-nationalist-party-in-2024-elections/indias-opposition-parties-team-up-to-challenge-modis-hindu-nationalist-party-in-2024-elections.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -297,6 +283,48 @@
         </image:image>
       </url>
       <url>
+        <loc>https://majordigest.com/world/2023/08/31/china-xi-jinping-reportedly-skip-g20-summit-biden/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-31T23:21:17.000Z</news:publication_date>
+          <news:title>China's Xi set to snub G20, dashing chance of Biden meeting: reports</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/world/2023/08/31/china-xi-jinping-reportedly-skip-g20-summit-biden/china-xi-jinping-reportedly-skip-g20-summit-biden.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/world/2023/08/31/china-xi-jinping-reportedly-skip-g20-summit-biden/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-31T23:21:17.000Z</news:publication_date>
+          <news:title>China's Xi set to snub G20, dashing chance of Biden meeting: reports</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/world/2023/08/31/china-xi-jinping-reportedly-skip-g20-summit-biden/china-xi-jinping-reportedly-skip-g20-summit-biden.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/world/2023/08/31/gabon-military-officers-say-theyre-seizing-power-just-days-after-the-presidential-election/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-31T04:52:39.000Z</news:publication_date>
+          <news:title>Mutineers in Gabon appoint a military leader after detaining the president, alleging corruption</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/world/2023/08/31/gabon-military-officers-say-theyre-seizing-power-just-days-after-the-presidential-election/gabon-military-officers-say-theyre-seizing-power-just-days-after-the-presidential-election.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
         <loc>https://majordigest.com/world/2023/08/31/gabon-military-officers-say-theyre-seizing-power-just-days-after-the-presidential-election/</loc>
         <news:news>
           <news:publication>
@@ -339,34 +367,6 @@
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/world/2023/08/30/canada-warns-residents-visiting-us-about-anti-lgbtq-laws/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-30T19:45:11.000Z</news:publication_date>
-          <news:title>Canada warns residents visiting US about anti-LGBTQ laws</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/world/2023/08/30/canada-warns-residents-visiting-us-about-anti-lgbtq-laws/canada-warns-residents-visiting-us-about-anti-lgbtq-laws.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/world/2023/08/30/japanese-ministers-eat-fukushima-fish-to-show-its-safe-after-nuclear-plant-wastewater-is-discharged/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-30T18:26:11.000Z</news:publication_date>
-          <news:title>Japanese ministers eat Fukushima fish to show it's safe after nuclear plant wastewater is discharged</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/world/2023/08/30/japanese-ministers-eat-fukushima-fish-to-show-its-safe-after-nuclear-plant-wastewater-is-discharged/japanese-ministers-eat-fukushima-fish-to-show-its-safe-after-nuclear-plant-wastewater-is-discharged.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
         <loc>https://majordigest.com/world/2023/08/30/japanese-ministers-eat-fukushima-fish-to-show-its-safe-after-nuclear-plant-wastewater-is-discharged/</loc>
         <news:news>
           <news:publication>
@@ -392,20 +392,6 @@
         </news:news>
         <image:image>
           <image:loc>https://majordigest.com/world/2023/08/30/white-house-says-putin-and-kim-jong-un-traded-letters-as-russia-looks-for-munitions-from-north-korea/white-house-says-putin-and-kim-jong-un-traded-letters-as-russia-looks-for-munitions-from-north-korea.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/world/2023/08/29/the-kremlin-says-putin-is-not-planning-to-attend-wagner-chief-prigozhins-burial/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-29T20:48:57.000Z</news:publication_date>
-          <news:title>Russian mercenary boss Yevgeny Prigozhin is buried in private, ending his tumultuous journey</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/world/2023/08/29/the-kremlin-says-putin-is-not-planning-to-attend-wagner-chief-prigozhins-burial/the-kremlin-says-putin-is-not-planning-to-attend-wagner-chief-prigozhins-burial.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -490,6 +476,20 @@
         </news:news>
         <image:image>
           <image:loc>https://majordigest.com/world/2023/08/28/british-bog-snorkeling-championships-contenders-race-through-slime/british-bog-snorkeling-championships-contenders-race-through-slime.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/world/2023/08/28/virginia-man-stolen-at-birth-meets-chilean-family-for-first-time/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-28T19:50:29.000Z</news:publication_date>
+          <news:title>Virginia man stolen at birth meets Chilean family for first time</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/world/2023/08/28/virginia-man-stolen-at-birth-meets-chilean-family-for-first-time/virginia-man-stolen-at-birth-meets-chilean-family-for-first-time.webp</image:loc>
         </image:image>
       </url>
       <url>
