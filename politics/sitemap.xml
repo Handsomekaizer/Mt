@@ -3,6 +3,62 @@
               xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
               xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
       <url>
+        <loc>https://majordigest.com/politics/2023/09/01/sound-of-freedom-director-labels-dangerous/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-09-01T19:00:28.000Z</news:publication_date>
+          <news:title>'Sound of Freedom' director: Labels are 'very dangerous'</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/politics/2023/09/01/sound-of-freedom-director-labels-dangerous/sound-of-freedom-director-labels-dangerous.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/politics/2023/09/01/new-book-inside-biden-presidency/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-09-01T18:34:21.000Z</news:publication_date>
+          <news:title>New book goes inside the Biden presidency</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/politics/2023/09/01/new-book-inside-biden-presidency/new-book-inside-biden-presidency.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/politics/2023/09/01/new-hampshire-democrats-defy-biden-dnc-ultimatum-ditch-first-in-nation-primary/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-09-01T18:23:34.000Z</news:publication_date>
+          <news:title>New Hampshire Democrats defy Biden, DNC ultimatum to ditch first-in-nation primary: 'embarrassing situation'</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/politics/2023/09/01/new-hampshire-democrats-defy-biden-dnc-ultimatum-ditch-first-in-nation-primary/new-hampshire-democrats-defy-biden-dnc-ultimatum-ditch-first-in-nation-primary.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/politics/2023/09/01/judge-strikes-down-texas-law-requiring-pornographic-sites-verify-user-age/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-09-01T18:21:02.000Z</news:publication_date>
+          <news:title>Judge strikes down Texas law requiring pornographic sites to verify user age</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/politics/2023/09/01/judge-strikes-down-texas-law-requiring-pornographic-sites-verify-user-age/judge-strikes-down-texas-law-requiring-pornographic-sites-verify-user-age.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
         <loc>https://majordigest.com/politics/2023/09/01/dhs-to-launch-national-campaign-migrants-work-permits-new-york-help/</loc>
         <news:news>
           <news:publication>
@@ -115,31 +171,17 @@
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/politics/2023/09/01/top-oversight-democrat-comer-subpoena-jared-kushner/</loc>
+        <loc>https://majordigest.com/politics/2023/09/01/biden-wants-an-extra-4-billion-for-disaster-relief-bringing-total-request-to-16-billion/</loc>
         <news:news>
           <news:publication>
             <news:name>Major Digest</news:name>
             <news:language>en</news:language>
           </news:publication>
-          <news:publication_date>2023-09-01T14:30:23.000Z</news:publication_date>
-          <news:title>Top Oversight Democrat urges Comer, Republicans to subpoena Trump's son-in-law Jared Kushner</news:title>
+          <news:publication_date>2023-09-01T13:37:21.000Z</news:publication_date>
+          <news:title>Biden wants an extra $4 billion for disaster relief, bringing the total request to $16 billion</news:title>
         </news:news>
         <image:image>
-          <image:loc>https://majordigest.com/politics/2023/09/01/top-oversight-democrat-comer-subpoena-jared-kushner/top-oversight-democrat-comer-subpoena-jared-kushner.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/politics/2023/09/01/farmers-ranchers-landowners-take-aim-biden-admin-latest-crackdown/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-09-01T13:00:46.000Z</news:publication_date>
-          <news:title>Farmers, ranchers, landowners take aim at Biden admin for latest crackdown</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/politics/2023/09/01/farmers-ranchers-landowners-take-aim-biden-admin-latest-crackdown/farmers-ranchers-landowners-take-aim-biden-admin-latest-crackdown.webp</image:loc>
+          <image:loc>https://majordigest.com/politics/2023/09/01/biden-wants-an-extra-4-billion-for-disaster-relief-bringing-total-request-to-16-billion/biden-wants-an-extra-4-billion-for-disaster-relief-bringing-total-request-to-16-billion.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -154,6 +196,20 @@
         </news:news>
         <image:image>
           <image:loc>https://majordigest.com/politics/2023/09/01/u-s-employers-jobs-labor-market/u-s-employers-jobs-labor-market.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/politics/2023/09/01/government-shutdown-2023-schumer/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-09-01T12:53:21.000Z</news:publication_date>
+          <news:title>Schumer moves to split House and Senate Republicans ahead of potential shutdown</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/politics/2023/09/01/government-shutdown-2023-schumer/government-shutdown-2023-schumer.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -213,31 +269,31 @@
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/politics/2023/09/01/npr-georgia-trump-election-case-legal-complexities/</loc>
+        <loc>https://majordigest.com/politics/2023/09/01/npr-canada-issues-travel-advisory-warning-over-u-s-states-lgbtq-laws/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-09-01T09:06:00.000Z</news:publication_date>
+          <news:title>Canada issues travel advisory warning over U.S. states' LGBTQ+ laws</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/politics/2023/09/01/npr-canada-issues-travel-advisory-warning-over-u-s-states-lgbtq-laws/npr-canada-issues-travel-advisory-warning-over-u-s-states-lgbtq-laws.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/politics/2023/09/01/capitol-area-facelift-looms-with-remodeling-demolition-in-store/</loc>
         <news:news>
           <news:publication>
             <news:name>Major Digest</news:name>
             <news:language>en</news:language>
           </news:publication>
           <news:publication_date>2023-09-01T09:00:00.000Z</news:publication_date>
-          <news:title>In the Trump Georgia case, conflicting legal strategies complicate the path to trial</news:title>
+          <news:title>Capitol area facelift looms with remodeling, demolition in store</news:title>
         </news:news>
         <image:image>
-          <image:loc>https://majordigest.com/politics/2023/09/01/npr-georgia-trump-election-case-legal-complexities/npr-georgia-trump-election-case-legal-complexities.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/politics/2023/09/01/putin-oligarch-sanctions-petr-aven/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-09-01T08:30:00.000Z</news:publication_date>
-          <news:title>How a high-powered lobbying firm worked to shield a Putin-tied oligarch from sanctions</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/politics/2023/09/01/putin-oligarch-sanctions-petr-aven/putin-oligarch-sanctions-petr-aven.webp</image:loc>
+          <image:loc>https://majordigest.com/politics/2023/09/01/capitol-area-facelift-looms-with-remodeling-demolition-in-store/capitol-area-facelift-looms-with-remodeling-demolition-in-store.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -252,20 +308,6 @@
         </news:news>
         <image:image>
           <image:loc>https://majordigest.com/politics/2023/09/01/the-nations-cartoonists-on-the-week-in-politics/the-nations-cartoonists-on-the-week-in-politics.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/politics/2023/09/01/after-years-of-fighting-a-praying-football-coach-got-his-job-back-now-hes-unsure-he-wants-it/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-09-01T05:32:36.000Z</news:publication_date>
-          <news:title>After years of fighting, a praying football coach got his job back. Now he's unsure he wants it</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/politics/2023/09/01/after-years-of-fighting-a-praying-football-coach-got-his-job-back-now-hes-unsure-he-wants-it/after-years-of-fighting-a-praying-football-coach-got-his-job-back-now-hes-unsure-he-wants-it.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -297,59 +339,17 @@
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/politics/2023/09/01/conservative-dad-brews-woke-free-beer/</loc>
+        <loc>https://majordigest.com/politics/2023/08/31/federal-judge-bars-texas-from-enforcing-book-rating-law/</loc>
         <news:news>
           <news:publication>
             <news:name>Major Digest</news:name>
             <news:language>en</news:language>
           </news:publication>
-          <news:publication_date>2023-09-01T02:54:54.000Z</news:publication_date>
-          <news:title>Conservative dad brews 'woke-free' beer&#160;</news:title>
+          <news:publication_date>2023-08-31T22:13:47.000Z</news:publication_date>
+          <news:title>Federal judge bars Texas from enforcing book rating law</news:title>
         </news:news>
         <image:image>
-          <image:loc>https://majordigest.com/politics/2023/09/01/conservative-dad-brews-woke-free-beer/conservative-dad-brews-woke-free-beer.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/politics/2023/09/01/justice-thomas-reports-he-took-3-trips-on-republican-donors-plane-last-year/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-09-01T02:32:26.000Z</news:publication_date>
-          <news:title>Justice Clarence Thomas reports he took 3 trips on Republican donor's plane last year</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/politics/2023/09/01/justice-thomas-reports-he-took-3-trips-on-republican-donors-plane-last-year/justice-thomas-reports-he-took-3-trips-on-republican-donors-plane-last-year.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/politics/2023/09/01/one-on-one-gop-presidential-candidate-will-hurd/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-09-01T01:02:47.000Z</news:publication_date>
-          <news:title>One-on-one with GOP presidential candidate Will Hurd</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/politics/2023/09/01/one-on-one-gop-presidential-candidate-will-hurd/one-on-one-gop-presidential-candidate-will-hurd.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/politics/2023/09/01/republican-files-ethics-complaint-against-democratic-lawmaker-over-funding-vote/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-09-01T00:35:55.000Z</news:publication_date>
-          <news:title>Republican files ethics complaint against Democratic lawmaker over funding vote</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/politics/2023/09/01/republican-files-ethics-complaint-against-democratic-lawmaker-over-funding-vote/republican-files-ethics-complaint-against-democratic-lawmaker-over-funding-vote.webp</image:loc>
+          <image:loc>https://majordigest.com/politics/2023/08/31/federal-judge-bars-texas-from-enforcing-book-rating-law/federal-judge-bars-texas-from-enforcing-book-rating-law.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -367,31 +367,17 @@
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/politics/2023/08/31/biden-says-he-has-no-concerns-about-mcconnells-health-after-speaking-to-him/</loc>
+        <loc>https://majordigest.com/politics/2023/08/31/minnesota-thc-beverage-company-cofounder-sees-black-ownership-in-the-marijuana-business/</loc>
         <news:news>
           <news:publication>
             <news:name>Major Digest</news:name>
             <news:language>en</news:language>
           </news:publication>
-          <news:publication_date>2023-08-31T18:34:35.000Z</news:publication_date>
-          <news:title>Biden says he has no concerns about McConnell's health after speaking to him</news:title>
+          <news:publication_date>2023-08-31T16:58:00.000Z</news:publication_date>
+          <news:title>Minnesota THC beverage company co-founder sees Black ownership in the marijuana business as social justice issue </news:title>
         </news:news>
         <image:image>
-          <image:loc>https://majordigest.com/politics/2023/08/31/biden-says-he-has-no-concerns-about-mcconnells-health-after-speaking-to-him/biden-says-he-has-no-concerns-about-mcconnells-health-after-speaking-to-him.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/politics/2023/08/31/capitol-physician-mcconnell-medically-clear-to-continue-schedule-after-freeze-up/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-31T18:33:14.000Z</news:publication_date>
-          <news:title>McConnell 'medically clear,' says Capitol doctor&#160;</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/politics/2023/08/31/capitol-physician-mcconnell-medically-clear-to-continue-schedule-after-freeze-up/capitol-physician-mcconnell-medically-clear-to-continue-schedule-after-freeze-up.webp</image:loc>
+          <image:loc>https://majordigest.com/politics/2023/08/31/minnesota-thc-beverage-company-cofounder-sees-black-ownership-in-the-marijuana-business/minnesota-thc-beverage-company-cofounder-sees-black-ownership-in-the-marijuana-business.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -423,17 +409,17 @@
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/politics/2023/08/30/hurricane-idalia-slams-florida-as-biden-rallies-fema-support/</loc>
+        <loc>https://majordigest.com/politics/2023/08/30/hurricane-idalia-causes-100-year-old-oak-tree-to-split-fall-on-gov-desantis-mansion/</loc>
         <news:news>
           <news:publication>
             <news:name>Major Digest</news:name>
             <news:language>en</news:language>
           </news:publication>
-          <news:publication_date>2023-08-30T23:13:56.000Z</news:publication_date>
-          <news:title>Hurricane Idalia slams Florida as Biden rallies FEMA support</news:title>
+          <news:publication_date>2023-08-30T18:25:42.000Z</news:publication_date>
+          <news:title>Hurricane Idalia causes 100-year-old oak tree to split, fall on Gov. DeSantis' mansion</news:title>
         </news:news>
         <image:image>
-          <image:loc>https://majordigest.com/politics/2023/08/30/hurricane-idalia-slams-florida-as-biden-rallies-fema-support/hurricane-idalia-slams-florida-as-biden-rallies-fema-support.webp</image:loc>
+          <image:loc>https://majordigest.com/politics/2023/08/30/hurricane-idalia-causes-100-year-old-oak-tree-to-split-fall-on-gov-desantis-mansion/hurricane-idalia-causes-100-year-old-oak-tree-to-split-fall-on-gov-desantis-mansion.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -462,6 +448,20 @@
         </news:news>
         <image:image>
           <image:loc>https://majordigest.com/politics/2023/08/30/desantis-holds-news-conference-before-hurricane-idalia-makes-landfall/desantis-holds-news-conference-before-hurricane-idalia-makes-landfall.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/politics/2023/08/29/california-senate-elects-new-leader/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-29T22:44:23.000Z</news:publication_date>
+          <news:title>California Senate elects new leader</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/politics/2023/08/29/california-senate-elects-new-leader/california-senate-elects-new-leader.webp</image:loc>
         </image:image>
       </url>
       <url>
