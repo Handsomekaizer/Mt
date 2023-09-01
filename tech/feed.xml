@@ -7,7 +7,7 @@
         <title>Major Digest - Reliable and Comprehensive News Sources: tech</title>
         <description>Get the latest news online at Major Digest, the top online news resource for the most reliable news sources. Stay informed about the world around you!</description>
         <link>https://majordigest.com/?utm_medium=RSS</link>
-        <lastBuildDate>Fri, 01 Sep 2023 02:29:24 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 01 Sep 2023 03:19:18 GMT</lastBuildDate>
         <generator>https://majordigest.com/?v=1.1.4</generator>
         <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/" />
         <atom:link rel="self" href="https://majordigest.com/tech/feed.xml" type="application/rss+xml" />
@@ -61,6 +61,17 @@
         <media:content medium="image" url="https://majordigest.com/tech/2023/08/31/bipartisan-duo-urges-visa-mastercard-to-call-off-swipe-fee-boost/bipartisan-duo-urges-visa-mastercard-to-call-off-swipe-fee-boost.webp"/>
         <media:thumbnail url="https://majordigest.com/tech/2023/08/31/bipartisan-duo-urges-visa-mastercard-to-call-off-swipe-fee-boost/bipartisan-duo-urges-visa-mastercard-to-call-off-swipe-fee-boost.webp"/>
         <dc:creator>Julia Shapero, The Hill</dc:creator>
+      </item>
+      <item>
+        <title>How to protect yourself from 'vishing' scams</title>
+        <description><![CDATA[Vishing scams can come in a number of ways, including phone calls, voice messages, bank account detail and more. Be aware of unsolicited phone calls as well.]]></description>
+        <guid>https://majordigest.com/tech/2023/08/31/how-protect-yourself-vishing-scams/</guid>
+        <link>https://majordigest.com/tech/2023/08/31/how-protect-yourself-vishing-scams/</link>
+        <pubDate>Thu, 31 Aug 2023 16:30:36 EDT</pubDate>
+        <category>tech</category>
+        <media:content medium="image" url="https://majordigest.com/tech/2023/08/31/how-protect-yourself-vishing-scams/how-protect-yourself-vishing-scams.webp"/>
+        <media:thumbnail url="https://majordigest.com/tech/2023/08/31/how-protect-yourself-vishing-scams/how-protect-yourself-vishing-scams.webp"/>
+        <dc:creator>Fox News</dc:creator>
       </item>
       <item>
         <title>How to protect yourself from 'vishing' scams</title>
@@ -248,17 +259,6 @@
         <media:content medium="image" url="https://majordigest.com/tech/2023/08/30/west-point-time-capsule-that-appeared-to-contain-nothing-more-than-silt-yields-centuries-old-coins/west-point-time-capsule-that-appeared-to-contain-nothing-more-than-silt-yields-centuries-old-coins.webp"/>
         <media:thumbnail url="https://majordigest.com/tech/2023/08/30/west-point-time-capsule-that-appeared-to-contain-nothing-more-than-silt-yields-centuries-old-coins/west-point-time-capsule-that-appeared-to-contain-nothing-more-than-silt-yields-centuries-old-coins.webp"/>
         <dc:creator>Carolyn Thompson, Associated Press, KPRC 2</dc:creator>
-      </item>
-      <item>
-        <title>Study: Job applicants with mental health posts viewed differently</title>
-        <description><![CDATA[“When hiring managers look up candidates on LinkedIn, they risk seeing information that can color their perceptions," Foster said.]]></description>
-        <guid>https://majordigest.com/tech/2023/08/30/study-job-applicants-mental-health/</guid>
-        <link>https://majordigest.com/tech/2023/08/30/study-job-applicants-mental-health/</link>
-        <pubDate>Wed, 30 Aug 2023 21:56:33 +0000</pubDate>
-        <category>tech</category>
-        <media:content medium="image" url="https://majordigest.com/tech/2023/08/30/study-job-applicants-mental-health/study-job-applicants-mental-health.webp"/>
-        <media:thumbnail url="https://majordigest.com/tech/2023/08/30/study-job-applicants-mental-health/study-job-applicants-mental-health.webp"/>
-        <dc:creator>Caitlyn Shelton, NewsNation</dc:creator>
       </item>
       <item>
         <title>Study: Job applicants with mental health posts viewed differently</title>

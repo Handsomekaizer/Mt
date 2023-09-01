@@ -3,6 +3,20 @@
               xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
               xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
       <url>
+        <loc>https://majordigest.com/world/2023/09/01/hong-kong-and-parts-of-southern-china-grind-to-near-standstill-as-super-typhoon-saola-edges-closer/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-09-01T02:05:05.000Z</news:publication_date>
+          <news:title>Hong Kong and parts of southern China grind to near standstill as Super Typhoon Saola edges closer</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/world/2023/09/01/hong-kong-and-parts-of-southern-china-grind-to-near-standstill-as-super-typhoon-saola-edges-closer/hong-kong-and-parts-of-southern-china-grind-to-near-standstill-as-super-typhoon-saola-edges-closer.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
         <loc>https://majordigest.com/world/2023/08/31/china-xi-jinping-reportedly-skip-g20-summit-biden/</loc>
         <news:news>
           <news:publication>
@@ -14,20 +28,6 @@
         </news:news>
         <image:image>
           <image:loc>https://majordigest.com/world/2023/08/31/china-xi-jinping-reportedly-skip-g20-summit-biden/china-xi-jinping-reportedly-skip-g20-summit-biden.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/world/2023/08/31/us-military-urges-halt-clashes-eastern-syria-concerns-isis-resurgence/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-31T23:03:36.000Z</news:publication_date>
-          <news:title>US military urges halt to clashes in eastern Syria amid concerns of ISIS resurgence</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/world/2023/08/31/us-military-urges-halt-clashes-eastern-syria-concerns-isis-resurgence/us-military-urges-halt-clashes-eastern-syria-concerns-isis-resurgence.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -101,20 +101,6 @@
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/world/2023/08/31/uber-launches-electric-bike-service-kenya-aiming-emissions-free-platform-2040/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-31T21:59:49.000Z</news:publication_date>
-          <news:title>Uber launches electric bike service in Kenya, aiming for emissions-free platform by 2040</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/world/2023/08/31/uber-launches-electric-bike-service-kenya-aiming-emissions-free-platform-2040/uber-launches-electric-bike-service-kenya-aiming-emissions-free-platform-2040.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
         <loc>https://majordigest.com/world/2023/08/31/us-denies-blocking-chip-sales-middle-east/</loc>
         <news:news>
           <news:publication>
@@ -126,20 +112,6 @@
         </news:news>
         <image:image>
           <image:loc>https://majordigest.com/world/2023/08/31/us-denies-blocking-chip-sales-middle-east/us-denies-blocking-chip-sales-middle-east.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/world/2023/08/31/canada-issues-us-travel-advisory-warning-lgbtq-community-about-laws-thay-may-affect-them/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-31T21:47:46.000Z</news:publication_date>
-          <news:title>Canada issues US travel advisory warning LGBTQ+ community about laws that may affect them</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/world/2023/08/31/canada-issues-us-travel-advisory-warning-lgbtq-community-about-laws-thay-may-affect-them/canada-issues-us-travel-advisory-warning-lgbtq-community-about-laws-thay-may-affect-them.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -157,17 +129,17 @@
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/world/2023/08/31/mexicos-broad-opposition-coalition-announces-sen-xochitl-galvez-will-run-for-presidency-in-2024/</loc>
+        <loc>https://majordigest.com/world/2023/08/31/video-appears-to-show-prigozhin-dismissing-security-concerns-days-before-fatal-plane-crash/</loc>
         <news:news>
           <news:publication>
             <news:name>Major Digest</news:name>
             <news:language>en</news:language>
           </news:publication>
-          <news:publication_date>2023-08-31T21:41:05.000Z</news:publication_date>
-          <news:title>Mexico's broad opposition coalition announces Sen. X&#243;chitl G&#225;lvez will run for presidency in 2024</news:title>
+          <news:publication_date>2023-08-31T21:46:08.000Z</news:publication_date>
+          <news:title>Video appears to show Prigozhin dismissing security concerns days before fatal plane crash</news:title>
         </news:news>
         <image:image>
-          <image:loc>https://majordigest.com/world/2023/08/31/mexicos-broad-opposition-coalition-announces-sen-xochitl-galvez-will-run-for-presidency-in-2024/mexicos-broad-opposition-coalition-announces-sen-xochitl-galvez-will-run-for-presidency-in-2024.webp</image:loc>
+          <image:loc>https://majordigest.com/world/2023/08/31/video-appears-to-show-prigozhin-dismissing-security-concerns-days-before-fatal-plane-crash/video-appears-to-show-prigozhin-dismissing-security-concerns-days-before-fatal-plane-crash.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -311,6 +283,20 @@
         </image:image>
       </url>
       <url>
+        <loc>https://majordigest.com/world/2023/08/31/eu-examines-its-training-of-african-armies-as-another-coup-rocks-the-continent/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-31T10:45:14.000Z</news:publication_date>
+          <news:title>EU grapples with its African army training dilemma as another coup rocks the continent</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/world/2023/08/31/eu-examines-its-training-of-african-armies-as-another-coup-rocks-the-continent/eu-examines-its-training-of-african-armies-as-another-coup-rocks-the-continent.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
         <loc>https://majordigest.com/world/2023/08/31/ousting-of-gabons-unpopular-leader-was-a-smokescreen-for-soldiers-to-seize-power-analysts-say/</loc>
         <news:news>
           <news:publication>
@@ -364,6 +350,20 @@
         </news:news>
         <image:image>
           <image:loc>https://majordigest.com/world/2023/08/30/drones-targeted-5-regions-in-biggest-attack-on-russian-soil-in-18-months-defense-ministry-says/drones-targeted-5-regions-in-biggest-attack-on-russian-soil-in-18-months-defense-ministry-says.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/world/2023/08/30/canada-warns-residents-visiting-us-about-anti-lgbtq-laws/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-30T19:45:11.000Z</news:publication_date>
+          <news:title>Canada warns residents visiting US about anti-LGBTQ laws</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/world/2023/08/30/canada-warns-residents-visiting-us-about-anti-lgbtq-laws/canada-warns-residents-visiting-us-about-anti-lgbtq-laws.webp</image:loc>
         </image:image>
       </url>
       <url>
