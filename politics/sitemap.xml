@@ -3,6 +3,76 @@
               xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
               xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
       <url>
+        <loc>https://majordigest.com/politics/2023/09/01/one-on-one-gop-presidential-candidate-will-hurd/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-09-01T01:02:47.000Z</news:publication_date>
+          <news:title>One-on-one with GOP presidential candidate Will Hurd</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/politics/2023/09/01/one-on-one-gop-presidential-candidate-will-hurd/one-on-one-gop-presidential-candidate-will-hurd.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/politics/2023/09/01/republican-files-ethics-complaint-against-democratic-lawmaker-over-funding-vote/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-09-01T00:35:55.000Z</news:publication_date>
+          <news:title>Republican files ethics complaint against Democratic lawmaker over funding vote</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/politics/2023/09/01/republican-files-ethics-complaint-against-democratic-lawmaker-over-funding-vote/republican-files-ethics-complaint-against-democratic-lawmaker-over-funding-vote.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/politics/2023/09/01/massachusetts-gov-maura-healey-activates-national-guard-assist-emergency-shelters-housing-migrants/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-09-01T00:08:24.000Z</news:publication_date>
+          <news:title>Massachusetts Gov. Maura Healey activates National Guard to assist in emergency shelters housing migrants</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/politics/2023/09/01/massachusetts-gov-maura-healey-activates-national-guard-assist-emergency-shelters-housing-migrants/massachusetts-gov-maura-healey-activates-national-guard-assist-emergency-shelters-housing-migrants.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/politics/2023/08/31/white-house-defends-maui-wildfire-response/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-31T23:47:55.000Z</news:publication_date>
+          <news:title>White House defends Maui wildfire response, announces $95M for recovery</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/politics/2023/08/31/white-house-defends-maui-wildfire-response/white-house-defends-maui-wildfire-response.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/politics/2023/08/31/judge-arkansas-law-parental-consent-social-media/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-31T23:16:21.000Z</news:publication_date>
+          <news:title>Judge blocks law requiring parental consent for kids to use social media</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/politics/2023/08/31/judge-arkansas-law-parental-consent-social-media/judge-arkansas-law-parental-consent-social-media.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
         <loc>https://majordigest.com/politics/2023/08/31/murphy-new-jersey-influx-migrants/</loc>
         <news:news>
           <news:publication>
@@ -59,6 +129,20 @@
         </image:image>
       </url>
       <url>
+        <loc>https://majordigest.com/politics/2023/08/31/pentagon-release-declassified-ufo-photos-videos-reports-website/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-31T22:22:49.000Z</news:publication_date>
+          <news:title>Pentagon to release declassified UFO photos, videos and reports on new website</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/politics/2023/08/31/pentagon-release-declassified-ufo-photos-videos-reports-website/pentagon-release-declassified-ufo-photos-videos-reports-website.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
         <loc>https://majordigest.com/politics/2023/08/31/amlo-to-limit-flights-in-and-out-of-mexico-citys-main-airport/</loc>
         <news:news>
           <news:publication>
@@ -87,45 +171,17 @@
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/politics/2023/08/31/democrat-governors-consultant-used-email-coded-greek-thwart-public-records-searches-lawsuit/</loc>
+        <loc>https://majordigest.com/politics/2023/08/31/us-hits-north-korean-and-russian-accused-of-supporting-north-koreas-ballistics-missile-program/</loc>
         <news:news>
           <news:publication>
             <news:name>Major Digest</news:name>
             <news:language>en</news:language>
           </news:publication>
-          <news:publication_date>2023-08-31T21:42:23.000Z</news:publication_date>
-          <news:title>Democrat governor's consultant used email coded with Greek to thwart public records searches: lawsuit</news:title>
+          <news:publication_date>2023-08-31T21:22:16.000Z</news:publication_date>
+          <news:title>US hits North Korean and Russian accused of supporting North Korea's ballistics missile program</news:title>
         </news:news>
         <image:image>
-          <image:loc>https://majordigest.com/politics/2023/08/31/democrat-governors-consultant-used-email-coded-greek-thwart-public-records-searches-lawsuit/democrat-governors-consultant-used-email-coded-greek-thwart-public-records-searches-lawsuit.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/politics/2023/08/31/karine-jean-pierre-aoc-biden-done-more-anybody-immigration-securing-border/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-31T21:30:24.000Z</news:publication_date>
-          <news:title>Karine Jean-Pierre responds to AOC: Biden has 'done more than anybody' to secure the border</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/politics/2023/08/31/karine-jean-pierre-aoc-biden-done-more-anybody-immigration-securing-border/karine-jean-pierre-aoc-biden-done-more-anybody-immigration-securing-border.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/politics/2023/08/31/mccaul-interviews-biden-officials-chaotic-afghanistan-withdrawal/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-31T21:20:58.000Z</news:publication_date>
-          <news:title>McCaul demands more interviews with Biden officials on 'chaotic and deadly' Afghanistan withdrawal</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/politics/2023/08/31/mccaul-interviews-biden-officials-chaotic-afghanistan-withdrawal/mccaul-interviews-biden-officials-chaotic-afghanistan-withdrawal.webp</image:loc>
+          <image:loc>https://majordigest.com/politics/2023/08/31/us-hits-north-korean-and-russian-accused-of-supporting-north-koreas-ballistics-missile-program/us-hits-north-korean-and-russian-accused-of-supporting-north-koreas-ballistics-missile-program.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -143,17 +199,31 @@
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/politics/2023/08/31/missouri-judge-trial-shooting-ralph-yarl/</loc>
+        <loc>https://majordigest.com/politics/2023/08/31/thomas-alito-go-on-the-attack-over-supreme-court-ethics/</loc>
         <news:news>
           <news:publication>
             <news:name>Major Digest</news:name>
             <news:language>en</news:language>
           </news:publication>
-          <news:publication_date>2023-08-31T20:27:30.000Z</news:publication_date>
-          <news:title>Missouri judge rules white man will stand trial for shooting Black teen who went to wrong house</news:title>
+          <news:publication_date>2023-08-31T20:33:13.000Z</news:publication_date>
+          <news:title>Thomas, Alito go on the attack over Supreme Court ethics</news:title>
         </news:news>
         <image:image>
-          <image:loc>https://majordigest.com/politics/2023/08/31/missouri-judge-trial-shooting-ralph-yarl/missouri-judge-trial-shooting-ralph-yarl.webp</image:loc>
+          <image:loc>https://majordigest.com/politics/2023/08/31/thomas-alito-go-on-the-attack-over-supreme-court-ethics/thomas-alito-go-on-the-attack-over-supreme-court-ethics.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/politics/2023/08/31/white-house-asks-congress-to-pass-short-term-funding-to-keep-government-operating-official-tells-ap/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-31T20:20:49.000Z</news:publication_date>
+          <news:title>White House asks Congress to pass short-term funding bill to keep government operating</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/politics/2023/08/31/white-house-asks-congress-to-pass-short-term-funding-to-keep-government-operating-official-tells-ap/white-house-asks-congress-to-pass-short-term-funding-to-keep-government-operating-official-tells-ap.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -171,6 +241,20 @@
         </image:image>
       </url>
       <url>
+        <loc>https://majordigest.com/politics/2023/08/31/justice-thomas-reports-he-took-3-trips-on-republican-donors-plane-last-year/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-31T19:24:23.000Z</news:publication_date>
+          <news:title>Justice Clarence Thomas reports he took 3 trips on Republican donor's plane last year</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/politics/2023/08/31/justice-thomas-reports-he-took-3-trips-on-republican-donors-plane-last-year/justice-thomas-reports-he-took-3-trips-on-republican-donors-plane-last-year.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
         <loc>https://majordigest.com/politics/2023/08/31/top-democrat-demands-ethics-panels-findings-from-santos-investigation/</loc>
         <news:news>
           <news:publication>
@@ -182,48 +266,6 @@
         </news:news>
         <image:image>
           <image:loc>https://majordigest.com/politics/2023/08/31/top-democrat-demands-ethics-panels-findings-from-santos-investigation/top-democrat-demands-ethics-panels-findings-from-santos-investigation.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/politics/2023/08/31/mcconnell-medically-clear-says-capitol-doctor/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-31T19:19:21.000Z</news:publication_date>
-          <news:title>McConnell 'medically clear,' says Capitol doctor&#160;</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/politics/2023/08/31/mcconnell-medically-clear-says-capitol-doctor/mcconnell-medically-clear-says-capitol-doctor.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/politics/2023/08/31/mcconnell-reassurances-freeze-up/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-31T19:18:11.000Z</news:publication_date>
-          <news:title>McConnell offers reassurances after latest freeze-up</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/politics/2023/08/31/mcconnell-reassurances-freeze-up/mcconnell-reassurances-freeze-up.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/politics/2023/08/31/well-kill-you-election-workers-get-threats-warnings-theyll-be-lynched-us-government-says/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-31T18:54:11.000Z</news:publication_date>
-          <news:title>Election workers have gotten death threats and warnings they will be lynched, the US government says</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/politics/2023/08/31/well-kill-you-election-workers-get-threats-warnings-theyll-be-lynched-us-government-says/well-kill-you-election-workers-get-threats-warnings-theyll-be-lynched-us-government-says.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -241,20 +283,6 @@
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/politics/2023/08/31/nebraska-governor-signs-executive-order-narrowing-definition-of-male-and-female/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-31T17:01:47.000Z</news:publication_date>
-          <news:title>Nebraska governor signs executive order narrowing definition of male and female</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/politics/2023/08/31/nebraska-governor-signs-executive-order-narrowing-definition-of-male-and-female/nebraska-governor-signs-executive-order-narrowing-definition-of-male-and-female.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
         <loc>https://majordigest.com/politics/2023/08/31/minnesota-thc-beverage-company-cofounder-sees-black-ownership-in-the-marijuana-business/</loc>
         <news:news>
           <news:publication>
@@ -269,20 +297,6 @@
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/politics/2023/08/31/raimondo-china-congressional-hawks/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-31T16:32:02.000Z</news:publication_date>
-          <news:title>Raimondo&#8217;s &#8216;bold move&#8217; in China</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/politics/2023/08/31/raimondo-china-congressional-hawks/raimondo-china-congressional-hawks.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
         <loc>https://majordigest.com/politics/2023/08/31/gop-senators-mcconnell-freeze-up/</loc>
         <news:news>
           <news:publication>
@@ -294,20 +308,6 @@
         </news:news>
         <image:image>
           <image:loc>https://majordigest.com/politics/2023/08/31/gop-senators-mcconnell-freeze-up/gop-senators-mcconnell-freeze-up.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/politics/2023/08/31/desantis-fema-administrator-tour-hurricane-damage/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-31T15:40:40.000Z</news:publication_date>
-          <news:title>Biden will visit Florida over the weekend to survey Hurricane Idalia damage</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/politics/2023/08/31/desantis-fema-administrator-tour-hurricane-damage/desantis-fema-administrator-tour-hurricane-damage.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -367,34 +367,6 @@
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/politics/2023/08/31/still-no-strong-2024-gop-challenger-for-klobuchar/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-31T09:00:00.000Z</news:publication_date>
-          <news:title>Still no strong 2024 GOP challenger for Amy Klobuchar</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/politics/2023/08/31/still-no-strong-2024-gop-challenger-for-klobuchar/still-no-strong-2024-gop-challenger-for-klobuchar.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/politics/2023/08/31/npr-trump-hiv-aids-epidemic-defund-house-republicans/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-31T09:00:00.000Z</news:publication_date>
-          <news:title>Trump launched an ambitious effort to end HIV. House Republicans want to defund it.</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/politics/2023/08/31/npr-trump-hiv-aids-epidemic-defund-house-republicans/npr-trump-hiv-aids-epidemic-defund-house-republicans.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
         <loc>https://majordigest.com/politics/2023/08/30/hurricane-idalia-slams-florida-as-biden-rallies-fema-support/</loc>
         <news:news>
           <news:publication>
@@ -451,20 +423,6 @@
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/politics/2023/08/30/as-trump-and-republicans-target-georgias-fani-willis-for-retribution-the-states-governor-opts-out/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-30T04:07:55.000Z</news:publication_date>
-          <news:title>Efforts to punish Fani Willis over Trump prosecution are 'political theater,' Georgia Gov. Kemp says</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/politics/2023/08/30/as-trump-and-republicans-target-georgias-fani-willis-for-retribution-the-states-governor-opts-out/as-trump-and-republicans-target-georgias-fani-willis-for-retribution-the-states-governor-opts-out.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
         <loc>https://majordigest.com/politics/2023/08/29/california-senate-elects-new-leader/</loc>
         <news:news>
           <news:publication>
@@ -476,6 +434,20 @@
         </news:news>
         <image:image>
           <image:loc>https://majordigest.com/politics/2023/08/29/california-senate-elects-new-leader/california-senate-elects-new-leader.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/politics/2023/08/29/katie-porter-partners-with-gop-rep-to-introduce-bill-to-prevent-infant-formula-crisis/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-29T21:51:08.000Z</news:publication_date>
+          <news:title>Katie Porter partners with GOP rep to introduce bill to prevent infant formula crisis</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/politics/2023/08/29/katie-porter-partners-with-gop-rep-to-introduce-bill-to-prevent-infant-formula-crisis/katie-porter-partners-with-gop-rep-to-introduce-bill-to-prevent-infant-formula-crisis.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -507,6 +479,20 @@
         </image:image>
       </url>
       <url>
+        <loc>https://majordigest.com/politics/2023/08/28/texas-national-guard-member-fires-across-rio-grande-wounds-mexican-citizen/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-28T20:04:58.000Z</news:publication_date>
+          <news:title>Mexico officials say National Guard member who shot at migrant &#8220;separated from his position&#8221;</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/politics/2023/08/28/texas-national-guard-member-fires-across-rio-grande-wounds-mexican-citizen/texas-national-guard-member-fires-across-rio-grande-wounds-mexican-citizen.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
         <loc>https://majordigest.com/politics/2023/08/28/biden-approves-emergency-declaration-for-florida-ahead-of-t-s-idalia/</loc>
         <news:news>
           <news:publication>
@@ -518,5 +504,19 @@
         </news:news>
         <image:image>
           <image:loc>https://majordigest.com/politics/2023/08/28/biden-approves-emergency-declaration-for-florida-ahead-of-t-s-idalia/biden-approves-emergency-declaration-for-florida-ahead-of-t-s-idalia.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/politics/2023/08/25/new-york-man-sentenced-to-3-months-in-prison-for-making-threatening-phone-calls-to-rep-marjorie-taylor-greene/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-25T19:49:09.000Z</news:publication_date>
+          <news:title>NY man sentenced to prison for making threatening&#160;phone calls to Rep. Marjorie Taylor Greene</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/politics/2023/08/25/new-york-man-sentenced-to-3-months-in-prison-for-making-threatening-phone-calls-to-rep-marjorie-taylor-greene/new-york-man-sentenced-to-3-months-in-prison-for-making-threatening-phone-calls-to-rep-marjorie-taylor-greene.webp</image:loc>
         </image:image>
       </url></urlset>

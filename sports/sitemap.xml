@@ -3,6 +3,48 @@
               xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
               xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
       <url>
+        <loc>https://majordigest.com/sports/2023/09/01/super-bowl-champ-mark-schlereth-rips-cowboys-owner-jerry-jones-over-trey-lance-trade-thats-the-cowboys/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-09-01T00:52:29.000Z</news:publication_date>
+          <news:title>Super Bowl champ Mark Schlereth rips Cowboys owner Jerry Jones over Trey Lance trade: 'That's the Cowboys'</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/sports/2023/09/01/super-bowl-champ-mark-schlereth-rips-cowboys-owner-jerry-jones-over-trey-lance-trade-thats-the-cowboys/super-bowl-champ-mark-schlereth-rips-cowboys-owner-jerry-jones-over-trey-lance-trade-thats-the-cowboys.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/sports/2023/09/01/keith-olbermann-calls-riley-gaines-stupid-unsuccessful-ex-swimmer-responds-showing-off-accolades/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-09-01T00:09:57.000Z</news:publication_date>
+          <news:title>Keith Olbermann calls Riley Gaines 'stupid' and 'unsuccessful'; ex-swimmer responds by showing off accolades</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/sports/2023/09/01/keith-olbermann-calls-riley-gaines-stupid-unsuccessful-ex-swimmer-responds-showing-off-accolades/keith-olbermann-calls-riley-gaines-stupid-unsuccessful-ex-swimmer-responds-showing-off-accolades.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/sports/2023/08/31/former-f1-driver-felipe-massa-ready-to-go-to-court-as-he-claims-he-was-robbed-of-2008-title/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-31T23:26:26.000Z</news:publication_date>
+          <news:title>Former F1 driver Felipe Massa ready to go to court as he claims he was 'robbed' of 2008 title</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/sports/2023/08/31/former-f1-driver-felipe-massa-ready-to-go-to-court-as-he-claims-he-was-robbed-of-2008-title/former-f1-driver-felipe-massa-ready-to-go-to-court-as-he-claims-he-was-robbed-of-2008-title.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
         <loc>https://majordigest.com/sports/2023/08/31/baker-and-emily-mayfield-foundation-raises-100000-at-first-event-in-tampa/</loc>
         <news:news>
           <news:publication>
@@ -10,7 +52,7 @@
             <news:language>en</news:language>
           </news:publication>
           <news:publication_date>2023-08-31T23:09:23.000Z</news:publication_date>
-          <news:title>Baker and Emily Mayfield Foundation raises $100,000 at first event&#160;in Tampa</news:title>
+          <news:title>Baker and Emily Mayfield Foundation raises over $100K at first event&#160;in Tampa</news:title>
         </news:news>
         <image:image>
           <image:loc>https://majordigest.com/sports/2023/08/31/baker-and-emily-mayfield-foundation-raises-100000-at-first-event-in-tampa/baker-and-emily-mayfield-foundation-raises-100000-at-first-event-in-tampa.webp</image:loc>
@@ -28,48 +70,6 @@
         </news:news>
         <image:image>
           <image:loc>https://majordigest.com/sports/2023/08/31/matthew-staffords-wife-regrets-rams-quarterback-struggles-connect-younger-players/matthew-staffords-wife-regrets-rams-quarterback-struggles-connect-younger-players.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/sports/2023/08/31/jannik-sinner-dominates-fellow-italian-to-advance-at-us-open/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-31T22:48:52.000Z</news:publication_date>
-          <news:title>John Isner's US Open and tennis career end in a 5th-set tiebreak loss</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/sports/2023/08/31/jannik-sinner-dominates-fellow-italian-to-advance-at-us-open/jannik-sinner-dominates-fellow-italian-to-advance-at-us-open.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/sports/2023/08/31/two-time-world-cup-winner-julie-ertz-retires-from-soccer-says-representing-the-us-was-the-greatest-honor/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-31T22:30:18.000Z</news:publication_date>
-          <news:title>2-time World Cup winner Julie Ertz retires from soccer, says representing US was 'the greatest honor'</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/sports/2023/08/31/two-time-world-cup-winner-julie-ertz-retires-from-soccer-says-representing-the-us-was-the-greatest-honor/two-time-world-cup-winner-julie-ertz-retires-from-soccer-says-representing-the-us-was-the-greatest-honor.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/sports/2023/08/31/harrison-bader-learned-yankees-placed-him-waivers-tv/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-31T21:55:26.000Z</news:publication_date>
-          <news:title>Harrison Bader learned Yankees placed him on waivers from TV &#8212; not front office</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/sports/2023/08/31/harrison-bader-learned-yankees-placed-him-waivers-tv/harrison-bader-learned-yankees-placed-him-waivers-tv.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -115,31 +115,31 @@
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/sports/2023/08/31/julie-ertz-retires-from-soccer-after-10-year-career-and-2-womens-world-cup-titles/</loc>
+        <loc>https://majordigest.com/sports/2023/08/31/spain-players-bonmati-and-carmona-await-uefa-award-ceremony-amid-rubiales-crisis/</loc>
         <news:news>
           <news:publication>
             <news:name>Major Digest</news:name>
             <news:language>en</news:language>
           </news:publication>
-          <news:publication_date>2023-08-31T18:33:56.000Z</news:publication_date>
-          <news:title>Julie Ertz retires from soccer after 10-year career and 2 Women's World Cup titles</news:title>
+          <news:publication_date>2023-08-31T19:22:57.000Z</news:publication_date>
+          <news:title>Spain's Bonmat&#237; wins UEFA best women's player award and stands up for teammate amid Rubiales crisis</news:title>
         </news:news>
         <image:image>
-          <image:loc>https://majordigest.com/sports/2023/08/31/julie-ertz-retires-from-soccer-after-10-year-career-and-2-womens-world-cup-titles/julie-ertz-retires-from-soccer-after-10-year-career-and-2-womens-world-cup-titles.webp</image:loc>
+          <image:loc>https://majordigest.com/sports/2023/08/31/spain-players-bonmati-and-carmona-await-uefa-award-ceremony-amid-rubiales-crisis/spain-players-bonmati-and-carmona-await-uefa-award-ceremony-amid-rubiales-crisis.webp</image:loc>
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/sports/2023/08/31/mlb-testing-hands-free-entry-for-fans-utilizing-facial-authentication-ai-security/</loc>
+        <loc>https://majordigest.com/sports/2023/08/31/sauce-gardner-voted-top-nfl-cornerback/</loc>
         <news:news>
           <news:publication>
             <news:name>Major Digest</news:name>
             <news:language>en</news:language>
           </news:publication>
-          <news:publication_date>2023-08-31T18:21:24.000Z</news:publication_date>
-          <news:title>MLB testing hands-free entry for fans utilizing facial authentication, AI security</news:title>
+          <news:publication_date>2023-08-31T19:05:13.000Z</news:publication_date>
+          <news:title>Sauce Gardner voted top NFL cornerback&#160;</news:title>
         </news:news>
         <image:image>
-          <image:loc>https://majordigest.com/sports/2023/08/31/mlb-testing-hands-free-entry-for-fans-utilizing-facial-authentication-ai-security/mlb-testing-hands-free-entry-for-fans-utilizing-facial-authentication-ai-security.webp</image:loc>
+          <image:loc>https://majordigest.com/sports/2023/08/31/sauce-gardner-voted-top-nfl-cornerback/sauce-gardner-voted-top-nfl-cornerback.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -154,20 +154,6 @@
         </news:news>
         <image:image>
           <image:loc>https://majordigest.com/sports/2023/08/31/illnesses-after-tough-mudder-race-in-sonoma-county-grows-to-300-officials-estimate/illnesses-after-tough-mudder-race-in-sonoma-county-grows-to-300-officials-estimate.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/sports/2023/08/31/its-tradition-utah-tailgaters-begin-gameday-at-the-crack-of-dawn/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-31T17:54:51.000Z</news:publication_date>
-          <news:title>'It's tradition': Utah tailgaters begin gameday at the crack of dawn</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/sports/2023/08/31/its-tradition-utah-tailgaters-begin-gameday-at-the-crack-of-dawn/its-tradition-utah-tailgaters-begin-gameday-at-the-crack-of-dawn.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -196,6 +182,20 @@
         </news:news>
         <image:image>
           <image:loc>https://majordigest.com/sports/2023/08/31/joe-montana-gives-his-take-on-49ers-qb-situation-nick-bosa-holdout/joe-montana-gives-his-take-on-49ers-qb-situation-nick-bosa-holdout.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/sports/2023/08/31/aaron-rodgers-football-legacy-could-soar-with-the-jets-if-he-wins-in-the-big-apple/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-31T17:15:01.000Z</news:publication_date>
+          <news:title>Aaron Rodgers' football legacy could soar with the Jets if he wins in the Big Apple</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/sports/2023/08/31/aaron-rodgers-football-legacy-could-soar-with-the-jets-if-he-wins-in-the-big-apple/aaron-rodgers-football-legacy-could-soar-with-the-jets-if-he-wins-in-the-big-apple.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -241,31 +241,31 @@
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/sports/2023/08/31/spain-players-bonmati-and-carmona-await-uefa-award-ceremony-amid-rubiales-crisis/</loc>
+        <loc>https://majordigest.com/sports/2023/08/31/hall-of-famer-gil-brandt-who-helped-build-cowboys-into-americas-team-dies-at-91/</loc>
         <news:news>
           <news:publication>
             <news:name>Major Digest</news:name>
             <news:language>en</news:language>
           </news:publication>
-          <news:publication_date>2023-08-31T15:26:44.000Z</news:publication_date>
-          <news:title>Spain's Bonmat&#237; wins UEFA best women's player award and stands up for teammate amid Rubiales crisis</news:title>
+          <news:publication_date>2023-08-31T15:01:31.000Z</news:publication_date>
+          <news:title>Hall of Famer Gil Brandt, who helped build Cowboys into 'America's Team,' dies at 91</news:title>
         </news:news>
         <image:image>
-          <image:loc>https://majordigest.com/sports/2023/08/31/spain-players-bonmati-and-carmona-await-uefa-award-ceremony-amid-rubiales-crisis/spain-players-bonmati-and-carmona-await-uefa-award-ceremony-amid-rubiales-crisis.webp</image:loc>
+          <image:loc>https://majordigest.com/sports/2023/08/31/hall-of-famer-gil-brandt-who-helped-build-cowboys-into-americas-team-dies-at-91/hall-of-famer-gil-brandt-who-helped-build-cowboys-into-americas-team-dies-at-91.webp</image:loc>
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/sports/2023/08/31/chris-getz-named-white-sox-general-manager/</loc>
+        <loc>https://majordigest.com/sports/2023/08/31/rsl-drops-fourth-straight-falling-to-portland-2-1/</loc>
         <news:news>
           <news:publication>
             <news:name>Major Digest</news:name>
             <news:language>en</news:language>
           </news:publication>
-          <news:publication_date>2023-08-31T14:41:51.000Z</news:publication_date>
-          <news:title>Chris Getz named White Sox general manager</news:title>
+          <news:publication_date>2023-08-31T04:55:23.000Z</news:publication_date>
+          <news:title>RSL drops fourth straight, falling to Portland, 2-1</news:title>
         </news:news>
         <image:image>
-          <image:loc>https://majordigest.com/sports/2023/08/31/chris-getz-named-white-sox-general-manager/chris-getz-named-white-sox-general-manager.webp</image:loc>
+          <image:loc>https://majordigest.com/sports/2023/08/31/rsl-drops-fourth-straight-falling-to-portland-2-1/rsl-drops-fourth-straight-falling-to-portland-2-1.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -283,31 +283,17 @@
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/sports/2023/08/30/this-means-a-lot-to-us-tyson-bagents-rise-with-bears-celebrated-by-college-team/</loc>
+        <loc>https://majordigest.com/sports/2023/08/30/see-the-bears-latest-roster-moves-including-practice-squad/</loc>
         <news:news>
           <news:publication>
             <news:name>Major Digest</news:name>
             <news:language>en</news:language>
           </news:publication>
-          <news:publication_date>2023-08-30T22:05:44.000Z</news:publication_date>
-          <news:title>'This means a lot to us': Tyson Bagent's rise with Bears celebrated by college team</news:title>
+          <news:publication_date>2023-08-30T23:02:32.000Z</news:publication_date>
+          <news:title>See the Bears' latest roster moves, including practice squad</news:title>
         </news:news>
         <image:image>
-          <image:loc>https://majordigest.com/sports/2023/08/30/this-means-a-lot-to-us-tyson-bagents-rise-with-bears-celebrated-by-college-team/this-means-a-lot-to-us-tyson-bagents-rise-with-bears-celebrated-by-college-team.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/sports/2023/08/30/cmu-football-is-ready-for-battle/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-30T21:47:10.000Z</news:publication_date>
-          <news:title>CMU Football is ready for battle</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/sports/2023/08/30/cmu-football-is-ready-for-battle/cmu-football-is-ready-for-battle.webp</image:loc>
+          <image:loc>https://majordigest.com/sports/2023/08/30/see-the-bears-latest-roster-moves-including-practice-squad/see-the-bears-latest-roster-moves-including-practice-squad.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -325,17 +311,17 @@
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/sports/2023/08/30/garza-resigns-at-nevada-is-fresno-city-next/</loc>
+        <loc>https://majordigest.com/sports/2023/08/30/giants-pitcher-alex-cobb-comes-one-out-away-from-no-hitter/</loc>
         <news:news>
           <news:publication>
             <news:name>Major Digest</news:name>
             <news:language>en</news:language>
           </news:publication>
-          <news:publication_date>2023-08-30T07:34:57.000Z</news:publication_date>
-          <news:title>Garza resigns at Nevada, is Fresno City next?</news:title>
+          <news:publication_date>2023-08-30T04:09:28.000Z</news:publication_date>
+          <news:title>Giants pitcher Alex Cobb comes one out away from no-hitter</news:title>
         </news:news>
         <image:image>
-          <image:loc>https://majordigest.com/sports/2023/08/30/garza-resigns-at-nevada-is-fresno-city-next/garza-resigns-at-nevada-is-fresno-city-next.webp</image:loc>
+          <image:loc>https://majordigest.com/sports/2023/08/30/giants-pitcher-alex-cobb-comes-one-out-away-from-no-hitter/giants-pitcher-alex-cobb-comes-one-out-away-from-no-hitter.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -367,6 +353,34 @@
         </image:image>
       </url>
       <url>
+        <loc>https://majordigest.com/sports/2023/08/29/half-of-usd-football-team-facing-discipline-amid-alleged-hazing/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-29T21:21:34.000Z</news:publication_date>
+          <news:title>Half of USD football team facing discipline amid alleged hazing</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/sports/2023/08/29/half-of-usd-football-team-facing-discipline-amid-alleged-hazing/half-of-usd-football-team-facing-discipline-amid-alleged-hazing.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/sports/2023/08/29/a-spanish-soccer-officials-kiss-unleashed-fury-soul-searching-over-sexism-and-a-hunger-strike/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-29T20:03:31.000Z</news:publication_date>
+          <news:title>A Spanish soccer official&#8217;s kiss unleashed fury, soul-searching over sexism, and a hunger strike</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/sports/2023/08/29/a-spanish-soccer-officials-kiss-unleashed-fury-soul-searching-over-sexism-and-a-hunger-strike/a-spanish-soccer-officials-kiss-unleashed-fury-soul-searching-over-sexism-and-a-hunger-strike.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
         <loc>https://majordigest.com/sports/2023/08/29/every-game-matters-for-the-lopes-cmu-sports-begin-this-week/</loc>
         <news:news>
           <news:publication>
@@ -381,17 +395,17 @@
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/sports/2023/08/29/tedford-talks-about-mikey-keene-as-qb1/</loc>
+        <loc>https://majordigest.com/sports/2023/08/29/holiday-bowl-brings-back-iconic-san-diego-fireworks-show-for-second-year/</loc>
         <news:news>
           <news:publication>
             <news:name>Major Digest</news:name>
             <news:language>en</news:language>
           </news:publication>
-          <news:publication_date>2023-08-29T01:56:38.000Z</news:publication_date>
-          <news:title>Tedford talks about Mikey Keene as QB1</news:title>
+          <news:publication_date>2023-08-29T01:24:28.000Z</news:publication_date>
+          <news:title>Holiday Bowl brings back iconic San Diego fireworks show for second year</news:title>
         </news:news>
         <image:image>
-          <image:loc>https://majordigest.com/sports/2023/08/29/tedford-talks-about-mikey-keene-as-qb1/tedford-talks-about-mikey-keene-as-qb1.webp</image:loc>
+          <image:loc>https://majordigest.com/sports/2023/08/29/holiday-bowl-brings-back-iconic-san-diego-fireworks-show-for-second-year/holiday-bowl-brings-back-iconic-san-diego-fireworks-show-for-second-year.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -423,6 +437,34 @@
         </image:image>
       </url>
       <url>
+        <loc>https://majordigest.com/sports/2023/08/28/watch-live-little-league-world-series-champs-el-segundo-return-home/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-28T22:43:06.000Z</news:publication_date>
+          <news:title>El Segundo welcomes back Little League World Series champs</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/sports/2023/08/28/watch-live-little-league-world-series-champs-el-segundo-return-home/watch-live-little-league-world-series-champs-el-segundo-return-home.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/sports/2023/08/28/fight-at-in-n-out-after-chargers-49ers-game-leads-to-stabbing/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-28T18:21:13.000Z</news:publication_date>
+          <news:title>Fight at In-N-Out after Chargers-49ers game leads to stabbing</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/sports/2023/08/28/fight-at-in-n-out-after-chargers-49ers-game-leads-to-stabbing/fight-at-in-n-out-after-chargers-49ers-game-leads-to-stabbing.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
         <loc>https://majordigest.com/sports/2023/08/28/escondido-basketball-player-becomes-viral-tiktok-sensation/</loc>
         <news:news>
           <news:publication>
@@ -434,34 +476,6 @@
         </news:news>
         <image:image>
           <image:loc>https://majordigest.com/sports/2023/08/28/escondido-basketball-player-becomes-viral-tiktok-sensation/escondido-basketball-player-becomes-viral-tiktok-sensation.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/sports/2023/08/28/simone-biles-wins-record-8th-us-gymnastics-title-a-full-decade-after-her-first/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-28T09:57:18.000Z</news:publication_date>
-          <news:title>Simone Biles wins record 8th US Gymnastics title - a full decade after her first</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/sports/2023/08/28/simone-biles-wins-record-8th-us-gymnastics-title-a-full-decade-after-her-first/simone-biles-wins-record-8th-us-gymnastics-title-a-full-decade-after-her-first.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/sports/2023/08/28/simone-biles-wins-a-record-8th-us-gymnastics-title-a-full-decade-after-her-first/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-28T03:36:49.000Z</news:publication_date>
-          <news:title>Simone Biles wins a record 8th US Gymnastics title a full decade after her first</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/sports/2023/08/28/simone-biles-wins-a-record-8th-us-gymnastics-title-a-full-decade-after-her-first/simone-biles-wins-a-record-8th-us-gymnastics-title-a-full-decade-after-her-first.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -493,30 +507,16 @@
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/sports/2023/08/25/49ers-to-trade-qb-trey-lance-to-cowboys-reports/</loc>
+        <loc>https://majordigest.com/sports/2023/08/25/fruitas-lethal-rushing-attack-helps-dominate-central/</loc>
         <news:news>
           <news:publication>
             <news:name>Major Digest</news:name>
             <news:language>en</news:language>
           </news:publication>
-          <news:publication_date>2023-08-25T23:36:11.000Z</news:publication_date>
-          <news:title>49ers to trade QB Trey Lance to Cowboys: reports</news:title>
+          <news:publication_date>2023-08-25T05:04:10.000Z</news:publication_date>
+          <news:title>Fruita's lethal rushing attack helps dominate Central</news:title>
         </news:news>
         <image:image>
-          <image:loc>https://majordigest.com/sports/2023/08/25/49ers-to-trade-qb-trey-lance-to-cowboys-reports/49ers-to-trade-qb-trey-lance-to-cowboys-reports.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/sports/2023/08/25/sf-prep-basketball-star-zion-sensley-commits-to-st-marys/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-25T04:00:23.000Z</news:publication_date>
-          <news:title>SF prep basketball star Zion Sensley commits to St. Mary's</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/sports/2023/08/25/sf-prep-basketball-star-zion-sensley-commits-to-st-marys/sf-prep-basketball-star-zion-sensley-commits-to-st-marys.webp</image:loc>
+          <image:loc>https://majordigest.com/sports/2023/08/25/fruitas-lethal-rushing-attack-helps-dominate-central/fruitas-lethal-rushing-attack-helps-dominate-central.webp</image:loc>
         </image:image>
       </url></urlset>

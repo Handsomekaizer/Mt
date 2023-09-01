@@ -3,6 +3,34 @@
               xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
               xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
       <url>
+        <loc>https://majordigest.com/world/2023/08/31/china-xi-jinping-reportedly-skip-g20-summit-biden/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-31T23:21:17.000Z</news:publication_date>
+          <news:title>China's Xi set to snub G20, dashing chance of Biden meeting: reports</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/world/2023/08/31/china-xi-jinping-reportedly-skip-g20-summit-biden/china-xi-jinping-reportedly-skip-g20-summit-biden.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/world/2023/08/31/us-military-urges-halt-clashes-eastern-syria-concerns-isis-resurgence/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-31T23:03:36.000Z</news:publication_date>
+          <news:title>US military urges halt to clashes in eastern Syria amid concerns of ISIS resurgence</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/world/2023/08/31/us-military-urges-halt-clashes-eastern-syria-concerns-isis-resurgence/us-military-urges-halt-clashes-eastern-syria-concerns-isis-resurgence.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
         <loc>https://majordigest.com/world/2023/08/31/us-military-urges-halt-clashes-eastern-syria-concerns-isis-resurgence/</loc>
         <news:news>
           <news:publication>
@@ -28,20 +56,6 @@
         </news:news>
         <image:image>
           <image:loc>https://majordigest.com/world/2023/08/31/chinese-cities-introduce-measures-boost-real-estate-sector/chinese-cities-introduce-measures-boost-real-estate-sector.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/world/2023/08/31/ukraine-defense-ministry-asks-for-ammunition-not-advice-in-new-video/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-31T22:57:56.000Z</news:publication_date>
-          <news:title>Ukraine Defense Ministry asks for 'ammunition, not advice' in new video</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/world/2023/08/31/ukraine-defense-ministry-asks-for-ammunition-not-advice-in-new-video/ukraine-defense-ministry-asks-for-ammunition-not-advice-in-new-video.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -112,6 +126,34 @@
         </news:news>
         <image:image>
           <image:loc>https://majordigest.com/world/2023/08/31/video-appears-to-show-prigozhin-dismissing-security-concerns-days-before-fatal-plane-crash/video-appears-to-show-prigozhin-dismissing-security-concerns-days-before-fatal-plane-crash.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/world/2023/08/31/mexicos-broad-opposition-coalition-announces-sen-xochitl-galvez-will-run-for-presidency-in-2024/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-31T21:41:05.000Z</news:publication_date>
+          <news:title>Mexico's broad opposition coalition announces Sen. X&#243;chitl G&#225;lvez will run for presidency in 2024</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/world/2023/08/31/mexicos-broad-opposition-coalition-announces-sen-xochitl-galvez-will-run-for-presidency-in-2024/mexicos-broad-opposition-coalition-announces-sen-xochitl-galvez-will-run-for-presidency-in-2024.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/world/2023/08/31/china-says-it-deplores-us-military-transfer-to-taiwan/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-31T21:36:26.000Z</news:publication_date>
+          <news:title>China says it 'deplores' US military transfer to Taiwan</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/world/2023/08/31/china-says-it-deplores-us-military-transfer-to-taiwan/china-says-it-deplores-us-military-transfer-to-taiwan.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -213,34 +255,6 @@
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/world/2023/08/31/nigers-military-regime-orders-police-to-expel-french-ambassador-and-revokes-his-diplomatic-immunity/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-31T16:39:17.000Z</news:publication_date>
-          <news:title>Niger's military regime orders police to expel French ambassador and revokes his diplomatic immunity</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/world/2023/08/31/nigers-military-regime-orders-police-to-expel-french-ambassador-and-revokes-his-diplomatic-immunity/nigers-military-regime-orders-police-to-expel-french-ambassador-and-revokes-his-diplomatic-immunity.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/world/2023/08/31/rahm-emmanuel-eats-sushi-in-support-of-japan-amid-controversy-over-fukushima-water-release/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-31T16:09:50.000Z</news:publication_date>
-          <news:title>Rahm Emanuel eats sushi in support of Japan amid controversy over Fukushima water release</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/world/2023/08/31/rahm-emmanuel-eats-sushi-in-support-of-japan-amid-controversy-over-fukushima-water-release/rahm-emmanuel-eats-sushi-in-support-of-japan-amid-controversy-over-fukushima-water-release.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
         <loc>https://majordigest.com/world/2023/08/31/iceland-says-commercial-whaling-can-resume-after-temporary-ban/</loc>
         <news:news>
           <news:publication>
@@ -255,6 +269,20 @@
         </image:image>
       </url>
       <url>
+        <loc>https://majordigest.com/world/2023/08/31/nigers-military-regime-orders-police-to-expel-french-ambassador-and-revokes-his-diplomatic-immunity/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-31T12:08:32.000Z</news:publication_date>
+          <news:title>Niger's military regime orders police to expel French ambassador and revokes his diplomatic immunity</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/world/2023/08/31/nigers-military-regime-orders-police-to-expel-french-ambassador-and-revokes-his-diplomatic-immunity/nigers-military-regime-orders-police-to-expel-french-ambassador-and-revokes-his-diplomatic-immunity.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
         <loc>https://majordigest.com/world/2023/08/31/sudans-army-chief-warns-that-the-country-will-be-fragmented-if-the-deadly-conflict-is-not-resolved/</loc>
         <news:news>
           <news:publication>
@@ -266,6 +294,20 @@
         </news:news>
         <image:image>
           <image:loc>https://majordigest.com/world/2023/08/31/sudans-army-chief-warns-that-the-country-will-be-fragmented-if-the-deadly-conflict-is-not-resolved/sudans-army-chief-warns-that-the-country-will-be-fragmented-if-the-deadly-conflict-is-not-resolved.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/world/2023/08/31/eu-examines-its-training-of-african-armies-as-another-coup-rocks-the-continent/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-31T10:45:14.000Z</news:publication_date>
+          <news:title>EU grapples with its African army training dilemma as another coup rocks the continent</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/world/2023/08/31/eu-examines-its-training-of-african-armies-as-another-coup-rocks-the-continent/eu-examines-its-training-of-african-armies-as-another-coup-rocks-the-continent.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -381,34 +423,6 @@
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/world/2023/08/29/the-kremlin-says-putin-is-not-planning-to-attend-wagner-chief-prigozhins-burial/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-29T20:48:57.000Z</news:publication_date>
-          <news:title>Russian mercenary boss Yevgeny Prigozhin is buried in private, ending his tumultuous journey</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/world/2023/08/29/the-kremlin-says-putin-is-not-planning-to-attend-wagner-chief-prigozhins-burial/the-kremlin-says-putin-is-not-planning-to-attend-wagner-chief-prigozhins-burial.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/world/2023/08/29/neurosurgeon-investigating-patients-mystery-symptoms-plucks-worm-from-womans-brain/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-29T10:07:27.000Z</news:publication_date>
-          <news:title>Neurosurgeon investigating patient's mystery symptoms plucks worm from woman's brain</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/world/2023/08/29/neurosurgeon-investigating-patients-mystery-symptoms-plucks-worm-from-womans-brain/neurosurgeon-investigating-patients-mystery-symptoms-plucks-worm-from-womans-brain.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
         <loc>https://majordigest.com/world/2023/08/29/neurosurgeon-investigating-patients-mystery-symptoms-plucks-worm-from-womans-brain/</loc>
         <news:news>
           <news:publication>
@@ -490,20 +504,6 @@
         </news:news>
         <image:image>
           <image:loc>https://majordigest.com/world/2023/08/27/with-drones-and-webcams-volunteer-hunters-join-new-search-for-mythical-loch-ness-monster/with-drones-and-webcams-volunteer-hunters-join-new-search-for-mythical-loch-ness-monster.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/world/2023/08/25/from-tarantulas-to-tigers-zoo-animals-step-onto-scales-for-annual-weigh-in/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-25T13:11:05.000Z</news:publication_date>
-          <news:title>From tarantulas to tigers, zoo animals step onto scales for annual weigh-in</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/world/2023/08/25/from-tarantulas-to-tigers-zoo-animals-step-onto-scales-for-annual-weigh-in/from-tarantulas-to-tigers-zoo-animals-step-onto-scales-for-annual-weigh-in.webp</image:loc>
         </image:image>
       </url>
       <url>
