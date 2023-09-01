@@ -3,6 +3,62 @@
               xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
               xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
       <url>
+        <loc>https://majordigest.com/politics/2023/09/01/former-new-hampshire-senator-accused-using-covid-19-relief-funds-buy-luxury-cars/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-09-01T12:13:06.000Z</news:publication_date>
+          <news:title>Former New Hampshire state senator accused of using COVID-19 relief funds to buy luxury cars</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/politics/2023/09/01/former-new-hampshire-senator-accused-using-covid-19-relief-funds-buy-luxury-cars/former-new-hampshire-senator-accused-using-covid-19-relief-funds-buy-luxury-cars.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/politics/2023/09/01/few-texas-republican-voters-support-ken-paxton-impeachment/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-09-01T11:30:00.000Z</news:publication_date>
+          <news:title>Few Texas Republican voters support Ken Paxton impeachment</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/politics/2023/09/01/few-texas-republican-voters-support-ken-paxton-impeachment/few-texas-republican-voters-support-ken-paxton-impeachment.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/politics/2023/09/01/election-brief-what-to-expect-in-rhode-islands-special-primaries/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-09-01T11:28:12.000Z</news:publication_date>
+          <news:title>AP Election Brief | What to expect in Rhode Island's special primaries</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/politics/2023/09/01/election-brief-what-to-expect-in-rhode-islands-special-primaries/election-brief-what-to-expect-in-rhode-islands-special-primaries.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/politics/2023/09/01/texas-supreme-court-allows-ban-puberty-blockers-hormone-therapy-trans-kids-take-effect/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-09-01T10:56:21.000Z</news:publication_date>
+          <news:title>Texas Supreme Court allows ban on puberty blockers and hormone therapy for trans kids to take effect</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/politics/2023/09/01/texas-supreme-court-allows-ban-puberty-blockers-hormone-therapy-trans-kids-take-effect/texas-supreme-court-allows-ban-puberty-blockers-hormone-therapy-trans-kids-take-effect.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
         <loc>https://majordigest.com/politics/2023/09/01/ap-election-brief-what-to-expect-in-utahs-special-congressional-primary/</loc>
         <news:news>
           <news:publication>
@@ -31,6 +87,20 @@
         </image:image>
       </url>
       <url>
+        <loc>https://majordigest.com/politics/2023/09/01/us-will-regulate-nursing-home-staffing-for-first-time-but-proposal-lower-than-many-advocates-hoped/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-09-01T10:31:27.000Z</news:publication_date>
+          <news:title>US will regulate nursing home staffing for first time, but proposal lower than many advocates hoped</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/politics/2023/09/01/us-will-regulate-nursing-home-staffing-for-first-time-but-proposal-lower-than-many-advocates-hoped/us-will-regulate-nursing-home-staffing-for-first-time-but-proposal-lower-than-many-advocates-hoped.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
         <loc>https://majordigest.com/politics/2023/09/01/dan-patrick-says-he-wont-accept-donations-during-trial-after-taking-heat-for-pro-paxton-money/</loc>
         <news:news>
           <news:publication>
@@ -42,34 +112,6 @@
         </news:news>
         <image:image>
           <image:loc>https://majordigest.com/politics/2023/09/01/dan-patrick-says-he-wont-accept-donations-during-trial-after-taking-heat-for-pro-paxton-money/dan-patrick-says-he-wont-accept-donations-during-trial-after-taking-heat-for-pro-paxton-money.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/politics/2023/09/01/school-safety-tutoring-and-hair-these-are-some-of-the-new-education-laws-that-go-into-effect-this-year/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-09-01T10:00:00.000Z</news:publication_date>
-          <news:title>School safety, tutoring and hair: These are some of the new education laws that go into effect this year</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/politics/2023/09/01/school-safety-tutoring-and-hair-these-are-some-of-the-new-education-laws-that-go-into-effect-this-year/school-safety-tutoring-and-hair-these-are-some-of-the-new-education-laws-that-go-into-effect-this-year.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/politics/2023/09/01/biden-apparently-used-pseudonym-discuss-white-house-hire-hunter-2014-email-shows/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-09-01T09:00:23.000Z</news:publication_date>
-          <news:title>Biden apparently used pseudonym to discuss White House hire with Hunter, 2014 email shows</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/politics/2023/09/01/biden-apparently-used-pseudonym-discuss-white-house-hire-hunter-2014-email-shows/biden-apparently-used-pseudonym-discuss-white-house-hire-hunter-2014-email-shows.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -115,17 +157,17 @@
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/politics/2023/09/01/arkansas-law-parental-consent-minors-create-social-media-accounts-temporarily-blocked/</loc>
+        <loc>https://majordigest.com/politics/2023/09/01/america-life-expectancy-regions/</loc>
         <news:news>
           <news:publication>
             <news:name>Major Digest</news:name>
             <news:language>en</news:language>
           </news:publication>
-          <news:publication_date>2023-09-01T07:01:55.000Z</news:publication_date>
-          <news:title>Arkansas law requiring parental consent for minors to create social media accounts temporarily blocked</news:title>
+          <news:publication_date>2023-09-01T08:30:00.000Z</news:publication_date>
+          <news:title>America&#8217;s Surprising Partisan Divide on Life Expectancy</news:title>
         </news:news>
         <image:image>
-          <image:loc>https://majordigest.com/politics/2023/09/01/arkansas-law-parental-consent-minors-create-social-media-accounts-temporarily-blocked/arkansas-law-parental-consent-minors-create-social-media-accounts-temporarily-blocked.webp</image:loc>
+          <image:loc>https://majordigest.com/politics/2023/09/01/america-life-expectancy-regions/america-life-expectancy-regions.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -143,6 +185,20 @@
         </image:image>
       </url>
       <url>
+        <loc>https://majordigest.com/politics/2023/09/01/age-competency-questions-spark-debate-on-politicians-abilities/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-09-01T03:55:10.000Z</news:publication_date>
+          <news:title>Age, competency questions spark debate on politicians' abilities</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/politics/2023/09/01/age-competency-questions-spark-debate-on-politicians-abilities/age-competency-questions-spark-debate-on-politicians-abilities.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
         <loc>https://majordigest.com/politics/2023/09/01/greene-says-she-wont-vote-for-government-funding-without-biden-impeachment-inquiry/</loc>
         <news:news>
           <news:publication>
@@ -154,6 +210,20 @@
         </news:news>
         <image:image>
           <image:loc>https://majordigest.com/politics/2023/09/01/greene-says-she-wont-vote-for-government-funding-without-biden-impeachment-inquiry/greene-says-she-wont-vote-for-government-funding-without-biden-impeachment-inquiry.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/politics/2023/09/01/conservative-dad-brews-woke-free-beer/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-09-01T02:54:54.000Z</news:publication_date>
+          <news:title>Conservative dad brews 'woke-free' beer&#160;</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/politics/2023/09/01/conservative-dad-brews-woke-free-beer/conservative-dad-brews-woke-free-beer.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -171,20 +241,6 @@
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/politics/2023/09/01/one-on-one-gop-presidential-candidate-will-hurd/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-09-01T01:02:47.000Z</news:publication_date>
-          <news:title>One-on-one with GOP presidential candidate Will Hurd</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/politics/2023/09/01/one-on-one-gop-presidential-candidate-will-hurd/one-on-one-gop-presidential-candidate-will-hurd.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
         <loc>https://majordigest.com/politics/2023/09/01/well-kill-you-election-workers-get-threats-warnings-theyll-be-lynched-us-government-says/</loc>
         <news:news>
           <news:publication>
@@ -196,34 +252,6 @@
         </news:news>
         <image:image>
           <image:loc>https://majordigest.com/politics/2023/09/01/well-kill-you-election-workers-get-threats-warnings-theyll-be-lynched-us-government-says/well-kill-you-election-workers-get-threats-warnings-theyll-be-lynched-us-government-says.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/politics/2023/09/01/republican-files-ethics-complaint-against-democratic-lawmaker-over-funding-vote/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-09-01T00:35:55.000Z</news:publication_date>
-          <news:title>Republican files ethics complaint against Democratic lawmaker over funding vote</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/politics/2023/09/01/republican-files-ethics-complaint-against-democratic-lawmaker-over-funding-vote/republican-files-ethics-complaint-against-democratic-lawmaker-over-funding-vote.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/politics/2023/09/01/massachusetts-gov-maura-healey-activates-national-guard-assist-emergency-shelters-housing-migrants/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-09-01T00:08:24.000Z</news:publication_date>
-          <news:title>Massachusetts Gov. Maura Healey activates National Guard to assist in emergency shelters housing migrants</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/politics/2023/09/01/massachusetts-gov-maura-healey-activates-national-guard-assist-emergency-shelters-housing-migrants/massachusetts-gov-maura-healey-activates-national-guard-assist-emergency-shelters-housing-migrants.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -241,6 +269,20 @@
         </image:image>
       </url>
       <url>
+        <loc>https://majordigest.com/politics/2023/08/31/judge-arkansas-law-parental-consent-social-media/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-31T23:16:21.000Z</news:publication_date>
+          <news:title>Judge blocks law requiring parental consent for kids to use social media</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/politics/2023/08/31/judge-arkansas-law-parental-consent-social-media/judge-arkansas-law-parental-consent-social-media.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
         <loc>https://majordigest.com/politics/2023/08/31/murphy-new-jersey-influx-migrants/</loc>
         <news:news>
           <news:publication>
@@ -252,48 +294,6 @@
         </news:news>
         <image:image>
           <image:loc>https://majordigest.com/politics/2023/08/31/murphy-new-jersey-influx-migrants/murphy-new-jersey-influx-migrants.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/politics/2023/08/31/ex-proud-boys-organizer-sentenced-to-17-years-in-prison-for-plot-to-keep-trump-in-power/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-31T22:54:35.000Z</news:publication_date>
-          <news:title>Two ex-Proud Boys leaders get some of longest sentences in Jan. 6 Capitol attack</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/politics/2023/08/31/ex-proud-boys-organizer-sentenced-to-17-years-in-prison-for-plot-to-keep-trump-in-power/ex-proud-boys-organizer-sentenced-to-17-years-in-prison-for-plot-to-keep-trump-in-power.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/politics/2023/08/31/mississippi-candidate-for-attorney-general-says-the-state-isnt-doing-enough-to-protect-workers/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-31T22:53:33.000Z</news:publication_date>
-          <news:title>Mississippi candidate for attorney general says the state isn't doing enough to protect workers</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/politics/2023/08/31/mississippi-candidate-for-attorney-general-says-the-state-isnt-doing-enough-to-protect-workers/mississippi-candidate-for-attorney-general-says-the-state-isnt-doing-enough-to-protect-workers.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/politics/2023/08/31/hurricane-shooting-test-desantis-leadership-as-he-trades-the-campaign-trail-for-crisis-management/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-31T22:02:34.000Z</news:publication_date>
-          <news:title>Hurricane, shooting test DeSantis leadership as he trades the campaign trail for crisis management</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/politics/2023/08/31/hurricane-shooting-test-desantis-leadership-as-he-trades-the-campaign-trail-for-crisis-management/hurricane-shooting-test-desantis-leadership-as-he-trades-the-campaign-trail-for-crisis-management.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -311,17 +311,17 @@
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/politics/2023/08/31/minnesota-thc-beverage-company-cofounder-sees-black-ownership-in-the-marijuana-business/</loc>
+        <loc>https://majordigest.com/politics/2023/08/31/ex-proud-boys-organizer-sentenced-to-17-years-in-prison-for-plot-to-keep-trump-in-power/</loc>
         <news:news>
           <news:publication>
             <news:name>Major Digest</news:name>
             <news:language>en</news:language>
           </news:publication>
-          <news:publication_date>2023-08-31T16:58:00.000Z</news:publication_date>
-          <news:title>Minnesota THC beverage company co-founder sees Black ownership in the marijuana business as social justice issue </news:title>
+          <news:publication_date>2023-08-31T17:51:20.000Z</news:publication_date>
+          <news:title>Ex-Proud Boys organizer sentenced to 17 years in prison for plot to keep Trump in power</news:title>
         </news:news>
         <image:image>
-          <image:loc>https://majordigest.com/politics/2023/08/31/minnesota-thc-beverage-company-cofounder-sees-black-ownership-in-the-marijuana-business/minnesota-thc-beverage-company-cofounder-sees-black-ownership-in-the-marijuana-business.webp</image:loc>
+          <image:loc>https://majordigest.com/politics/2023/08/31/ex-proud-boys-organizer-sentenced-to-17-years-in-prison-for-plot-to-keep-trump-in-power/ex-proud-boys-organizer-sentenced-to-17-years-in-prison-for-plot-to-keep-trump-in-power.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -336,6 +336,20 @@
         </news:news>
         <image:image>
           <image:loc>https://majordigest.com/politics/2023/08/31/trump-pleads-not-guilty-in-georgia-waives-arraignment/trump-pleads-not-guilty-in-georgia-waives-arraignment.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/politics/2023/08/31/justice-clarence-thomas-reports-he-took-3-trips-on-republican-donors-plane-last-year/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-31T14:35:05.000Z</news:publication_date>
+          <news:title>Justice Clarence Thomas reports he took 3 trips on Republican donor's plane last year</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/politics/2023/08/31/justice-clarence-thomas-reports-he-took-3-trips-on-republican-donors-plane-last-year/justice-clarence-thomas-reports-he-took-3-trips-on-republican-donors-plane-last-year.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -409,6 +423,20 @@
         </image:image>
       </url>
       <url>
+        <loc>https://majordigest.com/politics/2023/08/30/katie-porter-makes-campaign-stop-in-sf-mission-district/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-30T17:41:17.000Z</news:publication_date>
+          <news:title>Katie Porter makes campaign stop in SF Mission District</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/politics/2023/08/30/katie-porter-makes-campaign-stop-in-sf-mission-district/katie-porter-makes-campaign-stop-in-sf-mission-district.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
         <loc>https://majordigest.com/politics/2023/08/30/desantis-holds-news-conference-before-hurricane-idalia-makes-landfall/</loc>
         <news:news>
           <news:publication>
@@ -451,20 +479,6 @@
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/politics/2023/08/29/democrat-resigning-assembly-post-to-work-for-las-vegas/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-29T17:58:23.000Z</news:publication_date>
-          <news:title>Democrat resigning Assembly post to work for Las Vegas</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/politics/2023/08/29/democrat-resigning-assembly-post-to-work-for-las-vegas/democrat-resigning-assembly-post-to-work-for-las-vegas.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
         <loc>https://majordigest.com/politics/2023/08/28/senate-candidates-visit-stockton-to-support-rep-josh-harder-reelection-campaign/</loc>
         <news:news>
           <news:publication>
@@ -490,20 +504,6 @@
         </news:news>
         <image:image>
           <image:loc>https://majordigest.com/politics/2023/08/28/biden-approves-emergency-declaration-for-florida-ahead-of-t-s-idalia/biden-approves-emergency-declaration-for-florida-ahead-of-t-s-idalia.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/politics/2023/08/26/gop-presidential-candidate-vivek-ramaswamy-is-an-unaffiliated-voter-nbc-reports/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-26T20:33:41.000Z</news:publication_date>
-          <news:title>GOP presidential candidate Vivek Ramaswamy is an 'unaffiliated' voter, NBC reports</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/politics/2023/08/26/gop-presidential-candidate-vivek-ramaswamy-is-an-unaffiliated-voter-nbc-reports/gop-presidential-candidate-vivek-ramaswamy-is-an-unaffiliated-voter-nbc-reports.webp</image:loc>
         </image:image>
       </url>
       <url>

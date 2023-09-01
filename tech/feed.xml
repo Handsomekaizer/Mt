@@ -7,7 +7,7 @@
         <title>Major Digest - Reliable and Comprehensive News Sources: tech</title>
         <description>Get the latest news online at Major Digest, the top online news resource for the most reliable news sources. Stay informed about the world around you!</description>
         <link>https://majordigest.com/?utm_medium=RSS</link>
-        <lastBuildDate>Fri, 01 Sep 2023 11:16:49 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 01 Sep 2023 12:34:29 GMT</lastBuildDate>
         <generator>https://majordigest.com/?v=1.1.4</generator>
         <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/" />
         <atom:link rel="self" href="https://majordigest.com/tech/feed.xml" type="application/rss+xml" />
@@ -19,6 +19,17 @@
           <link>https://majordigest.com/?utm_medium=RSS</link>
         </image>
       <item>
+        <title>In Mississippi, a tiny fish is reintroduced to the river where it disappeared 50 years ago</title>
+        <description><![CDATA[A species of tiny fish that once flourished in the U.S. South's Pearl River is being reintroduced there after disappearing 50 years ago.]]></description>
+        <guid>https://majordigest.com/tech/2023/09/01/in-mississippi-a-tiny-fish-is-reintroduced-to-the-river-where-it-disappeared-50-years-ago/</guid>
+        <link>https://majordigest.com/tech/2023/09/01/in-mississippi-a-tiny-fish-is-reintroduced-to-the-river-where-it-disappeared-50-years-ago/</link>
+        <pubDate>Fri, 01 Sep 2023 11:27:31 +0000</pubDate>
+        <category>tech</category>
+        <media:content medium="image" url="https://majordigest.com/tech/2023/09/01/in-mississippi-a-tiny-fish-is-reintroduced-to-the-river-where-it-disappeared-50-years-ago/in-mississippi-a-tiny-fish-is-reintroduced-to-the-river-where-it-disappeared-50-years-ago.webp"/>
+        <media:thumbnail url="https://majordigest.com/tech/2023/09/01/in-mississippi-a-tiny-fish-is-reintroduced-to-the-river-where-it-disappeared-50-years-ago/in-mississippi-a-tiny-fish-is-reintroduced-to-the-river-where-it-disappeared-50-years-ago.webp"/>
+        <dc:creator>Stephen Smith And Kevin Mcgill, Associated Press, KPRC 2</dc:creator>
+      </item>
+      <item>
         <title>Progressive campaign blasts California Democrat as &#8216;Big Tech&#8217;s Best Friend&#8217;&#160;</title>
         <description><![CDATA[A progressive campaign is slamming Rep. Lou Correa (D-Calif.), the top Democrat on the House Judiciary antitrust subcommittee over his opposition to a series of antitrust reform bills that target dominant tech companies.]]></description>
         <guid>https://majordigest.com/tech/2023/09/01/progressive-campaign-blasts-california-democrat-as-big-techs-best-friend/</guid>
@@ -28,17 +39,6 @@
         <media:content medium="image" url="https://majordigest.com/tech/2023/09/01/progressive-campaign-blasts-california-democrat-as-big-techs-best-friend/progressive-campaign-blasts-california-democrat-as-big-techs-best-friend.webp"/>
         <media:thumbnail url="https://majordigest.com/tech/2023/09/01/progressive-campaign-blasts-california-democrat-as-big-techs-best-friend/progressive-campaign-blasts-california-democrat-as-big-techs-best-friend.webp"/>
         <dc:creator>Rebecca Klar, The Hill</dc:creator>
-      </item>
-      <item>
-        <title>Newspaper giant pauses AI experiment after readers mock bizarre sports reporting</title>
-        <description><![CDATA[Newspaper publisher Gannett paused its AI experiment following backlash over awkward phrasing and errors that made it into published stories, Fox News Digital has learned.]]></description>
-        <guid>https://majordigest.com/tech/2023/09/01/newspaper-giant-pauses-ai-experiment-readers-mock-bizarre-sports-reporting/</guid>
-        <link>https://majordigest.com/tech/2023/09/01/newspaper-giant-pauses-ai-experiment-readers-mock-bizarre-sports-reporting/</link>
-        <pubDate>Fri, 01 Sep 2023 02:00:36 EDT</pubDate>
-        <category>tech</category>
-        <media:content medium="image" url="https://majordigest.com/tech/2023/09/01/newspaper-giant-pauses-ai-experiment-readers-mock-bizarre-sports-reporting/newspaper-giant-pauses-ai-experiment-readers-mock-bizarre-sports-reporting.webp"/>
-        <media:thumbnail url="https://majordigest.com/tech/2023/09/01/newspaper-giant-pauses-ai-experiment-readers-mock-bizarre-sports-reporting/newspaper-giant-pauses-ai-experiment-readers-mock-bizarre-sports-reporting.webp"/>
-        <dc:creator>Fox News</dc:creator>
       </item>
       <item>
         <title>Newspaper giant pauses AI experiment after readers mock bizarre sports reporting</title>
@@ -269,7 +269,7 @@
         <category>tech</category>
         <media:content medium="image" url="https://majordigest.com/tech/2023/08/31/japans-pm-visits-fish-market-vows-to-help-fisheries-hit-by-china-ban-over-fukushima-water-release/japans-pm-visits-fish-market-vows-to-help-fisheries-hit-by-china-ban-over-fukushima-water-release.webp"/>
         <media:thumbnail url="https://majordigest.com/tech/2023/08/31/japans-pm-visits-fish-market-vows-to-help-fisheries-hit-by-china-ban-over-fukushima-water-release/japans-pm-visits-fish-market-vows-to-help-fisheries-hit-by-china-ban-over-fukushima-water-release.webp"/>
-        <dc:creator>Mari Yamaguchi, Associated Press, KPRC 2</dc:creator>
+        <dc:creator>Mari Yamaguchi, Associated Press, Local 4</dc:creator>
       </item>
       <item>
         <title>West Point time capsule that appeared to contain nothing more than silt yields centuries-old coins</title>

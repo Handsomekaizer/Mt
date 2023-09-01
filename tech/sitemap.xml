@@ -3,6 +3,20 @@
               xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
               xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
       <url>
+        <loc>https://majordigest.com/tech/2023/09/01/in-mississippi-a-tiny-fish-is-reintroduced-to-the-river-where-it-disappeared-50-years-ago/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-09-01T11:27:31.000Z</news:publication_date>
+          <news:title>In Mississippi, a tiny fish is reintroduced to the river where it disappeared 50 years ago</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/tech/2023/09/01/in-mississippi-a-tiny-fish-is-reintroduced-to-the-river-where-it-disappeared-50-years-ago/in-mississippi-a-tiny-fish-is-reintroduced-to-the-river-where-it-disappeared-50-years-ago.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
         <loc>https://majordigest.com/tech/2023/09/01/progressive-campaign-blasts-california-democrat-as-big-techs-best-friend/</loc>
         <news:news>
           <news:publication>
@@ -14,20 +28,6 @@
         </news:news>
         <image:image>
           <image:loc>https://majordigest.com/tech/2023/09/01/progressive-campaign-blasts-california-democrat-as-big-techs-best-friend/progressive-campaign-blasts-california-democrat-as-big-techs-best-friend.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/tech/2023/09/01/newspaper-giant-pauses-ai-experiment-readers-mock-bizarre-sports-reporting/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-09-01T06:00:36.000Z</news:publication_date>
-          <news:title>Newspaper giant pauses AI experiment after readers mock bizarre sports reporting</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/tech/2023/09/01/newspaper-giant-pauses-ai-experiment-readers-mock-bizarre-sports-reporting/newspaper-giant-pauses-ai-experiment-readers-mock-bizarre-sports-reporting.webp</image:loc>
         </image:image>
       </url>
       <url>
