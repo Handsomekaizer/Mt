@@ -3,17 +3,17 @@
               xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
               xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
       <url>
-        <loc>https://majordigest.com/tech/2023/09/01/google-alleges-doj-antitrust-head-of-deep-seated-bias/</loc>
+        <loc>https://majordigest.com/tech/2023/09/01/green-card-game-legally-immigrate-us/</loc>
         <news:news>
           <news:publication>
             <news:name>Major Digest</news:name>
             <news:language>en</news:language>
           </news:publication>
-          <news:publication_date>2023-09-01T20:01:40.000Z</news:publication_date>
-          <news:title>Google alleges DOJ antitrust head of &#8216;deep-seated bias&#8217;</news:title>
+          <news:publication_date>2023-09-01T20:35:13.000Z</news:publication_date>
+          <news:title>The Green Card Game: Could you legally immigrate to the US?</news:title>
         </news:news>
         <image:image>
-          <image:loc>https://majordigest.com/tech/2023/09/01/google-alleges-doj-antitrust-head-of-deep-seated-bias/google-alleges-doj-antitrust-head-of-deep-seated-bias.webp</image:loc>
+          <image:loc>https://majordigest.com/tech/2023/09/01/green-card-game-legally-immigrate-us/green-card-game-legally-immigrate-us.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -210,6 +210,20 @@
         </news:news>
         <image:image>
           <image:loc>https://majordigest.com/tech/2023/08/31/delta-air-lines-says-it-has-protected-its-planes-against-interference-from-5g-wireless-signals/delta-air-lines-says-it-has-protected-its-planes-against-interference-from-5g-wireless-signals.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/tech/2023/08/31/x-formerly-twitter-to-allow-paid-political-advertising-again/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-31T20:47:49.000Z</news:publication_date>
+          <news:title>X, formerly Twitter,&#160;to allow paid political advertising again</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/tech/2023/08/31/x-formerly-twitter-to-allow-paid-political-advertising-again/x-formerly-twitter-to-allow-paid-political-advertising-again.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -448,20 +462,6 @@
         </news:news>
         <image:image>
           <image:loc>https://majordigest.com/tech/2023/08/30/2023-nissan-ariya-electric-crossover-review/2023-nissan-ariya-electric-crossover-review.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/tech/2023/08/29/16-attorneys-general-sec-audit-shein-forced-labor/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-29T21:59:00.000Z</news:publication_date>
-          <news:title>16 Attorneys General ask SEC to audit Shein over forced labor</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/tech/2023/08/29/16-attorneys-general-sec-audit-shein-forced-labor/16-attorneys-general-sec-audit-shein-forced-labor.webp</image:loc>
         </image:image>
       </url>
       <url>
