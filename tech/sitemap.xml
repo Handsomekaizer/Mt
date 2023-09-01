@@ -3,6 +3,34 @@
               xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
               xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
       <url>
+        <loc>https://majordigest.com/tech/2023/09/01/online-marketplaces-social-media-platforms-under-fire-congress-recalled-products/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-09-01T16:19:19.000Z</news:publication_date>
+          <news:title>Online marketplaces, social media platforms under fire by Congress over recalled products</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/tech/2023/09/01/online-marketplaces-social-media-platforms-under-fire-congress-recalled-products/online-marketplaces-social-media-platforms-under-fire-congress-recalled-products.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/tech/2023/09/01/ford-president-we-are-in-a-new-era-of-ev-sales/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-09-01T15:34:11.000Z</news:publication_date>
+          <news:title>Ford President: We are in a new era of EV sales</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/tech/2023/09/01/ford-president-we-are-in-a-new-era-of-ev-sales/ford-president-we-are-in-a-new-era-of-ev-sales.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
         <loc>https://majordigest.com/tech/2023/09/01/he-lost-his-son-to-fentanyl-now-hes-working-with-big-tech-california-to-help-save-other-kids/</loc>
         <news:news>
           <news:publication>
@@ -227,20 +255,6 @@
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/tech/2023/08/31/doorbell-camera-vulnerable-jamming-interference/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-31T17:20:31.000Z</news:publication_date>
-          <news:title>Is your doorbell camera vulnerable to jamming or interference?</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/tech/2023/08/31/doorbell-camera-vulnerable-jamming-interference/doorbell-camera-vulnerable-jamming-interference.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
         <loc>https://majordigest.com/tech/2023/08/31/how-to-help-kids-navigate-tracking-apps-social-media-sexting-and-more/</loc>
         <news:news>
           <news:publication>
@@ -448,20 +462,6 @@
         </news:news>
         <image:image>
           <image:loc>https://majordigest.com/tech/2023/08/29/un-warns-hundreds-of-thousands-in-southeast-asia-roped-into-online-scams/un-warns-hundreds-of-thousands-in-southeast-asia-roped-into-online-scams.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/tech/2023/08/29/meta-disrupts-covert-influence-operations-facebook-instagram/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-29T17:16:22.000Z</news:publication_date>
-          <news:title>Meta disrupts covert influence operations on Facebook, Instagram</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/tech/2023/08/29/meta-disrupts-covert-influence-operations-facebook-instagram/meta-disrupts-covert-influence-operations-facebook-instagram.webp</image:loc>
         </image:image>
       </url>
       <url>

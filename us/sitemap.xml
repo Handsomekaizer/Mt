@@ -3,6 +3,76 @@
               xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
               xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
       <url>
+        <loc>https://majordigest.com/us/2023/09/01/gabons-opposition-candidate-alleges-the-ousted-presidents-family-is-behind-a-plot-to-retain-power/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-09-01T16:04:25.000Z</news:publication_date>
+          <news:title>Gabon opposition leader alleges the ousted president's family arranged the coup to retain power</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/us/2023/09/01/gabons-opposition-candidate-alleges-the-ousted-presidents-family-is-behind-a-plot-to-retain-power/gabons-opposition-candidate-alleges-the-ousted-presidents-family-is-behind-a-plot-to-retain-power.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/us/2023/09/01/hispanic-heritage-starts-this-month-but-not-on-september-1st/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-09-01T15:38:42.000Z</news:publication_date>
+          <news:title>Hispanic heritage starts this month, but not on September 1st</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/us/2023/09/01/hispanic-heritage-starts-this-month-but-not-on-september-1st/hispanic-heritage-starts-this-month-but-not-on-september-1st.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/us/2023/09/01/texas-school-mandate-requiring-armed-officers-every-campus-deadly-uvalde-shooting-hits-roadblocks/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-09-01T15:30:58.000Z</news:publication_date>
+          <news:title>Texas school mandate requiring armed officers at every campus after deadly Uvalde shooting hits roadblocks</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/us/2023/09/01/texas-school-mandate-requiring-armed-officers-every-campus-deadly-uvalde-shooting-hits-roadblocks/texas-school-mandate-requiring-armed-officers-every-campus-deadly-uvalde-shooting-hits-roadblocks.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/us/2023/09/01/a-federal-judge-strikes-down-a-texas-law-requiring-age-verification-to-view-pornographic-websites/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-09-01T15:21:08.000Z</news:publication_date>
+          <news:title>A federal judge strikes down a Texas law requiring age verification to view pornographic websites</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/us/2023/09/01/a-federal-judge-strikes-down-a-texas-law-requiring-age-verification-to-view-pornographic-websites/a-federal-judge-strikes-down-a-texas-law-requiring-age-verification-to-view-pornographic-websites.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/us/2023/09/01/after-mauis-wildfires-thousands-brace-for-long-process-of-restoring-safe-water-service/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-09-01T15:15:27.000Z</news:publication_date>
+          <news:title>After Maui's wildfires, thousands brace for long process of restoring safe water service</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/us/2023/09/01/after-mauis-wildfires-thousands-brace-for-long-process-of-restoring-safe-water-service/after-mauis-wildfires-thousands-brace-for-long-process-of-restoring-safe-water-service.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
         <loc>https://majordigest.com/us/2023/09/01/ap-election-brief-what-to-expect-in-utahs-special-congressional-primary/</loc>
         <news:news>
           <news:publication>
@@ -28,48 +98,6 @@
         </news:news>
         <image:image>
           <image:loc>https://majordigest.com/us/2023/09/01/biden-approves-medal-of-honor-for-army-helicopter-pilot-who-rescued-soldiers-in-a-vietnam-firefight/biden-approves-medal-of-honor-for-army-helicopter-pilot-who-rescued-soldiers-in-a-vietnam-firefight.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/us/2023/09/01/russia-reports-more-drone-attacks-as-satellite-photos-indicate-earlier-barrage-destroyed-2-aircraft/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-09-01T14:59:22.000Z</news:publication_date>
-          <news:title>Russia's Putin and Turkey's Erdogan set to meet amid efforts to repair Ukraine grain deal</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/us/2023/09/01/russia-reports-more-drone-attacks-as-satellite-photos-indicate-earlier-barrage-destroyed-2-aircraft/russia-reports-more-drone-attacks-as-satellite-photos-indicate-earlier-barrage-destroyed-2-aircraft.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/us/2023/09/01/a-federal-judge-strikes-down-a-texas-law-requiring-age-verification-to-view-pornographic-websites/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-09-01T14:58:03.000Z</news:publication_date>
-          <news:title>A federal judge strikes down a Texas law requiring age verification to view pornographic websites</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/us/2023/09/01/a-federal-judge-strikes-down-a-texas-law-requiring-age-verification-to-view-pornographic-websites/a-federal-judge-strikes-down-a-texas-law-requiring-age-verification-to-view-pornographic-websites.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/us/2023/09/01/its-joy-mixed-with-sorrow-as-ukrainian-children-go-back-to-school-in-the-midst-of-war/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-09-01T14:44:02.000Z</news:publication_date>
-          <news:title>It's joy mixed with sorrow as Ukrainian children go back to school in the midst of war</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/us/2023/09/01/its-joy-mixed-with-sorrow-as-ukrainian-children-go-back-to-school-in-the-midst-of-war/its-joy-mixed-with-sorrow-as-ukrainian-children-go-back-to-school-in-the-midst-of-war.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -115,73 +143,17 @@
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/us/2023/09/01/ms-13-gang-member-pleads-guilty-part-4-murders-including-killing-2-teenage-girls/</loc>
+        <loc>https://majordigest.com/us/2023/09/01/burger-king-faces-whopper-sized-lawsuit/</loc>
         <news:news>
           <news:publication>
             <news:name>Major Digest</news:name>
             <news:language>en</news:language>
           </news:publication>
-          <news:publication_date>2023-09-01T14:19:57.000Z</news:publication_date>
-          <news:title>MS-13 gang member pleads guilty for his role in 4 murders, including the violent killing of 2 teenage girls</news:title>
+          <news:publication_date>2023-09-01T13:12:47.000Z</news:publication_date>
+          <news:title>Burger King faces Whopper-sized lawsuit</news:title>
         </news:news>
         <image:image>
-          <image:loc>https://majordigest.com/us/2023/09/01/ms-13-gang-member-pleads-guilty-part-4-murders-including-killing-2-teenage-girls/ms-13-gang-member-pleads-guilty-part-4-murders-including-killing-2-teenage-girls.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/us/2023/09/01/after-mauis-wildfires-thousands-brace-for-long-process-of-restoring-safe-water-service/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-09-01T13:49:11.000Z</news:publication_date>
-          <news:title>After Maui's wildfires, thousands brace for long process of restoring safe water service</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/us/2023/09/01/after-mauis-wildfires-thousands-brace-for-long-process-of-restoring-safe-water-service/after-mauis-wildfires-thousands-brace-for-long-process-of-restoring-safe-water-service.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/us/2023/09/01/texas-national-guard-soldier-suspended-wounding-man-cross-border-shooting-mexicos-president/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-09-01T13:42:07.000Z</news:publication_date>
-          <news:title>Texas National Guard soldier suspended after wounding man in cross-border shooting, Mexico's president says</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/us/2023/09/01/texas-national-guard-soldier-suspended-wounding-man-cross-border-shooting-mexicos-president/texas-national-guard-soldier-suspended-wounding-man-cross-border-shooting-mexicos-president.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/us/2023/09/01/walking-dead-spinoffs-interview-with-the-vampire-to-resume-with-actors-union-approval/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-09-01T13:08:39.000Z</news:publication_date>
-          <news:title>'Walking Dead' spinoffs, 'Interview With the Vampire' to resume with actors' union approval</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/us/2023/09/01/walking-dead-spinoffs-interview-with-the-vampire-to-resume-with-actors-union-approval/walking-dead-spinoffs-interview-with-the-vampire-to-resume-with-actors-union-approval.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/us/2023/09/01/interest-on-student-loans-is-back-heres-what-to-know/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-09-01T12:46:00.000Z</news:publication_date>
-          <news:title>Interest on student loans is back: Here's what to know</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/us/2023/09/01/interest-on-student-loans-is-back-heres-what-to-know/interest-on-student-loans-is-back-heres-what-to-know.webp</image:loc>
+          <image:loc>https://majordigest.com/us/2023/09/01/burger-king-faces-whopper-sized-lawsuit/burger-king-faces-whopper-sized-lawsuit.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -227,17 +199,17 @@
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/us/2023/09/01/residents-find-homes-gone-towns-devastated-after-idalia/</loc>
+        <loc>https://majordigest.com/us/2023/09/01/regulators-may-change-how-they-classify-marijuana-heres-what-that-would-mean/</loc>
         <news:news>
           <news:publication>
             <news:name>Major Digest</news:name>
             <news:language>en</news:language>
           </news:publication>
-          <news:publication_date>2023-09-01T09:58:02.000Z</news:publication_date>
-          <news:title>Residents find homes gone, towns devastated after Idalia</news:title>
+          <news:publication_date>2023-09-01T10:06:51.000Z</news:publication_date>
+          <news:title>Regulators may change how marijuana is classified. Here's what that would mean</news:title>
         </news:news>
         <image:image>
-          <image:loc>https://majordigest.com/us/2023/09/01/residents-find-homes-gone-towns-devastated-after-idalia/residents-find-homes-gone-towns-devastated-after-idalia.webp</image:loc>
+          <image:loc>https://majordigest.com/us/2023/09/01/regulators-may-change-how-they-classify-marijuana-heres-what-that-would-mean/regulators-may-change-how-they-classify-marijuana-heres-what-that-would-mean.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -266,6 +238,20 @@
         </news:news>
         <image:image>
           <image:loc>https://majordigest.com/us/2023/09/01/smugglers-are-steering-migrants-into-the-remote-arizona-desert-posing-new-border-patrol-challenges/smugglers-are-steering-migrants-into-the-remote-arizona-desert-posing-new-border-patrol-challenges.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/us/2023/09/01/in-final-hours-before-landfall-hurricane-idalia-stopped-intensifying-and-turned-from-tallahassee/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-09-01T04:38:40.000Z</news:publication_date>
+          <news:title>In final hours before landfall, Hurricane Idalia stopped intensifying and turned from Tallahassee</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/us/2023/09/01/in-final-hours-before-landfall-hurricane-idalia-stopped-intensifying-and-turned-from-tallahassee/in-final-hours-before-landfall-hurricane-idalia-stopped-intensifying-and-turned-from-tallahassee.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -311,6 +297,20 @@
         </image:image>
       </url>
       <url>
+        <loc>https://majordigest.com/us/2023/09/01/which-states-have-the-most-confrontational-drivers/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-09-01T01:29:09.000Z</news:publication_date>
+          <news:title>Which states have the most confrontational drivers?</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/us/2023/09/01/which-states-have-the-most-confrontational-drivers/which-states-have-the-most-confrontational-drivers.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
         <loc>https://majordigest.com/us/2023/09/01/opening-statements-begin-in-website-founders-2nd-trial-over-ads-promoting-prostitution/</loc>
         <news:news>
           <news:publication>
@@ -322,6 +322,34 @@
         </news:news>
         <image:image>
           <image:loc>https://majordigest.com/us/2023/09/01/opening-statements-begin-in-website-founders-2nd-trial-over-ads-promoting-prostitution/opening-statements-begin-in-website-founders-2nd-trial-over-ads-promoting-prostitution.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/us/2023/09/01/three-found-dead-at-remote-rocky-mountain-campsite-were-trying-to-escape-society-stepsister-says/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-09-01T01:02:51.000Z</news:publication_date>
+          <news:title>Three found dead at remote Rocky Mountain campsite were trying to escape society, stepsister says</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/us/2023/09/01/three-found-dead-at-remote-rocky-mountain-campsite-were-trying-to-escape-society-stepsister-says/three-found-dead-at-remote-rocky-mountain-campsite-were-trying-to-escape-society-stepsister-says.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/us/2023/09/01/2-dead-1-injured-after-shooting-at-the-arboretum-in-northwest-austin/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-09-01T00:58:20.000Z</news:publication_date>
+          <news:title>2 dead, including shooter, and 1 injured in shooting at The Arboretum</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/us/2023/09/01/2-dead-1-injured-after-shooting-at-the-arboretum-in-northwest-austin/2-dead-1-injured-after-shooting-at-the-arboretum-in-northwest-austin.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -381,45 +409,31 @@
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/us/2023/08/31/south-carolina-woman-recalls-moment-a-tornado-flipped-her-car-during-idalia/</loc>
+        <loc>https://majordigest.com/us/2023/08/31/leaders-speeding-up-work-permits-can-fix-labor-shortage/</loc>
         <news:news>
           <news:publication>
             <news:name>Major Digest</news:name>
             <news:language>en</news:language>
           </news:publication>
-          <news:publication_date>2023-08-31T22:32:52.000Z</news:publication_date>
-          <news:title>South Carolina woman recalls moment a tornado flipped her car during Idalia</news:title>
+          <news:publication_date>2023-08-31T21:32:42.000Z</news:publication_date>
+          <news:title>Leaders: Speeding up work permits can fix labor shortage</news:title>
         </news:news>
         <image:image>
-          <image:loc>https://majordigest.com/us/2023/08/31/south-carolina-woman-recalls-moment-a-tornado-flipped-her-car-during-idalia/south-carolina-woman-recalls-moment-a-tornado-flipped-her-car-during-idalia.webp</image:loc>
+          <image:loc>https://majordigest.com/us/2023/08/31/leaders-speeding-up-work-permits-can-fix-labor-shortage/leaders-speeding-up-work-permits-can-fix-labor-shortage.webp</image:loc>
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/us/2023/08/31/americans-want-congressional-term-limits/</loc>
+        <loc>https://majordigest.com/us/2023/08/31/white-house-defends-maui-wildfire-response-announces-95m-for-recovery/</loc>
         <news:news>
           <news:publication>
             <news:name>Major Digest</news:name>
             <news:language>en</news:language>
           </news:publication>
-          <news:publication_date>2023-08-31T22:19:10.000Z</news:publication_date>
-          <news:title>Americans on both sides of the aisle want congressional term limits</news:title>
+          <news:publication_date>2023-08-31T21:10:16.000Z</news:publication_date>
+          <news:title>White House defends Maui wildfire response, announces $95M for recovery</news:title>
         </news:news>
         <image:image>
-          <image:loc>https://majordigest.com/us/2023/08/31/americans-want-congressional-term-limits/americans-want-congressional-term-limits.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/us/2023/08/31/reports-inmate-dead-others-injured-in-stabbings-at-atlanta-jail-where-trump-was-booked/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-31T21:00:58.000Z</news:publication_date>
-          <news:title>Inmate dead, others injured in stabbings at Atlanta jail where Trump was booked</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/us/2023/08/31/reports-inmate-dead-others-injured-in-stabbings-at-atlanta-jail-where-trump-was-booked/reports-inmate-dead-others-injured-in-stabbings-at-atlanta-jail-where-trump-was-booked.webp</image:loc>
+          <image:loc>https://majordigest.com/us/2023/08/31/white-house-defends-maui-wildfire-response-announces-95m-for-recovery/white-house-defends-maui-wildfire-response-announces-95m-for-recovery.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -437,59 +451,17 @@
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/us/2023/08/31/watch-car-with-giant-bull-named-howdy-doody-riding-shotgun-pulled-over-in-nebraska/</loc>
+        <loc>https://majordigest.com/us/2023/08/31/x-formerly-twitter-to-allow-paid-political-advertising-again/</loc>
         <news:news>
           <news:publication>
             <news:name>Major Digest</news:name>
             <news:language>en</news:language>
           </news:publication>
-          <news:publication_date>2023-08-31T20:32:56.000Z</news:publication_date>
-          <news:title>WATCH: Car with giant bull named Howdy Doody riding shotgun pulled over in Nebraska</news:title>
+          <news:publication_date>2023-08-31T20:47:49.000Z</news:publication_date>
+          <news:title>X, formerly Twitter,&#160;to allow paid political advertising again</news:title>
         </news:news>
         <image:image>
-          <image:loc>https://majordigest.com/us/2023/08/31/watch-car-with-giant-bull-named-howdy-doody-riding-shotgun-pulled-over-in-nebraska/watch-car-with-giant-bull-named-howdy-doody-riding-shotgun-pulled-over-in-nebraska.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/us/2023/08/31/8-passengers-mom-ruby-franke-arrested-for-alleged-child-abuse/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-31T19:05:14.000Z</news:publication_date>
-          <news:title>'8 Passengers' mom Ruby Franke arrested for alleged child abuse</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/us/2023/08/31/8-passengers-mom-ruby-franke-arrested-for-alleged-child-abuse/8-passengers-mom-ruby-franke-arrested-for-alleged-child-abuse.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/us/2023/08/31/statue-believed-to-depict-marcus-aurelius-seized-from-cleveland-museum-in-looting-investigation/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-31T19:00:38.000Z</news:publication_date>
-          <news:title>Statue believed to depict Marcus Aurelius seized from Cleveland museum in looting investigation</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/us/2023/08/31/statue-believed-to-depict-marcus-aurelius-seized-from-cleveland-museum-in-looting-investigation/statue-believed-to-depict-marcus-aurelius-seized-from-cleveland-museum-in-looting-investigation.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/us/2023/08/31/biden-says-he-has-no-concerns-about-mcconnells-health-after-speaking-to-him/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-31T18:34:35.000Z</news:publication_date>
-          <news:title>Biden says he has no concerns about McConnell's health after speaking to him</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/us/2023/08/31/biden-says-he-has-no-concerns-about-mcconnells-health-after-speaking-to-him/biden-says-he-has-no-concerns-about-mcconnells-health-after-speaking-to-him.webp</image:loc>
+          <image:loc>https://majordigest.com/us/2023/08/31/x-formerly-twitter-to-allow-paid-political-advertising-again/x-formerly-twitter-to-allow-paid-political-advertising-again.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -504,6 +476,34 @@
         </news:news>
         <image:image>
           <image:loc>https://majordigest.com/us/2023/08/31/student-loan-payments-start-soon-everything-you-need-to-know/student-loan-payments-start-soon-everything-you-need-to-know.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/us/2023/08/31/this-is-how-much-singles-need-to-live-comfortably-in-every-state/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-31T15:27:00.000Z</news:publication_date>
+          <news:title>This is how much singles need to live comfortably in every state</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/us/2023/08/31/this-is-how-much-singles-need-to-live-comfortably-in-every-state/this-is-how-much-singles-need-to-live-comfortably-in-every-state.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/us/2023/08/30/higher-education-levels-linked-with-civic-engagement-better-health-gallup/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-30T17:27:05.000Z</news:publication_date>
+          <news:title>Higher education levels linked with civic engagement, better health: Gallup</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/us/2023/08/30/higher-education-levels-linked-with-civic-engagement-better-health-gallup/higher-education-levels-linked-with-civic-engagement-better-health-gallup.webp</image:loc>
         </image:image>
       </url>
       <url>
