@@ -3,6 +3,34 @@
               xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
               xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
       <url>
+        <loc>https://majordigest.com/tech/2023/09/01/he-lost-his-son-to-fentanyl-now-hes-working-with-big-tech-california-to-help-save-other-kids/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-09-01T15:00:41.000Z</news:publication_date>
+          <news:title>He lost his son to fentanyl. Now he&#8217;s working with Big Tech, California to help save other kids</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/tech/2023/09/01/he-lost-his-son-to-fentanyl-now-hes-working-with-big-tech-california-to-help-save-other-kids/he-lost-his-son-to-fentanyl-now-hes-working-with-big-tech-california-to-help-save-other-kids.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/tech/2023/09/01/texas-law-requiring-age-verification-measures-for-pornography-sites-unconstitutional-judge-rules/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-09-01T14:40:12.000Z</news:publication_date>
+          <news:title>Texas law requiring age-verification measures for pornography sites unconstitutional, judge rules</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/tech/2023/09/01/texas-law-requiring-age-verification-measures-for-pornography-sites-unconstitutional-judge-rules/texas-law-requiring-age-verification-measures-for-pornography-sites-unconstitutional-judge-rules.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
         <loc>https://majordigest.com/tech/2023/09/01/ai-technology-lets-you-talk-to-jesus-or-satan-what-do-they-say/</loc>
         <news:news>
           <news:publication>
@@ -143,20 +171,6 @@
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/tech/2023/08/31/bipartisan-duo-urges-visa-mastercard-to-call-off-swipe-fee-boost/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-31T21:25:27.000Z</news:publication_date>
-          <news:title>Bipartisan duo urges Visa, Mastercard to call off planned swipe fee increases</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/tech/2023/08/31/bipartisan-duo-urges-visa-mastercard-to-call-off-swipe-fee-boost/bipartisan-duo-urges-visa-mastercard-to-call-off-swipe-fee-boost.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
         <loc>https://majordigest.com/tech/2023/08/31/how-protect-yourself-vishing-scams/</loc>
         <news:news>
           <news:publication>
@@ -252,20 +266,6 @@
         </news:news>
         <image:image>
           <image:loc>https://majordigest.com/tech/2023/08/31/all-we-want-is-revenge-how-social-media-fuels-gun-violence-among-teens/all-we-want-is-revenge-how-social-media-fuels-gun-violence-among-teens.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/tech/2023/08/31/san-jose-airport-passenger-economy-tech-covid-airline-travel-fly-july/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-31T12:30:54.000Z</news:publication_date>
-          <news:title>San Jose Airport passenger trips cruise to higher levels in July</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/tech/2023/08/31/san-jose-airport-passenger-economy-tech-covid-airline-travel-fly-july/san-jose-airport-passenger-economy-tech-covid-airline-travel-fly-july.webp</image:loc>
         </image:image>
       </url>
       <url>
