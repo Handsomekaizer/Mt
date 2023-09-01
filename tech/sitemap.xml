@@ -3,6 +3,34 @@
               xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
               xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
       <url>
+        <loc>https://majordigest.com/tech/2023/09/01/ai-technology-lets-you-talk-to-jesus-or-satan-what-do-they-say/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-09-01T14:02:13.000Z</news:publication_date>
+          <news:title>AI technology lets you talk to Jesus or Satan. What do they say?</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/tech/2023/09/01/ai-technology-lets-you-talk-to-jesus-or-satan-what-do-they-say/ai-technology-lets-you-talk-to-jesus-or-satan-what-do-they-say.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/tech/2023/09/01/what-to-stream-this-weekend-indiana-jones-one-piece-the-menu-and-tunes-from-nct-and-icona-pop/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-09-01T13:57:31.000Z</news:publication_date>
+          <news:title>What to stream this weekend: Indiana Jones, 'One Piece,' 'The Menu' and tunes from NCT and Icona Pop</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/tech/2023/09/01/what-to-stream-this-weekend-indiana-jones-one-piece-the-menu-and-tunes-from-nct-and-icona-pop/what-to-stream-this-weekend-indiana-jones-one-piece-the-menu-and-tunes-from-nct-and-icona-pop.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
         <loc>https://majordigest.com/tech/2023/09/01/how-stop-health-fitness-apps-using-your-private-data/</loc>
         <news:news>
           <news:publication>
@@ -241,20 +269,6 @@
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/tech/2023/08/31/livermore-tesla-real-estate-buy-economy-tech-green-electric-car-covid/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-31T12:30:06.000Z</news:publication_date>
-          <news:title>Huge East Bay buildings that include Tesla operations are bought</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/tech/2023/08/31/livermore-tesla-real-estate-buy-economy-tech-green-electric-car-covid/livermore-tesla-real-estate-buy-economy-tech-green-electric-car-covid.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
         <loc>https://majordigest.com/tech/2023/08/31/microsoft-to-stop-packaging-teams-and-office-software-in-europe-to-head-off-eu-antitrust-action/</loc>
         <news:news>
           <news:publication>
@@ -308,20 +322,6 @@
         </news:news>
         <image:image>
           <image:loc>https://majordigest.com/tech/2023/08/31/trains-suspended-people-warned-away-from-the-coastline-as-typhoon-saola-churns-toward-south-china/trains-suspended-people-warned-away-from-the-coastline-as-typhoon-saola-churns-toward-south-china.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/tech/2023/08/31/japans-pm-visits-fish-market-vows-to-help-fisheries-hit-by-china-ban-over-fukushima-water-release/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-31T04:02:13.000Z</news:publication_date>
-          <news:title>U.S. envoy visits Fukushima to eat fish, criticize China's seafood ban over wastewater release</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/tech/2023/08/31/japans-pm-visits-fish-market-vows-to-help-fisheries-hit-by-china-ban-over-fukushima-water-release/japans-pm-visits-fish-market-vows-to-help-fisheries-hit-by-china-ban-over-fukushima-water-release.webp</image:loc>
         </image:image>
       </url>
       <url>
