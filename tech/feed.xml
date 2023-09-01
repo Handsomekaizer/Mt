@@ -7,7 +7,7 @@
         <title>Major Digest - Reliable and Comprehensive News Sources: tech</title>
         <description>Get the latest news online at Major Digest, the top online news resource for the most reliable news sources. Stay informed about the world around you!</description>
         <link>https://majordigest.com/?utm_medium=RSS</link>
-        <lastBuildDate>Fri, 01 Sep 2023 12:34:29 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 01 Sep 2023 13:21:59 GMT</lastBuildDate>
         <generator>https://majordigest.com/?v=1.1.4</generator>
         <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/" />
         <atom:link rel="self" href="https://majordigest.com/tech/feed.xml" type="application/rss+xml" />
@@ -18,6 +18,17 @@
           <url>https://majordigest.com/assets/icons/logo-512x512.png</url>
           <link>https://majordigest.com/?utm_medium=RSS</link>
         </image>
+      <item>
+        <title>How to stop health and fitness apps from using your private data</title>
+        <description><![CDATA[Health and fitness tracking apps can help us get in shape, but it&apos;s important to understand how apps use personal data, Kurt &quot;The CyberGuy&quot; Knutsson explains.]]></description>
+        <guid>https://majordigest.com/tech/2023/09/01/how-stop-health-fitness-apps-using-your-private-data/</guid>
+        <link>https://majordigest.com/tech/2023/09/01/how-stop-health-fitness-apps-using-your-private-data/</link>
+        <pubDate>Fri, 01 Sep 2023 09:05:48 EDT</pubDate>
+        <category>tech</category>
+        <media:content medium="image" url="https://majordigest.com/tech/2023/09/01/how-stop-health-fitness-apps-using-your-private-data/how-stop-health-fitness-apps-using-your-private-data.webp"/>
+        <media:thumbnail url="https://majordigest.com/tech/2023/09/01/how-stop-health-fitness-apps-using-your-private-data/how-stop-health-fitness-apps-using-your-private-data.webp"/>
+        <dc:creator>Fox News</dc:creator>
+      </item>
       <item>
         <title>In Mississippi, a tiny fish is reintroduced to the river where it disappeared 50 years ago</title>
         <description><![CDATA[A species of tiny fish that once flourished in the U.S. South's Pearl River is being reintroduced there after disappearing 50 years ago.]]></description>
@@ -182,17 +193,6 @@
         <media:content medium="image" url="https://majordigest.com/tech/2023/08/31/all-we-want-is-revenge-how-social-media-fuels-gun-violence-among-teens/all-we-want-is-revenge-how-social-media-fuels-gun-violence-among-teens.webp"/>
         <media:thumbnail url="https://majordigest.com/tech/2023/08/31/all-we-want-is-revenge-how-social-media-fuels-gun-violence-among-teens/all-we-want-is-revenge-how-social-media-fuels-gun-violence-among-teens.webp"/>
         <dc:creator>Tribune News Service, The Mercury News</dc:creator>
-      </item>
-      <item>
-        <title>Cunning romance scams and how to avoid them</title>
-        <description><![CDATA[Kurt &quot;The CyberGuy&quot; Knutsson explains how online dating scams can prey on victims by building an emotional connection before extracting money.]]></description>
-        <guid>https://majordigest.com/tech/2023/08/31/cunning-romance-scams-how-avoid-them/</guid>
-        <link>https://majordigest.com/tech/2023/08/31/cunning-romance-scams-how-avoid-them/</link>
-        <pubDate>Thu, 31 Aug 2023 10:00:26 EDT</pubDate>
-        <category>tech</category>
-        <media:content medium="image" url="https://majordigest.com/tech/2023/08/31/cunning-romance-scams-how-avoid-them/cunning-romance-scams-how-avoid-them.webp"/>
-        <media:thumbnail url="https://majordigest.com/tech/2023/08/31/cunning-romance-scams-how-avoid-them/cunning-romance-scams-how-avoid-them.webp"/>
-        <dc:creator>Fox News</dc:creator>
       </item>
       <item>
         <title>San Jose Airport passenger trips cruise to higher levels in July</title>

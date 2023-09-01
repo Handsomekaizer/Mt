@@ -3,6 +3,20 @@
               xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
               xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
       <url>
+        <loc>https://majordigest.com/tech/2023/09/01/how-stop-health-fitness-apps-using-your-private-data/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-09-01T13:05:48.000Z</news:publication_date>
+          <news:title>How to stop health and fitness apps from using your private data</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/tech/2023/09/01/how-stop-health-fitness-apps-using-your-private-data/how-stop-health-fitness-apps-using-your-private-data.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
         <loc>https://majordigest.com/tech/2023/09/01/in-mississippi-a-tiny-fish-is-reintroduced-to-the-river-where-it-disappeared-50-years-ago/</loc>
         <news:news>
           <news:publication>
@@ -210,20 +224,6 @@
         </news:news>
         <image:image>
           <image:loc>https://majordigest.com/tech/2023/08/31/all-we-want-is-revenge-how-social-media-fuels-gun-violence-among-teens/all-we-want-is-revenge-how-social-media-fuels-gun-violence-among-teens.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/tech/2023/08/31/cunning-romance-scams-how-avoid-them/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-31T14:00:26.000Z</news:publication_date>
-          <news:title>Cunning romance scams and how to avoid them</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/tech/2023/08/31/cunning-romance-scams-how-avoid-them/cunning-romance-scams-how-avoid-them.webp</image:loc>
         </image:image>
       </url>
       <url>

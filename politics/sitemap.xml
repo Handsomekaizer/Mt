@@ -3,6 +3,62 @@
               xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
               xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
       <url>
+        <loc>https://majordigest.com/politics/2023/09/01/farmers-ranchers-landowners-take-aim-biden-admin-latest-crackdown/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-09-01T13:00:46.000Z</news:publication_date>
+          <news:title>Farmers, ranchers, landowners take aim at Biden admin for latest crackdown</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/politics/2023/09/01/farmers-ranchers-landowners-take-aim-biden-admin-latest-crackdown/farmers-ranchers-landowners-take-aim-biden-admin-latest-crackdown.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/politics/2023/09/01/u-s-employers-jobs-labor-market/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-09-01T12:59:29.000Z</news:publication_date>
+          <news:title>U.S. employers added a solid 187,000 jobs in August in sign of a still-resilient labor market</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/politics/2023/09/01/u-s-employers-jobs-labor-market/u-s-employers-jobs-labor-market.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/politics/2023/09/01/government-shutdown-2023-schumer/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-09-01T12:53:21.000Z</news:publication_date>
+          <news:title>Schumer moves to split House and Senate Republicans ahead of potential shutdown</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/politics/2023/09/01/government-shutdown-2023-schumer/government-shutdown-2023-schumer.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/politics/2023/09/01/nikki-haley-calls-senate-most-privileged-nursing-home-country-mcconnell-freeze-sad/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-09-01T12:33:03.000Z</news:publication_date>
+          <news:title>Nikki Haley calls Senate 'most privileged nursing home in the country,&#8217; says McConnell freeze-up was 'sad'</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/politics/2023/09/01/nikki-haley-calls-senate-most-privileged-nursing-home-country-mcconnell-freeze-sad/nikki-haley-calls-senate-most-privileged-nursing-home-country-mcconnell-freeze-sad.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
         <loc>https://majordigest.com/politics/2023/09/01/former-new-hampshire-senator-accused-using-covid-19-relief-funds-buy-luxury-cars/</loc>
         <news:news>
           <news:publication>
@@ -17,31 +73,17 @@
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/politics/2023/09/01/few-texas-republican-voters-support-ken-paxton-impeachment/</loc>
+        <loc>https://majordigest.com/politics/2023/09/01/ap-election-brief-what-to-expect-in-rhode-islands-special-primaries/</loc>
         <news:news>
           <news:publication>
             <news:name>Major Digest</news:name>
             <news:language>en</news:language>
           </news:publication>
-          <news:publication_date>2023-09-01T11:30:00.000Z</news:publication_date>
-          <news:title>Few Texas Republican voters support Ken Paxton impeachment</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/politics/2023/09/01/few-texas-republican-voters-support-ken-paxton-impeachment/few-texas-republican-voters-support-ken-paxton-impeachment.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/politics/2023/09/01/election-brief-what-to-expect-in-rhode-islands-special-primaries/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-09-01T11:28:12.000Z</news:publication_date>
+          <news:publication_date>2023-09-01T11:28:13.000Z</news:publication_date>
           <news:title>AP Election Brief | What to expect in Rhode Island's special primaries</news:title>
         </news:news>
         <image:image>
-          <image:loc>https://majordigest.com/politics/2023/09/01/election-brief-what-to-expect-in-rhode-islands-special-primaries/election-brief-what-to-expect-in-rhode-islands-special-primaries.webp</image:loc>
+          <image:loc>https://majordigest.com/politics/2023/09/01/ap-election-brief-what-to-expect-in-rhode-islands-special-primaries/ap-election-brief-what-to-expect-in-rhode-islands-special-primaries.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -56,20 +98,6 @@
         </news:news>
         <image:image>
           <image:loc>https://majordigest.com/politics/2023/09/01/texas-supreme-court-allows-ban-puberty-blockers-hormone-therapy-trans-kids-take-effect/texas-supreme-court-allows-ban-puberty-blockers-hormone-therapy-trans-kids-take-effect.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/politics/2023/09/01/ap-election-brief-what-to-expect-in-utahs-special-congressional-primary/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-09-01T10:54:53.000Z</news:publication_date>
-          <news:title>AP Election Brief | What to expect in Utah's special congressional primary</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/politics/2023/09/01/ap-election-brief-what-to-expect-in-utahs-special-congressional-primary/ap-election-brief-what-to-expect-in-utahs-special-congressional-primary.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -101,17 +129,45 @@
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/politics/2023/09/01/dan-patrick-says-he-wont-accept-donations-during-trial-after-taking-heat-for-pro-paxton-money/</loc>
+        <loc>https://majordigest.com/politics/2023/09/01/npr-canada-issues-travel-advisory-warning-over-u-s-states-lgbtq-laws/</loc>
         <news:news>
           <news:publication>
             <news:name>Major Digest</news:name>
             <news:language>en</news:language>
           </news:publication>
-          <news:publication_date>2023-09-01T10:00:00.000Z</news:publication_date>
-          <news:title>Dan Patrick says he won&#8217;t accept donations during trial, after taking heat for pro-Paxton money</news:title>
+          <news:publication_date>2023-09-01T09:06:00.000Z</news:publication_date>
+          <news:title>Canada issues travel advisory warning over U.S. states' LGBTQ+ laws</news:title>
         </news:news>
         <image:image>
-          <image:loc>https://majordigest.com/politics/2023/09/01/dan-patrick-says-he-wont-accept-donations-during-trial-after-taking-heat-for-pro-paxton-money/dan-patrick-says-he-wont-accept-donations-during-trial-after-taking-heat-for-pro-paxton-money.webp</image:loc>
+          <image:loc>https://majordigest.com/politics/2023/09/01/npr-canada-issues-travel-advisory-warning-over-u-s-states-lgbtq-laws/npr-canada-issues-travel-advisory-warning-over-u-s-states-lgbtq-laws.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/politics/2023/09/01/biden-apparently-used-pseudonym-discuss-white-house-hire-hunter-2014-email-shows/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-09-01T09:00:23.000Z</news:publication_date>
+          <news:title>Biden apparently used pseudonym to discuss White House hire with Hunter, 2014 email shows</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/politics/2023/09/01/biden-apparently-used-pseudonym-discuss-white-house-hire-hunter-2014-email-shows/biden-apparently-used-pseudonym-discuss-white-house-hire-hunter-2014-email-shows.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/politics/2023/09/01/npr-georgia-trump-election-case-legal-complexities/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-09-01T09:00:00.000Z</news:publication_date>
+          <news:title>In the Trump Georgia case, conflicting legal strategies complicate the path to trial</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/politics/2023/09/01/npr-georgia-trump-election-case-legal-complexities/npr-georgia-trump-election-case-legal-complexities.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -143,20 +199,6 @@
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/politics/2023/09/01/the-nations-cartoonists-on-the-week-in-politics/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-09-01T08:30:00.000Z</news:publication_date>
-          <news:title>The nation&#8217;s cartoonists on the week in politics</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/politics/2023/09/01/the-nations-cartoonists-on-the-week-in-politics/the-nations-cartoonists-on-the-week-in-politics.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
         <loc>https://majordigest.com/politics/2023/09/01/america-life-expectancy-regions/</loc>
         <news:news>
           <news:publication>
@@ -171,20 +213,6 @@
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/politics/2023/09/01/increasing-number-americans-say-more-concerned-excited-ai-use-survey/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-09-01T06:00:16.000Z</news:publication_date>
-          <news:title>Increasing number of Americans say they are more concerned than excited about AI: survey</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/politics/2023/09/01/increasing-number-americans-say-more-concerned-excited-ai-use-survey/increasing-number-americans-say-more-concerned-excited-ai-use-survey.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
         <loc>https://majordigest.com/politics/2023/09/01/age-competency-questions-spark-debate-on-politicians-abilities/</loc>
         <news:news>
           <news:publication>
@@ -196,20 +224,6 @@
         </news:news>
         <image:image>
           <image:loc>https://majordigest.com/politics/2023/09/01/age-competency-questions-spark-debate-on-politicians-abilities/age-competency-questions-spark-debate-on-politicians-abilities.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/politics/2023/09/01/greene-says-she-wont-vote-for-government-funding-without-biden-impeachment-inquiry/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-09-01T03:00:21.000Z</news:publication_date>
-          <news:title>Greene says she won't vote for government funding without Biden impeachment inquiry</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/politics/2023/09/01/greene-says-she-wont-vote-for-government-funding-without-biden-impeachment-inquiry/greene-says-she-wont-vote-for-government-funding-without-biden-impeachment-inquiry.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -241,6 +255,20 @@
         </image:image>
       </url>
       <url>
+        <loc>https://majordigest.com/politics/2023/09/01/one-on-one-gop-presidential-candidate-will-hurd/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-09-01T01:02:47.000Z</news:publication_date>
+          <news:title>One-on-one with GOP presidential candidate Will Hurd</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/politics/2023/09/01/one-on-one-gop-presidential-candidate-will-hurd/one-on-one-gop-presidential-candidate-will-hurd.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
         <loc>https://majordigest.com/politics/2023/09/01/well-kill-you-election-workers-get-threats-warnings-theyll-be-lynched-us-government-says/</loc>
         <news:news>
           <news:publication>
@@ -252,6 +280,34 @@
         </news:news>
         <image:image>
           <image:loc>https://majordigest.com/politics/2023/09/01/well-kill-you-election-workers-get-threats-warnings-theyll-be-lynched-us-government-says/well-kill-you-election-workers-get-threats-warnings-theyll-be-lynched-us-government-says.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/politics/2023/09/01/trump-pleads-not-guilty-and-waives-arraignment-in-georgia-election-case/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-09-01T00:53:39.000Z</news:publication_date>
+          <news:title>Trump pleads not guilty in Georgia election subversion case, seeks to sever his case from others</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/politics/2023/09/01/trump-pleads-not-guilty-and-waives-arraignment-in-georgia-election-case/trump-pleads-not-guilty-and-waives-arraignment-in-georgia-election-case.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/politics/2023/09/01/republican-files-ethics-complaint-against-democratic-lawmaker-over-funding-vote/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-09-01T00:35:55.000Z</news:publication_date>
+          <news:title>Republican files ethics complaint against Democratic lawmaker over funding vote</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/politics/2023/09/01/republican-files-ethics-complaint-against-democratic-lawmaker-over-funding-vote/republican-files-ethics-complaint-against-democratic-lawmaker-over-funding-vote.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -269,59 +325,45 @@
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/politics/2023/08/31/judge-arkansas-law-parental-consent-social-media/</loc>
+        <loc>https://majordigest.com/politics/2023/08/31/amlo-to-limit-flights-in-and-out-of-mexico-citys-main-airport/</loc>
         <news:news>
           <news:publication>
             <news:name>Major Digest</news:name>
             <news:language>en</news:language>
           </news:publication>
-          <news:publication_date>2023-08-31T23:16:21.000Z</news:publication_date>
-          <news:title>Judge blocks law requiring parental consent for kids to use social media</news:title>
+          <news:publication_date>2023-08-31T22:20:09.000Z</news:publication_date>
+          <news:title>AMLO to limit flights in and out of Mexico City's main airport</news:title>
         </news:news>
         <image:image>
-          <image:loc>https://majordigest.com/politics/2023/08/31/judge-arkansas-law-parental-consent-social-media/judge-arkansas-law-parental-consent-social-media.webp</image:loc>
+          <image:loc>https://majordigest.com/politics/2023/08/31/amlo-to-limit-flights-in-and-out-of-mexico-citys-main-airport/amlo-to-limit-flights-in-and-out-of-mexico-citys-main-airport.webp</image:loc>
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/politics/2023/08/31/murphy-new-jersey-influx-migrants/</loc>
+        <loc>https://majordigest.com/politics/2023/08/31/capitol-physician-mcconnell-medically-clear-to-continue-schedule-after-freeze-up/</loc>
         <news:news>
           <news:publication>
             <news:name>Major Digest</news:name>
             <news:language>en</news:language>
           </news:publication>
-          <news:publication_date>2023-08-31T23:00:15.000Z</news:publication_date>
-          <news:title>New Jersey governor says state can't handle NYC migrants</news:title>
+          <news:publication_date>2023-08-31T18:33:14.000Z</news:publication_date>
+          <news:title>McConnell 'medically clear,' says Capitol doctor&#160;</news:title>
         </news:news>
         <image:image>
-          <image:loc>https://majordigest.com/politics/2023/08/31/murphy-new-jersey-influx-migrants/murphy-new-jersey-influx-migrants.webp</image:loc>
+          <image:loc>https://majordigest.com/politics/2023/08/31/capitol-physician-mcconnell-medically-clear-to-continue-schedule-after-freeze-up/capitol-physician-mcconnell-medically-clear-to-continue-schedule-after-freeze-up.webp</image:loc>
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/politics/2023/08/31/the-reason-why-nyc-doesnt-have-more-weed-dispensaries/</loc>
+        <loc>https://majordigest.com/politics/2023/08/31/minnesota-thc-beverage-company-cofounder-sees-black-ownership-in-the-marijuana-business/</loc>
         <news:news>
           <news:publication>
             <news:name>Major Digest</news:name>
             <news:language>en</news:language>
           </news:publication>
-          <news:publication_date>2023-08-31T21:13:17.000Z</news:publication_date>
-          <news:title>The reason why NYC doesn't have more weed dispensaries</news:title>
+          <news:publication_date>2023-08-31T16:58:00.000Z</news:publication_date>
+          <news:title>Minnesota THC beverage company co-founder sees Black ownership in the marijuana business as social justice issue </news:title>
         </news:news>
         <image:image>
-          <image:loc>https://majordigest.com/politics/2023/08/31/the-reason-why-nyc-doesnt-have-more-weed-dispensaries/the-reason-why-nyc-doesnt-have-more-weed-dispensaries.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/politics/2023/08/31/ex-proud-boys-organizer-sentenced-to-17-years-in-prison-for-plot-to-keep-trump-in-power/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-31T17:51:20.000Z</news:publication_date>
-          <news:title>Ex-Proud Boys organizer sentenced to 17 years in prison for plot to keep Trump in power</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/politics/2023/08/31/ex-proud-boys-organizer-sentenced-to-17-years-in-prison-for-plot-to-keep-trump-in-power/ex-proud-boys-organizer-sentenced-to-17-years-in-prison-for-plot-to-keep-trump-in-power.webp</image:loc>
+          <image:loc>https://majordigest.com/politics/2023/08/31/minnesota-thc-beverage-company-cofounder-sees-black-ownership-in-the-marijuana-business/minnesota-thc-beverage-company-cofounder-sees-black-ownership-in-the-marijuana-business.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -339,34 +381,6 @@
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/politics/2023/08/31/justice-clarence-thomas-reports-he-took-3-trips-on-republican-donors-plane-last-year/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-31T14:35:05.000Z</news:publication_date>
-          <news:title>Justice Clarence Thomas reports he took 3 trips on Republican donor's plane last year</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/politics/2023/08/31/justice-clarence-thomas-reports-he-took-3-trips-on-republican-donors-plane-last-year/justice-clarence-thomas-reports-he-took-3-trips-on-republican-donors-plane-last-year.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/politics/2023/08/31/senate-gop-leader-mitch-mcconnell-appears-to-freeze-up-again-this-time-at-a-kentucky-event/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-31T10:43:03.000Z</news:publication_date>
-          <news:title>Senate GOP leader Mitch McConnell appears to freeze up again, this time at a Kentucky event</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/politics/2023/08/31/senate-gop-leader-mitch-mcconnell-appears-to-freeze-up-again-this-time-at-a-kentucky-event/senate-gop-leader-mitch-mcconnell-appears-to-freeze-up-again-this-time-at-a-kentucky-event.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
         <loc>https://majordigest.com/politics/2023/08/31/mayor-adams-calls-for-help-getting-migrants-expedited-work-authorization/</loc>
         <news:news>
           <news:publication>
@@ -378,20 +392,6 @@
         </news:news>
         <image:image>
           <image:loc>https://majordigest.com/politics/2023/08/31/mayor-adams-calls-for-help-getting-migrants-expedited-work-authorization/mayor-adams-calls-for-help-getting-migrants-expedited-work-authorization.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/politics/2023/08/31/npr-biden-air-force-one-short-stairs/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-31T10:05:00.000Z</news:publication_date>
-          <news:title>Why Biden is now routinely taking the short stairs up to Air Force One</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/politics/2023/08/31/npr-biden-air-force-one-short-stairs/npr-biden-air-force-one-short-stairs.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -479,6 +479,20 @@
         </image:image>
       </url>
       <url>
+        <loc>https://majordigest.com/politics/2023/08/29/democrat-resigning-assembly-post-to-work-for-las-vegas/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-29T17:58:23.000Z</news:publication_date>
+          <news:title>Democrat resigning Assembly post to work for Las Vegas</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/politics/2023/08/29/democrat-resigning-assembly-post-to-work-for-las-vegas/democrat-resigning-assembly-post-to-work-for-las-vegas.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
         <loc>https://majordigest.com/politics/2023/08/28/senate-candidates-visit-stockton-to-support-rep-josh-harder-reelection-campaign/</loc>
         <news:news>
           <news:publication>
@@ -490,20 +504,6 @@
         </news:news>
         <image:image>
           <image:loc>https://majordigest.com/politics/2023/08/28/senate-candidates-visit-stockton-to-support-rep-josh-harder-reelection-campaign/senate-candidates-visit-stockton-to-support-rep-josh-harder-reelection-campaign.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/politics/2023/08/28/biden-approves-emergency-declaration-for-florida-ahead-of-t-s-idalia/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-28T16:30:03.000Z</news:publication_date>
-          <news:title>Biden approves Emergency Declaration for Florida ahead of T.S. Idalia</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/politics/2023/08/28/biden-approves-emergency-declaration-for-florida-ahead-of-t-s-idalia/biden-approves-emergency-declaration-for-florida-ahead-of-t-s-idalia.webp</image:loc>
         </image:image>
       </url>
       <url>
