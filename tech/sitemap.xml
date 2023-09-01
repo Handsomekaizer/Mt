@@ -3,6 +3,34 @@
               xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
               xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
       <url>
+        <loc>https://majordigest.com/tech/2023/09/01/man-pleads-guilty-to-threatening-georgia-public-officials-over-2020-election/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-09-01T02:04:59.000Z</news:publication_date>
+          <news:title>Man pleads guilty to threatening Georgia public officials over 2020 election</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/tech/2023/09/01/man-pleads-guilty-to-threatening-georgia-public-officials-over-2020-election/man-pleads-guilty-to-threatening-georgia-public-officials-over-2020-election.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/tech/2023/09/01/judge-temporarily-blocks-arkansas-parental-social-media-consent-law/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-09-01T01:22:00.000Z</news:publication_date>
+          <news:title>Judge temporarily blocks Arkansas parental social media consent law</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/tech/2023/09/01/judge-temporarily-blocks-arkansas-parental-social-media-consent-law/judge-temporarily-blocks-arkansas-parental-social-media-consent-law.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
         <loc>https://majordigest.com/tech/2023/08/31/delta-air-lines-says-it-has-protected-its-planes-against-interference-from-5g-wireless-signals/</loc>
         <news:news>
           <news:publication>
@@ -129,20 +157,6 @@
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/tech/2023/08/31/biden-administration-offers-12b-to-convert-auto-factories-into-ev-plants/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-31T16:23:27.000Z</news:publication_date>
-          <news:title>Biden administration offers $12B to convert auto factories into EV plants</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/tech/2023/08/31/biden-administration-offers-12b-to-convert-auto-factories-into-ev-plants/biden-administration-offers-12b-to-convert-auto-factories-into-ev-plants.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
         <loc>https://majordigest.com/tech/2023/08/31/all-we-want-is-revenge-how-social-media-fuels-gun-violence-among-teens/</loc>
         <news:news>
           <news:publication>
@@ -227,20 +241,6 @@
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/tech/2023/08/31/looming-auto-strike-puts-bidens-labor-loyalty-to-the-test/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-31T10:00:00.000Z</news:publication_date>
-          <news:title>Looming auto strike puts Biden's labor loyalty to the test</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/tech/2023/08/31/looming-auto-strike-puts-bidens-labor-loyalty-to-the-test/looming-auto-strike-puts-bidens-labor-loyalty-to-the-test.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
         <loc>https://majordigest.com/tech/2023/08/31/chinas-baidu-makes-ai-chatbot-ernie-bot-publicly-available/</loc>
         <news:news>
           <news:publication>
@@ -280,6 +280,34 @@
         </news:news>
         <image:image>
           <image:loc>https://majordigest.com/tech/2023/08/31/japans-pm-visits-fish-market-vows-to-help-fisheries-hit-by-china-ban-over-fukushima-water-release/japans-pm-visits-fish-market-vows-to-help-fisheries-hit-by-china-ban-over-fukushima-water-release.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/tech/2023/08/30/west-point-time-capsule-that-appeared-to-contain-nothing-more-than-silt-yields-centuries-old-coins/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-30T22:19:49.000Z</news:publication_date>
+          <news:title>West Point time capsule that appeared to contain nothing more than silt yields centuries-old coins</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/tech/2023/08/30/west-point-time-capsule-that-appeared-to-contain-nothing-more-than-silt-yields-centuries-old-coins/west-point-time-capsule-that-appeared-to-contain-nothing-more-than-silt-yields-centuries-old-coins.webp</image:loc>
+        </image:image>
+      </url>
+      <url>
+        <loc>https://majordigest.com/tech/2023/08/30/study-job-applicants-mental-health/</loc>
+        <news:news>
+          <news:publication>
+            <news:name>Major Digest</news:name>
+            <news:language>en</news:language>
+          </news:publication>
+          <news:publication_date>2023-08-30T21:56:33.000Z</news:publication_date>
+          <news:title>Study: Job applicants with mental health posts viewed differently</news:title>
+        </news:news>
+        <image:image>
+          <image:loc>https://majordigest.com/tech/2023/08/30/study-job-applicants-mental-health/study-job-applicants-mental-health.webp</image:loc>
         </image:image>
       </url>
       <url>
@@ -353,20 +381,6 @@
         </image:image>
       </url>
       <url>
-        <loc>https://majordigest.com/tech/2023/08/30/indonesia-arrests-88-chinese-nationals-in-online-romance-scams/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-30T13:21:49.000Z</news:publication_date>
-          <news:title>Indonesia arrests 88 Chinese nationals over online romance scams</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/tech/2023/08/30/indonesia-arrests-88-chinese-nationals-in-online-romance-scams/indonesia-arrests-88-chinese-nationals-in-online-romance-scams.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
         <loc>https://majordigest.com/tech/2023/08/30/amazon-ceo-says-its-probably-not-going-work-out-for-employees-who-defy-return-to-office-policy/</loc>
         <news:news>
           <news:publication>
@@ -406,20 +420,6 @@
         </news:news>
         <image:image>
           <image:loc>https://majordigest.com/tech/2023/08/29/16-attorneys-general-sec-audit-shein-forced-labor/16-attorneys-general-sec-audit-shein-forced-labor.webp</image:loc>
-        </image:image>
-      </url>
-      <url>
-        <loc>https://majordigest.com/tech/2023/08/29/un-warns-hundreds-of-thousands-in-southeast-asia-roped-into-online-scams/</loc>
-        <news:news>
-          <news:publication>
-            <news:name>Major Digest</news:name>
-            <news:language>en</news:language>
-          </news:publication>
-          <news:publication_date>2023-08-29T20:43:59.000Z</news:publication_date>
-          <news:title>UN warns that hundreds of thousands in Southeast Asia have been roped into online scams</news:title>
-        </news:news>
-        <image:image>
-          <image:loc>https://majordigest.com/tech/2023/08/29/un-warns-hundreds-of-thousands-in-southeast-asia-roped-into-online-scams/un-warns-hundreds-of-thousands-in-southeast-asia-roped-into-online-scams.webp</image:loc>
         </image:image>
       </url>
       <url>
